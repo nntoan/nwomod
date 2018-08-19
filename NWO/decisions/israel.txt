@@ -1,175 +1,175 @@
 political_decisions = {
 
-	us_israel_relations = {
-		picture = "us_israel_relations"
-		# us_israel_relations_title;Israel–United States relations
-		# us_israel_relations_desc;Bilateral relations have evolved from an initial US policy of sympathy and support for the creation of a Jewish homeland in 1948 to an unusual partnership that links a small but militarily powerful Israel, dependent on the United States for its economic and military strength, with the American superpower trying to balance other competing interests in the region. Others maintain that Israel is a strategic ally, and that US relations with Israel strengthen the US presence in the Middle East.[1] Israel is one of the United States' two original major non-NATO allies in the Middle East. The main expression of Congressional support for Israel has been foreign aid. . We shall foster a good relation with the US and lobby the congress for support.
-		potential = {
-			tag = ISR
-			USA = { has_country_modifier = support_zionism }
-			NOT = { has_country_modifier = us_israel_relations }
-		}
-		allow = {
-			USA = { money = 90000 }
-			OR = { relation = { who = USA value = 150 } AND = { ai = yes USA = { ai = yes } } }
-			government = democracy
-			OR = { 
-				AND = { compulsory_secondary_education = 1 NOT = { year = 1950 } }
-				AND = { tripartite_system = 1 NOT = { year = 1960 } }
-				AND = { credit_rating_agency = 1 NOT = { year = 1970 } }
-				AND = { atom_bomb = 1 NOT = { year = 1980 } }
-				AND = { preschool_education = 1 NOT = { year = 1990 } }
-				AND = { new_synthesis = 1 NOT = { year = 2000 } }
-				AND = { e_learning = 1 NOT = { year = 2010 } }
-			}
-		}
-		effect = {
-			prestige = 10
-			add_country_modifier = { name = us_israel_relations duration = 1750 } # 5 years
-			USA = { country_event = 44201 }
-		}
-		ai_will_do = { factor = 1 }
-	}
-	
-	form_palestine = {
-		picture = "form_palestine"
-		potential = {
-			NOT = { tag = GAZ }
-			NOT = { tag = PAL }
-			NOT = { tag = UAR }
-			NOT = { tag = ISI }
-			NOT = { tag = XAL }
-			NOT = { tag = XGC }
-			NOT = { tag = XUM }
-			primary_culture = sunni_arab
-			OR = {
-				owns = 918 # West Bank
-				owns = 919 # Tel Aviv
-				owns = 920 # Gaza
-				owns = 917 # Jerusalem
-			}
-		}
-		allow = {
-			war = no
-			ISR = { exists = no }
-		}
-		effect = {
-			prestige = 10
-			random_country = { 
-				limit = { 
-					NOT = { exists = PAL } 
-					tag = THIS 
-				} 
-				release_vassal = PAL
-			}
-			any_owned = {
-				limit = { is_core = PAL }
-				secede_province = PAL
-			}
-		}
-		ai_will_do = { factor = 1 modifier = { factor = 0 exists = PAL owns = 917 } }
-	}
-
-	form_sanhedrin = {
-		picture = "form_sanhedrin"
-
-		potential = {
-			tag = ISR
-		}
-		  
-		allow = {
-			pop_majority_culture = haredim_jewish
-			accepted_culture  = haredim_jewish
-			government = democracy
-			religious_policy = moralism
-		}
-		  
-		effect = {
-			badboy = 10
-			government = theocracy country_event = 800051
-			religion = jewish
-			primary_culture = haredim_jewish
-			add_accepted_culture = jewish
-			set_country_flag = sanhedrin
-		}
-			  
-		ai_will_do = { factor = 1 }
-  
-	}
-  
-
-	third_temple = {
-        picture = "third_temple"
-
-        potential = {
-            tag = ISR
-            has_country_flag = sanhedrin
-			NOT = { has_country_flag = third_temple_rebuilt }
-        }
-      
-        allow = {
-			917 = { is_capital = yes owned_by = ISR } 
-			religion = jewish
-            money = 1000000
-        }
-      
-        effect = {
-            prestige = 20
-            badboy = 10
-            set_country_flag = third_temple_rebuilt
-			any_country = { limit = { OR = { religion = sunni religion = shiite } } relation = { who = THIS value = -200 } }
-        }
-          
-        ai_will_do = { factor = 1 }
-  
+  us_israel_relations = {
+    picture = "us_israel_relations"
+    # us_israel_relations_title;Israel–United States relations
+    # us_israel_relations_desc;Bilateral relations have evolved from an initial US policy of sympathy and support for the creation of a Jewish homeland in 1948 to an unusual partnership that links a small but militarily powerful Israel, dependent on the United States for its economic and military strength, with the American superpower trying to balance other competing interests in the region. Others maintain that Israel is a strategic ally, and that US relations with Israel strengthen the US presence in the Middle East.[1] Israel is one of the United States' two original major non-NATO allies in the Middle East. The main expression of Congressional support for Israel has been foreign aid. . We shall foster a good relation with the US and lobby the congress for support.
+    potential = {
+      tag = ISR
+      USA = { has_country_modifier = support_zionism }
+      NOT = { has_country_modifier = us_israel_relations }
     }
-  
-	shabbat_laws = {
-        picture = "shabbat_laws" 
+    allow = {
+      USA = { money = 90000 }
+      OR = { relation = { who = USA value = 150 } AND = { ai = yes USA = { ai = yes } } }
+      government = democracy
+      OR = {
+        AND = { compulsory_secondary_education = 1 NOT = { year = 1950 } }
+        AND = { tripartite_system = 1 NOT = { year = 1960 } }
+        AND = { credit_rating_agency = 1 NOT = { year = 1970 } }
+        AND = { atom_bomb = 1 NOT = { year = 1980 } }
+        AND = { preschool_education = 1 NOT = { year = 1990 } }
+        AND = { new_synthesis = 1 NOT = { year = 2000 } }
+        AND = { e_learning = 1 NOT = { year = 2010 } }
+      }
+    }
+    effect = {
+      prestige = 10
+      add_country_modifier = { name = us_israel_relations duration = 1750 } # 5 years
+      USA = { country_event = 44201 }
+    }
+    ai_will_do = { factor = 1 }
+  }
 
-        potential = {
-            tag = ISR
-            has_country_flag = sanhedrin
-			NOT = { has_country_flag = shabbat_laws }			
+  form_palestine = {
+    picture = "form_palestine"
+    potential = {
+      NOT = { tag = GAZ }
+      NOT = { tag = PAL }
+      NOT = { tag = UAR }
+      NOT = { tag = ISI }
+      NOT = { tag = XAL }
+      NOT = { tag = XGC }
+      NOT = { tag = XUM }
+      primary_culture = sunni_arab
+      OR = {
+        owns = 918 # West Bank
+        owns = 919 # Tel Aviv
+        owns = 920 # Gaza
+        owns = 917 # Jerusalem
+      }
+    }
+    allow = {
+      war = no
+      ISR = { exists = no }
+    }
+    effect = {
+      prestige = 10
+      random_country = {
+        limit = {
+          NOT = { exists = PAL }
+          tag = THIS
         }
-      
-        allow = {
-			religious_policy = moralism
-			moralism = 50
-        }
-      
-        effect = {
-            badboy = 10
-            government = theocracy 
-            religion = jewish  
-			set_country_flag = shabbat_laws
-        }
-          
-        ai_will_do = { factor = 1 }
-	}
-	
-	claims_conference = {
-		picture = "claims_conference"
+        release_vassal = PAL
+      }
+      any_owned = {
+        limit = { is_core = PAL }
+        secede_province = PAL
+      }
+    }
+    ai_will_do = { factor = 1 modifier = { factor = 0 exists = PAL owns = 917 } }
+  }
 
-		potential = {
-            tag = ISR
-			exists = GER
-			GER = { money = 300000 }
-			NOT = { has_country_flag = claims_conference }			
-        }
-      
-        allow = {
-			cold_war = 1
-        }
-      
-        effect = {
-			prestige = 10
-			GER = { country_event = 8004326 }
-			set_country_flag = claims_conference        
-		}
-          
-        ai_will_do = { factor = 1 }
-	}		
-		
-	
+  form_sanhedrin = {
+    picture = "form_sanhedrin"
+
+    potential = {
+      tag = ISR
+    }
+
+    allow = {
+      pop_majority_culture = haredim_jewish
+      accepted_culture  = haredim_jewish
+      government = democracy
+      religious_policy = moralism
+    }
+
+    effect = {
+      badboy = 10
+      government = theocracy country_event = 800051
+      religion = jewish
+      primary_culture = haredim_jewish
+      add_accepted_culture = jewish
+      set_country_flag = sanhedrin
+    }
+
+    ai_will_do = { factor = 1 }
+
+  }
+
+
+  third_temple = {
+    picture = "third_temple"
+
+    potential = {
+      tag = ISR
+      has_country_flag = sanhedrin
+      NOT = { has_country_flag = third_temple_rebuilt }
+    }
+
+    allow = {
+      917 = { is_capital = yes owned_by = ISR }
+      religion = jewish
+      money = 1000000
+    }
+
+    effect = {
+      prestige = 20
+      badboy = 10
+      set_country_flag = third_temple_rebuilt
+      any_country = { limit = { OR = { religion = sunni religion = shiite } } relation = { who = THIS value = -200 } }
+    }
+
+    ai_will_do = { factor = 1 }
+
+  }
+
+  shabbat_laws = {
+    picture = "shabbat_laws"
+
+    potential = {
+      tag = ISR
+      has_country_flag = sanhedrin
+      NOT = { has_country_flag = shabbat_laws }
+    }
+
+    allow = {
+      religious_policy = moralism
+      moralism = 50
+    }
+
+    effect = {
+      badboy = 10
+      government = theocracy
+      religion = jewish
+      set_country_flag = shabbat_laws
+    }
+
+    ai_will_do = { factor = 1 }
+  }
+
+  claims_conference = {
+    picture = "claims_conference"
+
+    potential = {
+      tag = ISR
+      exists = GER
+      GER = { money = 300000 }
+      NOT = { has_country_flag = claims_conference }
+    }
+
+    allow = {
+      cold_war = 1
+    }
+
+    effect = {
+      prestige = 10
+      GER = { country_event = 8004326 }
+      set_country_flag = claims_conference
+    }
+
+    ai_will_do = { factor = 1 }
+  }
+
+
 }

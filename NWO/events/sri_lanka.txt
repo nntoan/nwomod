@@ -10,28 +10,28 @@ country_event = {
     year = 1948 NOT = { year = 1990 }
     exists = HND # independence_of_india.txt
     owns = 1321  # Colombo
-	NOT = { exists = SRL }
+    NOT = { exists = SRL }
   }
 
   mean_time_to_happen = { months = 2 }
 
   option = {
     name = EVT_8028320_A
-	any_owned = { limit = { is_core = SRL } secede_province = HND } 
-	ai_chance = { factor = 0 }
+    any_owned = { limit = { is_core = SRL } secede_province = HND }
+    ai_chance = { factor = 0 }
   }
 
   option = {
     name = EVT_8028320_B
-	release = SRL 
-	ai_chance = { factor = 100 }
+    release = SRL
+    ai_chance = { factor = 100 }
   }
 
   option = {
     name = EVT_dontliberate
-	any_owned = { limit = { is_core = SRL } any_pop = { militancy = 4   consciousness = 4.0 } } 
-	any_pop = { militancy = 0.3 }
-	ai_chance = { factor = 0 }
+    any_owned = { limit = { is_core = SRL } any_pop = { militancy = 4   consciousness = 4.0 } }
+    any_pop = { militancy = 0.3 }
+    ai_chance = { factor = 0 }
   }
 }
 

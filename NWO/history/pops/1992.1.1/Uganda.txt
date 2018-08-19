@@ -1,301 +1,301 @@
 #Entebbe - Entebbe (3656000/914000 POPS)
 2019 = {
-	officers = {
-		culture = ganda
-		religion =  protestant 
-		size = 2907
-	 } 
-	officers = {
-		culture = ganda
-		religion = secularism
-		size = 153
-	 } 
-	soldiers = {
-		culture = ganda
-		religion =  protestant 
-		size = 55266
-	 } 
-	soldiers = {
-		culture = ganda
-		religion = secularism
-		size = 2908
-	 } 
-	aristocrats = {
-		culture = ganda
-		religion =  protestant 
-		size = 34732
-	 } 
-	aristocrats = {
-		culture = ganda
-		religion = secularism
-		size = 1828
-	 } 
-	bureaucrats = {
-		culture = ganda
-		religion =  protestant 
-		size = 868
-	 } 
-	bureaucrats = {
-		culture = ganda
-		religion = secularism
-		size = 45
-	 } 
-	capitalists = {
-		culture = ganda
-		religion =  protestant 
-		size = 4341
-	 } 
-	capitalists = {
-		culture = ganda
-		religion = secularism
-		size = 228
-	 } 
-	clergymen = {
-		culture = ganda
-		religion =  protestant 
-		size = 17366
-	 } 
-	clergymen = {
-		culture = ganda
-		religion = secularism
-		size = 914
-	 } 
-	clerks = {
-		culture = ganda
-		religion =  protestant 
-		size = 4721
-	 } 
-	clerks = {
-		culture = ganda
-		religion = secularism
-		size = 248
-	 } 
-	artisans = {
-		culture = ganda
-		religion =  protestant 
-		size = 4484
-	 } 
-	artisans = {
-		culture = ganda
-		religion = secularism
-		size = 236
-	 } 
-	craftsmen = {
-		culture = ganda
-		religion =  protestant 
-		size = 14164
-	 } 
-	craftsmen = {
-		culture = ganda
-		religion = secularism
-		size = 745
-	 } 
-	farmers = {
-		culture = ganda
-		religion =  protestant 
-		size = 399493
-	 } 
-	farmers = {
-		culture = ganda
-		religion = secularism
-		size = 21025
-	 } 
-	farmers = {
-		culture = african_minor
-		religion =  catholic 
-		size = 329954
-	 } 
-	farmers = {
-		culture = african_minor
-		religion = secularism
-		size = 17366
-	 } 
+  officers = {
+    culture = ganda
+    religion =  protestant
+    size = 2907
+  }
+  officers = {
+    culture = ganda
+    religion = secularism
+    size = 153
+  }
+  soldiers = {
+    culture = ganda
+    religion =  protestant
+    size = 55266
+  }
+  soldiers = {
+    culture = ganda
+    religion = secularism
+    size = 2908
+  }
+  aristocrats = {
+    culture = ganda
+    religion =  protestant
+    size = 34732
+  }
+  aristocrats = {
+    culture = ganda
+    religion = secularism
+    size = 1828
+  }
+  bureaucrats = {
+    culture = ganda
+    religion =  protestant
+    size = 868
+  }
+  bureaucrats = {
+    culture = ganda
+    religion = secularism
+    size = 45
+  }
+  capitalists = {
+    culture = ganda
+    religion =  protestant
+    size = 4341
+  }
+  capitalists = {
+    culture = ganda
+    religion = secularism
+    size = 228
+  }
+  clergymen = {
+    culture = ganda
+    religion =  protestant
+    size = 17366
+  }
+  clergymen = {
+    culture = ganda
+    religion = secularism
+    size = 914
+  }
+  clerks = {
+    culture = ganda
+    religion =  protestant
+    size = 4721
+  }
+  clerks = {
+    culture = ganda
+    religion = secularism
+    size = 248
+  }
+  artisans = {
+    culture = ganda
+    religion =  protestant
+    size = 4484
+  }
+  artisans = {
+    culture = ganda
+    religion = secularism
+    size = 236
+  }
+  craftsmen = {
+    culture = ganda
+    religion =  protestant
+    size = 14164
+  }
+  craftsmen = {
+    culture = ganda
+    religion = secularism
+    size = 745
+  }
+  farmers = {
+    culture = ganda
+    religion =  protestant
+    size = 399493
+  }
+  farmers = {
+    culture = ganda
+    religion = secularism
+    size = 21025
+  }
+  farmers = {
+    culture = african_minor
+    religion =  catholic
+    size = 329954
+  }
+  farmers = {
+    culture = african_minor
+    religion = secularism
+    size = 17366
+  }
 }
 #Mbarara - Mbarara (3457000/864250 POPS)
 2020 = {
-	clergymen = {
-		culture = nyakole
-		religion =  protestant 
-		size = 16420
-	 } 
-	clergymen = {
-		culture = nyakole
-		religion = secularism
-		size = 864
-	 } 
-	farmers = {
-		culture = nyakole
-		religion =  protestant 
-		size = 410518
-	 } 
-	farmers = {
-		culture = nyakole
-		religion = secularism
-		size = 21606
-	 } 
-	farmers = {
-		culture = kiga
-		religion =  protestant 
-		size = 82103
-	 } 
-	farmers = {
-		culture = kiga
-		religion = secularism
-		size = 4321
-	 } 
-	farmers = {
-		culture = african_minor
-		religion =  catholic 
-		size = 311994
-	 } 
-	farmers = {
-		culture = african_minor
-		religion = secularism
-		size = 16420
-	 } 
+  clergymen = {
+    culture = nyakole
+    religion =  protestant
+    size = 16420
+  }
+  clergymen = {
+    culture = nyakole
+    religion = secularism
+    size = 864
+  }
+  farmers = {
+    culture = nyakole
+    religion =  protestant
+    size = 410518
+  }
+  farmers = {
+    culture = nyakole
+    religion = secularism
+    size = 21606
+  }
+  farmers = {
+    culture = kiga
+    religion =  protestant
+    size = 82103
+  }
+  farmers = {
+    culture = kiga
+    religion = secularism
+    size = 4321
+  }
+  farmers = {
+    culture = african_minor
+    religion =  catholic
+    size = 311994
+  }
+  farmers = {
+    culture = african_minor
+    religion = secularism
+    size = 16420
+  }
 }
 #Masindi - Masindi (1854000/463500 POPS)
 2021 = {
-	clergymen = {
-		culture = langi
-		religion =  protestant 
-		size = 8806
-	 } 
-	clergymen = {
-		culture = langi
-		religion = secularism
-		size = 463
-	 } 
-	farmers = {
-		culture = langi
-		religion =  protestant 
-		size = 242178
-	 } 
-	farmers = {
-		culture = langi
-		religion = secularism
-		size = 12746
-	 } 
-	farmers = {
-		culture = african_minor
-		religion =  catholic 
-		size = 189339
-	 } 
-	farmers = {
-		culture = african_minor
-		religion = secularism
-		size = 9965
-	 } 
+  clergymen = {
+    culture = langi
+    religion =  protestant
+    size = 8806
+  }
+  clergymen = {
+    culture = langi
+    religion = secularism
+    size = 463
+  }
+  farmers = {
+    culture = langi
+    religion =  protestant
+    size = 242178
+  }
+  farmers = {
+    culture = langi
+    religion = secularism
+    size = 12746
+  }
+  farmers = {
+    culture = african_minor
+    religion =  catholic
+    size = 189339
+  }
+  farmers = {
+    culture = african_minor
+    religion = secularism
+    size = 9965
+  }
 }
 #Kitgum - Kitgum (1854000/463500 POPS)
 2022 = {
-	clergymen = {
-		culture = african_minor
-		religion =  catholic 
-		size = 8806
-	 } 
-	clergymen = {
-		culture = african_minor
-		religion = secularism
-		size = 463
-	 } 
-	farmers = {
-		culture = african_minor
-		religion =  catholic 
-		size = 431518
-	 } 
-	farmers = {
-		culture = african_minor
-		religion = secularism
-		size = 22711
-	 } 
+  clergymen = {
+    culture = african_minor
+    religion =  catholic
+    size = 8806
+  }
+  clergymen = {
+    culture = african_minor
+    religion = secularism
+    size = 463
+  }
+  farmers = {
+    culture = african_minor
+    religion =  catholic
+    size = 431518
+  }
+  farmers = {
+    culture = african_minor
+    religion = secularism
+    size = 22711
+  }
 }
 #Jinja - Jinja (4471000/1117750 POPS)
 2023 = {
-	clergymen = {
-		culture = soga
-		religion =  sunni 
-		size = 22355
-	 } 
-	farmers = {
-		culture = soga
-		religion =  sunni 
-		size = 346502
-	 } 
-	farmers = {
-		culture = iteso
-		religion =  protestant 
-		size = 265465
-	 } 
-	farmers = {
-		culture = iteso
-		religion = secularism
-		size = 13971
-	 } 
-	farmers = {
-		culture = african_minor
-		religion =  catholic 
-		size = 445982
-	 } 
-	farmers = {
-		culture = african_minor
-		religion = secularism
-		size = 23472
-	 } 
+  clergymen = {
+    culture = soga
+    religion =  sunni
+    size = 22355
+  }
+  farmers = {
+    culture = soga
+    religion =  sunni
+    size = 346502
+  }
+  farmers = {
+    culture = iteso
+    religion =  protestant
+    size = 265465
+  }
+  farmers = {
+    culture = iteso
+    religion = secularism
+    size = 13971
+  }
+  farmers = {
+    culture = african_minor
+    religion =  catholic
+    size = 445982
+  }
+  farmers = {
+    culture = african_minor
+    religion = secularism
+    size = 23472
+  }
 }
 #Songo - Kigezi (1080000/270000 POPS)
 2055 = {
-	clergymen = {
-		culture = kiga
-		religion =  protestant 
-		size = 5130
-	 } 
-	clergymen = {
-		culture = kiga
-		religion = secularism
-		size = 270
-	 } 
-	farmers = {
-		culture = kiga
-		religion =  protestant 
-		size = 220590
-	 } 
-	farmers = {
-		culture = kiga
-		religion = secularism
-		size = 11610
-	 } 
-	farmers = {
-		culture = tutsi
-		religion =  catholic 
-		size = 30780
-	 } 
-	farmers = {
-		culture = tutsi
-		religion = secularism
-		size = 1620
-	 } 
+  clergymen = {
+    culture = kiga
+    religion =  protestant
+    size = 5130
+  }
+  clergymen = {
+    culture = kiga
+    religion = secularism
+    size = 270
+  }
+  farmers = {
+    culture = kiga
+    religion =  protestant
+    size = 220590
+  }
+  farmers = {
+    culture = kiga
+    religion = secularism
+    size = 11610
+  }
+  farmers = {
+    culture = tutsi
+    religion =  catholic
+    size = 30780
+  }
+  farmers = {
+    culture = tutsi
+    religion = secularism
+    size = 1620
+  }
 }
 #Zombo - Bunyoro (1080000/270000 POPS)
 2056 = {
-	clergymen = {
-		culture = african_minor
-		religion =  catholic 
-		size = 5130
-	 } 
-	clergymen = {
-		culture = african_minor
-		religion = secularism
-		size = 270
-	 } 
-	farmers = {
-		culture = african_minor
-		religion =  catholic 
-		size = 251370
-	 } 
-	farmers = {
-		culture = african_minor
-		religion = secularism
-		size = 13230
-	 } 
+  clergymen = {
+    culture = african_minor
+    religion =  catholic
+    size = 5130
+  }
+  clergymen = {
+    culture = african_minor
+    religion = secularism
+    size = 270
+  }
+  farmers = {
+    culture = african_minor
+    religion =  catholic
+    size = 251370
+  }
+  farmers = {
+    culture = african_minor
+    religion = secularism
+    size = 13230
+  }
 }

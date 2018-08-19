@@ -8,25 +8,25 @@ life_rating = 23
 terrain = deciduous_forest_hills
 colonial = 0
 state_building = {
-	level = 1
-	building = petrochemicals_factory
-	upgrade = yes
+  level = 1
+  building = petrochemicals_factory
+  upgrade = yes
 }
 1992.1.1 = {
-owner = BIH
-controller = BIH
-add_core = BIH
-add_core = HZB
-add_core = YUG
-colonial = 0
-state_building = {
-	level = 1
-	building = heating_electricity_factory
-	upgrade = yes
-}
-state_building = {
-	level = 1
-	building = petrochemicals_factory
-	upgrade = yes
-}
+  owner = BIH
+  controller = BIH
+  add_core = BIH
+  add_core = HZB
+  add_core = YUG
+  colonial = 0
+  state_building = {
+    level = 1
+    building = heating_electricity_factory
+    upgrade = yes
+  }
+  state_building = {
+    level = 1
+    building = petrochemicals_factory
+    upgrade = yes
+  }
 }

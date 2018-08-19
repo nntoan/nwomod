@@ -1,93 +1,93 @@
 #Iceland - Iceland (143000/35750 POPS)
 252 = {
-	aristocrats = {
-		culture = icelandic
-		religion =  protestant 
-		size = 1215
-	 } 
-	aristocrats = {
-		culture = icelandic
-		religion = secularism
-		size = 214
-	 } 
-	bureaucrats = {
-		culture = icelandic
-		religion =  protestant 
-		size = 60
-	 } 
-	bureaucrats = {
-		culture = icelandic
-		religion = secularism
-		size = 10
-	 } 
-	capitalists = {
-		culture = icelandic
-		religion =  protestant 
-		size = 151
-	 } 
-	capitalists = {
-		culture = icelandic
-		religion = secularism
-		size = 26
-	 } 
-	clergymen = {
-		culture = icelandic
-		religion =  protestant 
-		size = 607
-	 } 
-	clergymen = {
-		culture = icelandic
-		religion = secularism
-		size = 107
-	 } 
-	clerks = {
-		culture = icelandic
-		religion =  protestant 
-		size = 906
-	 } 
-	clerks = {
-		culture = icelandic
-		religion = secularism
-		size = 160
-	 } 
-	artisans = {
-		culture = icelandic
-		religion =  protestant 
-		size = 861
-	 } 
-	artisans = {
-		culture = icelandic
-		religion = secularism
-		size = 151
-	 } 
-	craftsmen = {
-		culture = icelandic
-		religion =  protestant 
-		size = 2720
-	 } 
-	craftsmen = {
-		culture = icelandic
-		religion = secularism
-		size = 480
-	 } 
-	farmers = {
-		culture = icelandic
-		religion =  protestant 
-		size = 22040
-	 } 
-	farmers = {
-		culture = icelandic
-		religion = secularism
-		size = 3889
-	 } 
-	farmers = {
-		culture = polish
-		religion =  catholic 
-		size = 1823
-	 } 
-	farmers = {
-		culture = polish
-		religion = secularism
-		size = 321
-	 } 
+  aristocrats = {
+    culture = icelandic
+    religion =  protestant
+    size = 1215
+  }
+  aristocrats = {
+    culture = icelandic
+    religion = secularism
+    size = 214
+  }
+  bureaucrats = {
+    culture = icelandic
+    religion =  protestant
+    size = 60
+  }
+  bureaucrats = {
+    culture = icelandic
+    religion = secularism
+    size = 10
+  }
+  capitalists = {
+    culture = icelandic
+    religion =  protestant
+    size = 151
+  }
+  capitalists = {
+    culture = icelandic
+    religion = secularism
+    size = 26
+  }
+  clergymen = {
+    culture = icelandic
+    religion =  protestant
+    size = 607
+  }
+  clergymen = {
+    culture = icelandic
+    religion = secularism
+    size = 107
+  }
+  clerks = {
+    culture = icelandic
+    religion =  protestant
+    size = 906
+  }
+  clerks = {
+    culture = icelandic
+    religion = secularism
+    size = 160
+  }
+  artisans = {
+    culture = icelandic
+    religion =  protestant
+    size = 861
+  }
+  artisans = {
+    culture = icelandic
+    religion = secularism
+    size = 151
+  }
+  craftsmen = {
+    culture = icelandic
+    religion =  protestant
+    size = 2720
+  }
+  craftsmen = {
+    culture = icelandic
+    religion = secularism
+    size = 480
+  }
+  farmers = {
+    culture = icelandic
+    religion =  protestant
+    size = 22040
+  }
+  farmers = {
+    culture = icelandic
+    religion = secularism
+    size = 3889
+  }
+  farmers = {
+    culture = polish
+    religion =  catholic
+    size = 1823
+  }
+  farmers = {
+    culture = polish
+    religion = secularism
+    size = 321
+  }
 }

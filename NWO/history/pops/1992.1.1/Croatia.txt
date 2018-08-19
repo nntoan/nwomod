@@ -1,478 +1,478 @@
 #Pola - Pazin (240000/60000 POPS)
 770 = {
-	clergymen = {
-		culture = croat
-		religion =  catholic 
-		size = 852
-	 } 
-	clergymen = {
-		culture = croat
-		religion = secularism
-		size = 348
-	 } 
-	farmers = {
-		culture = croat
-		religion =  catholic 
-		size = 38340
-	 } 
-	farmers = {
-		culture = croat
-		religion = secularism
-		size = 15659
-	 } 
-	farmers = {
-		culture = italian
-		religion =  catholic 
-		size = 3408
-	 } 
-	farmers = {
-		culture = italian
-		religion = secularism
-		size = 1392
-	 } 
+  clergymen = {
+    culture = croat
+    religion =  catholic
+    size = 852
+  }
+  clergymen = {
+    culture = croat
+    religion = secularism
+    size = 348
+  }
+  farmers = {
+    culture = croat
+    religion =  catholic
+    size = 38340
+  }
+  farmers = {
+    culture = croat
+    religion = secularism
+    size = 15659
+  }
+  farmers = {
+    culture = italian
+    religion =  catholic
+    size = 3408
+  }
+  farmers = {
+    culture = italian
+    religion = secularism
+    size = 1392
+  }
 }
 #Zagreb - Zagreb, Karpina (1438000/359500 POPS)
 771 = {
-	officers = {
-		culture = croat
-		religion =  catholic 
-		size = 396
-	 } 
-	officers = {
-		culture = croat
-		religion = secularism
-		size = 162
-	 } 
-	soldiers = {
-		culture = croat
-		religion =  catholic 
-		size = 7550
-	 } 
-	soldiers = {
-		culture = croat
-		religion = secularism
-		size = 3084
-	 } 
-	aristocrats = {
-		culture = croat
-		religion =  catholic 
-		size = 6380
-	 } 
-	aristocrats = {
-		culture = croat
-		religion = secularism
-		size = 2606
-	 } 
-	bureaucrats = {
-		culture = croat
-		religion =  catholic 
-		size = 1275
-	 } 
-	bureaucrats = {
-		culture = croat
-		religion = secularism
-		size = 521
-	 } 
-	capitalists = {
-		culture = croat
-		religion =  catholic 
-		size = 1531
-	 } 
-	capitalists = {
-		culture = croat
-		religion = secularism
-		size = 625
-	 } 
-	clergymen = {
-		culture = croat
-		religion =  catholic 
-		size = 5104
-	 } 
-	clergymen = {
-		culture = croat
-		religion = secularism
-		size = 2085
-	 } 
-	clerks = {
-		culture = croat
-		religion =  catholic 
-		size = 5397
-	 } 
-	clerks = {
-		culture = croat
-		religion = secularism
-		size = 2204
-	 } 
-	artisans = {
-		culture = croat
-		religion =  catholic 
-		size = 5126
-	 } 
-	artisans = {
-		culture = croat
-		religion = secularism
-		size = 2094
-	 } 
-	craftsmen = {
-		culture = croat
-		religion =  catholic 
-		size = 16192
-	 } 
-	craftsmen = {
-		culture = croat
-		religion = secularism
-		size = 6613
-	 } 
-	farmers = {
-		culture = croat
-		religion =  catholic 
-		size = 175658
-	 } 
-	farmers = {
-		culture = croat
-		religion = secularism
-		size = 71747
-	 } 
-	farmers = {
-		culture = roma
-		religion =  orthodox 
-		size = 2552
-	 } 
-	farmers = {
-		culture = roma
-		religion = secularism
-		size = 1042
-	 } 
-	farmers = {
-		culture = bosniak
-		religion =  sunni 
-		size = 10785
-	 } 
-	farmers = {
-		culture = yugoslav
-		religion =  orthodox 
-		size = 20419
-	 } 
-	farmers = {
-		culture = yugoslav
-		religion = secularism
-		size = 8340
-	 } 
+  officers = {
+    culture = croat
+    religion =  catholic
+    size = 396
+  }
+  officers = {
+    culture = croat
+    religion = secularism
+    size = 162
+  }
+  soldiers = {
+    culture = croat
+    religion =  catholic
+    size = 7550
+  }
+  soldiers = {
+    culture = croat
+    religion = secularism
+    size = 3084
+  }
+  aristocrats = {
+    culture = croat
+    religion =  catholic
+    size = 6380
+  }
+  aristocrats = {
+    culture = croat
+    religion = secularism
+    size = 2606
+  }
+  bureaucrats = {
+    culture = croat
+    religion =  catholic
+    size = 1275
+  }
+  bureaucrats = {
+    culture = croat
+    religion = secularism
+    size = 521
+  }
+  capitalists = {
+    culture = croat
+    religion =  catholic
+    size = 1531
+  }
+  capitalists = {
+    culture = croat
+    religion = secularism
+    size = 625
+  }
+  clergymen = {
+    culture = croat
+    religion =  catholic
+    size = 5104
+  }
+  clergymen = {
+    culture = croat
+    religion = secularism
+    size = 2085
+  }
+  clerks = {
+    culture = croat
+    religion =  catholic
+    size = 5397
+  }
+  clerks = {
+    culture = croat
+    religion = secularism
+    size = 2204
+  }
+  artisans = {
+    culture = croat
+    religion =  catholic
+    size = 5126
+  }
+  artisans = {
+    culture = croat
+    religion = secularism
+    size = 2094
+  }
+  craftsmen = {
+    culture = croat
+    religion =  catholic
+    size = 16192
+  }
+  craftsmen = {
+    culture = croat
+    religion = secularism
+    size = 6613
+  }
+  farmers = {
+    culture = croat
+    religion =  catholic
+    size = 175658
+  }
+  farmers = {
+    culture = croat
+    religion = secularism
+    size = 71747
+  }
+  farmers = {
+    culture = roma
+    religion =  orthodox
+    size = 2552
+  }
+  farmers = {
+    culture = roma
+    religion = secularism
+    size = 1042
+  }
+  farmers = {
+    culture = bosniak
+    religion =  sunni
+    size = 10785
+  }
+  farmers = {
+    culture = yugoslav
+    religion =  orthodox
+    size = 20419
+  }
+  farmers = {
+    culture = yugoslav
+    religion = secularism
+    size = 8340
+  }
 }
 #Karlovac - Karlovac (148000/37000 POPS)
 773 = {
-	clergymen = {
-		culture = croat
-		religion =  catholic 
-		size = 525
-	 } 
-	clergymen = {
-		culture = croat
-		religion = secularism
-		size = 214
-	 } 
-	farmers = {
-		culture = croat
-		religion =  catholic 
-		size = 10245
-	 } 
-	farmers = {
-		culture = croat
-		religion = secularism
-		size = 4184
-	 } 
-	farmers = {
-		culture = serb
-		religion =  orthodox 
-		size = 15499
-	 } 
-	farmers = {
-		culture = serb
-		religion = secularism
-		size = 6330
-	 } 
+  clergymen = {
+    culture = croat
+    religion =  catholic
+    size = 525
+  }
+  clergymen = {
+    culture = croat
+    religion = secularism
+    size = 214
+  }
+  farmers = {
+    culture = croat
+    religion =  catholic
+    size = 10245
+  }
+  farmers = {
+    culture = croat
+    religion = secularism
+    size = 4184
+  }
+  farmers = {
+    culture = serb
+    religion =  orthodox
+    size = 15499
+  }
+  farmers = {
+    culture = serb
+    religion = secularism
+    size = 6330
+  }
 }
 #Varadzin - Varadzin, Cakovec, Koprivnica (484000/121000 POPS)
 775 = {
-	clergymen = {
-		culture = croat
-		religion =  catholic 
-		size = 1718
-	 } 
-	clergymen = {
-		culture = croat
-		religion = secularism
-		size = 701
-	 } 
-	farmers = {
-		culture = croat
-		religion =  catholic 
-		size = 84191
-	 } 
-	farmers = {
-		culture = croat
-		religion = secularism
-		size = 34388
-	 } 
+  clergymen = {
+    culture = croat
+    religion =  catholic
+    size = 1718
+  }
+  clergymen = {
+    culture = croat
+    religion = secularism
+    size = 701
+  }
+  farmers = {
+    culture = croat
+    religion =  catholic
+    size = 84191
+  }
+  farmers = {
+    culture = croat
+    religion = secularism
+    size = 34388
+  }
 }
 #Bjelovar - Bjelovar, Virovica (235000/58750 POPS)
 776 = {
-	clergymen = {
-		culture = croat
-		religion =  catholic 
-		size = 834
-	 } 
-	clergymen = {
-		culture = croat
-		religion = secularism
-		size = 340
-	 } 
-	farmers = {
-		culture = croat
-		religion =  catholic 
-		size = 13764
-	 } 
-	farmers = {
-		culture = croat
-		religion = secularism
-		size = 5622
-	 } 
-	farmers = {
-		culture = serb
-		religion =  orthodox 
-		size = 27112
-	 } 
-	farmers = {
-		culture = serb
-		religion = secularism
-		size = 11074
-	 } 
+  clergymen = {
+    culture = croat
+    religion =  catholic
+    size = 834
+  }
+  clergymen = {
+    culture = croat
+    religion = secularism
+    size = 340
+  }
+  farmers = {
+    culture = croat
+    religion =  catholic
+    size = 13764
+  }
+  farmers = {
+    culture = croat
+    religion = secularism
+    size = 5622
+  }
+  farmers = {
+    culture = serb
+    religion =  orthodox
+    size = 27112
+  }
+  farmers = {
+    culture = serb
+    religion = secularism
+    size = 11074
+  }
 }
 #Pozega - Pozega, Slavonski Brod (273000/68250 POPS)
 777 = {
-	clergymen = {
-		culture = croat
-		religion =  catholic 
-		size = 969
-	 } 
-	clergymen = {
-		culture = croat
-		religion = secularism
-		size = 395
-	 } 
-	farmers = {
-		culture = croat
-		religion =  catholic 
-		size = 47488
-	 } 
-	farmers = {
-		culture = croat
-		religion = secularism
-		size = 19396
-	 } 
+  clergymen = {
+    culture = croat
+    religion =  catholic
+    size = 969
+  }
+  clergymen = {
+    culture = croat
+    religion = secularism
+    size = 395
+  }
+  farmers = {
+    culture = croat
+    religion =  catholic
+    size = 47488
+  }
+  farmers = {
+    culture = croat
+    religion = secularism
+    size = 19396
+  }
 }
 #Fiume - Rijeka (342000/85500 POPS)
 778 = {
-	clergymen = {
-		culture = croat
-		religion =  catholic 
-		size = 1214
-	 } 
-	clergymen = {
-		culture = croat
-		religion = secularism
-		size = 495
-	 } 
-	farmers = {
-		culture = croat
-		religion =  catholic 
-		size = 59490
-	 } 
-	farmers = {
-		culture = croat
-		religion = secularism
-		size = 24299
-	 } 
+  clergymen = {
+    culture = croat
+    religion =  catholic
+    size = 1214
+  }
+  clergymen = {
+    culture = croat
+    religion = secularism
+    size = 495
+  }
+  farmers = {
+    culture = croat
+    religion =  catholic
+    size = 59490
+  }
+  farmers = {
+    culture = croat
+    religion = secularism
+    size = 24299
+  }
 }
 #Osijek - Osijek (352000/88000 POPS)
 779 = {
-	clergymen = {
-		culture = croat
-		religion =  catholic 
-		size = 1249
-	 } 
-	clergymen = {
-		culture = croat
-		religion = secularism
-		size = 510
-	 } 
-	farmers = {
-		culture = croat
-		religion =  catholic 
-		size = 61230
-	 } 
-	farmers = {
-		culture = croat
-		religion = secularism
-		size = 25009
-	 } 
+  clergymen = {
+    culture = croat
+    religion =  catholic
+    size = 1249
+  }
+  clergymen = {
+    culture = croat
+    religion = secularism
+    size = 510
+  }
+  farmers = {
+    culture = croat
+    religion =  catholic
+    size = 61230
+  }
+  farmers = {
+    culture = croat
+    religion = secularism
+    size = 25009
+  }
 }
 #Split - Split (527000/131750 POPS)
 780 = {
-	officers = {
-		culture = croat
-		religion =  catholic 
-		size = 134
-	 } 
-	officers = {
-		culture = croat
-		religion = secularism
-		size = 54
-	 } 
-	soldiers = {
-		culture = croat
-		religion =  catholic 
-		size = 2558
-	 } 
-	soldiers = {
-		culture = croat
-		religion = secularism
-		size = 1044
-	 } 
-	aristocrats = {
-		culture = croat
-		religion =  catholic 
-		size = 2338
-	 } 
-	aristocrats = {
-		culture = croat
-		religion = secularism
-		size = 954
-	 } 
-	bureaucrats = {
-		culture = croat
-		religion =  catholic 
-		size = 467
-	 } 
-	bureaucrats = {
-		culture = croat
-		religion = secularism
-		size = 190
-	 } 
-	capitalists = {
-		culture = croat
-		religion =  catholic 
-		size = 560
-	 } 
-	capitalists = {
-		culture = croat
-		religion = secularism
-		size = 229
-	 } 
-	clergymen = {
-		culture = croat
-		religion =  catholic 
-		size = 1870
-	 } 
-	clergymen = {
-		culture = croat
-		religion = secularism
-		size = 764
-	 } 
-	clerks = {
-		culture = croat
-		religion =  catholic 
-		size = 1982
-	 } 
-	clerks = {
-		culture = croat
-		religion = secularism
-		size = 809
-	 } 
-	artisans = {
-		culture = croat
-		religion =  catholic 
-		size = 1882
-	 } 
-	artisans = {
-		culture = croat
-		religion = secularism
-		size = 769
-	 } 
-	craftsmen = {
-		culture = croat
-		religion =  catholic 
-		size = 5947
-	 } 
-	craftsmen = {
-		culture = croat
-		religion = secularism
-		size = 2429
-	 } 
-	farmers = {
-		culture = croat
-		religion =  catholic 
-		size = 75800
-	 } 
-	farmers = {
-		culture = croat
-		religion = secularism
-		size = 30960
-	 } 
+  officers = {
+    culture = croat
+    religion =  catholic
+    size = 134
+  }
+  officers = {
+    culture = croat
+    religion = secularism
+    size = 54
+  }
+  soldiers = {
+    culture = croat
+    religion =  catholic
+    size = 2558
+  }
+  soldiers = {
+    culture = croat
+    religion = secularism
+    size = 1044
+  }
+  aristocrats = {
+    culture = croat
+    religion =  catholic
+    size = 2338
+  }
+  aristocrats = {
+    culture = croat
+    religion = secularism
+    size = 954
+  }
+  bureaucrats = {
+    culture = croat
+    religion =  catholic
+    size = 467
+  }
+  bureaucrats = {
+    culture = croat
+    religion = secularism
+    size = 190
+  }
+  capitalists = {
+    culture = croat
+    religion =  catholic
+    size = 560
+  }
+  capitalists = {
+    culture = croat
+    religion = secularism
+    size = 229
+  }
+  clergymen = {
+    culture = croat
+    religion =  catholic
+    size = 1870
+  }
+  clergymen = {
+    culture = croat
+    religion = secularism
+    size = 764
+  }
+  clerks = {
+    culture = croat
+    religion =  catholic
+    size = 1982
+  }
+  clerks = {
+    culture = croat
+    religion = secularism
+    size = 809
+  }
+  artisans = {
+    culture = croat
+    religion =  catholic
+    size = 1882
+  }
+  artisans = {
+    culture = croat
+    religion = secularism
+    size = 769
+  }
+  craftsmen = {
+    culture = croat
+    religion =  catholic
+    size = 5947
+  }
+  craftsmen = {
+    culture = croat
+    religion = secularism
+    size = 2429
+  }
+  farmers = {
+    culture = croat
+    religion =  catholic
+    size = 75800
+  }
+  farmers = {
+    culture = croat
+    religion = secularism
+    size = 30960
+  }
 }
 #Zadar - Zadar, Siberlik (323000/80750 POPS)
 781 = {
-	clergymen = {
-		culture = croat
-		religion =  catholic 
-		size = 1146
-	 } 
-	clergymen = {
-		culture = croat
-		religion = secularism
-		size = 468
-	 } 
-	farmers = {
-		culture = croat
-		religion =  catholic 
-		size = 40705
-	 } 
-	farmers = {
-		culture = croat
-		religion = secularism
-		size = 16626
-	 } 
-	farmers = {
-		culture = serb
-		religion =  orthodox 
-		size = 15479
-	 } 
-	farmers = {
-		culture = serb
-		religion = secularism
-		size = 6322
-	 } 
+  clergymen = {
+    culture = croat
+    religion =  catholic
+    size = 1146
+  }
+  clergymen = {
+    culture = croat
+    religion = secularism
+    size = 468
+  }
+  farmers = {
+    culture = croat
+    religion =  catholic
+    size = 40705
+  }
+  farmers = {
+    culture = croat
+    religion = secularism
+    size = 16626
+  }
+  farmers = {
+    culture = serb
+    religion =  orthodox
+    size = 15479
+  }
+  farmers = {
+    culture = serb
+    religion = secularism
+    size = 6322
+  }
 }
 #Dubrovnik - Dubrovnik (141000/35250 POPS)
 782 = {
-	clergymen = {
-		culture = croat
-		religion =  catholic 
-		size = 500
-	 } 
-	clergymen = {
-		culture = croat
-		religion = secularism
-		size = 204
-	 } 
-	farmers = {
-		culture = croat
-		religion =  catholic 
-		size = 24526
-	 } 
-	farmers = {
-		culture = croat
-		religion = secularism
-		size = 10018
-	 } 
+  clergymen = {
+    culture = croat
+    religion =  catholic
+    size = 500
+  }
+  clergymen = {
+    culture = croat
+    religion = secularism
+    size = 204
+  }
+  farmers = {
+    culture = croat
+    religion =  catholic
+    size = 24526
+  }
+  farmers = {
+    culture = croat
+    religion = secularism
+    size = 10018
+  }
 }

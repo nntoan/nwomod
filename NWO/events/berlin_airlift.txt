@@ -16,27 +16,27 @@ country_event = {
   trigger = {
     tag = USA
     year = 1949
-	NOT = { year = 1990 } 
+    NOT = { year = 1990 }
     exists = DDR
     exists = SUN
-	money = 6000
+    money = 6000
   }
 
   mean_time_to_happen = { months = 1  }
 
   option = {
     name = EVT_8500601_A
-	relation = { who = SUN value = -50 } 
-	relation = { who = DDR value = -50 } 
-	money = -5000 
-	country_event = { id = 8500602 days = 30 }
+    relation = { who = SUN value = -50 }
+    relation = { who = DDR value = -50 }
+    money = -5000
+    country_event = { id = 8500602 days = 30 }
   }
 
   option = {
     name = EVT_8500601_B
-	money = -2000 
-	clr_global_flag = divided_berlin 
-	SUN  = { country_event = 8225000 } 
+    money = -2000
+    clr_global_flag = divided_berlin
+    SUN  = { country_event = 8225000 }
   }
 }
 
@@ -49,16 +49,16 @@ country_event = {
 
   option = {
     name = EVT_8500602_A
-	relation = { who = GER value = 50 } 
-	SUN = { country_event =  { id = 8500603 days = 30 } } 
-	ai_chance = { factor = 100 }
+    relation = { who = GER value = 50 }
+    SUN = { country_event =  { id = 8500603 days = 30 } }
+    ai_chance = { factor = 100 }
   }
 
   option = {
     name = EVT_8500602_B
-	clr_global_flag = divided_berlin 
-	SUN  = { country_event = 8225000 } 
-	ai_chance = { factor = 0 }
+    clr_global_flag = divided_berlin
+    SUN  = { country_event = 8225000 }
+    ai_chance = { factor = 0 }
   }
 }
 country_event = {
@@ -69,37 +69,37 @@ country_event = {
   is_triggered_only = yes
 
   immediate = { set_global_flag = event_fired_8500603 }
-  
+
   option = {
     name = EVT_8500603_A
-	badboy = 2 
-	relation = { who = USA value = -50 } 
-	money = -1000 
-	USA = { country_event = 8500605 }
-	ai_chance = { factor = 100 }
+    badboy = 2
+    relation = { who = USA value = -50 }
+    money = -1000
+    USA = { country_event = 8500605 }
+    ai_chance = { factor = 100 }
   }
 
   option = {
     name = EVT_8500603_B
-	badboy = 1 
-	relation = { who = USA value = -20 } 
-	ai_chance = { factor = 0 }
+    badboy = 1
+    relation = { who = USA value = -20 }
+    ai_chance = { factor = 0 }
   }
 
   option = {
     name = EVT_8500603_C
-	relation = { who = USA value = 100 } 
-	country_event = 8500608 
-	SUN  = { country_event = 8225001 } 
-	ai_chance = { factor = 0 }
+    relation = { who = USA value = 100 }
+    country_event = 8500608
+    SUN  = { country_event = 8225001 }
+    ai_chance = { factor = 0 }
   }
 
   option = {
     name = EVT_8500603_D
-	money = -2000 
-	USA = { country_event = 8500605 }
-	country_event = 8500606
-	ai_chance = { factor = 0 }
+    money = -2000
+    USA = { country_event = 8500605 }
+    country_event = 8500606
+    ai_chance = { factor = 0 }
   }
 }
 country_event = { # Airlifts are hampered further
@@ -112,26 +112,26 @@ country_event = { # Airlifts are hampered further
   trigger = {
     tag = USA
     year = 1949
-	NOT = { year = 1950 }
+    NOT = { year = 1950 }
     has_global_flag = event_fired_8500603
     exists = DDR
-    
+
   }
 
   mean_time_to_happen = { months = 1  }
 
   option = {
     name = EVT_8500604_A
-	relation = { who = GER value = 50 } 
-	ai_chance = { factor = 100 }
+    relation = { who = GER value = 50 }
+    ai_chance = { factor = 100 }
   }
 
   option = {
     name = EVT_8500604_B
-	country_event =  { id = 8500607 days = 30 } 
-	clr_global_flag = divided_berlin 
-	SUN  = { country_event = 8225000 } 
-	ai_chance = { factor = 0 }
+    country_event =  { id = 8500607 days = 30 }
+    clr_global_flag = divided_berlin
+    SUN  = { country_event = 8225000 }
+    ai_chance = { factor = 0 }
   }
 }
 
@@ -144,17 +144,17 @@ country_event = { # Putsch is organized
 
   option = {
     name = EVT_8500605_A
-	any_pop = { consciousness = 1 }
-	country_event = 8500606
-	ai_chance = { factor = 100 }
+    any_pop = { consciousness = 1 }
+    country_event = 8500606
+    ai_chance = { factor = 100 }
   }
 
   option = {
     name = EVT_8500605_B
-	SUN = { country_event = 8500607 }
-	clr_global_flag = divided_berlin 
-	SUN  = { country_event = 8225000 } 
-	ai_chance = { factor = 0 }
+    SUN = { country_event = 8500607 }
+    clr_global_flag = divided_berlin
+    SUN  = { country_event = 8225000 }
+    ai_chance = { factor = 0 }
   }
 }
 country_event = { # Berlin Airlift gets hot
@@ -166,14 +166,14 @@ country_event = { # Berlin Airlift gets hot
 
   option = {
     name = EVT_8500606_A
-	# war = SUN # TODO what war?
-	ai_chance = { factor = 0 }
+    # war = SUN # TODO what war?
+    ai_chance = { factor = 0 }
   }
 
   option = {
     name = EVT_8500606_B
-	SUN = { country_event = 8500607 }
-	ai_chance = { factor = 100 }
+    SUN = { country_event = 8500607 }
+    ai_chance = { factor = 100 }
   }
 }
 country_event = { # End of Berlin Airlift SUN
@@ -185,10 +185,10 @@ country_event = { # End of Berlin Airlift SUN
 
   option = {
     name = EVT_8500607_A
-	any_pop = { consciousness = 1 }
-	USA = { country_event = 8500608 }
-	GER = { country_event = 8500609 }
-	SUN  = { country_event = 8225001 } 
+    any_pop = { consciousness = 1 }
+    USA = { country_event = 8500608 }
+    GER = { country_event = 8500609 }
+    SUN  = { country_event = 8225001 }
   }
 }
 country_event = { # End of Berlin Airlift USA
@@ -200,7 +200,7 @@ country_event = { # End of Berlin Airlift USA
 
   option = {
     name = EVT_8500608_A
-	any_pop = { militancy = -1.0 consciousness = -1 }
+    any_pop = { militancy = -1.0 consciousness = -1 }
   }
 }
 country_event = { # End of Berlin Airlift GER
@@ -212,6 +212,6 @@ country_event = { # End of Berlin Airlift GER
 
   option = {
     name = EVT_8500609_A
-	any_pop = { militancy = -3.0 consciousness = -2  }
+    any_pop = { militancy = -3.0 consciousness = -2  }
   }
 }

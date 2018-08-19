@@ -6,8 +6,8 @@ life_rating = 35
 terrain = seasonal_jungle_hills
 colonial = 0
 1992.1.1 = {
-owner = LAO
-controller = LAO
-add_core = LAO
-colonial = 0
+  owner = LAO
+  controller = LAO
+  add_core = LAO
+  colonial = 0
 }

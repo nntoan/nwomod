@@ -1,1966 +1,1966 @@
 #Gaeta - Gaeta (277000/69250 POPS)
 2567 = {
-	clergymen = {
-		culture = italian
-		religion =  catholic 
-		size = 1281
-	 } 
-	clergymen = {
-		culture = italian
-		religion = secularism
-		size = 103
-	 } 
-	farmers = {
-		culture = italian
-		religion =  catholic 
-		size = 62775
-	 } 
-	farmers = {
-		culture = italian
-		religion = secularism
-		size = 5089
-	 } 
+  clergymen = {
+    culture = italian
+    religion =  catholic
+    size = 1281
+  }
+  clergymen = {
+    culture = italian
+    religion = secularism
+    size = 103
+  }
+  farmers = {
+    culture = italian
+    religion =  catholic
+    size = 62775
+  }
+  farmers = {
+    culture = italian
+    religion = secularism
+    size = 5089
+  }
 }
 #Turin - Turin (2776000/694000 POPS)
 720 = {
-	officers = {
-		culture = italian
-		religion =  catholic 
-		size = 86
-	 } 
-	officers = {
-		culture = italian
-		religion = secularism
-		size = 7
-	 } 
-	soldiers = {
-		culture = italian
-		religion =  catholic 
-		size = 1652
-	 } 
-	soldiers = {
-		culture = italian
-		religion = secularism
-		size = 134
-	 } 
-	aristocrats = {
-		culture = italian
-		religion =  catholic 
-		size = 25678
-	 } 
-	aristocrats = {
-		culture = italian
-		religion = secularism
-		size = 2082
-	 } 
-	bureaucrats = {
-		culture = italian
-		religion =  catholic 
-		size = 1283
-	 } 
-	bureaucrats = {
-		culture = italian
-		religion = secularism
-		size = 104
-	 } 
-	capitalists = {
-		culture = italian
-		religion =  catholic 
-		size = 3209
-	 } 
-	capitalists = {
-		culture = italian
-		religion = secularism
-		size = 260
-	 } 
-	clergymen = {
-		culture = italian
-		religion =  catholic 
-		size = 12839
-	 } 
-	clergymen = {
-		culture = italian
-		religion = secularism
-		size = 1041
-	 } 
-	clerks = {
-		culture = italian
-		religion =  catholic 
-		size = 14096
-	 } 
-	clerks = {
-		culture = italian
-		religion = secularism
-		size = 1142
-	 } 
-	artisans = {
-		culture = italian
-		religion =  catholic 
-		size = 13391
-	 } 
-	artisans = {
-		culture = italian
-		religion = secularism
-		size = 1085
-	 } 
-	craftsmen = {
-		culture = italian
-		religion =  catholic 
-		size = 42290
-	 } 
-	craftsmen = {
-		culture = italian
-		religion = secularism
-		size = 3428
-	 } 
-	farmers = {
-		culture = italian
-		religion =  catholic 
-		size = 443968
-	 } 
-	farmers = {
-		culture = italian
-		religion = secularism
-		size = 35997
-	 } 
-	farmers = {
-		culture = chinese
-		religion =  taoism 
-		size = 6419
-	 } 
-	farmers = {
-		culture = chinese
-		religion = secularism
-		size = 520
-	 } 
-	farmers = {
-		culture = indian
-		religion =  hindu 
-		size = 1925
-	 } 
-	farmers = {
-		culture = indian
-		religion = secularism
-		size = 156
-	 } 
-	farmers = {
-		culture = french_african
-		religion =  catholic 
-		size = 14122
-	 } 
-	farmers = {
-		culture = french_african
-		religion = secularism
-		size = 1145
-	 } 
-	farmers = {
-		culture = romanian
-		religion =  orthodox 
-		size = 25678
-	 } 
-	farmers = {
-		culture = romanian
-		religion = secularism
-		size = 2082
-	 } 
-	farmers = {
-		culture = roma
-		religion =  orthodox 
-		size = 6419
-	 } 
-	farmers = {
-		culture = roma
-		religion = secularism
-		size = 520
-	 } 
-	farmers = {
-		culture = sunni_arab
-		religion =  sunni 
-		size = 15962
-	 } 
-	farmers = {
-		culture = albanian
-		religion =  sunni 
-		size = 13880
-	 } 
-	farmers = {
-		culture = indian_muslim
-		religion =  sunni 
-		size = 1388
-	 } 
+  officers = {
+    culture = italian
+    religion =  catholic
+    size = 86
+  }
+  officers = {
+    culture = italian
+    religion = secularism
+    size = 7
+  }
+  soldiers = {
+    culture = italian
+    religion =  catholic
+    size = 1652
+  }
+  soldiers = {
+    culture = italian
+    religion = secularism
+    size = 134
+  }
+  aristocrats = {
+    culture = italian
+    religion =  catholic
+    size = 25678
+  }
+  aristocrats = {
+    culture = italian
+    religion = secularism
+    size = 2082
+  }
+  bureaucrats = {
+    culture = italian
+    religion =  catholic
+    size = 1283
+  }
+  bureaucrats = {
+    culture = italian
+    religion = secularism
+    size = 104
+  }
+  capitalists = {
+    culture = italian
+    religion =  catholic
+    size = 3209
+  }
+  capitalists = {
+    culture = italian
+    religion = secularism
+    size = 260
+  }
+  clergymen = {
+    culture = italian
+    religion =  catholic
+    size = 12839
+  }
+  clergymen = {
+    culture = italian
+    religion = secularism
+    size = 1041
+  }
+  clerks = {
+    culture = italian
+    religion =  catholic
+    size = 14096
+  }
+  clerks = {
+    culture = italian
+    religion = secularism
+    size = 1142
+  }
+  artisans = {
+    culture = italian
+    religion =  catholic
+    size = 13391
+  }
+  artisans = {
+    culture = italian
+    religion = secularism
+    size = 1085
+  }
+  craftsmen = {
+    culture = italian
+    religion =  catholic
+    size = 42290
+  }
+  craftsmen = {
+    culture = italian
+    religion = secularism
+    size = 3428
+  }
+  farmers = {
+    culture = italian
+    religion =  catholic
+    size = 443968
+  }
+  farmers = {
+    culture = italian
+    religion = secularism
+    size = 35997
+  }
+  farmers = {
+    culture = chinese
+    religion =  taoism
+    size = 6419
+  }
+  farmers = {
+    culture = chinese
+    religion = secularism
+    size = 520
+  }
+  farmers = {
+    culture = indian
+    religion =  hindu
+    size = 1925
+  }
+  farmers = {
+    culture = indian
+    religion = secularism
+    size = 156
+  }
+  farmers = {
+    culture = french_african
+    religion =  catholic
+    size = 14122
+  }
+  farmers = {
+    culture = french_african
+    religion = secularism
+    size = 1145
+  }
+  farmers = {
+    culture = romanian
+    religion =  orthodox
+    size = 25678
+  }
+  farmers = {
+    culture = romanian
+    religion = secularism
+    size = 2082
+  }
+  farmers = {
+    culture = roma
+    religion =  orthodox
+    size = 6419
+  }
+  farmers = {
+    culture = roma
+    religion = secularism
+    size = 520
+  }
+  farmers = {
+    culture = sunni_arab
+    religion =  sunni
+    size = 15962
+  }
+  farmers = {
+    culture = albanian
+    religion =  sunni
+    size = 13880
+  }
+  farmers = {
+    culture = indian_muslim
+    religion =  sunni
+    size = 1388
+  }
 }
 #Aosta - Aosta (101000/25250 POPS)
 721 = {
-	clergymen = {
-		culture = italian
-		religion =  catholic 
-		size = 467
-	 } 
-	clergymen = {
-		culture = italian
-		religion = secularism
-		size = 37
-	 } 
-	farmers = {
-		culture = italian
-		religion =  catholic 
-		size = 5371
-	 } 
-	farmers = {
-		culture = italian
-		religion = secularism
-		size = 435
-	 } 
-	farmers = {
-		culture = french
-		religion =  catholic 
-		size = 17516
-	 } 
-	farmers = {
-		culture = french
-		religion = secularism
-		size = 1420
-	 } 
+  clergymen = {
+    culture = italian
+    religion =  catholic
+    size = 467
+  }
+  clergymen = {
+    culture = italian
+    religion = secularism
+    size = 37
+  }
+  farmers = {
+    culture = italian
+    religion =  catholic
+    size = 5371
+  }
+  farmers = {
+    culture = italian
+    religion = secularism
+    size = 435
+  }
+  farmers = {
+    culture = french
+    religion =  catholic
+    size = 17516
+  }
+  farmers = {
+    culture = french
+    religion = secularism
+    size = 1420
+  }
 }
 #Novara - Novara (396000/99000 POPS)
 722 = {
-	clergymen = {
-		culture = italian
-		religion =  catholic 
-		size = 1831
-	 } 
-	clergymen = {
-		culture = italian
-		religion = secularism
-		size = 148
-	 } 
-	farmers = {
-		culture = italian
-		religion =  catholic 
-		size = 89743
-	 } 
-	farmers = {
-		culture = italian
-		religion = secularism
-		size = 7276
-	 } 
+  clergymen = {
+    culture = italian
+    religion =  catholic
+    size = 1831
+  }
+  clergymen = {
+    culture = italian
+    religion = secularism
+    size = 148
+  }
+  farmers = {
+    culture = italian
+    religion =  catholic
+    size = 89743
+  }
+  farmers = {
+    culture = italian
+    religion = secularism
+    size = 7276
+  }
 }
 #Alessandria - Alessandria (361000/90250 POPS)
 723 = {
-	clergymen = {
-		culture = italian
-		religion =  catholic 
-		size = 1669
-	 } 
-	clergymen = {
-		culture = italian
-		religion = secularism
-		size = 135
-	 } 
-	farmers = {
-		culture = italian
-		religion =  catholic 
-		size = 81811
-	 } 
-	farmers = {
-		culture = italian
-		religion = secularism
-		size = 6633
-	 } 
+  clergymen = {
+    culture = italian
+    religion =  catholic
+    size = 1669
+  }
+  clergymen = {
+    culture = italian
+    religion = secularism
+    size = 135
+  }
+  farmers = {
+    culture = italian
+    religion =  catholic
+    size = 81811
+  }
+  farmers = {
+    culture = italian
+    religion = secularism
+    size = 6633
+  }
 }
 #Genoa - Genoa (793000/198250 POPS)
 724 = {
-	clergymen = {
-		culture = italian
-		religion =  catholic 
-		size = 3667
-	 } 
-	clergymen = {
-		culture = italian
-		religion = secularism
-		size = 297
-	 } 
-	farmers = {
-		culture = italian
-		religion =  catholic 
-		size = 179713
-	 } 
-	farmers = {
-		culture = italian
-		religion = secularism
-		size = 14571
-	 } 
+  clergymen = {
+    culture = italian
+    religion =  catholic
+    size = 3667
+  }
+  clergymen = {
+    culture = italian
+    religion = secularism
+    size = 297
+  }
+  farmers = {
+    culture = italian
+    religion =  catholic
+    size = 179713
+  }
+  farmers = {
+    culture = italian
+    religion = secularism
+    size = 14571
+  }
 }
 #Savona - Savona (488000/122000 POPS)
 725 = {
-	clergymen = {
-		culture = italian
-		religion =  catholic 
-		size = 2257
-	 } 
-	clergymen = {
-		culture = italian
-		religion = secularism
-		size = 183
-	 } 
-	farmers = {
-		culture = italian
-		religion =  catholic 
-		size = 110593
-	 } 
-	farmers = {
-		culture = italian
-		religion = secularism
-		size = 8967
-	 } 
+  clergymen = {
+    culture = italian
+    religion =  catholic
+    size = 2257
+  }
+  clergymen = {
+    culture = italian
+    religion = secularism
+    size = 183
+  }
+  farmers = {
+    culture = italian
+    religion =  catholic
+    size = 110593
+  }
+  farmers = {
+    culture = italian
+    religion = secularism
+    size = 8967
+  }
 }
 #Milan - Milan (5948000/1487000 POPS)
 726 = {
-	officers = {
-		culture = italian
-		religion =  catholic 
-		size = 226
-	 } 
-	officers = {
-		culture = italian
-		religion = secularism
-		size = 18
-	 } 
-	soldiers = {
-		culture = italian
-		religion =  catholic 
-		size = 4313
-	 } 
-	soldiers = {
-		culture = italian
-		religion = secularism
-		size = 349
-	 } 
-	aristocrats = {
-		culture = italian
-		religion =  catholic 
-		size = 55019
-	 } 
-	aristocrats = {
-		culture = italian
-		religion = secularism
-		size = 4461
-	 } 
-	bureaucrats = {
-		culture = italian
-		religion =  catholic 
-		size = 2750
-	 } 
-	bureaucrats = {
-		culture = italian
-		religion = secularism
-		size = 223
-	 } 
-	capitalists = {
-		culture = italian
-		religion =  catholic 
-		size = 6877
-	 } 
-	capitalists = {
-		culture = italian
-		religion = secularism
-		size = 557
-	 } 
-	clergymen = {
-		culture = italian
-		religion =  catholic 
-		size = 27509
-	 } 
-	clergymen = {
-		culture = italian
-		religion = secularism
-		size = 2230
-	 } 
-	clerks = {
-		culture = italian
-		religion =  catholic 
-		size = 30185
-	 } 
-	clerks = {
-		culture = italian
-		religion = secularism
-		size = 2447
-	 } 
-	artisans = {
-		culture = italian
-		religion =  catholic 
-		size = 28676
-	 } 
-	artisans = {
-		culture = italian
-		religion = secularism
-		size = 2325
-	 } 
-	craftsmen = {
-		culture = italian
-		religion =  catholic 
-		size = 90558
-	 } 
-	craftsmen = {
-		culture = italian
-		religion = secularism
-		size = 7342
-	 } 
-	farmers = {
-		culture = italian
-		religion =  catholic 
-		size = 1129357
-	 } 
-	farmers = {
-		culture = italian
-		religion = secularism
-		size = 91569
-	 } 
+  officers = {
+    culture = italian
+    religion =  catholic
+    size = 226
+  }
+  officers = {
+    culture = italian
+    religion = secularism
+    size = 18
+  }
+  soldiers = {
+    culture = italian
+    religion =  catholic
+    size = 4313
+  }
+  soldiers = {
+    culture = italian
+    religion = secularism
+    size = 349
+  }
+  aristocrats = {
+    culture = italian
+    religion =  catholic
+    size = 55019
+  }
+  aristocrats = {
+    culture = italian
+    religion = secularism
+    size = 4461
+  }
+  bureaucrats = {
+    culture = italian
+    religion =  catholic
+    size = 2750
+  }
+  bureaucrats = {
+    culture = italian
+    religion = secularism
+    size = 223
+  }
+  capitalists = {
+    culture = italian
+    religion =  catholic
+    size = 6877
+  }
+  capitalists = {
+    culture = italian
+    religion = secularism
+    size = 557
+  }
+  clergymen = {
+    culture = italian
+    religion =  catholic
+    size = 27509
+  }
+  clergymen = {
+    culture = italian
+    religion = secularism
+    size = 2230
+  }
+  clerks = {
+    culture = italian
+    religion =  catholic
+    size = 30185
+  }
+  clerks = {
+    culture = italian
+    religion = secularism
+    size = 2447
+  }
+  artisans = {
+    culture = italian
+    religion =  catholic
+    size = 28676
+  }
+  artisans = {
+    culture = italian
+    religion = secularism
+    size = 2325
+  }
+  craftsmen = {
+    culture = italian
+    religion =  catholic
+    size = 90558
+  }
+  craftsmen = {
+    culture = italian
+    religion = secularism
+    size = 7342
+  }
+  farmers = {
+    culture = italian
+    religion =  catholic
+    size = 1129357
+  }
+  farmers = {
+    culture = italian
+    religion = secularism
+    size = 91569
+  }
 }
 #Bergamo - Bergamo (967000/241750 POPS)
 727 = {
-	clergymen = {
-		culture = italian
-		religion =  catholic 
-		size = 4472
-	 } 
-	clergymen = {
-		culture = italian
-		religion = secularism
-		size = 362
-	 } 
-	farmers = {
-		culture = italian
-		religion =  catholic 
-		size = 219146
-	 } 
-	farmers = {
-		culture = italian
-		religion = secularism
-		size = 17768
-	 } 
+  clergymen = {
+    culture = italian
+    religion =  catholic
+    size = 4472
+  }
+  clergymen = {
+    culture = italian
+    religion = secularism
+    size = 362
+  }
+  farmers = {
+    culture = italian
+    religion =  catholic
+    size = 219146
+  }
+  farmers = {
+    culture = italian
+    religion = secularism
+    size = 17768
+  }
 }
 #Brescia - Brescia (943000/235750 POPS)
 728 = {
-	clergymen = {
-		culture = italian
-		religion =  catholic 
-		size = 4361
-	 } 
-	clergymen = {
-		culture = italian
-		religion = secularism
-		size = 353
-	 } 
-	farmers = {
-		culture = italian
-		religion =  catholic 
-		size = 213707
-	 } 
-	farmers = {
-		culture = italian
-		religion = secularism
-		size = 17327
-	 } 
+  clergymen = {
+    culture = italian
+    religion =  catholic
+    size = 4361
+  }
+  clergymen = {
+    culture = italian
+    religion = secularism
+    size = 353
+  }
+  farmers = {
+    culture = italian
+    religion =  catholic
+    size = 213707
+  }
+  farmers = {
+    culture = italian
+    religion = secularism
+    size = 17327
+  }
 }
 #Venice - Venice (1762000/440500 POPS)
 729 = {
-	clergymen = {
-		culture = italian
-		religion =  catholic 
-		size = 8149
-	 } 
-	clergymen = {
-		culture = italian
-		religion = secularism
-		size = 660
-	 } 
-	farmers = {
-		culture = italian
-		religion =  catholic 
-		size = 399313
-	 } 
-	farmers = {
-		culture = italian
-		religion = secularism
-		size = 32376
-	 } 
+  clergymen = {
+    culture = italian
+    religion =  catholic
+    size = 8149
+  }
+  clergymen = {
+    culture = italian
+    religion = secularism
+    size = 660
+  }
+  farmers = {
+    culture = italian
+    religion =  catholic
+    size = 399313
+  }
+  farmers = {
+    culture = italian
+    religion = secularism
+    size = 32376
+  }
 }
 #Verona - Verona (962000/240500 POPS)
 730 = {
-	clergymen = {
-		culture = italian
-		religion =  catholic 
-		size = 4449
-	 } 
-	clergymen = {
-		culture = italian
-		religion = secularism
-		size = 360
-	 } 
-	farmers = {
-		culture = italian
-		religion =  catholic 
-		size = 218013
-	 } 
-	farmers = {
-		culture = italian
-		religion = secularism
-		size = 17676
-	 } 
+  clergymen = {
+    culture = italian
+    religion =  catholic
+    size = 4449
+  }
+  clergymen = {
+    culture = italian
+    religion = secularism
+    size = 360
+  }
+  farmers = {
+    culture = italian
+    religion =  catholic
+    size = 218013
+  }
+  farmers = {
+    culture = italian
+    religion = secularism
+    size = 17676
+  }
 }
 #Padua - Padua (594000/148500 POPS)
 731 = {
-	clergymen = {
-		culture = italian
-		religion =  catholic 
-		size = 2747
-	 } 
-	clergymen = {
-		culture = italian
-		religion = secularism
-		size = 222
-	 } 
-	farmers = {
-		culture = italian
-		religion =  catholic 
-		size = 134615
-	 } 
-	farmers = {
-		culture = italian
-		religion = secularism
-		size = 10914
-	 } 
+  clergymen = {
+    culture = italian
+    religion =  catholic
+    size = 2747
+  }
+  clergymen = {
+    culture = italian
+    religion = secularism
+    size = 222
+  }
+  farmers = {
+    culture = italian
+    religion =  catholic
+    size = 134615
+  }
+  farmers = {
+    culture = italian
+    religion = secularism
+    size = 10914
+  }
 }
 #Treviso - Treviso (594000/148500 POPS)
 732 = {
-	clergymen = {
-		culture = italian
-		religion =  catholic 
-		size = 2747
-	 } 
-	clergymen = {
-		culture = italian
-		religion = secularism
-		size = 222
-	 } 
-	farmers = {
-		culture = italian
-		religion =  catholic 
-		size = 134615
-	 } 
-	farmers = {
-		culture = italian
-		religion = secularism
-		size = 10914
-	 } 
+  clergymen = {
+    culture = italian
+    religion =  catholic
+    size = 2747
+  }
+  clergymen = {
+    culture = italian
+    religion = secularism
+    size = 222
+  }
+  farmers = {
+    culture = italian
+    religion =  catholic
+    size = 134615
+  }
+  farmers = {
+    culture = italian
+    religion = secularism
+    size = 10914
+  }
 }
 #Udine - Udine (704000/176000 POPS)
 733 = {
-	clergymen = {
-		culture = italian
-		religion =  catholic 
-		size = 3256
-	 } 
-	clergymen = {
-		culture = italian
-		religion = secularism
-		size = 264
-	 } 
-	farmers = {
-		culture = italian
-		religion =  catholic 
-		size = 105820
-	 } 
-	farmers = {
-		culture = italian
-		religion = secularism
-		size = 8580
-	 } 
-	farmers = {
-		culture = romansh
-		religion =  catholic 
-		size = 53724
-	 } 
-	farmers = {
-		culture = romansh
-		religion = secularism
-		size = 4356
-	 } 
+  clergymen = {
+    culture = italian
+    religion =  catholic
+    size = 3256
+  }
+  clergymen = {
+    culture = italian
+    religion = secularism
+    size = 264
+  }
+  farmers = {
+    culture = italian
+    religion =  catholic
+    size = 105820
+  }
+  farmers = {
+    culture = italian
+    religion = secularism
+    size = 8580
+  }
+  farmers = {
+    culture = romansh
+    religion =  catholic
+    size = 53724
+  }
+  farmers = {
+    culture = romansh
+    religion = secularism
+    size = 4356
+  }
 }
 #Trent - Trent (416000/104000 POPS)
 734 = {
-	clergymen = {
-		culture = italian
-		religion =  catholic 
-		size = 1924
-	 } 
-	clergymen = {
-		culture = italian
-		religion = secularism
-		size = 156
-	 } 
-	farmers = {
-		culture = italian
-		religion =  catholic 
-		size = 90428
-	 } 
-	farmers = {
-		culture = italian
-		religion = secularism
-		size = 7332
-	 } 
-	farmers = {
-		culture = romansh
-		religion =  catholic 
-		size = 3848
-	 } 
-	farmers = {
-		culture = romansh
-		religion = secularism
-		size = 312
-	 } 
+  clergymen = {
+    culture = italian
+    religion =  catholic
+    size = 1924
+  }
+  clergymen = {
+    culture = italian
+    religion = secularism
+    size = 156
+  }
+  farmers = {
+    culture = italian
+    religion =  catholic
+    size = 90428
+  }
+  farmers = {
+    culture = italian
+    religion = secularism
+    size = 7332
+  }
+  farmers = {
+    culture = romansh
+    religion =  catholic
+    size = 3848
+  }
+  farmers = {
+    culture = romansh
+    religion = secularism
+    size = 312
+  }
 }
 #Bozen - Bozen (405000/101250 POPS)
 735 = {
-	officers = {
-		culture = italian
-		religion =  catholic 
-		size = 6
-	 } 
-	soldiers = {
-		culture = italian
-		religion =  catholic 
-		size = 135
-	 } 
-	soldiers = {
-		culture = italian
-		religion = secularism
-		size = 10
-	 } 
-	aristocrats = {
-		culture = italian
-		religion =  catholic 
-		size = 3746
-	 } 
-	aristocrats = {
-		culture = italian
-		religion = secularism
-		size = 303
-	 } 
-	bureaucrats = {
-		culture = italian
-		religion =  catholic 
-		size = 186
-	 } 
-	bureaucrats = {
-		culture = italian
-		religion = secularism
-		size = 15
-	 } 
-	capitalists = {
-		culture = italian
-		religion =  catholic 
-		size = 468
-	 } 
-	capitalists = {
-		culture = italian
-		religion = secularism
-		size = 37
-	 } 
-	clergymen = {
-		culture = italian
-		religion =  catholic 
-		size = 1873
-	 } 
-	clergymen = {
-		culture = italian
-		religion = secularism
-		size = 151
-	 } 
-	clerks = {
-		culture = italian
-		religion =  catholic 
-		size = 2059
-	 } 
-	clerks = {
-		culture = italian
-		religion = secularism
-		size = 166
-	 } 
-	artisans = {
-		culture = italian
-		religion =  catholic 
-		size = 1955
-	 } 
-	artisans = {
-		culture = italian
-		religion = secularism
-		size = 158
-	 } 
-	craftsmen = {
-		culture = italian
-		religion =  catholic 
-		size = 6177
-	 } 
-	craftsmen = {
-		culture = italian
-		religion = secularism
-		size = 500
-	 } 
-	farmers = {
-		culture = italian
-		religion =  catholic 
-		size = 13362
-	 } 
-	farmers = {
-		culture = italian
-		religion = secularism
-		size = 1083
-	 } 
-	farmers = {
-		culture = german
-		religion =  catholic 
-		size = 59940
-	 } 
-	farmers = {
-		culture = german
-		religion = secularism
-		size = 4860
-	 } 
-	farmers = {
-		culture = romansh
-		religion =  catholic 
-		size = 3746
-	 } 
-	farmers = {
-		culture = romansh
-		religion = secularism
-		size = 303
-	 } 
+  officers = {
+    culture = italian
+    religion =  catholic
+    size = 6
+  }
+  soldiers = {
+    culture = italian
+    religion =  catholic
+    size = 135
+  }
+  soldiers = {
+    culture = italian
+    religion = secularism
+    size = 10
+  }
+  aristocrats = {
+    culture = italian
+    religion =  catholic
+    size = 3746
+  }
+  aristocrats = {
+    culture = italian
+    religion = secularism
+    size = 303
+  }
+  bureaucrats = {
+    culture = italian
+    religion =  catholic
+    size = 186
+  }
+  bureaucrats = {
+    culture = italian
+    religion = secularism
+    size = 15
+  }
+  capitalists = {
+    culture = italian
+    religion =  catholic
+    size = 468
+  }
+  capitalists = {
+    culture = italian
+    religion = secularism
+    size = 37
+  }
+  clergymen = {
+    culture = italian
+    religion =  catholic
+    size = 1873
+  }
+  clergymen = {
+    culture = italian
+    religion = secularism
+    size = 151
+  }
+  clerks = {
+    culture = italian
+    religion =  catholic
+    size = 2059
+  }
+  clerks = {
+    culture = italian
+    religion = secularism
+    size = 166
+  }
+  artisans = {
+    culture = italian
+    religion =  catholic
+    size = 1955
+  }
+  artisans = {
+    culture = italian
+    religion = secularism
+    size = 158
+  }
+  craftsmen = {
+    culture = italian
+    religion =  catholic
+    size = 6177
+  }
+  craftsmen = {
+    culture = italian
+    religion = secularism
+    size = 500
+  }
+  farmers = {
+    culture = italian
+    religion =  catholic
+    size = 13362
+  }
+  farmers = {
+    culture = italian
+    religion = secularism
+    size = 1083
+  }
+  farmers = {
+    culture = german
+    religion =  catholic
+    size = 59940
+  }
+  farmers = {
+    culture = german
+    religion = secularism
+    size = 4860
+  }
+  farmers = {
+    culture = romansh
+    religion =  catholic
+    size = 3746
+  }
+  farmers = {
+    culture = romansh
+    religion = secularism
+    size = 303
+  }
 }
 #Gorizia - Gorizia (112000/28000 POPS)
 737 = {
-	clergymen = {
-		culture = italian
-		religion =  catholic 
-		size = 518
-	 } 
-	clergymen = {
-		culture = italian
-		religion = secularism
-		size = 42
-	 } 
-	farmers = {
-		culture = italian
-		religion =  catholic 
-		size = 22533
-	 } 
-	farmers = {
-		culture = italian
-		religion = secularism
-		size = 1827
-	 } 
-	farmers = {
-		culture = slovene
-		religion =  catholic 
-		size = 2849
-	 } 
-	farmers = {
-		culture = slovene
-		religion = secularism
-		size = 231
-	 } 
+  clergymen = {
+    culture = italian
+    religion =  catholic
+    size = 518
+  }
+  clergymen = {
+    culture = italian
+    religion = secularism
+    size = 42
+  }
+  farmers = {
+    culture = italian
+    religion =  catholic
+    size = 22533
+  }
+  farmers = {
+    culture = italian
+    religion = secularism
+    size = 1827
+  }
+  farmers = {
+    culture = slovene
+    religion =  catholic
+    size = 2849
+  }
+  farmers = {
+    culture = slovene
+    religion = secularism
+    size = 231
+  }
 }
 #Parma - Parma (702000/175500 POPS)
 738 = {
-	clergymen = {
-		culture = italian
-		religion =  catholic 
-		size = 3246
-	 } 
-	clergymen = {
-		culture = italian
-		religion = secularism
-		size = 263
-	 } 
-	farmers = {
-		culture = italian
-		religion =  catholic 
-		size = 159090
-	 } 
-	farmers = {
-		culture = italian
-		religion = secularism
-		size = 12899
-	 } 
+  clergymen = {
+    culture = italian
+    religion =  catholic
+    size = 3246
+  }
+  clergymen = {
+    culture = italian
+    religion = secularism
+    size = 263
+  }
+  farmers = {
+    culture = italian
+    religion =  catholic
+    size = 159090
+  }
+  farmers = {
+    culture = italian
+    religion = secularism
+    size = 12899
+  }
 }
 #Modena - Modena (702000/175500 POPS)
 739 = {
-	clergymen = {
-		culture = italian
-		religion =  catholic 
-		size = 3246
-	 } 
-	clergymen = {
-		culture = italian
-		religion = secularism
-		size = 263
-	 } 
-	farmers = {
-		culture = italian
-		religion =  catholic 
-		size = 159090
-	 } 
-	farmers = {
-		culture = italian
-		religion = secularism
-		size = 12899
-	 } 
+  clergymen = {
+    culture = italian
+    religion =  catholic
+    size = 3246
+  }
+  clergymen = {
+    culture = italian
+    religion = secularism
+    size = 263
+  }
+  farmers = {
+    culture = italian
+    religion =  catholic
+    size = 159090
+  }
+  farmers = {
+    culture = italian
+    religion = secularism
+    size = 12899
+  }
 }
 #Massa - Massa (495000/123750 POPS)
 740 = {
-	clergymen = {
-		culture = italian
-		religion =  catholic 
-		size = 2289
-	 } 
-	clergymen = {
-		culture = italian
-		religion = secularism
-		size = 185
-	 } 
-	farmers = {
-		culture = italian
-		religion =  catholic 
-		size = 112179
-	 } 
-	farmers = {
-		culture = italian
-		religion = secularism
-		size = 9095
-	 } 
+  clergymen = {
+    culture = italian
+    religion =  catholic
+    size = 2289
+  }
+  clergymen = {
+    culture = italian
+    religion = secularism
+    size = 185
+  }
+  farmers = {
+    culture = italian
+    religion =  catholic
+    size = 112179
+  }
+  farmers = {
+    culture = italian
+    religion = secularism
+    size = 9095
+  }
 }
 #Bologna - Bologna (702000/175500 POPS)
 741 = {
-	officers = {
-		culture = italian
-		religion =  catholic 
-		size = 72
-	 } 
-	officers = {
-		culture = italian
-		religion = secularism
-		size = 5
-	 } 
-	soldiers = {
-		culture = italian
-		religion =  catholic 
-		size = 1377
-	 } 
-	soldiers = {
-		culture = italian
-		religion = secularism
-		size = 111
-	 } 
-	aristocrats = {
-		culture = italian
-		religion =  catholic 
-		size = 6493
-	 } 
-	aristocrats = {
-		culture = italian
-		religion = secularism
-		size = 526
-	 } 
-	bureaucrats = {
-		culture = italian
-		religion =  catholic 
-		size = 324
-	 } 
-	bureaucrats = {
-		culture = italian
-		religion = secularism
-		size = 26
-	 } 
-	capitalists = {
-		culture = italian
-		religion =  catholic 
-		size = 811
-	 } 
-	capitalists = {
-		culture = italian
-		religion = secularism
-		size = 65
-	 } 
-	clergymen = {
-		culture = italian
-		religion =  catholic 
-		size = 3246
-	 } 
-	clergymen = {
-		culture = italian
-		religion = secularism
-		size = 263
-	 } 
-	clerks = {
-		culture = italian
-		religion =  catholic 
-		size = 3541
-	 } 
-	clerks = {
-		culture = italian
-		religion = secularism
-		size = 287
-	 } 
-	artisans = {
-		culture = italian
-		religion =  catholic 
-		size = 3365
-	 } 
-	artisans = {
-		culture = italian
-		religion = secularism
-		size = 272
-	 } 
-	craftsmen = {
-		culture = italian
-		religion =  catholic 
-		size = 10627
-	 } 
-	craftsmen = {
-		culture = italian
-		religion = secularism
-		size = 861
-	 } 
-	farmers = {
-		culture = italian
-		religion =  catholic 
-		size = 132477
-	 } 
-	farmers = {
-		culture = italian
-		religion = secularism
-		size = 10741
-	 } 
+  officers = {
+    culture = italian
+    religion =  catholic
+    size = 72
+  }
+  officers = {
+    culture = italian
+    religion = secularism
+    size = 5
+  }
+  soldiers = {
+    culture = italian
+    religion =  catholic
+    size = 1377
+  }
+  soldiers = {
+    culture = italian
+    religion = secularism
+    size = 111
+  }
+  aristocrats = {
+    culture = italian
+    religion =  catholic
+    size = 6493
+  }
+  aristocrats = {
+    culture = italian
+    religion = secularism
+    size = 526
+  }
+  bureaucrats = {
+    culture = italian
+    religion =  catholic
+    size = 324
+  }
+  bureaucrats = {
+    culture = italian
+    religion = secularism
+    size = 26
+  }
+  capitalists = {
+    culture = italian
+    religion =  catholic
+    size = 811
+  }
+  capitalists = {
+    culture = italian
+    religion = secularism
+    size = 65
+  }
+  clergymen = {
+    culture = italian
+    religion =  catholic
+    size = 3246
+  }
+  clergymen = {
+    culture = italian
+    religion = secularism
+    size = 263
+  }
+  clerks = {
+    culture = italian
+    religion =  catholic
+    size = 3541
+  }
+  clerks = {
+    culture = italian
+    religion = secularism
+    size = 287
+  }
+  artisans = {
+    culture = italian
+    religion =  catholic
+    size = 3365
+  }
+  artisans = {
+    culture = italian
+    religion = secularism
+    size = 272
+  }
+  craftsmen = {
+    culture = italian
+    religion =  catholic
+    size = 10627
+  }
+  craftsmen = {
+    culture = italian
+    religion = secularism
+    size = 861
+  }
+  farmers = {
+    culture = italian
+    religion =  catholic
+    size = 132477
+  }
+  farmers = {
+    culture = italian
+    religion = secularism
+    size = 10741
+  }
 }
 #Ferrara - Ferrara (702000/175500 POPS)
 742 = {
-	clergymen = {
-		culture = italian
-		religion =  catholic 
-		size = 3246
-	 } 
-	clergymen = {
-		culture = italian
-		religion = secularism
-		size = 263
-	 } 
-	farmers = {
-		culture = italian
-		religion =  catholic 
-		size = 159090
-	 } 
-	farmers = {
-		culture = italian
-		religion = secularism
-		size = 12899
-	 } 
+  clergymen = {
+    culture = italian
+    religion =  catholic
+    size = 3246
+  }
+  clergymen = {
+    culture = italian
+    religion = secularism
+    size = 263
+  }
+  farmers = {
+    culture = italian
+    religion =  catholic
+    size = 159090
+  }
+  farmers = {
+    culture = italian
+    religion = secularism
+    size = 12899
+  }
 }
 #Ravenna - Ravenna (702000/175500 POPS)
 743 = {
-	clergymen = {
-		culture = italian
-		religion =  catholic 
-		size = 3246
-	 } 
-	clergymen = {
-		culture = italian
-		religion = secularism
-		size = 263
-	 } 
-	farmers = {
-		culture = italian
-		religion =  catholic 
-		size = 159090
-	 } 
-	farmers = {
-		culture = italian
-		religion = secularism
-		size = 12899
-	 } 
+  clergymen = {
+    culture = italian
+    religion =  catholic
+    size = 3246
+  }
+  clergymen = {
+    culture = italian
+    religion = secularism
+    size = 263
+  }
+  farmers = {
+    culture = italian
+    religion =  catholic
+    size = 159090
+  }
+  farmers = {
+    culture = italian
+    religion = secularism
+    size = 12899
+  }
 }
 #Florence - Florence (495000/123750 POPS)
 744 = {
-	officers = {
-		culture = italian
-		religion =  catholic 
-		size = 42
-	 } 
-	officers = {
-		culture = italian
-		religion = secularism
-		size = 3
-	 } 
-	soldiers = {
-		culture = italian
-		religion =  catholic 
-		size = 825
-	 } 
-	soldiers = {
-		culture = italian
-		religion = secularism
-		size = 66
-	 } 
-	aristocrats = {
-		culture = italian
-		religion =  catholic 
-		size = 4578
-	 } 
-	aristocrats = {
-		culture = italian
-		religion = secularism
-		size = 371
-	 } 
-	bureaucrats = {
-		culture = italian
-		religion =  catholic 
-		size = 228
-	 } 
-	bureaucrats = {
-		culture = italian
-		religion = secularism
-		size = 18
-	 } 
-	capitalists = {
-		culture = italian
-		religion =  catholic 
-		size = 571
-	 } 
-	capitalists = {
-		culture = italian
-		religion = secularism
-		size = 46
-	 } 
-	clergymen = {
-		culture = italian
-		religion =  catholic 
-		size = 2289
-	 } 
-	clergymen = {
-		culture = italian
-		religion = secularism
-		size = 185
-	 } 
-	clerks = {
-		culture = italian
-		religion =  catholic 
-		size = 2501
-	 } 
-	clerks = {
-		culture = italian
-		religion = secularism
-		size = 202
-	 } 
-	artisans = {
-		culture = italian
-		religion =  catholic 
-		size = 2375
-	 } 
-	artisans = {
-		culture = italian
-		religion = secularism
-		size = 192
-	 } 
-	craftsmen = {
-		culture = italian
-		religion =  catholic 
-		size = 7503
-	 } 
-	craftsmen = {
-		culture = italian
-		religion = secularism
-		size = 608
-	 } 
-	farmers = {
-		culture = italian
-		religion =  catholic 
-		size = 93552
-	 } 
-	farmers = {
-		culture = italian
-		religion = secularism
-		size = 7585
-	 } 
+  officers = {
+    culture = italian
+    religion =  catholic
+    size = 42
+  }
+  officers = {
+    culture = italian
+    religion = secularism
+    size = 3
+  }
+  soldiers = {
+    culture = italian
+    religion =  catholic
+    size = 825
+  }
+  soldiers = {
+    culture = italian
+    religion = secularism
+    size = 66
+  }
+  aristocrats = {
+    culture = italian
+    religion =  catholic
+    size = 4578
+  }
+  aristocrats = {
+    culture = italian
+    religion = secularism
+    size = 371
+  }
+  bureaucrats = {
+    culture = italian
+    religion =  catholic
+    size = 228
+  }
+  bureaucrats = {
+    culture = italian
+    religion = secularism
+    size = 18
+  }
+  capitalists = {
+    culture = italian
+    religion =  catholic
+    size = 571
+  }
+  capitalists = {
+    culture = italian
+    religion = secularism
+    size = 46
+  }
+  clergymen = {
+    culture = italian
+    religion =  catholic
+    size = 2289
+  }
+  clergymen = {
+    culture = italian
+    religion = secularism
+    size = 185
+  }
+  clerks = {
+    culture = italian
+    religion =  catholic
+    size = 2501
+  }
+  clerks = {
+    culture = italian
+    religion = secularism
+    size = 202
+  }
+  artisans = {
+    culture = italian
+    religion =  catholic
+    size = 2375
+  }
+  artisans = {
+    culture = italian
+    religion = secularism
+    size = 192
+  }
+  craftsmen = {
+    culture = italian
+    religion =  catholic
+    size = 7503
+  }
+  craftsmen = {
+    culture = italian
+    religion = secularism
+    size = 608
+  }
+  farmers = {
+    culture = italian
+    religion =  catholic
+    size = 93552
+  }
+  farmers = {
+    culture = italian
+    religion = secularism
+    size = 7585
+  }
 }
 #Leghorn - Leghorn (495000/123750 POPS)
 745 = {
-	clergymen = {
-		culture = italian
-		religion =  catholic 
-		size = 2289
-	 } 
-	clergymen = {
-		culture = italian
-		religion = secularism
-		size = 185
-	 } 
-	farmers = {
-		culture = italian
-		religion =  catholic 
-		size = 112179
-	 } 
-	farmers = {
-		culture = italian
-		religion = secularism
-		size = 9095
-	 } 
+  clergymen = {
+    culture = italian
+    religion =  catholic
+    size = 2289
+  }
+  clergymen = {
+    culture = italian
+    religion = secularism
+    size = 185
+  }
+  farmers = {
+    culture = italian
+    religion =  catholic
+    size = 112179
+  }
+  farmers = {
+    culture = italian
+    religion = secularism
+    size = 9095
+  }
 }
 #Lucca - Lucca (495000/123750 POPS)
 746 = {
-	clergymen = {
-		culture = italian
-		religion =  catholic 
-		size = 2289
-	 } 
-	clergymen = {
-		culture = italian
-		religion = secularism
-		size = 185
-	 } 
-	farmers = {
-		culture = italian
-		religion =  catholic 
-		size = 112179
-	 } 
-	farmers = {
-		culture = italian
-		religion = secularism
-		size = 9095
-	 } 
+  clergymen = {
+    culture = italian
+    religion =  catholic
+    size = 2289
+  }
+  clergymen = {
+    culture = italian
+    religion = secularism
+    size = 185
+  }
+  farmers = {
+    culture = italian
+    religion =  catholic
+    size = 112179
+  }
+  farmers = {
+    culture = italian
+    religion = secularism
+    size = 9095
+  }
 }
 #Siena - Siena (495000/123750 POPS)
 747 = {
-	clergymen = {
-		culture = italian
-		religion =  catholic 
-		size = 2289
-	 } 
-	clergymen = {
-		culture = italian
-		religion = secularism
-		size = 185
-	 } 
-	farmers = {
-		culture = italian
-		religion =  catholic 
-		size = 112179
-	 } 
-	farmers = {
-		culture = italian
-		religion = secularism
-		size = 9095
-	 } 
+  clergymen = {
+    culture = italian
+    religion =  catholic
+    size = 2289
+  }
+  clergymen = {
+    culture = italian
+    religion = secularism
+    size = 185
+  }
+  farmers = {
+    culture = italian
+    religion =  catholic
+    size = 112179
+  }
+  farmers = {
+    culture = italian
+    religion = secularism
+    size = 9095
+  }
 }
 #Grosetto - Grosetto (495000/123750 POPS)
 748 = {
-	clergymen = {
-		culture = italian
-		religion =  catholic 
-		size = 2289
-	 } 
-	clergymen = {
-		culture = italian
-		religion = secularism
-		size = 185
-	 } 
-	farmers = {
-		culture = italian
-		religion =  catholic 
-		size = 112179
-	 } 
-	farmers = {
-		culture = italian
-		religion = secularism
-		size = 9095
-	 } 
+  clergymen = {
+    culture = italian
+    religion =  catholic
+    size = 2289
+  }
+  clergymen = {
+    culture = italian
+    religion = secularism
+    size = 185
+  }
+  farmers = {
+    culture = italian
+    religion =  catholic
+    size = 112179
+  }
+  farmers = {
+    culture = italian
+    religion = secularism
+    size = 9095
+  }
 }
 #Rome - Rome (3688000/922000 POPS)
 749 = {
-	officers = {
-		culture = italian
-		religion =  catholic 
-		size = 109
-	 } 
-	officers = {
-		culture = italian
-		religion = secularism
-		size = 8
-	 } 
-	soldiers = {
-		culture = italian
-		religion =  catholic 
-		size = 2084
-	 } 
-	soldiers = {
-		culture = italian
-		religion = secularism
-		size = 169
-	 } 
-	aristocrats = {
-		culture = italian
-		religion =  catholic 
-		size = 34114
-	 } 
-	aristocrats = {
-		culture = italian
-		religion = secularism
-		size = 2766
-	 } 
-	bureaucrats = {
-		culture = italian
-		religion =  catholic 
-		size = 1705
-	 } 
-	bureaucrats = {
-		culture = italian
-		religion = secularism
-		size = 138
-	 } 
-	capitalists = {
-		culture = italian
-		religion =  catholic 
-		size = 4264
-	 } 
-	capitalists = {
-		culture = italian
-		religion = secularism
-		size = 345
-	 } 
-	clergymen = {
-		culture = italian
-		religion =  catholic 
-		size = 17057
-	 } 
-	clergymen = {
-		culture = italian
-		religion = secularism
-		size = 1383
-	 } 
-	clerks = {
-		culture = italian
-		religion =  catholic 
-		size = 18730
-	 } 
-	clerks = {
-		culture = italian
-		religion = secularism
-		size = 1518
-	 } 
-	artisans = {
-		culture = italian
-		religion =  catholic 
-		size = 17793
-	 } 
-	artisans = {
-		culture = italian
-		religion = secularism
-		size = 1442
-	 } 
-	craftsmen = {
-		culture = italian
-		religion =  catholic 
-		size = 56190
-	 } 
-	craftsmen = {
-		culture = italian
-		religion = secularism
-		size = 4556
-	 } 
-	farmers = {
-		culture = italian
-		religion =  catholic 
-		size = 700800
-	 } 
-	farmers = {
-		culture = italian
-		religion = secularism
-		size = 56821
-	 } 
+  officers = {
+    culture = italian
+    religion =  catholic
+    size = 109
+  }
+  officers = {
+    culture = italian
+    religion = secularism
+    size = 8
+  }
+  soldiers = {
+    culture = italian
+    religion =  catholic
+    size = 2084
+  }
+  soldiers = {
+    culture = italian
+    religion = secularism
+    size = 169
+  }
+  aristocrats = {
+    culture = italian
+    religion =  catholic
+    size = 34114
+  }
+  aristocrats = {
+    culture = italian
+    religion = secularism
+    size = 2766
+  }
+  bureaucrats = {
+    culture = italian
+    religion =  catholic
+    size = 1705
+  }
+  bureaucrats = {
+    culture = italian
+    religion = secularism
+    size = 138
+  }
+  capitalists = {
+    culture = italian
+    religion =  catholic
+    size = 4264
+  }
+  capitalists = {
+    culture = italian
+    religion = secularism
+    size = 345
+  }
+  clergymen = {
+    culture = italian
+    religion =  catholic
+    size = 17057
+  }
+  clergymen = {
+    culture = italian
+    religion = secularism
+    size = 1383
+  }
+  clerks = {
+    culture = italian
+    religion =  catholic
+    size = 18730
+  }
+  clerks = {
+    culture = italian
+    religion = secularism
+    size = 1518
+  }
+  artisans = {
+    culture = italian
+    religion =  catholic
+    size = 17793
+  }
+  artisans = {
+    culture = italian
+    religion = secularism
+    size = 1442
+  }
+  craftsmen = {
+    culture = italian
+    religion =  catholic
+    size = 56190
+  }
+  craftsmen = {
+    culture = italian
+    religion = secularism
+    size = 4556
+  }
+  farmers = {
+    culture = italian
+    religion =  catholic
+    size = 700800
+  }
+  farmers = {
+    culture = italian
+    religion = secularism
+    size = 56821
+  }
 }
 #Viterbo - Viterbo (574000/143500 POPS)
 750 = {
-	clergymen = {
-		culture = italian
-		religion =  catholic 
-		size = 2654
-	 } 
-	clergymen = {
-		culture = italian
-		religion = secularism
-		size = 215
-	 } 
-	farmers = {
-		culture = italian
-		religion =  catholic 
-		size = 130082
-	 } 
-	farmers = {
-		culture = italian
-		religion = secularism
-		size = 10547
-	 } 
+  clergymen = {
+    culture = italian
+    religion =  catholic
+    size = 2654
+  }
+  clergymen = {
+    culture = italian
+    religion = secularism
+    size = 215
+  }
+  farmers = {
+    culture = italian
+    religion =  catholic
+    size = 130082
+  }
+  farmers = {
+    culture = italian
+    religion = secularism
+    size = 10547
+  }
 }
 #Perugia - Perugia (718000/179500 POPS)
 751 = {
-	clergymen = {
-		culture = italian
-		religion =  catholic 
-		size = 3320
-	 } 
-	clergymen = {
-		culture = italian
-		religion = secularism
-		size = 269
-	 } 
-	farmers = {
-		culture = italian
-		religion =  catholic 
-		size = 162716
-	 } 
-	farmers = {
-		culture = italian
-		religion = secularism
-		size = 13193
-	 } 
+  clergymen = {
+    culture = italian
+    religion =  catholic
+    size = 3320
+  }
+  clergymen = {
+    culture = italian
+    religion = secularism
+    size = 269
+  }
+  farmers = {
+    culture = italian
+    religion =  catholic
+    size = 162716
+  }
+  farmers = {
+    culture = italian
+    religion = secularism
+    size = 13193
+  }
 }
 #Ancona - Ancona (1240000/310000 POPS)
 752 = {
-	clergymen = {
-		culture = italian
-		religion =  catholic 
-		size = 5735
-	 } 
-	clergymen = {
-		culture = italian
-		religion = secularism
-		size = 465
-	 } 
-	farmers = {
-		culture = italian
-		religion =  catholic 
-		size = 281015
-	 } 
-	farmers = {
-		culture = italian
-		religion = secularism
-		size = 22785
-	 } 
+  clergymen = {
+    culture = italian
+    religion =  catholic
+    size = 5735
+  }
+  clergymen = {
+    culture = italian
+    religion = secularism
+    size = 465
+  }
+  farmers = {
+    culture = italian
+    religion =  catholic
+    size = 281015
+  }
+  farmers = {
+    culture = italian
+    religion = secularism
+    size = 22785
+  }
 }
 #Aquila - Aquila (1064000/266000 POPS)
 753 = {
-	clergymen = {
-		culture = italian
-		religion =  catholic 
-		size = 4921
-	 } 
-	clergymen = {
-		culture = italian
-		religion = secularism
-		size = 399
-	 } 
-	farmers = {
-		culture = italian
-		religion =  catholic 
-		size = 241129
-	 } 
-	farmers = {
-		culture = italian
-		religion = secularism
-		size = 19551
-	 } 
+  clergymen = {
+    culture = italian
+    religion =  catholic
+    size = 4921
+  }
+  clergymen = {
+    culture = italian
+    religion = secularism
+    size = 399
+  }
+  farmers = {
+    culture = italian
+    religion =  catholic
+    size = 241129
+  }
+  farmers = {
+    culture = italian
+    religion = secularism
+    size = 19551
+  }
 }
 #Naples - Naples (3004000/751000 POPS)
 754 = {
-	officers = {
-		culture = italian
-		religion =  catholic 
-		size = 187
-	 } 
-	officers = {
-		culture = italian
-		religion = secularism
-		size = 15
-	 } 
-	soldiers = {
-		culture = italian
-		religion =  catholic 
-		size = 3578
-	 } 
-	soldiers = {
-		culture = italian
-		religion = secularism
-		size = 290
-	 } 
-	aristocrats = {
-		culture = italian
-		religion =  catholic 
-		size = 27787
-	 } 
-	aristocrats = {
-		culture = italian
-		religion = secularism
-		size = 2253
-	 } 
-	bureaucrats = {
-		culture = italian
-		religion =  catholic 
-		size = 1389
-	 } 
-	bureaucrats = {
-		culture = italian
-		religion = secularism
-		size = 112
-	 } 
-	capitalists = {
-		culture = italian
-		religion =  catholic 
-		size = 3473
-	 } 
-	capitalists = {
-		culture = italian
-		religion = secularism
-		size = 281
-	 } 
-	clergymen = {
-		culture = italian
-		religion =  catholic 
-		size = 13893
-	 } 
-	clergymen = {
-		culture = italian
-		religion = secularism
-		size = 1126
-	 } 
-	clerks = {
-		culture = italian
-		religion =  catholic 
-		size = 15212
-	 } 
-	clerks = {
-		culture = italian
-		religion = secularism
-		size = 1233
-	 } 
-	artisans = {
-		culture = italian
-		religion =  catholic 
-		size = 14452
-	 } 
-	artisans = {
-		culture = italian
-		religion = secularism
-		size = 1171
-	 } 
-	craftsmen = {
-		culture = italian
-		religion =  catholic 
-		size = 45638
-	 } 
-	craftsmen = {
-		culture = italian
-		religion = secularism
-		size = 3700
-	 } 
-	farmers = {
-		culture = italian
-		religion =  catholic 
-		size = 569061
-	 } 
-	farmers = {
-		culture = italian
-		religion = secularism
-		size = 46140
-	 } 
+  officers = {
+    culture = italian
+    religion =  catholic
+    size = 187
+  }
+  officers = {
+    culture = italian
+    religion = secularism
+    size = 15
+  }
+  soldiers = {
+    culture = italian
+    religion =  catholic
+    size = 3578
+  }
+  soldiers = {
+    culture = italian
+    religion = secularism
+    size = 290
+  }
+  aristocrats = {
+    culture = italian
+    religion =  catholic
+    size = 27787
+  }
+  aristocrats = {
+    culture = italian
+    religion = secularism
+    size = 2253
+  }
+  bureaucrats = {
+    culture = italian
+    religion =  catholic
+    size = 1389
+  }
+  bureaucrats = {
+    culture = italian
+    religion = secularism
+    size = 112
+  }
+  capitalists = {
+    culture = italian
+    religion =  catholic
+    size = 3473
+  }
+  capitalists = {
+    culture = italian
+    religion = secularism
+    size = 281
+  }
+  clergymen = {
+    culture = italian
+    religion =  catholic
+    size = 13893
+  }
+  clergymen = {
+    culture = italian
+    religion = secularism
+    size = 1126
+  }
+  clerks = {
+    culture = italian
+    religion =  catholic
+    size = 15212
+  }
+  clerks = {
+    culture = italian
+    religion = secularism
+    size = 1233
+  }
+  artisans = {
+    culture = italian
+    religion =  catholic
+    size = 14452
+  }
+  artisans = {
+    culture = italian
+    religion = secularism
+    size = 1171
+  }
+  craftsmen = {
+    culture = italian
+    religion =  catholic
+    size = 45638
+  }
+  craftsmen = {
+    culture = italian
+    religion = secularism
+    size = 3700
+  }
+  farmers = {
+    culture = italian
+    religion =  catholic
+    size = 569061
+  }
+  farmers = {
+    culture = italian
+    religion = secularism
+    size = 46140
+  }
 }
 #Salerno - Salerno (660000/165000 POPS)
 755 = {
-	clergymen = {
-		culture = italian
-		religion =  catholic 
-		size = 3052
-	 } 
-	clergymen = {
-		culture = italian
-		religion = secularism
-		size = 247
-	 } 
-	farmers = {
-		culture = italian
-		religion =  catholic 
-		size = 149572
-	 } 
-	farmers = {
-		culture = italian
-		religion = secularism
-		size = 12127
-	 } 
+  clergymen = {
+    culture = italian
+    religion =  catholic
+    size = 3052
+  }
+  clergymen = {
+    culture = italian
+    religion = secularism
+    size = 247
+  }
+  farmers = {
+    culture = italian
+    religion =  catholic
+    size = 149572
+  }
+  farmers = {
+    culture = italian
+    religion = secularism
+    size = 12127
+  }
 }
 #Bari - Bari (1622000/405500 POPS)
 756 = {
-	clergymen = {
-		culture = italian
-		religion =  catholic 
-		size = 7501
-	 } 
-	clergymen = {
-		culture = italian
-		religion = secularism
-		size = 608
-	 } 
-	farmers = {
-		culture = italian
-		religion =  catholic 
-		size = 367585
-	 } 
-	farmers = {
-		culture = italian
-		religion = secularism
-		size = 29804
-	 } 
+  clergymen = {
+    culture = italian
+    religion =  catholic
+    size = 7501
+  }
+  clergymen = {
+    culture = italian
+    religion = secularism
+    size = 608
+  }
+  farmers = {
+    culture = italian
+    religion =  catholic
+    size = 367585
+  }
+  farmers = {
+    culture = italian
+    religion = secularism
+    size = 29804
+  }
 }
 #Foggia - Foggia (253000/63250 POPS)
 757 = {
-	clergymen = {
-		culture = italian
-		religion =  catholic 
-		size = 1170
-	 } 
-	clergymen = {
-		culture = italian
-		religion = secularism
-		size = 94
-	 } 
-	farmers = {
-		culture = italian
-		religion =  catholic 
-		size = 57336
-	 } 
-	farmers = {
-		culture = italian
-		religion = secularism
-		size = 4648
-	 } 
+  clergymen = {
+    culture = italian
+    religion =  catholic
+    size = 1170
+  }
+  clergymen = {
+    culture = italian
+    religion = secularism
+    size = 94
+  }
+  farmers = {
+    culture = italian
+    religion =  catholic
+    size = 57336
+  }
+  farmers = {
+    culture = italian
+    religion = secularism
+    size = 4648
+  }
 }
 #Brindisi - Brindisi (1622000/405500 POPS)
 758 = {
-	clergymen = {
-		culture = italian
-		religion =  catholic 
-		size = 7501
-	 } 
-	clergymen = {
-		culture = italian
-		religion = secularism
-		size = 608
-	 } 
-	farmers = {
-		culture = italian
-		religion =  catholic 
-		size = 348831
-	 } 
-	farmers = {
-		culture = italian
-		religion = secularism
-		size = 28283
-	 } 
-	farmers = {
-		culture = albanian
-		religion =  sunni 
-		size = 20275
-	 } 
+  clergymen = {
+    culture = italian
+    religion =  catholic
+    size = 7501
+  }
+  clergymen = {
+    culture = italian
+    religion = secularism
+    size = 608
+  }
+  farmers = {
+    culture = italian
+    religion =  catholic
+    size = 348831
+  }
+  farmers = {
+    culture = italian
+    religion = secularism
+    size = 28283
+  }
+  farmers = {
+    culture = albanian
+    religion =  sunni
+    size = 20275
+  }
 }
 #Reggio di Calabria - Reggio di Calabria (797000/199250 POPS)
 759 = {
-	clergymen = {
-		culture = italian
-		religion =  catholic 
-		size = 3686
-	 } 
-	clergymen = {
-		culture = italian
-		religion = secularism
-		size = 298
-	 } 
-	farmers = {
-		culture = italian
-		religion =  catholic 
-		size = 180620
-	 } 
-	farmers = {
-		culture = italian
-		religion = secularism
-		size = 14644
-	 } 
+  clergymen = {
+    culture = italian
+    religion =  catholic
+    size = 3686
+  }
+  clergymen = {
+    culture = italian
+    religion = secularism
+    size = 298
+  }
+  farmers = {
+    culture = italian
+    religion =  catholic
+    size = 180620
+  }
+  farmers = {
+    culture = italian
+    religion = secularism
+    size = 14644
+  }
 }
 #Catanzaro - Catanzaro (797000/199250 POPS)
 760 = {
-	clergymen = {
-		culture = italian
-		religion =  catholic 
-		size = 3686
-	 } 
-	clergymen = {
-		culture = italian
-		religion = secularism
-		size = 298
-	 } 
-	farmers = {
-		culture = italian
-		religion =  catholic 
-		size = 180620
-	 } 
-	farmers = {
-		culture = italian
-		religion = secularism
-		size = 14644
-	 } 
+  clergymen = {
+    culture = italian
+    religion =  catholic
+    size = 3686
+  }
+  clergymen = {
+    culture = italian
+    religion = secularism
+    size = 298
+  }
+  farmers = {
+    culture = italian
+    religion =  catholic
+    size = 180620
+  }
+  farmers = {
+    culture = italian
+    religion = secularism
+    size = 14644
+  }
 }
 #Potenza - Potenza (465000/116250 POPS)
 761 = {
-	clergymen = {
-		culture = italian
-		religion =  catholic 
-		size = 2150
-	 } 
-	clergymen = {
-		culture = italian
-		religion = secularism
-		size = 174
-	 } 
-	farmers = {
-		culture = italian
-		religion =  catholic 
-		size = 105380
-	 } 
-	farmers = {
-		culture = italian
-		religion = secularism
-		size = 8544
-	 } 
+  clergymen = {
+    culture = italian
+    religion =  catholic
+    size = 2150
+  }
+  clergymen = {
+    culture = italian
+    religion = secularism
+    size = 174
+  }
+  farmers = {
+    culture = italian
+    religion =  catholic
+    size = 105380
+  }
+  farmers = {
+    culture = italian
+    religion = secularism
+    size = 8544
+  }
 }
 #Palermo - Palermo (2260000/565000 POPS)
 762 = {
-	officers = {
-		culture = italian
-		religion =  catholic 
-		size = 70
-	 } 
-	officers = {
-		culture = italian
-		religion = secularism
-		size = 5
-	 } 
-	soldiers = {
-		culture = italian
-		religion =  catholic 
-		size = 1345
-	 } 
-	soldiers = {
-		culture = italian
-		religion = secularism
-		size = 109
-	 } 
-	aristocrats = {
-		culture = italian
-		religion =  catholic 
-		size = 20905
-	 } 
-	aristocrats = {
-		culture = italian
-		religion = secularism
-		size = 1695
-	 } 
-	bureaucrats = {
-		culture = italian
-		religion =  catholic 
-		size = 1045
-	 } 
-	bureaucrats = {
-		culture = italian
-		religion = secularism
-		size = 84
-	 } 
-	capitalists = {
-		culture = italian
-		religion =  catholic 
-		size = 2613
-	 } 
-	capitalists = {
-		culture = italian
-		religion = secularism
-		size = 211
-	 } 
-	clergymen = {
-		culture = italian
-		religion =  catholic 
-		size = 10452
-	 } 
-	clergymen = {
-		culture = italian
-		religion = secularism
-		size = 847
-	 } 
-	clerks = {
-		culture = italian
-		religion =  catholic 
-		size = 11476
-	 } 
-	clerks = {
-		culture = italian
-		religion = secularism
-		size = 930
-	 } 
-	artisans = {
-		culture = italian
-		religion =  catholic 
-		size = 10902
-	 } 
-	artisans = {
-		culture = italian
-		religion = secularism
-		size = 883
-	 } 
-	craftsmen = {
-		culture = italian
-		religion =  catholic 
-		size = 34429
-	 } 
-	craftsmen = {
-		culture = italian
-		religion = secularism
-		size = 2791
-	 } 
-	farmers = {
-		culture = italian
-		religion =  catholic 
-		size = 429385
-	 } 
-	farmers = {
-		culture = italian
-		religion = secularism
-		size = 34815
-	 } 
+  officers = {
+    culture = italian
+    religion =  catholic
+    size = 70
+  }
+  officers = {
+    culture = italian
+    religion = secularism
+    size = 5
+  }
+  soldiers = {
+    culture = italian
+    religion =  catholic
+    size = 1345
+  }
+  soldiers = {
+    culture = italian
+    religion = secularism
+    size = 109
+  }
+  aristocrats = {
+    culture = italian
+    religion =  catholic
+    size = 20905
+  }
+  aristocrats = {
+    culture = italian
+    religion = secularism
+    size = 1695
+  }
+  bureaucrats = {
+    culture = italian
+    religion =  catholic
+    size = 1045
+  }
+  bureaucrats = {
+    culture = italian
+    religion = secularism
+    size = 84
+  }
+  capitalists = {
+    culture = italian
+    religion =  catholic
+    size = 2613
+  }
+  capitalists = {
+    culture = italian
+    religion = secularism
+    size = 211
+  }
+  clergymen = {
+    culture = italian
+    religion =  catholic
+    size = 10452
+  }
+  clergymen = {
+    culture = italian
+    religion = secularism
+    size = 847
+  }
+  clerks = {
+    culture = italian
+    religion =  catholic
+    size = 11476
+  }
+  clerks = {
+    culture = italian
+    religion = secularism
+    size = 930
+  }
+  artisans = {
+    culture = italian
+    religion =  catholic
+    size = 10902
+  }
+  artisans = {
+    culture = italian
+    religion = secularism
+    size = 883
+  }
+  craftsmen = {
+    culture = italian
+    religion =  catholic
+    size = 34429
+  }
+  craftsmen = {
+    culture = italian
+    religion = secularism
+    size = 2791
+  }
+  farmers = {
+    culture = italian
+    religion =  catholic
+    size = 429385
+  }
+  farmers = {
+    culture = italian
+    religion = secularism
+    size = 34815
+  }
 }
 #Messina - Messina (1308000/327000 POPS)
 763 = {
-	clergymen = {
-		culture = italian
-		religion =  catholic 
-		size = 6049
-	 } 
-	clergymen = {
-		culture = italian
-		religion = secularism
-		size = 490
-	 } 
-	farmers = {
-		culture = italian
-		religion =  catholic 
-		size = 296425
-	 } 
-	farmers = {
-		culture = italian
-		religion = secularism
-		size = 24034
-	 } 
+  clergymen = {
+    culture = italian
+    religion =  catholic
+    size = 6049
+  }
+  clergymen = {
+    culture = italian
+    religion = secularism
+    size = 490
+  }
+  farmers = {
+    culture = italian
+    religion =  catholic
+    size = 296425
+  }
+  farmers = {
+    culture = italian
+    religion = secularism
+    size = 24034
+  }
 }
 #Catania - Catania (436000/109000 POPS)
 764 = {
-	clergymen = {
-		culture = italian
-		religion =  catholic 
-		size = 2016
-	 } 
-	clergymen = {
-		culture = italian
-		religion = secularism
-		size = 163
-	 } 
-	farmers = {
-		culture = italian
-		religion =  catholic 
-		size = 98808
-	 } 
-	farmers = {
-		culture = italian
-		religion = secularism
-		size = 8011
-	 } 
+  clergymen = {
+    culture = italian
+    religion =  catholic
+    size = 2016
+  }
+  clergymen = {
+    culture = italian
+    religion = secularism
+    size = 163
+  }
+  farmers = {
+    culture = italian
+    religion =  catholic
+    size = 98808
+  }
+  farmers = {
+    culture = italian
+    religion = secularism
+    size = 8011
+  }
 }
 #Cagliari - Cagliari (474000/118500 POPS)
 765 = {
-	officers = {
-		culture = italian
-		religion =  catholic 
-		size = 23
-	 } 
-	officers = {
-		culture = italian
-		religion = secularism
-		size = 1
-	 } 
-	soldiers = {
-		culture = italian
-		religion =  catholic 
-		size = 451
-	 } 
-	soldiers = {
-		culture = italian
-		religion = secularism
-		size = 36
-	 } 
-	aristocrats = {
-		culture = italian
-		religion =  catholic 
-		size = 4384
-	 } 
-	aristocrats = {
-		culture = italian
-		religion = secularism
-		size = 355
-	 } 
-	bureaucrats = {
-		culture = italian
-		religion =  catholic 
-		size = 219
-	 } 
-	bureaucrats = {
-		culture = italian
-		religion = secularism
-		size = 17
-	 } 
-	capitalists = {
-		culture = italian
-		religion =  catholic 
-		size = 547
-	 } 
-	capitalists = {
-		culture = italian
-		religion = secularism
-		size = 44
-	 } 
-	clergymen = {
-		culture = italian
-		religion =  catholic 
-		size = 2192
-	 } 
-	clergymen = {
-		culture = italian
-		religion = secularism
-		size = 177
-	 } 
-	clerks = {
-		culture = italian
-		religion =  catholic 
-		size = 2403
-	 } 
-	clerks = {
-		culture = italian
-		religion = secularism
-		size = 194
-	 } 
-	artisans = {
-		culture = italian
-		religion =  catholic 
-		size = 2282
-	 } 
-	artisans = {
-		culture = italian
-		religion = secularism
-		size = 185
-	 } 
-	craftsmen = {
-		culture = italian
-		religion =  catholic 
-		size = 7209
-	 } 
-	craftsmen = {
-		culture = italian
-		religion = secularism
-		size = 584
-	 } 
-	farmers = {
-		culture = italian
-		religion =  catholic 
-		size = 2208
-	 } 
-	farmers = {
-		culture = italian
-		religion = secularism
-		size = 179
-	 } 
-	farmers = {
-		culture = sardinian
-		religion =  catholic 
-		size = 87690
-	 } 
-	farmers = {
-		culture = sardinian
-		religion = secularism
-		size = 7110
-	 } 
+  officers = {
+    culture = italian
+    religion =  catholic
+    size = 23
+  }
+  officers = {
+    culture = italian
+    religion = secularism
+    size = 1
+  }
+  soldiers = {
+    culture = italian
+    religion =  catholic
+    size = 451
+  }
+  soldiers = {
+    culture = italian
+    religion = secularism
+    size = 36
+  }
+  aristocrats = {
+    culture = italian
+    religion =  catholic
+    size = 4384
+  }
+  aristocrats = {
+    culture = italian
+    religion = secularism
+    size = 355
+  }
+  bureaucrats = {
+    culture = italian
+    religion =  catholic
+    size = 219
+  }
+  bureaucrats = {
+    culture = italian
+    religion = secularism
+    size = 17
+  }
+  capitalists = {
+    culture = italian
+    religion =  catholic
+    size = 547
+  }
+  capitalists = {
+    culture = italian
+    religion = secularism
+    size = 44
+  }
+  clergymen = {
+    culture = italian
+    religion =  catholic
+    size = 2192
+  }
+  clergymen = {
+    culture = italian
+    religion = secularism
+    size = 177
+  }
+  clerks = {
+    culture = italian
+    religion =  catholic
+    size = 2403
+  }
+  clerks = {
+    culture = italian
+    religion = secularism
+    size = 194
+  }
+  artisans = {
+    culture = italian
+    religion =  catholic
+    size = 2282
+  }
+  artisans = {
+    culture = italian
+    religion = secularism
+    size = 185
+  }
+  craftsmen = {
+    culture = italian
+    religion =  catholic
+    size = 7209
+  }
+  craftsmen = {
+    culture = italian
+    religion = secularism
+    size = 584
+  }
+  farmers = {
+    culture = italian
+    religion =  catholic
+    size = 2208
+  }
+  farmers = {
+    culture = italian
+    religion = secularism
+    size = 179
+  }
+  farmers = {
+    culture = sardinian
+    religion =  catholic
+    size = 87690
+  }
+  farmers = {
+    culture = sardinian
+    religion = secularism
+    size = 7110
+  }
 }
 #Sassari - Sassari (855000/213750 POPS)
 766 = {
-	clergymen = {
-		culture = italian
-		religion =  catholic 
-		size = 3954
-	 } 
-	clergymen = {
-		culture = italian
-		religion = secularism
-		size = 320
-	 } 
-	farmers = {
-		culture = italian
-		religion =  catholic 
-		size = 57337
-	 } 
-	farmers = {
-		culture = italian
-		religion = secularism
-		size = 4649
-	 } 
-	farmers = {
-		culture = sardinian
-		religion =  catholic 
-		size = 98859
-	 } 
-	farmers = {
-		culture = sardinian
-		religion = secularism
-		size = 8015
-	 } 
-	farmers = {
-		culture = corsican
-		religion =  catholic 
-		size = 35589
-	 } 
-	farmers = {
-		culture = corsican
-		religion = secularism
-		size = 2885
-	 } 
-	farmers = {
-		culture = catalan
-		religion =  catholic 
-		size = 1976
-	 } 
-	farmers = {
-		culture = catalan
-		religion = secularism
-		size = 160
-	 } 
+  clergymen = {
+    culture = italian
+    religion =  catholic
+    size = 3954
+  }
+  clergymen = {
+    culture = italian
+    religion = secularism
+    size = 320
+  }
+  farmers = {
+    culture = italian
+    religion =  catholic
+    size = 57337
+  }
+  farmers = {
+    culture = italian
+    religion = secularism
+    size = 4649
+  }
+  farmers = {
+    culture = sardinian
+    religion =  catholic
+    size = 98859
+  }
+  farmers = {
+    culture = sardinian
+    religion = secularism
+    size = 8015
+  }
+  farmers = {
+    culture = corsican
+    religion =  catholic
+    size = 35589
+  }
+  farmers = {
+    culture = corsican
+    religion = secularism
+    size = 2885
+  }
+  farmers = {
+    culture = catalan
+    religion =  catholic
+    size = 1976
+  }
+  farmers = {
+    culture = catalan
+    religion = secularism
+    size = 160
+  }
 }

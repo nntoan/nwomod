@@ -1,232 +1,232 @@
 #Guatemala - Guatemala (3897000/974250 POPS)
 2186 = {
-	officers = {
-		culture = central_american_spanish
-		religion =  catholic 
-		size = 3206
-	 } 
-	officers = {
-		culture = central_american_spanish
-		religion = secularism
-		size = 356
-	 } 
-	soldiers = {
-		culture = central_american_spanish
-		religion =  catholic 
-		size = 60936
-	 } 
-	soldiers = {
-		culture = central_american_spanish
-		religion = secularism
-		size = 6770
-	 } 
-	aristocrats = {
-		culture = central_american_spanish
-		religion =  catholic 
-		size = 35073
-	 } 
-	aristocrats = {
-		culture = central_american_spanish
-		religion = secularism
-		size = 3897
-	 } 
-	bureaucrats = {
-		culture = central_american_spanish
-		religion =  catholic 
-		size = 1753
-	 } 
-	bureaucrats = {
-		culture = central_american_spanish
-		religion = secularism
-		size = 194
-	 } 
-	capitalists = {
-		culture = central_american_spanish
-		religion =  catholic 
-		size = 4383
-	 } 
-	capitalists = {
-		culture = central_american_spanish
-		religion = secularism
-		size = 487
-	 } 
-	clergymen = {
-		culture = central_american_spanish
-		religion =  catholic 
-		size = 17536
-	 } 
-	clergymen = {
-		culture = central_american_spanish
-		religion = secularism
-		size = 1948
-	 } 
-	clerks = {
-		culture = central_american_spanish
-		religion =  catholic 
-		size = 15103
-	 } 
-	clerks = {
-		culture = central_american_spanish
-		religion = secularism
-		size = 1678
-	 } 
-	artisans = {
-		culture = central_american_spanish
-		religion =  catholic 
-		size = 14348
-	 } 
-	artisans = {
-		culture = central_american_spanish
-		religion = secularism
-		size = 1594
-	 } 
-	craftsmen = {
-		culture = central_american_spanish
-		religion =  catholic 
-		size = 45311
-	 } 
-	craftsmen = {
-		culture = central_american_spanish
-		religion = secularism
-		size = 5034
-	 } 
-	farmers = {
-		culture = central_american_spanish
-		religion =  catholic 
-		size = 126771
-	 } 
-	farmers = {
-		culture = central_american_spanish
-		religion = secularism
-		size = 14085
-	 } 
-	farmers = {
-		culture = central_american_spanish
-		religion =  catholic 
-		size = 552399
-	 } 
-	farmers = {
-		culture = central_american_spanish
-		religion = secularism
-		size = 61377
-	 } 
+  officers = {
+    culture = central_american_spanish
+    religion =  catholic
+    size = 3206
+  }
+  officers = {
+    culture = central_american_spanish
+    religion = secularism
+    size = 356
+  }
+  soldiers = {
+    culture = central_american_spanish
+    religion =  catholic
+    size = 60936
+  }
+  soldiers = {
+    culture = central_american_spanish
+    religion = secularism
+    size = 6770
+  }
+  aristocrats = {
+    culture = central_american_spanish
+    religion =  catholic
+    size = 35073
+  }
+  aristocrats = {
+    culture = central_american_spanish
+    religion = secularism
+    size = 3897
+  }
+  bureaucrats = {
+    culture = central_american_spanish
+    religion =  catholic
+    size = 1753
+  }
+  bureaucrats = {
+    culture = central_american_spanish
+    religion = secularism
+    size = 194
+  }
+  capitalists = {
+    culture = central_american_spanish
+    religion =  catholic
+    size = 4383
+  }
+  capitalists = {
+    culture = central_american_spanish
+    religion = secularism
+    size = 487
+  }
+  clergymen = {
+    culture = central_american_spanish
+    religion =  catholic
+    size = 17536
+  }
+  clergymen = {
+    culture = central_american_spanish
+    religion = secularism
+    size = 1948
+  }
+  clerks = {
+    culture = central_american_spanish
+    religion =  catholic
+    size = 15103
+  }
+  clerks = {
+    culture = central_american_spanish
+    religion = secularism
+    size = 1678
+  }
+  artisans = {
+    culture = central_american_spanish
+    religion =  catholic
+    size = 14348
+  }
+  artisans = {
+    culture = central_american_spanish
+    religion = secularism
+    size = 1594
+  }
+  craftsmen = {
+    culture = central_american_spanish
+    religion =  catholic
+    size = 45311
+  }
+  craftsmen = {
+    culture = central_american_spanish
+    religion = secularism
+    size = 5034
+  }
+  farmers = {
+    culture = central_american_spanish
+    religion =  catholic
+    size = 126771
+  }
+  farmers = {
+    culture = central_american_spanish
+    religion = secularism
+    size = 14085
+  }
+  farmers = {
+    culture = central_american_spanish
+    religion =  catholic
+    size = 552399
+  }
+  farmers = {
+    culture = central_american_spanish
+    religion = secularism
+    size = 61377
+  }
 }
 #Quetzaltenango - Quetzaltenango (3310000/827500 POPS)
 2187 = {
-	clergymen = {
-		culture = mayan
-		religion =  catholic 
-		size = 14895
-	 } 
-	clergymen = {
-		culture = mayan
-		religion = secularism
-		size = 1655
-	 } 
-	farmers = {
-		culture = mayan
-		religion =  catholic 
-		size = 580905
-	 } 
-	farmers = {
-		culture = mayan
-		religion = secularism
-		size = 64545
-	 } 
-	farmers = {
-		culture = central_american_spanish
-		religion =  catholic 
-		size = 148950
-	 } 
-	farmers = {
-		culture = central_american_spanish
-		religion = secularism
-		size = 16550
-	 } 
+  clergymen = {
+    culture = mayan
+    religion =  catholic
+    size = 14895
+  }
+  clergymen = {
+    culture = mayan
+    religion = secularism
+    size = 1655
+  }
+  farmers = {
+    culture = mayan
+    religion =  catholic
+    size = 580905
+  }
+  farmers = {
+    culture = mayan
+    religion = secularism
+    size = 64545
+  }
+  farmers = {
+    culture = central_american_spanish
+    religion =  catholic
+    size = 148950
+  }
+  farmers = {
+    culture = central_american_spanish
+    religion = secularism
+    size = 16550
+  }
 }
 #Puerto Barrios - Puerto Barrios (1359000/339750 POPS)
 2188 = {
-	clergymen = {
-		culture = central_american_spanish
-		religion =  catholic 
-		size = 6115
-	 } 
-	clergymen = {
-		culture = central_american_spanish
-		religion = secularism
-		size = 679
-	 } 
-	farmers = {
-		culture = central_american_spanish
-		religion =  catholic 
-		size = 24462
-	 } 
-	farmers = {
-		culture = central_american_spanish
-		religion = secularism
-		size = 2718
-	 } 
-	farmers = {
-		culture = mayan
-		religion =  catholic 
-		size = 177349
-	 } 
-	farmers = {
-		culture = mayan
-		religion = secularism
-		size = 19705
-	 } 
-	farmers = {
-		culture = afro_spanish
-		religion =  catholic 
-		size = 45865
-	 } 
-	farmers = {
-		culture = afro_spanish
-		religion = secularism
-		size = 5096
-	 } 
-	farmers = {
-		culture = central_american_spanish
-		religion =  catholic 
-		size = 51981
-	 } 
-	farmers = {
-		culture = central_american_spanish
-		religion = secularism
-		size = 5775
-	 } 
+  clergymen = {
+    culture = central_american_spanish
+    religion =  catholic
+    size = 6115
+  }
+  clergymen = {
+    culture = central_american_spanish
+    religion = secularism
+    size = 679
+  }
+  farmers = {
+    culture = central_american_spanish
+    religion =  catholic
+    size = 24462
+  }
+  farmers = {
+    culture = central_american_spanish
+    religion = secularism
+    size = 2718
+  }
+  farmers = {
+    culture = mayan
+    religion =  catholic
+    size = 177349
+  }
+  farmers = {
+    culture = mayan
+    religion = secularism
+    size = 19705
+  }
+  farmers = {
+    culture = afro_spanish
+    religion =  catholic
+    size = 45865
+  }
+  farmers = {
+    culture = afro_spanish
+    religion = secularism
+    size = 5096
+  }
+  farmers = {
+    culture = central_american_spanish
+    religion =  catholic
+    size = 51981
+  }
+  farmers = {
+    culture = central_american_spanish
+    religion = secularism
+    size = 5775
+  }
 }
 #Sayaxche - Peten (398000/99500 POPS)
 2189 = {
-	clergymen = {
-		culture = mayan
-		religion =  catholic 
-		size = 1791
-	 } 
-	clergymen = {
-		culture = mayan
-		religion = secularism
-		size = 199
-	 } 
-	farmers = {
-		culture = mayan
-		religion =  catholic 
-		size = 25074
-	 } 
-	farmers = {
-		culture = mayan
-		religion = secularism
-		size = 2786
-	 } 
-	farmers = {
-		culture = central_american_spanish
-		religion =  catholic 
-		size = 62685
-	 } 
-	farmers = {
-		culture = central_american_spanish
-		religion = secularism
-		size = 6965
-	 } 
+  clergymen = {
+    culture = mayan
+    religion =  catholic
+    size = 1791
+  }
+  clergymen = {
+    culture = mayan
+    religion = secularism
+    size = 199
+  }
+  farmers = {
+    culture = mayan
+    religion =  catholic
+    size = 25074
+  }
+  farmers = {
+    culture = mayan
+    religion = secularism
+    size = 2786
+  }
+  farmers = {
+    culture = central_american_spanish
+    religion =  catholic
+    size = 62685
+  }
+  farmers = {
+    culture = central_american_spanish
+    religion = secularism
+    size = 6965
+  }
 }

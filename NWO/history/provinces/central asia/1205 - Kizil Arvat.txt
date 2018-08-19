@@ -6,8 +6,8 @@ life_rating = 39
 terrain = desert
 colonial = 2
 1992.1.1 = {
-owner = TKR
-controller = TKR
-add_core = TKR
-colonial = 0
+  owner = TKR
+  controller = TKR
+  add_core = TKR
+  colonial = 0
 }

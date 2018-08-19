@@ -6,8 +6,8 @@ life_rating = 39
 terrain = jungle_mountains
 colonial = 0
 1992.1.1 = {
-owner = GUA
-controller = GUA
-add_core = GUA
-colonial = 0
+  owner = GUA
+  controller = GUA
+  add_core = GUA
+  colonial = 0
 }

@@ -9,29 +9,29 @@ country_event = {
     tag = BEL
     year = 1953
     NOT = { year = 1990 }
-	
+
   }
 
   mean_time_to_happen = { months = 11 }
 
   option = {
     name = "EVT_8001406_A"
-	any_pop = { consciousness = 2 }
-	define_general = { name = "Baudouin I" personality = energetic background = no_background }
-	ai_chance = { factor = 80 }
+    any_pop = { consciousness = 2 }
+    define_general = { name = "Baudouin I" personality = energetic background = no_background }
+    ai_chance = { factor = 80 }
   }
 
   option = {
     name = "EVT_8001406_B"
-	any_pop = { militancy = 3.0 }
-	define_general = { name = "Leopold III" personality = energetic background = no_background }
-	ai_chance = { factor = 10 }
+    any_pop = { militancy = 3.0 }
+    define_general = { name = "Leopold III" personality = energetic background = no_background }
+    ai_chance = { factor = 10 }
   }
 
   option = {
     name = "EVT_8001406_C"
-	any_pop = { militancy = 1.5 consciousness = 2 }
-	define_general = { name = "Charles" personality = energetic background = no_background }
-	ai_chance = { factor = 10 }
+    any_pop = { militancy = 1.5 consciousness = 2 }
+    define_general = { name = "Charles" personality = energetic background = no_background }
+    ai_chance = { factor = 10 }
   }
 }

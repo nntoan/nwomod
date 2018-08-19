@@ -8,10 +8,10 @@ terrain = tundra
 railroad = 1
 colonial = 0
 1992.1.1 = {
-owner = CAN
-controller = CAN
-add_core = CAN
-add_core = QUE
-railroad = 1
-colonial = 0
+  owner = CAN
+  controller = CAN
+  add_core = CAN
+  add_core = QUE
+  railroad = 1
+  colonial = 0
 }

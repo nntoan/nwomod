@@ -8,54 +8,54 @@ railroad = 1
 colonial = 0
 set_province_flag = eiffel_tower_built
 state_building = {
-	level = 1
-	building = specialized_machinery_factory
-	upgrade = yes
+  level = 1
+  building = specialized_machinery_factory
+  upgrade = yes
 }
 state_building = {
-	level = 1
-	building = glass_factory
-	upgrade = yes
+  level = 1
+  building = glass_factory
+  upgrade = yes
 }
 state_building = {
-	level = 1
-	building = automobiles_factory
-	upgrade = yes
+  level = 1
+  building = automobiles_factory
+  upgrade = yes
 }
 state_building = {
-	level = 1
-	building = clothes_factory
-	upgrade = yes
+  level = 1
+  building = clothes_factory
+  upgrade = yes
 }
 state_building = {
-	level = 1
-	building = beverages_factory
-	upgrade = yes
+  level = 1
+  building = beverages_factory
+  upgrade = yes
 }
 state_building = {
-	level = 1
-	building = ships_factory
-	upgrade = yes
+  level = 1
+  building = ships_factory
+  upgrade = yes
 }
 state_building = {
-	level = 1
-	building = petrochemicals_factory
-	upgrade = yes
+  level = 1
+  building = petrochemicals_factory
+  upgrade = yes
 }
 1992.1.1 = {
-owner = FRA
-controller = FRA
-add_core = FRA
-railroad = 2
-colonial = 0
-state_building = {
-	level = 2
-	building = heating_electricity_factory
-	upgrade = yes
-}
-state_building = {
-	level = 2
-	building = health_factory
-	upgrade = yes
-}
+  owner = FRA
+  controller = FRA
+  add_core = FRA
+  railroad = 2
+  colonial = 0
+  state_building = {
+    level = 2
+    building = heating_electricity_factory
+    upgrade = yes
+  }
+  state_building = {
+    level = 2
+    building = health_factory
+    upgrade = yes
+  }
 }

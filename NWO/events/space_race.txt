@@ -1,14 +1,14 @@
 ### 8211003  USA  Operation Paperclip
 ### 8211004  SOV  Research of Sergei Korolyov
-### 8211008  SOV  Launch of Sputnik 
-### 8211009  USA  Launch of Sputnik 
-### 8211010  USA  Launch of Explorer 
+### 8211008  SOV  Launch of Sputnik
+### 8211009  USA  Launch of Sputnik
+### 8211010  USA  Launch of Explorer
 ### 8211011  SOV  Launch of Explorer
 ### 8211015  SOV  Gagarin in Space
 ### 8211016  USA  Gagarin in Space
 ### 8211017  USA  Shepard in Space
 ### 8211018  SOV  Shepard in Space
-### 8211022  SOV  L3 Moon Expedition 
+### 8211022  SOV  L3 Moon Expedition
 ### 8211023  USA  L3 Moon Expedition
 ### 8211024  USA  Apollo 11
 ### 8211025  SOV  Apollo 11
@@ -24,16 +24,16 @@ country_event = {
 
   trigger = {
     tag = USA
-	year = 1946 NOT = { year = 1959 }
-    
+    year = 1946 NOT = { year = 1959 }
+
   }
 
   mean_time_to_happen = { months = 6  }
 
   option = {
     name = EVT_8211003_A
-	set_global_flag = USA_rocket_engineers 
-	years_of_research = 0.5
+    set_global_flag = USA_rocket_engineers
+    years_of_research = 0.5
   }
 }
 country_event = {
@@ -45,15 +45,15 @@ country_event = {
 
   trigger = {
     tag = SUN
-	year = 1947 NOT = { year = 1959 }
+    year = 1947 NOT = { year = 1959 }
   }
 
   mean_time_to_happen = { months = 6  }
 
   option = {
     name = EVT_8211004_A
-	set_global_flag = SOV_rocket_engineers 
-	years_of_research = 0.5
+    set_global_flag = SOV_rocket_engineers
+    years_of_research = 0.5
   }
 }
 country_event = {
@@ -76,8 +76,8 @@ country_event = {
 
   option = {
     name = EVT_8211009_A
-	prestige = -10
-	any_pop = { militancy = 0.1  consciousness = 0.5 }
+    prestige = -10
+    any_pop = { militancy = 0.1  consciousness = 0.5 }
   }
 }
 country_event = {
@@ -100,8 +100,8 @@ country_event = {
 
   option = {
     name = EVT_8211011_A
-	prestige = -20
-	any_pop = { militancy = 0.1  consciousness = 0.4 }
+    prestige = -20
+    any_pop = { militancy = 0.1  consciousness = 0.4 }
   }
 }
 country_event = {
@@ -124,7 +124,7 @@ country_event = {
 
   option = {
     name = EVT_8211016_A
-	prestige = -10
+    prestige = -10
     any_pop = { militancy = 1.0  consciousness = 1.0 }
   }
 }
@@ -148,7 +148,7 @@ country_event = {
 
   option = {
     name = EVT_8211018_A
-	prestige = -10
+    prestige = -10
     any_pop = { militancy = 1.0  consciousness = 1.0 }
   }
 }
@@ -172,8 +172,8 @@ country_event = {
 
   option = {
     name = EVT_8211023_A
-	prestige = -20
-	any_pop = { militancy = 0.1  consciousness = 0.5 }
+    prestige = -20
+    any_pop = { militancy = 0.1  consciousness = 0.5 }
   }
 }
 country_event = {
@@ -196,7 +196,7 @@ country_event = {
 
   option = {
     name = EVT_8211025_A
-	prestige = -20
+    prestige = -20
     any_pop = { militancy = 0.1  consciousness = 0.5 }
   }
 }
@@ -220,7 +220,7 @@ country_event = { # Mars Landing
 
   option = {
     name = EVT_8211027_A
-	prestige = -20
+    prestige = -20
     any_pop = { militancy = 0.1  consciousness = 0.5 }
   }
 }
@@ -244,7 +244,7 @@ country_event = { # Space Station
 
   option = {
     name = EVT_8211029_A
-	prestige = -20
+    prestige = -20
     any_pop = { militancy = 0.1  consciousness = 0.5 }
   }
 }

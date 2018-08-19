@@ -7,23 +7,23 @@ terrain = desert_hills
 railroad = 1
 colonial = 0
 state_building = {
-	level = 1
-	building = footwear_factory
-	upgrade = yes
+  level = 1
+  building = footwear_factory
+  upgrade = yes
 }
 state_building = {
-	level = 1
-	building = wool_fabric_factory
-	upgrade = yes
+  level = 1
+  building = wool_fabric_factory
+  upgrade = yes
 }
 state_building = {
-	level = 1
-	building = clothes_factory
-	upgrade = yes
+  level = 1
+  building = clothes_factory
+  upgrade = yes
 }
 1992.1.1 = {
-owner = ARG
-controller = ARG
-add_core = ARG
-colonial = 0
+  owner = ARG
+  controller = ARG
+  add_core = ARG
+  colonial = 0
 }

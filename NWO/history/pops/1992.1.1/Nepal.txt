@@ -1,196 +1,196 @@
 #Katmandu - Katmandu (10351000/2587750 POPS)
 1326 = {
-	officers = {
-		culture = nepali
-		religion =  hindu 
-		size = 4335
-	 } 
-	officers = {
-		culture = nepali
-		religion = secularism
-		size = 228
-	 } 
-	soldiers = {
-		culture = nepali
-		religion =  hindu 
-		size = 82385
-	 } 
-	soldiers = {
-		culture = nepali
-		religion = secularism
-		size = 4336
-	 } 
-	aristocrats = {
-		culture = nepali
-		religion =  hindu 
-		size = 98334
-	 } 
-	aristocrats = {
-		culture = nepali
-		religion = secularism
-		size = 5175
-	 } 
-	bureaucrats = {
-		culture = nepali
-		religion =  hindu 
-		size = 4916
-	 } 
-	bureaucrats = {
-		culture = nepali
-		religion = secularism
-		size = 258
-	 } 
-	capitalists = {
-		culture = nepali
-		religion =  hindu 
-		size = 12291
-	 } 
-	capitalists = {
-		culture = nepali
-		religion = secularism
-		size = 646
-	 } 
-	clergymen = {
-		culture = nepali
-		religion =  hindu 
-		size = 49167
-	 } 
-	clergymen = {
-		culture = nepali
-		religion = secularism
-		size = 2587
-	 } 
-	clerks = {
-		culture = nepali
-		religion =  hindu 
-		size = 27437
-	 } 
-	clerks = {
-		culture = nepali
-		religion = secularism
-		size = 1444
-	 } 
-	artisans = {
-		culture = nepali
-		religion =  hindu 
-		size = 26065
-	 } 
-	artisans = {
-		culture = nepali
-		religion = secularism
-		size = 1371
-	 } 
-	craftsmen = {
-		culture = nepali
-		religion =  hindu 
-		size = 82313
-	 } 
-	craftsmen = {
-		culture = nepali
-		religion = secularism
-		size = 4332
-	 } 
-	farmers = {
-		culture = nepali
-		religion =  hindu 
-		size = 709181
-	 } 
-	farmers = {
-		culture = nepali
-		religion = secularism
-		size = 37325
-	 } 
-	farmers = {
-		culture = indian
-		religion =  hindu 
-		size = 995636
-	 } 
-	farmers = {
-		culture = indian
-		religion = secularism
-		size = 52401
-	 } 
-	farmers = {
-		culture = indian_muslim
-		religion =  sunni 
-		size = 119036
-	 } 
-	farmers = {
-		culture = newar
-		religion =  buddhist 
-		size = 122917
-	 } 
-	farmers = {
-		culture = newar
-		religion = secularism
-		size = 6469
-	 } 
-	farmers = {
-		culture = tibetan
-		religion =  buddhist 
-		size = 130292
-	 } 
-	farmers = {
-		culture = tibetan
-		religion = secularism
-		size = 6857
-	 } 
+  officers = {
+    culture = nepali
+    religion =  hindu
+    size = 4335
+  }
+  officers = {
+    culture = nepali
+    religion = secularism
+    size = 228
+  }
+  soldiers = {
+    culture = nepali
+    religion =  hindu
+    size = 82385
+  }
+  soldiers = {
+    culture = nepali
+    religion = secularism
+    size = 4336
+  }
+  aristocrats = {
+    culture = nepali
+    religion =  hindu
+    size = 98334
+  }
+  aristocrats = {
+    culture = nepali
+    religion = secularism
+    size = 5175
+  }
+  bureaucrats = {
+    culture = nepali
+    religion =  hindu
+    size = 4916
+  }
+  bureaucrats = {
+    culture = nepali
+    religion = secularism
+    size = 258
+  }
+  capitalists = {
+    culture = nepali
+    religion =  hindu
+    size = 12291
+  }
+  capitalists = {
+    culture = nepali
+    religion = secularism
+    size = 646
+  }
+  clergymen = {
+    culture = nepali
+    religion =  hindu
+    size = 49167
+  }
+  clergymen = {
+    culture = nepali
+    religion = secularism
+    size = 2587
+  }
+  clerks = {
+    culture = nepali
+    religion =  hindu
+    size = 27437
+  }
+  clerks = {
+    culture = nepali
+    religion = secularism
+    size = 1444
+  }
+  artisans = {
+    culture = nepali
+    religion =  hindu
+    size = 26065
+  }
+  artisans = {
+    culture = nepali
+    religion = secularism
+    size = 1371
+  }
+  craftsmen = {
+    culture = nepali
+    religion =  hindu
+    size = 82313
+  }
+  craftsmen = {
+    culture = nepali
+    religion = secularism
+    size = 4332
+  }
+  farmers = {
+    culture = nepali
+    religion =  hindu
+    size = 709181
+  }
+  farmers = {
+    culture = nepali
+    religion = secularism
+    size = 37325
+  }
+  farmers = {
+    culture = indian
+    religion =  hindu
+    size = 995636
+  }
+  farmers = {
+    culture = indian
+    religion = secularism
+    size = 52401
+  }
+  farmers = {
+    culture = indian_muslim
+    religion =  sunni
+    size = 119036
+  }
+  farmers = {
+    culture = newar
+    religion =  buddhist
+    size = 122917
+  }
+  farmers = {
+    culture = newar
+    religion = secularism
+    size = 6469
+  }
+  farmers = {
+    culture = tibetan
+    religion =  buddhist
+    size = 130292
+  }
+  farmers = {
+    culture = tibetan
+    religion = secularism
+    size = 6857
+  }
 }
 #Jumla - Jumla (8566000/2141500 POPS)
 1327 = {
-	clergymen = {
-		culture = nepali
-		religion =  hindu 
-		size = 40688
-	 } 
-	clergymen = {
-		culture = nepali
-		religion = secularism
-		size = 2141
-	 } 
-	farmers = {
-		culture = nepali
-		religion =  hindu 
-		size = 866665
-	 } 
-	farmers = {
-		culture = nepali
-		religion = secularism
-		size = 45613
-	 } 
-	farmers = {
-		culture = indian
-		religion =  hindu 
-		size = 823941
-	 } 
-	farmers = {
-		culture = indian
-		religion = secularism
-		size = 43365
-	 } 
-	farmers = {
-		culture = indian_muslim
-		religion =  sunni 
-		size = 98509
-	 } 
-	farmers = {
-		culture = newar
-		religion =  buddhist 
-		size = 101721
-	 } 
-	farmers = {
-		culture = newar
-		religion = secularism
-		size = 5353
-	 } 
-	farmers = {
-		culture = tibetan
-		religion =  buddhist 
-		size = 107824
-	 } 
-	farmers = {
-		culture = tibetan
-		religion = secularism
-		size = 5674
-	 } 
+  clergymen = {
+    culture = nepali
+    religion =  hindu
+    size = 40688
+  }
+  clergymen = {
+    culture = nepali
+    religion = secularism
+    size = 2141
+  }
+  farmers = {
+    culture = nepali
+    religion =  hindu
+    size = 866665
+  }
+  farmers = {
+    culture = nepali
+    religion = secularism
+    size = 45613
+  }
+  farmers = {
+    culture = indian
+    religion =  hindu
+    size = 823941
+  }
+  farmers = {
+    culture = indian
+    religion = secularism
+    size = 43365
+  }
+  farmers = {
+    culture = indian_muslim
+    religion =  sunni
+    size = 98509
+  }
+  farmers = {
+    culture = newar
+    religion =  buddhist
+    size = 101721
+  }
+  farmers = {
+    culture = newar
+    religion = secularism
+    size = 5353
+  }
+  farmers = {
+    culture = tibetan
+    religion =  buddhist
+    size = 107824
+  }
+  farmers = {
+    culture = tibetan
+    religion = secularism
+    size = 5674
+  }
 }

@@ -7,9 +7,9 @@ life_rating = 23
 terrain = mountain
 colonial = 0
 1992.1.1 = {
-owner = GEO
-controller = GEO
-add_core = GEO
-add_core = JVK
-colonial = 0
+  owner = GEO
+  controller = GEO
+  add_core = GEO
+  add_core = JVK
+  colonial = 0
 }

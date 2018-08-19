@@ -1,198 +1,198 @@
 #Johor Bahru - Johor Bahru (759000/189750 POPS)
 1385 = {
-	clergymen = {
-		culture = malay
-		religion =  sunni 
-		size = 3795
-	 } 
-	farmers = {
-		culture = malay
-		religion =  sunni 
-		size = 87285
-	 } 
-	farmers = {
-		culture = chinese
-		religion =  taoism 
-		size = 74002
-	 } 
-	farmers = {
-		culture = chinese
-		religion = secularism
-		size = 1897
-	 } 
-	farmers = {
-		culture = indian
-		religion =  hindu 
-		size = 22200
-	 } 
-	farmers = {
-		culture = indian
-		religion = secularism
-		size = 569
-	 } 
+  clergymen = {
+    culture = malay
+    religion =  sunni
+    size = 3795
+  }
+  farmers = {
+    culture = malay
+    religion =  sunni
+    size = 87285
+  }
+  farmers = {
+    culture = chinese
+    religion =  taoism
+    size = 74002
+  }
+  farmers = {
+    culture = chinese
+    religion = secularism
+    size = 1897
+  }
+  farmers = {
+    culture = indian
+    religion =  hindu
+    size = 22200
+  }
+  farmers = {
+    culture = indian
+    religion = secularism
+    size = 569
+  }
 }
 #Kuala Lumpur - Kuala Lumpur (1882000/470500 POPS)
 1387 = {
-	aristocrats = {
-		culture = malay
-		religion =  sunni 
-		size = 18820
-	 } 
-	clergymen = {
-		culture = malay
-		religion =  sunni 
-		size = 9410
-	 } 
-	artisans = {
-		culture = malay
-		religion =  sunni 
-		size = 4503
-	 } 
-	farmers = {
-		culture = malay
-		religion =  sunni 
-		size = 168641
-	 } 
-	farmers = {
-		culture = chinese
-		religion =  taoism 
-		size = 183495
-	 } 
-	farmers = {
-		culture = chinese
-		religion = secularism
-		size = 4705
-	 } 
-	farmers = {
-		culture = indian
-		religion =  hindu 
-		size = 77985
-	 } 
-	farmers = {
-		culture = indian
-		religion = secularism
-		size = 1999
-	 } 
+  aristocrats = {
+    culture = malay
+    religion =  sunni
+    size = 18820
+  }
+  clergymen = {
+    culture = malay
+    religion =  sunni
+    size = 9410
+  }
+  artisans = {
+    culture = malay
+    religion =  sunni
+    size = 4503
+  }
+  farmers = {
+    culture = malay
+    religion =  sunni
+    size = 168641
+  }
+  farmers = {
+    culture = chinese
+    religion =  taoism
+    size = 183495
+  }
+  farmers = {
+    culture = chinese
+    religion = secularism
+    size = 4705
+  }
+  farmers = {
+    culture = indian
+    religion =  hindu
+    size = 77985
+  }
+  farmers = {
+    culture = indian
+    religion = secularism
+    size = 1999
+  }
 }
 #Alor Setar - Alor Setar (497000/124250 POPS)
 1389 = {
-	clergymen = {
-		culture = malay
-		religion =  sunni 
-		size = 2485
-	 } 
-	farmers = {
-		culture = malay
-		religion =  sunni 
-		size = 74550
-	 } 
-	farmers = {
-		culture = chinese
-		religion =  taoism 
-		size = 36343
-	 } 
-	farmers = {
-		culture = chinese
-		religion = secularism
-		size = 931
-	 } 
-	farmers = {
-		culture = indian
-		religion =  hindu 
-		size = 9691
-	 } 
-	farmers = {
-		culture = indian
-		religion = secularism
-		size = 248
-	 } 
+  clergymen = {
+    culture = malay
+    religion =  sunni
+    size = 2485
+  }
+  farmers = {
+    culture = malay
+    religion =  sunni
+    size = 74550
+  }
+  farmers = {
+    culture = chinese
+    religion =  taoism
+    size = 36343
+  }
+  farmers = {
+    culture = chinese
+    religion = secularism
+    size = 931
+  }
+  farmers = {
+    culture = indian
+    religion =  hindu
+    size = 9691
+  }
+  farmers = {
+    culture = indian
+    religion = secularism
+    size = 248
+  }
 }
 #Kuantan - Kuantan (338000/84500 POPS)
 1390 = {
-	clergymen = {
-		culture = malay
-		religion =  sunni 
-		size = 1690
-	 } 
-	farmers = {
-		culture = malay
-		religion =  sunni 
-		size = 53235
-	 } 
-	farmers = {
-		culture = chinese
-		religion =  taoism 
-		size = 24716
-	 } 
-	farmers = {
-		culture = chinese
-		religion = secularism
-		size = 633
-	 } 
-	farmers = {
-		culture = indian
-		religion =  hindu 
-		size = 4119
-	 } 
-	farmers = {
-		culture = indian
-		religion = secularism
-		size = 105
-	 } 
+  clergymen = {
+    culture = malay
+    religion =  sunni
+    size = 1690
+  }
+  farmers = {
+    culture = malay
+    religion =  sunni
+    size = 53235
+  }
+  farmers = {
+    culture = chinese
+    religion =  taoism
+    size = 24716
+  }
+  farmers = {
+    culture = chinese
+    religion = secularism
+    size = 633
+  }
+  farmers = {
+    culture = indian
+    religion =  hindu
+    size = 4119
+  }
+  farmers = {
+    culture = indian
+    religion = secularism
+    size = 105
+  }
 }
 #Kota Bahru - Kota Bahru (581000/145250 POPS)
 1391 = {
-	clergymen = {
-		culture = malay
-		religion =  sunni 
-		size = 2905
-	 } 
-	farmers = {
-		culture = malay
-		religion =  sunni 
-		size = 107485
-	 } 
-	farmers = {
-		culture = chinese
-		religion =  taoism 
-		size = 33988
-	 } 
-	farmers = {
-		culture = chinese
-		religion = secularism
-		size = 871
-	 } 
+  clergymen = {
+    culture = malay
+    religion =  sunni
+    size = 2905
+  }
+  farmers = {
+    culture = malay
+    religion =  sunni
+    size = 107485
+  }
+  farmers = {
+    culture = chinese
+    religion =  taoism
+    size = 33988
+  }
+  farmers = {
+    culture = chinese
+    religion = secularism
+    size = 871
+  }
 }
 #Ipoh - Perak (530000/132500 POPS)
 2575 = {
-	clergymen = {
-		culture = malay
-		religion =  sunni 
-		size = 2650
-	 } 
-	farmers = {
-		culture = malay
-		religion =  sunni 
-		size = 55650
-	 } 
-	farmers = {
-		culture = chinese
-		religion =  taoism 
-		size = 51675
-	 } 
-	farmers = {
-		culture = chinese
-		religion = secularism
-		size = 1325
-	 } 
-	farmers = {
-		culture = indian
-		religion =  hindu 
-		size = 20670
-	 } 
-	farmers = {
-		culture = indian
-		religion = secularism
-		size = 530
-	 } 
+  clergymen = {
+    culture = malay
+    religion =  sunni
+    size = 2650
+  }
+  farmers = {
+    culture = malay
+    religion =  sunni
+    size = 55650
+  }
+  farmers = {
+    culture = chinese
+    religion =  taoism
+    size = 51675
+  }
+  farmers = {
+    culture = chinese
+    religion = secularism
+    size = 1325
+  }
+  farmers = {
+    culture = indian
+    religion =  hindu
+    size = 20670
+  }
+  farmers = {
+    culture = indian
+    religion = secularism
+    size = 530
+  }
 }

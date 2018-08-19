@@ -1,128 +1,128 @@
 #Antigua - Antigua (64000/16000 POPS)
 2224 = {
-	capitalists = {
-		culture = british
-		religion =  protestant 
-		size = 92
-	 } 
-	capitalists = {
-		culture = british
-		religion = secularism
-		size = 3
-	 } 
-	officers = {
-		culture = anglo_african
-		religion =  protestant 
-		size = 2
-	 } 
-	soldiers = {
-		culture = anglo_african
-		religion =  protestant 
-		size = 69
-	 } 
-	soldiers = {
-		culture = anglo_african
-		religion = secularism
-		size = 2
-	 } 
-	aristocrats = {
-		culture = anglo_african
-		religion =  protestant 
-		size = 384
-	 } 
-	aristocrats = {
-		culture = anglo_african
-		religion = secularism
-		size = 16
-	 } 
-	bureaucrats = {
-		culture = anglo_african
-		religion =  protestant 
-		size = 76
-	 } 
-	bureaucrats = {
-		culture = anglo_african
-		religion = secularism
-		size = 3
-	 } 
-	clergymen = {
-		culture = anglo_african
-		religion =  protestant 
-		size = 307
-	 } 
-	clergymen = {
-		culture = anglo_african
-		religion = secularism
-		size = 12
-	 } 
-	clerks = {
-		culture = anglo_african
-		religion =  protestant 
-		size = 171
-	 } 
-	clerks = {
-		culture = anglo_african
-		religion = secularism
-		size = 7
-	 } 
-	artisans = {
-		culture = anglo_african
-		religion =  protestant 
-		size = 163
-	 } 
-	artisans = {
-		culture = anglo_african
-		religion = secularism
-		size = 6
-	 } 
-	craftsmen = {
-		culture = anglo_african
-		religion =  protestant 
-		size = 515
-	 } 
-	craftsmen = {
-		culture = anglo_african
-		religion = secularism
-		size = 21
-	 } 
-	farmers = {
-		culture = anglo_african
-		religion =  protestant 
-		size = 12287
-	 } 
-	farmers = {
-		culture = anglo_african
-		religion = secularism
-		size = 511
-	 } 
-	farmers = {
-		culture = british
-		religion =  protestant 
-		size = 215
-	 } 
-	farmers = {
-		culture = british
-		religion = secularism
-		size = 8
-	 } 
-	farmers = {
-		culture = indian
-		religion =  hindu 
-		size = 460
-	 } 
-	farmers = {
-		culture = indian
-		religion = secularism
-		size = 19
-	 } 
-	farmers = {
-		culture = central_american_spanish
-		religion =  catholic 
-		size = 614
-	 } 
-	farmers = {
-		culture = central_american_spanish
-		religion = secularism
-		size = 25
-	 } 
+  capitalists = {
+    culture = british
+    religion =  protestant
+    size = 92
+  }
+  capitalists = {
+    culture = british
+    religion = secularism
+    size = 3
+  }
+  officers = {
+    culture = anglo_african
+    religion =  protestant
+    size = 2
+  }
+  soldiers = {
+    culture = anglo_african
+    religion =  protestant
+    size = 69
+  }
+  soldiers = {
+    culture = anglo_african
+    religion = secularism
+    size = 2
+  }
+  aristocrats = {
+    culture = anglo_african
+    religion =  protestant
+    size = 384
+  }
+  aristocrats = {
+    culture = anglo_african
+    religion = secularism
+    size = 16
+  }
+  bureaucrats = {
+    culture = anglo_african
+    religion =  protestant
+    size = 76
+  }
+  bureaucrats = {
+    culture = anglo_african
+    religion = secularism
+    size = 3
+  }
+  clergymen = {
+    culture = anglo_african
+    religion =  protestant
+    size = 307
+  }
+  clergymen = {
+    culture = anglo_african
+    religion = secularism
+    size = 12
+  }
+  clerks = {
+    culture = anglo_african
+    religion =  protestant
+    size = 171
+  }
+  clerks = {
+    culture = anglo_african
+    religion = secularism
+    size = 7
+  }
+  artisans = {
+    culture = anglo_african
+    religion =  protestant
+    size = 163
+  }
+  artisans = {
+    culture = anglo_african
+    religion = secularism
+    size = 6
+  }
+  craftsmen = {
+    culture = anglo_african
+    religion =  protestant
+    size = 515
+  }
+  craftsmen = {
+    culture = anglo_african
+    religion = secularism
+    size = 21
+  }
+  farmers = {
+    culture = anglo_african
+    religion =  protestant
+    size = 12287
+  }
+  farmers = {
+    culture = anglo_african
+    religion = secularism
+    size = 511
+  }
+  farmers = {
+    culture = british
+    religion =  protestant
+    size = 215
+  }
+  farmers = {
+    culture = british
+    religion = secularism
+    size = 8
+  }
+  farmers = {
+    culture = indian
+    religion =  hindu
+    size = 460
+  }
+  farmers = {
+    culture = indian
+    religion = secularism
+    size = 19
+  }
+  farmers = {
+    culture = central_american_spanish
+    religion =  catholic
+    size = 614
+  }
+  farmers = {
+    culture = central_american_spanish
+    religion = secularism
+    size = 25
+  }
 }

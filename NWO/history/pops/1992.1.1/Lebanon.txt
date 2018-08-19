@@ -1,132 +1,132 @@
 #Baalbeck - Baalbeck (490000/122500 POPS)
 912 = {
-	clergymen = {
-		culture = christian_arab
-		religion =  orthodox 
-		size = 2131
-	 } 
-	clergymen = {
-		culture = christian_arab
-		religion = secularism
-		size = 318
-	 } 
-	farmers = {
-		culture = christian_arab
-		religion =  orthodox 
-		size = 3197
-	 } 
-	farmers = {
-		culture = christian_arab
-		religion = secularism
-		size = 477
-	 } 
-	farmers = {
-		culture = shia_arab
-		religion =  shiite 
-		size = 85750
-	 } 
-	farmers = {
-		culture = sunni_arab
-		religion =  sunni 
-		size = 30625
-	 } 
+  clergymen = {
+    culture = christian_arab
+    religion =  orthodox
+    size = 2131
+  }
+  clergymen = {
+    culture = christian_arab
+    religion = secularism
+    size = 318
+  }
+  farmers = {
+    culture = christian_arab
+    religion =  orthodox
+    size = 3197
+  }
+  farmers = {
+    culture = christian_arab
+    religion = secularism
+    size = 477
+  }
+  farmers = {
+    culture = shia_arab
+    religion =  shiite
+    size = 85750
+  }
+  farmers = {
+    culture = sunni_arab
+    religion =  sunni
+    size = 30625
+  }
 }
 #Beirut - Beirut (1969000/492250 POPS)
 913 = {
-	officers = {
-		culture = christian_arab
-		religion =  orthodox 
-		size = 30189
-	 } 
-	officers = {
-		culture = christian_arab
-		religion = secularism
-		size = 4511
-	 } 
-	soldiers = {
-		culture = christian_arab
-		religion =  orthodox 
-		size = 209634
-	 } 
-	soldiers = {
-		culture = christian_arab
-		religion = secularism
-		size = 31324
-	 } 
-	soldiers = {
-		culture = sunni_arab
-		religion =  sunni 
-		size = 108295
-	 } 
-	soldiers = {
-		culture = shia_arab
-		religion =  shiite 
-		size = 59070
-	 } 
-	soldiers = {
-		culture = druze
-		religion =  druze 
-		size = 49225
-	 } 
+  officers = {
+    culture = christian_arab
+    religion =  orthodox
+    size = 30189
+  }
+  officers = {
+    culture = christian_arab
+    religion = secularism
+    size = 4511
+  }
+  soldiers = {
+    culture = christian_arab
+    religion =  orthodox
+    size = 209634
+  }
+  soldiers = {
+    culture = christian_arab
+    religion = secularism
+    size = 31324
+  }
+  soldiers = {
+    culture = sunni_arab
+    religion =  sunni
+    size = 108295
+  }
+  soldiers = {
+    culture = shia_arab
+    religion =  shiite
+    size = 59070
+  }
+  soldiers = {
+    culture = druze
+    religion =  druze
+    size = 49225
+  }
 }
 #Askaleh - Askaleh (490000/122500 POPS)
 914 = {
-	clergymen = {
-		culture = christian_arab
-		religion =  orthodox 
-		size = 2131
-	 } 
-	clergymen = {
-		culture = christian_arab
-		religion = secularism
-		size = 318
-	 } 
-	farmers = {
-		culture = christian_arab
-		religion =  orthodox 
-		size = 46893
-	 } 
-	farmers = {
-		culture = christian_arab
-		religion = secularism
-		size = 7007
-	 } 
-	farmers = {
-		culture = sunni_arab
-		religion =  sunni 
-		size = 66150
-	 } 
+  clergymen = {
+    culture = christian_arab
+    religion =  orthodox
+    size = 2131
+  }
+  clergymen = {
+    culture = christian_arab
+    religion = secularism
+    size = 318
+  }
+  farmers = {
+    culture = christian_arab
+    religion =  orthodox
+    size = 46893
+  }
+  farmers = {
+    culture = christian_arab
+    religion = secularism
+    size = 7007
+  }
+  farmers = {
+    culture = sunni_arab
+    religion =  sunni
+    size = 66150
+  }
 }
 #Sidon - Sidon (490000/122500 POPS)
 915 = {
-	clergymen = {
-		culture = christian_arab
-		religion =  orthodox 
-		size = 2131
-	 } 
-	clergymen = {
-		culture = christian_arab
-		religion = secularism
-		size = 318
-	 } 
-	farmers = {
-		culture = christian_arab
-		religion =  orthodox 
-		size = 3197
-	 } 
-	farmers = {
-		culture = christian_arab
-		religion = secularism
-		size = 477
-	 } 
-	farmers = {
-		culture = shia_arab
-		religion =  shiite 
-		size = 85750
-	 } 
-	farmers = {
-		culture = sunni_arab
-		religion =  sunni 
-		size = 30625
-	 } 
+  clergymen = {
+    culture = christian_arab
+    religion =  orthodox
+    size = 2131
+  }
+  clergymen = {
+    culture = christian_arab
+    religion = secularism
+    size = 318
+  }
+  farmers = {
+    culture = christian_arab
+    religion =  orthodox
+    size = 3197
+  }
+  farmers = {
+    culture = christian_arab
+    religion = secularism
+    size = 477
+  }
+  farmers = {
+    culture = shia_arab
+    religion =  shiite
+    size = 85750
+  }
+  farmers = {
+    culture = sunni_arab
+    religion =  sunni
+    size = 30625
+  }
 }

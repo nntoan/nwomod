@@ -1,31 +1,31 @@
 #Abu Dhabi - Abu Dhabi (16000/4000 POPS)
 1167 = {
-	clergymen = {
-		culture = sunni_arab
-		religion =  sunni 
-		size = 80
-	 } 
-	farmers = {
-		culture = sunni_arab
-		religion =  sunni 
-		size = 2320
-	 } 
-	farmers = {
-		culture = shia_arab
-		religion =  shiite 
-		size = 1600
-	 } 
+  clergymen = {
+    culture = sunni_arab
+    religion =  sunni
+    size = 80
+  }
+  farmers = {
+    culture = sunni_arab
+    religion =  sunni
+    size = 2320
+  }
+  farmers = {
+    culture = shia_arab
+    religion =  shiite
+    size = 1600
+  }
 }
 #Dubai - Dubai (55000/13750 POPS)
 1168 = {
-	farmers = {
-		culture = sunni_arab
-		religion =  sunni 
-		size = 7051
-	 } 
-	farmers = {
-		culture = shia_arab
-		religion =  shiite 
-		size = 5500
-	 } 
+  farmers = {
+    culture = sunni_arab
+    religion =  sunni
+    size = 7051
+  }
+  farmers = {
+    culture = shia_arab
+    religion =  shiite
+    size = 5500
+  }
 }

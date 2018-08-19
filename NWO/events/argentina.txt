@@ -14,18 +14,18 @@ country_event = {
 
   option = {
     name = "EVT_8000803_A"
-	random_state = { any_pop = { dominant_issue = { value = parties_allowed factor = 0.25 } } }
-	define_general = { name = "Pedro Aramburu" personality = energetic background = no_background }
-	government = presidential_dictatorship country_event = 800050
-	ai_chance = { factor = 1 }
+    random_state = { any_pop = { dominant_issue = { value = parties_allowed factor = 0.25 } } }
+    define_general = { name = "Pedro Aramburu" personality = energetic background = no_background }
+    government = presidential_dictatorship country_event = 800050
+    ai_chance = { factor = 1 }
   }
 
   option = {
     name = "EVT_8000803_B"
-	any_pop = { militancy = 1.0 consciousness = 1 }
-	any_pop = { limit = { OR = { type = soldiers type = officers } } militancy = 5.0 consciousness = 4 }
-	random_state = { any_pop = { dominant_issue = { value = parties_allowed factor = 0.55 } } }
-	ai_chance = { factor = 0 }
+    any_pop = { militancy = 1.0 consciousness = 1 }
+    any_pop = { limit = { OR = { type = soldiers type = officers } } militancy = 5.0 consciousness = 4 }
+    random_state = { any_pop = { dominant_issue = { value = parties_allowed factor = 0.55 } } }
+    ai_chance = { factor = 0 }
   }
 }
 
@@ -45,19 +45,19 @@ country_event = {
 
   option = {
     name = EVT_8000806_A
-	random_state = { any_pop = { dominant_issue = { value = parties_allowed factor = 0.25 } } }
-	define_general = { name = "Juan Carlos Ongania" personality = energetic background = no_background }
-	government = presidential_dictatorship  country_event = 800050
-	ai_chance = { factor = 1 }
+    random_state = { any_pop = { dominant_issue = { value = parties_allowed factor = 0.25 } } }
+    define_general = { name = "Juan Carlos Ongania" personality = energetic background = no_background }
+    government = presidential_dictatorship  country_event = 800050
+    ai_chance = { factor = 1 }
   }
-  
+
   option = {
     name = "EVT_8000803_B"
-	any_pop = { militancy = 1.0 consciousness = 1 }
-	any_pop = { limit = { OR = { type = soldiers type = officers } } militancy = 5.0 consciousness = 4 }
-	ai_chance = { factor = 0 }
+    any_pop = { militancy = 1.0 consciousness = 1 }
+    any_pop = { limit = { OR = { type = soldiers type = officers } } militancy = 5.0 consciousness = 4 }
+    ai_chance = { factor = 0 }
   }
-  
+
 }
 country_event = {
   id = 8000810
@@ -76,7 +76,7 @@ country_event = {
 
   option = {
     name = EVT_8000810_A
-	prestige = 10
+    prestige = 10
   }
 }
 
@@ -97,8 +97,8 @@ country_event = {
 
   option = {
     name = EVT_8000811_A
-	random_state = { any_pop = { dominant_issue = { value = parties_allowed factor = 0.30 } } }
-	define_general = { name = "Jorge Rafael Videla" personality = energetic background = no_background }
+    random_state = { any_pop = { dominant_issue = { value = parties_allowed factor = 0.30 } } }
+    define_general = { name = "Jorge Rafael Videla" personality = energetic background = no_background }
   }
 }
 
@@ -117,8 +117,8 @@ country_event = {
 
   option = {
     name = "EVT_8000817_A"
-	any_pop = { consciousness = 1 }
-	define_general = { name = "Juan Peron" personality = energetic background = no_background }
+    any_pop = { consciousness = 1 }
+    define_general = { name = "Juan Peron" personality = energetic background = no_background }
   }
 }
 
@@ -138,6 +138,6 @@ country_event = {
 
   option = {
     name = "EVT_8000818_A"
-	any_pop = { consciousness = 1 }
+    any_pop = { consciousness = 1 }
   }
 }

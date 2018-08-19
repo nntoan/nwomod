@@ -7,14 +7,14 @@ life_rating = 25
 terrain = urban_skopje
 colonial = 0
 1992.1.1 = {
-owner = MAC
-controller = MAC
-add_core = MAC
-add_core = YUG
-colonial = 0
-state_building = {
-	level = 1
-	building = steel_factory
-	upgrade = yes
-}
+  owner = MAC
+  controller = MAC
+  add_core = MAC
+  add_core = YUG
+  colonial = 0
+  state_building = {
+    level = 1
+    building = steel_factory
+    upgrade = yes
+  }
 }

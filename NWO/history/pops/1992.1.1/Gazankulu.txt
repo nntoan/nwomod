@@ -1,23 +1,23 @@
 #Bulun - Gazankulu (264000/66000 POPS)
 2667 = {
-	clergymen = {
-		culture = tsonga
-		religion =  protestant 
-		size = 528
-	 } 
-	clergymen = {
-		culture = tsonga
-		religion = secularism
-		size = 792
-	 } 
-	farmers = {
-		culture = tsonga
-		religion =  protestant 
-		size = 25872
-	 } 
-	farmers = {
-		culture = tsonga
-		religion = secularism
-		size = 38808
-	 } 
+  clergymen = {
+    culture = tsonga
+    religion =  protestant
+    size = 528
+  }
+  clergymen = {
+    culture = tsonga
+    religion = secularism
+    size = 792
+  }
+  farmers = {
+    culture = tsonga
+    religion =  protestant
+    size = 25872
+  }
+  farmers = {
+    culture = tsonga
+    religion = secularism
+    size = 38808
+  }
 }

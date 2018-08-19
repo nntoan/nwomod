@@ -7,10 +7,10 @@ terrain = marginal_farmland
 colonial = 0
 naval_base = 1
 1992.1.1 = {
-owner = ITA
-controller = ITA
-add_core = ITA
-railroad = 1
-colonial = 0
-naval_base = 3
+  owner = ITA
+  controller = ITA
+  add_core = ITA
+  railroad = 1
+  colonial = 0
+  naval_base = 3
 }

@@ -1,130 +1,130 @@
 #Boffa - Boffa (2590000/647500 POPS)
 1879 = {
-	soldiers = {
-		culture = soussou
-		religion =  sunni 
-		size = 13641
-	 } 
-	aristocrats = {
-		culture = soussou
-		religion =  sunni 
-		size = 25900
-	 } 
-	capitalists = {
-		culture = soussou
-		religion =  sunni 
-		size = 3237
-	 } 
-	clergymen = {
-		culture = soussou
-		religion =  sunni 
-		size = 12950
-	 } 
-	clerks = {
-		culture = soussou
-		religion =  sunni 
-		size = 8373
-	 } 
-	artisans = {
-		culture = soussou
-		religion =  sunni 
-		size = 7954
-	 } 
-	craftsmen = {
-		culture = soussou
-		religion =  sunni 
-		size = 25120
-	 } 
-	farmers = {
-		culture = soussou
-		religion =  sunni 
-		size = 205786
-	 } 
-	farmers = {
-		culture = fula
-		religion =  sunni 
-		size = 278425
-	 } 
-	farmers = {
-		culture = african_minor
-		religion =  catholic 
-		size = 63455
-	 } 
-	farmers = {
-		culture = african_minor
-		religion = secularism
-		size = 1295
-	 } 
+  soldiers = {
+    culture = soussou
+    religion =  sunni
+    size = 13641
+  }
+  aristocrats = {
+    culture = soussou
+    religion =  sunni
+    size = 25900
+  }
+  capitalists = {
+    culture = soussou
+    religion =  sunni
+    size = 3237
+  }
+  clergymen = {
+    culture = soussou
+    religion =  sunni
+    size = 12950
+  }
+  clerks = {
+    culture = soussou
+    religion =  sunni
+    size = 8373
+  }
+  artisans = {
+    culture = soussou
+    religion =  sunni
+    size = 7954
+  }
+  craftsmen = {
+    culture = soussou
+    religion =  sunni
+    size = 25120
+  }
+  farmers = {
+    culture = soussou
+    religion =  sunni
+    size = 205786
+  }
+  farmers = {
+    culture = fula
+    religion =  sunni
+    size = 278425
+  }
+  farmers = {
+    culture = african_minor
+    religion =  catholic
+    size = 63455
+  }
+  farmers = {
+    culture = african_minor
+    religion = secularism
+    size = 1295
+  }
 }
 #Timbo - Timbo (1038000/259500 POPS)
 1880 = {
-	clergymen = {
-		culture = fula
-		religion =  sunni 
-		size = 5190
-	 } 
-	farmers = {
-		culture = fula
-		religion =  sunni 
-		size = 254310
-	 } 
+  clergymen = {
+    culture = fula
+    religion =  sunni
+    size = 5190
+  }
+  farmers = {
+    culture = fula
+    religion =  sunni
+    size = 254310
+  }
 }
 #Dinguiraye - Faranah (295000/73750 POPS)
 1881 = {
-	clergymen = {
-		culture = fula
-		religion =  sunni 
-		size = 1475
-	 } 
-	farmers = {
-		culture = fula
-		religion =  sunni 
-		size = 42775
-	 } 
-	farmers = {
-		culture = mande
-		religion =  sunni 
-		size = 29500
-	 } 
+  clergymen = {
+    culture = fula
+    religion =  sunni
+    size = 1475
+  }
+  farmers = {
+    culture = fula
+    religion =  sunni
+    size = 42775
+  }
+  farmers = {
+    culture = mande
+    religion =  sunni
+    size = 29500
+  }
 }
 #Kankan - Kankan (1194000/298500 POPS)
 1882 = {
-	clergymen = {
-		culture = mande
-		religion =  sunni 
-		size = 5970
-	 } 
-	farmers = {
-		culture = mande
-		religion =  sunni 
-		size = 262680
-	 } 
-	farmers = {
-		culture = fula
-		religion =  sunni 
-		size = 29850
-	 } 
+  clergymen = {
+    culture = mande
+    religion =  sunni
+    size = 5970
+  }
+  farmers = {
+    culture = mande
+    religion =  sunni
+    size = 262680
+  }
+  farmers = {
+    culture = fula
+    religion =  sunni
+    size = 29850
+  }
 }
 #Beyla - Beyla (999000/249750 POPS)
 1883 = {
-	clergymen = {
-		culture = mande
-		religion =  sunni 
-		size = 4995
-	 } 
-	farmers = {
-		culture = mande
-		religion =  sunni 
-		size = 154845
-	 } 
-	farmers = {
-		culture = african_minor
-		religion =  catholic 
-		size = 88111
-	 } 
-	farmers = {
-		culture = african_minor
-		religion = secularism
-		size = 1798
-	 } 
+  clergymen = {
+    culture = mande
+    religion =  sunni
+    size = 4995
+  }
+  farmers = {
+    culture = mande
+    religion =  sunni
+    size = 154845
+  }
+  farmers = {
+    culture = african_minor
+    religion =  catholic
+    size = 88111
+  }
+  farmers = {
+    culture = african_minor
+    religion = secularism
+    size = 1798
+  }
 }

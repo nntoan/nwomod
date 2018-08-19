@@ -6,9 +6,9 @@ life_rating = 30
 terrain = conifer_forest
 colonial = 2
 1992.1.1 = {
-owner = FRA
-controller = FRA
-add_core = SPM
-railroad = 2
-colonial = 2
+  owner = FRA
+  controller = FRA
+  add_core = SPM
+  railroad = 2
+  colonial = 2
 }

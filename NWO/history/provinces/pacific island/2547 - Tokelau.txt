@@ -6,8 +6,8 @@ life_rating = 34
 terrain = jungle
 colonial = 2
 1992.1.1 = {
-owner = NZL
-controller = NZL
-add_core = TOK
-colonial = 2
+  owner = NZL
+  controller = NZL
+  add_core = TOK
+  colonial = 2
 }

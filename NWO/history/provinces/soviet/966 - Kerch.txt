@@ -8,10 +8,10 @@ life_rating = 21
 terrain = dry_grassland
 colonial = 0
 1992.1.1 = {
-owner = UKR
-controller = UKR
-add_core = UKR
-add_core = RUS
-add_core = CRI
-colonial = 0
+  owner = UKR
+  controller = UKR
+  add_core = UKR
+  add_core = RUS
+  add_core = CRI
+  colonial = 0
 }

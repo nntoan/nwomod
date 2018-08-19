@@ -1,483 +1,483 @@
 #Petrich - Blagoevgrad (1199000/299750 POPS)
 808 = {
-	clergymen = {
-		culture = bulgarian
-		religion =  orthodox 
-		size = 5125
-	 } 
-	clergymen = {
-		culture = bulgarian
-		religion = secularism
-		size = 869
-	 } 
-	farmers = {
-		culture = bulgarian
-		religion =  orthodox 
-		size = 225531
-	 } 
-	farmers = {
-		culture = bulgarian
-		religion = secularism
-		size = 38248
-	 } 
-	farmers = {
-		culture = roma
-		religion =  orthodox 
-		size = 25628
-	 } 
-	farmers = {
-		culture = roma
-		religion = secularism
-		size = 4346
-	 } 
+  clergymen = {
+    culture = bulgarian
+    religion =  orthodox
+    size = 5125
+  }
+  clergymen = {
+    culture = bulgarian
+    religion = secularism
+    size = 869
+  }
+  farmers = {
+    culture = bulgarian
+    religion =  orthodox
+    size = 225531
+  }
+  farmers = {
+    culture = bulgarian
+    religion = secularism
+    size = 38248
+  }
+  farmers = {
+    culture = roma
+    religion =  orthodox
+    size = 25628
+  }
+  farmers = {
+    culture = roma
+    religion = secularism
+    size = 4346
+  }
 }
 #Sofia - Sofia, Pernik, Kyustendil (1642000/410500 POPS)
 809 = {
-	clergymen = {
-		culture = bulgarian
-		religion =  orthodox 
-		size = 7019
-	 } 
-	clergymen = {
-		culture = bulgarian
-		religion = secularism
-		size = 1190
-	 } 
-	farmers = {
-		culture = bulgarian
-		religion =  orthodox 
-		size = 294821
-	 } 
-	farmers = {
-		culture = bulgarian
-		religion = secularism
-		size = 49998
-	 } 
-	farmers = {
-		culture = roma
-		religion =  orthodox 
-		size = 49136
-	 } 
-	farmers = {
-		culture = roma
-		religion = secularism
-		size = 8333
-	 } 
+  clergymen = {
+    culture = bulgarian
+    religion =  orthodox
+    size = 7019
+  }
+  clergymen = {
+    culture = bulgarian
+    religion = secularism
+    size = 1190
+  }
+  farmers = {
+    culture = bulgarian
+    religion =  orthodox
+    size = 294821
+  }
+  farmers = {
+    culture = bulgarian
+    religion = secularism
+    size = 49998
+  }
+  farmers = {
+    culture = roma
+    religion =  orthodox
+    size = 49136
+  }
+  farmers = {
+    culture = roma
+    religion = secularism
+    size = 8333
+  }
 }
 #Vidin - Vidin, Montana, Vratsa (519000/129750 POPS)
 810 = {
-	clergymen = {
-		culture = bulgarian
-		religion =  orthodox 
-		size = 2218
-	 } 
-	clergymen = {
-		culture = bulgarian
-		religion = secularism
-		size = 376
-	 } 
-	farmers = {
-		culture = bulgarian
-		religion =  orthodox 
-		size = 97623
-	 } 
-	farmers = {
-		culture = bulgarian
-		religion = secularism
-		size = 16556
-	 } 
-	farmers = {
-		culture = roma
-		religion =  orthodox 
-		size = 11093
-	 } 
-	farmers = {
-		culture = roma
-		religion = secularism
-		size = 1881
-	 } 
+  clergymen = {
+    culture = bulgarian
+    religion =  orthodox
+    size = 2218
+  }
+  clergymen = {
+    culture = bulgarian
+    religion = secularism
+    size = 376
+  }
+  farmers = {
+    culture = bulgarian
+    religion =  orthodox
+    size = 97623
+  }
+  farmers = {
+    culture = bulgarian
+    religion = secularism
+    size = 16556
+  }
+  farmers = {
+    culture = roma
+    religion =  orthodox
+    size = 11093
+  }
+  farmers = {
+    culture = roma
+    religion = secularism
+    size = 1881
+  }
 }
 #Ruse - Ruse (436000/109000 POPS)
 811 = {
-	clergymen = {
-		culture = bulgarian
-		religion =  orthodox 
-		size = 1863
-	 } 
-	clergymen = {
-		culture = bulgarian
-		religion = secularism
-		size = 316
-	 } 
-	farmers = {
-		culture = bulgarian
-		religion =  orthodox 
-		size = 91331
-	 } 
-	farmers = {
-		culture = bulgarian
-		religion = secularism
-		size = 15488
-	 } 
+  clergymen = {
+    culture = bulgarian
+    religion =  orthodox
+    size = 1863
+  }
+  clergymen = {
+    culture = bulgarian
+    religion = secularism
+    size = 316
+  }
+  farmers = {
+    culture = bulgarian
+    religion =  orthodox
+    size = 91331
+  }
+  farmers = {
+    culture = bulgarian
+    religion = secularism
+    size = 15488
+  }
 }
 #Pleven - Pleven, Gabrovo, Lovech (584000/146000 POPS)
 812 = {
-	clergymen = {
-		culture = bulgarian
-		religion =  orthodox 
-		size = 2496
-	 } 
-	clergymen = {
-		culture = bulgarian
-		religion = secularism
-		size = 423
-	 } 
-	farmers = {
-		culture = bulgarian
-		religion =  orthodox 
-		size = 122333
-	 } 
-	farmers = {
-		culture = bulgarian
-		religion = secularism
-		size = 20746
-	 } 
+  clergymen = {
+    culture = bulgarian
+    religion =  orthodox
+    size = 2496
+  }
+  clergymen = {
+    culture = bulgarian
+    religion = secularism
+    size = 423
+  }
+  farmers = {
+    culture = bulgarian
+    religion =  orthodox
+    size = 122333
+  }
+  farmers = {
+    culture = bulgarian
+    religion = secularism
+    size = 20746
+  }
 }
 #Shumen - Shumen, Targovishte, Veliko Tarnovo (406000/101500 POPS)
 813 = {
-	clergymen = {
-		culture = bulgarian
-		religion =  orthodox 
-		size = 1735
-	 } 
-	clergymen = {
-		culture = bulgarian
-		religion = secularism
-		size = 294
-	 } 
-	farmers = {
-		culture = bulgarian
-		religion =  orthodox 
-		size = 41655
-	 } 
-	farmers = {
-		culture = bulgarian
-		religion = secularism
-		size = 7064
-	 } 
-	farmers = {
-		culture = turkish
-		religion =  sunni 
-		size = 50750
-	 } 
+  clergymen = {
+    culture = bulgarian
+    religion =  orthodox
+    size = 1735
+  }
+  clergymen = {
+    culture = bulgarian
+    religion = secularism
+    size = 294
+  }
+  farmers = {
+    culture = bulgarian
+    religion =  orthodox
+    size = 41655
+  }
+  farmers = {
+    culture = bulgarian
+    religion = secularism
+    size = 7064
+  }
+  farmers = {
+    culture = turkish
+    religion =  sunni
+    size = 50750
+  }
 }
 #Varna - Varna (432000/108000 POPS)
 814 = {
-	clergymen = {
-		culture = bulgarian
-		religion =  orthodox 
-		size = 1846
-	 } 
-	clergymen = {
-		culture = bulgarian
-		religion = secularism
-		size = 313
-	 } 
-	farmers = {
-		culture = bulgarian
-		religion =  orthodox 
-		size = 90493
-	 } 
-	farmers = {
-		culture = bulgarian
-		religion = secularism
-		size = 15346
-	 } 
+  clergymen = {
+    culture = bulgarian
+    religion =  orthodox
+    size = 1846
+  }
+  clergymen = {
+    culture = bulgarian
+    religion = secularism
+    size = 313
+  }
+  farmers = {
+    culture = bulgarian
+    religion =  orthodox
+    size = 90493
+  }
+  farmers = {
+    culture = bulgarian
+    religion = secularism
+    size = 15346
+  }
 }
 #Plovdiv - Plovdiv, Pazardzhik, Smolyan, Kardzhahil (156000/39000 POPS)
 815 = {
-	clergymen = {
-		culture = bulgarian
-		religion =  orthodox 
-		size = 666
-	 } 
-	clergymen = {
-		culture = bulgarian
-		religion = secularism
-		size = 113
-	 } 
-	farmers = {
-		culture = bulgarian
-		religion =  orthodox 
-		size = 11003
-	 } 
-	farmers = {
-		culture = bulgarian
-		religion = secularism
-		size = 1866
-	 } 
-	farmers = {
-		culture = turkish
-		religion =  sunni 
-		size = 25350
-	 } 
+  clergymen = {
+    culture = bulgarian
+    religion =  orthodox
+    size = 666
+  }
+  clergymen = {
+    culture = bulgarian
+    religion = secularism
+    size = 113
+  }
+  farmers = {
+    culture = bulgarian
+    religion =  orthodox
+    size = 11003
+  }
+  farmers = {
+    culture = bulgarian
+    religion = secularism
+    size = 1866
+  }
+  farmers = {
+    culture = turkish
+    religion =  sunni
+    size = 25350
+  }
 }
 #Stara Zagora - Stara Zagora, Hasgovo, Silven (997000/249250 POPS)
 816 = {
-	clergymen = {
-		culture = bulgarian
-		religion =  orthodox 
-		size = 4262
-	 } 
-	clergymen = {
-		culture = bulgarian
-		religion = secularism
-		size = 722
-	 } 
-	farmers = {
-		culture = bulgarian
-		religion =  orthodox 
-		size = 155568
-	 } 
-	farmers = {
-		culture = bulgarian
-		religion = secularism
-		size = 26383
-	 } 
-	farmers = {
-		culture = roma
-		religion =  orthodox 
-		size = 42621
-	 } 
-	farmers = {
-		culture = roma
-		religion = secularism
-		size = 7228
-	 } 
-	farmers = {
-		culture = turkish
-		religion =  sunni 
-		size = 12462
-	 } 
+  clergymen = {
+    culture = bulgarian
+    religion =  orthodox
+    size = 4262
+  }
+  clergymen = {
+    culture = bulgarian
+    religion = secularism
+    size = 722
+  }
+  farmers = {
+    culture = bulgarian
+    religion =  orthodox
+    size = 155568
+  }
+  farmers = {
+    culture = bulgarian
+    religion = secularism
+    size = 26383
+  }
+  farmers = {
+    culture = roma
+    religion =  orthodox
+    size = 42621
+  }
+  farmers = {
+    culture = roma
+    religion = secularism
+    size = 7228
+  }
+  farmers = {
+    culture = turkish
+    religion =  sunni
+    size = 12462
+  }
 }
 #Burgas - Burgas, Yambol (542000/135500 POPS)
 817 = {
-	officers = {
-		culture = bulgarian
-		religion =  orthodox 
-		size = 2511
-	 } 
-	officers = {
-		culture = bulgarian
-		religion = secularism
-		size = 425
-	 } 
-	soldiers = {
-		culture = bulgarian
-		religion =  orthodox 
-		size = 47726
-	 } 
-	soldiers = {
-		culture = bulgarian
-		religion = secularism
-		size = 8093
-	 } 
-	aristocrats = {
-		culture = bulgarian
-		religion =  orthodox 
-		size = 4634
-	 } 
-	aristocrats = {
-		culture = bulgarian
-		religion = secularism
-		size = 785
-	 } 
-	bureaucrats = {
-		culture = bulgarian
-		religion =  orthodox 
-		size = 115
-	 } 
-	bureaucrats = {
-		culture = bulgarian
-		religion = secularism
-		size = 19
-	 } 
-	capitalists = {
-		culture = bulgarian
-		religion =  orthodox 
-		size = 578
-	 } 
-	capitalists = {
-		culture = bulgarian
-		religion = secularism
-		size = 98
-	 } 
-	clergymen = {
-		culture = bulgarian
-		religion =  orthodox 
-		size = 2317
-	 } 
-	clergymen = {
-		culture = bulgarian
-		religion = secularism
-		size = 392
-	 } 
-	clerks = {
-		culture = bulgarian
-		religion =  orthodox 
-		size = 1813
-	 } 
-	clerks = {
-		culture = bulgarian
-		religion = secularism
-		size = 307
-	 } 
-	artisans = {
-		culture = bulgarian
-		religion =  orthodox 
-		size = 1722
-	 } 
-	artisans = {
-		culture = bulgarian
-		religion = secularism
-		size = 292
-	 } 
-	craftsmen = {
-		culture = bulgarian
-		religion =  orthodox 
-		size = 5441
-	 } 
-	craftsmen = {
-		culture = bulgarian
-		religion = secularism
-		size = 922
-	 } 
-	farmers = {
-		culture = bulgarian
-		religion =  orthodox 
-		size = 37407
-	 } 
-	farmers = {
-		culture = bulgarian
-		religion = secularism
-		size = 6343
-	 } 
-	farmers = {
-		culture = turkish
-		religion =  sunni 
-		size = 13550
-	 } 
+  officers = {
+    culture = bulgarian
+    religion =  orthodox
+    size = 2511
+  }
+  officers = {
+    culture = bulgarian
+    religion = secularism
+    size = 425
+  }
+  soldiers = {
+    culture = bulgarian
+    religion =  orthodox
+    size = 47726
+  }
+  soldiers = {
+    culture = bulgarian
+    religion = secularism
+    size = 8093
+  }
+  aristocrats = {
+    culture = bulgarian
+    religion =  orthodox
+    size = 4634
+  }
+  aristocrats = {
+    culture = bulgarian
+    religion = secularism
+    size = 785
+  }
+  bureaucrats = {
+    culture = bulgarian
+    religion =  orthodox
+    size = 115
+  }
+  bureaucrats = {
+    culture = bulgarian
+    religion = secularism
+    size = 19
+  }
+  capitalists = {
+    culture = bulgarian
+    religion =  orthodox
+    size = 578
+  }
+  capitalists = {
+    culture = bulgarian
+    religion = secularism
+    size = 98
+  }
+  clergymen = {
+    culture = bulgarian
+    religion =  orthodox
+    size = 2317
+  }
+  clergymen = {
+    culture = bulgarian
+    religion = secularism
+    size = 392
+  }
+  clerks = {
+    culture = bulgarian
+    religion =  orthodox
+    size = 1813
+  }
+  clerks = {
+    culture = bulgarian
+    religion = secularism
+    size = 307
+  }
+  artisans = {
+    culture = bulgarian
+    religion =  orthodox
+    size = 1722
+  }
+  artisans = {
+    culture = bulgarian
+    religion = secularism
+    size = 292
+  }
+  craftsmen = {
+    culture = bulgarian
+    religion =  orthodox
+    size = 5441
+  }
+  craftsmen = {
+    culture = bulgarian
+    religion = secularism
+    size = 922
+  }
+  farmers = {
+    culture = bulgarian
+    religion =  orthodox
+    size = 37407
+  }
+  farmers = {
+    culture = bulgarian
+    religion = secularism
+    size = 6343
+  }
+  farmers = {
+    culture = turkish
+    religion =  sunni
+    size = 13550
+  }
 }
 #Silistre - Silistre, Dobrish (334000/83500 POPS)
 818 = {
-	officers = {
-		culture = bulgarian
-		religion =  orthodox 
-		size = 107
-	 } 
-	officers = {
-		culture = bulgarian
-		religion = secularism
-		size = 18
-	 } 
-	soldiers = {
-		culture = bulgarian
-		religion =  orthodox 
-		size = 2057
-	 } 
-	soldiers = {
-		culture = bulgarian
-		religion = secularism
-		size = 349
-	 } 
-	aristocrats = {
-		culture = bulgarian
-		religion =  orthodox 
-		size = 2855
-	 } 
-	aristocrats = {
-		culture = bulgarian
-		religion = secularism
-		size = 484
-	 } 
-	bureaucrats = {
-		culture = bulgarian
-		religion =  orthodox 
-		size = 70
-	 } 
-	bureaucrats = {
-		culture = bulgarian
-		religion = secularism
-		size = 12
-	 } 
-	capitalists = {
-		culture = bulgarian
-		religion =  orthodox 
-		size = 356
-	 } 
-	capitalists = {
-		culture = bulgarian
-		religion = secularism
-		size = 60
-	 } 
-	clergymen = {
-		culture = bulgarian
-		religion =  orthodox 
-		size = 1427
-	 } 
-	clergymen = {
-		culture = bulgarian
-		religion = secularism
-		size = 242
-	 } 
-	clerks = {
-		culture = bulgarian
-		religion =  orthodox 
-		size = 1913
-	 } 
-	clerks = {
-		culture = bulgarian
-		religion = secularism
-		size = 324
-	 } 
-	artisans = {
-		culture = bulgarian
-		religion =  orthodox 
-		size = 1817
-	 } 
-	artisans = {
-		culture = bulgarian
-		religion = secularism
-		size = 308
-	 } 
-	craftsmen = {
-		culture = bulgarian
-		religion =  orthodox 
-		size = 5741
-	 } 
-	craftsmen = {
-		culture = bulgarian
-		religion = secularism
-		size = 973
-	 } 
-	farmers = {
-		culture = bulgarian
-		religion =  orthodox 
-		size = 47903
-	 } 
-	farmers = {
-		culture = bulgarian
-		religion = secularism
-		size = 8124
-	 } 
-	farmers = {
-		culture = roma
-		religion =  orthodox 
-		size = 7139
-	 } 
-	farmers = {
-		culture = roma
-		religion = secularism
-		size = 1210
-	 } 
+  officers = {
+    culture = bulgarian
+    religion =  orthodox
+    size = 107
+  }
+  officers = {
+    culture = bulgarian
+    religion = secularism
+    size = 18
+  }
+  soldiers = {
+    culture = bulgarian
+    religion =  orthodox
+    size = 2057
+  }
+  soldiers = {
+    culture = bulgarian
+    religion = secularism
+    size = 349
+  }
+  aristocrats = {
+    culture = bulgarian
+    religion =  orthodox
+    size = 2855
+  }
+  aristocrats = {
+    culture = bulgarian
+    religion = secularism
+    size = 484
+  }
+  bureaucrats = {
+    culture = bulgarian
+    religion =  orthodox
+    size = 70
+  }
+  bureaucrats = {
+    culture = bulgarian
+    religion = secularism
+    size = 12
+  }
+  capitalists = {
+    culture = bulgarian
+    religion =  orthodox
+    size = 356
+  }
+  capitalists = {
+    culture = bulgarian
+    religion = secularism
+    size = 60
+  }
+  clergymen = {
+    culture = bulgarian
+    religion =  orthodox
+    size = 1427
+  }
+  clergymen = {
+    culture = bulgarian
+    religion = secularism
+    size = 242
+  }
+  clerks = {
+    culture = bulgarian
+    religion =  orthodox
+    size = 1913
+  }
+  clerks = {
+    culture = bulgarian
+    religion = secularism
+    size = 324
+  }
+  artisans = {
+    culture = bulgarian
+    religion =  orthodox
+    size = 1817
+  }
+  artisans = {
+    culture = bulgarian
+    religion = secularism
+    size = 308
+  }
+  craftsmen = {
+    culture = bulgarian
+    religion =  orthodox
+    size = 5741
+  }
+  craftsmen = {
+    culture = bulgarian
+    religion = secularism
+    size = 973
+  }
+  farmers = {
+    culture = bulgarian
+    religion =  orthodox
+    size = 47903
+  }
+  farmers = {
+    culture = bulgarian
+    religion = secularism
+    size = 8124
+  }
+  farmers = {
+    culture = roma
+    religion =  orthodox
+    size = 7139
+  }
+  farmers = {
+    culture = roma
+    religion = secularism
+    size = 1210
+  }
 }

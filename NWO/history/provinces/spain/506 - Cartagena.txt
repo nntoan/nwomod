@@ -7,10 +7,10 @@ terrain = hilly_grassland
 colonial = 0
 naval_base = 1
 1992.1.1 = {
-owner = SPA
-controller = SPA
-add_core = SPA
-railroad = 1
-colonial = 0
-naval_base = 3
+  owner = SPA
+  controller = SPA
+  add_core = SPA
+  railroad = 1
+  colonial = 0
+  naval_base = 3
 }

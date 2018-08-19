@@ -1,113 +1,113 @@
 #Dominica - Dominica (70000/17500 POPS)
 2232 = {
-	capitalists = {
-		culture = british
-		religion =  protestant 
-		size = 94
-	 } 
-	capitalists = {
-		culture = british
-		religion = secularism
-		size = 10
-	 } 
-	aristocrats = {
-		culture = anglo_african
-		religion =  protestant 
-		size = 550
-	 } 
-	aristocrats = {
-		culture = anglo_african
-		religion = secularism
-		size = 61
-	 } 
-	bureaucrats = {
-		culture = anglo_african
-		religion =  protestant 
-		size = 46
-	 } 
-	bureaucrats = {
-		culture = anglo_african
-		religion = secularism
-		size = 5
-	 } 
-	clergymen = {
-		culture = anglo_african
-		religion =  protestant 
-		size = 315
-	 } 
-	clergymen = {
-		culture = anglo_african
-		religion = secularism
-		size = 35
-	 } 
-	clerks = {
-		culture = anglo_african
-		religion =  protestant 
-		size = 395
-	 } 
-	clerks = {
-		culture = anglo_african
-		religion = secularism
-		size = 43
-	 } 
-	artisans = {
-		culture = anglo_african
-		religion =  protestant 
-		size = 375
-	 } 
-	artisans = {
-		culture = anglo_african
-		religion = secularism
-		size = 41
-	 } 
-	craftsmen = {
-		culture = anglo_african
-		religion =  protestant 
-		size = 1186
-	 } 
-	craftsmen = {
-		culture = anglo_african
-		religion = secularism
-		size = 131
-	 } 
-	farmers = {
-		culture = anglo_african
-		religion =  protestant 
-		size = 10785
-	 } 
-	farmers = {
-		culture = anglo_african
-		religion = secularism
-		size = 1198
-	 } 
-	farmers = {
-		culture = british
-		religion =  protestant 
-		size = 141
-	 } 
-	farmers = {
-		culture = british
-		religion = secularism
-		size = 15
-	 } 
-	farmers = {
-		culture = caribbean_spanish
-		religion =  catholic 
-		size = 1401
-	 } 
-	farmers = {
-		culture = caribbean_spanish
-		religion = secularism
-		size = 155
-	 } 
-	farmers = {
-		culture = native_american_minor
-		religion =  catholic 
-		size = 456
-	 } 
-	farmers = {
-		culture = native_american_minor
-		religion = secularism
-		size = 50
-	 } 
+  capitalists = {
+    culture = british
+    religion =  protestant
+    size = 94
+  }
+  capitalists = {
+    culture = british
+    religion = secularism
+    size = 10
+  }
+  aristocrats = {
+    culture = anglo_african
+    religion =  protestant
+    size = 550
+  }
+  aristocrats = {
+    culture = anglo_african
+    religion = secularism
+    size = 61
+  }
+  bureaucrats = {
+    culture = anglo_african
+    religion =  protestant
+    size = 46
+  }
+  bureaucrats = {
+    culture = anglo_african
+    religion = secularism
+    size = 5
+  }
+  clergymen = {
+    culture = anglo_african
+    religion =  protestant
+    size = 315
+  }
+  clergymen = {
+    culture = anglo_african
+    religion = secularism
+    size = 35
+  }
+  clerks = {
+    culture = anglo_african
+    religion =  protestant
+    size = 395
+  }
+  clerks = {
+    culture = anglo_african
+    religion = secularism
+    size = 43
+  }
+  artisans = {
+    culture = anglo_african
+    religion =  protestant
+    size = 375
+  }
+  artisans = {
+    culture = anglo_african
+    religion = secularism
+    size = 41
+  }
+  craftsmen = {
+    culture = anglo_african
+    religion =  protestant
+    size = 1186
+  }
+  craftsmen = {
+    culture = anglo_african
+    religion = secularism
+    size = 131
+  }
+  farmers = {
+    culture = anglo_african
+    religion =  protestant
+    size = 10785
+  }
+  farmers = {
+    culture = anglo_african
+    religion = secularism
+    size = 1198
+  }
+  farmers = {
+    culture = british
+    religion =  protestant
+    size = 141
+  }
+  farmers = {
+    culture = british
+    religion = secularism
+    size = 15
+  }
+  farmers = {
+    culture = caribbean_spanish
+    religion =  catholic
+    size = 1401
+  }
+  farmers = {
+    culture = caribbean_spanish
+    religion = secularism
+    size = 155
+  }
+  farmers = {
+    culture = native_american_minor
+    religion =  catholic
+    size = 456
+  }
+  farmers = {
+    culture = native_american_minor
+    religion = secularism
+    size = 50
+  }
 }

@@ -8,9 +8,9 @@ terrain = plains
 railroad = 1
 colonial = 0
 1992.1.1 = {
-owner = GZA
-controller = GZA
-add_core = SAF
-add_core = GZA
-colonial = 0
+  owner = GZA
+  controller = GZA
+  add_core = SAF
+  add_core = GZA
+  colonial = 0
 }

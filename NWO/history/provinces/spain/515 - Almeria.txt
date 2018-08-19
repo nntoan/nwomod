@@ -6,9 +6,9 @@ life_rating = 23
 terrain = mountain_grassland
 colonial = 0
 1992.1.1 = {
-owner = SPA
-controller = SPA
-add_core = SPA
-railroad = 1
-colonial = 0
+  owner = SPA
+  controller = SPA
+  add_core = SPA
+  railroad = 1
+  colonial = 0
 }

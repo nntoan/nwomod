@@ -14,10 +14,10 @@ country_event = {
 
   option = {
     name = OK
-	random_state = { any_pop = { dominant_issue = { value = parties_allowed factor = 0.25 } } }
-	random_state = { any_pop = { dominant_issue = { value = planned_economy factor = 0.15 } } }
-	define_general = { name = "Mohammad Reza Pahlavi" personality = energetic background = no_background }
-	define_general = { name = "Ibrahim Hakimi al Mulk" personality = energetic background = no_background }
+    random_state = { any_pop = { dominant_issue = { value = parties_allowed factor = 0.25 } } }
+    random_state = { any_pop = { dominant_issue = { value = planned_economy factor = 0.15 } } }
+    define_general = { name = "Mohammad Reza Pahlavi" personality = energetic background = no_background }
+    define_general = { name = "Ibrahim Hakimi al Mulk" personality = energetic background = no_background }
   }
 }
 country_event = {
@@ -36,8 +36,8 @@ country_event = {
 
   option = {
     name = OK
-	random_state = { any_pop = { dominant_issue = { value = parties_allowed factor = 0.05 } } }
-	random_state = { any_pop = { dominant_issue = { value = planned_economy factor = 0.15 } } }
+    random_state = { any_pop = { dominant_issue = { value = parties_allowed factor = 0.05 } } }
+    random_state = { any_pop = { dominant_issue = { value = planned_economy factor = 0.15 } } }
   }
 }
 country_event = {
@@ -59,9 +59,9 @@ country_event = {
 
   option = {
     name = OK
-	random_state = { any_pop = { dominant_issue = { value = parties_allowed factor = 0.02 } } }
-	random_state = { any_pop = { dominant_issue = { value = planned_economy factor = 0.15 } } }
-	define_general = { name = "Abdol Hossein Hajir" personality = energetic background = no_background }
+    random_state = { any_pop = { dominant_issue = { value = parties_allowed factor = 0.02 } } }
+    random_state = { any_pop = { dominant_issue = { value = planned_economy factor = 0.15 } } }
+    define_general = { name = "Abdol Hossein Hajir" personality = energetic background = no_background }
   }
 }
 country_event = {
@@ -80,9 +80,9 @@ country_event = {
 
   option = {
     name = OK
-	random_state = { any_pop = { dominant_issue = { value = parties_allowed factor = 0.25 } } }
-	random_state = { any_pop = { dominant_issue = { value = planned_economy factor = 0.30000000000000004 } } }
-	define_general = { name = "Mohammed Said Maraghei" personality = energetic background = no_background }
+    random_state = { any_pop = { dominant_issue = { value = parties_allowed factor = 0.25 } } }
+    random_state = { any_pop = { dominant_issue = { value = planned_economy factor = 0.30000000000000004 } } }
+    define_general = { name = "Mohammed Said Maraghei" personality = energetic background = no_background }
   }
 }
 country_event = {
@@ -102,9 +102,9 @@ country_event = {
 
   option = {
     name = OK
-	random_state = { any_pop = { dominant_issue = { value = parties_allowed factor = 0.3 } } }
-	random_state = { any_pop = { dominant_issue = { value = planned_economy factor = 0.35 } } }
-	define_general = { name = "Ali Razmara" personality = energetic background = no_background }
+    random_state = { any_pop = { dominant_issue = { value = parties_allowed factor = 0.3 } } }
+    random_state = { any_pop = { dominant_issue = { value = planned_economy factor = 0.35 } } }
+    define_general = { name = "Ali Razmara" personality = energetic background = no_background }
   }
 }
 country_event = {
@@ -124,9 +124,9 @@ country_event = {
 
   option = {
     name = EVT_8011406_A
-	random_state = { any_pop = { dominant_issue = { value = parties_allowed factor = 0.2 } } }
-	random_state = { any_pop = { dominant_issue = { value = planned_economy factor = 0.05 } } }
-	define_general = { name = "Mohammed Mossadeq" personality = energetic background = no_background }
+    random_state = { any_pop = { dominant_issue = { value = parties_allowed factor = 0.2 } } }
+    random_state = { any_pop = { dominant_issue = { value = planned_economy factor = 0.05 } } }
+    define_general = { name = "Mohammed Mossadeq" personality = energetic background = no_background }
   }
 }
 country_event = {
@@ -136,12 +136,12 @@ country_event = {
   picture = "nwo2_operation_ajax"
 
   is_triggered_only = yes
-  
+
   option = {
     name = EVT_8011407_A
-	random_state = { any_pop = { dominant_issue = { value = parties_allowed factor = 0.3 } } }
-	random_state = { any_pop = { dominant_issue = { value = planned_economy factor = 0.35 } } }
-	define_general = { name = "Mohammed Reza Pahlavi" personality = energetic background = no_background }
+    random_state = { any_pop = { dominant_issue = { value = parties_allowed factor = 0.3 } } }
+    random_state = { any_pop = { dominant_issue = { value = planned_economy factor = 0.35 } } }
+    define_general = { name = "Mohammed Reza Pahlavi" personality = energetic background = no_background }
   }
 }
 country_event = {
@@ -160,9 +160,9 @@ country_event = {
 
   option = {
     name = OK
-	random_state = { any_pop = { dominant_issue = { value = parties_allowed factor = 0.3 } } }
-	random_state = { any_pop = { dominant_issue = { value = planned_economy factor = 0.3 } } }
-	define_general = { name = "Hussein Khan Ala" personality = energetic background = no_background }
+    random_state = { any_pop = { dominant_issue = { value = parties_allowed factor = 0.3 } } }
+    random_state = { any_pop = { dominant_issue = { value = planned_economy factor = 0.3 } } }
+    define_general = { name = "Hussein Khan Ala" personality = energetic background = no_background }
   }
 }
 country_event = {
@@ -181,9 +181,9 @@ country_event = {
 
   option = {
     name = OK
-	random_state = { any_pop = { dominant_issue = { value = parties_allowed factor = 0.25 } } }
-	random_state = { any_pop = { dominant_issue = { value = planned_economy factor = 0.3 } } }
-	define_general = { name = "Manouchehr Eghbal" personality = energetic background = no_background }
+    random_state = { any_pop = { dominant_issue = { value = parties_allowed factor = 0.25 } } }
+    random_state = { any_pop = { dominant_issue = { value = planned_economy factor = 0.3 } } }
+    define_general = { name = "Manouchehr Eghbal" personality = energetic background = no_background }
   }
 }
 country_event = {
@@ -203,9 +203,9 @@ country_event = {
 
   option = {
     name = OK
-	random_state = { any_pop = { dominant_issue = { value = parties_allowed factor = 0.25 } } }
-	random_state = { any_pop = { dominant_issue = { value = planned_economy factor = 0.30 } } }
-	define_general = { name = "Jafar Sharif-Emami" personality = energetic background = no_background }
+    random_state = { any_pop = { dominant_issue = { value = parties_allowed factor = 0.25 } } }
+    random_state = { any_pop = { dominant_issue = { value = planned_economy factor = 0.30 } } }
+    define_general = { name = "Jafar Sharif-Emami" personality = energetic background = no_background }
   }
 }
 country_event = {
@@ -224,9 +224,9 @@ country_event = {
 
   option = {
     name = OK
-	random_state = { any_pop = { dominant_issue = { value = parties_allowed factor = 0.1 } } }
-	random_state = { any_pop = { dominant_issue = { value = planned_economy factor = 0.1 } } }
-	define_general = { name = "Amir-Abbas Hoveida" personality = energetic background = no_background }
+    random_state = { any_pop = { dominant_issue = { value = parties_allowed factor = 0.1 } } }
+    random_state = { any_pop = { dominant_issue = { value = planned_economy factor = 0.1 } } }
+    define_general = { name = "Amir-Abbas Hoveida" personality = energetic background = no_background }
   }
 }
 country_event = {
@@ -239,7 +239,7 @@ country_event = {
   trigger = {
     tag = IRN
     year = 1976 NOT = { year = 1990 }
-	has_leader = "Mohammad Reza Pahlavi"
+    has_leader = "Mohammad Reza Pahlavi"
   }
   mean_time_to_happen = { months = 2 }
 
@@ -264,9 +264,9 @@ country_event = {
 
   option = {
     name = OK
-	random_state = { any_pop = { dominant_issue = { value = parties_allowed factor = 0.1 } } }
-	random_state = { any_pop = { dominant_issue = { value = planned_economy factor = 0.1 } } }
-	define_general = { name = "Jamshid Amouzegar" personality = energetic background = no_background }
+    random_state = { any_pop = { dominant_issue = { value = parties_allowed factor = 0.1 } } }
+    random_state = { any_pop = { dominant_issue = { value = planned_economy factor = 0.1 } } }
+    define_general = { name = "Jamshid Amouzegar" personality = energetic background = no_background }
   }
 }
 country_event = {
@@ -279,16 +279,16 @@ country_event = {
   trigger = {
     tag = IRN
     year = 1979 NOT = { year = 1990 }
-    government = theocracy 
+    government = theocracy
   }
 
   mean_time_to_happen = { months = 6  }
-  
+
   option = {
     name = EVT_8011417_A
-	any_pop = { dominant_issue = { value = moralism factor = 0.35 } } 
-	any_pop = { dominant_issue = { value = gender_role_based factor = 0.4 } } 
-	define_general = { name = "Ruhollah Khomeini" personality = energetic background = no_background }
+    any_pop = { dominant_issue = { value = moralism factor = 0.35 } }
+    any_pop = { dominant_issue = { value = gender_role_based factor = 0.4 } }
+    define_general = { name = "Ruhollah Khomeini" personality = energetic background = no_background }
   }
 }
 country_event = {
@@ -301,14 +301,14 @@ country_event = {
   trigger = {
     tag = IRN
     year = 1980 NOT = { year = 1990 }
-	government = theocracy
+    government = theocracy
   }
 
   mean_time_to_happen = { months = 12 }
 
   option = {
     name = OK
-	define_general = { name = "Abulhassan Banisadr" personality = energetic background = no_background }
+    define_general = { name = "Abulhassan Banisadr" personality = energetic background = no_background }
   }
 }
 country_event = {
@@ -321,14 +321,14 @@ country_event = {
   trigger = {
     tag = IRN
     year = 1988 NOT = { year = 1990 }
-	government = theocracy
+    government = theocracy
   }
 
   mean_time_to_happen = { months = 12 }
 
   option = {
     name = OK
-	define_general = { name = "Ali Khamenei" personality = energetic background = no_background }
+    define_general = { name = "Ali Khamenei" personality = energetic background = no_background }
   }
 }
 country_event = {
@@ -341,14 +341,14 @@ country_event = {
   trigger = {
     tag = IRN
     year = 2007 NOT = { year = 2010 }
-	government = theocracy
+    government = theocracy
   }
 
   mean_time_to_happen = { months = 6 }
 
   option = {
     name = OK
-	define_general = { name = "Akbar Hashemi Rafsanjani" personality = energetic background = no_background }
+    define_general = { name = "Akbar Hashemi Rafsanjani" personality = energetic background = no_background }
   }
 }
 country_event = {
@@ -367,7 +367,7 @@ country_event = {
 
   option = {
     name = "OK"
-	any_pop = { militancy = 0.5  consciousness = 2 }
+    any_pop = { militancy = 0.5  consciousness = 2 }
   }
 }
 country_event = {
@@ -380,25 +380,25 @@ country_event = {
   trigger = {
     tag = IRN
     year = 1978 NOT = { year = 1990 }
-	NOT = { government = theocracy }
+    NOT = { government = theocracy }
   }
 
   mean_time_to_happen = { months = 6 }
 
   option = {
     name = EVT_8011431_A
-	any_pop = { militancy = 1  consciousness = 2 }
-	any_pop = { dominant_issue = { value = moralism factor = 0.25 } }
-	any_pop = { dominant_issue = { value = moralism factor = 0.25 } }
-	ai_chance = { factor = 0 }
+    any_pop = { militancy = 1  consciousness = 2 }
+    any_pop = { dominant_issue = { value = moralism factor = 0.25 } }
+    any_pop = { dominant_issue = { value = moralism factor = 0.25 } }
+    ai_chance = { factor = 0 }
   }
 
   option = {
     name = EVT_8011431_B
-	any_pop = { dominant_issue = { value = moralism factor = 0.45 } }
-	any_pop = { militancy = 6.0  consciousness = 4 }
-	country_event =  { id = 8011432 days = 150 } 
-	ai_chance = { factor = 100 }
+    any_pop = { dominant_issue = { value = moralism factor = 0.45 } }
+    any_pop = { militancy = 6.0  consciousness = 4 }
+    country_event =  { id = 8011432 days = 150 }
+    ai_chance = { factor = 100 }
   }
 }
 country_event = {
@@ -412,17 +412,17 @@ country_event = {
 
   option = {
     name = EVT_8011432_A
-	any_pop = { militancy = -6  consciousness = -6 }
-	badboy = 15 relation = { who = USA value = -150 } 
-	random_state = { any_pop = { dominant_issue = { value = moralism factor = 0.10 } } }
-	government = theocracy religion = shiite country_event = 800051
-	ai_chance = { factor = 100 }
+    any_pop = { militancy = -6  consciousness = -6 }
+    badboy = 15 relation = { who = USA value = -150 }
+    random_state = { any_pop = { dominant_issue = { value = moralism factor = 0.10 } } }
+    government = theocracy religion = shiite country_event = 800051
+    ai_chance = { factor = 100 }
   }
 
   option = {
     name = EVT_8011432_A
-	any_pop = { militancy = 2  consciousness = 2 }
-	any_pop = { dominant_issue = { value = moralism factor = 0.45 } }
-	ai_chance = { factor = 0 }
+    any_pop = { militancy = 2  consciousness = 2 }
+    any_pop = { dominant_issue = { value = moralism factor = 0.45 } }
+    ai_chance = { factor = 0 }
   }
 }

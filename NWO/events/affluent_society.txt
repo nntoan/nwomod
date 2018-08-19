@@ -6,17 +6,17 @@ country_event = {
 
   trigger = {
     NOT = { has_country_flag = affluent_society_1950 }
-	middle_strata_everyday_needs = 0.8
+    middle_strata_everyday_needs = 0.8
   }
 
   mean_time_to_happen = { months = 120 }
 
   option = {
     name = "EVT_1800_A"
-	set_country_flag = affluent_society_1950
-	any_owned = { 
-		add_province_modifier = { name = affluent_society_1950 duration = -1 }
-	}
+    set_country_flag = affluent_society_1950
+    any_owned = {
+      add_province_modifier = { name = affluent_society_1950 duration = -1 }
+    }
   }
 }
 country_event = {
@@ -28,18 +28,18 @@ country_event = {
   trigger = {
     has_country_flag = affluent_society_1950
     NOT = { has_country_flag = affluent_society_1980 }
-	middle_strata_everyday_needs = 0.8
+    middle_strata_everyday_needs = 0.8
   }
 
   mean_time_to_happen = { months = 120 }
 
   option = {
     name = "EVT_1800_A"
-	set_country_flag = affluent_society_1980
-	any_owned = { 
-		remove_province_modifier = affluent_society_1950
-		add_province_modifier = { name = affluent_society_1980 duration = -1 }
-	}
+    set_country_flag = affluent_society_1980
+    any_owned = {
+      remove_province_modifier = affluent_society_1950
+      add_province_modifier = { name = affluent_society_1980 duration = -1 }
+    }
   }
 }
 country_event = {
@@ -51,18 +51,18 @@ country_event = {
   trigger = {
     has_country_flag = affluent_society_1980
     NOT = { has_country_flag = affluent_society_2010 }
-	middle_strata_everyday_needs = 0.8
+    middle_strata_everyday_needs = 0.8
   }
 
   mean_time_to_happen = { months = 120 }
 
   option = {
     name = "EVT_1800_A"
-	set_country_flag = affluent_society_2010
-	any_owned = { 
-		remove_province_modifier = affluent_society_1980
-		add_province_modifier = { name = affluent_society_2010 duration = -1 }
-	}
+    set_country_flag = affluent_society_2010
+    any_owned = {
+      remove_province_modifier = affluent_society_1980
+      add_province_modifier = { name = affluent_society_2010 duration = -1 }
+    }
   }
 }
 country_event = {
@@ -74,17 +74,17 @@ country_event = {
   trigger = {
     has_country_flag = affluent_society_2010
     NOT = { has_country_flag = affluent_society_future }
-	middle_strata_everyday_needs = 0.8
+    middle_strata_everyday_needs = 0.8
   }
 
   mean_time_to_happen = { months = 120 }
 
   option = {
     name = "EVT_1800_A"
-	set_country_flag = affluent_society_future
-	any_owned = { 
-		remove_province_modifier = affluent_society_2010
-		add_province_modifier = { name = affluent_society_future duration = -1 }
-	}
+    set_country_flag = affluent_society_future
+    any_owned = {
+      remove_province_modifier = affluent_society_2010
+      add_province_modifier = { name = affluent_society_future duration = -1 }
+    }
   }
 }

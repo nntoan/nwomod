@@ -7,30 +7,30 @@ life_rating = 20
 terrain = hilly_farmland
 colonial = 0
 1992.1.1 = {
-owner = ITA
-controller = ITA
-add_core = ITA
-add_core = FVG
-railroad = 1
-colonial = 0
-state_building = {
-	level = 1
-	building = glass_factory
-	upgrade = yes
-}
-state_building = {
-	level = 1
-	building = beverages_factory
-	upgrade = yes
-}
-state_building = {
-	level = 1
-	building = instruments_factory
-	upgrade = yes
-}
-state_building = {
-	level = 1
-	building = milk_cheese_factory
-	upgrade = yes
-}
+  owner = ITA
+  controller = ITA
+  add_core = ITA
+  add_core = FVG
+  railroad = 1
+  colonial = 0
+  state_building = {
+    level = 1
+    building = glass_factory
+    upgrade = yes
+  }
+  state_building = {
+    level = 1
+    building = beverages_factory
+    upgrade = yes
+  }
+  state_building = {
+    level = 1
+    building = instruments_factory
+    upgrade = yes
+  }
+  state_building = {
+    level = 1
+    building = milk_cheese_factory
+    upgrade = yes
+  }
 }

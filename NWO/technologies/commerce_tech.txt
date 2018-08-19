@@ -1,1079 +1,1079 @@
 grain_cradle = {
-	area = "food_plants_tech"
-	year = 1850
-	cost = 400
+  area = "food_plants_tech"
+  year = 1850
+  cost = 400
 
-	rgo_goods_output = { grain = 0.25 }
-	ai_chance = {
-		factor = 1
-	}
+  rgo_goods_output = { grain = 0.25 }
+  ai_chance = {
+    factor = 1
+  }
 }
 combine_harvester = {
-	area = "food_plants_tech"
-	year = 1880
-	cost = 3400
+  area = "food_plants_tech"
+  year = 1880
+  cost = 3400
 
-	activate_building = beverages_factory 
-	ai_chance = {
-		factor = 1
-	}
+  activate_building = beverages_factory
+  ai_chance = {
+    factor = 1
+  }
 }
 fertilizers = {
-	area = "food_plants_tech"
-	year = 1900
-	cost = 5400
+  area = "food_plants_tech"
+  year = 1900
+  cost = 5400
 
-	farm_rgo_eff = 0.1
-	ai_chance = {
-		factor = 1
-	}
+  farm_rgo_eff = 0.1
+  ai_chance = {
+    factor = 1
+  }
 }
 nitrogen_fertilize = {
-	area = "food_plants_tech"
-	year = 1920
-	cost = 7400
+  area = "food_plants_tech"
+  year = 1920
+  cost = 7400
 
-	farm_rgo_eff = 0.1
-	ai_chance = {
-		factor = 1
-	}
+  farm_rgo_eff = 0.1
+  ai_chance = {
+    factor = 1
+  }
 }
 farm_machinery = {
-	area = "food_plants_tech"
-	year = 1930
-	cost = 8400
+  area = "food_plants_tech"
+  year = 1930
+  cost = 8400
 
-	farm_rgo_eff = 0.1
-	ai_chance = {
-		factor = 1
-	}
+  farm_rgo_eff = 0.1
+  ai_chance = {
+    factor = 1
+  }
 }
 early_plant_breeding = {
-	area = "food_plants_tech"
-	year = 1933
-	cost = 8700
+  area = "food_plants_tech"
+  year = 1933
+  cost = 8700
 
-	rgo_goods_output = { grain = 0.25 }
-	rgo_goods_output = { fruit = 0.25 }
-	rgo_goods_output = { sugar = 0.25 }
-	rgo_goods_output = { tobacco = 0.25 }
-	rgo_goods_output = { coffee = 0.25 }
-	ai_chance = {
-		factor = 1
-	}
+  rgo_goods_output = { grain = 0.25 }
+  rgo_goods_output = { fruit = 0.25 }
+  rgo_goods_output = { sugar = 0.25 }
+  rgo_goods_output = { tobacco = 0.25 }
+  rgo_goods_output = { coffee = 0.25 }
+  ai_chance = {
+    factor = 1
+  }
 }
 intensive_farming = {
-	area = "food_plants_tech"
-	year = 1940
-	cost = 9400
+  area = "food_plants_tech"
+  year = 1940
+  cost = 9400
 
-	farm_rgo_eff = 0.1
-	ai_chance = {
-		factor = 1
-	}
+  farm_rgo_eff = 0.1
+  ai_chance = {
+    factor = 1
+  }
 }
 herbicides = {
-	area = "food_plants_tech"
-	year = 1940
-	cost = 9400
+  area = "food_plants_tech"
+  year = 1940
+  cost = 9400
 
-	farm_rgo_eff = 0.1
-	ai_chance = {
-		factor = 1
-	}
+  farm_rgo_eff = 0.1
+  ai_chance = {
+    factor = 1
+  }
 }
 insecticide = {
-	area = "food_plants_tech"
-	year = 1945
-	cost = 9900
+  area = "food_plants_tech"
+  year = 1945
+  cost = 9900
 
-	activate_building = modern_beverages_factory 
-	ai_chance = {
-		factor = 1
-	}
+  activate_building = modern_beverages_factory
+  ai_chance = {
+    factor = 1
+  }
 }
 pesticide = {
-	area = "food_plants_tech"
-	year = 1950
-	cost = 10400
+  area = "food_plants_tech"
+  year = 1950
+  cost = 10400
 
-	farm_rgo_eff = 0.1
-	ai_chance = {
-		factor = 1
-	}
+  farm_rgo_eff = 0.1
+  ai_chance = {
+    factor = 1
+  }
 }
 green_revolution = {
-	area = "food_plants_tech"
-	year = 1960
-	cost = 11400
+  area = "food_plants_tech"
+  year = 1960
+  cost = 11400
 
-	farm_rgo_eff = 0.5
-	ai_chance = {
-		factor = 1
-	}
+  farm_rgo_eff = 0.5
+  ai_chance = {
+    factor = 1
+  }
 }
 fungicide = {
-	area = "food_plants_tech"
-	year = 1960
-	cost = 11400
+  area = "food_plants_tech"
+  year = 1960
+  cost = 11400
 
-	farm_rgo_eff = 0.1
-	ai_chance = {
-		factor = 1
-	}
+  farm_rgo_eff = 0.1
+  ai_chance = {
+    factor = 1
+  }
 }
 plant_breeding = {
-	area = "food_plants_tech"
-	year = 1960
-	cost = 11400
+  area = "food_plants_tech"
+  year = 1960
+  cost = 11400
 
-	rgo_goods_output = { grain = 0.25 }
-	rgo_goods_output = { fruit = 0.25 }
-	rgo_goods_output = { sugar = 0.25 }
-	rgo_goods_output = { tobacco = 0.25 }
-	rgo_goods_output = { coffee = 0.25 }
-	ai_chance = {
-		factor = 1
-	}
+  rgo_goods_output = { grain = 0.25 }
+  rgo_goods_output = { fruit = 0.25 }
+  rgo_goods_output = { sugar = 0.25 }
+  rgo_goods_output = { tobacco = 0.25 }
+  rgo_goods_output = { coffee = 0.25 }
+  ai_chance = {
+    factor = 1
+  }
 }
 advanced_herbicides = {
-	area = "food_plants_tech"
-	year = 1974
-	cost = 12800
+  area = "food_plants_tech"
+  year = 1974
+  cost = 12800
 
-	farm_rgo_eff = 0.1
-	ai_chance = {
-		factor = 1
-	}
+  farm_rgo_eff = 0.1
+  ai_chance = {
+    factor = 1
+  }
 }
 high_yielding_grain = {
-	area = "food_plants_tech"
-	year = 1980
-	cost = 13400
+  area = "food_plants_tech"
+  year = 1980
+  cost = 13400
 
-	rgo_goods_output = { grain = 0.25 }
-	ai_chance = {
-		factor = 1
-	}
+  rgo_goods_output = { grain = 0.25 }
+  ai_chance = {
+    factor = 1
+  }
 }
 industrial_fermentation = {
-	area = "food_plants_tech"
-	year = 1990
-	cost = 14400
+  area = "food_plants_tech"
+  year = 1990
+  cost = 14400
 
-	farm_rgo_eff = 0.1
-	ai_chance = {
-		factor = 1
-	}
+  farm_rgo_eff = 0.1
+  ai_chance = {
+    factor = 1
+  }
 }
 modern_plant_breeding = {
-	area = "food_plants_tech"
-	year = 2000
-	cost = 15400
+  area = "food_plants_tech"
+  year = 2000
+  cost = 15400
 
-	rgo_goods_output = { grain = 0.25 }
-	rgo_goods_output = { fruit = 0.25 }
-	rgo_goods_output = { sugar = 0.25 }
-	rgo_goods_output = { tobacco = 0.25 }
-	rgo_goods_output = { coffee = 0.25 }
-	ai_chance = {
-		factor = 1
-	}
+  rgo_goods_output = { grain = 0.25 }
+  rgo_goods_output = { fruit = 0.25 }
+  rgo_goods_output = { sugar = 0.25 }
+  rgo_goods_output = { tobacco = 0.25 }
+  rgo_goods_output = { coffee = 0.25 }
+  ai_chance = {
+    factor = 1
+  }
 }
 genetically_modified_organism = {
-	area = "food_plants_tech"
-	year = 2010
-	cost = 16400
+  area = "food_plants_tech"
+  year = 2010
+  cost = 16400
 
-	rgo_goods_output = { grain = 0.25 }
-	rgo_goods_output = { fruit = 0.25 }
-	rgo_goods_output = { sugar = 0.25 }
-	rgo_goods_output = { tobacco = 0.25 }
-	rgo_goods_output = { coffee = 0.25 }
-	ai_chance = {
-		factor = 1
-	}
+  rgo_goods_output = { grain = 0.25 }
+  rgo_goods_output = { fruit = 0.25 }
+  rgo_goods_output = { sugar = 0.25 }
+  rgo_goods_output = { tobacco = 0.25 }
+  rgo_goods_output = { coffee = 0.25 }
+  ai_chance = {
+    factor = 1
+  }
 }
 precision_agriculture = {
-	area = "food_plants_tech"
-	year = 2050
-	cost = 20400
+  area = "food_plants_tech"
+  year = 2050
+  cost = 20400
 
-	farm_rgo_eff = 0.1
-	ai_chance = {
-		factor = 1
-	}
+  farm_rgo_eff = 0.1
+  ai_chance = {
+    factor = 1
+  }
 }
 agricultural_robot = {
-	area = "food_plants_tech"
-	year = 2050
-	cost = 20400
+  area = "food_plants_tech"
+  year = 2050
+  cost = 20400
 
-	farm_rgo_eff = 0.1
-	ai_chance = {
-		factor = 1
-	}
+  farm_rgo_eff = 0.1
+  ai_chance = {
+    factor = 1
+  }
 }
 surface_mining = {
-	area = "mining_tech"
-	year = 1850
-	cost = 400
+  area = "mining_tech"
+  year = 1850
+  cost = 400
 
-	mine_rgo_eff = 0.1
-	ai_chance = {
-		factor = 1
-	}
+  mine_rgo_eff = 0.1
+  ai_chance = {
+    factor = 1
+  }
 }
 open_pit_mining = {
-	area = "mining_tech"
-	year = 1870
-	cost = 2400
+  area = "mining_tech"
+  year = 1870
+  cost = 2400
 
-	mine_rgo_eff = 0.1
-	ai_chance = {
-		factor = 1
-	}
+  mine_rgo_eff = 0.1
+  ai_chance = {
+    factor = 1
+  }
 }
 vanning = {
-	area = "mining_tech"
-	year = 1874
-	cost = 2800
+  area = "mining_tech"
+  year = 1874
+  cost = 2800
 
-	mine_rgo_eff = 0.1
-	ai_chance = {
-		factor = 1
-	}
+  mine_rgo_eff = 0.1
+  ai_chance = {
+    factor = 1
+  }
 }
 crusher = {
-	area = "mining_tech"
-	year = 1880
-	cost = 3400
-	
-	mine_rgo_eff = 0.1
-	ai_chance = {
-		factor = 1
-	}
+  area = "mining_tech"
+  year = 1880
+  cost = 3400
+
+  mine_rgo_eff = 0.1
+  ai_chance = {
+    factor = 1
+  }
 }
 mining_hard_rock = {
-	area = "mining_tech"
-	year = 1890
-	cost = 4400
+  area = "mining_tech"
+  year = 1890
+  cost = 4400
 
-	mine_rgo_eff = 0.1
-	ai_chance = {
-		factor = 1
-	}
+  mine_rgo_eff = 0.1
+  ai_chance = {
+    factor = 1
+  }
 }
 gold_dredging = {
-	area = "mining_tech"
-	year = 1910
-	cost = 6400
+  area = "mining_tech"
+  year = 1910
+  cost = 6400
 
-	rgo_goods_output = { gold_silver = 0.25 }
-	ai_chance = {
-		factor = 1
-	}
+  rgo_goods_output = { gold_silver = 0.25 }
+  ai_chance = {
+    factor = 1
+  }
 }
 froth_flotation = {
-	area = "mining_tech"
-	year = 1910
-	cost = 6400
+  area = "mining_tech"
+  year = 1910
+  cost = 6400
 
-	rgo_goods_output = { other_minerals = 0.25 }
-	rgo_goods_output = { iron = 0.25 }
-	rgo_goods_output = { timber = 0.25 }
-	ai_chance = {
-		factor = 1
-	}
+  rgo_goods_output = { other_minerals = 0.25 }
+  rgo_goods_output = { iron = 0.25 }
+  rgo_goods_output = { timber = 0.25 }
+  ai_chance = {
+    factor = 1
+  }
 }
 modern_blast_furnaces = {
-	area = "mining_tech"
-	year = 1920
-	cost = 7400
-	
-	rgo_goods_output = {
-		coal = 0.15
-	}
-	rgo_goods_output = {
-		iron = 0.15
-	}
-	ai_chance = {
-		factor = 1
-	}
+  area = "mining_tech"
+  year = 1920
+  cost = 7400
+
+  rgo_goods_output = {
+    coal = 0.15
+  }
+  rgo_goods_output = {
+    iron = 0.15
+  }
+  ai_chance = {
+    factor = 1
+  }
 }
 mining_soft_rock = {
-	area = "mining_tech"
-	year = 1940
-	cost = 9400
+  area = "mining_tech"
+  year = 1940
+  cost = 9400
 
-	mine_rgo_eff = 0.1
-	ai_chance = {
-		factor = 1
-	}
+  mine_rgo_eff = 0.1
+  ai_chance = {
+    factor = 1
+  }
 }
 heavy_mining = {
-	area = "mining_tech"
-	year = 1950
-	cost = 10400
+  area = "mining_tech"
+  year = 1950
+  cost = 10400
 
-	mine_rgo_eff = 0.1
-	ai_chance = {
-		factor = 1
-	}
+  mine_rgo_eff = 0.1
+  ai_chance = {
+    factor = 1
+  }
 }
 large_scale_surface_mining = {
-	area = "mining_tech"
-	year = 1950
-	cost = 10400
+  area = "mining_tech"
+  year = 1950
+  cost = 10400
 
-	mine_rgo_eff = 0.1
-	ai_chance = {
-		factor = 1
-	}
+  mine_rgo_eff = 0.1
+  ai_chance = {
+    factor = 1
+  }
 }
 electrostatic_separation = {
-	area = "mining_tech"
-	year = 1960
-	cost = 11400
+  area = "mining_tech"
+  year = 1960
+  cost = 11400
 
-	mine_rgo_eff = 0.1
-	ai_chance = {
-		factor = 1
-	}
+  mine_rgo_eff = 0.1
+  ai_chance = {
+    factor = 1
+  }
 }
 haul_truck = {
-	area = "mining_tech"
-	year = 1970
-	cost = 12400
+  area = "mining_tech"
+  year = 1970
+  cost = 12400
 
-	mine_rgo_eff = 0.1
-	ai_chance = {
-		factor = 1
-	}
+  mine_rgo_eff = 0.1
+  ai_chance = {
+    factor = 1
+  }
 }
 deep_mining = {
-	area = "mining_tech"
-	year = 1990
-	cost = 14400
+  area = "mining_tech"
+  year = 1990
+  cost = 14400
 
-	mine_rgo_eff = 0.1
-	ai_chance = {
-		factor = 1
-	}
+  mine_rgo_eff = 0.1
+  ai_chance = {
+    factor = 1
+  }
 }
 sensor_based_sorting = {
-	area = "mining_tech"
-	year = 2000
-	cost = 15400
+  area = "mining_tech"
+  year = 2000
+  cost = 15400
 
-	mine_rgo_eff = 0.1
-	ai_chance = {
-		factor = 1
-	}
+  mine_rgo_eff = 0.1
+  ai_chance = {
+    factor = 1
+  }
 }
 mining_drones = {
-	area = "mining_tech"
-	year = 2030
-	cost = 18400
+  area = "mining_tech"
+  year = 2030
+  cost = 18400
 
-	mine_rgo_eff = 0.1
-	ai_chance = {
-		factor = 1
-	}
+  mine_rgo_eff = 0.1
+  ai_chance = {
+    factor = 1
+  }
 }
 landfill_mining = {
-	area = "mining_tech"
-	year = 2040
-	cost = 19400
+  area = "mining_tech"
+  year = 2040
+  cost = 19400
 
-	mine_rgo_eff = 0.1
-	ai_chance = {
-		factor = 1
-	}
+  mine_rgo_eff = 0.1
+  ai_chance = {
+    factor = 1
+  }
 }
 automated_mining = {
-	area = "mining_tech"
-	year = 2060
-	cost = 21400
+  area = "mining_tech"
+  year = 2060
+  cost = 21400
 
-	mine_rgo_eff = 0.1
-	ai_chance = {
-		factor = 1
-	}
+  mine_rgo_eff = 0.1
+  ai_chance = {
+    factor = 1
+  }
 }
 recycling = {
-	area = "mining_tech"
-	year = 2090
-	cost = 24400
+  area = "mining_tech"
+  year = 2090
+  cost = 24400
 
-	mine_rgo_eff = 0.1
-	ai_chance = {
-		factor = 1
-	}
+  mine_rgo_eff = 0.1
+  ai_chance = {
+    factor = 1
+  }
 }
 robotized_mining = {
-	area = "mining_tech"
-	year = 2100
-	cost = 25400
+  area = "mining_tech"
+  year = 2100
+  cost = 25400
 
-	mine_rgo_eff = 0.1
-	ai_chance = {
-		factor = 1
-	}
+  mine_rgo_eff = 0.1
+  ai_chance = {
+    factor = 1
+  }
 }
 mechanical_cotton_grin = {
-	area = "animal_products_tech"
-	year = 1870
-	cost = 2400
+  area = "animal_products_tech"
+  year = 1870
+  cost = 2400
 
-	activate_building = fabric_factory 
-	ai_chance = {
-		factor = 1
-	}
+  activate_building = fabric_factory
+  ai_chance = {
+    factor = 1
+  }
 }
 droving = {
-	area = "animal_products_tech"
-	year = 1870
-	cost = 2400
-	
-	activate_building = footwear_factory 
-	ai_chance = {
-		factor = 1
-	}
+  area = "animal_products_tech"
+  year = 1870
+  cost = 2400
+
+  activate_building = footwear_factory
+  ai_chance = {
+    factor = 1
+  }
 }
 yarn = {
-	area = "animal_products_tech"
-	year = 1870
-	cost = 2400
+  area = "animal_products_tech"
+  year = 1870
+  cost = 2400
 
-	activate_building = wool_fabric_factory 
-	ai_chance = {
-		factor = 1
-	}
+  activate_building = wool_fabric_factory
+  ai_chance = {
+    factor = 1
+  }
 }
 sheep_shearing = {
-	area = "animal_products_tech"
-	year = 1890
-	cost = 4400
+  area = "animal_products_tech"
+  year = 1890
+  cost = 4400
 
-	rgo_goods_output = {
-		wool = 0.15
-	}
-	ai_chance = {
-		factor = 1
-	}
+  rgo_goods_output = {
+    wool = 0.15
+  }
+  ai_chance = {
+    factor = 1
+  }
 }
 dairy_products = {
-	area = "animal_products_tech"
-	year = 1890
-	cost = 4400
+  area = "animal_products_tech"
+  year = 1890
+  cost = 4400
 
-	activate_building = milk_cheese_factory 
-	ai_chance = {
-		factor = 1
-	}
+  activate_building = milk_cheese_factory
+  ai_chance = {
+    factor = 1
+  }
 }
 cheese = {
-	area = "animal_products_tech"
-	year = 1890
-	cost = 4400
+  area = "animal_products_tech"
+  year = 1890
+  cost = 4400
 
-	rgo_goods_output = {
-		cattle = 0.15
-	}
-	ai_chance = {
-		factor = 1
-	}
+  rgo_goods_output = {
+    cattle = 0.15
+  }
+  ai_chance = {
+    factor = 1
+  }
 }
 refrigeration = {
-	area = "animal_products_tech"
-	year = 1910
-	cost = 6400
+  area = "animal_products_tech"
+  year = 1910
+  cost = 6400
 
-	rgo_goods_output = {
-		cattle = 0.15
-	}
-	rgo_goods_output = {
-		fish = 0.15
-	}
-	ai_chance = {
-		factor = 1
-	}
+  rgo_goods_output = {
+    cattle = 0.15
+  }
+  rgo_goods_output = {
+    fish = 0.15
+  }
+  ai_chance = {
+    factor = 1
+  }
 }
 intensive_animal_farming = {
-	area = "animal_products_tech"
-	year = 1920
-	cost = 7400
+  area = "animal_products_tech"
+  year = 1920
+  cost = 7400
 
-	rgo_goods_output = {
-		fish = 0.15
-	}
-	ai_chance = {
-		factor = 1
-	}
+  rgo_goods_output = {
+    fish = 0.15
+  }
+  ai_chance = {
+    factor = 1
+  }
 }
 intensive_pig_farming = {
-	area = "animal_products_tech"
-	year = 1930
-	cost = 8400
+  area = "animal_products_tech"
+  year = 1930
+  cost = 8400
 
-	rgo_goods_output = {
-		cattle = 0.15
-	}
-	ai_chance = {
-		factor = 1
-	}
+  rgo_goods_output = {
+    cattle = 0.15
+  }
+  ai_chance = {
+    factor = 1
+  }
 }
 modern_trawling = {
-	area = "animal_products_tech"
-	year = 1931
-	cost = 8500
+  area = "animal_products_tech"
+  year = 1931
+  cost = 8500
 
-	rgo_goods_output = {
-		fish = 0.15
-	}
-	ai_chance = {
-		factor = 1
-	}
+  rgo_goods_output = {
+    fish = 0.15
+  }
+  ai_chance = {
+    factor = 1
+  }
 }
 modern_chees_factory = {
-	area = "animal_products_tech"
-	year = 1940
-	cost = 9400
+  area = "animal_products_tech"
+  year = 1940
+  cost = 9400
 
-	rgo_goods_output = {
-		cattle = 0.15
-	}
-	ai_chance = {
-		factor = 1
-	}
+  rgo_goods_output = {
+    cattle = 0.15
+  }
+  ai_chance = {
+    factor = 1
+  }
 }
 cotton_picker = {
-	area = "animal_products_tech"
-	year = 1944
-	cost = 9800
+  area = "animal_products_tech"
+  year = 1944
+  cost = 9800
 
-	rgo_goods_output = {
-		cotton = 0.15
-	}
-	ai_chance = {
-		factor = 1
-	}
+  rgo_goods_output = {
+    cotton = 0.15
+  }
+  ai_chance = {
+    factor = 1
+  }
 }
 livestock_transportation = {
-	area = "animal_products_tech"
-	year = 1950
-	cost = 10400
+  area = "animal_products_tech"
+  year = 1950
+  cost = 10400
 
-	rgo_goods_output = {
-		cattle = 0.15
-	}
-	ai_chance = {
-		factor = 1
-	}
+  rgo_goods_output = {
+    cattle = 0.15
+  }
+  ai_chance = {
+    factor = 1
+  }
 }
 animal_antibiotics = {
-	area = "animal_products_tech"
-	year = 1950
-	cost = 10400
+  area = "animal_products_tech"
+  year = 1950
+  cost = 10400
 
-	rgo_goods_output = {
-		fish = 0.15
-	}
-	rgo_goods_output = {
-		cattle = 0.15
-	}
-	ai_chance = {
-		factor = 1
-	}
+  rgo_goods_output = {
+    fish = 0.15
+  }
+  rgo_goods_output = {
+    cattle = 0.15
+  }
+  ai_chance = {
+    factor = 1
+  }
 }
 animal_vaccines = {
-	area = "animal_products_tech"
-	year = 1965
-	cost = 11900
+  area = "animal_products_tech"
+  year = 1965
+  cost = 11900
 
-	rgo_goods_output = {
-		cattle = 0.15
-	}
-	ai_chance = {
-		factor = 1
-	}
+  rgo_goods_output = {
+    cattle = 0.15
+  }
+  ai_chance = {
+    factor = 1
+  }
 }
 poultry_farming = {
-	area = "animal_products_tech"
-	year = 1975
-	cost = 12900
+  area = "animal_products_tech"
+  year = 1975
+  cost = 12900
 
-	rgo_goods_output = {
-		cattle = 0.15
-	}
-	ai_chance = {
-		factor = 1
-	}
+  rgo_goods_output = {
+    cattle = 0.15
+  }
+  ai_chance = {
+    factor = 1
+  }
 }
 rotary_milking = {
-	area = "animal_products_tech"
-	year = 1980
-	cost = 13400
+  area = "animal_products_tech"
+  year = 1980
+  cost = 13400
 
-	rgo_goods_output = {
-		cattle = 0.15
-	}
-	ai_chance = {
-		factor = 1
-	}
+  rgo_goods_output = {
+    cattle = 0.15
+  }
+  ai_chance = {
+    factor = 1
+  }
 }
 aquaculture = {
-	area = "animal_products_tech"
-	year = 1990
-	cost = 14400
+  area = "animal_products_tech"
+  year = 1990
+  cost = 14400
 
-	rgo_goods_output = {
-		fish = 0.15
-	}
-	ai_chance = {
-		factor = 1
-	}
+  rgo_goods_output = {
+    fish = 0.15
+  }
+  ai_chance = {
+    factor = 1
+  }
 }
 gmo_meat = {
-	area = "animal_products_tech"
-	year = 2000
-	cost = 15400
+  area = "animal_products_tech"
+  year = 2000
+  cost = 15400
 
-	rgo_goods_output = {
-		cattle = 0.15
-	}
-	ai_chance = {
-		factor = 1
-	}
+  rgo_goods_output = {
+    cattle = 0.15
+  }
+  ai_chance = {
+    factor = 1
+  }
 }
 cultured_meat = {
-	area = "animal_products_tech"
-	year = 2050
-	cost = 20400
+  area = "animal_products_tech"
+  year = 2050
+  cost = 20400
 
-	rgo_goods_output = {
-		cattle = 0.15
-	}
-	ai_chance = {
-		factor = 1
-	}
+  rgo_goods_output = {
+    cattle = 0.15
+  }
+  ai_chance = {
+    factor = 1
+  }
 }
 coal_mining = {
-	area = "energy_resources_tech"
-	year = 1870
-	cost = 2400
+  area = "energy_resources_tech"
+  year = 1870
+  cost = 2400
 
-	rgo_goods_output = {
-		coal = 0.15
-	}
-	ai_chance = {
-		factor = 1
-	}
+  rgo_goods_output = {
+    coal = 0.15
+  }
+  ai_chance = {
+    factor = 1
+  }
 }
 fossil_fuel_power = {
-	area = "energy_resources_tech"
-	year = 1870
-	cost = 2400
+  area = "energy_resources_tech"
+  year = 1870
+  cost = 2400
 
-	activate_building = heating_electricity_factory 
-	ai_chance = {
-		factor = 1
-	}
+  activate_building = heating_electricity_factory
+  ai_chance = {
+    factor = 1
+  }
 }
 oil_well = {
-	area = "energy_resources_tech"
-	year = 1880
-	cost = 3400
+  area = "energy_resources_tech"
+  year = 1880
+  cost = 3400
 
-	rgo_goods_output = {
-		petroleum = 0.15
-	}
-	ai_chance = {
-		factor = 1
-	}
+  rgo_goods_output = {
+    petroleum = 0.15
+  }
+  ai_chance = {
+    factor = 1
+  }
 }
 hydroelectricity = {
-	area = "energy_resources_tech"
-	year = 1920
-	cost = 7400
+  area = "energy_resources_tech"
+  year = 1920
+  cost = 7400
 
-	mine_rgo_eff = 0.1
-	farm_rgo_eff = 0.1
-	ai_chance = {
-		factor = 1
-	}
+  mine_rgo_eff = 0.1
+  farm_rgo_eff = 0.1
+  ai_chance = {
+    factor = 1
+  }
 }
 oil_refinery = {
-	area = "energy_resources_tech"
-	year = 1920
-	cost = 7400
+  area = "energy_resources_tech"
+  year = 1920
+  cost = 7400
 
-	activate_building = petroleum_heating_electricity_factory 
-	ai_chance = {
-		factor = 1
-	}
+  activate_building = petroleum_heating_electricity_factory
+  ai_chance = {
+    factor = 1
+  }
 }
 pipeline = {
-	area = "energy_resources_tech"
-	year = 1935
-	cost = 8900
+  area = "energy_resources_tech"
+  year = 1935
+  cost = 8900
 
-	rgo_goods_output = {
-		petroleum = 0.15
-	}
-	ai_chance = {
-		factor = 1
-	}
+  rgo_goods_output = {
+    petroleum = 0.15
+  }
+  ai_chance = {
+    factor = 1
+  }
 }
 nuclear_power = {
-	area = "energy_resources_tech"
-	year = 1956
-	cost = 11000
+  area = "energy_resources_tech"
+  year = 1956
+  cost = 11000
 
-	activate_building = other_minerals_heating_electricity_factory 
-	ai_chance = {
-		factor = 1
-	}
+  activate_building = other_minerals_heating_electricity_factory
+  ai_chance = {
+    factor = 1
+  }
 }
 offshore_drilling = {
-	area = "energy_resources_tech"
-	year = 1961
-	cost = 11500
-	
-	rgo_goods_output = {
-		petroleum = 0.15
-	}
-	ai_chance = {
-		factor = 1
-	}
+  area = "energy_resources_tech"
+  year = 1961
+  cost = 11500
+
+  rgo_goods_output = {
+    petroleum = 0.15
+  }
+  ai_chance = {
+    factor = 1
+  }
 }
 oil_cartel = {
-	area = "energy_resources_tech"
-	year = 1961
-	cost = 11500
+  area = "energy_resources_tech"
+  year = 1961
+  cost = 11500
 
-	rgo_goods_output = {
-		petroleum = 0.15
-	}
-	ai_chance = {
-		factor = 1
-	}
+  rgo_goods_output = {
+    petroleum = 0.15
+  }
+  ai_chance = {
+    factor = 1
+  }
 }
 liquefied_natural_gas = {
-	area = "energy_resources_tech"
-	year = 1964
-	cost = 11800
+  area = "energy_resources_tech"
+  year = 1964
+  cost = 11800
 
-	rgo_goods_output = {
-		petroleum = 0.15
-	}
-	ai_chance = {
-		factor = 1
-	}
+  rgo_goods_output = {
+    petroleum = 0.15
+  }
+  ai_chance = {
+    factor = 1
+  }
 }
 oil_tanker = {
-	area = "energy_resources_tech"
-	year = 1970
-	cost = 12400
+  area = "energy_resources_tech"
+  year = 1970
+  cost = 12400
 
-	rgo_goods_output = {
-		petroleum = 0.15
-	}
-	ai_chance = {
-		factor = 1
-	}
+  rgo_goods_output = {
+    petroleum = 0.15
+  }
+  ai_chance = {
+    factor = 1
+  }
 }
 advanced_turbine = {
-	area = "energy_resources_tech"
-	year = 1996
-	cost = 15000
+  area = "energy_resources_tech"
+  year = 1996
+  cost = 15000
 
-	activate_building = turbines_factory 
-	ai_chance = {
-		factor = 1
-	}
+  activate_building = turbines_factory
+  ai_chance = {
+    factor = 1
+  }
 }
 renewable_energy = {
-	area = "energy_resources_tech"
-	year = 2000
-	cost = 15400
+  area = "energy_resources_tech"
+  year = 2000
+  cost = 15400
 
-	activate_building = advanced_heating_electricity_factory 
-	factory_input = -0.01
-	ai_chance = {
-		factor = 1
-	}
+  activate_building = advanced_heating_electricity_factory
+  factory_input = -0.01
+  ai_chance = {
+    factor = 1
+  }
 }
 hydraulic_fracturing = {
-	area = "energy_resources_tech"
-	year = 2013
-	cost = 16700
+  area = "energy_resources_tech"
+  year = 2013
+  cost = 16700
 
-	activate_building = advanced_petroleum_heating_electricity_factory  
-	ai_chance = {
-		factor = 1
-	}
+  activate_building = advanced_petroleum_heating_electricity_factory
+  ai_chance = {
+    factor = 1
+  }
 }
 deepwater_drilling = {
-	area = "energy_resources_tech"
-	year = 2030
-	cost = 18400
+  area = "energy_resources_tech"
+  year = 2030
+  cost = 18400
 
-	rgo_goods_output = {
-		petroleum = 0.1
-	}
-	ai_chance = {
-		factor = 1
-	}
+  rgo_goods_output = {
+    petroleum = 0.1
+  }
+  ai_chance = {
+    factor = 1
+  }
 }
 oil_sands = {
-	area = "energy_resources_tech"
-	year = 2050
-	cost = 20400
+  area = "energy_resources_tech"
+  year = 2050
+  cost = 20400
 
-	rgo_goods_output = {
-		petroleum = 0.1
-	}
-	ai_chance = {
-		factor = 1
-	}
+  rgo_goods_output = {
+    petroleum = 0.1
+  }
+  ai_chance = {
+    factor = 1
+  }
 }
 nuclear_gen_iv = {
-	area = "energy_resources_tech"
-	year = 2050
-	cost = 20400
+  area = "energy_resources_tech"
+  year = 2050
+  cost = 20400
 
-	rgo_goods_output = {
-		other_minerals = 0.1
-	}
-	ai_chance = {
-		factor = 1
-	}
+  rgo_goods_output = {
+    other_minerals = 0.1
+  }
+  ai_chance = {
+    factor = 1
+  }
 }
 advanced_batteries = {
-	area = "energy_resources_tech"
-	year = 2070
-	cost = 22400
+  area = "energy_resources_tech"
+  year = 2070
+  cost = 22400
 
-	factory_input = -0.01
-	ai_chance = {
-		factor = 1
-	}
+  factory_input = -0.01
+  ai_chance = {
+    factor = 1
+  }
 }
 advanced_photovoltaics = {
-	area = "energy_resources_tech"
-	year = 2080
-	cost = 23400
+  area = "energy_resources_tech"
+  year = 2080
+  cost = 23400
 
-	factory_input = -0.01
-	ai_chance = {
-		factor = 1
-	}
+  factory_input = -0.01
+  ai_chance = {
+    factor = 1
+  }
 }
 advanced_fracking = {
-	area = "energy_resources_tech"
-	year = 2100
-	cost = 25400
+  area = "energy_resources_tech"
+  year = 2100
+  cost = 25400
 
-	rgo_goods_output = {
-		petroleum = 0.1
-	}
-	ai_chance = {
-		factor = 1
-	}
+  rgo_goods_output = {
+    petroleum = 0.1
+  }
+  ai_chance = {
+    factor = 1
+  }
 }
 mushet_steel = {
-	area = "new_materials_tech"
-	year = 1868
-	cost = 2200
+  area = "new_materials_tech"
+  year = 1868
+  cost = 2200
 
-	activate_building = steel_factory 
-	ai_chance = {
-		factor = 1
-	}
+  activate_building = steel_factory
+  ai_chance = {
+    factor = 1
+  }
 }
 soda_ash = {
-	area = "new_materials_tech"
-	year = 1870
-	cost = 2400
+  area = "new_materials_tech"
+  year = 1870
+  cost = 2400
 
-	activate_building = paper_factory 
-	ai_chance = {
-		factor = 1
-	}
+  activate_building = paper_factory
+  ai_chance = {
+    factor = 1
+  }
 }
 synthetic_dye = {
-	area = "new_materials_tech"
-	year = 1890
-	cost = 4400
+  area = "new_materials_tech"
+  year = 1890
+  cost = 4400
 
-	activate_building = fertilizers_factory  
-	ai_chance = {
-		factor = 1
-	}
+  activate_building = fertilizers_factory
+  ai_chance = {
+    factor = 1
+  }
 }
 high_speed_steel = {
-	area = "new_materials_tech"
-	year = 1910
-	cost = 6400
-	
-	factory_throughput = 0.1
-	ai_chance = {
-		factor = 1
-	}
+  area = "new_materials_tech"
+  year = 1910
+  cost = 6400
+
+  factory_throughput = 0.1
+  ai_chance = {
+    factor = 1
+  }
 }
 tungsten_carbide = {
-	area = "new_materials_tech"
-	year = 1930
-	cost = 8400
+  area = "new_materials_tech"
+  year = 1930
+  cost = 8400
 
-	activate_building = modern_machine_parts_factory 
-	ai_chance = {
-		factor = 1
-	}
+  activate_building = modern_machine_parts_factory
+  ai_chance = {
+    factor = 1
+  }
 }
 composite_material = {
-	area = "new_materials_tech"
-	year = 1950
-	cost = 10400
-	
-	activate_building = luxury_furniture_factory 
-	ai_chance = {
-		factor = 1
-	}
+  area = "new_materials_tech"
+  year = 1950
+  cost = 10400
+
+  activate_building = luxury_furniture_factory
+  ai_chance = {
+    factor = 1
+  }
 }
 explosives = {
-	area = "new_materials_tech"
-	year = 1954
-	cost = 10800
+  area = "new_materials_tech"
+  year = 1954
+  cost = 10800
 
-	ai_chance = {
-		factor = 1
-	}
+  ai_chance = {
+    factor = 1
+  }
 }
 float_glass = {
-	area = "new_materials_tech"
-	year = 1959
-	cost = 11300
-	ai_chance = {
-		factor = 1
-	}
+  area = "new_materials_tech"
+  year = 1959
+  cost = 11300
+  ai_chance = {
+    factor = 1
+  }
 }
 liquid_crystal_display = {
-	area = "new_materials_tech"
-	year = 1968
-	cost = 12200
+  area = "new_materials_tech"
+  year = 1968
+  cost = 12200
 
-	ai_chance = {
-		factor = 1
-	}
+  ai_chance = {
+    factor = 1
+  }
 }
 synthetic_diamond = {
-	area = "new_materials_tech"
-	year = 1970
-	cost = 12400
-	
-	activate_building = diamonds_factory 
-	ai_chance = {
-		factor = 1
-	}
+  area = "new_materials_tech"
+  year = 1970
+  cost = 12400
+
+  activate_building = diamonds_factory
+  ai_chance = {
+    factor = 1
+  }
 }
 dematerialization = {
-	area = "new_materials_tech"
-	year = 1980
-	cost = 13400
+  area = "new_materials_tech"
+  year = 1980
+  cost = 13400
 
-	factory_input = -0.02
-	ai_chance = {
-		factor = 1
-	}
+  factory_input = -0.02
+  ai_chance = {
+    factor = 1
+  }
 }
 stainless_steel = {
-	area = "new_materials_tech"
-	year = 1980
-	cost = 13400
+  area = "new_materials_tech"
+  year = 1980
+  cost = 13400
 
-	factory_throughput = 0.05
-	ai_chance = {
-		factor = 1
-	}
+  factory_throughput = 0.05
+  ai_chance = {
+    factor = 1
+  }
 }
 fold_forming = {
-	area = "new_materials_tech"
-	year = 1984
-	cost = 13800
+  area = "new_materials_tech"
+  year = 1984
+  cost = 13800
 
-	factory_input = -0.02
-	ai_chance = {
-		factor = 1
-	}
+  factory_input = -0.02
+  ai_chance = {
+    factor = 1
+  }
 }
 metal_foam = {
-	area = "new_materials_tech"
-	year = 2010
-	cost = 16400
+  area = "new_materials_tech"
+  year = 2010
+  cost = 16400
 
-	factory_input = -0.02
-	ai_chance = {
-		factor = 1
-	}
+  factory_input = -0.02
+  ai_chance = {
+    factor = 1
+  }
 }
 cemented_carbide = {
-	area = "new_materials_tech"
-	year = 2010
-	cost = 16400
+  area = "new_materials_tech"
+  year = 2010
+  cost = 16400
 
-	activate_building = advanced_machinery_factory 
-	ai_chance = {
-		factor = 1
-	}
+  activate_building = advanced_machinery_factory
+  ai_chance = {
+    factor = 1
+  }
 }
 nanomaterials = {
-	area = "new_materials_tech"
-	year = 2020
-	cost = 17400
-	ai_chance = {
-		factor = 1
-	}
+  area = "new_materials_tech"
+  year = 2020
+  cost = 17400
+  ai_chance = {
+    factor = 1
+  }
 }
 lab_on_a_chip = {
-	area = "new_materials_tech"
-	year = 2020
-	cost = 17400
+  area = "new_materials_tech"
+  year = 2020
+  cost = 17400
 
-	factory_input = -0.02
-	ai_chance = {
-		factor = 1
-	}
+  factory_input = -0.02
+  ai_chance = {
+    factor = 1
+  }
 }
 high_temp_superconductivity = {
-	area = "new_materials_tech"
-	year = 2030
-	cost = 18400
+  area = "new_materials_tech"
+  year = 2030
+  cost = 18400
 
-	activate_building = modern_copper_wire_factory 
-	ai_chance = {
-		factor = 1
-	}
+  activate_building = modern_copper_wire_factory
+  ai_chance = {
+    factor = 1
+  }
 }
 superplasticity = {
-	area = "new_materials_tech"
-	year = 2050
-	cost = 20400
+  area = "new_materials_tech"
+  year = 2050
+  cost = 20400
 
-	factory_input = -0.02
-	ai_chance = {
-		factor = 1
-	}
+  factory_input = -0.02
+  ai_chance = {
+    factor = 1
+  }
 }
 quantum_dot = {
-	area = "new_materials_tech"
-	year = 2090
-	cost = 24400
+  area = "new_materials_tech"
+  year = 2090
+  cost = 24400
 
-	factory_input = -0.02
-	ai_chance = {
-		factor = 1
-	}
+  factory_input = -0.02
+  ai_chance = {
+    factor = 1
+  }
 }

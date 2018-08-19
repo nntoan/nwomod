@@ -1,31 +1,31 @@
 #Khvoy - Khvoy (376000/94000 POPS)
 1109 = {
-	clergymen = {
-		culture = kurdish
-		religion =  sunni 
-		size = 1880
-	 } 
-	farmers = {
-		culture = kurdish
-		religion =  sunni 
-		size = 82720
-	 } 
-	farmers = {
-		culture = azerbaijani
-		religion =  shiite 
-		size = 9400
-	 } 
+  clergymen = {
+    culture = kurdish
+    religion =  sunni
+    size = 1880
+  }
+  farmers = {
+    culture = kurdish
+    religion =  sunni
+    size = 82720
+  }
+  farmers = {
+    culture = azerbaijani
+    religion =  shiite
+    size = 9400
+  }
 }
 #Urumia - Urumia (376000/94000 POPS)
 1110 = {
-	clergymen = {
-		culture = kurdish
-		religion =  sunni 
-		size = 1880
-	 } 
-	farmers = {
-		culture = kurdish
-		religion =  sunni 
-		size = 92120
-	 } 
+  clergymen = {
+    culture = kurdish
+    religion =  sunni
+    size = 1880
+  }
+  farmers = {
+    culture = kurdish
+    religion =  sunni
+    size = 92120
+  }
 }

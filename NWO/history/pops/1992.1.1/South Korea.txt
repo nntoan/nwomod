@@ -1,433 +1,433 @@
 #Glenora - Gyeonggi (9229000/2307250 POPS)
 16 = {
-	clergymen = {
-		culture = korean
-		religion =  taoism 
-		size = 22149
-	 } 
-	clergymen = {
-		culture = korean
-		religion = secularism
-		size = 23995
-	 } 
-	farmers = {
-		culture = korean
-		religion =  taoism 
-		size = 1052105
-	 } 
-	farmers = {
-		culture = korean
-		religion = secularism
-		size = 1139781
-	 } 
-	farmers = {
-		culture = chinese
-		religion =  taoism 
-		size = 33224
-	 } 
-	farmers = {
-		culture = chinese
-		religion = secularism
-		size = 35992
-	 } 
+  clergymen = {
+    culture = korean
+    religion =  taoism
+    size = 22149
+  }
+  clergymen = {
+    culture = korean
+    religion = secularism
+    size = 23995
+  }
+  farmers = {
+    culture = korean
+    religion =  taoism
+    size = 1052105
+  }
+  farmers = {
+    culture = korean
+    religion = secularism
+    size = 1139781
+  }
+  farmers = {
+    culture = chinese
+    religion =  taoism
+    size = 33224
+  }
+  farmers = {
+    culture = chinese
+    religion = secularism
+    size = 35992
+  }
 }
 #Seoul - Seoul (11423000/2855750 POPS)
 1624 = {
-	officers = {
-		culture = korean
-		religion =  taoism 
-		size = 14481
-	 } 
-	officers = {
-		culture = korean
-		religion = secularism
-		size = 15687
-	 } 
-	soldiers = {
-		culture = korean
-		religion =  taoism 
-		size = 275146
-	 } 
-	soldiers = {
-		culture = korean
-		religion = secularism
-		size = 298074
-	 } 
-	aristocrats = {
-		culture = korean
-		religion =  taoism 
-		size = 34268
-	 } 
-	aristocrats = {
-		culture = korean
-		religion = secularism
-		size = 37124
-	 } 
-	bureaucrats = {
-		culture = korean
-		religion =  taoism 
-		size = 8224
-	 } 
-	bureaucrats = {
-		culture = korean
-		religion = secularism
-		size = 8909
-	 } 
-	capitalists = {
-		culture = korean
-		religion =  taoism 
-		size = 8224
-	 } 
-	capitalists = {
-		culture = korean
-		religion = secularism
-		size = 8909
-	 } 
-	clergymen = {
-		culture = korean
-		religion =  taoism 
-		size = 27415
-	 } 
-	clergymen = {
-		culture = korean
-		religion = secularism
-		size = 29699
-	 } 
-	clerks = {
-		culture = korean
-		religion =  taoism 
-		size = 21613
-	 } 
-	clerks = {
-		culture = korean
-		religion = secularism
-		size = 23414
-	 } 
-	artisans = {
-		culture = korean
-		religion =  taoism 
-		size = 20532
-	 } 
-	artisans = {
-		culture = korean
-		religion = secularism
-		size = 22243
-	 } 
-	craftsmen = {
-		culture = korean
-		religion =  taoism 
-		size = 64840
-	 } 
-	craftsmen = {
-		culture = korean
-		religion = secularism
-		size = 70244
-	 } 
-	farmers = {
-		culture = korean
-		religion =  taoism 
-		size = 848036
-	 } 
-	farmers = {
-		culture = korean
-		religion = secularism
-		size = 918706
-	 } 
-	farmers = {
-		culture = chinese
-		religion =  taoism 
-		size = 47976
-	 } 
-	farmers = {
-		culture = chinese
-		religion = secularism
-		size = 51974
-	 } 
+  officers = {
+    culture = korean
+    religion =  taoism
+    size = 14481
+  }
+  officers = {
+    culture = korean
+    religion = secularism
+    size = 15687
+  }
+  soldiers = {
+    culture = korean
+    religion =  taoism
+    size = 275146
+  }
+  soldiers = {
+    culture = korean
+    religion = secularism
+    size = 298074
+  }
+  aristocrats = {
+    culture = korean
+    religion =  taoism
+    size = 34268
+  }
+  aristocrats = {
+    culture = korean
+    religion = secularism
+    size = 37124
+  }
+  bureaucrats = {
+    culture = korean
+    religion =  taoism
+    size = 8224
+  }
+  bureaucrats = {
+    culture = korean
+    religion = secularism
+    size = 8909
+  }
+  capitalists = {
+    culture = korean
+    religion =  taoism
+    size = 8224
+  }
+  capitalists = {
+    culture = korean
+    religion = secularism
+    size = 8909
+  }
+  clergymen = {
+    culture = korean
+    religion =  taoism
+    size = 27415
+  }
+  clergymen = {
+    culture = korean
+    religion = secularism
+    size = 29699
+  }
+  clerks = {
+    culture = korean
+    religion =  taoism
+    size = 21613
+  }
+  clerks = {
+    culture = korean
+    religion = secularism
+    size = 23414
+  }
+  artisans = {
+    culture = korean
+    religion =  taoism
+    size = 20532
+  }
+  artisans = {
+    culture = korean
+    religion = secularism
+    size = 22243
+  }
+  craftsmen = {
+    culture = korean
+    religion =  taoism
+    size = 64840
+  }
+  craftsmen = {
+    culture = korean
+    religion = secularism
+    size = 70244
+  }
+  farmers = {
+    culture = korean
+    religion =  taoism
+    size = 848036
+  }
+  farmers = {
+    culture = korean
+    religion = secularism
+    size = 918706
+  }
+  farmers = {
+    culture = chinese
+    religion =  taoism
+    size = 47976
+  }
+  farmers = {
+    culture = chinese
+    religion = secularism
+    size = 51974
+  }
 }
 #Inchon - Inchon (2657000/664250 POPS)
 1628 = {
-	clergymen = {
-		culture = korean
-		religion =  taoism 
-		size = 6376
-	 } 
-	clergymen = {
-		culture = korean
-		religion = secularism
-		size = 6908
-	 } 
-	farmers = {
-		culture = korean
-		religion =  taoism 
-		size = 312463
-	 } 
-	farmers = {
-		culture = korean
-		religion = secularism
-		size = 338501
-	 } 
+  clergymen = {
+    culture = korean
+    religion =  taoism
+    size = 6376
+  }
+  clergymen = {
+    culture = korean
+    religion = secularism
+    size = 6908
+  }
+  farmers = {
+    culture = korean
+    religion =  taoism
+    size = 312463
+  }
+  farmers = {
+    culture = korean
+    religion = secularism
+    size = 338501
+  }
 }
 #Kangnung - Kangnung (711000/177750 POPS)
 1630 = {
-	clergymen = {
-		culture = korean
-		religion =  taoism 
-		size = 1706
-	 } 
-	clergymen = {
-		culture = korean
-		religion = secularism
-		size = 1848
-	 } 
-	farmers = {
-		culture = korean
-		religion =  taoism 
-		size = 83613
-	 } 
-	farmers = {
-		culture = korean
-		religion = secularism
-		size = 90581
-	 } 
+  clergymen = {
+    culture = korean
+    religion =  taoism
+    size = 1706
+  }
+  clergymen = {
+    culture = korean
+    religion = secularism
+    size = 1848
+  }
+  farmers = {
+    culture = korean
+    religion =  taoism
+    size = 83613
+  }
+  farmers = {
+    culture = korean
+    religion = secularism
+    size = 90581
+  }
 }
 #Wonju - Wonju (711000/177750 POPS)
 1631 = {
-	officers = {
-		culture = korean
-		religion =  taoism 
-		size = 4731
-	 } 
-	officers = {
-		culture = korean
-		religion = secularism
-		size = 5126
-	 } 
-	soldiers = {
-		culture = korean
-		religion =  taoism 
-		size = 80588
-	 } 
-	soldiers = {
-		culture = korean
-		religion = secularism
-		size = 87303
-	 } 
+  officers = {
+    culture = korean
+    religion =  taoism
+    size = 4731
+  }
+  officers = {
+    culture = korean
+    religion = secularism
+    size = 5126
+  }
+  soldiers = {
+    culture = korean
+    religion =  taoism
+    size = 80588
+  }
+  soldiers = {
+    culture = korean
+    religion = secularism
+    size = 87303
+  }
 }
 #Pusan - Pusan (3076000/769000 POPS)
 1632 = {
-	clergymen = {
-		culture = korean
-		religion =  taoism 
-		size = 7382
-	 } 
-	clergymen = {
-		culture = korean
-		religion = secularism
-		size = 7997
-	 } 
-	farmers = {
-		culture = korean
-		religion =  taoism 
-		size = 361737
-	 } 
-	farmers = {
-		culture = korean
-		religion = secularism
-		size = 391882
-	 } 
+  clergymen = {
+    culture = korean
+    religion =  taoism
+    size = 7382
+  }
+  clergymen = {
+    culture = korean
+    religion = secularism
+    size = 7997
+  }
+  farmers = {
+    culture = korean
+    religion =  taoism
+    size = 361737
+  }
+  farmers = {
+    culture = korean
+    religion = secularism
+    size = 391882
+  }
 }
 #Taegu - Taegu (4866000/1216500 POPS)
 1633 = {
-	officers = {
-		culture = korean
-		religion =  taoism 
-		size = 3925
-	 } 
-	officers = {
-		culture = korean
-		religion = secularism
-		size = 4252
-	 } 
-	soldiers = {
-		culture = korean
-		religion =  taoism 
-		size = 74586
-	 } 
-	soldiers = {
-		culture = korean
-		religion = secularism
-		size = 80801
-	 } 
-	aristocrats = {
-		culture = korean
-		religion =  taoism 
-		size = 14597
-	 } 
-	aristocrats = {
-		culture = korean
-		religion = secularism
-		size = 15814
-	 } 
-	bureaucrats = {
-		culture = korean
-		religion =  taoism 
-		size = 3503
-	 } 
-	bureaucrats = {
-		culture = korean
-		religion = secularism
-		size = 3795
-	 } 
-	capitalists = {
-		culture = korean
-		religion =  taoism 
-		size = 3503
-	 } 
-	capitalists = {
-		culture = korean
-		religion = secularism
-		size = 3795
-	 } 
-	clergymen = {
-		culture = korean
-		religion =  taoism 
-		size = 11678
-	 } 
-	clergymen = {
-		culture = korean
-		religion = secularism
-		size = 12651
-	 } 
-	clerks = {
-		culture = korean
-		religion =  taoism 
-		size = 10104
-	 } 
-	clerks = {
-		culture = korean
-		religion = secularism
-		size = 10946
-	 } 
-	artisans = {
-		culture = korean
-		religion =  taoism 
-		size = 9598
-	 } 
-	artisans = {
-		culture = korean
-		religion = secularism
-		size = 10398
-	 } 
-	craftsmen = {
-		culture = korean
-		religion =  taoism 
-		size = 30312
-	 } 
-	craftsmen = {
-		culture = korean
-		religion = secularism
-		size = 32838
-	 } 
-	farmers = {
-		culture = korean
-		religion =  taoism 
-		size = 422110
-	 } 
-	farmers = {
-		culture = korean
-		religion = secularism
-		size = 457286
-	 } 
+  officers = {
+    culture = korean
+    religion =  taoism
+    size = 3925
+  }
+  officers = {
+    culture = korean
+    religion = secularism
+    size = 4252
+  }
+  soldiers = {
+    culture = korean
+    religion =  taoism
+    size = 74586
+  }
+  soldiers = {
+    culture = korean
+    religion = secularism
+    size = 80801
+  }
+  aristocrats = {
+    culture = korean
+    religion =  taoism
+    size = 14597
+  }
+  aristocrats = {
+    culture = korean
+    religion = secularism
+    size = 15814
+  }
+  bureaucrats = {
+    culture = korean
+    religion =  taoism
+    size = 3503
+  }
+  bureaucrats = {
+    culture = korean
+    religion = secularism
+    size = 3795
+  }
+  capitalists = {
+    culture = korean
+    religion =  taoism
+    size = 3503
+  }
+  capitalists = {
+    culture = korean
+    religion = secularism
+    size = 3795
+  }
+  clergymen = {
+    culture = korean
+    religion =  taoism
+    size = 11678
+  }
+  clergymen = {
+    culture = korean
+    religion = secularism
+    size = 12651
+  }
+  clerks = {
+    culture = korean
+    religion =  taoism
+    size = 10104
+  }
+  clerks = {
+    culture = korean
+    religion = secularism
+    size = 10946
+  }
+  artisans = {
+    culture = korean
+    religion =  taoism
+    size = 9598
+  }
+  artisans = {
+    culture = korean
+    religion = secularism
+    size = 10398
+  }
+  craftsmen = {
+    culture = korean
+    religion =  taoism
+    size = 30312
+  }
+  craftsmen = {
+    culture = korean
+    religion = secularism
+    size = 32838
+  }
+  farmers = {
+    culture = korean
+    religion =  taoism
+    size = 422110
+  }
+  farmers = {
+    culture = korean
+    religion = secularism
+    size = 457286
+  }
 }
 #Pohang - Pohang (2491000/622750 POPS)
 1634 = {
-	clergymen = {
-		culture = korean
-		religion =  taoism 
-		size = 5978
-	 } 
-	clergymen = {
-		culture = korean
-		religion = secularism
-		size = 6476
-	 } 
-	farmers = {
-		culture = korean
-		religion =  taoism 
-		size = 292941
-	 } 
-	farmers = {
-		culture = korean
-		religion = secularism
-		size = 317353
-	 } 
+  clergymen = {
+    culture = korean
+    religion =  taoism
+    size = 5978
+  }
+  clergymen = {
+    culture = korean
+    religion = secularism
+    size = 6476
+  }
+  farmers = {
+    culture = korean
+    religion =  taoism
+    size = 292941
+  }
+  farmers = {
+    culture = korean
+    religion = secularism
+    size = 317353
+  }
 }
 #Kwangju - Kwangju (4846000/1211500 POPS)
 1635 = {
-	clergymen = {
-		culture = korean
-		religion =  taoism 
-		size = 11630
-	 } 
-	clergymen = {
-		culture = korean
-		religion = secularism
-		size = 12599
-	 } 
-	farmers = {
-		culture = korean
-		religion =  taoism 
-		size = 569889
-	 } 
-	farmers = {
-		culture = korean
-		religion = secularism
-		size = 617380
-	 } 
+  clergymen = {
+    culture = korean
+    religion =  taoism
+    size = 11630
+  }
+  clergymen = {
+    culture = korean
+    religion = secularism
+    size = 12599
+  }
+  farmers = {
+    culture = korean
+    religion =  taoism
+    size = 569889
+  }
+  farmers = {
+    culture = korean
+    religion = secularism
+    size = 617380
+  }
 }
 #Taejon - Taejon (2308000/577000 POPS)
 1636 = {
-	clergymen = {
-		culture = korean
-		religion =  taoism 
-		size = 5539
-	 } 
-	clergymen = {
-		culture = korean
-		religion = secularism
-		size = 6000
-	 } 
-	farmers = {
-		culture = korean
-		religion =  taoism 
-		size = 271420
-	 } 
-	farmers = {
-		culture = korean
-		religion = secularism
-		size = 294039
-	 } 
+  clergymen = {
+    culture = korean
+    religion =  taoism
+    size = 5539
+  }
+  clergymen = {
+    culture = korean
+    religion = secularism
+    size = 6000
+  }
+  farmers = {
+    culture = korean
+    religion =  taoism
+    size = 271420
+  }
+  farmers = {
+    culture = korean
+    religion = secularism
+    size = 294039
+  }
 }
 #Cheju - Cheju (547000/136750 POPS)
 1637 = {
-	clergymen = {
-		culture = korean
-		religion =  taoism 
-		size = 1312
-	 } 
-	clergymen = {
-		culture = korean
-		religion = secularism
-		size = 1422
-	 } 
-	farmers = {
-		culture = korean
-		religion =  taoism 
-		size = 64327
-	 } 
-	farmers = {
-		culture = korean
-		religion = secularism
-		size = 69687
-	 } 
+  clergymen = {
+    culture = korean
+    religion =  taoism
+    size = 1312
+  }
+  clergymen = {
+    culture = korean
+    religion = secularism
+    size = 1422
+  }
+  farmers = {
+    culture = korean
+    religion =  taoism
+    size = 64327
+  }
+  farmers = {
+    culture = korean
+    religion = secularism
+    size = 69687
+  }
 }

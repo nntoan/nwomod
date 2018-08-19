@@ -1,152 +1,152 @@
 #Asmara - Asmara (1365000/341250 POPS)
 1848 = {
-	officers = {
-		culture = tigray
-		religion =  orthodox 
-		size = 14439
-	 } 
-	officers = {
-		culture = tigray
-		religion = secularism
-		size = 1604
-	 } 
-	soldiers = {
-		culture = tigray
-		religion =  orthodox 
-		size = 274363
-	 } 
-	soldiers = {
-		culture = tigray
-		religion = secularism
-		size = 30484
-	 } 
-	aristocrats = {
-		culture = tigray
-		religion =  orthodox 
-		size = 10748
-	 } 
-	aristocrats = {
-		culture = tigray
-		religion = secularism
-		size = 1194
-	 } 
-	bureaucrats = {
-		culture = tigray
-		religion =  orthodox 
-		size = 1228
-	 } 
-	bureaucrats = {
-		culture = tigray
-		religion = secularism
-		size = 136
-	 } 
-	capitalists = {
-		culture = tigray
-		religion =  orthodox 
-		size = 1842
-	 } 
-	capitalists = {
-		culture = tigray
-		religion = secularism
-		size = 204
-	 } 
-	clergymen = {
-		culture = tigray
-		religion =  orthodox 
-		size = 4502
-	 } 
-	clergymen = {
-		culture = tigray
-		religion = secularism
-		size = 500
-	 } 
+  officers = {
+    culture = tigray
+    religion =  orthodox
+    size = 14439
+  }
+  officers = {
+    culture = tigray
+    religion = secularism
+    size = 1604
+  }
+  soldiers = {
+    culture = tigray
+    religion =  orthodox
+    size = 274363
+  }
+  soldiers = {
+    culture = tigray
+    religion = secularism
+    size = 30484
+  }
+  aristocrats = {
+    culture = tigray
+    religion =  orthodox
+    size = 10748
+  }
+  aristocrats = {
+    culture = tigray
+    religion = secularism
+    size = 1194
+  }
+  bureaucrats = {
+    culture = tigray
+    religion =  orthodox
+    size = 1228
+  }
+  bureaucrats = {
+    culture = tigray
+    religion = secularism
+    size = 136
+  }
+  capitalists = {
+    culture = tigray
+    religion =  orthodox
+    size = 1842
+  }
+  capitalists = {
+    culture = tigray
+    religion = secularism
+    size = 204
+  }
+  clergymen = {
+    culture = tigray
+    religion =  orthodox
+    size = 4502
+  }
+  clergymen = {
+    culture = tigray
+    religion = secularism
+    size = 500
+  }
 }
 #Massawa - Massawa (484000/121000 POPS)
 1849 = {
-	clergymen = {
-		culture = tigray
-		religion =  orthodox 
-		size = 2178
-	 } 
-	clergymen = {
-		culture = tigray
-		religion = secularism
-		size = 242
-	 } 
-	farmers = {
-		culture = tigray
-		religion =  orthodox 
-		size = 46827
-	 } 
-	farmers = {
-		culture = tigray
-		religion = secularism
-		size = 5203
-	 } 
-	farmers = {
-		culture = sunni_arab
-		religion =  sunni 
-		size = 14520
-	 } 
-	farmers = {
-		culture = black_muslim
-		religion =  sunni 
-		size = 12100
-	 } 
-	farmers = {
-		culture = tigre
-		religion =  sunni 
-		size = 39930
-	 } 
+  clergymen = {
+    culture = tigray
+    religion =  orthodox
+    size = 2178
+  }
+  clergymen = {
+    culture = tigray
+    religion = secularism
+    size = 242
+  }
+  farmers = {
+    culture = tigray
+    religion =  orthodox
+    size = 46827
+  }
+  farmers = {
+    culture = tigray
+    religion = secularism
+    size = 5203
+  }
+  farmers = {
+    culture = sunni_arab
+    religion =  sunni
+    size = 14520
+  }
+  farmers = {
+    culture = black_muslim
+    religion =  sunni
+    size = 12100
+  }
+  farmers = {
+    culture = tigre
+    religion =  sunni
+    size = 39930
+  }
 }
 #Akordat - Akordat (1077000/269250 POPS)
 1850 = {
-	clergymen = {
-		culture = tigray
-		religion =  orthodox 
-		size = 4846
-	 } 
-	clergymen = {
-		culture = tigray
-		religion = secularism
-		size = 538
-	 } 
-	farmers = {
-		culture = tigray
-		religion =  orthodox 
-		size = 26655
-	 } 
-	farmers = {
-		culture = tigray
-		religion = secularism
-		size = 2961
-	 } 
-	farmers = {
-		culture = tigre
-		religion =  sunni 
-		size = 193860
-	 } 
-	farmers = {
-		culture = black_muslim
-		religion =  sunni 
-		size = 40387
-	 } 
+  clergymen = {
+    culture = tigray
+    religion =  orthodox
+    size = 4846
+  }
+  clergymen = {
+    culture = tigray
+    religion = secularism
+    size = 538
+  }
+  farmers = {
+    culture = tigray
+    religion =  orthodox
+    size = 26655
+  }
+  farmers = {
+    culture = tigray
+    religion = secularism
+    size = 2961
+  }
+  farmers = {
+    culture = tigre
+    religion =  sunni
+    size = 193860
+  }
+  farmers = {
+    culture = black_muslim
+    religion =  sunni
+    size = 40387
+  }
 }
 #Assab - Assab (210000/52500 POPS)
 1851 = {
-	clergymen = {
-		culture = afar
-		religion =  sunni 
-		size = 1050
-	 } 
-	farmers = {
-		culture = afar
-		religion =  sunni 
-		size = 40950
-	 } 
-	farmers = {
-		culture = black_muslim
-		religion =  sunni 
-		size = 10500
-	 } 
+  clergymen = {
+    culture = afar
+    religion =  sunni
+    size = 1050
+  }
+  farmers = {
+    culture = afar
+    religion =  sunni
+    size = 40950
+  }
+  farmers = {
+    culture = black_muslim
+    religion =  sunni
+    size = 10500
+  }
 }

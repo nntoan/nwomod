@@ -7,21 +7,21 @@ country_event = {
 
   trigger = {
     tag = DOM
-	year = 1954 NOT = { year = 1963 }
-	government = democracy
+    year = 1954 NOT = { year = 1963 }
+    government = democracy
   }
 
   mean_time_to_happen = { months = 6  }
 
   option = {
     name = "EVT_8004606_A"
-	ai_chance = { factor = 100 }
+    ai_chance = { factor = 100 }
   }
 
   option = {
     name = "EVT_8004606_B"
-	ai_chance = { factor = 0 }
-	government = presidential_dictatorship country_event = 800050
+    ai_chance = { factor = 0 }
+    government = presidential_dictatorship country_event = 800050
   }
 }
 country_event = {
@@ -33,15 +33,15 @@ country_event = {
 
   trigger = {
     tag = DOM
-	year = 1963 NOT = { year = 1968 }
-	government = democracy
+    year = 1963 NOT = { year = 1968 }
+    government = democracy
   }
 
   mean_time_to_happen = { months = 3  }
 
   option = {
     name = "EVT_8004607_A"
-	government = presidential_dictatorship country_event = 800050
+    government = presidential_dictatorship country_event = 800050
   }
 }
 country_event = {
@@ -53,7 +53,7 @@ country_event = {
 
   trigger = {
     tag = DOM
-	year = 1965 NOT = { year = 1966 }
+    year = 1965 NOT = { year = 1966 }
     has_global_flag = event_fired_8004615
   }
 
@@ -61,7 +61,7 @@ country_event = {
 
   option = {
     name = EVT_8004608_A
-	any_pop = { militancy = 2.0 consciousness = 1 }
+    any_pop = { militancy = 2.0 consciousness = 1 }
   }
 }
 country_event = {
@@ -73,7 +73,7 @@ country_event = {
 
   trigger = {
     tag = DOM
-	year = 1966 NOT = { year = 1969 }
+    year = 1966 NOT = { year = 1969 }
     is_vassal = yes
   }
 
@@ -81,7 +81,7 @@ country_event = {
 
   option = {
     name = EVT_8004609_A
-	government = democracy country_event = 800054
+    government = democracy country_event = 800054
   }
 }
 country_event = {
@@ -93,14 +93,14 @@ country_event = {
 
   trigger = {
     tag = DOM
-	year = 1961 NOT = { year = 1962 }
+    year = 1961 NOT = { year = 1962 }
   }
 
   mean_time_to_happen = { months = 1  }
 
   option = {
     name = "EVT_8004614_A"
-	random_state = { any_pop = { dominant_issue = { value = full_citizenship factor = 0.1 } } }
+    random_state = { any_pop = { dominant_issue = { value = full_citizenship factor = 0.1 } } }
   }
 }
 country_event = {
@@ -112,10 +112,10 @@ country_event = {
 
   trigger = {
     tag = USA
-	year = 1965 NOT = { year = 1966 }
+    year = 1965 NOT = { year = 1966 }
     NOT = { USA = { war_with = DOM } }
     exists = DOM
-	NOT = { is_our_vassal = DOM }
+    NOT = { is_our_vassal = DOM }
     has_global_flag = cold_War
   }
 
@@ -123,14 +123,14 @@ country_event = {
 
   option = {
     name = EVT_8004615_A
-	ai_chance = { factor = 100 }
-	# infamy unsancioned
-	war = { target = DOM attacker_goal = { casus_belli = make_puppet } defender_goal = { casus_belli = status_quo } }
+    ai_chance = { factor = 100 }
+    # infamy unsancioned
+    war = { target = DOM attacker_goal = { casus_belli = make_puppet } defender_goal = { casus_belli = status_quo } }
   }
 
   option = {
     name = EVT_8004615_B
-	ai_chance = { factor = 0 }
-	prestige = -20
+    ai_chance = { factor = 0 }
+    prestige = -20
   }
 }

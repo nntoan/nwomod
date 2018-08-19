@@ -6,13 +6,13 @@ life_rating = 27
 terrain = jungle_hills
 colonial = 2
 1992.1.1 = {
-owner = STL
-controller = STL
-add_core = STL
-colonial = 0
-state_building = {
-	level = 1
-	building = clothes_factory
-	upgrade = yes
-}
+  owner = STL
+  controller = STL
+  add_core = STL
+  colonial = 0
+  state_building = {
+    level = 1
+    building = clothes_factory
+    upgrade = yes
+  }
 }

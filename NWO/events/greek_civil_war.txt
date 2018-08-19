@@ -7,15 +7,15 @@ province_event = {
 
   trigger = {
     owned_by = GRE
-	NOT = { controlled_by = GRE }
-	NOT = { year = 1990 }
+    NOT = { controlled_by = GRE }
+    NOT = { year = 1990 }
   }
 
-   mean_time_to_happen = { months = 10  }
-   
+  mean_time_to_happen = { months = 10  }
+
   option = {
     name = OK
-	add_province_modifier = { name = patriot_uprising duration = 700 }
+    add_province_modifier = { name = patriot_uprising duration = 700 }
   }
 }
 
@@ -29,17 +29,17 @@ country_event = {
   trigger = {
     tag = GRE
     year = 1946 NOT = { year = 1990 }
-    
-	NOT = { exists = UGR }
-	NOT = { government = proletarian_dictatorship }
-	war = no
+
+    NOT = { exists = UGR }
+    NOT = { government = proletarian_dictatorship }
+    war = no
   }
 
   mean_time_to_happen = { months = 3  }
 
   option = {
     name = OK
-	create_alliance = USA 
+    create_alliance = USA
   }
 }
 country_event = {
@@ -50,32 +50,32 @@ country_event = {
   fire_only_once = yes
 
   trigger = {
-	exists = UGR
+    exists = UGR
     tag = UGR
-	year = 1947 NOT = { year = 1950 }
- 	war_with = GRE
-    
-	government = proletarian_dictatorship
+    year = 1947 NOT = { year = 1950 }
+    war_with = GRE
+
+    government = proletarian_dictatorship
   }
 
   mean_time_to_happen = { months = 1  }
 
   option = {
     name = EVT_8500501_A
-	ai_chance = { factor = 100 }
-	SUN = { country_event = 8500503 }
+    ai_chance = { factor = 100 }
+    SUN = { country_event = 8500503 }
   }
 
   option = {
     name = EVT_8500501_B
-	YUG = { country_event = 8500502 }
-	ai_chance = { factor = 0 }
+    YUG = { country_event = 8500502 }
+    ai_chance = { factor = 0 }
   }
 
   option = {
     name = EVT_8500501_C
-	any_pop = { militancy = 1.0 consciousness = 1 }
-	ai_chance = { factor = 0 }
+    any_pop = { militancy = 1.0 consciousness = 1 }
+    ai_chance = { factor = 0 }
   }
 }
 country_event = {
@@ -84,17 +84,17 @@ country_event = {
   desc = EVT_8500502_DESC
   picture = "nwo2_greek_civil_war"
   is_triggered_only = yes # YUG
-  
+
   option = {
     name = EVT_8500502_A
-	UGR = { country_event = 8500520 } 
-	ai_chance = { factor = 100 }
+    UGR = { country_event = 8500520 }
+    ai_chance = { factor = 100 }
   }
 
   option = {
     name = EVT_8500502_B
-	relation = { who = GRE value = 20 }
-	ai_chance = { factor = 0 }
+    relation = { who = GRE value = 20 }
+    ai_chance = { factor = 0 }
   }
 }
 country_event = {
@@ -103,31 +103,31 @@ country_event = {
   desc = EVT_8500503_DESC
   picture = "nwo2_greek_civil_war"
   is_triggered_only = yes # SUN
-  
+
   option = {
     name = EVT_8500503_A
-	ai_chance = { factor = 0 }
+    ai_chance = { factor = 0 }
   }
 
   option = {
     name = EVT_8500503_B
-	treasury = -1000
-	UGR = { country_event = 8500520 }
-	ai_chance = { factor = 100 }
+    treasury = -1000
+    UGR = { country_event = 8500520 }
+    ai_chance = { factor = 100 }
   }
 
   option = {
     name = EVT_8500503_C
-	USA = { country_event = 8500504 }
-	ai_chance = { factor = 0 }
+    USA = { country_event = 8500504 }
+    ai_chance = { factor = 0 }
   }
 
   option = {
     name = EVT_8500503_D
-	USA = { country_event = 8500504 }
-	UGR = { country_event = 8500521 }
-	any_pop = { militancy = 1.0 consciousness = 1 }
-	ai_chance = { factor = 0 }
+    USA = { country_event = 8500504 }
+    UGR = { country_event = 8500521 }
+    any_pop = { militancy = 1.0 consciousness = 1 }
+    ai_chance = { factor = 0 }
   }
 }
 country_event = {
@@ -136,20 +136,20 @@ country_event = {
   desc = EVT_8500504_DESC
   picture = "nwo2_greek_civil_war"
   is_triggered_only = yes # USA
-  
+
   mean_time_to_happen = { months = 1  }
 
   option = {
     name = EVT_8500504_A
-	SUN = { country_event = 8500505 }
-	ai_chance = { factor = 100 }
+    SUN = { country_event = 8500505 }
+    ai_chance = { factor = 100 }
   }
 
   option = {
     name = EVT_8500504_B
-	GRE = {country_event = 8500509 } 
-	any_pop = { militancy = 1.0 consciousness = 1 }
-	ai_chance = { factor = 0 }
+    GRE = {country_event = 8500509 }
+    any_pop = { militancy = 1.0 consciousness = 1 }
+    ai_chance = { factor = 0 }
 
   }
 }
@@ -163,20 +163,20 @@ country_event = {
 
   option = {
     name = EVT_8500505_A
-	any_pop = { consciousness = 1.0 }
-	SUN  = { country_event = 8225001 }
-	ai_chance = { factor = 100 }
+    any_pop = { consciousness = 1.0 }
+    SUN  = { country_event = 8225001 }
+    ai_chance = { factor = 100 }
   }
 
   option = {
     name = EVT_8500505_B
-	any_pop = { consciousness = 1.0 }
-	any_pop = { militancy = 1.0 }
-	# infamy unsanctioned
-	war = { target = GRE attacker_goal = { casus_belli = humiliate } defender_goal = { casus_belli = status_quo } }
-	USA = { country_event = 8500506 } 
-	UGR = { country_event =  8500522 } 
-	ai_chance = { factor = 0 }
+    any_pop = { consciousness = 1.0 }
+    any_pop = { militancy = 1.0 }
+    # infamy unsanctioned
+    war = { target = GRE attacker_goal = { casus_belli = humiliate } defender_goal = { casus_belli = status_quo } }
+    USA = { country_event = 8500506 }
+    UGR = { country_event =  8500522 }
+    ai_chance = { factor = 0 }
   }
 }
 country_event = {
@@ -189,17 +189,17 @@ country_event = {
 
   option = {
     name = EVT_8500506_A
-	create_alliance = GRE
-	diplomatic_influence = { who = GRE value = 200 }
-	ai_chance = { factor = 100 }
+    create_alliance = GRE
+    diplomatic_influence = { who = GRE value = 200 }
+    ai_chance = { factor = 100 }
   }
 
   option = {
     name = EVT_8500506_B
-	prestige = -10
-	any_pop = { consciousness = 2 }
-	GRE = { country_event = 8500509 }
-	ai_chance = { factor = 0 }
+    prestige = -10
+    any_pop = { consciousness = 2 }
+    GRE = { country_event = 8500509 }
+    ai_chance = { factor = 0 }
   }
 }
 country_event = {
@@ -211,9 +211,9 @@ country_event = {
 
   option = {
     name = EVT_8500509_A
-	leave_alliance = USA
-	any_pop = { militancy = 1.0 }
-	war_exhaustion = 40
+    leave_alliance = USA
+    any_pop = { militancy = 1.0 }
+    war_exhaustion = 40
   }
 }
 country_event = {
@@ -225,25 +225,25 @@ country_event = {
 
   trigger = {
     tag = GRE
-	year = 1946 NOT = { year = 1963 }
+    year = 1946 NOT = { year = 1963 }
     exists = GRE
-    
-	any_owned_province = { controlled_by = UGR }
+
+    any_owned_province = { controlled_by = UGR }
   }
 
   mean_time_to_happen = { months = 2 }
 
   option = {
     name = EVT_8500510_A
-	USA = { create_alliance = GRE }
-	country_event = 8940010 # limited_wars.txt
-	relation = { who = SUN value = -100 } 
-	ai_chance = { factor = 0 }
+    USA = { create_alliance = GRE }
+    country_event = 8940010 # limited_wars.txt
+    relation = { who = SUN value = -100 }
+    ai_chance = { factor = 0 }
   }
 
   option = {
     name = EVT_8500510_B
-	ai_chance = { factor = 0 }
+    ai_chance = { factor = 0 }
   }
 }
 country_event = {
@@ -255,8 +255,8 @@ country_event = {
 
   option = {
     name = EVT_8500520_A
-	any_pop = { consciousness = 1 }
-	treasury = 1000
+    any_pop = { consciousness = 1 }
+    treasury = 1000
   }
 }
 country_event = {
@@ -269,8 +269,8 @@ country_event = {
 
   option = {
     name = EVT_8500521_A
-	any_pop = { militancy = -0.5 consciousness = -1 }
-	treasury = 1000
+    any_pop = { militancy = -0.5 consciousness = -1 }
+    treasury = 1000
   }
 }
 country_event = {
@@ -282,17 +282,17 @@ country_event = {
 
   option = {
     name = EVT_8500522_A
-	create_alliance = SUN 
-	any_pop = { militancy = -0.5 consciousness = -1 }
-	diplomatic_influence = { who = SUN value = 100 } 
-	ai_chance = { factor = 100 }
+    create_alliance = SUN
+    any_pop = { militancy = -0.5 consciousness = -1 }
+    diplomatic_influence = { who = SUN value = 100 }
+    ai_chance = { factor = 100 }
   }
 
   option = {
     name = EVT_8500522_B
-	any_pop = { consciousness = 2 }
-	relation = { who = SUN value = -150 } 
-	ai_chance = { factor = 0 }
+    any_pop = { consciousness = 2 }
+    relation = { who = SUN value = -150 }
+    ai_chance = { factor = 0 }
   }
 }
 country_event = {
@@ -304,7 +304,7 @@ country_event = {
 
   trigger = {
     tag = USA
-	year = 1948 NOT = { year = 1950 }
+    year = 1948 NOT = { year = 1950 }
     GRE = { OR = { government = democracy government = hms_government } war_with = UGR }
   }
 
@@ -312,17 +312,17 @@ country_event = {
 
   option = {
     name = EVT_8500523_A
-	GRE = { country_event = 8500524 } 
-	any_pop = { consciousness = 1 }
-	relation = { who = SUN value = -100 } 
-	ai_chance = { factor = 100 }
+    GRE = { country_event = 8500524 }
+    any_pop = { consciousness = 1 }
+    relation = { who = SUN value = -100 }
+    ai_chance = { factor = 100 }
   }
 
   option = {
     name = EVT_8500523_B
-	any_pop = { militancy = 1 }
-	relation = { who = SUN value = 50 } 
-	ai_chance = { factor = 0 }
+    any_pop = { militancy = 1 }
+    relation = { who = SUN value = 50 }
+    ai_chance = { factor = 0 }
   }
 }
 country_event = {
@@ -334,8 +334,8 @@ country_event = {
 
   option = {
     name = EVT_8500524_A
-	any_pop = { consciousness = 1 }
-	treasury = 250 
+    any_pop = { consciousness = 1 }
+    treasury = 250
   }
 }
 province_event = {
@@ -346,16 +346,16 @@ province_event = {
 
   trigger = {
     controller = { tag = GRE }
-	year = 1948 NOT = { year = 1990 }
-	owner = { tag = GRE war_with = UGR }
-	is_capital = no
+    year = 1948 NOT = { year = 1990 }
+    owner = { tag = GRE war_with = UGR }
+    is_capital = no
   }
 
   mean_time_to_happen = { months = 4  }
 
   option = {
     name = "EVT_8500530_A"
-	change_controller = UGR
+    change_controller = UGR
   }
 
 }
@@ -367,19 +367,19 @@ country_event = {
   fire_only_once = yes
 
   trigger = {
-	exists = UGR
+    exists = UGR
     tag = UGR
-	year = 1948 NOT = { year = 1955 }
-	war_with = GRE
-    
+    year = 1948 NOT = { year = 1955 }
+    war_with = GRE
+
   }
 
   mean_time_to_happen = { months = 2  }
 
   option = {
     name = EVT_8500540_A
-	any_pop = { militancy = 0.5 consciousness = 1 }
-	war_exhaustion = 50 
+    any_pop = { militancy = 0.5 consciousness = 1 }
+    war_exhaustion = 50
   }
 }
 country_event = {
@@ -391,18 +391,18 @@ country_event = {
 
   trigger = {
     tag = UGR
-	NOT = { exists = GRE }
-	war = no
+    NOT = { exists = GRE }
+    war = no
   }
 
   mean_time_to_happen = { months = 1  }
 
   option = {
     name = EVT_8500541_A
-	any_pop = { militancy = -2.5 consciousness = -1}
-	change_tag = GRE
-	capital = 834 # Athens
-	SUN  = { country_event = 8225000 } 
+    any_pop = { militancy = -2.5 consciousness = -1}
+    change_tag = GRE
+    capital = 834 # Athens
+    SUN  = { country_event = 8225000 }
   }
 }
 country_event = {
@@ -414,23 +414,23 @@ country_event = {
 
   trigger = {
     tag = USA
-	NOT = { year = 1960 }
+    NOT = { year = 1960 }
     GRE = { government = proletarian_dictatorship }
-	war = no
+    war = no
   }
 
   mean_time_to_happen = { months = 1  }
 
   option = {
     name = EVT_8500550_A
-	SUN = { country_event = 8500551 }
-	ai_chance = { factor = 0 }
+    SUN = { country_event = 8500551 }
+    ai_chance = { factor = 0 }
   }
 
   option = {
     name = EVT_8500550_B
-	any_pop = { militancy = 0.5 consciousness = 1}
-	ai_chance = { factor = 100 }
+    any_pop = { militancy = 0.5 consciousness = 1}
+    ai_chance = { factor = 100 }
   }
 }
 country_event = {
@@ -442,15 +442,15 @@ country_event = {
 
   option = {
     name = EVT_8500551_A
-	any_pop = { consciousness = 1 }
-	ai_chance = { factor = 100 }
+    any_pop = { consciousness = 1 }
+    ai_chance = { factor = 100 }
   }
 
   option = {
     name = EVT_8500551_B
-	USA = { country_event = 8500552 }
-	any_pop = { militancy = 1.0 }
-	ai_chance = { factor = 0 }
+    USA = { country_event = 8500552 }
+    any_pop = { militancy = 1.0 }
+    ai_chance = { factor = 0 }
   }
 }
 country_event = {
@@ -462,15 +462,15 @@ country_event = {
 
   option = {
     name = EVT_8500552_A
-	# infamy unsanctioned
-	war = { target = GRE  attacker_goal = { casus_belli = install_democracy } defender_goal = { casus_belli = status_quo } }
-	ai_chance = { factor = 100 }
+    # infamy unsanctioned
+    war = { target = GRE  attacker_goal = { casus_belli = install_democracy } defender_goal = { casus_belli = status_quo } }
+    ai_chance = { factor = 100 }
   }
 
   option = {
     name = EVT_8500552_B
-	any_pop = { militancy = 1.0 consciousness = 1 }
-	ai_chance = { factor = 0 }
+    any_pop = { militancy = 1.0 consciousness = 1 }
+    ai_chance = { factor = 0 }
   }
 }
 country_event = {
@@ -482,24 +482,24 @@ country_event = {
 
   trigger = {
     tag = SUN
-	year = 1949 NOT = { year = 1960 }
+    year = 1949 NOT = { year = 1960 }
     GRE = { government = proletarian_dictatorship }
-	USA = { war_with = GRE }
-	war = no
+    USA = { war_with = GRE }
+    war = no
   }
 
   mean_time_to_happen = { months = 1  }
 
   option = {
     name = EVT_8500553_A
-	USA = { country_event = 8500554 }
-	ai_chance = { factor = 100 }
+    USA = { country_event = 8500554 }
+    ai_chance = { factor = 100 }
   }
 
   option = {
     name = EVT_8500553_B
-	any_pop = { consciousness = 1 }
-	ai_chance = { factor = 0 }
+    any_pop = { consciousness = 1 }
+    ai_chance = { factor = 0 }
   }
 }
 country_event = {
@@ -512,16 +512,16 @@ country_event = {
 
   option = {
     name = EVT_8500554_A
-	any_pop = { consciousness = 1 }
-	end_war = GRE 
-	ai_chance = { factor = 100 }
+    any_pop = { consciousness = 1 }
+    end_war = GRE
+    ai_chance = { factor = 100 }
   }
 
   option = {
     name = EVT_8500554_B
-	ai_chance = { factor = 0 }
-	any_pop = { militancy = 0.5 }
-	SUN = { country_event = 8500555 }
+    ai_chance = { factor = 0 }
+    any_pop = { militancy = 0.5 }
+    SUN = { country_event = 8500555 }
   }
 }
 country_event = {
@@ -534,13 +534,13 @@ country_event = {
 
   option = {
     name = EVT_8500555_B
-	any_pop = { militancy = 0.4 consciousness = 1 }
-	ai_chance = { factor = 100 }
+    any_pop = { militancy = 0.4 consciousness = 1 }
+    ai_chance = { factor = 100 }
   }
 
   option = {
     name = EVT_8500555_A
-	diplomatic_influence = { who = GRE value = 100 } 
-	ai_chance = { factor = 0 }
+    diplomatic_influence = { who = GRE value = 100 }
+    ai_chance = { factor = 0 }
   }
 }

@@ -1,226 +1,226 @@
 #Khiva - Xorazm (1140000/285000 POPS)
 1191 = {
-	clergymen = {
-		culture = uzbek
-		religion =  sunni 
-		size = 5700
-	 } 
-	farmers = {
-		culture = uzbek
-		religion =  sunni 
-		size = 279300
-	 } 
+  clergymen = {
+    culture = uzbek
+    religion =  sunni
+    size = 5700
+  }
+  farmers = {
+    culture = uzbek
+    religion =  sunni
+    size = 279300
+  }
 }
 #Nukus - Karakalpakstan (1211000/302750 POPS)
 1192 = {
-	soldiers = {
-		culture = uzbek
-		religion =  sunni 
-		size = 9986
-	 } 
-	aristocrats = {
-		culture = uzbek
-		religion =  sunni 
-		size = 12110
-	 } 
-	capitalists = {
-		culture = uzbek
-		religion =  sunni 
-		size = 1513
-	 } 
-	clergymen = {
-		culture = uzbek
-		religion =  sunni 
-		size = 6055
-	 } 
-	clerks = {
-		culture = uzbek
-		religion =  sunni 
-		size = 3948
-	 } 
-	artisans = {
-		culture = uzbek
-		religion =  sunni 
-		size = 3750
-	 } 
-	craftsmen = {
-		culture = uzbek
-		religion =  sunni 
-		size = 11844
-	 } 
-	farmers = {
-		culture = uzbek
-		religion =  sunni 
-		size = 34434
-	 } 
-	farmers = {
-		culture = karakalpak
-		religion =  sunni 
-		size = 127155
-	 } 
-	farmers = {
-		culture = kazak
-		religion =  sunni 
-		size = 90825
-	 } 
+  soldiers = {
+    culture = uzbek
+    religion =  sunni
+    size = 9986
+  }
+  aristocrats = {
+    culture = uzbek
+    religion =  sunni
+    size = 12110
+  }
+  capitalists = {
+    culture = uzbek
+    religion =  sunni
+    size = 1513
+  }
+  clergymen = {
+    culture = uzbek
+    religion =  sunni
+    size = 6055
+  }
+  clerks = {
+    culture = uzbek
+    religion =  sunni
+    size = 3948
+  }
+  artisans = {
+    culture = uzbek
+    religion =  sunni
+    size = 3750
+  }
+  craftsmen = {
+    culture = uzbek
+    religion =  sunni
+    size = 11844
+  }
+  farmers = {
+    culture = uzbek
+    religion =  sunni
+    size = 34434
+  }
+  farmers = {
+    culture = karakalpak
+    religion =  sunni
+    size = 127155
+  }
+  farmers = {
+    culture = kazak
+    religion =  sunni
+    size = 90825
+  }
 }
 #Tashkent - Tashkent, Guliston, Toytepa (4080000/1020000 POPS)
 1195 = {
-	officers = {
-		culture = uzbek
-		religion =  sunni 
-		size = 8432
-	 } 
-	soldiers = {
-		culture = uzbek
-		religion =  sunni 
-		size = 160216
-	 } 
-	aristocrats = {
-		culture = uzbek
-		religion =  sunni 
-		size = 40800
-	 } 
-	bureaucrats = {
-		culture = uzbek
-		religion =  sunni 
-		size = 2040
-	 } 
-	capitalists = {
-		culture = uzbek
-		religion =  sunni 
-		size = 5100
-	 } 
-	clergymen = {
-		culture = uzbek
-		religion =  sunni 
-		size = 20400
-	 } 
-	clerks = {
-		culture = uzbek
-		religion =  sunni 
-		size = 11501
-	 } 
-	artisans = {
-		culture = uzbek
-		religion =  sunni 
-		size = 10926
-	 } 
-	craftsmen = {
-		culture = uzbek
-		religion =  sunni 
-		size = 34504
-	 } 
-	farmers = {
-		culture = uzbek
-		religion =  sunni 
-		size = 420081
-	 } 
-	farmers = {
-		culture = russian
-		religion =  orthodox 
-		size = 80886
-	 } 
-	farmers = {
-		culture = russian
-		religion = secularism
-		size = 51714
-	 } 
-	farmers = {
-		culture = tatar
-		religion =  sunni 
-		size = 71400
-	 } 
-	farmers = {
-		culture = tajik
-		religion =  sunni 
-		size = 102000
-	 } 
+  officers = {
+    culture = uzbek
+    religion =  sunni
+    size = 8432
+  }
+  soldiers = {
+    culture = uzbek
+    religion =  sunni
+    size = 160216
+  }
+  aristocrats = {
+    culture = uzbek
+    religion =  sunni
+    size = 40800
+  }
+  bureaucrats = {
+    culture = uzbek
+    religion =  sunni
+    size = 2040
+  }
+  capitalists = {
+    culture = uzbek
+    religion =  sunni
+    size = 5100
+  }
+  clergymen = {
+    culture = uzbek
+    religion =  sunni
+    size = 20400
+  }
+  clerks = {
+    culture = uzbek
+    religion =  sunni
+    size = 11501
+  }
+  artisans = {
+    culture = uzbek
+    religion =  sunni
+    size = 10926
+  }
+  craftsmen = {
+    culture = uzbek
+    religion =  sunni
+    size = 34504
+  }
+  farmers = {
+    culture = uzbek
+    religion =  sunni
+    size = 420081
+  }
+  farmers = {
+    culture = russian
+    religion =  orthodox
+    size = 80886
+  }
+  farmers = {
+    culture = russian
+    religion = secularism
+    size = 51714
+  }
+  farmers = {
+    culture = tatar
+    religion =  sunni
+    size = 71400
+  }
+  farmers = {
+    culture = tajik
+    religion =  sunni
+    size = 102000
+  }
 }
 #Bukhara - Bukhara, Navoiy (1811000/452750 POPS)
 1198 = {
-	clergymen = {
-		culture = uzbek
-		religion =  sunni 
-		size = 9055
-	 } 
-	farmers = {
-		culture = uzbek
-		religion =  sunni 
-		size = 425585
-	 } 
-	farmers = {
-		culture = kazak
-		religion =  sunni 
-		size = 18110
-	 } 
+  clergymen = {
+    culture = uzbek
+    religion =  sunni
+    size = 9055
+  }
+  farmers = {
+    culture = uzbek
+    religion =  sunni
+    size = 425585
+  }
+  farmers = {
+    culture = kazak
+    religion =  sunni
+    size = 18110
+  }
 }
 #Samarkand - Samarkand, Jizzax (3099000/774750 POPS)
 1199 = {
-	clergymen = {
-		culture = uzbek
-		religion =  sunni 
-		size = 15495
-	 } 
-	farmers = {
-		culture = uzbek
-		religion =  sunni 
-		size = 449355
-	 } 
-	farmers = {
-		culture = tajik
-		religion =  sunni 
-		size = 108465
-	 } 
-	farmers = {
-		culture = kazak
-		religion =  sunni 
-		size = 46485
-	 } 
-	farmers = {
-		culture = russian
-		religion =  orthodox 
-		size = 94519
-	 } 
-	farmers = {
-		culture = russian
-		religion = secularism
-		size = 60430
-	 } 
+  clergymen = {
+    culture = uzbek
+    religion =  sunni
+    size = 15495
+  }
+  farmers = {
+    culture = uzbek
+    religion =  sunni
+    size = 449355
+  }
+  farmers = {
+    culture = tajik
+    religion =  sunni
+    size = 108465
+  }
+  farmers = {
+    culture = kazak
+    religion =  sunni
+    size = 46485
+  }
+  farmers = {
+    culture = russian
+    religion =  orthodox
+    size = 94519
+  }
+  farmers = {
+    culture = russian
+    religion = secularism
+    size = 60430
+  }
 }
 #Qarshi - Qarshi, Termiz (3420000/855000 POPS)
 1200 = {
-	clergymen = {
-		culture = uzbek
-		religion =  sunni 
-		size = 17100
-	 } 
-	farmers = {
-		culture = uzbek
-		religion =  sunni 
-		size = 769500
-	 } 
-	farmers = {
-		culture = tajik
-		religion =  sunni 
-		size = 68400
-	 } 
+  clergymen = {
+    culture = uzbek
+    religion =  sunni
+    size = 17100
+  }
+  farmers = {
+    culture = uzbek
+    religion =  sunni
+    size = 769500
+  }
+  farmers = {
+    culture = tajik
+    religion =  sunni
+    size = 68400
+  }
 }
 #Kokand - Namangan, Fargona, Andijon (5766000/1441500 POPS)
 1202 = {
-	clergymen = {
-		culture = uzbek
-		religion =  sunni 
-		size = 28830
-	 } 
-	farmers = {
-		culture = uzbek
-		religion =  sunni 
-		size = 1268520
-	 } 
-	farmers = {
-		culture = tajik
-		religion =  sunni 
-		size = 144150
-	 } 
+  clergymen = {
+    culture = uzbek
+    religion =  sunni
+    size = 28830
+  }
+  farmers = {
+    culture = uzbek
+    religion =  sunni
+    size = 1268520
+  }
+  farmers = {
+    culture = tajik
+    religion =  sunni
+    size = 144150
+  }
 }

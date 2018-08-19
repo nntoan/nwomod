@@ -12,7 +12,7 @@ country_event = {
 
   trigger = {
     tag = UKR
-	election = yes
+    election = yes
     year = 1993
   }
 
@@ -20,218 +20,218 @@ country_event = {
 
   option = {
     name = "EVT_1014199_A"
-	government = provisional_government  country_event = 800054 # cpcn cahnges culture to russian
-	any_pop = { militancy = 3 consciousness = 1 }
-	ai_chance = { factor = 0.1 modifier = { factor = 2 NOT = { RUS = { has_country_modifier = in_bankrupcy } } in_sphere = RUS } }
+    government = provisional_government  country_event = 800054 # cpcn cahnges culture to russian
+    any_pop = { militancy = 3 consciousness = 1 }
+    ai_chance = { factor = 0.1 modifier = { factor = 2 NOT = { RUS = { has_country_modifier = in_bankrupcy } } in_sphere = RUS } }
   }
 
   option = {
     name = "EVT_1014199_B"
-	any_pop = { militancy = 1.0  consciousness = 2 }
-	add_accepted_culture = russian
-	RUS = { casus_belli = { target = UKR type = install_authoritarian_regime  months = 24 } }
-	ai_chance = { factor = 0.9 }
+    any_pop = { militancy = 1.0  consciousness = 2 }
+    add_accepted_culture = russian
+    RUS = { casus_belli = { target = UKR type = install_authoritarian_regime  months = 24 } }
+    ai_chance = { factor = 0.9 }
   }
-  
+
 }
 
 country_event = {
-	id = 1014200
-	title = EVT_1014200_NAME
-	# EVT_1014200_NAME;Orange Revolution
-	desc = EVT_1014200_DESC
-	# EVT_1014200_DESC;The Orange Revolution was a series of protests and political events that took place in Ukraine from late November 2004 to January 2005, in the immediate aftermath of the run-off vote of the 2004 Ukrainian presidential election which was claimed to be marred by massive corruption, voter intimidation and direct electoral fraud. Kiev, the Ukrainian capital, was the focal point of the movement's campaign of civil resistance, with thousands of protesters demonstrating daily.[5] Nationwide, the democratic revolution was highlighted by a series of acts of civil disobedience, sit-ins, and general strikes organized by the opposition movement.
-	picture = "orange_revolution"
-	fire_only_once = yes
-	
-	trigger = {
-		war = no
-		year = 2004
-		exists = UKR
-		UKR = { in_sphere = RUS }
-	}
+  id = 1014200
+  title = EVT_1014200_NAME
+  # EVT_1014200_NAME;Orange Revolution
+  desc = EVT_1014200_DESC
+  # EVT_1014200_DESC;The Orange Revolution was a series of protests and political events that took place in Ukraine from late November 2004 to January 2005, in the immediate aftermath of the run-off vote of the 2004 Ukrainian presidential election which was claimed to be marred by massive corruption, voter intimidation and direct electoral fraud. Kiev, the Ukrainian capital, was the focal point of the movement's campaign of civil resistance, with thousands of protesters demonstrating daily.[5] Nationwide, the democratic revolution was highlighted by a series of acts of civil disobedience, sit-ins, and general strikes organized by the opposition movement.
+  picture = "orange_revolution"
+  fire_only_once = yes
 
-	mean_time_to_happen = {
-		months = 1
-	}
+  trigger = {
+    war = no
+    year = 2004
+    exists = UKR
+    UKR = { in_sphere = RUS }
+  }
 
-	option = {
-		name = EVT_1014200_A
-		# EVT_1014200_A;Freedom!
-		USA = { country_event = 1014201 }
-		GER = { country_event = 1014201 }
-		ai_chance = { factor = 100 }
-	}
+  mean_time_to_happen = {
+    months = 1
+  }
 
-	option = {
-		name = EVT_1014200_B
-		# EVT_1014200_B;Stay in power
-		any_pop = { militancy = 3 consciousness = 2 }
-		ai_chance = { factor = 0 }
-	}
+  option = {
+    name = EVT_1014200_A
+    # EVT_1014200_A;Freedom!
+    USA = { country_event = 1014201 }
+    GER = { country_event = 1014201 }
+    ai_chance = { factor = 100 }
+  }
+
+  option = {
+    name = EVT_1014200_B
+    # EVT_1014200_B;Stay in power
+    any_pop = { militancy = 3 consciousness = 2 }
+    ai_chance = { factor = 0 }
+  }
 }
 
 country_event = {
-	id = 1014201
-	title = EVT_1014201_NAME
-	desc = EVT_1014201_DESC
-	picture = "orange_revolution"
-	is_triggered_only = yes
-	
-	option = {
-		name = EVT_1014201_A
-		# EVT_1014201_A;Spread democracy
-		diplomatic_influence = { who = FROM value = 100 }
-		ai_chance = { factor = 100 }
-	}
-	option = {
-		name = EVT_1014201_B
-		# EVT_1014201_B;Don't get involved
-		diplomatic_influence = { who = FROM value = -50 }
-		ai_chance = { factor = 0 }
-	}
-}	
+  id = 1014201
+  title = EVT_1014201_NAME
+  desc = EVT_1014201_DESC
+  picture = "orange_revolution"
+  is_triggered_only = yes
 
-country_event = {
-	id = 1014202
-	title = EVT_1014202_NAME
-	# EVT_1014202_NAME;Euromaidan
-	desc = EVT_1014202_DESC
-	# EVT_1014202_DESC;The Ukrainian revolution of February 2014 (also known as the Euromaidan Revolution) took place after a series of violent events involving protesters, riot no_minimum_wage and unknown shooters in capital Kiev that resulted in the ousting of the then-President of Ukraine, Viktor Yanukovych. This was immediately followed by a series of changes in quick succession in Ukraine's sociopolitical system, including the formation of a new interim government, the restoration of the previous constitution, and the call to hold impromptu presidential elections within months.
-	picture = "euromaidan"
-	fire_only_once = yes
-	
-	trigger = {
-		war = no
-		tag = UKR
-		OR = { year = 2010 UKR = { has_country_modifier = in_bankrupcy } } # year or bankrupt by 32506/32507
-		UKR = { in_sphere = RUS }
-	}
-
-	mean_time_to_happen = {
-		months = 1
-	}
-
-	option = {
-		name = EVT_1014202_A
-		# EVT_1014202_A;Turn to Europe
-		GER = { country_event = 1014203 }
-		random_country = { limit = { tag = RUS war = no UKR = { owns = 964 } } country_event = 1014204 }
-		ai_chance = { factor = 100 }
-	}
-
-	option = {
-		name = EVT_1014202_B
-		# EVT_1014202_B;Stay in power
-		any_pop = { militancy = 3 consciousness = 1 }
-		ai_chance = { factor = 0 }
-	}
+  option = {
+    name = EVT_1014201_A
+    # EVT_1014201_A;Spread democracy
+    diplomatic_influence = { who = FROM value = 100 }
+    ai_chance = { factor = 100 }
+  }
+  option = {
+    name = EVT_1014201_B
+    # EVT_1014201_B;Don't get involved
+    diplomatic_influence = { who = FROM value = -50 }
+    ai_chance = { factor = 0 }
+  }
 }
 
 country_event = {
-	id = 1014203
-	title = EVT_1014202_NAME
-	desc = EVT_1014202_DESC
-	picture = "euromaidan"
-	is_triggered_only = yes
-	
-	option = {
-		name = EVT_1014203_A
-		# EVT_1014203_A;Spread democracy
-		diplomatic_influence = { who = FROM value = 100 }
-		ai_chance = { factor = 100 }
-	}
-	option = {
-		name = EVT_1014203_B
-		# EVT_1014203_B;Don't get involved
-		diplomatic_influence = { who = FROM value = 100 }
-		ai_chance = { factor = 0 }
-	}
-}	
-	
-country_event = {
-	id = 1014204
-	title = EVT_1014204_NAME
-	# EVT_1014204_NAME;Annexation of Crimea by the $COUNTRY$
-	desc = EVT_1014204_DESC
-	# EVT_1014204_DESC;The military intervention and annexation by Russia took place in the aftermath of the Ukrainian Revolution. It was a part of the wider unrest across southern and eastern Ukraine.[31][32] On 22–23 February, Russian President Vladimir Putin convened an all-night meeting with security services chiefs to discuss extrication of deposed President, Viktor Yanukovych, and at the end of that meeting Putin had remarked that "we must start working on returning Crimea to Russia.
-	picture = "crimea_annexation"
-	fire_only_once = yes
-	
-	trigger = {
-		war = no
-		tag = RUS
-		government = populist_dictatorship
-		NOT = { relation = { who = UKR value = -50 } }
-		exists = UKR
-		UKR = { NOT = { in_sphere = RUS } owns = 964 }
-		NOT = { has_country_flag = euromaidan_UKR }
-	}
+  id = 1014202
+  title = EVT_1014202_NAME
+  # EVT_1014202_NAME;Euromaidan
+  desc = EVT_1014202_DESC
+  # EVT_1014202_DESC;The Ukrainian revolution of February 2014 (also known as the Euromaidan Revolution) took place after a series of violent events involving protesters, riot no_minimum_wage and unknown shooters in capital Kiev that resulted in the ousting of the then-President of Ukraine, Viktor Yanukovych. This was immediately followed by a series of changes in quick succession in Ukraine's sociopolitical system, including the formation of a new interim government, the restoration of the previous constitution, and the call to hold impromptu presidential elections within months.
+  picture = "euromaidan"
+  fire_only_once = yes
 
-	mean_time_to_happen = {
-		months = 1
-	}
+  trigger = {
+    war = no
+    tag = UKR
+    OR = { year = 2010 UKR = { has_country_modifier = in_bankrupcy } } # year or bankrupt by 32506/32507
+    UKR = { in_sphere = RUS }
+  }
 
-	immediate = { diplomatic_influence = { who = UKR value = -100 } set_country_flag = euromaidan_UKR }
-	
-	option = {
-		name = EVT_1014204_A
-		# EVT_1014204_A;Demand return of Criema
-		# infamy this is aginst UN-law
-		badboy = 15
-		set_global_flag = 2014_ukraine_crisis
-		war = {
-			target = UKR
-			attacker_goal = { casus_belli = acquire_core_state state_province_id = 964 }
-			attacker_goal = { casus_belli = liberate_country country = NRO }
-			defender_goal = { casus_belli = status_quo }
-		}
-		ai_chance = { factor = 100 }
-	}
-	option = {
-		name = EVT_1014204_B
-		# EVT_1014204_B;Never mind
-		any_pop = {
-			scaled_militancy = {
-				ideology = populist
-				factor = 2
-			}
-			scaled_consciousness = {
-				ideology = populist
-				factor = 2
-			}
-		}
-		prestige = -20
-		ai_chance = { factor = 0 }
-	}
+  mean_time_to_happen = {
+    months = 1
+  }
+
+  option = {
+    name = EVT_1014202_A
+    # EVT_1014202_A;Turn to Europe
+    GER = { country_event = 1014203 }
+    random_country = { limit = { tag = RUS war = no UKR = { owns = 964 } } country_event = 1014204 }
+    ai_chance = { factor = 100 }
+  }
+
+  option = {
+    name = EVT_1014202_B
+    # EVT_1014202_B;Stay in power
+    any_pop = { militancy = 3 consciousness = 1 }
+    ai_chance = { factor = 0 }
+  }
 }
 
 country_event = {
-	id = 1014205
-	title = EVT_1014205_NAME
-	# EVT_1014205_NAME;The Donetsk People's Republic and Luhansk People's Republic
-	desc = EVT_1014205_DESC
-	# EVT_1014205_DESC;Attempts to seize the Donetsk Regional State Administration (RSA) building began since pro-Russian protests erupted in the eastern and southern regions of Ukraine, in the wake of the 2014 Ukrainian revolution. Pro-Russian protesters occupied the Donetsk RSA from 1–6 March, before being removed by the Security Service of Ukraine (SBU).[59][60] On 6 April, 1,000–2,000 people gathered at a rally in Donetsk to demand a status referendum similar to the one held in Crimea in March.
-	picture = "donetsk"
-	fire_only_once = yes
-	
-	trigger = {
-		war = no
-		tag = RUS
-		exists = NRO
-		has_country_flag = euromaidan_UKR
-		owns = 964
-	}
+  id = 1014203
+  title = EVT_1014202_NAME
+  desc = EVT_1014202_DESC
+  picture = "euromaidan"
+  is_triggered_only = yes
 
-	mean_time_to_happen = {
-		months = 1
-	}
+  option = {
+    name = EVT_1014203_A
+    # EVT_1014203_A;Spread democracy
+    diplomatic_influence = { who = FROM value = 100 }
+    ai_chance = { factor = 100 }
+  }
+  option = {
+    name = EVT_1014203_B
+    # EVT_1014203_B;Don't get involved
+    diplomatic_influence = { who = FROM value = 100 }
+    ai_chance = { factor = 0 }
+  }
+}
 
-	option = {
-		name = EVT_1014205_B
-		# EVT_1014205_B;Support our Russian Brothers and Sisters
-		NRO = { diplomatic_influence = { who = RUS value = 200 } }
-	}
+country_event = {
+  id = 1014204
+  title = EVT_1014204_NAME
+  # EVT_1014204_NAME;Annexation of Crimea by the $COUNTRY$
+  desc = EVT_1014204_DESC
+  # EVT_1014204_DESC;The military intervention and annexation by Russia took place in the aftermath of the Ukrainian Revolution. It was a part of the wider unrest across southern and eastern Ukraine.[31][32] On 22–23 February, Russian President Vladimir Putin convened an all-night meeting with security services chiefs to discuss extrication of deposed President, Viktor Yanukovych, and at the end of that meeting Putin had remarked that "we must start working on returning Crimea to Russia.
+  picture = "crimea_annexation"
+  fire_only_once = yes
+
+  trigger = {
+    war = no
+    tag = RUS
+    government = populist_dictatorship
+    NOT = { relation = { who = UKR value = -50 } }
+    exists = UKR
+    UKR = { NOT = { in_sphere = RUS } owns = 964 }
+    NOT = { has_country_flag = euromaidan_UKR }
+  }
+
+  mean_time_to_happen = {
+    months = 1
+  }
+
+  immediate = { diplomatic_influence = { who = UKR value = -100 } set_country_flag = euromaidan_UKR }
+
+  option = {
+    name = EVT_1014204_A
+    # EVT_1014204_A;Demand return of Criema
+    # infamy this is aginst UN-law
+    badboy = 15
+    set_global_flag = 2014_ukraine_crisis
+    war = {
+      target = UKR
+      attacker_goal = { casus_belli = acquire_core_state state_province_id = 964 }
+      attacker_goal = { casus_belli = liberate_country country = NRO }
+      defender_goal = { casus_belli = status_quo }
+    }
+    ai_chance = { factor = 100 }
+  }
+  option = {
+    name = EVT_1014204_B
+    # EVT_1014204_B;Never mind
+    any_pop = {
+      scaled_militancy = {
+        ideology = populist
+        factor = 2
+      }
+      scaled_consciousness = {
+        ideology = populist
+        factor = 2
+      }
+    }
+    prestige = -20
+    ai_chance = { factor = 0 }
+  }
+}
+
+country_event = {
+  id = 1014205
+  title = EVT_1014205_NAME
+  # EVT_1014205_NAME;The Donetsk People's Republic and Luhansk People's Republic
+  desc = EVT_1014205_DESC
+  # EVT_1014205_DESC;Attempts to seize the Donetsk Regional State Administration (RSA) building began since pro-Russian protests erupted in the eastern and southern regions of Ukraine, in the wake of the 2014 Ukrainian revolution. Pro-Russian protesters occupied the Donetsk RSA from 1–6 March, before being removed by the Security Service of Ukraine (SBU).[59][60] On 6 April, 1,000–2,000 people gathered at a rally in Donetsk to demand a status referendum similar to the one held in Crimea in March.
+  picture = "donetsk"
+  fire_only_once = yes
+
+  trigger = {
+    war = no
+    tag = RUS
+    exists = NRO
+    has_country_flag = euromaidan_UKR
+    owns = 964
+  }
+
+  mean_time_to_happen = {
+    months = 1
+  }
+
+  option = {
+    name = EVT_1014205_B
+    # EVT_1014205_B;Support our Russian Brothers and Sisters
+    NRO = { diplomatic_influence = { who = RUS value = 200 } }
+  }
 }
 
 # EVT_1014206_NAME;Budapest Memorandum on Security Assurances
@@ -239,136 +239,136 @@ country_event = {
 # EVT_1014206_A;Trust the guarantees
 # EVT_1014206_B;No Russia can't be trusted
 country_event = {
-	id = 1014206
-	title = EVT_1014206_NAME
-	desc = EVT_1014206_DESC
-	picture = "budapest_memorandum"
-	
-	trigger = {
-		war = no
-		OR = { tag = UKR tag = KAZ tag = BYE }
-		NOT = { exists = SUN }
-		NOT = { has_country_flag = budapest_memorandum }
-		NOT = { has_country_flag = reject_budapest_memorandum }
-	}
+  id = 1014206
+  title = EVT_1014206_NAME
+  desc = EVT_1014206_DESC
+  picture = "budapest_memorandum"
 
-	mean_time_to_happen = {
-		months = 24
-	}
+  trigger = {
+    war = no
+    OR = { tag = UKR tag = KAZ tag = BYE }
+    NOT = { exists = SUN }
+    NOT = { has_country_flag = budapest_memorandum }
+    NOT = { has_country_flag = reject_budapest_memorandum }
+  }
 
-	option = {
-		name = EVT_1014206_A
-		set_country_flag = budapest_memorandum
-		add_country_modifier = {
-			name = non_proliferation_treaty
-			duration = 3650
-		}
-		prestige = 5
-		ai_chance = { factor = 100 }
-	}
-	
-	option = {
-		name = EVT_1014206_B
-		badboy = 10
-		set_country_flag = reject_budapest_memorandum
-		set_country_flag = has_the_atomic_bomb
-		add_country_modifier = {
-			name = has_the_atomic_bomb
-			duration = 5475
-		}
-		ai_chance = { factor = 0 }
-	}
-	
+  mean_time_to_happen = {
+    months = 24
+  }
+
+  option = {
+    name = EVT_1014206_A
+    set_country_flag = budapest_memorandum
+    add_country_modifier = {
+      name = non_proliferation_treaty
+      duration = 3650
+    }
+    prestige = 5
+    ai_chance = { factor = 100 }
+  }
+
+  option = {
+    name = EVT_1014206_B
+    badboy = 10
+    set_country_flag = reject_budapest_memorandum
+    set_country_flag = has_the_atomic_bomb
+    add_country_modifier = {
+      name = has_the_atomic_bomb
+      duration = 5475
+    }
+    ai_chance = { factor = 0 }
+  }
+
 }
 
 country_event = {
-	id = 1014207
-	title = EVT_1014207_NAME
-	# EVT_1014207_NAME;International sanctions during the Ukrainian crisis
-	desc = EVT_1014207_DESC
-	# EVT_1014207_DESC;The Russian military intervention in Ukraine, which began in late February 2014, prompted a number of governments to apply sanctions against individuals, businesses and officials from Russia and Ukraine. Sanctions were approved by the United States, the European Union and other countries and international organisations. Russia has responded with sanctions against a number of countries, including a total ban on food imports from the EU, United States, Norway, Canada and Australia. The sanctions contributed to the collapse of the Russian ruble and the Russian financial crisis. They also caused economic damage to a number of EU countries, with the total losses estimated at €100 billion.
-	picture = "economic_sanctions_on_russia_2014"
-	fire_only_once = yes
+  id = 1014207
+  title = EVT_1014207_NAME
+  # EVT_1014207_NAME;International sanctions during the Ukrainian crisis
+  desc = EVT_1014207_DESC
+  # EVT_1014207_DESC;The Russian military intervention in Ukraine, which began in late February 2014, prompted a number of governments to apply sanctions against individuals, businesses and officials from Russia and Ukraine. Sanctions were approved by the United States, the European Union and other countries and international organisations. Russia has responded with sanctions against a number of countries, including a total ban on food imports from the EU, United States, Norway, Canada and Australia. The sanctions contributed to the collapse of the Russian ruble and the Russian financial crisis. They also caused economic damage to a number of EU countries, with the total losses estimated at €100 billion.
+  picture = "economic_sanctions_on_russia_2014"
+  fire_only_once = yes
 
-	trigger = {
-		war = no
-		has_global_flag = 2014_ukraine_crisis
-		has_country_flag = xeu_ambition
-	        NOT = { tag = TUR }
-		OR = {
-			has_country_modifier = alliance_nato
-			has_global_flag = 2014_ukraine_crisis
-	        	NOT = { tag = TUR }
-		}
-		OR = {
-			tag = AST
-			relation = { who = USA value = 100 }
-			has_global_flag = 2014_ukraine_crisis
-		}
-		OR = {
-			tag = NZL
-			relation = { who = USA value = 100 }
-			has_global_flag = 2014_ukraine_crisis
-		}
-		OR = {
-			tag = JAP
-			relation = { who = USA value = 100 }
-			has_global_flag = 2014_ukraine_crisis
-		}
-		OR = {
-			tag = UKR
-			relation = { who = RUS value = -100 }
-			NOT = { in_sphere = RUS }
-			has_global_flag = 2014_ukraine_crisis
-		}
-		OR = {
-			tag = GEO
-			relation = { who = RUS value = -100 }
-			NOT = { in_sphere = RUS }
-			has_global_flag = 2014_ukraine_crisis
-		}
-		OR = {
-			tag = SWI
-			government = democracy
-			government = hms_government
-			has_global_flag = 2014_ukraine_crisis
-		}
-		OR = {
-			tag = ALB
-			relation = { who = USA value = 100 }
-			NOT = { in_sphere = RUS }
-			has_global_flag = 2014_ukraine_crisis
-		}
-		OR = {
-			tag = MON
-			relation = { who = USA value = 100 }
-			NOT = { in_sphere = RUS }
-			has_global_flag = 2014_ukraine_crisis
-		}
-		OR = {
-			tag = KOS
-			relation = { who = USA value = 100 }
-			NOT = { in_sphere = RUS }
-			has_global_flag = 2014_ukraine_crisis
-		}
-	}
+  trigger = {
+    war = no
+    has_global_flag = 2014_ukraine_crisis
+    has_country_flag = xeu_ambition
+    NOT = { tag = TUR }
+    OR = {
+      has_country_modifier = alliance_nato
+      has_global_flag = 2014_ukraine_crisis
+      NOT = { tag = TUR }
+    }
+    OR = {
+      tag = AST
+      relation = { who = USA value = 100 }
+      has_global_flag = 2014_ukraine_crisis
+    }
+    OR = {
+      tag = NZL
+      relation = { who = USA value = 100 }
+      has_global_flag = 2014_ukraine_crisis
+    }
+    OR = {
+      tag = JAP
+      relation = { who = USA value = 100 }
+      has_global_flag = 2014_ukraine_crisis
+    }
+    OR = {
+      tag = UKR
+      relation = { who = RUS value = -100 }
+      NOT = { in_sphere = RUS }
+      has_global_flag = 2014_ukraine_crisis
+    }
+    OR = {
+      tag = GEO
+      relation = { who = RUS value = -100 }
+      NOT = { in_sphere = RUS }
+      has_global_flag = 2014_ukraine_crisis
+    }
+    OR = {
+      tag = SWI
+      government = democracy
+      government = hms_government
+      has_global_flag = 2014_ukraine_crisis
+    }
+    OR = {
+      tag = ALB
+      relation = { who = USA value = 100 }
+      NOT = { in_sphere = RUS }
+      has_global_flag = 2014_ukraine_crisis
+    }
+    OR = {
+      tag = MON
+      relation = { who = USA value = 100 }
+      NOT = { in_sphere = RUS }
+      has_global_flag = 2014_ukraine_crisis
+    }
+    OR = {
+      tag = KOS
+      relation = { who = USA value = 100 }
+      NOT = { in_sphere = RUS }
+      has_global_flag = 2014_ukraine_crisis
+    }
+  }
 
-	mean_time_to_happen = {
-		months = 1
-	}
-	
-	option = {
-		name = EVT_1014207_A
-		# EVT_1014207_A;Apply sanctions on Russia
-		casus_belli = { target = RUS type = sanctions months = 12 }
-		ai_chance = { factor = 100 }
-		relation = { who = RUS value = -100 }
-	}
+  mean_time_to_happen = {
+    months = 1
+  }
 
-	option = {
-		name = EVT_1014207_B
-		# EVT_1014207_B;Don't even bother with this minor issue
-		prestige = -5
-		ai_chance = { factor = 5 }
-	}
+  option = {
+    name = EVT_1014207_A
+    # EVT_1014207_A;Apply sanctions on Russia
+    casus_belli = { target = RUS type = sanctions months = 12 }
+    ai_chance = { factor = 100 }
+    relation = { who = RUS value = -100 }
+  }
+
+  option = {
+    name = EVT_1014207_B
+    # EVT_1014207_B;Don't even bother with this minor issue
+    prestige = -5
+    ai_chance = { factor = 5 }
+  }
 }

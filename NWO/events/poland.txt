@@ -7,16 +7,16 @@ country_event = {
 
   trigger = {
     tag = POL
-	year = 1970 NOT = { year = 1979 }
-    
-	government = proletarian_dictatorship
+    year = 1970 NOT = { year = 1979 }
+
+    government = proletarian_dictatorship
   }
 
   mean_time_to_happen = { months = 5  }
 
   option = {
     name = EVT_8023216_A
-	any_pop = { militancy = 1.0 consciousness = 2 }
+    any_pop = { militancy = 1.0 consciousness = 2 }
   }
 }
 country_event = {
@@ -28,9 +28,9 @@ country_event = {
 
   trigger = {
     tag = POL
-	year = 1980 NOT = { year = 1991 }
-    
-	government = proletarian_dictatorship
+    year = 1980 NOT = { year = 1991 }
+
+    government = proletarian_dictatorship
     war = no
   }
 
@@ -38,16 +38,16 @@ country_event = {
 
   option = {
     name = EVT_8023217_A
-	any_pop = { militancy = -0.5 consciousness = 0.5 }
-	SUN  = { country_event = 8225001 } 
-	SUN = { country_event =  8023237 } 
-	ai_chance = { factor = 100 }
+    any_pop = { militancy = -0.5 consciousness = 0.5 }
+    SUN  = { country_event = 8225001 }
+    SUN = { country_event =  8023237 }
+    ai_chance = { factor = 100 }
   }
 
   option = {
     name = EVT_8023217_B
-	any_pop = { militancy = 1.5 consciousness = 2 }
-	ai_chance = { factor = 0 }
+    any_pop = { militancy = 1.5 consciousness = 2 }
+    ai_chance = { factor = 0 }
   }
 }
 country_event = {
@@ -59,15 +59,15 @@ country_event = {
 
   trigger = {
     tag = POL
-    
-	government = proletarian_dictatorship
-	year = 1980 NOT = { year = 1990 }
-	average_militancy  = 5.0
+
+    government = proletarian_dictatorship
+    year = 1980 NOT = { year = 1990 }
+    average_militancy  = 5.0
   }
 
   option = {
     name = OK
-	set_country_flag = polish_martial_law
+    set_country_flag = polish_martial_law
   }
 }
 country_event = {
@@ -79,23 +79,23 @@ country_event = {
 
   trigger = {
     tag = POL
-	year = 1944 NOT = { year = 1945 }
-	government = proletarian_dictatorship
-    
+    year = 1944 NOT = { year = 1945 }
+    government = proletarian_dictatorship
+
   }
 
   mean_time_to_happen = { months = 1  }
 
   option = {
     name = EVT_8023226_A
-	relation = { who = GBR value = -100 }
-	ai_chance = { factor = 100 }
+    relation = { who = GBR value = -100 }
+    ai_chance = { factor = 100 }
   }
 
   option = {
     name = EVT_8023226_B
-	relation = { who = GBR value = 50 }
-	ai_chance = { factor = 0 }
+    relation = { who = GBR value = 50 }
+    ai_chance = { factor = 0 }
   }
 }
 country_event = {
@@ -107,25 +107,25 @@ country_event = {
 
   trigger = {
     tag = POL
-	year = 1946 NOT = { year = 1950 }
-	government = democracy
+    year = 1946 NOT = { year = 1950 }
+    government = democracy
   }
 
   mean_time_to_happen = { months = 1  }
-  
+
   immediate = { random_country = { limit = { tag = SUN government = proletarian_dictatorship ai = yes } relation = { who = SUN value = 100 } } }
 
   option = {
     name = EVT_8023227_A
-	relation = { who = SUN value = 80 }
-	ai_chance = { factor = 100 }
+    relation = { who = SUN value = 80 }
+    ai_chance = { factor = 100 }
   }
 
   option = {
     name = EVT_8023227_B
-	any_pop = { militancy = 0.5 consciousness = 1 }
-	relation = { who = SUN value = -20 }
-	ai_chance = { factor = 0 }
+    any_pop = { militancy = 0.5 consciousness = 1 }
+    relation = { who = SUN value = -20 }
+    ai_chance = { factor = 0 }
   }
 }
 country_event = {
@@ -137,17 +137,17 @@ country_event = {
 
   trigger = {
     tag = POL
-	year = 1949 NOT = { year = 1960 }
-    
-	government = proletarian_dictatorship
+    year = 1949 NOT = { year = 1960 }
+
+    government = proletarian_dictatorship
   }
 
   mean_time_to_happen = { months = 8 }
 
   option = {
     name = EVT_8023228_A
-	any_pop = { militancy = -0.3 consciousness = -0.5 }
-	add_country_modifier = { name = economic_boom duration = 365 }
+    any_pop = { militancy = -0.3 consciousness = -0.5 }
+    add_country_modifier = { name = economic_boom duration = 365 }
   }
 }
 country_event = {
@@ -159,9 +159,9 @@ country_event = {
 
   trigger = {
     tag = POL
-	year = 1948 NOT = { year = 1949 }
-    
-	government = proletarian_dictatorship
+    year = 1948 NOT = { year = 1949 }
+
+    government = proletarian_dictatorship
   }
 
   mean_time_to_happen = { months = 1  }
@@ -179,16 +179,16 @@ country_event = {
 
   trigger = {
     tag = POL
-	year = 1948 NOT = { year = 1949 }
-    
-	government = proletarian_dictatorship
+    year = 1948 NOT = { year = 1949 }
+
+    government = proletarian_dictatorship
   }
 
   mean_time_to_happen = { months = 1  }
 
   option = {
     name = EVT_8023230_A
-	any_pop = { militancy = 0.5 consciousness = 0.1 }
+    any_pop = { militancy = 0.5 consciousness = 0.1 }
   }
 }
 country_event = {
@@ -200,17 +200,17 @@ country_event = {
 
   trigger = {
     tag = POL
-	year = 1954 NOT = { year = 1965 }
-    
-	government = proletarian_dictatorship
+    year = 1954 NOT = { year = 1965 }
+
+    government = proletarian_dictatorship
   }
 
   mean_time_to_happen = { months = 6  }
 
   option = {
     name = EVT_8023231_A
-	any_pop = { militancy = 1.0 consciousness = 0.5 }
-	add_country_modifier = { name = economic_boom duration = 365 }
+    any_pop = { militancy = 1.0 consciousness = 0.5 }
+    add_country_modifier = { name = economic_boom duration = 365 }
   }
 }
 country_event = {
@@ -222,9 +222,9 @@ country_event = {
 
   trigger = {
     tag = POL
-	year = 1956 NOT = { year = 1957 }
-    
-	government = proletarian_dictatorship
+    year = 1956 NOT = { year = 1957 }
+
+    government = proletarian_dictatorship
   }
   immediate = { set_global_flag = event_fired_8023232 }
 
@@ -232,7 +232,7 @@ country_event = {
 
   option = {
     name = EVT_8023232_A
-	any_pop = { militancy = 1.5 consciousness = 2 }
+    any_pop = { militancy = 1.5 consciousness = 2 }
   }
 }
 country_event = {
@@ -244,24 +244,24 @@ country_event = {
 
   trigger = {
     tag = POL
-	year = 1956 NOT = { year = 1967 }
-    
-	has_global_flag = event_fired_8023232
-	government = proletarian_dictatorship
+    year = 1956 NOT = { year = 1967 }
+
+    has_global_flag = event_fired_8023232
+    government = proletarian_dictatorship
   }
 
   mean_time_to_happen = { months = 1  }
 
   option = {
     name = EVT_8023233_A
-	any_pop = { militancy = -1.0 consciousness = 1 }
-	ai_chance = { factor = 100 }
+    any_pop = { militancy = -1.0 consciousness = 1 }
+    ai_chance = { factor = 100 }
   }
 
   option = {
     name = EVT_8023233_B
-	any_pop = { militancy = 0.5 consciousness = -0.5 }
-	ai_chance = { factor = 0 }
+    any_pop = { militancy = 0.5 consciousness = -0.5 }
+    ai_chance = { factor = 0 }
   }
 }
 country_event = {
@@ -273,17 +273,17 @@ country_event = {
 
   trigger = {
     tag = POL
-	year = 1963 NOT = { year = 1970 }
+    year = 1963 NOT = { year = 1970 }
     NOT = { has_country_flag = poland_west_littlegains }
-	government = proletarian_dictatorship
+    government = proletarian_dictatorship
   }
 
   mean_time_to_happen = { months = 1  }
 
   option = {
     name = EVT_8023234_A
-	relation = { who = SUN value = 100 }
-	set_country_flag = poland_west_littlegains
+    relation = { who = SUN value = 100 }
+    set_country_flag = poland_west_littlegains
   }
 }
 country_event = {
@@ -295,15 +295,15 @@ country_event = {
 
   trigger = {
     tag = POL
-	year = 1954 NOT = { year = 1960 }
-	government = proletarian_dictatorship
+    year = 1954 NOT = { year = 1960 }
+    government = proletarian_dictatorship
   }
 
   mean_time_to_happen = { months = 2 }
 
   option = {
     name = EVT_8023235_A
-	any_pop = { militancy = 0.5 consciousness = 0.5 }
+    any_pop = { militancy = 0.5 consciousness = 0.5 }
   }
 }
 country_event = {
@@ -315,16 +315,16 @@ country_event = {
 
   trigger = {
     tag = POL
-	year = 1977 NOT = { year = 1990 }
-    
-	government = proletarian_dictatorship
+    year = 1977 NOT = { year = 1990 }
+
+    government = proletarian_dictatorship
   }
 
   mean_time_to_happen = { months = 2 }
 
   option = {
     name = EVT_8023236_A
-	# any_pop = { more religious } 
+    # any_pop = { more religious }
   }
 }
 country_event = {
@@ -338,17 +338,17 @@ country_event = {
 
   option = {
     name = EVT_8023237_A
-	any_pop = { militancy = -0.2 consciousness = 1 }
-	POL = { country_event = 8023238 } 
-	ai_chance = { factor = 100 }
+    any_pop = { militancy = -0.2 consciousness = 1 }
+    POL = { country_event = 8023238 }
+    ai_chance = { factor = 100 }
   }
 
   option = {
     name = EVT_8023237_B
-	any_pop = { militancy = 1.0 consciousness = 0.5 }
-	POL = { country_event = 8023239 } 
-	SUN  = { country_event = 8225001 }
-	ai_chance = { factor = 0 }
+    any_pop = { militancy = 1.0 consciousness = 0.5 }
+    POL = { country_event = 8023239 }
+    SUN  = { country_event = 8225001 }
+    ai_chance = { factor = 0 }
   }
 }
 country_event = {
@@ -358,22 +358,22 @@ country_event = {
   picture = "nwo2_solidarity"
   fire_only_once = yes
   is_triggered_only = yes
-  
+
   mean_time_to_happen = { months = 1  }
 
   option = {
     name = EVT_8023238_A
-	any_pop = { militancy = -0.5 consciousness = 1 }
-	country_event = 8023218 
-	ai_chance = { factor = 100 }
+    any_pop = { militancy = -0.5 consciousness = 1 }
+    country_event = 8023218
+    ai_chance = { factor = 100 }
   }
 
   option = {
     name = EVT_8023238_B
-	overlord = { release_vassal = THIS } 
-	SUN = { end_military_access = THIS } 
-	SUN = { country_event = 8023240 } 
-	ai_chance = { factor = 0 }	
+    overlord = { release_vassal = THIS }
+    SUN = { end_military_access = THIS }
+    SUN = { country_event = 8023240 }
+    ai_chance = { factor = 0 }
   }
 }
 country_event = {
@@ -382,11 +382,11 @@ country_event = {
   desc = EVT_8023239_DESC
   picture = "nwo2_solidarity_victory"
   is_triggered_only = yes
-  
+
   option = {
     name = EVT_8023239_A
-	relation = { who = SUN value = -100 } 
-	any_pop = { militancy = -2.0 consciousness = -2 }
+    relation = { who = SUN value = -100 }
+    any_pop = { militancy = -2.0 consciousness = -2 }
   }
 }
 country_event = {
@@ -398,9 +398,9 @@ country_event = {
 
   option = {
     name = EVT_8023240_A
-	create_vassal = POL 
-	SUN  = { country_event = 8225000 } 
-	country_event = 8023241 
+    create_vassal = POL
+    SUN  = { country_event = 8225000 }
+    country_event = 8023241
   }
 }
 country_event = {
@@ -412,8 +412,8 @@ country_event = {
 
   option = {
     name = EVT_8023241_A
-	any_pop = { militancy = 2.5 consciousness = 3 }
-	relation = { who = SUN value = 50 } 
+    any_pop = { militancy = 2.5 consciousness = 3 }
+    relation = { who = SUN value = 50 }
   }
 }
 country_event = {
@@ -426,25 +426,25 @@ country_event = {
   trigger = {
     tag = POL
     has_global_flag = autumn_of_nations
-	government = proletarian_dictatorship
-	OR = { vassal_of = SUN is_vassal = no }
-	war = no
+    government = proletarian_dictatorship
+    OR = { vassal_of = SUN is_vassal = no }
+    war = no
   }
 
   mean_time_to_happen = { months = 1  }
 
   option = {
     name = EVT_8023243_A
-	any_pop = { militancy = -2 consciousness = 0.5 }
-	country_event =  { id = 8023244 days = 90 } 
-	overlord = { country_event = 8014250 } 
-	ai_chance = { factor = 100 }
+    any_pop = { militancy = -2 consciousness = 0.5 }
+    country_event =  { id = 8023244 days = 90 }
+    overlord = { country_event = 8014250 }
+    ai_chance = { factor = 100 }
   }
 
   option = {
     name = EVT_8023243_B
-	any_pop = { militancy = 3.0 consciousness = 2 }
-	ai_chance = { factor = 0 }
+    any_pop = { militancy = 3.0 consciousness = 2 }
+    ai_chance = { factor = 0 }
   }
 }
 country_event = {
@@ -456,15 +456,15 @@ country_event = {
 
   option = {
     name = EVT_8023244_A
-	any_pop = { militancy = -2 consciousness = 0.5 }
-	country_event = 8023245
-	ai_chance = { factor = 100 }
+    any_pop = { militancy = -2 consciousness = 0.5 }
+    country_event = 8023245
+    ai_chance = { factor = 100 }
   }
 
   option = {
     name = EVT_8023244_B
-	any_pop = { militancy = 3.0 consciousness = 2 }
-	ai_chance = { factor = 0 }	
+    any_pop = { militancy = 3.0 consciousness = 2 }
+    ai_chance = { factor = 0 }
   }
 }
 country_event = {
@@ -473,10 +473,10 @@ country_event = {
   desc = EVT_8023245_DESC
   picture = "nwo2_crowned_eagle"
   is_triggered_only = yes
-  
+
   option = {
     name = EVT_8023245_A
-	government = hms_government country_event = 800054
+    government = hms_government country_event = 800054
   }
 }
 
@@ -489,22 +489,22 @@ country_event = { # Movement for Defense of Human and Civic Rights
 
   trigger = {
     tag = POL
-	year = 1977 NOT = { year = 1990 }
-    
-	government = proletarian_dictatorship
+    year = 1977 NOT = { year = 1990 }
+
+    government = proletarian_dictatorship
   }
 
   mean_time_to_happen = { months = 2 }
 
   option = {
     name = EVT_8023246_A
-	any_pop = { militancy = 0.5 consciousness = 1 } 
-	ai_chance = { factor = 100 }
+    any_pop = { militancy = 0.5 consciousness = 1 }
+    ai_chance = { factor = 100 }
   }
   option = {
     name = EVT_8023246_B
-	prestige = -10
-	ai_chance = { factor = 100 }
+    prestige = -10
+    ai_chance = { factor = 100 }
   }
 }
 country_event = { # Workers' Defence Committee
@@ -516,22 +516,22 @@ country_event = { # Workers' Defence Committee
 
   trigger = {
     tag = POL
-	year = 1976 NOT = { year = 1990 }
-    
-	government = proletarian_dictatorship
+    year = 1976 NOT = { year = 1990 }
+
+    government = proletarian_dictatorship
   }
 
   mean_time_to_happen = { months = 10 }
 
   option = {
     name = EVT_8023247_A
-	any_greater_power = { limit = { NOT = { government = proletarian_dictatorship} } relation = { who = THIS value = -50 } }
-	any_pop = { militancy = 0.5 consciousness = 1 } 
+    any_greater_power = { limit = { NOT = { government = proletarian_dictatorship} } relation = { who = THIS value = -50 } }
+    any_pop = { militancy = 0.5 consciousness = 1 }
   }
   option = {
     name = EVT_8023247_B
-	prestige = -5
-	any_pop = { consciousness = 0.5 } 
+    prestige = -5
+    any_pop = { consciousness = 0.5 }
   }
 }
 country_event = {
@@ -544,21 +544,21 @@ country_event = {
   trigger = {
     tag = GER
     year = 1943
-	NOT = { year = 1950 }
+    NOT = { year = 1950 }
     NOT = {
-		exists = POL
-		owns = 711  # Siedlce
-	}
-	SUN = { war_with = GER }
-	owns = 706 # Warsaw
+      exists = POL
+      owns = 711  # Siedlce
+    }
+    SUN = { war_with = GER }
+    owns = 706 # Warsaw
   }
   immediate = { set_global_flag = event_fired_8222000 }
   mean_time_to_happen = { months = 1  }
 
   option = {
     name = EVT_8222000_A
-	798 = { state_scope = { any_owned = { secede_province = POL } } } 
-	POL = { country_event = 8222001 }
+    798 = { state_scope = { any_owned = { secede_province = POL } } }
+    POL = { country_event = 8222001 }
   }
 }
 
@@ -569,21 +569,21 @@ country_event = {
   picture = "nwo2_warsaw_uprising"
 
   is_triggered_only = yes
-  
+
   immediate = { set_global_flag = event_fired_8222001 }
 
   option = {
     name = EVT_8222001_A
-	random_state = { any_pop = { dominant_issue = { value = parties_allowed factor = 0.1 } } }
-	random_state = { any_pop = { dominant_issue = { value = planned_economy factor = 0.45 } } }
-	random_state = { any_pop = { dominant_issue = { value = full_citizenship factor = 0.15 } } }
-	random_state = { any_pop = { dominant_issue = { value = laissez_faire factor = 0.2 } } }
-	random_state = { any_pop = { dominant_issue = { value = pro_military factor = 0.5 } } }
-	random_state = { any_pop = { dominant_issue = { value = jingoism factor = 0.1 } } }
-	random_state = { any_pop = { dominant_issue = { value = interventionism factor = 0.1 } } }
-	define_general = { name = "Cepa" personality = energetic background = no_background }
-	define_general = { name = "Dindorf-Ankowicz" personality = energetic background = no_background }
-	SUN = { military_access = THIS } 
+    random_state = { any_pop = { dominant_issue = { value = parties_allowed factor = 0.1 } } }
+    random_state = { any_pop = { dominant_issue = { value = planned_economy factor = 0.45 } } }
+    random_state = { any_pop = { dominant_issue = { value = full_citizenship factor = 0.15 } } }
+    random_state = { any_pop = { dominant_issue = { value = laissez_faire factor = 0.2 } } }
+    random_state = { any_pop = { dominant_issue = { value = pro_military factor = 0.5 } } }
+    random_state = { any_pop = { dominant_issue = { value = jingoism factor = 0.1 } } }
+    random_state = { any_pop = { dominant_issue = { value = interventionism factor = 0.1 } } }
+    define_general = { name = "Cepa" personality = energetic background = no_background }
+    define_general = { name = "Dindorf-Ankowicz" personality = energetic background = no_background }
+    SUN = { military_access = THIS }
   }
 }
 
@@ -606,13 +606,13 @@ country_event = {
 
   option = {
     name = EVT_8222002_A
-	country_event =  { id = 8222003 days = 1 } 
+    country_event =  { id = 8222003 days = 1 }
   }
 
   option = {
     name = EVT_8222002_B
-	money = -200 
-	random_state = { any_pop = { dominant_issue = { value = interventionism factor = 0.45 } } }
+    money = -200
+    random_state = { any_pop = { dominant_issue = { value = interventionism factor = 0.45 } } }
   }
 }
 
@@ -633,7 +633,7 @@ country_event = {
 
   option = {
     name = "OK"
-	relation = { who = GBR value = 150 } 
+    relation = { who = GBR value = 150 }
   }
 }
 
@@ -656,17 +656,17 @@ country_event = {
 
   option = {
     name = EVT_8222004_A #"Let us regroup and wait"
-	country_event =  { id = 8222005 days = 1 } 
+    country_event =  { id = 8222005 days = 1 }
   }
 
   option = {
     name = EVT_8222004_B #"Offer our full support"
-	any_owned = { 
-		limit = { OR = { province_id = 958 province_id = 798 } }
-		secede_province = POL
-	}
-	money = -400
-	petroleum = -100
+    any_owned = {
+      limit = { OR = { province_id = 958 province_id = 798 } }
+      secede_province = POL
+    }
+    money = -400
+    petroleum = -100
   }
 }
 
@@ -687,8 +687,8 @@ country_event = {
 
   option = {
     name = EVT_8222005_A
-	petroleum = 100
-	relation = { who = SUN value = 150 } 
+    petroleum = 100
+    relation = { who = SUN value = 150 }
   }
 }
 
@@ -710,7 +710,7 @@ country_event = {
 
   option = {
     name = EVT_8222006_A
-	any_pop = { limit = { culture = polish } militancy = -0.2 consciousness = -0.5 }
+    any_pop = { limit = { culture = polish } militancy = -0.2 consciousness = -0.5 }
   }
 }
 
@@ -732,7 +732,7 @@ country_event = {
 
   option = {
     name = "OK"
-	any_pop = { militancy = -1.0 }
+    any_pop = { militancy = -1.0 }
   }
 }
 country_event = { #"Poland is free"
@@ -745,7 +745,7 @@ country_event = { #"Poland is free"
   trigger = {
     tag = POL
     year = 1943 NOT = { year = 1963 }
-	NOT = { government = proletarian_dictatorship }
+    NOT = { government = proletarian_dictatorship }
     NOT = { has_country_flag  = claim_greater_poland }
   }
 
@@ -753,21 +753,21 @@ country_event = { #"Poland is free"
 
   option = {
     name = EVT_8224000_A
-	set_country_flag = claim_greater_poland 
-	702 = { add_core = POL }
-	951 = { add_core = POL }
-	952 = { add_core = POL }
-	953 = { add_core = POL }
-	955 = { add_core = POL }
-	956 = { add_core = POL }
-	957 = { add_core = POL }
-	937 = { add_core = POL }
-	940 = { add_core = POL }
-	939 = { add_core = POL }
-	936 = { add_core = POL }
-	938 = { add_core = POL }
-	946 = { add_core = POL }
-	947 = { add_core = POL }
-	360 = { add_core = POL }
+    set_country_flag = claim_greater_poland
+    702 = { add_core = POL }
+    951 = { add_core = POL }
+    952 = { add_core = POL }
+    953 = { add_core = POL }
+    955 = { add_core = POL }
+    956 = { add_core = POL }
+    957 = { add_core = POL }
+    937 = { add_core = POL }
+    940 = { add_core = POL }
+    939 = { add_core = POL }
+    936 = { add_core = POL }
+    938 = { add_core = POL }
+    946 = { add_core = POL }
+    947 = { add_core = POL }
+    360 = { add_core = POL }
   }
 }

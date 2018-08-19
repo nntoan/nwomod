@@ -1,220 +1,220 @@
 #Monrovia - Monrovia (908000/227000 POPS)
 1887 = {
-	officers = {
-		culture = anglo_african
-		religion =  protestant 
-		size = 82
-	 } 
-	officers = {
-		culture = anglo_african
-		religion = secularism
-		size = 6
-	 } 
-	soldiers = {
-		culture = anglo_african
-		religion =  protestant 
-		size = 1576
-	 } 
-	soldiers = {
-		culture = anglo_african
-		religion = secularism
-		size = 118
-	 } 
-	aristocrats = {
-		culture = anglo_african
-		religion =  protestant 
-		size = 6785
-	 } 
-	aristocrats = {
-		culture = anglo_african
-		religion = secularism
-		size = 510
-	 } 
-	aristocrats = {
-		culture = kpelle
-		religion =  protestant 
-		size = 1659
-	 } 
-	aristocrats = {
-		culture = kpelle
-		religion = secularism
-		size = 124
-	 } 
-	bureaucrats = {
-		culture = kpelle
-		religion =  protestant 
-		size = 422
-	 } 
-	bureaucrats = {
-		culture = kpelle
-		religion = secularism
-		size = 31
-	 } 
-	capitalists = {
-		culture = kpelle
-		religion =  protestant 
-		size = 1055
-	 } 
-	capitalists = {
-		culture = kpelle
-		religion = secularism
-		size = 79
-	 } 
-	clergymen = {
-		culture = kpelle
-		religion =  protestant 
-		size = 4222
-	 } 
-	clergymen = {
-		culture = kpelle
-		religion = secularism
-		size = 317
-	 } 
-	clerks = {
-		culture = kpelle
-		religion =  protestant 
-		size = 3767
-	 } 
-	clerks = {
-		culture = kpelle
-		religion = secularism
-		size = 283
-	 } 
-	artisans = {
-		culture = kpelle
-		religion =  protestant 
-		size = 3578
-	 } 
-	artisans = {
-		culture = kpelle
-		religion = secularism
-		size = 269
-	 } 
-	craftsmen = {
-		culture = kpelle
-		religion =  protestant 
-		size = 2183
-	 } 
-	craftsmen = {
-		culture = kpelle
-		religion = secularism
-		size = 164
-	 } 
-	craftsmen = {
-		culture = african_minor
-		religion =  catholic 
-		size = 9118
-	 } 
-	craftsmen = {
-		culture = african_minor
-		religion = secularism
-		size = 686
-	 } 
-	farmers = {
-		culture = african_minor
-		religion =  catholic 
-		size = 176658
-	 } 
-	farmers = {
-		culture = african_minor
-		religion = secularism
-		size = 13296
-	 } 
+  officers = {
+    culture = anglo_african
+    religion =  protestant
+    size = 82
+  }
+  officers = {
+    culture = anglo_african
+    religion = secularism
+    size = 6
+  }
+  soldiers = {
+    culture = anglo_african
+    religion =  protestant
+    size = 1576
+  }
+  soldiers = {
+    culture = anglo_african
+    religion = secularism
+    size = 118
+  }
+  aristocrats = {
+    culture = anglo_african
+    religion =  protestant
+    size = 6785
+  }
+  aristocrats = {
+    culture = anglo_african
+    religion = secularism
+    size = 510
+  }
+  aristocrats = {
+    culture = kpelle
+    religion =  protestant
+    size = 1659
+  }
+  aristocrats = {
+    culture = kpelle
+    religion = secularism
+    size = 124
+  }
+  bureaucrats = {
+    culture = kpelle
+    religion =  protestant
+    size = 422
+  }
+  bureaucrats = {
+    culture = kpelle
+    religion = secularism
+    size = 31
+  }
+  capitalists = {
+    culture = kpelle
+    religion =  protestant
+    size = 1055
+  }
+  capitalists = {
+    culture = kpelle
+    religion = secularism
+    size = 79
+  }
+  clergymen = {
+    culture = kpelle
+    religion =  protestant
+    size = 4222
+  }
+  clergymen = {
+    culture = kpelle
+    religion = secularism
+    size = 317
+  }
+  clerks = {
+    culture = kpelle
+    religion =  protestant
+    size = 3767
+  }
+  clerks = {
+    culture = kpelle
+    religion = secularism
+    size = 283
+  }
+  artisans = {
+    culture = kpelle
+    religion =  protestant
+    size = 3578
+  }
+  artisans = {
+    culture = kpelle
+    religion = secularism
+    size = 269
+  }
+  craftsmen = {
+    culture = kpelle
+    religion =  protestant
+    size = 2183
+  }
+  craftsmen = {
+    culture = kpelle
+    religion = secularism
+    size = 164
+  }
+  craftsmen = {
+    culture = african_minor
+    religion =  catholic
+    size = 9118
+  }
+  craftsmen = {
+    culture = african_minor
+    religion = secularism
+    size = 686
+  }
+  farmers = {
+    culture = african_minor
+    religion =  catholic
+    size = 176658
+  }
+  farmers = {
+    culture = african_minor
+    religion = secularism
+    size = 13296
+  }
 }
 #Harper - Harper (307000/76750 POPS)
 1888 = {
-	clergymen = {
-		culture = african_minor
-		religion =  catholic 
-		size = 1427
-	 } 
-	clergymen = {
-		culture = african_minor
-		religion = secularism
-		size = 107
-	 } 
-	farmers = {
-		culture = african_minor
-		religion =  catholic 
-		size = 69949
-	 } 
-	farmers = {
-		culture = african_minor
-		religion = secularism
-		size = 5265
-	 } 
+  clergymen = {
+    culture = african_minor
+    religion =  catholic
+    size = 1427
+  }
+  clergymen = {
+    culture = african_minor
+    religion = secularism
+    size = 107
+  }
+  farmers = {
+    culture = african_minor
+    religion =  catholic
+    size = 69949
+  }
+  farmers = {
+    culture = african_minor
+    religion = secularism
+    size = 5265
+  }
 }
 #Bopolu - Bopolu (307000/76750 POPS)
 1889 = {
-	clergymen = {
-		culture = kpelle
-		religion =  protestant 
-		size = 1427
-	 } 
-	clergymen = {
-		culture = kpelle
-		religion = secularism
-		size = 107
-	 } 
-	farmers = {
-		culture = kpelle
-		religion =  protestant 
-		size = 9278
-	 } 
-	farmers = {
-		culture = kpelle
-		religion = secularism
-		size = 698
-	 } 
-	farmers = {
-		culture = black_muslim
-		religion =  sunni 
-		size = 65237
-	 } 
+  clergymen = {
+    culture = kpelle
+    religion =  protestant
+    size = 1427
+  }
+  clergymen = {
+    culture = kpelle
+    religion = secularism
+    size = 107
+  }
+  farmers = {
+    culture = kpelle
+    religion =  protestant
+    size = 9278
+  }
+  farmers = {
+    culture = kpelle
+    religion = secularism
+    size = 698
+  }
+  farmers = {
+    culture = black_muslim
+    religion =  sunni
+    size = 65237
+  }
 }
 #Gbarnga - Gbarnga (307000/76750 POPS)
 1890 = {
-	clergymen = {
-		culture = kpelle
-		religion =  protestant 
-		size = 1427
-	 } 
-	clergymen = {
-		culture = kpelle
-		religion = secularism
-		size = 107
-	 } 
-	farmers = {
-		culture = kpelle
-		religion =  protestant 
-		size = 69949
-	 } 
-	farmers = {
-		culture = kpelle
-		religion = secularism
-		size = 5265
-	 } 
+  clergymen = {
+    culture = kpelle
+    religion =  protestant
+    size = 1427
+  }
+  clergymen = {
+    culture = kpelle
+    religion = secularism
+    size = 107
+  }
+  farmers = {
+    culture = kpelle
+    religion =  protestant
+    size = 69949
+  }
+  farmers = {
+    culture = kpelle
+    religion = secularism
+    size = 5265
+  }
 }
 #Zwedru - Zwedru (307000/76750 POPS)
 1891 = {
-	clergymen = {
-		culture = african_minor
-		religion =  catholic 
-		size = 1427
-	 } 
-	clergymen = {
-		culture = african_minor
-		religion = secularism
-		size = 107
-	 } 
-	farmers = {
-		culture = african_minor
-		religion =  catholic 
-		size = 69949
-	 } 
-	farmers = {
-		culture = african_minor
-		religion = secularism
-		size = 5265
-	 } 
+  clergymen = {
+    culture = african_minor
+    religion =  catholic
+    size = 1427
+  }
+  clergymen = {
+    culture = african_minor
+    religion = secularism
+    size = 107
+  }
+  farmers = {
+    culture = african_minor
+    religion =  catholic
+    size = 69949
+  }
+  farmers = {
+    culture = african_minor
+    religion = secularism
+    size = 5265
+  }
 }

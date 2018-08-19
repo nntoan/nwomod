@@ -6,24 +6,24 @@ life_rating = 26
 terrain = jungle_hills
 colonial = 2
 1992.1.1 = {
-owner = PUR
-controller = PUR
-add_core = PUR
-railroad = 2
-colonial = 0
-state_building = {
-	level = 2
-	building = home_appliance_factory
-	upgrade = yes
-}
-state_building = {
-	level = 2
-	building = clothes_factory
-	upgrade = yes
-}
-state_building = {
-	level = 2
-	building = fabric_factory
-	upgrade = yes
-}
+  owner = PUR
+  controller = PUR
+  add_core = PUR
+  railroad = 2
+  colonial = 0
+  state_building = {
+    level = 2
+    building = home_appliance_factory
+    upgrade = yes
+  }
+  state_building = {
+    level = 2
+    building = clothes_factory
+    upgrade = yes
+  }
+  state_building = {
+    level = 2
+    building = fabric_factory
+    upgrade = yes
+  }
 }

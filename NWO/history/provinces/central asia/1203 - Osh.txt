@@ -6,8 +6,8 @@ life_rating = 34
 terrain = semi_desert_mountains
 colonial = 2
 1992.1.1 = {
-owner = KYR
-controller = KYR
-add_core = KYR
-colonial = 0
+  owner = KYR
+  controller = KYR
+  add_core = KYR
+  colonial = 0
 }

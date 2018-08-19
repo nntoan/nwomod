@@ -1,8 +1,8 @@
 #Aaiun - Aaiun (29000/7250 POPS)
 1773 = {
-	farmers = {
-		culture = sunni_arab
-		religion =  sunni 
-		size = 7105
-	 } 
+  farmers = {
+    culture = sunni_arab
+    religion =  sunni
+    size = 7105
+  }
 }

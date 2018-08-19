@@ -14,7 +14,7 @@ country_event = {
 
   option = {
     name = EVT_8015408_A
-	prestige = 10
+    prestige = 10
   }
 }
 country_event = { # Tunisian Independence
@@ -26,6 +26,6 @@ country_event = { # Tunisian Independence
 
   option = {
     name = EVT_8015409_A
-	prestige = 10
+    prestige = 10
   }
 }

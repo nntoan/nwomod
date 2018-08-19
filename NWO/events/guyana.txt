@@ -8,23 +8,23 @@ country_event = { # Guyana Independence
   trigger = {
     tag = GBR
     year = 1966 NOT = { year = 1990 }
-	owns = 2239 # Georgetown
+    owns = 2239 # Georgetown
   }
 
   mean_time_to_happen = { months = 2 }
 
   option = {
     name = EVT_8006500_A
-	release = GUY
-	diplomatic_influence = { who = GBR value = 150 }
-	ai_chance = { factor = 100 }
+    release = GUY
+    diplomatic_influence = { who = GBR value = 150 }
+    ai_chance = { factor = 100 }
   }
   option = {
     name = EVT_8006500_B
-	badboy = 2
-	prestige = -10
-	any_pop = { limit = { location = { is_core = GUY } }  militancy = 8 consciousness = 5 }
-	ai_chance = { factor = 0 }
+    badboy = 2
+    prestige = -10
+    any_pop = { limit = { location = { is_core = GUY } }  militancy = 8 consciousness = 5 }
+    ai_chance = { factor = 0 }
   }
 }
 country_event = {
@@ -37,14 +37,14 @@ country_event = {
   trigger = {
     tag = GBR
     year = 1954 NOT = { year = 1990 }
-	owns = 2239 # Georgetown
+    owns = 2239 # Georgetown
   }
 
   mean_time_to_happen = { months = 8 }
 
   option = {
     name = EVT_8006506_A
-	random_state = { any_pop = { dominant_issue = { value = planned_economy factor = 0.35 } } }
+    random_state = { any_pop = { dominant_issue = { value = planned_economy factor = 0.35 } } }
   }
 }
 country_event = {
@@ -64,7 +64,7 @@ country_event = {
 
   option = {
     name = EVT_8006518_A
-	any_pop = { consciousness = 2 }
+    any_pop = { consciousness = 2 }
   }
 }
 
@@ -78,23 +78,23 @@ country_event = { # Suriname Independence
   trigger = {
     tag = NET
     year = 1973 NOT = { year = 1990 }
-	owns = 2240 # Paramaribo
-	war = no
+    owns = 2240 # Paramaribo
+    war = no
   }
 
   mean_time_to_happen = { months = 2 }
 
   option = {
     name = EVT_8006550_A
-	release = SUR
-	SUR = { any_pop = { limit = { NOT = { strata = poor } } move_pop = 375 } } # Amsterdam
-	ai_chance = { factor = 100 }
+    release = SUR
+    SUR = { any_pop = { limit = { NOT = { strata = poor } } move_pop = 375 } } # Amsterdam
+    ai_chance = { factor = 100 }
   }
   option = {
     name = EVT_8006550_B
-	badboy = 2
-	prestige = -10
-	any_pop = { limit = { location = { is_core = SUR } }  militancy = 8 consciousness = 5 }
-	ai_chance = { factor = 0 }
+    badboy = 2
+    prestige = -10
+    any_pop = { limit = { location = { is_core = SUR } }  militancy = 8 consciousness = 5 }
+    ai_chance = { factor = 0 }
   }
 }

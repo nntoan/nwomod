@@ -6,13 +6,13 @@ life_rating = 37
 terrain = urban_lima
 colonial = 0
 state_building = {
-	level = 1
-	building = home_appliance_factory
-	upgrade = yes
+  level = 1
+  building = home_appliance_factory
+  upgrade = yes
 }
 1992.1.1 = {
-owner = PEU
-controller = PEU
-add_core = PEU
-colonial = 0
+  owner = PEU
+  controller = PEU
+  add_core = PEU
+  colonial = 0
 }

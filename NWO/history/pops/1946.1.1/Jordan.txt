@@ -1,90 +1,90 @@
 #Amman - Amman (314000/78500 POPS)
 908 = {
-	officers = {
-		culture = sunni_arab
-		religion =  sunni 
-		size = 1644
-	 } 
-	soldiers = {
-		culture = sunni_arab
-		religion =  sunni 
-		size = 31244
-	 } 
-	aristocrats = {
-		culture = sunni_arab
-		religion =  sunni 
-		size = 3140
-	 } 
-	clergymen = {
-		culture = sunni_arab
-		religion =  sunni 
-		size = 1570
-	 } 
-	farmers = {
-		culture = sunni_arab
-		religion =  sunni 
-		size = 7029
-	 } 
-	farmers = {
-		culture = circassians
-		religion =  sunni 
-		size = 7850
-	 } 
-	farmers = {
-		culture = christian_arab
-		religion =  orthodox 
-		size = 24868
-	 } 
-	farmers = {
-		culture = christian_arab
-		religion = secularism
-		size = 251
-	 } 
+  officers = {
+    culture = sunni_arab
+    religion =  sunni
+    size = 1644
+  }
+  soldiers = {
+    culture = sunni_arab
+    religion =  sunni
+    size = 31244
+  }
+  aristocrats = {
+    culture = sunni_arab
+    religion =  sunni
+    size = 3140
+  }
+  clergymen = {
+    culture = sunni_arab
+    religion =  sunni
+    size = 1570
+  }
+  farmers = {
+    culture = sunni_arab
+    religion =  sunni
+    size = 7029
+  }
+  farmers = {
+    culture = circassians
+    religion =  sunni
+    size = 7850
+  }
+  farmers = {
+    culture = christian_arab
+    religion =  orthodox
+    size = 24868
+  }
+  farmers = {
+    culture = christian_arab
+    religion = secularism
+    size = 251
+  }
 }
 #Jerash - Jerash (129000/32250 POPS)
 909 = {
-	farmers = {
-		culture = sunni_arab
-		religion =  sunni 
-		size = 21930
-	 } 
-	farmers = {
-		culture = christian_arab
-		religion =  orthodox 
-		size = 9578
-	 } 
-	farmers = {
-		culture = christian_arab
-		religion = secularism
-		size = 96
-	 } 
+  farmers = {
+    culture = sunni_arab
+    religion =  sunni
+    size = 21930
+  }
+  farmers = {
+    culture = christian_arab
+    religion =  orthodox
+    size = 9578
+  }
+  farmers = {
+    culture = christian_arab
+    religion = secularism
+    size = 96
+  }
 }
 #Ruwayshid - Ruwayshid (63000/15750 POPS)
 910 = {
-	farmers = {
-		culture = sunni_arab
-		religion =  sunni 
-		size = 15435
-	 } 
+  farmers = {
+    culture = sunni_arab
+    religion =  sunni
+    size = 15435
+  }
 }
 #Maan - Maan (10000/2500 POPS)
 911 = {
-	clergymen = {
-		culture = sunni_arab
-		religion =  sunni 
-		size = 50
-	 } 
-	farmers = {
-		culture = sunni_arab
-		religion =  sunni 
-		size = 2450
-	 } 
+  clergymen = {
+    culture = sunni_arab
+    religion =  sunni
+    size = 50
+  }
+  farmers = {
+    culture = sunni_arab
+    religion =  sunni
+    size = 2450
+  }
 }
 #Aqaba - Aqaba (41000/10250 POPS)
 922 = {
-	farmers = {
-		culture = sunni_arab
-		religion =  sunni 
-		size = 10045
-	 } 
+  farmers = {
+    culture = sunni_arab
+    religion =  sunni
+    size = 10045
+  }
 }

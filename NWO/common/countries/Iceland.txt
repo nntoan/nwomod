@@ -1,130 +1,130 @@
 graphical_culture = EuropeanGC
 color = { 62 129 155 }
 party = {
-		name = "party_conservative_0_ICL"
-		citizenship_policy = limited_citizenship
-		economic_policy = interventionism
-		ideology = conservative
-		religious_policy = secularized
-		trade_policy = free_trade
-		war_policy = pro_military
-		start_date = 1836.1.1
-		end_date = 2300.1.1
+  name = "party_conservative_0_ICL"
+  citizenship_policy = limited_citizenship
+  economic_policy = interventionism
+  ideology = conservative
+  religious_policy = secularized
+  trade_policy = free_trade
+  war_policy = pro_military
+  start_date = 1836.1.1
+  end_date = 2300.1.1
 }
 party = {
-		name = "party_liberal_0_ICL"
-		citizenship_policy = full_citizenship
-		economic_policy = laissez_faire
-		ideology = liberal
-		religious_policy = secularized
-		trade_policy = free_trade
-		war_policy = pacifism
-		start_date = 1836.1.1
-		end_date = 2300.1.1
+  name = "party_liberal_0_ICL"
+  citizenship_policy = full_citizenship
+  economic_policy = laissez_faire
+  ideology = liberal
+  religious_policy = secularized
+  trade_policy = free_trade
+  war_policy = pacifism
+  start_date = 1836.1.1
+  end_date = 2300.1.1
 }
 party = {
-		name = "party_socialist_0_ICL"
-		citizenship_policy = limited_citizenship
-		economic_policy = state_capitalism
-		ideology = socialist
-		religious_policy = pro_atheism
-		trade_policy = protectionism
-		war_policy = pacifism
-		start_date = 1836.1.1
-		end_date = 2300.1.1
+  name = "party_socialist_0_ICL"
+  citizenship_policy = limited_citizenship
+  economic_policy = state_capitalism
+  ideology = socialist
+  religious_policy = pro_atheism
+  trade_policy = protectionism
+  war_policy = pacifism
+  start_date = 1836.1.1
+  end_date = 2300.1.1
 }
 party = {
-		name = "party_progressive_0_ICL"
-		citizenship_policy = full_citizenship
-		economic_policy = interventionism
-		ideology = progressive
-		religious_policy = pro_atheism
-		trade_policy = protectionism
-		war_policy = pacifism
-		start_date = 1836.1.1
-		end_date = 2300.1.1
+  name = "party_progressive_0_ICL"
+  citizenship_policy = full_citizenship
+  economic_policy = interventionism
+  ideology = progressive
+  religious_policy = pro_atheism
+  trade_policy = protectionism
+  war_policy = pacifism
+  start_date = 1836.1.1
+  end_date = 2300.1.1
 }
 party = {
-		name = "party_progressive_1_ICL"
-		citizenship_policy = full_citizenship
-		economic_policy = interventionism
-		ideology = progressive
-		religious_policy = pro_atheism
-		trade_policy = protectionism
-		war_policy = pacifism
-		start_date = 1836.1.1
-		end_date = 2300.1.1
+  name = "party_progressive_1_ICL"
+  citizenship_policy = full_citizenship
+  economic_policy = interventionism
+  ideology = progressive
+  religious_policy = pro_atheism
+  trade_policy = protectionism
+  war_policy = pacifism
+  start_date = 1836.1.1
+  end_date = 2300.1.1
 }
 party = {
-		name = "party_populist_0_ICL"
-		citizenship_policy = residency
-		economic_policy = state_capitalism
-		ideology = populist
-		religious_policy = secularized
-		trade_policy = protectionism
-		war_policy = jingoism
-		start_date = 1836.1.1
-		end_date = 2300.1.1
+  name = "party_populist_0_ICL"
+  citizenship_policy = residency
+  economic_policy = state_capitalism
+  ideology = populist
+  religious_policy = secularized
+  trade_policy = protectionism
+  war_policy = jingoism
+  start_date = 1836.1.1
+  end_date = 2300.1.1
 }
 party = {
-		name = "party_traditionalist_0_ICL"
-		citizenship_policy = residency
-		economic_policy = state_capitalism
-		ideology = traditionalist
-		religious_policy = moralism
-		trade_policy = protectionism
-		war_policy = pro_military
-		start_date = 1836.1.1
-		end_date = 2300.1.1
+  name = "party_traditionalist_0_ICL"
+  citizenship_policy = residency
+  economic_policy = state_capitalism
+  ideology = traditionalist
+  religious_policy = moralism
+  trade_policy = protectionism
+  war_policy = pro_military
+  start_date = 1836.1.1
+  end_date = 2300.1.1
 }
 party = {
-		name = "party_communist_0_ICL"
-		citizenship_policy = full_citizenship
-		economic_policy = planned_economy
-		ideology = communist
-		religious_policy = pro_atheism
-		trade_policy = protectionism
-		war_policy = pacifism
-		start_date = 1836.1.1
-		end_date = 2300.1.1
+  name = "party_communist_0_ICL"
+  citizenship_policy = full_citizenship
+  economic_policy = planned_economy
+  ideology = communist
+  religious_policy = pro_atheism
+  trade_policy = protectionism
+  war_policy = pacifism
+  start_date = 1836.1.1
+  end_date = 2300.1.1
 }
 party = {
-		name = "party_nationalist"
-		citizenship_policy = full_citizenship
-		economic_policy = planned_economy
-		ideology = nationalist
-		religious_policy = secularized
-		trade_policy = protectionism
-		war_policy = pro_military
-		start_date = 1836.1.1
-		end_date = 2300.1.1
+  name = "party_nationalist"
+  citizenship_policy = full_citizenship
+  economic_policy = planned_economy
+  ideology = nationalist
+  religious_policy = secularized
+  trade_policy = protectionism
+  war_policy = pro_military
+  start_date = 1836.1.1
+  end_date = 2300.1.1
 }
 unit_names = {
-	carrier = {
-		Áss Vanr Álfr Jötunn
-	}
-	transportship = {
-	}
-	modern_frigate = {
-		Heimdal "Fridtjof Nansen" Nordkapp
-	}
-	cruiser = {
-		Thor Odin Njord Freyr Tyr Bragl Heimdall Hoder Vidar Ale Ullr Forseti
-	}
-	modern_cruiser = {
-		Áss Vanr Álfr Jötunn
-	}
-	frigate = {
-		Freia Desideira "St Olaf" "Kong Sverre" Ellida Nordssthernen Nornen Nidaros Ørnen
-	}
-	modern_destroyer = {
-		Ellida Sleipner Viking Frithjof Rjukan Sarpen Lougen Glommen
-	}
-	destroyer = {
-		Freia Desideira "St Olaf" "Kong Sverre" Ellida Nordssthernen Nornen Nidaros Ørnen
-	}
-	submarine = {
-		Skorpionen Mjølner Thrudvang
-	}
+  carrier = {
+    ï¿½ss Vanr ï¿½lfr Jï¿½tunn
+  }
+  transportship = {
+  }
+  modern_frigate = {
+    Heimdal "Fridtjof Nansen" Nordkapp
+  }
+  cruiser = {
+    Thor Odin Njord Freyr Tyr Bragl Heimdall Hoder Vidar Ale Ullr Forseti
+  }
+  modern_cruiser = {
+    ï¿½ss Vanr ï¿½lfr Jï¿½tunn
+  }
+  frigate = {
+    Freia Desideira "St Olaf" "Kong Sverre" Ellida Nordssthernen Nornen Nidaros ï¿½rnen
+  }
+  modern_destroyer = {
+    Ellida Sleipner Viking Frithjof Rjukan Sarpen Lougen Glommen
+  }
+  destroyer = {
+    Freia Desideira "St Olaf" "Kong Sverre" Ellida Nordssthernen Nornen Nidaros ï¿½rnen
+  }
+  submarine = {
+    Skorpionen Mjï¿½lner Thrudvang
+  }
 
 }

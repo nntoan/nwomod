@@ -1,882 +1,882 @@
 #Curacao - Curacao (145000/36250 POPS)
 2234 = {
-	officers = {
-		culture = dutch
-		religion =  catholic 
-		size = 37
-	 } 
-	officers = {
-		culture = dutch
-		religion = secularism
-		size = 70
-	 } 
-	soldiers = {
-		culture = dutch
-		religion =  catholic 
-		size = 152
-	 } 
-	soldiers = {
-		culture = dutch
-		religion = secularism
-		size = 282
-	 } 
-	aristocrats = {
-		culture = dutch
-		religion =  catholic 
-		size = 317
-	 } 
-	aristocrats = {
-		culture = dutch
-		religion = secularism
-		size = 588
-	 } 
-	bureaucrats = {
-		culture = dutch
-		religion =  catholic 
-		size = 75
-	 } 
-	bureaucrats = {
-		culture = dutch
-		religion = secularism
-		size = 141
-	 } 
-	clergymen = {
-		culture = dutch
-		religion =  catholic 
-		size = 51
-	 } 
-	clergymen = {
-		culture = dutch
-		religion = secularism
-		size = 94
-	 } 
-	clergymen = {
-		culture = european
-		religion =  protestant 
-		size = 202
-	 } 
-	clergymen = {
-		culture = european
-		religion = secularism
-		size = 376
-	 } 
-	artisans = {
-		culture = european
-		religion =  protestant 
-		size = 51
-	 } 
-	artisans = {
-		culture = european
-		religion = secularism
-		size = 94
-	 } 
-	artisans = {
-		culture = brazilian
-		religion =  catholic 
-		size = 321
-	 } 
-	artisans = {
-		culture = brazilian
-		religion = secularism
-		size = 596
-	 } 
-	farmers = {
-		culture = brazilian
-		religion =  catholic 
-		size = 10082
-	 } 
-	farmers = {
-		culture = brazilian
-		religion = secularism
-		size = 18724
-	 } 
-	farmers = {
-		culture = caribbean_spanish
-		religion =  catholic 
-		size = 1395
-	 } 
-	farmers = {
-		culture = caribbean_spanish
-		religion = secularism
-		size = 2591
-	 } 
+  officers = {
+    culture = dutch
+    religion =  catholic
+    size = 37
+  }
+  officers = {
+    culture = dutch
+    religion = secularism
+    size = 70
+  }
+  soldiers = {
+    culture = dutch
+    religion =  catholic
+    size = 152
+  }
+  soldiers = {
+    culture = dutch
+    religion = secularism
+    size = 282
+  }
+  aristocrats = {
+    culture = dutch
+    religion =  catholic
+    size = 317
+  }
+  aristocrats = {
+    culture = dutch
+    religion = secularism
+    size = 588
+  }
+  bureaucrats = {
+    culture = dutch
+    religion =  catholic
+    size = 75
+  }
+  bureaucrats = {
+    culture = dutch
+    religion = secularism
+    size = 141
+  }
+  clergymen = {
+    culture = dutch
+    religion =  catholic
+    size = 51
+  }
+  clergymen = {
+    culture = dutch
+    religion = secularism
+    size = 94
+  }
+  clergymen = {
+    culture = european
+    religion =  protestant
+    size = 202
+  }
+  clergymen = {
+    culture = european
+    religion = secularism
+    size = 376
+  }
+  artisans = {
+    culture = european
+    religion =  protestant
+    size = 51
+  }
+  artisans = {
+    culture = european
+    religion = secularism
+    size = 94
+  }
+  artisans = {
+    culture = brazilian
+    religion =  catholic
+    size = 321
+  }
+  artisans = {
+    culture = brazilian
+    religion = secularism
+    size = 596
+  }
+  farmers = {
+    culture = brazilian
+    religion =  catholic
+    size = 10082
+  }
+  farmers = {
+    culture = brazilian
+    religion = secularism
+    size = 18724
+  }
+  farmers = {
+    culture = caribbean_spanish
+    religion =  catholic
+    size = 1395
+  }
+  farmers = {
+    culture = caribbean_spanish
+    religion = secularism
+    size = 2591
+  }
 }
 #Saint Martin - Saint Martin (29000/7250 POPS)
 2236 = {
-	officers = {
-		culture = dutch
-		religion =  catholic 
-		size = 7
-	 } 
-	officers = {
-		culture = dutch
-		religion = secularism
-		size = 13
-	 } 
-	soldiers = {
-		culture = dutch
-		religion =  catholic 
-		size = 30
-	 } 
-	soldiers = {
-		culture = dutch
-		religion = secularism
-		size = 56
-	 } 
-	aristocrats = {
-		culture = dutch
-		religion =  catholic 
-		size = 63
-	 } 
-	aristocrats = {
-		culture = dutch
-		religion = secularism
-		size = 117
-	 } 
-	bureaucrats = {
-		culture = dutch
-		religion =  catholic 
-		size = 15
-	 } 
-	bureaucrats = {
-		culture = dutch
-		religion = secularism
-		size = 27
-	 } 
-	clergymen = {
-		culture = dutch
-		religion =  catholic 
-		size = 10
-	 } 
-	clergymen = {
-		culture = dutch
-		religion = secularism
-		size = 19
-	 } 
-	clergymen = {
-		culture = european
-		religion =  protestant 
-		size = 40
-	 } 
-	clergymen = {
-		culture = european
-		religion = secularism
-		size = 74
-	 } 
-	artisans = {
-		culture = european
-		religion =  protestant 
-		size = 10
-	 } 
-	artisans = {
-		culture = european
-		religion = secularism
-		size = 19
-	 } 
-	artisans = {
-		culture = brazilian
-		religion =  catholic 
-		size = 63
-	 } 
-	artisans = {
-		culture = brazilian
-		religion = secularism
-		size = 118
-	 } 
-	farmers = {
-		culture = brazilian
-		religion =  catholic 
-		size = 2017
-	 } 
-	farmers = {
-		culture = brazilian
-		religion = secularism
-		size = 3745
-	 } 
-	farmers = {
-		culture = caribbean_spanish
-		religion =  catholic 
-		size = 278
-	 } 
-	farmers = {
-		culture = caribbean_spanish
-		religion = secularism
-		size = 518
-	 } 
+  officers = {
+    culture = dutch
+    religion =  catholic
+    size = 7
+  }
+  officers = {
+    culture = dutch
+    religion = secularism
+    size = 13
+  }
+  soldiers = {
+    culture = dutch
+    religion =  catholic
+    size = 30
+  }
+  soldiers = {
+    culture = dutch
+    religion = secularism
+    size = 56
+  }
+  aristocrats = {
+    culture = dutch
+    religion =  catholic
+    size = 63
+  }
+  aristocrats = {
+    culture = dutch
+    religion = secularism
+    size = 117
+  }
+  bureaucrats = {
+    culture = dutch
+    religion =  catholic
+    size = 15
+  }
+  bureaucrats = {
+    culture = dutch
+    religion = secularism
+    size = 27
+  }
+  clergymen = {
+    culture = dutch
+    religion =  catholic
+    size = 10
+  }
+  clergymen = {
+    culture = dutch
+    religion = secularism
+    size = 19
+  }
+  clergymen = {
+    culture = european
+    religion =  protestant
+    size = 40
+  }
+  clergymen = {
+    culture = european
+    religion = secularism
+    size = 74
+  }
+  artisans = {
+    culture = european
+    religion =  protestant
+    size = 10
+  }
+  artisans = {
+    culture = european
+    religion = secularism
+    size = 19
+  }
+  artisans = {
+    culture = brazilian
+    religion =  catholic
+    size = 63
+  }
+  artisans = {
+    culture = brazilian
+    religion = secularism
+    size = 118
+  }
+  farmers = {
+    culture = brazilian
+    religion =  catholic
+    size = 2017
+  }
+  farmers = {
+    culture = brazilian
+    religion = secularism
+    size = 3745
+  }
+  farmers = {
+    culture = caribbean_spanish
+    religion =  catholic
+    size = 278
+  }
+  farmers = {
+    culture = caribbean_spanish
+    religion = secularism
+    size = 518
+  }
 }
 #Amsterdam - Amsterdam (2436000/609000 POPS)
 375 = {
-	officers = {
-		culture = dutch
-		religion =  catholic 
-		size = 521
-	 } 
-	officers = {
-		culture = dutch
-		religion = secularism
-		size = 967
-	 } 
-	soldiers = {
-		culture = dutch
-		religion =  catholic 
-		size = 9903
-	 } 
-	soldiers = {
-		culture = dutch
-		religion = secularism
-		size = 18392
-	 } 
-	aristocrats = {
-		culture = dutch
-		religion =  catholic 
-		size = 5328
-	 } 
-	aristocrats = {
-		culture = dutch
-		religion = secularism
-		size = 9896
-	 } 
-	bureaucrats = {
-		culture = dutch
-		religion =  catholic 
-		size = 1278
-	 } 
-	bureaucrats = {
-		culture = dutch
-		religion = secularism
-		size = 2375
-	 } 
-	capitalists = {
-		culture = dutch
-		religion =  catholic 
-		size = 1278
-	 } 
-	capitalists = {
-		culture = dutch
-		religion = secularism
-		size = 2375
-	 } 
-	clergymen = {
-		culture = dutch
-		religion =  catholic 
-		size = 4263
-	 } 
-	clergymen = {
-		culture = dutch
-		religion = secularism
-		size = 7917
-	 } 
-	clerks = {
-		culture = dutch
-		religion =  catholic 
-		size = 6361
-	 } 
-	clerks = {
-		culture = dutch
-		religion = secularism
-		size = 11815
-	 } 
-	artisans = {
-		culture = dutch
-		religion =  catholic 
-		size = 6043
-	 } 
-	artisans = {
-		culture = dutch
-		religion = secularism
-		size = 11224
-	 } 
-	craftsmen = {
-		culture = dutch
-		religion =  catholic 
-		size = 19086
-	 } 
-	craftsmen = {
-		culture = dutch
-		religion = secularism
-		size = 35445
-	 } 
-	farmers = {
-		culture = dutch
-		religion =  catholic 
-		size = 67428
-	 } 
-	farmers = {
-		culture = dutch
-		religion = secularism
-		size = 125225
-	 } 
-	farmers = {
-		culture = european
-		religion =  protestant 
-		size = 25578
-	 } 
-	farmers = {
-		culture = european
-		religion = secularism
-		size = 47502
-	 } 
-	farmers = {
-		culture = chinese
-		religion =  taoism 
-		size = 4263
-	 } 
-	farmers = {
-		culture = chinese
-		religion = secularism
-		size = 7917
-	 } 
-	farmers = {
-		culture = indonesian
-		religion =  sunni 
-		size = 36540
-	 } 
-	farmers = {
-		culture = turkish
-		religion =  sunni 
-		size = 30450
-	 } 
-	farmers = {
-		culture = dutch_african
-		religion =  protestant 
-		size = 10657
-	 } 
-	farmers = {
-		culture = dutch_african
-		religion = secularism
-		size = 19792
-	 } 
-	farmers = {
-		culture = sunni_arab
-		religion =  sunni 
-		size = 66990
-	 } 
-	farmers = {
-		culture = berber
-		religion =  sunni 
-		size = 12180
-	 } 
+  officers = {
+    culture = dutch
+    religion =  catholic
+    size = 521
+  }
+  officers = {
+    culture = dutch
+    religion = secularism
+    size = 967
+  }
+  soldiers = {
+    culture = dutch
+    religion =  catholic
+    size = 9903
+  }
+  soldiers = {
+    culture = dutch
+    religion = secularism
+    size = 18392
+  }
+  aristocrats = {
+    culture = dutch
+    religion =  catholic
+    size = 5328
+  }
+  aristocrats = {
+    culture = dutch
+    religion = secularism
+    size = 9896
+  }
+  bureaucrats = {
+    culture = dutch
+    religion =  catholic
+    size = 1278
+  }
+  bureaucrats = {
+    culture = dutch
+    religion = secularism
+    size = 2375
+  }
+  capitalists = {
+    culture = dutch
+    religion =  catholic
+    size = 1278
+  }
+  capitalists = {
+    culture = dutch
+    religion = secularism
+    size = 2375
+  }
+  clergymen = {
+    culture = dutch
+    religion =  catholic
+    size = 4263
+  }
+  clergymen = {
+    culture = dutch
+    religion = secularism
+    size = 7917
+  }
+  clerks = {
+    culture = dutch
+    religion =  catholic
+    size = 6361
+  }
+  clerks = {
+    culture = dutch
+    religion = secularism
+    size = 11815
+  }
+  artisans = {
+    culture = dutch
+    religion =  catholic
+    size = 6043
+  }
+  artisans = {
+    culture = dutch
+    religion = secularism
+    size = 11224
+  }
+  craftsmen = {
+    culture = dutch
+    religion =  catholic
+    size = 19086
+  }
+  craftsmen = {
+    culture = dutch
+    religion = secularism
+    size = 35445
+  }
+  farmers = {
+    culture = dutch
+    religion =  catholic
+    size = 67428
+  }
+  farmers = {
+    culture = dutch
+    religion = secularism
+    size = 125225
+  }
+  farmers = {
+    culture = european
+    religion =  protestant
+    size = 25578
+  }
+  farmers = {
+    culture = european
+    religion = secularism
+    size = 47502
+  }
+  farmers = {
+    culture = chinese
+    religion =  taoism
+    size = 4263
+  }
+  farmers = {
+    culture = chinese
+    religion = secularism
+    size = 7917
+  }
+  farmers = {
+    culture = indonesian
+    religion =  sunni
+    size = 36540
+  }
+  farmers = {
+    culture = turkish
+    religion =  sunni
+    size = 30450
+  }
+  farmers = {
+    culture = dutch_african
+    religion =  protestant
+    size = 10657
+  }
+  farmers = {
+    culture = dutch_african
+    religion = secularism
+    size = 19792
+  }
+  farmers = {
+    culture = sunni_arab
+    religion =  sunni
+    size = 66990
+  }
+  farmers = {
+    culture = berber
+    religion =  sunni
+    size = 12180
+  }
 }
 #Rotterdam - Rotterdam (3179000/794750 POPS)
 376 = {
-	officers = {
-		culture = dutch
-		religion =  catholic 
-		size = 651
-	 } 
-	officers = {
-		culture = dutch
-		religion = secularism
-		size = 1209
-	 } 
-	soldiers = {
-		culture = dutch
-		religion =  catholic 
-		size = 12374
-	 } 
-	soldiers = {
-		culture = dutch
-		religion = secularism
-		size = 22980
-	 } 
-	aristocrats = {
-		culture = dutch
-		religion =  catholic 
-		size = 6953
-	 } 
-	aristocrats = {
-		culture = dutch
-		religion = secularism
-		size = 12914
-	 } 
-	bureaucrats = {
-		culture = dutch
-		religion =  catholic 
-		size = 1668
-	 } 
-	bureaucrats = {
-		culture = dutch
-		religion = secularism
-		size = 3099
-	 } 
-	capitalists = {
-		culture = dutch
-		religion =  catholic 
-		size = 1668
-	 } 
-	capitalists = {
-		culture = dutch
-		religion = secularism
-		size = 3099
-	 } 
-	clergymen = {
-		culture = dutch
-		religion =  catholic 
-		size = 5563
-	 } 
-	clergymen = {
-		culture = dutch
-		religion = secularism
-		size = 10331
-	 } 
-	clerks = {
-		culture = dutch
-		religion =  catholic 
-		size = 8320
-	 } 
-	clerks = {
-		culture = dutch
-		religion = secularism
-		size = 15452
-	 } 
-	artisans = {
-		culture = dutch
-		religion =  catholic 
-		size = 7904
-	 } 
-	artisans = {
-		culture = dutch
-		religion = secularism
-		size = 14679
-	 } 
-	craftsmen = {
-		culture = dutch
-		religion =  catholic 
-		size = 24962
-	 } 
-	craftsmen = {
-		culture = dutch
-		religion = secularism
-		size = 46358
-	 } 
-	farmers = {
-		culture = dutch
-		religion =  catholic 
-		size = 88485
-	 } 
-	farmers = {
-		culture = dutch
-		religion = secularism
-		size = 164330
-	 } 
-	farmers = {
-		culture = european
-		religion =  protestant 
-		size = 33379
-	 } 
-	farmers = {
-		culture = european
-		religion = secularism
-		size = 61990
-	 } 
-	farmers = {
-		culture = chinese
-		religion =  taoism 
-		size = 5563
-	 } 
-	farmers = {
-		culture = chinese
-		religion = secularism
-		size = 10331
-	 } 
-	farmers = {
-		culture = indonesian
-		religion =  sunni 
-		size = 47685
-	 } 
-	farmers = {
-		culture = turkish
-		religion =  sunni 
-		size = 39737
-	 } 
-	farmers = {
-		culture = dutch_african
-		religion =  protestant 
-		size = 13907
-	 } 
-	farmers = {
-		culture = dutch_african
-		religion = secularism
-		size = 25829
-	 } 
-	farmers = {
-		culture = sunni_arab
-		religion =  sunni 
-		size = 87422
-	 } 
-	farmers = {
-		culture = berber
-		religion =  sunni 
-		size = 15895
-	 } 
+  officers = {
+    culture = dutch
+    religion =  catholic
+    size = 651
+  }
+  officers = {
+    culture = dutch
+    religion = secularism
+    size = 1209
+  }
+  soldiers = {
+    culture = dutch
+    religion =  catholic
+    size = 12374
+  }
+  soldiers = {
+    culture = dutch
+    religion = secularism
+    size = 22980
+  }
+  aristocrats = {
+    culture = dutch
+    religion =  catholic
+    size = 6953
+  }
+  aristocrats = {
+    culture = dutch
+    religion = secularism
+    size = 12914
+  }
+  bureaucrats = {
+    culture = dutch
+    religion =  catholic
+    size = 1668
+  }
+  bureaucrats = {
+    culture = dutch
+    religion = secularism
+    size = 3099
+  }
+  capitalists = {
+    culture = dutch
+    religion =  catholic
+    size = 1668
+  }
+  capitalists = {
+    culture = dutch
+    religion = secularism
+    size = 3099
+  }
+  clergymen = {
+    culture = dutch
+    religion =  catholic
+    size = 5563
+  }
+  clergymen = {
+    culture = dutch
+    religion = secularism
+    size = 10331
+  }
+  clerks = {
+    culture = dutch
+    religion =  catholic
+    size = 8320
+  }
+  clerks = {
+    culture = dutch
+    religion = secularism
+    size = 15452
+  }
+  artisans = {
+    culture = dutch
+    religion =  catholic
+    size = 7904
+  }
+  artisans = {
+    culture = dutch
+    religion = secularism
+    size = 14679
+  }
+  craftsmen = {
+    culture = dutch
+    religion =  catholic
+    size = 24962
+  }
+  craftsmen = {
+    culture = dutch
+    religion = secularism
+    size = 46358
+  }
+  farmers = {
+    culture = dutch
+    religion =  catholic
+    size = 88485
+  }
+  farmers = {
+    culture = dutch
+    religion = secularism
+    size = 164330
+  }
+  farmers = {
+    culture = european
+    religion =  protestant
+    size = 33379
+  }
+  farmers = {
+    culture = european
+    religion = secularism
+    size = 61990
+  }
+  farmers = {
+    culture = chinese
+    religion =  taoism
+    size = 5563
+  }
+  farmers = {
+    culture = chinese
+    religion = secularism
+    size = 10331
+  }
+  farmers = {
+    culture = indonesian
+    religion =  sunni
+    size = 47685
+  }
+  farmers = {
+    culture = turkish
+    religion =  sunni
+    size = 39737
+  }
+  farmers = {
+    culture = dutch_african
+    religion =  protestant
+    size = 13907
+  }
+  farmers = {
+    culture = dutch_african
+    religion = secularism
+    size = 25829
+  }
+  farmers = {
+    culture = sunni_arab
+    religion =  sunni
+    size = 87422
+  }
+  farmers = {
+    culture = berber
+    religion =  sunni
+    size = 15895
+  }
 }
 #Utrecht - Utrecht (1113000/278250 POPS)
 377 = {
-	officers = {
-		culture = dutch
-		religion =  catholic 
-		size = 281
-	 } 
-	officers = {
-		culture = dutch
-		religion = secularism
-		size = 523
-	 } 
-	soldiers = {
-		culture = dutch
-		religion =  catholic 
-		size = 5358
-	 } 
-	soldiers = {
-		culture = dutch
-		religion = secularism
-		size = 9950
-	 } 
-	aristocrats = {
-		culture = dutch
-		religion =  catholic 
-		size = 2434
-	 } 
-	aristocrats = {
-		culture = dutch
-		religion = secularism
-		size = 4521
-	 } 
-	bureaucrats = {
-		culture = dutch
-		religion =  catholic 
-		size = 584
-	 } 
-	bureaucrats = {
-		culture = dutch
-		religion = secularism
-		size = 1084
-	 } 
-	capitalists = {
-		culture = dutch
-		religion =  catholic 
-		size = 584
-	 } 
-	capitalists = {
-		culture = dutch
-		religion = secularism
-		size = 1084
-	 } 
-	clergymen = {
-		culture = dutch
-		religion =  catholic 
-		size = 1947
-	 } 
-	clergymen = {
-		culture = dutch
-		religion = secularism
-		size = 3617
-	 } 
-	clerks = {
-		culture = dutch
-		religion =  catholic 
-		size = 2879
-	 } 
-	clerks = {
-		culture = dutch
-		religion = secularism
-		size = 5346
-	 } 
-	artisans = {
-		culture = dutch
-		religion =  catholic 
-		size = 2735
-	 } 
-	artisans = {
-		culture = dutch
-		religion = secularism
-		size = 5079
-	 } 
-	craftsmen = {
-		culture = dutch
-		religion =  catholic 
-		size = 8637
-	 } 
-	craftsmen = {
-		culture = dutch
-		religion = secularism
-		size = 16041
-	 } 
-	farmers = {
-		culture = dutch
-		religion =  catholic 
-		size = 30068
-	 } 
-	farmers = {
-		culture = dutch
-		religion = secularism
-		size = 55840
-	 } 
-	farmers = {
-		culture = european
-		religion =  protestant 
-		size = 11686
-	 } 
-	farmers = {
-		culture = european
-		religion = secularism
-		size = 21703
-	 } 
-	farmers = {
-		culture = chinese
-		religion =  taoism 
-		size = 1947
-	 } 
-	farmers = {
-		culture = chinese
-		religion = secularism
-		size = 3617
-	 } 
-	farmers = {
-		culture = indonesian
-		religion =  sunni 
-		size = 16695
-	 } 
-	farmers = {
-		culture = turkish
-		religion =  sunni 
-		size = 13912
-	 } 
-	farmers = {
-		culture = dutch_african
-		religion =  protestant 
-		size = 4869
-	 } 
-	farmers = {
-		culture = dutch_african
-		religion = secularism
-		size = 9042
-	 } 
-	farmers = {
-		culture = sunni_arab
-		religion =  sunni 
-		size = 30607
-	 } 
-	farmers = {
-		culture = berber
-		religion =  sunni 
-		size = 5565
-	 } 
+  officers = {
+    culture = dutch
+    religion =  catholic
+    size = 281
+  }
+  officers = {
+    culture = dutch
+    religion = secularism
+    size = 523
+  }
+  soldiers = {
+    culture = dutch
+    religion =  catholic
+    size = 5358
+  }
+  soldiers = {
+    culture = dutch
+    religion = secularism
+    size = 9950
+  }
+  aristocrats = {
+    culture = dutch
+    religion =  catholic
+    size = 2434
+  }
+  aristocrats = {
+    culture = dutch
+    religion = secularism
+    size = 4521
+  }
+  bureaucrats = {
+    culture = dutch
+    religion =  catholic
+    size = 584
+  }
+  bureaucrats = {
+    culture = dutch
+    religion = secularism
+    size = 1084
+  }
+  capitalists = {
+    culture = dutch
+    religion =  catholic
+    size = 584
+  }
+  capitalists = {
+    culture = dutch
+    religion = secularism
+    size = 1084
+  }
+  clergymen = {
+    culture = dutch
+    religion =  catholic
+    size = 1947
+  }
+  clergymen = {
+    culture = dutch
+    religion = secularism
+    size = 3617
+  }
+  clerks = {
+    culture = dutch
+    religion =  catholic
+    size = 2879
+  }
+  clerks = {
+    culture = dutch
+    religion = secularism
+    size = 5346
+  }
+  artisans = {
+    culture = dutch
+    religion =  catholic
+    size = 2735
+  }
+  artisans = {
+    culture = dutch
+    religion = secularism
+    size = 5079
+  }
+  craftsmen = {
+    culture = dutch
+    religion =  catholic
+    size = 8637
+  }
+  craftsmen = {
+    culture = dutch
+    religion = secularism
+    size = 16041
+  }
+  farmers = {
+    culture = dutch
+    religion =  catholic
+    size = 30068
+  }
+  farmers = {
+    culture = dutch
+    religion = secularism
+    size = 55840
+  }
+  farmers = {
+    culture = european
+    religion =  protestant
+    size = 11686
+  }
+  farmers = {
+    culture = european
+    religion = secularism
+    size = 21703
+  }
+  farmers = {
+    culture = chinese
+    religion =  taoism
+    size = 1947
+  }
+  farmers = {
+    culture = chinese
+    religion = secularism
+    size = 3617
+  }
+  farmers = {
+    culture = indonesian
+    religion =  sunni
+    size = 16695
+  }
+  farmers = {
+    culture = turkish
+    religion =  sunni
+    size = 13912
+  }
+  farmers = {
+    culture = dutch_african
+    religion =  protestant
+    size = 4869
+  }
+  farmers = {
+    culture = dutch_african
+    religion = secularism
+    size = 9042
+  }
+  farmers = {
+    culture = sunni_arab
+    religion =  sunni
+    size = 30607
+  }
+  farmers = {
+    culture = berber
+    religion =  sunni
+    size = 5565
+  }
 }
 #Middelburg - Middelburg (338000/84500 POPS)
 378 = {
-	clergymen = {
-		culture = dutch
-		religion =  catholic 
-		size = 591
-	 } 
-	clergymen = {
-		culture = dutch
-		religion = secularism
-		size = 1098
-	 } 
-	farmers = {
-		culture = dutch
-		religion =  catholic 
-		size = 28983
-	 } 
-	farmers = {
-		culture = dutch
-		religion = secularism
-		size = 53826
-	 } 
+  clergymen = {
+    culture = dutch
+    religion =  catholic
+    size = 591
+  }
+  clergymen = {
+    culture = dutch
+    religion = secularism
+    size = 1098
+  }
+  farmers = {
+    culture = dutch
+    religion =  catholic
+    size = 28983
+  }
+  farmers = {
+    culture = dutch
+    religion = secularism
+    size = 53826
+  }
 }
 #Eindhoven - Eindhoven (2205000/551250 POPS)
 379 = {
-	clergymen = {
-		culture = dutch
-		religion =  catholic 
-		size = 3858
-	 } 
-	clergymen = {
-		culture = dutch
-		religion = secularism
-		size = 7166
-	 } 
-	farmers = {
-		culture = dutch
-		religion =  catholic 
-		size = 189078
-	 } 
-	farmers = {
-		culture = dutch
-		religion = secularism
-		size = 351146
-	 } 
+  clergymen = {
+    culture = dutch
+    religion =  catholic
+    size = 3858
+  }
+  clergymen = {
+    culture = dutch
+    religion = secularism
+    size = 7166
+  }
+  farmers = {
+    culture = dutch
+    religion =  catholic
+    size = 189078
+  }
+  farmers = {
+    culture = dutch
+    religion = secularism
+    size = 351146
+  }
 }
 #Breda - Flevoland (355000/88750 POPS)
 380 = {
-	clergymen = {
-		culture = dutch
-		religion =  catholic 
-		size = 621
-	 } 
-	clergymen = {
-		culture = dutch
-		religion = secularism
-		size = 1153
-	 } 
-	farmers = {
-		culture = dutch
-		religion =  catholic 
-		size = 30441
-	 } 
-	farmers = {
-		culture = dutch
-		religion = secularism
-		size = 56533
-	 } 
+  clergymen = {
+    culture = dutch
+    religion =  catholic
+    size = 621
+  }
+  clergymen = {
+    culture = dutch
+    religion = secularism
+    size = 1153
+  }
+  farmers = {
+    culture = dutch
+    religion =  catholic
+    size = 30441
+  }
+  farmers = {
+    culture = dutch
+    religion = secularism
+    size = 56533
+  }
 }
 #Maastricht - Maastricht (997000/249250 POPS)
 381 = {
-	clergymen = {
-		culture = dutch
-		religion =  catholic 
-		size = 1744
-	 } 
-	clergymen = {
-		culture = dutch
-		religion = secularism
-		size = 3240
-	 } 
-	farmers = {
-		culture = dutch
-		religion =  catholic 
-		size = 85492
-	 } 
-	farmers = {
-		culture = dutch
-		religion = secularism
-		size = 158772
-	 } 
+  clergymen = {
+    culture = dutch
+    religion =  catholic
+    size = 1744
+  }
+  clergymen = {
+    culture = dutch
+    religion = secularism
+    size = 3240
+  }
+  farmers = {
+    culture = dutch
+    religion =  catholic
+    size = 85492
+  }
+  farmers = {
+    culture = dutch
+    religion = secularism
+    size = 158772
+  }
 }
 #Arnhem - Arnhem (1797000/449250 POPS)
 382 = {
-	clergymen = {
-		culture = dutch
-		religion =  catholic 
-		size = 3144
-	 } 
-	clergymen = {
-		culture = dutch
-		religion = secularism
-		size = 5840
-	 } 
-	farmers = {
-		culture = dutch
-		religion =  catholic 
-		size = 154092
-	 } 
-	farmers = {
-		culture = dutch
-		religion = secularism
-		size = 286172
-	 } 
+  clergymen = {
+    culture = dutch
+    religion =  catholic
+    size = 3144
+  }
+  clergymen = {
+    culture = dutch
+    religion = secularism
+    size = 5840
+  }
+  farmers = {
+    culture = dutch
+    religion =  catholic
+    size = 154092
+  }
+  farmers = {
+    culture = dutch
+    religion = secularism
+    size = 286172
+  }
 }
 #Groningen - Groningen (518000/129500 POPS)
 383 = {
-	clergymen = {
-		culture = dutch
-		religion =  catholic 
-		size = 906
-	 } 
-	clergymen = {
-		culture = dutch
-		religion = secularism
-		size = 1683
-	 } 
-	farmers = {
-		culture = dutch
-		religion =  catholic 
-		size = 44418
-	 } 
-	farmers = {
-		culture = dutch
-		religion = secularism
-		size = 82491
-	 } 
+  clergymen = {
+    culture = dutch
+    religion =  catholic
+    size = 906
+  }
+  clergymen = {
+    culture = dutch
+    religion = secularism
+    size = 1683
+  }
+  farmers = {
+    culture = dutch
+    religion =  catholic
+    size = 44418
+  }
+  farmers = {
+    culture = dutch
+    religion = secularism
+    size = 82491
+  }
 }
 #Zwolle - Zwolle (1013000/253250 POPS)
 384 = {
-	clergymen = {
-		culture = dutch
-		religion =  catholic 
-		size = 1772
-	 } 
-	clergymen = {
-		culture = dutch
-		religion = secularism
-		size = 3292
-	 } 
-	farmers = {
-		culture = dutch
-		religion =  catholic 
-		size = 86864
-	 } 
-	farmers = {
-		culture = dutch
-		religion = secularism
-		size = 161320
-	 } 
+  clergymen = {
+    culture = dutch
+    religion =  catholic
+    size = 1772
+  }
+  clergymen = {
+    culture = dutch
+    religion = secularism
+    size = 3292
+  }
+  farmers = {
+    culture = dutch
+    religion =  catholic
+    size = 86864
+  }
+  farmers = {
+    culture = dutch
+    religion = secularism
+    size = 161320
+  }
 }
 #Leeuwarden - Leeuwarden (575000/143750 POPS)
 385 = {
-	clergymen = {
-		culture = dutch
-		religion =  catholic 
-		size = 1006
-	 } 
-	clergymen = {
-		culture = dutch
-		religion = secularism
-		size = 1868
-	 } 
-	farmers = {
-		culture = dutch
-		religion =  catholic 
-		size = 21635
-	 } 
-	farmers = {
-		culture = frisian
-		religion =  catholic 
-		size = 27671
-	 } 
-	farmers = {
-		culture = dutch
-		religion = secularism
-		size = 40178
-	 } 
-	farmers = {
-		culture = frisian
-		religion = secularism
-		size = 51390
-	 } 
+  clergymen = {
+    culture = dutch
+    religion =  catholic
+    size = 1006
+  }
+  clergymen = {
+    culture = dutch
+    religion = secularism
+    size = 1868
+  }
+  farmers = {
+    culture = dutch
+    religion =  catholic
+    size = 21635
+  }
+  farmers = {
+    culture = frisian
+    religion =  catholic
+    size = 27671
+  }
+  farmers = {
+    culture = dutch
+    religion = secularism
+    size = 40178
+  }
+  farmers = {
+    culture = frisian
+    religion = secularism
+    size = 51390
+  }
 }
 #Assen - Assen (435000/108750 POPS)
 386 = {
-	clergymen = {
-		culture = dutch
-		religion =  catholic 
-		size = 761
-	 } 
-	clergymen = {
-		culture = dutch
-		religion = secularism
-		size = 1413
-	 } 
-	farmers = {
-		culture = dutch
-		religion =  catholic 
-		size = 37301
-	 } 
-	farmers = {
-		culture = dutch
-		religion = secularism
-		size = 69273
-	 } 
+  clergymen = {
+    culture = dutch
+    religion =  catholic
+    size = 761
+  }
+  clergymen = {
+    culture = dutch
+    religion = secularism
+    size = 1413
+  }
+  farmers = {
+    culture = dutch
+    religion =  catholic
+    size = 37301
+  }
+  farmers = {
+    culture = dutch
+    religion = secularism
+    size = 69273
+  }
 }

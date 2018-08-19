@@ -1,389 +1,389 @@
 #Salonika - Central Macedonia (948000/237000 POPS)
 805 = {
-	officers = {
-		culture = greek
-		religion =  orthodox 
-		size = 668
-	 } 
-	officers = {
-		culture = greek
-		religion = secularism
-		size = 42
-	 } 
-	soldiers = {
-		culture = greek
-		religion =  orthodox 
-		size = 2673
-	 } 
-	soldiers = {
-		culture = greek
-		religion = secularism
-		size = 170
-	 } 
-	aristocrats = {
-		culture = greek
-		religion =  orthodox 
-		size = 8911
-	 } 
-	aristocrats = {
-		culture = greek
-		religion = secularism
-		size = 568
-	 } 
-	bureaucrats = {
-		culture = greek
-		religion =  orthodox 
-		size = 222
-	 } 
-	bureaucrats = {
-		culture = greek
-		religion = secularism
-		size = 14
-	 } 
-	clergymen = {
-		culture = greek
-		religion =  orthodox 
-		size = 4455
-	 } 
-	clergymen = {
-		culture = greek
-		religion = secularism
-		size = 284
-	 } 
-	artisans = {
-		culture = greek
-		religion =  orthodox 
-		size = 4360
-	 } 
-	artisans = {
-		culture = greek
-		religion = secularism
-		size = 278
-	 } 
-	farmers = {
-		culture = greek
-		religion =  orthodox 
-		size = 181437
-	 } 
-	farmers = {
-		culture = greek
-		religion = secularism
-		size = 11581
-	 } 
-	farmers = {
-		culture = albanian
-		religion =  sunni 
-		size = 19908
-	 } 
-	farmers = {
-		culture = indian_muslim
-		religion =  sunni 
-		size = 1422
-	 } 
+  officers = {
+    culture = greek
+    religion =  orthodox
+    size = 668
+  }
+  officers = {
+    culture = greek
+    religion = secularism
+    size = 42
+  }
+  soldiers = {
+    culture = greek
+    religion =  orthodox
+    size = 2673
+  }
+  soldiers = {
+    culture = greek
+    religion = secularism
+    size = 170
+  }
+  aristocrats = {
+    culture = greek
+    religion =  orthodox
+    size = 8911
+  }
+  aristocrats = {
+    culture = greek
+    religion = secularism
+    size = 568
+  }
+  bureaucrats = {
+    culture = greek
+    religion =  orthodox
+    size = 222
+  }
+  bureaucrats = {
+    culture = greek
+    religion = secularism
+    size = 14
+  }
+  clergymen = {
+    culture = greek
+    religion =  orthodox
+    size = 4455
+  }
+  clergymen = {
+    culture = greek
+    religion = secularism
+    size = 284
+  }
+  artisans = {
+    culture = greek
+    religion =  orthodox
+    size = 4360
+  }
+  artisans = {
+    culture = greek
+    religion = secularism
+    size = 278
+  }
+  farmers = {
+    culture = greek
+    religion =  orthodox
+    size = 181437
+  }
+  farmers = {
+    culture = greek
+    religion = secularism
+    size = 11581
+  }
+  farmers = {
+    culture = albanian
+    religion =  sunni
+    size = 19908
+  }
+  farmers = {
+    culture = indian_muslim
+    religion =  sunni
+    size = 1422
+  }
 }
 #Florina - Florina (97000/24250 POPS)
 819 = {
-	clergymen = {
-		culture = greek
-		religion =  orthodox 
-		size = 455
-	 } 
-	clergymen = {
-		culture = greek
-		religion = secularism
-		size = 29
-	 } 
-	farmers = {
-		culture = greek
-		religion =  orthodox 
-		size = 6382
-	 } 
-	farmers = {
-		culture = greek
-		religion = secularism
-		size = 407
-	 } 
-	farmers = {
-		culture = bulgarian
-		religion =  orthodox 
-		size = 13677
-	 } 
-	farmers = {
-		culture = bulgarian
-		religion = secularism
-		size = 873
-	 } 
-	farmers = {
-		culture = aromanians
-		religion =  orthodox 
-		size = 2279
-	 } 
-	farmers = {
-		culture = aromanians
-		religion = secularism
-		size = 145
-	 } 
+  clergymen = {
+    culture = greek
+    religion =  orthodox
+    size = 455
+  }
+  clergymen = {
+    culture = greek
+    religion = secularism
+    size = 29
+  }
+  farmers = {
+    culture = greek
+    religion =  orthodox
+    size = 6382
+  }
+  farmers = {
+    culture = greek
+    religion = secularism
+    size = 407
+  }
+  farmers = {
+    culture = bulgarian
+    religion =  orthodox
+    size = 13677
+  }
+  farmers = {
+    culture = bulgarian
+    religion = secularism
+    size = 873
+  }
+  farmers = {
+    culture = aromanians
+    religion =  orthodox
+    size = 2279
+  }
+  farmers = {
+    culture = aromanians
+    religion = secularism
+    size = 145
+  }
 }
 #Grevena - Grevena (97000/24250 POPS)
 820 = {
-	clergymen = {
-		culture = greek
-		religion =  orthodox 
-		size = 455
-	 } 
-	clergymen = {
-		culture = greek
-		religion = secularism
-		size = 29
-	 } 
-	farmers = {
-		culture = greek
-		religion =  orthodox 
-		size = 11853
-	 } 
-	farmers = {
-		culture = greek
-		religion = secularism
-		size = 756
-	 } 
-	farmers = {
-		culture = bulgarian
-		religion =  orthodox 
-		size = 2279
-	 } 
-	farmers = {
-		culture = bulgarian
-		religion = secularism
-		size = 145
-	 } 
-	farmers = {
-		culture = aromanians
-		religion =  orthodox 
-		size = 8206
-	 } 
-	farmers = {
-		culture = aromanians
-		religion = secularism
-		size = 523
-	 } 
+  clergymen = {
+    culture = greek
+    religion =  orthodox
+    size = 455
+  }
+  clergymen = {
+    culture = greek
+    religion = secularism
+    size = 29
+  }
+  farmers = {
+    culture = greek
+    religion =  orthodox
+    size = 11853
+  }
+  farmers = {
+    culture = greek
+    religion = secularism
+    size = 756
+  }
+  farmers = {
+    culture = bulgarian
+    religion =  orthodox
+    size = 2279
+  }
+  farmers = {
+    culture = bulgarian
+    religion = secularism
+    size = 145
+  }
+  farmers = {
+    culture = aromanians
+    religion =  orthodox
+    size = 8206
+  }
+  farmers = {
+    culture = aromanians
+    religion = secularism
+    size = 523
+  }
 }
 #Edessa - Central Macedonia (179000/44750 POPS)
 821 = {
-	clergymen = {
-		culture = greek
-		religion =  orthodox 
-		size = 841
-	 } 
-	clergymen = {
-		culture = greek
-		religion = secularism
-		size = 53
-	 } 
-	farmers = {
-		culture = greek
-		religion =  orthodox 
-		size = 31128
-	 } 
-	farmers = {
-		culture = greek
-		religion = secularism
-		size = 1986
-	 } 
-	farmers = {
-		culture = bulgarian
-		religion =  orthodox 
-		size = 10095
-	 } 
-	farmers = {
-		culture = bulgarian
-		religion = secularism
-		size = 644
-	 } 
+  clergymen = {
+    culture = greek
+    religion =  orthodox
+    size = 841
+  }
+  clergymen = {
+    culture = greek
+    religion = secularism
+    size = 53
+  }
+  farmers = {
+    culture = greek
+    religion =  orthodox
+    size = 31128
+  }
+  farmers = {
+    culture = greek
+    religion = secularism
+    size = 1986
+  }
+  farmers = {
+    culture = bulgarian
+    religion =  orthodox
+    size = 10095
+  }
+  farmers = {
+    culture = bulgarian
+    religion = secularism
+    size = 644
+  }
 }
 #Polygyros - Central Macedonia (179000/44750 POPS)
 822 = {
-	clergymen = {
-		culture = greek
-		religion =  orthodox 
-		size = 841
-	 } 
-	clergymen = {
-		culture = greek
-		religion = secularism
-		size = 53
-	 } 
-	farmers = {
-		culture = greek
-		religion =  orthodox 
-		size = 41223
-	 } 
-	farmers = {
-		culture = greek
-		religion = secularism
-		size = 2631
-	 } 
+  clergymen = {
+    culture = greek
+    religion =  orthodox
+    size = 841
+  }
+  clergymen = {
+    culture = greek
+    religion = secularism
+    size = 53
+  }
+  farmers = {
+    culture = greek
+    religion =  orthodox
+    size = 41223
+  }
+  farmers = {
+    culture = greek
+    religion = secularism
+    size = 2631
+  }
 }
 #Kavala - Eastern Macedonia and Thrace (153000/38250 POPS)
 823 = {
-	clergymen = {
-		culture = greek
-		religion =  orthodox 
-		size = 719
-	 } 
-	clergymen = {
-		culture = greek
-		religion = secularism
-		size = 45
-	 } 
-	farmers = {
-		culture = greek
-		religion =  orthodox 
-		size = 29123
-	 } 
-	farmers = {
-		culture = greek
-		religion = secularism
-		size = 1858
-	 } 
-	farmers = {
-		culture = turkish
-		religion =  sunni 
-		size = 5355
-	 } 
-	farmers = {
-		culture = roma
-		religion =  orthodox 
-		size = 1078
-	 } 
-	farmers = {
-		culture = roma
-		religion = secularism
-		size = 68
-	 } 
+  clergymen = {
+    culture = greek
+    religion =  orthodox
+    size = 719
+  }
+  clergymen = {
+    culture = greek
+    religion = secularism
+    size = 45
+  }
+  farmers = {
+    culture = greek
+    religion =  orthodox
+    size = 29123
+  }
+  farmers = {
+    culture = greek
+    religion = secularism
+    size = 1858
+  }
+  farmers = {
+    culture = turkish
+    religion =  sunni
+    size = 5355
+  }
+  farmers = {
+    culture = roma
+    religion =  orthodox
+    size = 1078
+  }
+  farmers = {
+    culture = roma
+    religion = secularism
+    size = 68
+  }
 }
 #Xanthe - Eastern Macedonia and Thrace (153000/38250 POPS)
 829 = {
-	clergymen = {
-		culture = greek
-		religion =  orthodox 
-		size = 719
-	 } 
-	clergymen = {
-		culture = greek
-		religion = secularism
-		size = 45
-	 } 
-	farmers = {
-		culture = greek
-		religion =  orthodox 
-		size = 29123
-	 } 
-	farmers = {
-		culture = greek
-		religion = secularism
-		size = 1858
-	 } 
-	farmers = {
-		culture = turkish
-		religion =  sunni 
-		size = 5355
-	 } 
-	farmers = {
-		culture = roma
-		religion =  orthodox 
-		size = 1078
-	 } 
-	farmers = {
-		culture = roma
-		religion = secularism
-		size = 68
-	 } 
+  clergymen = {
+    culture = greek
+    religion =  orthodox
+    size = 719
+  }
+  clergymen = {
+    culture = greek
+    religion = secularism
+    size = 45
+  }
+  farmers = {
+    culture = greek
+    religion =  orthodox
+    size = 29123
+  }
+  farmers = {
+    culture = greek
+    religion = secularism
+    size = 1858
+  }
+  farmers = {
+    culture = turkish
+    religion =  sunni
+    size = 5355
+  }
+  farmers = {
+    culture = roma
+    religion =  orthodox
+    size = 1078
+  }
+  farmers = {
+    culture = roma
+    religion = secularism
+    size = 68
+  }
 }
 #Dedeagatch - Eastern Macedonia and Thrace (153000/38250 POPS)
 830 = {
-	officers = {
-		culture = greek
-		religion =  orthodox 
-		size = 107
-	 } 
-	officers = {
-		culture = greek
-		religion = secularism
-		size = 6
-	 } 
-	soldiers = {
-		culture = greek
-		religion =  orthodox 
-		size = 431
-	 } 
-	soldiers = {
-		culture = greek
-		religion = secularism
-		size = 27
-	 } 
-	aristocrats = {
-		culture = greek
-		religion =  orthodox 
-		size = 1438
-	 } 
-	aristocrats = {
-		culture = greek
-		religion = secularism
-		size = 91
-	 } 
-	bureaucrats = {
-		culture = greek
-		religion =  orthodox 
-		size = 35
-	 } 
-	bureaucrats = {
-		culture = greek
-		religion = secularism
-		size = 2
-	 } 
-	clergymen = {
-		culture = greek
-		religion =  orthodox 
-		size = 719
-	 } 
-	clergymen = {
-		culture = greek
-		religion = secularism
-		size = 45
-	 } 
-	artisans = {
-		culture = greek
-		religion =  orthodox 
-		size = 703
-	 } 
-	artisans = {
-		culture = greek
-		religion = secularism
-		size = 44
-	 } 
-	farmers = {
-		culture = greek
-		religion =  orthodox 
-		size = 26407
-	 } 
-	farmers = {
-		culture = greek
-		religion = secularism
-		size = 1685
-	 } 
-	farmers = {
-		culture = turkish
-		religion =  sunni 
-		size = 5355
-	 } 
-	farmers = {
-		culture = roma
-		religion =  orthodox 
-		size = 1078
-	 } 
-	farmers = {
-		culture = roma
-		religion = secularism
-		size = 68
-	 } 
+  officers = {
+    culture = greek
+    religion =  orthodox
+    size = 107
+  }
+  officers = {
+    culture = greek
+    religion = secularism
+    size = 6
+  }
+  soldiers = {
+    culture = greek
+    religion =  orthodox
+    size = 431
+  }
+  soldiers = {
+    culture = greek
+    religion = secularism
+    size = 27
+  }
+  aristocrats = {
+    culture = greek
+    religion =  orthodox
+    size = 1438
+  }
+  aristocrats = {
+    culture = greek
+    religion = secularism
+    size = 91
+  }
+  bureaucrats = {
+    culture = greek
+    religion =  orthodox
+    size = 35
+  }
+  bureaucrats = {
+    culture = greek
+    religion = secularism
+    size = 2
+  }
+  clergymen = {
+    culture = greek
+    religion =  orthodox
+    size = 719
+  }
+  clergymen = {
+    culture = greek
+    religion = secularism
+    size = 45
+  }
+  artisans = {
+    culture = greek
+    religion =  orthodox
+    size = 703
+  }
+  artisans = {
+    culture = greek
+    religion = secularism
+    size = 44
+  }
+  farmers = {
+    culture = greek
+    religion =  orthodox
+    size = 26407
+  }
+  farmers = {
+    culture = greek
+    religion = secularism
+    size = 1685
+  }
+  farmers = {
+    culture = turkish
+    religion =  sunni
+    size = 5355
+  }
+  farmers = {
+    culture = roma
+    religion =  orthodox
+    size = 1078
+  }
+  farmers = {
+    culture = roma
+    religion = secularism
+    size = 68
+  }
 }

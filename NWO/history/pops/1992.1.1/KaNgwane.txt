@@ -1,23 +1,23 @@
 #Abiy - KaNgwane (654000/163500 POPS)
 2619 = {
-	clergymen = {
-		culture = swazi
-		religion =  protestant 
-		size = 1308
-	 } 
-	clergymen = {
-		culture = swazi
-		religion = secularism
-		size = 1962
-	 } 
-	farmers = {
-		culture = swazi
-		religion =  protestant 
-		size = 64092
-	 } 
-	farmers = {
-		culture = swazi
-		religion = secularism
-		size = 96138
-	 } 
+  clergymen = {
+    culture = swazi
+    religion =  protestant
+    size = 1308
+  }
+  clergymen = {
+    culture = swazi
+    religion = secularism
+    size = 1962
+  }
+  farmers = {
+    culture = swazi
+    religion =  protestant
+    size = 64092
+  }
+  farmers = {
+    culture = swazi
+    religion = secularism
+    size = 96138
+  }
 }

@@ -1,249 +1,249 @@
 #Urga - Urga (440000/110000 POPS)
 1465 = {
-	officers = {
-		culture = mongol
-		religion =  buddhist 
-		size = 585
-	 } 
-	officers = {
-		culture = mongol
-		religion = secularism
-		size = 83
-	 } 
-	soldiers = {
-		culture = mongol
-		religion =  buddhist 
-		size = 11130
-	 } 
-	soldiers = {
-		culture = mongol
-		religion = secularism
-		size = 1590
-	 } 
-	aristocrats = {
-		culture = mongol
-		religion =  buddhist 
-		size = 3850
-	 } 
-	aristocrats = {
-		culture = mongol
-		religion = secularism
-		size = 550
-	 } 
-	bureaucrats = {
-		culture = mongol
-		religion =  buddhist 
-		size = 96
-	 } 
-	bureaucrats = {
-		culture = mongol
-		religion = secularism
-		size = 13
-	 } 
-	clergymen = {
-		culture = mongol
-		religion =  buddhist 
-		size = 1925
-	 } 
-	clergymen = {
-		culture = mongol
-		religion = secularism
-		size = 275
-	 } 
-	artisans = {
-		culture = mongol
-		religion =  buddhist 
-		size = 1079
-	 } 
-	artisans = {
-		culture = mongol
-		religion = secularism
-		size = 154
-	 } 
-	farmers = {
-		culture = mongol
-		religion =  buddhist 
-		size = 77583
-	 } 
-	farmers = {
-		culture = mongol
-		religion = secularism
-		size = 11083
-	 } 
+  officers = {
+    culture = mongol
+    religion =  buddhist
+    size = 585
+  }
+  officers = {
+    culture = mongol
+    religion = secularism
+    size = 83
+  }
+  soldiers = {
+    culture = mongol
+    religion =  buddhist
+    size = 11130
+  }
+  soldiers = {
+    culture = mongol
+    religion = secularism
+    size = 1590
+  }
+  aristocrats = {
+    culture = mongol
+    religion =  buddhist
+    size = 3850
+  }
+  aristocrats = {
+    culture = mongol
+    religion = secularism
+    size = 550
+  }
+  bureaucrats = {
+    culture = mongol
+    religion =  buddhist
+    size = 96
+  }
+  bureaucrats = {
+    culture = mongol
+    religion = secularism
+    size = 13
+  }
+  clergymen = {
+    culture = mongol
+    religion =  buddhist
+    size = 1925
+  }
+  clergymen = {
+    culture = mongol
+    religion = secularism
+    size = 275
+  }
+  artisans = {
+    culture = mongol
+    religion =  buddhist
+    size = 1079
+  }
+  artisans = {
+    culture = mongol
+    religion = secularism
+    size = 154
+  }
+  farmers = {
+    culture = mongol
+    religion =  buddhist
+    size = 77583
+  }
+  farmers = {
+    culture = mongol
+    religion = secularism
+    size = 11083
+  }
 }
 #Dalandzadgad - Dalandzadgad (35000/8750 POPS)
 1466 = {
-	clergymen = {
-		culture = mongol
-		religion =  buddhist 
-		size = 153
-	 } 
-	clergymen = {
-		culture = mongol
-		religion = secularism
-		size = 21
-	 } 
-	farmers = {
-		culture = mongol
-		religion =  buddhist 
-		size = 7503
-	 } 
-	farmers = {
-		culture = mongol
-		religion = secularism
-		size = 1071
-	 } 
+  clergymen = {
+    culture = mongol
+    religion =  buddhist
+    size = 153
+  }
+  clergymen = {
+    culture = mongol
+    religion = secularism
+    size = 21
+  }
+  farmers = {
+    culture = mongol
+    religion =  buddhist
+    size = 7503
+  }
+  farmers = {
+    culture = mongol
+    religion = secularism
+    size = 1071
+  }
 }
 #Bayan Tumen - Bayan Tumen (54000/13500 POPS)
 1467 = {
-	clergymen = {
-		culture = mongol
-		religion =  buddhist 
-		size = 236
-	 } 
-	clergymen = {
-		culture = mongol
-		religion = secularism
-		size = 33
-	 } 
-	farmers = {
-		culture = mongol
-		religion =  buddhist 
-		size = 11576
-	 } 
-	farmers = {
-		culture = mongol
-		religion = secularism
-		size = 1653
-	 } 
+  clergymen = {
+    culture = mongol
+    religion =  buddhist
+    size = 236
+  }
+  clergymen = {
+    culture = mongol
+    religion = secularism
+    size = 33
+  }
+  farmers = {
+    culture = mongol
+    religion =  buddhist
+    size = 11576
+  }
+  farmers = {
+    culture = mongol
+    religion = secularism
+    size = 1653
+  }
 }
 #Uliastai - Uliastai (68000/17000 POPS)
 1468 = {
-	clergymen = {
-		culture = mongol
-		religion =  buddhist 
-		size = 297
-	 } 
-	clergymen = {
-		culture = mongol
-		religion = secularism
-		size = 42
-	 } 
-	farmers = {
-		culture = mongol
-		religion =  buddhist 
-		size = 14577
-	 } 
-	farmers = {
-		culture = mongol
-		religion = secularism
-		size = 2082
-	 } 
+  clergymen = {
+    culture = mongol
+    religion =  buddhist
+    size = 297
+  }
+  clergymen = {
+    culture = mongol
+    religion = secularism
+    size = 42
+  }
+  farmers = {
+    culture = mongol
+    religion =  buddhist
+    size = 14577
+  }
+  farmers = {
+    culture = mongol
+    religion = secularism
+    size = 2082
+  }
 }
 #Sainshand - Sainshand (32000/8000 POPS)
 2207 = {
-	clergymen = {
-		culture = mongol
-		religion =  buddhist 
-		size = 140
-	 } 
-	clergymen = {
-		culture = mongol
-		religion = secularism
-		size = 20
-	 } 
-	farmers = {
-		culture = mongol
-		religion =  buddhist 
-		size = 6860
-	 } 
-	farmers = {
-		culture = mongol
-		religion = secularism
-		size = 980
-	 } 
+  clergymen = {
+    culture = mongol
+    religion =  buddhist
+    size = 140
+  }
+  clergymen = {
+    culture = mongol
+    religion = secularism
+    size = 20
+  }
+  farmers = {
+    culture = mongol
+    religion =  buddhist
+    size = 6860
+  }
+  farmers = {
+    culture = mongol
+    religion = secularism
+    size = 980
+  }
 }
 #Khatgal - Khatgal (40000/10000 POPS)
 2608 = {
-	clergymen = {
-		culture = mongol
-		religion =  buddhist 
-		size = 175
-	 } 
-	clergymen = {
-		culture = mongol
-		religion = secularism
-		size = 25
-	 } 
-	farmers = {
-		culture = mongol
-		religion =  buddhist 
-		size = 2275
-	 } 
-	farmers = {
-		culture = mongol
-		religion = secularism
-		size = 325
-	 } 
-	farmers = {
-		culture = kazak
-		religion =  sunni 
-		size = 7200
-	 } 
+  clergymen = {
+    culture = mongol
+    religion =  buddhist
+    size = 175
+  }
+  clergymen = {
+    culture = mongol
+    religion = secularism
+    size = 25
+  }
+  farmers = {
+    culture = mongol
+    religion =  buddhist
+    size = 2275
+  }
+  farmers = {
+    culture = mongol
+    religion = secularism
+    size = 325
+  }
+  farmers = {
+    culture = kazak
+    religion =  sunni
+    size = 7200
+  }
 }
 #Bulgan - Bulgan (58000/14500 POPS)
 2678 = {
-	clergymen = {
-		culture = mongol
-		religion =  buddhist 
-		size = 253
-	 } 
-	clergymen = {
-		culture = mongol
-		religion = secularism
-		size = 36
-	 } 
-	farmers = {
-		culture = mongol
-		religion =  buddhist 
-		size = 7993
-	 } 
-	farmers = {
-		culture = mongol
-		religion = secularism
-		size = 1141
-	 } 
-	farmers = {
-		culture = tuvans
-		religion =  buddhist 
-		size = 4440
-	 } 
-	farmers = {
-		culture = tuvans
-		religion = secularism
-		size = 634
-	 } 
+  clergymen = {
+    culture = mongol
+    religion =  buddhist
+    size = 253
+  }
+  clergymen = {
+    culture = mongol
+    religion = secularism
+    size = 36
+  }
+  farmers = {
+    culture = mongol
+    religion =  buddhist
+    size = 7993
+  }
+  farmers = {
+    culture = mongol
+    religion = secularism
+    size = 1141
+  }
+  farmers = {
+    culture = tuvans
+    religion =  buddhist
+    size = 4440
+  }
+  farmers = {
+    culture = tuvans
+    religion = secularism
+    size = 634
+  }
 }
 #Khovd - Khovd (48000/12000 POPS)
 2679 = {
-	clergymen = {
-		culture = mongol
-		religion =  buddhist 
-		size = 210
-	 } 
-	clergymen = {
-		culture = mongol
-		religion = secularism
-		size = 30
-	 } 
-	farmers = {
-		culture = mongol
-		religion =  buddhist 
-		size = 10290
-	 } 
-	farmers = {
-		culture = mongol
-		religion = secularism
-		size = 1470
-	 } 
+  clergymen = {
+    culture = mongol
+    religion =  buddhist
+    size = 210
+  }
+  clergymen = {
+    culture = mongol
+    religion = secularism
+    size = 30
+  }
+  farmers = {
+    culture = mongol
+    religion =  buddhist
+    size = 10290
+  }
+  farmers = {
+    culture = mongol
+    religion = secularism
+    size = 1470
+  }
 }

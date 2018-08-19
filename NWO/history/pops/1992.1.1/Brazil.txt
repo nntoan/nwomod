@@ -2,5086 +2,5086 @@
 2306 = {
 	clergymen = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 9769
-	 } 
+	}
 	clergymen = {
 		culture = brazilian
 		religion = secularism
 		size = 1085
-	 } 
+	}
 	farmers = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 304808
-	 } 
+	}
 	farmers = {
 		culture = brazilian
 		religion = secularism
 		size = 33867
-	 } 
+	}
 	farmers = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 138238
-	 } 
+	}
 	farmers = {
 		culture = brazilian
 		religion = secularism
 		size = 15359
-	 } 
+	}
 	farmers = {
 		culture = afro_portuguese
-		religion =  catholic 
+		religion =  catholic
 		size = 28331
-	 } 
+	}
 	farmers = {
 		culture = afro_portuguese
 		religion = secularism
 		size = 3147
-	 } 
+	}
 	farmers = {
 		culture = japanese
-		religion =  shinto 
+		religion =  shinto
 		size = 6838
-	 } 
+	}
 	farmers = {
 		culture = japanese
 		religion = secularism
 		size = 759
-	 } 
+	}
 }
 #Marabitanas - Amazonas (149000/37250 POPS)
 2401 = {
 	clergymen = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 670
-	 } 
+	}
 	clergymen = {
 		culture = brazilian
 		religion = secularism
 		size = 74
-	 } 
+	}
 	farmers = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 6369
-	 } 
+	}
 	farmers = {
 		culture = brazilian
 		religion = secularism
 		size = 707
-	 } 
+	}
 	farmers = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 25479
-	 } 
+	}
 	farmers = {
 		culture = brazilian
 		religion = secularism
 		size = 2831
-	 } 
+	}
 	farmers = {
 		culture = afro_portuguese
-		religion =  catholic 
+		religion =  catholic
 		size = 670
-	 } 
+	}
 	farmers = {
 		culture = afro_portuguese
 		religion = secularism
 		size = 74
-	 } 
+	}
 	farmers = {
 		culture = native_american_minor
-		religion =  animist 
+		religion =  animist
 		size = 334
-	 } 
+	}
 	farmers = {
 		culture = native_american_minor
 		religion = secularism
 		size = 37
-	 } 
+	}
 }
 #Manaus - Amazonas (2141000/535250 POPS)
 2402 = {
 	officers = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 1063
-	 } 
+	}
 	officers = {
 		culture = brazilian
 		religion = secularism
 		size = 118
-	 } 
+	}
 	soldiers = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 20223
-	 } 
+	}
 	soldiers = {
 		culture = brazilian
 		religion = secularism
 		size = 2247
-	 } 
+	}
 	aristocrats = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 19269
-	 } 
+	}
 	aristocrats = {
 		culture = brazilian
 		religion = secularism
 		size = 2141
-	 } 
+	}
 	bureaucrats = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 963
-	 } 
+	}
 	bureaucrats = {
 		culture = brazilian
 		religion = secularism
 		size = 107
-	 } 
+	}
 	capitalists = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 2408
-	 } 
+	}
 	capitalists = {
 		culture = brazilian
 		religion = secularism
 		size = 267
-	 } 
+	}
 	clergymen = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 9634
-	 } 
+	}
 	clergymen = {
 		culture = brazilian
 		religion = secularism
 		size = 1070
-	 } 
+	}
 	clerks = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 4914
-	 } 
+	}
 	clerks = {
 		culture = brazilian
 		religion = secularism
 		size = 546
-	 } 
+	}
 	artisans = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 4668
-	 } 
+	}
 	artisans = {
 		culture = brazilian
 		religion = secularism
 		size = 518
-	 } 
+	}
 	craftsmen = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 14742
-	 } 
+	}
 	craftsmen = {
 		culture = brazilian
 		religion = secularism
 		size = 1638
-	 } 
+	}
 	farmers = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 23274
-	 } 
+	}
 	farmers = {
 		culture = brazilian
 		religion = secularism
 		size = 2586
-	 } 
+	}
 	farmers = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 366111
-	 } 
+	}
 	farmers = {
 		culture = brazilian
 		religion = secularism
 		size = 40679
-	 } 
+	}
 	farmers = {
 		culture = afro_portuguese
-		religion =  catholic 
+		religion =  catholic
 		size = 9634
-	 } 
+	}
 	farmers = {
 		culture = afro_portuguese
 		religion = secularism
 		size = 1070
-	 } 
+	}
 	farmers = {
 		culture = native_american_minor
-		religion =  catholic 
+		religion =  catholic
 		size = 4816
-	 } 
+	}
 	farmers = {
 		culture = native_american_minor
 		religion = secularism
 		size = 535
-	 } 
+	}
 }
 #Cachoeira - Amazonas (149000/37250 POPS)
 2403 = {
 	clergymen = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 670
-	 } 
+	}
 	clergymen = {
 		culture = brazilian
 		religion = secularism
 		size = 74
-	 } 
+	}
 	farmers = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 6369
-	 } 
+	}
 	farmers = {
 		culture = brazilian
 		religion = secularism
 		size = 707
-	 } 
+	}
 	farmers = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 25479
-	 } 
+	}
 	farmers = {
 		culture = brazilian
 		religion = secularism
 		size = 2831
-	 } 
+	}
 	farmers = {
 		culture = afro_portuguese
-		religion =  catholic 
+		religion =  catholic
 		size = 670
-	 } 
+	}
 	farmers = {
 		culture = afro_portuguese
 		religion = secularism
 		size = 74
-	 } 
+	}
 	farmers = {
 		culture = native_american_minor
-		religion =  catholic 
+		religion =  catholic
 		size = 334
-	 } 
+	}
 	farmers = {
 		culture = native_american_minor
 		religion = secularism
 		size = 37
-	 } 
+	}
 }
 #Tefe - Amazonas (149000/37250 POPS)
 2404 = {
 	clergymen = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 670
-	 } 
+	}
 	clergymen = {
 		culture = brazilian
 		religion = secularism
 		size = 74
-	 } 
+	}
 	farmers = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 6369
-	 } 
+	}
 	farmers = {
 		culture = brazilian
 		religion = secularism
 		size = 707
-	 } 
+	}
 	farmers = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 25479
-	 } 
+	}
 	farmers = {
 		culture = brazilian
 		religion = secularism
 		size = 2831
-	 } 
+	}
 	farmers = {
 		culture = afro_portuguese
-		religion =  catholic 
+		religion =  catholic
 		size = 670
-	 } 
+	}
 	farmers = {
 		culture = afro_portuguese
 		religion = secularism
 		size = 74
-	 } 
+	}
 	farmers = {
 		culture = native_american_minor
-		religion =  catholic 
+		religion =  catholic
 		size = 334
-	 } 
+	}
 	farmers = {
 		culture = native_american_minor
 		religion = secularism
 		size = 37
-	 } 
+	}
 }
 #Borba - Amazonas (149000/37250 POPS)
 2405 = {
 	clergymen = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 670
-	 } 
+	}
 	clergymen = {
 		culture = brazilian
 		religion = secularism
 		size = 74
-	 } 
+	}
 	farmers = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 6369
-	 } 
+	}
 	farmers = {
 		culture = brazilian
 		religion = secularism
 		size = 707
-	 } 
+	}
 	farmers = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 25479
-	 } 
+	}
 	farmers = {
 		culture = brazilian
 		religion = secularism
 		size = 2831
-	 } 
+	}
 	farmers = {
 		culture = afro_portuguese
-		religion =  catholic 
+		religion =  catholic
 		size = 670
-	 } 
+	}
 	farmers = {
 		culture = afro_portuguese
 		religion = secularism
 		size = 74
-	 } 
+	}
 	farmers = {
 		culture = native_american_minor
-		religion =  catholic 
+		religion =  catholic
 		size = 334
-	 } 
+	}
 	farmers = {
 		culture = native_american_minor
 		religion = secularism
 		size = 37
-	 } 
+	}
 }
 #Tabatinga - Amazonas (149000/37250 POPS)
 2407 = {
 	clergymen = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 670
-	 } 
+	}
 	clergymen = {
 		culture = brazilian
 		religion = secularism
 		size = 74
-	 } 
+	}
 	farmers = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 6369
-	 } 
+	}
 	farmers = {
 		culture = brazilian
 		religion = secularism
 		size = 707
-	 } 
+	}
 	farmers = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 25479
-	 } 
+	}
 	farmers = {
 		culture = brazilian
 		religion = secularism
 		size = 2831
-	 } 
+	}
 	farmers = {
 		culture = afro_portuguese
-		religion =  catholic 
+		religion =  catholic
 		size = 670
-	 } 
+	}
 	farmers = {
 		culture = afro_portuguese
 		religion = secularism
 		size = 74
-	 } 
+	}
 	farmers = {
 		culture = native_american_minor
-		religion =  catholic 
+		religion =  catholic
 		size = 334
-	 } 
+	}
 	farmers = {
 		culture = native_american_minor
 		religion = secularism
 		size = 37
-	 } 
+	}
 }
 #Oriximina - Pará (561000/140250 POPS)
 2408 = {
 	clergymen = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 2524
-	 } 
+	}
 	clergymen = {
 		culture = brazilian
 		religion = secularism
 		size = 280
-	 } 
+	}
 	farmers = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 25245
-	 } 
+	}
 	farmers = {
 		culture = brazilian
 		religion = secularism
 		size = 2805
-	 } 
+	}
 	farmers = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 90882
-	 } 
+	}
 	farmers = {
 		culture = brazilian
 		religion = secularism
 		size = 10098
-	 } 
+	}
 	farmers = {
 		culture = afro_portuguese
-		religion =  catholic 
+		religion =  catholic
 		size = 6310
-	 } 
+	}
 	farmers = {
 		culture = afro_portuguese
 		religion = secularism
 		size = 701
-	 } 
+	}
 	farmers = {
 		culture = native_american_minor
-		religion =  catholic 
+		religion =  catholic
 		size = 1261
-	 } 
+	}
 	farmers = {
 		culture = native_american_minor
 		religion = secularism
 		size = 140
-	 } 
+	}
 }
 #Belem - Pará (2302000/575500 POPS)
 2410 = {
 	officers = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 1969
-	 } 
+	}
 	officers = {
 		culture = brazilian
 		religion = secularism
 		size = 218
-	 } 
+	}
 	soldiers = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 37421
-	 } 
+	}
 	soldiers = {
 		culture = brazilian
 		religion = secularism
 		size = 4157
-	 } 
+	}
 	aristocrats = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 20718
-	 } 
+	}
 	aristocrats = {
 		culture = brazilian
 		religion = secularism
 		size = 2302
-	 } 
+	}
 	bureaucrats = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 1035
-	 } 
+	}
 	bureaucrats = {
 		culture = brazilian
 		religion = secularism
 		size = 115
-	 } 
+	}
 	capitalists = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 2589
-	 } 
+	}
 	capitalists = {
 		culture = brazilian
 		religion = secularism
 		size = 287
-	 } 
+	}
 	clergymen = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 10359
-	 } 
+	}
 	clergymen = {
 		culture = brazilian
 		religion = secularism
 		size = 1151
-	 } 
+	}
 	clerks = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 5107
-	 } 
+	}
 	clerks = {
 		culture = brazilian
 		religion = secularism
 		size = 567
-	 } 
+	}
 	artisans = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 4851
-	 } 
+	}
 	artisans = {
 		culture = brazilian
 		religion = secularism
 		size = 539
-	 } 
+	}
 	craftsmen = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 15323
-	 } 
+	}
 	craftsmen = {
 		culture = brazilian
 		religion = secularism
 		size = 1702
-	 } 
+	}
 	farmers = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 14573
-	 } 
+	}
 	farmers = {
 		culture = brazilian
 		religion = secularism
 		size = 1619
-	 } 
+	}
 	farmers = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 372924
-	 } 
+	}
 	farmers = {
 		culture = brazilian
 		religion = secularism
 		size = 41436
-	 } 
+	}
 	farmers = {
 		culture = afro_portuguese
-		religion =  catholic 
+		religion =  catholic
 		size = 25897
-	 } 
+	}
 	farmers = {
 		culture = afro_portuguese
 		religion = secularism
 		size = 2877
-	 } 
+	}
 	farmers = {
 		culture = native_american_minor
-		religion =  catholic 
+		religion =  catholic
 		size = 5179
-	 } 
+	}
 	farmers = {
 		culture = native_american_minor
 		religion = secularism
 		size = 575
-	 } 
+	}
 }
 #Santarem - Pará (561000/140250 POPS)
 2411 = {
 	clergymen = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 2524
-	 } 
+	}
 	clergymen = {
 		culture = brazilian
 		religion = secularism
 		size = 280
-	 } 
+	}
 	farmers = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 25245
-	 } 
+	}
 	farmers = {
 		culture = brazilian
 		religion = secularism
 		size = 2805
-	 } 
+	}
 	farmers = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 90882
-	 } 
+	}
 	farmers = {
 		culture = brazilian
 		religion = secularism
 		size = 10098
-	 } 
+	}
 	farmers = {
 		culture = afro_portuguese
-		religion =  catholic 
+		religion =  catholic
 		size = 6310
-	 } 
+	}
 	farmers = {
 		culture = afro_portuguese
 		religion = secularism
 		size = 701
-	 } 
+	}
 	farmers = {
 		culture = native_american_minor
-		religion =  catholic 
+		religion =  catholic
 		size = 1261
-	 } 
+	}
 	farmers = {
 		culture = native_american_minor
 		religion = secularism
 		size = 140
-	 } 
+	}
 }
 #Obidos - Pará (561000/140250 POPS)
 2412 = {
 	clergymen = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 2524
-	 } 
+	}
 	clergymen = {
 		culture = brazilian
 		religion = secularism
 		size = 280
-	 } 
+	}
 	farmers = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 25245
-	 } 
+	}
 	farmers = {
 		culture = brazilian
 		religion = secularism
 		size = 2805
-	 } 
+	}
 	farmers = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 90882
-	 } 
+	}
 	farmers = {
 		culture = brazilian
 		religion = secularism
 		size = 10098
-	 } 
+	}
 	farmers = {
 		culture = afro_portuguese
-		religion =  catholic 
+		religion =  catholic
 		size = 6310
-	 } 
+	}
 	farmers = {
 		culture = afro_portuguese
 		religion = secularism
 		size = 701
-	 } 
+	}
 	farmers = {
 		culture = native_american_minor
-		religion =  catholic 
+		religion =  catholic
 		size = 1261
-	 } 
+	}
 	farmers = {
 		culture = native_american_minor
 		religion = secularism
 		size = 140
-	 } 
+	}
 }
 #Maraba - Pará (561000/140250 POPS)
 2413 = {
 	clergymen = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 2524
-	 } 
+	}
 	clergymen = {
 		culture = brazilian
 		religion = secularism
 		size = 280
-	 } 
+	}
 	farmers = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 25245
-	 } 
+	}
 	farmers = {
 		culture = brazilian
 		religion = secularism
 		size = 2805
-	 } 
+	}
 	farmers = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 90882
-	 } 
+	}
 	farmers = {
 		culture = brazilian
 		religion = secularism
 		size = 10098
-	 } 
+	}
 	farmers = {
 		culture = afro_portuguese
-		religion =  catholic 
+		religion =  catholic
 		size = 6310
-	 } 
+	}
 	farmers = {
 		culture = afro_portuguese
 		religion = secularism
 		size = 701
-	 } 
+	}
 	farmers = {
 		culture = native_american_minor
-		religion =  catholic 
+		religion =  catholic
 		size = 1261
-	 } 
+	}
 	farmers = {
 		culture = native_american_minor
 		religion = secularism
 		size = 140
-	 } 
+	}
 }
 #Amapa - Amapa (562000/140500 POPS)
 2414 = {
 	officers = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 491
-	 } 
+	}
 	officers = {
 		culture = brazilian
 		religion = secularism
 		size = 54
-	 } 
+	}
 	soldiers = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 9352
-	 } 
+	}
 	soldiers = {
 		culture = brazilian
 		religion = secularism
 		size = 1039
-	 } 
+	}
 	aristocrats = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 5058
-	 } 
+	}
 	aristocrats = {
 		culture = brazilian
 		religion = secularism
 		size = 562
-	 } 
+	}
 	bureaucrats = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 252
-	 } 
+	}
 	bureaucrats = {
 		culture = brazilian
 		religion = secularism
 		size = 28
-	 } 
+	}
 	capitalists = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 631
-	 } 
+	}
 	capitalists = {
 		culture = brazilian
 		religion = secularism
 		size = 70
-	 } 
+	}
 	clergymen = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 2529
-	 } 
+	}
 	clergymen = {
 		culture = brazilian
 		religion = secularism
 		size = 281
-	 } 
+	}
 	clerks = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 1243
-	 } 
+	}
 	clerks = {
 		culture = brazilian
 		religion = secularism
 		size = 138
-	 } 
+	}
 	artisans = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 1181
-	 } 
+	}
 	artisans = {
 		culture = brazilian
 		religion = secularism
 		size = 131
-	 } 
+	}
 	craftsmen = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 3733
-	 } 
+	}
 	craftsmen = {
 		culture = brazilian
 		religion = secularism
 		size = 414
-	 } 
+	}
 	farmers = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 3344
-	 } 
+	}
 	farmers = {
 		culture = brazilian
 		religion = secularism
 		size = 371
-	 } 
+	}
 	farmers = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 91044
-	 } 
+	}
 	farmers = {
 		culture = brazilian
 		religion = secularism
 		size = 10116
-	 } 
+	}
 	farmers = {
 		culture = afro_portuguese
-		religion =  catholic 
+		religion =  catholic
 		size = 6322
-	 } 
+	}
 	farmers = {
 		culture = afro_portuguese
 		religion = secularism
 		size = 702
-	 } 
+	}
 	farmers = {
 		culture = native_american_minor
-		religion =  catholic 
+		religion =  catholic
 		size = 1264
-	 } 
+	}
 	farmers = {
 		culture = native_american_minor
 		religion = secularism
 		size = 140
-	 } 
+	}
 }
 #Macapa - Pará (748000/187000 POPS)
 2415 = {
 	clergymen = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 3366
-	 } 
+	}
 	clergymen = {
 		culture = brazilian
 		religion = secularism
 		size = 374
-	 } 
+	}
 	farmers = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 33660
-	 } 
+	}
 	farmers = {
 		culture = brazilian
 		religion = secularism
 		size = 3740
-	 } 
+	}
 	farmers = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 121176
-	 } 
+	}
 	farmers = {
 		culture = brazilian
 		religion = secularism
 		size = 13464
-	 } 
+	}
 	farmers = {
 		culture = afro_portuguese
-		religion =  catholic 
+		religion =  catholic
 		size = 8415
-	 } 
+	}
 	farmers = {
 		culture = afro_portuguese
 		religion = secularism
 		size = 935
-	 } 
+	}
 	farmers = {
 		culture = native_american_minor
-		religion =  catholic 
+		religion =  catholic
 		size = 1683
-	 } 
+	}
 	farmers = {
 		culture = native_american_minor
 		religion = secularism
 		size = 187
-	 } 
+	}
 }
 #Dourados - Mato Grosso do Sul (464000/116000 POPS)
 2416 = {
 	officers = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 741
-	 } 
+	}
 	officers = {
 		culture = brazilian
 		religion = secularism
 		size = 82
-	 } 
+	}
 	soldiers = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 14101
-	 } 
+	}
 	soldiers = {
 		culture = brazilian
 		religion = secularism
 		size = 1566
-	 } 
+	}
 	aristocrats = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 4176
-	 } 
+	}
 	aristocrats = {
 		culture = brazilian
 		religion = secularism
 		size = 464
-	 } 
+	}
 	bureaucrats = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 208
-	 } 
+	}
 	bureaucrats = {
 		culture = brazilian
 		religion = secularism
 		size = 23
-	 } 
+	}
 	capitalists = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 522
-	 } 
+	}
 	capitalists = {
 		culture = brazilian
 		religion = secularism
 		size = 58
-	 } 
+	}
 	clergymen = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 2088
-	 } 
+	}
 	clergymen = {
 		culture = brazilian
 		religion = secularism
 		size = 232
-	 } 
+	}
 	clerks = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 955
-	 } 
+	}
 	clerks = {
 		culture = brazilian
 		religion = secularism
 		size = 106
-	 } 
+	}
 	artisans = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 907
-	 } 
+	}
 	artisans = {
 		culture = brazilian
 		religion = secularism
 		size = 100
-	 } 
+	}
 	craftsmen = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 2867
-	 } 
+	}
 	craftsmen = {
 		culture = brazilian
 		religion = secularism
 		size = 318
-	 } 
+	}
 	farmers = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 25632
-	 } 
+	}
 	farmers = {
 		culture = brazilian
 		religion = secularism
 		size = 2848
-	 } 
+	}
 	farmers = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 45936
-	 } 
+	}
 	farmers = {
 		culture = brazilian
 		religion = secularism
 		size = 5104
-	 } 
+	}
 	farmers = {
 		culture = afro_portuguese
-		religion =  catholic 
+		religion =  catholic
 		size = 4176
-	 } 
+	}
 	farmers = {
 		culture = afro_portuguese
 		religion = secularism
 		size = 464
-	 } 
+	}
 	farmers = {
 		culture = native_american_minor
-		religion =  catholic 
+		religion =  catholic
 		size = 2088
-	 } 
+	}
 	farmers = {
 		culture = native_american_minor
 		religion = secularism
 		size = 232
-	 } 
+	}
 }
 #Vila Bela - Mato Grosso (1666000/416500 POPS)
 2417 = {
 	clergymen = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 7497
-	 } 
+	}
 	clergymen = {
 		culture = brazilian
 		religion = secularism
 		size = 833
-	 } 
+	}
 	farmers = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 146191
-	 } 
+	}
 	farmers = {
 		culture = brazilian
 		religion = secularism
 		size = 16243
-	 } 
+	}
 	farmers = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 179928
-	 } 
+	}
 	farmers = {
 		culture = brazilian
 		religion = secularism
 		size = 19992
-	 } 
+	}
 	farmers = {
 		culture = afro_portuguese
-		religion =  catholic 
+		religion =  catholic
 		size = 33736
-	 } 
+	}
 	farmers = {
 		culture = afro_portuguese
 		religion = secularism
 		size = 3748
-	 } 
+	}
 	farmers = {
 		culture = native_american_minor
-		religion =  catholic 
+		religion =  catholic
 		size = 7497
-	 } 
+	}
 	farmers = {
 		culture = native_american_minor
 		religion = secularism
 		size = 833
-	 } 
+	}
 }
 #Cuiaba - Mato Grosso (748000/187000 POPS)
 2418 = {
 	officers = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 887
-	 } 
+	}
 	officers = {
 		culture = brazilian
 		religion = secularism
 		size = 98
-	 } 
+	}
 	soldiers = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 16866
-	 } 
+	}
 	soldiers = {
 		culture = brazilian
 		religion = secularism
 		size = 1874
-	 } 
+	}
 	aristocrats = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 6732
-	 } 
+	}
 	aristocrats = {
 		culture = brazilian
 		religion = secularism
 		size = 748
-	 } 
+	}
 	bureaucrats = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 336
-	 } 
+	}
 	bureaucrats = {
 		culture = brazilian
 		religion = secularism
 		size = 37
-	 } 
+	}
 	capitalists = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 841
-	 } 
+	}
 	capitalists = {
 		culture = brazilian
 		religion = secularism
 		size = 93
-	 } 
+	}
 	clergymen = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 3366
-	 } 
+	}
 	clergymen = {
 		culture = brazilian
 		religion = secularism
 		size = 374
-	 } 
+	}
 	clerks = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 1606
-	 } 
+	}
 	clerks = {
 		culture = brazilian
 		religion = secularism
 		size = 178
-	 } 
+	}
 	artisans = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 1526
-	 } 
+	}
 	artisans = {
 		culture = brazilian
 		religion = secularism
 		size = 169
-	 } 
+	}
 	craftsmen = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 4820
-	 } 
+	}
 	craftsmen = {
 		culture = brazilian
 		religion = secularism
 		size = 535
-	 } 
+	}
 	farmers = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 32020
-	 } 
+	}
 	farmers = {
 		culture = brazilian
 		religion = secularism
 		size = 3557
-	 } 
+	}
 	farmers = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 80784
-	 } 
+	}
 	farmers = {
 		culture = brazilian
 		religion = secularism
 		size = 8976
-	 } 
+	}
 	farmers = {
 		culture = afro_portuguese
-		religion =  catholic 
+		religion =  catholic
 		size = 15147
-	 } 
+	}
 	farmers = {
 		culture = afro_portuguese
 		religion = secularism
 		size = 1683
-	 } 
+	}
 	farmers = {
 		culture = native_american_minor
-		religion =  catholic 
+		religion =  catholic
 		size = 3366
-	 } 
+	}
 	farmers = {
 		culture = native_american_minor
 		religion = secularism
 		size = 374
-	 } 
+	}
 }
 #Corumba - Mato Grosso do Sul (748000/187000 POPS)
 2419 = {
 	clergymen = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 3366
-	 } 
+	}
 	clergymen = {
 		culture = brazilian
 		religion = secularism
 		size = 374
-	 } 
+	}
 	farmers = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 80784
-	 } 
+	}
 	farmers = {
 		culture = brazilian
 		religion = secularism
 		size = 8976
-	 } 
+	}
 	farmers = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 74052
-	 } 
+	}
 	farmers = {
 		culture = brazilian
 		religion = secularism
 		size = 8228
-	 } 
+	}
 	farmers = {
 		culture = afro_portuguese
-		religion =  catholic 
+		religion =  catholic
 		size = 6732
-	 } 
+	}
 	farmers = {
 		culture = afro_portuguese
 		religion = secularism
 		size = 748
-	 } 
+	}
 	farmers = {
 		culture = native_american_minor
-		religion =  catholic 
+		religion =  catholic
 		size = 3366
-	 } 
+	}
 	farmers = {
 		culture = native_american_minor
 		religion = secularism
 		size = 374
-	 } 
+	}
 }
 #Iguatemi - Mato Grosso do Sul (748000/187000 POPS)
 2420 = {
 	clergymen = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 3366
-	 } 
+	}
 	clergymen = {
 		culture = brazilian
 		religion = secularism
 		size = 374
-	 } 
+	}
 	farmers = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 80784
-	 } 
+	}
 	farmers = {
 		culture = brazilian
 		religion = secularism
 		size = 8976
-	 } 
+	}
 	farmers = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 74052
-	 } 
+	}
 	farmers = {
 		culture = brazilian
 		religion = secularism
 		size = 8228
-	 } 
+	}
 	farmers = {
 		culture = afro_portuguese
-		religion =  catholic 
+		religion =  catholic
 		size = 6732
-	 } 
+	}
 	farmers = {
 		culture = afro_portuguese
 		religion = secularism
 		size = 748
-	 } 
+	}
 	farmers = {
 		culture = native_american_minor
-		religion =  catholic 
+		religion =  catholic
 		size = 3366
-	 } 
+	}
 	farmers = {
 		culture = native_american_minor
 		religion = secularism
 		size = 374
-	 } 
+	}
 }
 #Vila Boa - Goiás (2995000/748750 POPS)
 2421 = {
 	officers = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 1101
-	 } 
+	}
 	officers = {
 		culture = brazilian
 		religion = secularism
 		size = 122
-	 } 
+	}
 	soldiers = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 20934
-	 } 
+	}
 	soldiers = {
 		culture = brazilian
 		religion = secularism
 		size = 2326
-	 } 
+	}
 	aristocrats = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 26955
-	 } 
+	}
 	aristocrats = {
 		culture = brazilian
 		religion = secularism
 		size = 2995
-	 } 
+	}
 	bureaucrats = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 1347
-	 } 
+	}
 	bureaucrats = {
 		culture = brazilian
 		religion = secularism
 		size = 149
-	 } 
+	}
 	capitalists = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 3368
-	 } 
+	}
 	capitalists = {
 		culture = brazilian
 		religion = secularism
 		size = 374
-	 } 
+	}
 	clergymen = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 13477
-	 } 
+	}
 	clergymen = {
 		culture = brazilian
 		religion = secularism
 		size = 1497
-	 } 
+	}
 	clerks = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 6957
-	 } 
+	}
 	clerks = {
 		culture = brazilian
 		religion = secularism
 		size = 773
-	 } 
+	}
 	artisans = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 6608
-	 } 
+	}
 	artisans = {
 		culture = brazilian
 		religion = secularism
 		size = 734
-	 } 
+	}
 	craftsmen = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 20871
-	 } 
+	}
 	craftsmen = {
 		culture = brazilian
 		religion = secularism
 		size = 2319
-	 } 
+	}
 	farmers = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 167927
-	 } 
+	}
 	farmers = {
 		culture = brazilian
 		religion = secularism
 		size = 18658
-	 } 
+	}
 	farmers = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 384108
-	 } 
+	}
 	farmers = {
 		culture = brazilian
 		religion = secularism
 		size = 42678
-	 } 
+	}
 	farmers = {
 		culture = afro_portuguese
-		religion =  catholic 
+		religion =  catholic
 		size = 20215
-	 } 
+	}
 	farmers = {
 		culture = afro_portuguese
 		religion = secularism
 		size = 2246
-	 } 
+	}
 }
 #Aganja - Goiás (1890000/472500 POPS)
 2422 = {
 	officers = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 1121
-	 } 
+	}
 	officers = {
 		culture = brazilian
 		religion = secularism
 		size = 124
-	 } 
+	}
 	soldiers = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 21308
-	 } 
+	}
 	soldiers = {
 		culture = brazilian
 		religion = secularism
 		size = 2367
-	 } 
+	}
 	aristocrats = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 17010
-	 } 
+	}
 	aristocrats = {
 		culture = brazilian
 		religion = secularism
 		size = 1890
-	 } 
+	}
 	bureaucrats = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 850
-	 } 
+	}
 	bureaucrats = {
 		culture = brazilian
 		religion = secularism
 		size = 94
-	 } 
+	}
 	capitalists = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 2125
-	 } 
+	}
 	capitalists = {
 		culture = brazilian
 		religion = secularism
 		size = 236
-	 } 
+	}
 	clergymen = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 8505
-	 } 
+	}
 	clergymen = {
 		culture = brazilian
 		religion = secularism
 		size = 945
-	 } 
+	}
 	clerks = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 4299
-	 } 
+	}
 	clerks = {
 		culture = brazilian
 		religion = secularism
 		size = 477
-	 } 
+	}
 	artisans = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 4084
-	 } 
+	}
 	artisans = {
 		culture = brazilian
 		religion = secularism
 		size = 453
-	 } 
+	}
 	craftsmen = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 12897
-	 } 
+	}
 	craftsmen = {
 		culture = brazilian
 		religion = secularism
 		size = 1433
-	 } 
+	}
 	farmers = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 97897
-	 } 
+	}
 	farmers = {
 		culture = brazilian
 		religion = secularism
 		size = 10877
-	 } 
+	}
 	farmers = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 242392
-	 } 
+	}
 	farmers = {
 		culture = brazilian
 		religion = secularism
 		size = 26932
-	 } 
+	}
 	farmers = {
 		culture = afro_portuguese
-		religion =  catholic 
+		religion =  catholic
 		size = 12757
-	 } 
+	}
 	farmers = {
 		culture = afro_portuguese
 		religion = secularism
 		size = 1417
-	 } 
+	}
 }
 #Palmas - Tocantins (1123000/280750 POPS)
 2423 = {
 	clergymen = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 5053
-	 } 
+	}
 	clergymen = {
 		culture = brazilian
 		religion = secularism
 		size = 561
-	 } 
+	}
 	farmers = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 96016
-	 } 
+	}
 	farmers = {
 		culture = brazilian
 		religion = secularism
 		size = 10668
-	 } 
+	}
 	farmers = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 151605
-	 } 
+	}
 	farmers = {
 		culture = brazilian
 		religion = secularism
 		size = 16845
-	 } 
+	}
 }
 #Sao Luis - Maranhão (2995000/748750 POPS)
 2424 = {
 	officers = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 1899
-	 } 
+	}
 	officers = {
 		culture = brazilian
 		religion = secularism
 		size = 211
-	 } 
+	}
 	soldiers = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 36095
-	 } 
+	}
 	soldiers = {
 		culture = brazilian
 		religion = secularism
 		size = 4010
-	 } 
+	}
 	aristocrats = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 26955
-	 } 
+	}
 	aristocrats = {
 		culture = brazilian
 		religion = secularism
 		size = 2995
-	 } 
+	}
 	bureaucrats = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 1347
-	 } 
+	}
 	bureaucrats = {
 		culture = brazilian
 		religion = secularism
 		size = 149
-	 } 
+	}
 	capitalists = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 3368
-	 } 
+	}
 	capitalists = {
 		culture = brazilian
 		religion = secularism
 		size = 374
-	 } 
+	}
 	clergymen = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 13477
-	 } 
+	}
 	clergymen = {
 		culture = brazilian
 		religion = secularism
 		size = 1497
-	 } 
+	}
 	clerks = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 6786
-	 } 
+	}
 	clerks = {
 		culture = brazilian
 		religion = secularism
 		size = 754
-	 } 
+	}
 	artisans = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 6447
-	 } 
+	}
 	artisans = {
 		culture = brazilian
 		religion = secularism
 		size = 716
-	 } 
+	}
 	craftsmen = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 20360
-	 } 
+	}
 	craftsmen = {
 		culture = brazilian
 		religion = secularism
 		size = 2262
-	 } 
+	}
 	farmers = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 44991
-	 } 
+	}
 	farmers = {
 		culture = brazilian
 		religion = secularism
 		size = 4999
-	 } 
+	}
 	farmers = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 471711
-	 } 
+	}
 	farmers = {
 		culture = brazilian
 		religion = secularism
 		size = 52412
-	 } 
+	}
 	farmers = {
 		culture = afro_portuguese
-		religion =  catholic 
+		religion =  catholic
 		size = 40432
-	 } 
+	}
 	farmers = {
 		culture = afro_portuguese
 		religion = secularism
 		size = 4492
-	 } 
+	}
 }
 #Chapada - Maranhão (2135000/533750 POPS)
 2425 = {
 	clergymen = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 9607
-	 } 
+	}
 	clergymen = {
 		culture = brazilian
 		religion = secularism
 		size = 1067
-	 } 
+	}
 	farmers = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 105682
-	 } 
+	}
 	farmers = {
 		culture = brazilian
 		religion = secularism
 		size = 11742
-	 } 
+	}
 	farmers = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 336262
-	 } 
+	}
 	farmers = {
 		culture = brazilian
 		religion = secularism
 		size = 37362
-	 } 
+	}
 	farmers = {
 		culture = afro_portuguese
-		religion =  catholic 
+		religion =  catholic
 		size = 28822
-	 } 
+	}
 	farmers = {
 		culture = afro_portuguese
 		religion = secularism
 		size = 3202
-	 } 
+	}
 }
 #Teresina - Piauí (1212000/303000 POPS)
 2426 = {
 	officers = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 873
-	 } 
+	}
 	officers = {
 		culture = brazilian
 		religion = secularism
 		size = 97
-	 } 
+	}
 	soldiers = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 16611
-	 } 
+	}
 	soldiers = {
 		culture = brazilian
 		religion = secularism
 		size = 1845
-	 } 
+	}
 	aristocrats = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 10908
-	 } 
+	}
 	aristocrats = {
 		culture = brazilian
 		religion = secularism
 		size = 1212
-	 } 
+	}
 	bureaucrats = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 545
-	 } 
+	}
 	bureaucrats = {
 		culture = brazilian
 		religion = secularism
 		size = 60
-	 } 
+	}
 	capitalists = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 1363
-	 } 
+	}
 	capitalists = {
 		culture = brazilian
 		religion = secularism
 		size = 151
-	 } 
+	}
 	clergymen = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 5454
-	 } 
+	}
 	clergymen = {
 		culture = brazilian
 		religion = secularism
 		size = 606
-	 } 
+	}
 	clerks = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 2723
-	 } 
+	}
 	clerks = {
 		culture = brazilian
 		religion = secularism
 		size = 302
-	 } 
+	}
 	artisans = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 2587
-	 } 
+	}
 	artisans = {
 		culture = brazilian
 		religion = secularism
 		size = 287
-	 } 
+	}
 	craftsmen = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 8172
-	 } 
+	}
 	craftsmen = {
 		culture = brazilian
 		religion = secularism
 		size = 908
-	 } 
+	}
 	farmers = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 16209
-	 } 
+	}
 	farmers = {
 		culture = brazilian
 		religion = secularism
 		size = 1801
-	 } 
+	}
 	farmers = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 190890
-	 } 
+	}
 	farmers = {
 		culture = brazilian
 		religion = secularism
 		size = 21210
-	 } 
+	}
 	farmers = {
 		culture = afro_portuguese
-		religion =  catholic 
+		religion =  catholic
 		size = 16362
-	 } 
+	}
 	farmers = {
 		culture = afro_portuguese
 		religion = secularism
 		size = 1818
-	 } 
+	}
 }
 #Oeiras - Piauí (1123000/280750 POPS)
 2427 = {
 	clergymen = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 5053
-	 } 
+	}
 	clergymen = {
 		culture = brazilian
 		religion = secularism
 		size = 561
-	 } 
+	}
 	farmers = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 55588
-	 } 
+	}
 	farmers = {
 		culture = brazilian
 		religion = secularism
 		size = 6176
-	 } 
+	}
 	farmers = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 176872
-	 } 
+	}
 	farmers = {
 		culture = brazilian
 		religion = secularism
 		size = 19652
-	 } 
+	}
 	farmers = {
 		culture = afro_portuguese
-		religion =  catholic 
+		religion =  catholic
 		size = 15160
-	 } 
+	}
 	farmers = {
 		culture = afro_portuguese
 		religion = secularism
 		size = 1684
-	 } 
+	}
 }
 #Paraiba - Paraiba (2954000/738500 POPS)
 2428 = {
 	clergymen = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 13293
-	 } 
+	}
 	clergymen = {
 		culture = brazilian
 		religion = secularism
 		size = 1477
-	 } 
+	}
 	farmers = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 225981
-	 } 
+	}
 	farmers = {
 		culture = brazilian
 		religion = secularism
 		size = 25109
-	 } 
+	}
 	farmers = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 385496
-	 } 
+	}
 	farmers = {
 		culture = brazilian
 		religion = secularism
 		size = 42832
-	 } 
+	}
 	farmers = {
 		culture = afro_portuguese
-		religion =  catholic 
+		religion =  catholic
 		size = 39879
-	 } 
+	}
 	farmers = {
 		culture = afro_portuguese
 		religion = secularism
 		size = 4431
-	 } 
+	}
 }
 #Fortaleza - Ceara (4828000/1207000 POPS)
 2429 = {
 	officers = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 2336
-	 } 
+	}
 	officers = {
 		culture = brazilian
 		religion = secularism
 		size = 259
-	 } 
+	}
 	soldiers = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 44405
-	 } 
+	}
 	soldiers = {
 		culture = brazilian
 		religion = secularism
 		size = 4933
-	 } 
+	}
 	aristocrats = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 43452
-	 } 
+	}
 	aristocrats = {
 		culture = brazilian
 		religion = secularism
 		size = 4828
-	 } 
+	}
 	bureaucrats = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 2172
-	 } 
+	}
 	bureaucrats = {
 		culture = brazilian
 		religion = secularism
 		size = 241
-	 } 
+	}
 	capitalists = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 5431
-	 } 
+	}
 	capitalists = {
 		culture = brazilian
 		religion = secularism
 		size = 603
-	 } 
+	}
 	clergymen = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 21726
-	 } 
+	}
 	clergymen = {
 		culture = brazilian
 		religion = secularism
 		size = 2414
-	 } 
+	}
 	clerks = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 11095
-	 } 
+	}
 	clerks = {
 		culture = brazilian
 		religion = secularism
 		size = 1232
-	 } 
+	}
 	artisans = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 10540
-	 } 
+	}
 	artisans = {
 		culture = brazilian
 		religion = secularism
 		size = 1171
-	 } 
+	}
 	craftsmen = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 33286
-	 } 
+	}
 	craftsmen = {
 		culture = brazilian
 		religion = secularism
 		size = 3698
-	 } 
+	}
 	farmers = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 162306
-	 } 
+	}
 	farmers = {
 		culture = brazilian
 		religion = secularism
 		size = 18034
-	 } 
+	}
 	farmers = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 716958
-	 } 
+	}
 	farmers = {
 		culture = brazilian
 		religion = secularism
 		size = 79662
-	 } 
+	}
 	farmers = {
 		culture = afro_portuguese
-		religion =  catholic 
+		religion =  catholic
 		size = 32589
-	 } 
+	}
 	farmers = {
 		culture = afro_portuguese
 		religion = secularism
 		size = 3621
-	 } 
+	}
 }
 #Crato - Ceara (1497000/374250 POPS)
 2430 = {
 	clergymen = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 6736
-	 } 
+	}
 	clergymen = {
 		culture = brazilian
 		religion = secularism
 		size = 748
-	 } 
+	}
 	farmers = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 97678
-	 } 
+	}
 	farmers = {
 		culture = brazilian
 		religion = secularism
 		size = 10853
-	 } 
+	}
 	farmers = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 222304
-	 } 
+	}
 	farmers = {
 		culture = brazilian
 		religion = secularism
 		size = 24700
-	 } 
+	}
 	farmers = {
 		culture = afro_portuguese
-		religion =  catholic 
+		religion =  catholic
 		size = 10104
-	 } 
+	}
 	farmers = {
 		culture = afro_portuguese
 		religion = secularism
 		size = 1122
-	 } 
+	}
 }
 #Natal - Rio Grande do Norte (2561000/640250 POPS)
 2431 = {
 	officers = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 2047
-	 } 
+	}
 	officers = {
 		culture = brazilian
 		religion = secularism
 		size = 227
-	 } 
+	}
 	soldiers = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 38916
-	 } 
+	}
 	soldiers = {
 		culture = brazilian
 		religion = secularism
 		size = 4324
-	 } 
+	}
 	aristocrats = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 23049
-	 } 
+	}
 	aristocrats = {
 		culture = brazilian
 		religion = secularism
 		size = 2561
-	 } 
+	}
 	bureaucrats = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 1152
-	 } 
+	}
 	bureaucrats = {
 		culture = brazilian
 		religion = secularism
 		size = 128
-	 } 
+	}
 	capitalists = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 2880
-	 } 
+	}
 	capitalists = {
 		culture = brazilian
 		religion = secularism
 		size = 320
-	 } 
+	}
 	clergymen = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 11524
-	 } 
+	}
 	clergymen = {
 		culture = brazilian
 		religion = secularism
 		size = 1280
-	 } 
+	}
 	clerks = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 5712
-	 } 
+	}
 	clerks = {
 		culture = brazilian
 		religion = secularism
 		size = 634
-	 } 
+	}
 	artisans = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 5427
-	 } 
+	}
 	artisans = {
 		culture = brazilian
 		religion = secularism
 		size = 603
-	 } 
+	}
 	craftsmen = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 17138
-	 } 
+	}
 	craftsmen = {
 		culture = brazilian
 		religion = secularism
 		size = 1904
-	 } 
+	}
 	farmers = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 99592
-	 } 
+	}
 	farmers = {
 		culture = brazilian
 		religion = secularism
 		size = 11065
-	 } 
+	}
 	farmers = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 334210
-	 } 
+	}
 	farmers = {
 		culture = brazilian
 		religion = secularism
 		size = 37134
-	 } 
+	}
 	farmers = {
 		culture = afro_portuguese
-		religion =  catholic 
+		religion =  catholic
 		size = 34573
-	 } 
+	}
 	farmers = {
 		culture = afro_portuguese
 		religion = secularism
 		size = 3841
-	 } 
+	}
 }
 #Recife - Pernambuco (5242000/1310500 POPS)
 2432 = {
 	officers = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 2571
-	 } 
+	}
 	officers = {
 		culture = brazilian
 		religion = secularism
 		size = 285
-	 } 
+	}
 	soldiers = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 48856
-	 } 
+	}
 	soldiers = {
 		culture = brazilian
 		religion = secularism
 		size = 5428
-	 } 
+	}
 	aristocrats = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 47178
-	 } 
+	}
 	aristocrats = {
 		culture = brazilian
 		religion = secularism
 		size = 5242
-	 } 
+	}
 	bureaucrats = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 2358
-	 } 
+	}
 	bureaucrats = {
 		culture = brazilian
 		religion = secularism
 		size = 262
-	 } 
+	}
 	capitalists = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 5896
-	 } 
+	}
 	capitalists = {
 		culture = brazilian
 		religion = secularism
 		size = 655
-	 } 
+	}
 	clergymen = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 23589
-	 } 
+	}
 	clergymen = {
 		culture = brazilian
 		religion = secularism
 		size = 2621
-	 } 
+	}
 	clerks = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 12039
-	 } 
+	}
 	clerks = {
 		culture = brazilian
 		religion = secularism
 		size = 1337
-	 } 
+	}
 	artisans = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 11437
-	 } 
+	}
 	artisans = {
 		culture = brazilian
 		religion = secularism
 		size = 1270
-	 } 
+	}
 	craftsmen = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 36119
-	 } 
+	}
 	craftsmen = {
 		culture = brazilian
 		religion = secularism
 		size = 4013
-	 } 
+	}
 	farmers = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 234555
-	 } 
+	}
 	farmers = {
 		culture = brazilian
 		religion = secularism
 		size = 26061
-	 } 
+	}
 	farmers = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 684081
-	 } 
+	}
 	farmers = {
 		culture = brazilian
 		religion = secularism
 		size = 76009
-	 } 
+	}
 	farmers = {
 		culture = afro_portuguese
-		religion =  catholic 
+		religion =  catholic
 		size = 70767
-	 } 
+	}
 	farmers = {
 		culture = afro_portuguese
 		religion = secularism
 		size = 7863
-	 } 
+	}
 }
 #Cabrobo - Pernambuco (1706000/426500 POPS)
 2433 = {
 	clergymen = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 7677
-	 } 
+	}
 	clergymen = {
 		culture = brazilian
 		religion = secularism
 		size = 853
-	 } 
+	}
 	farmers = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 130509
-	 } 
+	}
 	farmers = {
 		culture = brazilian
 		religion = secularism
 		size = 14501
-	 } 
+	}
 	farmers = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 222632
-	 } 
+	}
 	farmers = {
 		culture = brazilian
 		religion = secularism
 		size = 24736
-	 } 
+	}
 	farmers = {
 		culture = afro_portuguese
-		religion =  catholic 
+		religion =  catholic
 		size = 23031
-	 } 
+	}
 	farmers = {
 		culture = afro_portuguese
 		religion = secularism
 		size = 2559
-	 } 
+	}
 }
 #Maceio - Alagoas (2487000/621750 POPS)
 2434 = {
 	officers = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 1550
-	 } 
+	}
 	officers = {
 		culture = brazilian
 		religion = secularism
 		size = 172
-	 } 
+	}
 	soldiers = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 29465
-	 } 
+	}
 	soldiers = {
 		culture = brazilian
 		religion = secularism
 		size = 3273
-	 } 
+	}
 	aristocrats = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 22383
-	 } 
+	}
 	aristocrats = {
 		culture = brazilian
 		religion = secularism
 		size = 2487
-	 } 
+	}
 	bureaucrats = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 1118
-	 } 
+	}
 	bureaucrats = {
 		culture = brazilian
 		religion = secularism
 		size = 124
-	 } 
+	}
 	capitalists = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 2797
-	 } 
+	}
 	capitalists = {
 		culture = brazilian
 		religion = secularism
 		size = 310
-	 } 
+	}
 	clergymen = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 11191
-	 } 
+	}
 	clergymen = {
 		culture = brazilian
 		religion = secularism
 		size = 1243
-	 } 
+	}
 	clerks = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 5641
-	 } 
+	}
 	clerks = {
 		culture = brazilian
 		religion = secularism
 		size = 626
-	 } 
+	}
 	artisans = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 5358
-	 } 
+	}
 	artisans = {
 		culture = brazilian
 		religion = secularism
 		size = 595
-	 } 
+	}
 	craftsmen = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 16924
-	 } 
+	}
 	craftsmen = {
 		culture = brazilian
 		religion = secularism
 		size = 1880
-	 } 
+	}
 	farmers = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 105016
-	 } 
+	}
 	farmers = {
 		culture = brazilian
 		religion = secularism
 		size = 11668
-	 } 
+	}
 	farmers = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 324553
-	 } 
+	}
 	farmers = {
 		culture = brazilian
 		religion = secularism
 		size = 36061
-	 } 
+	}
 	farmers = {
 		culture = afro_portuguese
-		religion =  catholic 
+		religion =  catholic
 		size = 33574
-	 } 
+	}
 	farmers = {
 		culture = afro_portuguese
 		religion = secularism
 		size = 3730
-	 } 
+	}
 }
 #Aracaju - Sergipe (1688000/422000 POPS)
 2435 = {
 	clergymen = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 7596
-	 } 
+	}
 	clergymen = {
 		culture = brazilian
 		religion = secularism
 		size = 844
-	 } 
+	}
 	farmers = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 129132
-	 } 
+	}
 	farmers = {
 		culture = brazilian
 		religion = secularism
 		size = 14348
-	 } 
+	}
 	farmers = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 220283
-	 } 
+	}
 	farmers = {
 		culture = brazilian
 		religion = secularism
 		size = 24475
-	 } 
+	}
 	farmers = {
 		culture = afro_portuguese
-		religion =  catholic 
+		religion =  catholic
 		size = 22788
-	 } 
+	}
 	farmers = {
 		culture = afro_portuguese
 		religion = secularism
 		size = 2532
-	 } 
+	}
 }
 #Salvador de Bahia - Bahia (4613000/1153250 POPS)
 2436 = {
 	officers = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 4242
-	 } 
+	}
 	officers = {
 		culture = brazilian
 		religion = secularism
 		size = 471
-	 } 
+	}
 	soldiers = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 80613
-	 } 
+	}
 	soldiers = {
 		culture = brazilian
 		religion = secularism
 		size = 8957
-	 } 
+	}
 	aristocrats = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 41517
-	 } 
+	}
 	aristocrats = {
 		culture = brazilian
 		religion = secularism
 		size = 4613
-	 } 
+	}
 	bureaucrats = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 2075
-	 } 
+	}
 	bureaucrats = {
 		culture = brazilian
 		religion = secularism
 		size = 230
-	 } 
+	}
 	capitalists = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 5189
-	 } 
+	}
 	capitalists = {
 		culture = brazilian
 		religion = secularism
 		size = 576
-	 } 
+	}
 	clergymen = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 20758
-	 } 
+	}
 	clergymen = {
 		culture = brazilian
 		religion = secularism
 		size = 2306
-	 } 
+	}
 	clerks = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 10171
-	 } 
+	}
 	clerks = {
 		culture = brazilian
 		religion = secularism
 		size = 1130
-	 } 
+	}
 	artisans = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 9663
-	 } 
+	}
 	artisans = {
 		culture = brazilian
 		religion = secularism
 		size = 1073
-	 } 
+	}
 	craftsmen = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 30517
-	 } 
+	}
 	craftsmen = {
 		culture = brazilian
 		religion = secularism
 		size = 3390
-	 } 
+	}
 	farmers = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 33973
-	 } 
+	}
 	farmers = {
 		culture = brazilian
 		religion = secularism
 		size = 3774
-	 } 
+	}
 	farmers = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 624830
-	 } 
+	}
 	farmers = {
 		culture = brazilian
 		religion = secularism
 		size = 69425
-	 } 
+	}
 	farmers = {
 		culture = afro_portuguese
-		religion =  catholic 
+		religion =  catholic
 		size = 174371
-	 } 
+	}
 	farmers = {
 		culture = afro_portuguese
 		religion = secularism
 		size = 19374
-	 } 
+	}
 }
 #Juazeiro - Bahia (1678000/419500 POPS)
 2437 = {
 	clergymen = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 7551
-	 } 
+	}
 	clergymen = {
 		culture = brazilian
 		religion = secularism
 		size = 839
-	 } 
+	}
 	farmers = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 79285
-	 } 
+	}
 	farmers = {
 		culture = brazilian
 		religion = secularism
 		size = 8809
-	 } 
+	}
 	farmers = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 227285
-	 } 
+	}
 	farmers = {
 		culture = brazilian
 		religion = secularism
 		size = 25253
-	 } 
+	}
 	farmers = {
 		culture = afro_portuguese
-		religion =  catholic 
+		religion =  catholic
 		size = 63428
-	 } 
+	}
 	farmers = {
 		culture = afro_portuguese
 		religion = secularism
 		size = 7047
-	 } 
+	}
 }
 #Vila do Barra - Bahia (1678000/419500 POPS)
 2438 = {
 	clergymen = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 7551
-	 } 
+	}
 	clergymen = {
 		culture = brazilian
 		religion = secularism
 		size = 839
-	 } 
+	}
 	farmers = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 79285
-	 } 
+	}
 	farmers = {
 		culture = brazilian
 		religion = secularism
 		size = 8809
-	 } 
+	}
 	farmers = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 227285
-	 } 
+	}
 	farmers = {
 		culture = brazilian
 		religion = secularism
 		size = 25253
-	 } 
+	}
 	farmers = {
 		culture = afro_portuguese
-		religion =  catholic 
+		religion =  catholic
 		size = 63428
-	 } 
+	}
 	farmers = {
 		culture = afro_portuguese
 		religion = secularism
 		size = 7047
-	 } 
+	}
 }
 #Porto Seguro - Bahia (1678000/419500 POPS)
 2439 = {
 	clergymen = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 7551
-	 } 
+	}
 	clergymen = {
 		culture = brazilian
 		religion = secularism
 		size = 839
-	 } 
+	}
 	farmers = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 79285
-	 } 
+	}
 	farmers = {
 		culture = brazilian
 		religion = secularism
 		size = 8809
-	 } 
+	}
 	farmers = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 227285
-	 } 
+	}
 	farmers = {
 		culture = brazilian
 		religion = secularism
 		size = 25253
-	 } 
+	}
 	farmers = {
 		culture = afro_portuguese
-		religion =  catholic 
+		religion =  catholic
 		size = 63428
-	 } 
+	}
 	farmers = {
 		culture = afro_portuguese
 		religion = secularism
 		size = 7047
-	 } 
+	}
 }
 #Vitoria da Conquista - Bahia (1678000/419500 POPS)
 2440 = {
 	clergymen = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 7551
-	 } 
+	}
 	clergymen = {
 		culture = brazilian
 		religion = secularism
 		size = 839
-	 } 
+	}
 	farmers = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 79285
-	 } 
+	}
 	farmers = {
 		culture = brazilian
 		religion = secularism
 		size = 8809
-	 } 
+	}
 	farmers = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 227285
-	 } 
+	}
 	farmers = {
 		culture = brazilian
 		religion = secularism
 		size = 25253
-	 } 
+	}
 	farmers = {
 		culture = afro_portuguese
-		religion =  catholic 
+		religion =  catholic
 		size = 63428
-	 } 
+	}
 	farmers = {
 		culture = afro_portuguese
 		religion = secularism
 		size = 7047
-	 } 
+	}
 }
 #Ouro Preto - Minas Gerais (2246000/561500 POPS)
 2441 = {
 	clergymen = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 10107
-	 } 
+	}
 	clergymen = {
 		culture = brazilian
 		religion = secularism
 		size = 1123
-	 } 
+	}
 	farmers = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 213257
-	 } 
+	}
 	farmers = {
 		culture = brazilian
 		religion = secularism
 		size = 23695
-	 } 
+	}
 	farmers = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 237514
-	 } 
+	}
 	farmers = {
 		culture = brazilian
 		religion = secularism
 		size = 26390
-	 } 
+	}
 	farmers = {
 		culture = afro_portuguese
-		religion =  catholic 
+		religion =  catholic
 		size = 44470
-	 } 
+	}
 	farmers = {
 		culture = afro_portuguese
 		religion = secularism
 		size = 4941
-	 } 
+	}
 }
 #Sabara - Minas Gerais (6565000/1641250 POPS)
 2442 = {
 	officers = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 6527
-	 } 
+	}
 	officers = {
 		culture = brazilian
 		religion = secularism
 		size = 725
-	 } 
+	}
 	soldiers = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 124028
-	 } 
+	}
 	soldiers = {
 		culture = brazilian
 		religion = secularism
 		size = 13780
-	 } 
+	}
 	aristocrats = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 59085
-	 } 
+	}
 	aristocrats = {
 		culture = brazilian
 		religion = secularism
 		size = 6565
-	 } 
+	}
 	bureaucrats = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 2953
-	 } 
+	}
 	bureaucrats = {
 		culture = brazilian
 		religion = secularism
 		size = 328
-	 } 
+	}
 	capitalists = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 7385
-	 } 
+	}
 	capitalists = {
 		culture = brazilian
 		religion = secularism
 		size = 820
-	 } 
+	}
 	clergymen = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 29542
-	 } 
+	}
 	clergymen = {
 		culture = brazilian
 		religion = secularism
 		size = 3282
-	 } 
+	}
 	clerks = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 14372
-	 } 
+	}
 	clerks = {
 		culture = brazilian
 		religion = secularism
 		size = 1596
-	 } 
+	}
 	artisans = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 13653
-	 } 
+	}
 	artisans = {
 		culture = brazilian
 		religion = secularism
 		size = 1517
-	 } 
+	}
 	craftsmen = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 43117
-	 } 
+	}
 	craftsmen = {
 		culture = brazilian
 		religion = secularism
 		size = 4790
-	 } 
+	}
 	farmers = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 352223
-	 } 
+	}
 	farmers = {
 		culture = brazilian
 		religion = secularism
 		size = 39135
-	 } 
+	}
 	farmers = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 694248
-	 } 
+	}
 	farmers = {
 		culture = brazilian
 		religion = secularism
 		size = 77138
-	 } 
+	}
 	farmers = {
 		culture = afro_portuguese
-		religion =  catholic 
+		religion =  catholic
 		size = 129987
-	 } 
+	}
 	farmers = {
 		culture = afro_portuguese
 		religion = secularism
 		size = 14443
-	 } 
+	}
 }
 #Januaria - Minas Gerais (2246000/561500 POPS)
 2443 = {
 	clergymen = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 10107
-	 } 
+	}
 	clergymen = {
 		culture = brazilian
 		religion = secularism
 		size = 1123
-	 } 
+	}
 	farmers = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 213257
-	 } 
+	}
 	farmers = {
 		culture = brazilian
 		religion = secularism
 		size = 23695
-	 } 
+	}
 	farmers = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 237514
-	 } 
+	}
 	farmers = {
 		culture = brazilian
 		religion = secularism
 		size = 26390
-	 } 
+	}
 	farmers = {
 		culture = afro_portuguese
-		religion =  catholic 
+		religion =  catholic
 		size = 44470
-	 } 
+	}
 	farmers = {
 		culture = afro_portuguese
 		religion = secularism
 		size = 4941
-	 } 
+	}
 }
 #Paracatu - Districto Federal (2161000/540250 POPS)
 2444 = {
 	clergymen = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 9724
-	 } 
+	}
 	clergymen = {
 		culture = brazilian
 		religion = secularism
 		size = 1080
-	 } 
+	}
 	farmers = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 205186
-	 } 
+	}
 	farmers = {
 		culture = brazilian
 		religion = secularism
 		size = 22798
-	 } 
+	}
 	farmers = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 228525
-	 } 
+	}
 	farmers = {
 		culture = brazilian
 		religion = secularism
 		size = 25391
-	 } 
+	}
 	farmers = {
 		culture = afro_portuguese
-		religion =  catholic 
+		religion =  catholic
 		size = 42787
-	 } 
+	}
 	farmers = {
 		culture = afro_portuguese
 		religion = secularism
 		size = 4754
-	 } 
+	}
 }
 #Uberaba - Minas Gerais (2246000/561500 POPS)
 2445 = {
 	clergymen = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 10107
-	 } 
+	}
 	clergymen = {
 		culture = brazilian
 		religion = secularism
 		size = 1123
-	 } 
+	}
 	farmers = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 213257
-	 } 
+	}
 	farmers = {
 		culture = brazilian
 		religion = secularism
 		size = 23695
-	 } 
+	}
 	farmers = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 237514
-	 } 
+	}
 	farmers = {
 		culture = brazilian
 		religion = secularism
 		size = 26390
-	 } 
+	}
 	farmers = {
 		culture = afro_portuguese
-		religion =  catholic 
+		religion =  catholic
 		size = 44470
-	 } 
+	}
 	farmers = {
 		culture = afro_portuguese
 		religion = secularism
 		size = 4941
-	 } 
+	}
 }
 #Sao Joao del Rey - Minas Gerais (2246000/561500 POPS)
 2446 = {
 	clergymen = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 10107
-	 } 
+	}
 	clergymen = {
 		culture = brazilian
 		religion = secularism
 		size = 1123
-	 } 
+	}
 	farmers = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 213257
-	 } 
+	}
 	farmers = {
 		culture = brazilian
 		religion = secularism
 		size = 23695
-	 } 
+	}
 	farmers = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 237514
-	 } 
+	}
 	farmers = {
 		culture = brazilian
 		religion = secularism
 		size = 26390
-	 } 
+	}
 	farmers = {
 		culture = afro_portuguese
-		religion =  catholic 
+		religion =  catholic
 		size = 44470
-	 } 
+	}
 	farmers = {
 		culture = afro_portuguese
 		religion = secularism
 		size = 4941
-	 } 
+	}
 }
 #Rio de Janeiro - Rio de Janeiro (10023000/2505750 POPS)
 2447 = {
 	officers = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 4552
-	 } 
+	}
 	officers = {
 		culture = brazilian
 		religion = secularism
 		size = 505
-	 } 
+	}
 	soldiers = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 86496
-	 } 
+	}
 	soldiers = {
 		culture = brazilian
 		religion = secularism
 		size = 9610
-	 } 
+	}
 	aristocrats = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 90207
-	 } 
+	}
 	aristocrats = {
 		culture = brazilian
 		religion = secularism
 		size = 10023
-	 } 
+	}
 	bureaucrats = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 4509
-	 } 
+	}
 	bureaucrats = {
 		culture = brazilian
 		religion = secularism
 		size = 501
-	 } 
+	}
 	capitalists = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 11275
-	 } 
+	}
 	capitalists = {
 		culture = brazilian
 		religion = secularism
 		size = 1252
-	 } 
+	}
 	clergymen = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 45103
-	 } 
+	}
 	clergymen = {
 		culture = brazilian
 		religion = secularism
 		size = 5011
-	 } 
+	}
 	clerks = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 23098
-	 } 
+	}
 	clerks = {
 		culture = brazilian
 		religion = secularism
 		size = 2566
-	 } 
+	}
 	artisans = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 21943
-	 } 
+	}
 	artisans = {
 		culture = brazilian
 		religion = secularism
 		size = 2438
-	 } 
+	}
 	craftsmen = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 69296
-	 } 
+	}
 	craftsmen = {
 		culture = brazilian
 		religion = secularism
 		size = 7699
-	 } 
+	}
 	farmers = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 901904
-	 } 
+	}
 	farmers = {
 		culture = brazilian
 		religion = secularism
 		size = 100211
-	 } 
+	}
 	farmers = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 746462
-	 } 
+	}
 	farmers = {
 		culture = brazilian
 		religion = secularism
 		size = 82940
-	 } 
+	}
 	farmers = {
 		culture = afro_portuguese
-		religion =  catholic 
+		religion =  catholic
 		size = 250324
-	 } 
+	}
 	farmers = {
 		culture = afro_portuguese
 		religion = secularism
 		size = 27813
-	 } 
+	}
 }
 #Campos - Rio de Janeiro (2246000/561500 POPS)
 2448 = {
 	clergymen = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 10107
-	 } 
+	}
 	clergymen = {
 		culture = brazilian
 		religion = secularism
 		size = 1123
-	 } 
+	}
 	farmers = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 271877
-	 } 
+	}
 	farmers = {
 		culture = brazilian
 		religion = secularism
 		size = 30208
-	 } 
+	}
 	farmers = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 167270
-	 } 
+	}
 	farmers = {
 		culture = brazilian
 		religion = secularism
 		size = 18585
-	 } 
+	}
 	farmers = {
 		culture = afro_portuguese
-		religion =  catholic 
+		religion =  catholic
 		size = 56093
-	 } 
+	}
 	farmers = {
 		culture = afro_portuguese
 		religion = secularism
 		size = 6232
-	 } 
+	}
 }
 #Vitoria - Espírito Santo (2629000/657250 POPS)
 2449 = {
 	officers = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 966
-	 } 
+	}
 	officers = {
 		culture = brazilian
 		religion = secularism
 		size = 107
-	 } 
+	}
 	soldiers = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 18377
-	 } 
+	}
 	soldiers = {
 		culture = brazilian
 		religion = secularism
 		size = 2041
-	 } 
+	}
 	aristocrats = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 23661
-	 } 
+	}
 	aristocrats = {
 		culture = brazilian
 		religion = secularism
 		size = 2629
-	 } 
+	}
 	bureaucrats = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 1182
-	 } 
+	}
 	bureaucrats = {
 		culture = brazilian
 		religion = secularism
 		size = 131
-	 } 
+	}
 	capitalists = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 2957
-	 } 
+	}
 	capitalists = {
 		culture = brazilian
 		religion = secularism
 		size = 328
-	 } 
+	}
 	clergymen = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 11830
-	 } 
+	}
 	clergymen = {
 		culture = brazilian
 		religion = secularism
 		size = 1314
-	 } 
+	}
 	clerks = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 6106
-	 } 
+	}
 	clerks = {
 		culture = brazilian
 		religion = secularism
 		size = 678
-	 } 
+	}
 	artisans = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 5801
-	 } 
+	}
 	artisans = {
 		culture = brazilian
 		religion = secularism
 		size = 644
-	 } 
+	}
 	craftsmen = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 18321
-	 } 
+	}
 	craftsmen = {
 		culture = brazilian
 		religion = secularism
 		size = 2035
-	 } 
+	}
 	farmers = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 240866
-	 } 
+	}
 	farmers = {
 		culture = brazilian
 		religion = secularism
 		size = 26762
-	 } 
+	}
 	farmers = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 195794
-	 } 
+	}
 	farmers = {
 		culture = brazilian
 		religion = secularism
 		size = 21754
-	 } 
+	}
 	farmers = {
 		culture = afro_portuguese
-		religion =  catholic 
+		religion =  catholic
 		size = 65658
-	 } 
+	}
 	farmers = {
 		culture = afro_portuguese
 		religion = secularism
 		size = 7295
-	 } 
+	}
 }
 #Sao Paulo - Sao Paulo (17826000/4456500 POPS)
 2450 = {
 	officers = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 12144
-	 } 
+	}
 	officers = {
 		culture = brazilian
 		religion = secularism
 		size = 1349
-	 } 
+	}
 	soldiers = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 230752
-	 } 
+	}
 	soldiers = {
 		culture = brazilian
 		religion = secularism
 		size = 25639
-	 } 
+	}
 	aristocrats = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 160434
-	 } 
+	}
 	aristocrats = {
 		culture = brazilian
 		religion = secularism
 		size = 17826
-	 } 
+	}
 	bureaucrats = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 8021
-	 } 
+	}
 	bureaucrats = {
 		culture = brazilian
 		religion = secularism
 		size = 891
-	 } 
+	}
 	capitalists = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 20053
-	 } 
+	}
 	capitalists = {
 		culture = brazilian
 		religion = secularism
 		size = 2228
-	 } 
+	}
 	clergymen = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 80217
-	 } 
+	}
 	clergymen = {
 		culture = brazilian
 		religion = secularism
 		size = 8913
-	 } 
+	}
 	clerks = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 40217
-	 } 
+	}
 	clerks = {
 		culture = brazilian
 		religion = secularism
 		size = 4468
-	 } 
+	}
 	artisans = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 38205
-	 } 
+	}
 	artisans = {
 		culture = brazilian
 		religion = secularism
 		size = 4245
-	 } 
+	}
 	craftsmen = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 120652
-	 } 
+	}
 	craftsmen = {
 		culture = brazilian
 		religion = secularism
 		size = 13405
-	 } 
+	}
 	farmers = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 1040160
-	 } 
+	}
 	farmers = {
 		culture = brazilian
 		religion = secularism
 		size = 1040160
-	 } 
+	}
 	farmers = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 1135070
-	 } 
+	}
 	farmers = {
 		culture = brazilian
 		religion = secularism
 		size = 126118
-	 } 
+	}
 	farmers = {
 		culture = afro_portuguese
-		religion =  catholic 
+		religion =  catholic
 		size = 232628
-	 } 
+	}
 	farmers = {
 		culture = afro_portuguese
 		religion = secularism
 		size = 25847
-	 } 
+	}
 	farmers = {
 		culture = japanese
-		religion =  shinto 
+		religion =  shinto
 		size = 56151
-	 } 
+	}
 	farmers = {
 		culture = japanese
 		religion = secularism
 		size = 6239
-	 } 
+	}
 }
 #Santos - Sao Paulo (2096000/524000 POPS)
 2451 = {
 	clergymen = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 9432
-	 } 
+	}
 	clergymen = {
 		culture = brazilian
 		religion = secularism
 		size = 1048
-	 } 
+	}
 	farmers = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 294278
-	 } 
+	}
 	farmers = {
 		culture = brazilian
 		religion = secularism
 		size = 32697
-	 } 
+	}
 	farmers = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 133462
-	 } 
+	}
 	farmers = {
 		culture = brazilian
 		religion = secularism
 		size = 14829
-	 } 
+	}
 	farmers = {
 		culture = afro_portuguese
-		religion =  catholic 
+		religion =  catholic
 		size = 27351
-	 } 
+	}
 	farmers = {
 		culture = afro_portuguese
 		religion = secularism
 		size = 3039
-	 } 
+	}
 	farmers = {
 		culture = japanese
-		religion =  shinto 
+		religion =  shinto
 		size = 6601
-	 } 
+	}
 	farmers = {
 		culture = japanese
 		religion = secularism
 		size = 733
-	 } 
+	}
 }
 #Campinas - Sao Paulo (4450000/1112500 POPS)
 2452 = {
 	clergymen = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 20025
-	 } 
+	}
 	clergymen = {
 		culture = brazilian
 		religion = secularism
 		size = 2225
-	 } 
+	}
 	farmers = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 624780
-	 } 
+	}
 	farmers = {
 		culture = brazilian
 		religion = secularism
 		size = 69420
-	 } 
+	}
 	farmers = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 283353
-	 } 
+	}
 	farmers = {
 		culture = brazilian
 		religion = secularism
 		size = 31483
-	 } 
+	}
 	farmers = {
 		culture = afro_portuguese
-		religion =  catholic 
+		religion =  catholic
 		size = 58071
-	 } 
+	}
 	farmers = {
 		culture = afro_portuguese
 		religion = secularism
 		size = 6452
-	 } 
+	}
 	farmers = {
 		culture = japanese
-		religion =  shinto 
+		religion =  shinto
 		size = 14016
-	 } 
+	}
 	farmers = {
 		culture = japanese
 		religion = secularism
 		size = 1557
-	 } 
+	}
 }
 #Assis - Sao Paulo (2096000/524000 POPS)
 2453 = {
 	clergymen = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 9432
-	 } 
+	}
 	clergymen = {
 		culture = brazilian
 		religion = secularism
 		size = 1048
-	 } 
+	}
 	farmers = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 294278
-	 } 
+	}
 	farmers = {
 		culture = brazilian
 		religion = secularism
 		size = 32697
-	 } 
+	}
 	farmers = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 133462
-	 } 
+	}
 	farmers = {
 		culture = brazilian
 		religion = secularism
 		size = 14829
-	 } 
+	}
 	farmers = {
 		culture = afro_portuguese
-		religion =  catholic 
+		religion =  catholic
 		size = 27351
-	 } 
+	}
 	farmers = {
 		culture = afro_portuguese
 		religion = secularism
 		size = 3039
-	 } 
+	}
 	farmers = {
 		culture = japanese
-		religion =  shinto 
+		religion =  shinto
 		size = 6601
-	 } 
+	}
 	farmers = {
 		culture = japanese
 		religion = secularism
 		size = 733
-	 } 
+	}
 }
 #Iguape - Sao Paulo (2096000/524000 POPS)
 2455 = {
 	clergymen = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 9432
-	 } 
+	}
 	clergymen = {
 		culture = brazilian
 		religion = secularism
 		size = 1048
-	 } 
+	}
 	farmers = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 294278
-	 } 
+	}
 	farmers = {
 		culture = brazilian
 		religion = secularism
 		size = 32697
-	 } 
+	}
 	farmers = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 133462
-	 } 
+	}
 	farmers = {
 		culture = brazilian
 		religion = secularism
 		size = 14829
-	 } 
+	}
 	farmers = {
 		culture = afro_portuguese
-		religion =  catholic 
+		religion =  catholic
 		size = 27351
-	 } 
+	}
 	farmers = {
 		culture = afro_portuguese
 		religion = secularism
 		size = 3039
-	 } 
+	}
 	farmers = {
 		culture = japanese
-		religion =  shinto 
+		religion =  shinto
 		size = 6601
-	 } 
+	}
 	farmers = {
 		culture = japanese
 		religion = secularism
 		size = 733
-	 } 
+	}
 }
 #Araraquara - Sao Paulo (2096000/524000 POPS)
 2456 = {
 	clergymen = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 9432
-	 } 
+	}
 	clergymen = {
 		culture = brazilian
 		religion = secularism
 		size = 1048
-	 } 
+	}
 	farmers = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 294278
-	 } 
+	}
 	farmers = {
 		culture = brazilian
 		religion = secularism
 		size = 32697
-	 } 
+	}
 	farmers = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 133462
-	 } 
+	}
 	farmers = {
 		culture = brazilian
 		religion = secularism
 		size = 14829
-	 } 
+	}
 	farmers = {
 		culture = afro_portuguese
-		religion =  catholic 
+		religion =  catholic
 		size = 27351
-	 } 
+	}
 	farmers = {
 		culture = afro_portuguese
 		religion = secularism
 		size = 3039
-	 } 
+	}
 	farmers = {
 		culture = japanese
-		religion =  shinto 
+		religion =  shinto
 		size = 6601
-	 } 
+	}
 	farmers = {
 		culture = japanese
 		religion = secularism
 		size = 733
-	 } 
+	}
 }
 #Curitiba - Parana (3807000/951750 POPS)
 2457 = {
 	officers = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 3112
-	 } 
+	}
 	officers = {
 		culture = brazilian
 		religion = secularism
 		size = 345
-	 } 
+	}
 	soldiers = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 59136
-	 } 
+	}
 	soldiers = {
 		culture = brazilian
 		religion = secularism
 		size = 6570
-	 } 
+	}
 	aristocrats = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 34263
-	 } 
+	}
 	aristocrats = {
 		culture = brazilian
 		religion = secularism
 		size = 3807
-	 } 
+	}
 	bureaucrats = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 1712
-	 } 
+	}
 	bureaucrats = {
 		culture = brazilian
 		religion = secularism
 		size = 190
-	 } 
+	}
 	capitalists = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 4282
-	 } 
+	}
 	capitalists = {
 		culture = brazilian
 		religion = secularism
 		size = 475
-	 } 
+	}
 	clergymen = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 17131
-	 } 
+	}
 	clergymen = {
 		culture = brazilian
 		religion = secularism
 		size = 1903
-	 } 
+	}
 	clerks = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 8478
-	 } 
+	}
 	clerks = {
 		culture = brazilian
 		religion = secularism
 		size = 942
-	 } 
+	}
 	artisans = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 8054
-	 } 
+	}
 	artisans = {
 		culture = brazilian
 		religion = secularism
 		size = 894
-	 } 
+	}
 	craftsmen = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 25434
-	 } 
+	}
 	craftsmen = {
 		culture = brazilian
 		religion = secularism
 		size = 2826
-	 } 
+	}
 	farmers = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 449133
-	 } 
+	}
 	farmers = {
 		culture = brazilian
 		religion = secularism
 		size = 49903
-	 } 
+	}
 	farmers = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 209860
-	 } 
+	}
 	farmers = {
 		culture = brazilian
 		religion = secularism
 		size = 23317
-	 } 
+	}
 	farmers = {
 		culture = afro_portuguese
-		religion =  catholic 
+		religion =  catholic
 		size = 24840
-	 } 
+	}
 	farmers = {
 		culture = afro_portuguese
 		religion = secularism
 		size = 2760
-	 } 
+	}
 }
 #Garapuava - Parana (2246000/561500 POPS)
 2458 = {
 	clergymen = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 10107
-	 } 
+	}
 	clergymen = {
 		culture = brazilian
 		religion = secularism
 		size = 1123
-	 } 
+	}
 	farmers = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 350207
-	 } 
+	}
 	farmers = {
 		culture = brazilian
 		religion = secularism
 		size = 38911
-	 } 
+	}
 	farmers = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 123810
-	 } 
+	}
 	farmers = {
 		culture = brazilian
 		religion = secularism
 		size = 13756
-	 } 
+	}
 	farmers = {
 		culture = afro_portuguese
-		religion =  catholic 
+		religion =  catholic
 		size = 14654
-	 } 
+	}
 	farmers = {
 		culture = afro_portuguese
 		religion = secularism
 		size = 1628
-	 } 
+	}
 }
 #Lajes - Santa Catarina (748000/187000 POPS)
 2459 = {
 	clergymen = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 3366
-	 } 
+	}
 	clergymen = {
 		culture = brazilian
 		religion = secularism
 		size = 374
-	 } 
+	}
 	farmers = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 137164
-	 } 
+	}
 	farmers = {
 		culture = brazilian
 		religion = secularism
 		size = 15240
-	 } 
+	}
 	farmers = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 24066
-	 } 
+	}
 	farmers = {
 		culture = brazilian
 		religion = secularism
 		size = 2674
-	 } 
+	}
 	farmers = {
 		culture = afro_portuguese
-		religion =  catholic 
+		religion =  catholic
 		size = 3702
-	 } 
+	}
 	farmers = {
 		culture = afro_portuguese
 		religion = secularism
 		size = 411
-	 } 
+	}
 }
 #Castro - Parana (2246000/561500 POPS)
 2460 = {
 	clergymen = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 10107
-	 } 
+	}
 	clergymen = {
 		culture = brazilian
 		religion = secularism
 		size = 1123
-	 } 
+	}
 	farmers = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 350207
-	 } 
+	}
 	farmers = {
 		culture = brazilian
 		religion = secularism
 		size = 38911
-	 } 
+	}
 	farmers = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 123810
-	 } 
+	}
 	farmers = {
 		culture = brazilian
 		religion = secularism
 		size = 13756
-	 } 
+	}
 	farmers = {
 		culture = afro_portuguese
-		religion =  catholic 
+		religion =  catholic
 		size = 14654
-	 } 
+	}
 	farmers = {
 		culture = afro_portuguese
 		religion = secularism
 		size = 1628
-	 } 
+	}
 }
 #Desterro - Santa Catarina (2746000/686500 POPS)
 2461 = {
 	officers = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 1836
-	 } 
+	}
 	officers = {
 		culture = brazilian
 		religion = secularism
 		size = 204
-	 } 
+	}
 	soldiers = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 34899
-	 } 
+	}
 	soldiers = {
 		culture = brazilian
 		religion = secularism
 		size = 3877
-	 } 
+	}
 	aristocrats = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 24714
-	 } 
+	}
 	aristocrats = {
 		culture = brazilian
 		religion = secularism
 		size = 2746
-	 } 
+	}
 	bureaucrats = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 1235
-	 } 
+	}
 	bureaucrats = {
 		culture = brazilian
 		religion = secularism
 		size = 137
-	 } 
+	}
 	capitalists = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 3088
-	 } 
+	}
 	capitalists = {
 		culture = brazilian
 		religion = secularism
 		size = 343
-	 } 
+	}
 	clergymen = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 12357
-	 } 
+	}
 	clergymen = {
 		culture = brazilian
 		religion = secularism
 		size = 1373
-	 } 
+	}
 	clerks = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 6201
-	 } 
+	}
 	clerks = {
 		culture = brazilian
 		religion = secularism
 		size = 689
-	 } 
+	}
 	artisans = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 5892
-	 } 
+	}
 	artisans = {
 		culture = brazilian
 		religion = secularism
 		size = 654
-	 } 
+	}
 	craftsmen = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 18607
-	 } 
+	}
 	craftsmen = {
 		culture = brazilian
 		religion = secularism
 		size = 2067
-	 } 
+	}
 	farmers = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 407071
-	 } 
+	}
 	farmers = {
 		culture = brazilian
 		religion = secularism
 		size = 45230
-	 } 
+	}
 	farmers = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 88352
-	 } 
+	}
 	farmers = {
 		culture = brazilian
 		religion = secularism
 		size = 9816
-	 } 
+	}
 	farmers = {
 		culture = afro_portuguese
-		religion =  catholic 
+		religion =  catholic
 		size = 13592
-	 } 
+	}
 	farmers = {
 		culture = afro_portuguese
 		religion = secularism
 		size = 1510
-	 } 
+	}
 }
 #Sao Miguel - Santa Catarina (1497000/374250 POPS)
 2462 = {
 	clergymen = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 6736
-	 } 
+	}
 	clergymen = {
 		culture = brazilian
 		religion = secularism
 		size = 748
-	 } 
+	}
 	farmers = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 274511
-	 } 
+	}
 	farmers = {
 		culture = brazilian
 		religion = secularism
 		size = 30501
-	 } 
+	}
 	farmers = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 48165
-	 } 
+	}
 	farmers = {
 		culture = brazilian
 		religion = secularism
 		size = 5351
-	 } 
+	}
 	farmers = {
 		culture = afro_portuguese
-		religion =  catholic 
+		religion =  catholic
 		size = 7409
-	 } 
+	}
 	farmers = {
 		culture = afro_portuguese
 		religion = secularism
 		size = 823
-	 } 
+	}
 }
 #Porto Alegre - Rio Grande do Sul (4906000/1226500 POPS)
 2463 = {
 	officers = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 3166
-	 } 
+	}
 	officers = {
 		culture = brazilian
 		religion = secularism
 		size = 351
-	 } 
+	}
 	soldiers = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 60164
-	 } 
+	}
 	soldiers = {
 		culture = brazilian
 		religion = secularism
 		size = 6684
-	 } 
+	}
 	aristocrats = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 44154
-	 } 
+	}
 	aristocrats = {
 		culture = brazilian
 		religion = secularism
 		size = 4906
-	 } 
+	}
 	bureaucrats = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 2207
-	 } 
+	}
 	bureaucrats = {
 		culture = brazilian
 		religion = secularism
 		size = 245
-	 } 
+	}
 	capitalists = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 5518
-	 } 
+	}
 	capitalists = {
 		culture = brazilian
 		religion = secularism
 		size = 613
-	 } 
+	}
 	clergymen = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 22077
-	 } 
+	}
 	clergymen = {
 		culture = brazilian
 		religion = secularism
 		size = 2453
-	 } 
+	}
 	clerks = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 11106
-	 } 
+	}
 	clerks = {
 		culture = brazilian
 		religion = secularism
 		size = 1234
-	 } 
+	}
 	artisans = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 10550
-	 } 
+	}
 	artisans = {
 		culture = brazilian
 		religion = secularism
 		size = 1172
-	 } 
+	}
 	craftsmen = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 33318
-	 } 
+	}
 	craftsmen = {
 		culture = brazilian
 		religion = secularism
 		size = 3702
-	 } 
+	}
 	farmers = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 706271
-	 } 
+	}
 	farmers = {
 		culture = brazilian
 		religion = secularism
 		size = 78474
-	 } 
+	}
 	farmers = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 150123
-	 } 
+	}
 	farmers = {
 		culture = brazilian
 		religion = secularism
 		size = 16680
-	 } 
+	}
 	farmers = {
 		culture = afro_portuguese
-		religion =  catholic 
+		religion =  catholic
 		size = 55192
-	 } 
+	}
 	farmers = {
 		culture = afro_portuguese
 		religion = secularism
 		size = 6132
-	 } 
+	}
 }
 #Pelotas - Rio Grande do Sul (898000/224500 POPS)
 2464 = {
 	clergymen = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 4041
-	 } 
+	}
 	clergymen = {
 		culture = brazilian
 		religion = secularism
 		size = 449
-	 } 
+	}
 	farmers = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 160427
-	 } 
+	}
 	farmers = {
 		culture = brazilian
 		religion = secularism
 		size = 17825
-	 } 
+	}
 	farmers = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 27478
-	 } 
+	}
 	farmers = {
 		culture = brazilian
 		religion = secularism
 		size = 3053
-	 } 
+	}
 	farmers = {
 		culture = afro_portuguese
-		religion =  catholic 
+		religion =  catholic
 		size = 10102
-	 } 
+	}
 	farmers = {
 		culture = afro_portuguese
 		religion = secularism
 		size = 1122
-	 } 
+	}
 }
 #Passo Fundo - Rio Grande do Sul (898000/224500 POPS)
 2465 = {
 	clergymen = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 4041
-	 } 
+	}
 	clergymen = {
 		culture = brazilian
 		religion = secularism
 		size = 449
-	 } 
+	}
 	farmers = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 160427
-	 } 
+	}
 	farmers = {
 		culture = brazilian
 		religion = secularism
 		size = 17825
-	 } 
+	}
 	farmers = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 27478
-	 } 
+	}
 	farmers = {
 		culture = brazilian
 		religion = secularism
 		size = 3053
-	 } 
+	}
 	farmers = {
 		culture = afro_portuguese
-		religion =  catholic 
+		religion =  catholic
 		size = 10102
-	 } 
+	}
 	farmers = {
 		culture = afro_portuguese
 		religion = secularism
 		size = 1122
-	 } 
+	}
 }
 #Santa Maria - Rio Grande do Sul (898000/224500 POPS)
 2466 = {
 	clergymen = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 4041
-	 } 
+	}
 	clergymen = {
 		culture = brazilian
 		religion = secularism
 		size = 449
-	 } 
+	}
 	farmers = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 160427
-	 } 
+	}
 	farmers = {
 		culture = brazilian
 		religion = secularism
 		size = 17825
-	 } 
+	}
 	farmers = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 27478
-	 } 
+	}
 	farmers = {
 		culture = brazilian
 		religion = secularism
 		size = 3053
-	 } 
+	}
 	farmers = {
 		culture = afro_portuguese
-		religion =  catholic 
+		religion =  catholic
 		size = 10102
-	 } 
+	}
 	farmers = {
 		culture = afro_portuguese
 		religion = secularism
 		size = 1122
-	 } 
+	}
 }
 #Alegrete - Rio Grande do Sul (898000/224500 POPS)
 2467 = {
 	clergymen = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 4041
-	 } 
+	}
 	clergymen = {
 		culture = brazilian
 		religion = secularism
 		size = 449
-	 } 
+	}
 	farmers = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 160427
-	 } 
+	}
 	farmers = {
 		culture = brazilian
 		religion = secularism
 		size = 17825
-	 } 
+	}
 	farmers = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 27478
-	 } 
+	}
 	farmers = {
 		culture = brazilian
 		religion = secularism
 		size = 3053
-	 } 
+	}
 	farmers = {
 		culture = afro_portuguese
-		religion =  catholic 
+		religion =  catholic
 		size = 10102
-	 } 
+	}
 	farmers = {
 		culture = afro_portuguese
 		religion = secularism
 		size = 1122
-	 } 
+	}
 }
 #Forte Sao Joaquim - Roraima (372000/93000 POPS)
 2532 = {
 	officers = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 136
-	 } 
+	}
 	officers = {
 		culture = brazilian
 		religion = secularism
 		size = 15
-	 } 
+	}
 	soldiers = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 2600
-	 } 
+	}
 	soldiers = {
 		culture = brazilian
 		religion = secularism
 		size = 288
-	 } 
+	}
 	aristocrats = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 3348
-	 } 
+	}
 	aristocrats = {
 		culture = brazilian
 		religion = secularism
 		size = 372
-	 } 
+	}
 	bureaucrats = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 167
-	 } 
+	}
 	bureaucrats = {
 		culture = brazilian
 		religion = secularism
 		size = 18
-	 } 
+	}
 	capitalists = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 418
-	 } 
+	}
 	capitalists = {
 		culture = brazilian
 		religion = secularism
 		size = 46
-	 } 
+	}
 	clergymen = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 1674
-	 } 
+	}
 	clergymen = {
 		culture = brazilian
 		religion = secularism
 		size = 186
-	 } 
+	}
 	clerks = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 864
-	 } 
+	}
 	clerks = {
 		culture = brazilian
 		religion = secularism
 		size = 96
-	 } 
+	}
 	artisans = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 820
-	 } 
+	}
 	artisans = {
 		culture = brazilian
 		religion = secularism
 		size = 91
-	 } 
+	}
 	craftsmen = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 2592
-	 } 
+	}
 	craftsmen = {
 		culture = brazilian
 		religion = secularism
 		size = 288
-	 } 
+	}
 	farmers = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 4118
-	 } 
+	}
 	farmers = {
 		culture = brazilian
 		religion = secularism
 		size = 457
-	 } 
+	}
 	farmers = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 66960
-	 } 
+	}
 	farmers = {
 		culture = brazilian
 		religion = secularism
 		size = 7440
-	 } 
+	}
 }
 #Tarauaca - Acre (591000/147750 POPS)
 2549 = {
 	officers = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 216
-	 } 
+	}
 	officers = {
 		culture = brazilian
 		religion = secularism
 		size = 24
-	 } 
+	}
 	soldiers = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 4131
-	 } 
+	}
 	soldiers = {
 		culture = brazilian
 		religion = secularism
 		size = 459
-	 } 
+	}
 	aristocrats = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 5319
-	 } 
+	}
 	aristocrats = {
 		culture = brazilian
 		religion = secularism
 		size = 591
-	 } 
+	}
 	bureaucrats = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 265
-	 } 
+	}
 	bureaucrats = {
 		culture = brazilian
 		religion = secularism
 		size = 29
-	 } 
+	}
 	capitalists = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 664
-	 } 
+	}
 	capitalists = {
 		culture = brazilian
 		religion = secularism
 		size = 73
-	 } 
+	}
 	clergymen = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 2659
-	 } 
+	}
 	clergymen = {
 		culture = brazilian
 		religion = secularism
 		size = 295
-	 } 
+	}
 	clerks = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 1372
-	 } 
+	}
 	clerks = {
 		culture = brazilian
 		religion = secularism
 		size = 152
-	 } 
+	}
 	artisans = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 1304
-	 } 
+	}
 	artisans = {
 		culture = brazilian
 		religion = secularism
 		size = 144
-	 } 
+	}
 	craftsmen = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 4118
-	 } 
+	}
 	craftsmen = {
 		culture = brazilian
 		religion = secularism
 		size = 457
-	 } 
+	}
 	farmers = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 6543
-	 } 
+	}
 	farmers = {
 		culture = brazilian
 		religion = secularism
 		size = 727
-	 } 
+	}
 	farmers = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 106380
-	 } 
+	}
 	farmers = {
 		culture = brazilian
 		religion = secularism
 		size = 11820
-	 } 
+	}
 }
 #Forte do Principe - Rondônia (1312000/328000 POPS)
 2550 = {
 	officers = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 482
-	 } 
+	}
 	officers = {
 		culture = brazilian
 		religion = secularism
 		size = 53
-	 } 
+	}
 	soldiers = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 9171
-	 } 
+	}
 	soldiers = {
 		culture = brazilian
 		religion = secularism
 		size = 1019
-	 } 
+	}
 	aristocrats = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 11808
-	 } 
+	}
 	aristocrats = {
 		culture = brazilian
 		religion = secularism
 		size = 1312
-	 } 
+	}
 	bureaucrats = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 590
-	 } 
+	}
 	bureaucrats = {
 		culture = brazilian
 		religion = secularism
 		size = 65
-	 } 
+	}
 	capitalists = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 1476
-	 } 
+	}
 	capitalists = {
 		culture = brazilian
 		religion = secularism
 		size = 164
-	 } 
+	}
 	clergymen = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 5904
-	 } 
+	}
 	clergymen = {
 		culture = brazilian
 		religion = secularism
 		size = 656
-	 } 
+	}
 	clerks = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 3047
-	 } 
+	}
 	clerks = {
 		culture = brazilian
 		religion = secularism
 		size = 338
-	 } 
+	}
 	artisans = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 2895
-	 } 
+	}
 	artisans = {
 		culture = brazilian
 		religion = secularism
 		size = 321
-	 } 
+	}
 	craftsmen = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 9143
-	 } 
+	}
 	craftsmen = {
 		culture = brazilian
 		religion = secularism
 		size = 1015
-	 } 
+	}
 	farmers = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 176882
-	 } 
+	}
 	farmers = {
 		culture = brazilian
 		religion = secularism
 		size = 19653
-	 } 
+	}
 	farmers = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 73800
-	 } 
+	}
 	farmers = {
 		culture = brazilian
 		religion = secularism
 		size = 8200
-	 } 
+	}
 }
 #Altamira - Pará (748000/187000 POPS)
 2600 = {
 	clergymen = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 3366
-	 } 
+	}
 	clergymen = {
 		culture = brazilian
 		religion = secularism
 		size = 374
-	 } 
+	}
 	farmers = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 30294
-	 } 
+	}
 	farmers = {
 		culture = brazilian
 		religion = secularism
 		size = 3366
-	 } 
+	}
 	farmers = {
 		culture = brazilian
-		religion =  catholic 
+		religion =  catholic
 		size = 134640
-	 } 
+	}
 	farmers = {
 		culture = brazilian
 		religion = secularism
 		size = 14960
-	 } 
+	}
 }

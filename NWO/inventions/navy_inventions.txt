@@ -1,953 +1,953 @@
 long_range_fire_tactic = {
-	limit = {
-		standardization = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-		navy_base = {
-			default_organisation = 5
-		}
-	}
+  limit = {
+    standardization = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+    navy_base = {
+      default_organisation = 5
+    }
+  }
 }
 speedy_maneuvering_tactic = {
-	limit = {
-		standardization = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-		navy_base = {
-			maximum_speed = 1
-		}
-	}
+  limit = {
+    standardization = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+    navy_base = {
+      maximum_speed = 1
+    }
+  }
 }
 sealane_hunters = {
-	limit = {
-		lean_manufacturing = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-		navy_base = {
-			maximum_speed = 1
-		}
-	}
+  limit = {
+    lean_manufacturing = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+    navy_base = {
+      maximum_speed = 1
+    }
+  }
 }
 fast_ship_killer = {
-	limit = {
-		lean_manufacturing = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-		navy_base = {
-			maximum_speed = 1
-		}
-	}
+  limit = {
+    lean_manufacturing = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+    navy_base = {
+      maximum_speed = 1
+    }
+  }
 }
 big_ship_competitor = {
-	limit = {
-		lean_manufacturing = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-		navy_base = {
-			gun_power = 1
-		}
-	}
+  limit = {
+    lean_manufacturing = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+    navy_base = {
+      gun_power = 1
+    }
+  }
 }
 standard_overseas_naval_base = {
-	limit = {
-		lean_manufacturing = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-		navy_base = {
-			maximum_speed = 1
-		}
-	}
+  limit = {
+    lean_manufacturing = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+    navy_base = {
+      maximum_speed = 1
+    }
+  }
 }
 blue_water_school = {
-	limit = {
-		modern_workforce_management = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-		navy_base = {
-			build_time = -10
-		}
-	}
+  limit = {
+    modern_workforce_management = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+    navy_base = {
+      build_time = -10
+    }
+  }
 }
 brown_water_school = {
-	limit = {
-		modern_workforce_management = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-		navy_base = {
-			build_time = -10
-		}
-	}
+  limit = {
+    modern_workforce_management = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+    navy_base = {
+      build_time = -10
+    }
+  }
 }
 offensive_attitude = {
-	limit = {
-		robotization_industry = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-		navy_base = {
-			gun_power = 1
-		}
-	}
+  limit = {
+    robotization_industry = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+    navy_base = {
+      gun_power = 1
+    }
+  }
 }
 defensive_attitude = {
-	limit = {
-		robotization_industry = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-		carrier = {
-			hull = 5
-		}
-		cruiser = {
-			hull = 5
-		}
-	}
+  limit = {
+    robotization_industry = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+    carrier = {
+      hull = 5
+    }
+    cruiser = {
+      hull = 5
+    }
+  }
 }
 decisive_firepower_doctrine = {
-	limit = {
-		service_revolution = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-		navy_base = {
-			gun_power = 1
-		}
-	}
+  limit = {
+    service_revolution = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+    navy_base = {
+      gun_power = 1
+    }
+  }
 }
 naval_firepower_doctrine = {
-	limit = {
-		service_revolution = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-		navy_base = {
-			gun_power = 1
-		}
-	}
+  limit = {
+    service_revolution = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+    navy_base = {
+      gun_power = 1
+    }
+  }
 }
 building_station_shipyards = {
-	limit = {
-		postwar_modernism = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-		factory_goods_throughput = {
-			ships = 0.1000
-		}
-	}
+  limit = {
+    postwar_modernism = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+    factory_goods_throughput = {
+      ships = 0.1000
+    }
+  }
 }
 fish_processing = {
-	limit = {
-		beaux_arts_architecture = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-		factory_goods_throughput = {
-			fertilizers = 0.0500
-		}
-	}
+  limit = {
+    beaux_arts_architecture = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+    factory_goods_throughput = {
+      fertilizers = 0.0500
+    }
+  }
 }
 steamer_transports = {
-	limit = {
-		beaux_arts_architecture = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-		rgo_goods_output = {
-			fish = 0.5000
-		}
-	}
+  limit = {
+    beaux_arts_architecture = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+    rgo_goods_output = {
+      fish = 0.5000
+    }
+  }
 }
 commerce_raiders = {
-	limit = {
-		beaux_arts_architecture = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-		rgo_goods_output = {
-			fish = 0.5000
-		}
-	}
+  limit = {
+    beaux_arts_architecture = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+    rgo_goods_output = {
+      fish = 0.5000
+    }
+  }
 }
 ww2_frigate = {
-	limit = {
-		art_nouveau = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-		rgo_goods_output = {
-			fish = 0.5000
-		}
-	}
+  limit = {
+    art_nouveau = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+    rgo_goods_output = {
+      fish = 0.5000
+    }
+  }
 }
 ww2_destroyer = {
-	limit = {
-		art_nouveau = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-		rgo_goods_output = {
-			fish = 0.5000
-		}
-	}
+  limit = {
+    art_nouveau = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+    rgo_goods_output = {
+      fish = 0.5000
+    }
+  }
 }
 mechanized_fishing_vessels = {
-	limit = {
-		international_style = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-		rgo_goods_output = {
-			fish = 0.5000
-		}
-		rgo_size = {
-			fish = -0.2500
-		}
-	}
+  limit = {
+    international_style = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+    rgo_goods_output = {
+      fish = 0.5000
+    }
+    rgo_size = {
+      fish = -0.2500
+    }
+  }
 }
 steamer_automatic_construction_plants = {
-	limit = {
-		international_style = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-		factory_goods_throughput = {
-			ships = 0.1000
-		}
-	}
+  limit = {
+    international_style = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+    factory_goods_throughput = {
+      ships = 0.1000
+    }
+  }
 }
 protected_cruisers = {
-	limit = {
-		contemporary_architecture = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-		factory_goods_throughput = {
-			ships = 0.1000
-		}
-	}
+  limit = {
+    contemporary_architecture = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+    factory_goods_throughput = {
+      ships = 0.1000
+    }
+  }
 }
 early_carrier = {
-	limit = {
-		contemporary_architecture = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-		destroyer = {
-			hull = 1
-			gun_power = 1
-			maximum_speed = 1
-		}
-	}
+  limit = {
+    contemporary_architecture = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+    destroyer = {
+      hull = 1
+      gun_power = 1
+      maximum_speed = 1
+    }
+  }
 }
 advanced_cruisers = {
-	limit = {
-		urban_renewal = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-		cruiser = {
-			hull = 1
-			gun_power = 1
-		}
-	}
+  limit = {
+    urban_renewal = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+    cruiser = {
+      hull = 1
+      gun_power = 1
+    }
+  }
 }
 modern_cruisers = {
-	limit = {
-		urban_renewal = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-		cruiser = {
-			maximum_speed = 1
-		}
-	}
+  limit = {
+    urban_renewal = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+    cruiser = {
+      maximum_speed = 1
+    }
+  }
 }
 advanced_battleships = {
-	limit = {
-		urban_renewal = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-		carrier = {
-			hull = 1
-			gun_power = 1
-		}
-	}
+  limit = {
+    urban_renewal = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+    carrier = {
+      hull = 1
+      gun_power = 1
+    }
+  }
 }
 modern_battleships = {
-	limit = {
-		urban_renewal = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-		carrier = {
-			maximum_speed = 1
-		}
-	}
+  limit = {
+    urban_renewal = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+    carrier = {
+      maximum_speed = 1
+    }
+  }
 }
 experimental_carriers = {
-	limit = {
-		interstate_highway_system = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-		navy_base = {
-			gun_power = 1
-		}
-	}
+  limit = {
+    interstate_highway_system = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+    navy_base = {
+      gun_power = 1
+    }
+  }
 }
 optical_rangefinders = {
-	limit = {
-		early_high_speed_rail = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-		navy_base = {
-			gun_power = 1
-		}
-	}
+  limit = {
+    early_high_speed_rail = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+    navy_base = {
+      gun_power = 1
+    }
+  }
 }
 gyrostabilized_fire_control = {
-	limit = {
-		early_high_speed_rail = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-		navy_base = {
-			gun_power = 1
-		}
-	}
+  limit = {
+    early_high_speed_rail = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+    navy_base = {
+      gun_power = 1
+    }
+  }
 }
 armour_piercing_projectiles = {
-	limit = {
-		rapid_transit = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-		navy_base = {
-			gun_power = 1
-		}
-	}
+  limit = {
+    rapid_transit = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+    navy_base = {
+      gun_power = 1
+    }
+  }
 }
 armour_piercing_exploding_projectiles = {
-	limit = {
-		rapid_transit = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-		navy_base = {
-			gun_power = 1
-		}
-	}
+  limit = {
+    rapid_transit = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+    navy_base = {
+      gun_power = 1
+    }
+  }
 }
 armoured_turrets = {
-	limit = {
-		rapid_transit = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-		navy_base = {
-			hull = 1
-		}
-	}
+  limit = {
+    rapid_transit = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+    navy_base = {
+      hull = 1
+    }
+  }
 }
 bomb_guns = {
-	limit = {
-		modern_backbone = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-		navy_base = {
-			gun_power = 1
-		}
-	}
+  limit = {
+    modern_backbone = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+    navy_base = {
+      gun_power = 1
+    }
+  }
 }
 rifled_guns = {
-	limit = {
-		modern_backbone = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-		navy_base = {
-			gun_power = 1
-		}
-	}
+  limit = {
+    modern_backbone = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+    navy_base = {
+      gun_power = 1
+    }
+  }
 }
 quick_firing_guns = {
-	limit = {
-		modern_backbone = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-		navy_base = {
-			gun_power = 1
-		}
-	}
+  limit = {
+    modern_backbone = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+    navy_base = {
+      gun_power = 1
+    }
+  }
 }
 armoured_citadels = {
-	limit = {
-		modern_backbone = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-		destroyer = {
-			hull = 2
-		}
-		carrier = {
-			hull = 2
-		}
-	}
+  limit = {
+    modern_backbone = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+    destroyer = {
+      hull = 2
+    }
+    carrier = {
+      hull = 2
+    }
+  }
 }
 heavy_caliber_guns = {
-	limit = {
-		modern_backbone = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-		destroyer = {
-			gun_power = 2
-		}
-		carrier = {
-			gun_power = 2
-		}
-	}
+  limit = {
+    modern_backbone = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+    destroyer = {
+      gun_power = 2
+    }
+    carrier = {
+      gun_power = 2
+    }
+  }
 }
 on_board_recon_aircraft = {
-	limit = {
-		dynamic_infrastructure = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-		navy_base = {
-			default_organisation = 5
-		}
-	}
+  limit = {
+    dynamic_infrastructure = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+    navy_base = {
+      default_organisation = 5
+    }
+  }
 }
 gun_hydraulics = {
-	limit = {
-		dynamic_infrastructure = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-		carrier = {
-			gun_power = 2
-		}
-	}
+  limit = {
+    dynamic_infrastructure = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+    carrier = {
+      gun_power = 2
+    }
+  }
 }
 heavy_armour_plates = {
-	limit = {
-		dynamic_infrastructure = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-		carrier = {
-			hull = 2
-		}
-	}
+  limit = {
+    dynamic_infrastructure = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+    carrier = {
+      hull = 2
+    }
+  }
 }
 large_hull_form = {
-	limit = {
-		dynamic_infrastructure = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-		navy_base = {
-			hull = 1
-		}
-	}
+  limit = {
+    dynamic_infrastructure = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+    navy_base = {
+      hull = 1
+    }
+  }
 }
 wireless = {
-	limit = {
-		future_backbone = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-		navy_base = {
-			default_organisation = 5
-		}
-	}
+  limit = {
+    future_backbone = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+    navy_base = {
+      default_organisation = 5
+    }
+  }
 }
 advanced_fire_control = {
-	limit = {
-		future_backbone = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-		carrier = {
-			gun_power = 2
-		}
-		cruiser = {
-			gun_power = 2
-		}
-	}
+  limit = {
+    future_backbone = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+    carrier = {
+      gun_power = 2
+    }
+    cruiser = {
+      gun_power = 2
+    }
+  }
 }
 electromagnetic_aircraft_launch = {
-	limit = {
-		future_backbone = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-		carrier = {
-			gun_power = 2
-		}
-	}
+  limit = {
+    future_backbone = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+    carrier = {
+      gun_power = 2
+    }
+  }
 }
 night_training = {
-	limit = {
-		internet = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-		navy_base = {
-			default_organisation = 1
-		}
-	}
+  limit = {
+    internet = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+    navy_base = {
+      default_organisation = 1
+    }
+  }
 }
 enemy_plotting_cards = {
-	limit = {
-		internet = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-		navy_base = {
-			default_organisation = 1
-		}
-	}
+  limit = {
+    internet = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+    navy_base = {
+      default_organisation = 1
+    }
+  }
 }
 target_hit_profile_analysis = {
-	limit = {
-		internet = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-		navy_base = {
-			default_organisation = 1
-		}
-	}
+  limit = {
+    internet = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+    navy_base = {
+      default_organisation = 1
+    }
+  }
 }
 hit_evaluation_reports = {
-	limit = {
-		mobile_phones_2g = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-		navy_base = {
-			default_organisation = 1
-		}
-	}
+  limit = {
+    mobile_phones_2g = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+    navy_base = {
+      default_organisation = 1
+    }
+  }
 }
 empirical_interdiction_reports = {
-	limit = {
-		mobile_phones_2g = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-		navy_base = {
-			default_organisation = 1
-		}
-	}
+  limit = {
+    mobile_phones_2g = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+    navy_base = {
+      default_organisation = 1
+    }
+  }
 }
 naval_strike_success_criterium = {
-	limit = {
-		mobile_phones_2g = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-		navy_base = {
-			default_organisation = 1
-		}
-	}
+  limit = {
+    mobile_phones_2g = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+    navy_base = {
+      default_organisation = 1
+    }
+  }
 }
 underway_refueling = {
-	limit = {
-		native_ip_networks = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-		navy_base = {
-			default_organisation = 1
-		}
-	}
+  limit = {
+    native_ip_networks = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+    navy_base = {
+      default_organisation = 1
+    }
+  }
 }
 ammunition_conservation_system = {
-	limit = {
-		native_ip_networks = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-		navy_base = {
-			default_organisation = 1
-		}
-	}
+  limit = {
+    native_ip_networks = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+    navy_base = {
+      default_organisation = 1
+    }
+  }
 }
 radio_telegraphy = {
-	limit = {
-		native_ip_networks = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-		navy_base = {
-			default_organisation = 1
-		}
-	}
+  limit = {
+    native_ip_networks = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+    navy_base = {
+      default_organisation = 1
+    }
+  }
 }
 political_lobbying = {
-	limit = {
-		rfid = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-		navy_base = {
-			default_organisation = 1
-		}
-	}
+  limit = {
+    rfid = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+    navy_base = {
+      default_organisation = 1
+    }
+  }
 }
 military_political_decision_making = {
-	limit = {
-		rfid = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-		navy_base = {
-			default_organisation = 1
-		}
-	}
+  limit = {
+    rfid = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+    navy_base = {
+      default_organisation = 1
+    }
+  }
 }
 local_military_government = {
-	limit = {
-		rfid = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-		navy_base = {
-			default_organisation = 1
-		}
-	}
+  limit = {
+    rfid = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+    navy_base = {
+      default_organisation = 1
+    }
+  }
 }
 war_gamming = {
-	limit = {
-		argumented_reality = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-		navy_base = {
-			default_organisation = 1
-		}
-	}
+  limit = {
+    argumented_reality = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+    navy_base = {
+      default_organisation = 1
+    }
+  }
 }
 combined_arms_planning = {
-	limit = {
-		argumented_reality = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-		navy_base = {
-			default_organisation = 1
-		}
-	}
+  limit = {
+    argumented_reality = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+    navy_base = {
+      default_organisation = 1
+    }
+  }
 }
 academic_training = {
-	limit = {
-		steam_locomotive = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-		navy_base = {
-			default_organisation = 1
-		}
-	}
+  limit = {
+    steam_locomotive = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+    navy_base = {
+      default_organisation = 1
+    }
+  }
 }
 combat_station_training = {
-	limit = {
-		steam_locomotive = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-		navy_base = {
-			default_organisation = 1
-		}
-	}
+  limit = {
+    steam_locomotive = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+    navy_base = {
+      default_organisation = 1
+    }
+  }
 }
 societal_status = {
-	limit = {
-		steam_locomotive = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-		navy_base = {
-			default_organisation = 1
-		}
-	}
+  limit = {
+    steam_locomotive = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+    navy_base = {
+      default_organisation = 1
+    }
+  }
 }
 independent_command = {
-	limit = {
-		electric_aluminium_motor = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-		navy_base = {
-			default_organisation = 1
-		}
-	}
+  limit = {
+    electric_aluminium_motor = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+    navy_base = {
+      default_organisation = 1
+    }
+  }
 }
 continuous_issuing_of_orders = {
-	limit = {
-		electric_aluminium_motor = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-		navy_base = {
-			default_organisation = 1
-		}
-	}
+  limit = {
+    electric_aluminium_motor = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+    navy_base = {
+      default_organisation = 1
+    }
+  }
 }
 delegated_power = {
-	limit = {
-		electric_aluminium_motor = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-		navy_base = {
-			default_organisation = 1
-		}
-	}
+  limit = {
+    electric_aluminium_motor = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+    navy_base = {
+      default_organisation = 1
+    }
+  }
 }
 wargames = {
-	limit = {
-		electric_ball_bearing_motor = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-		navy_base = {
-			default_organisation = 1
-		}
-	}
+  limit = {
+    electric_ball_bearing_motor = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+    navy_base = {
+      default_organisation = 1
+    }
+  }
 }
 alternative_plans = {
-	limit = {
-		electric_ball_bearing_motor = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-		navy_base = {
-			default_organisation = 1
-		}
-	}
+  limit = {
+    electric_ball_bearing_motor = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+    navy_base = {
+      default_organisation = 1
+    }
+  }
 }
 n_saddle_orders = {
-	limit = {
-		electric_ball_bearing_motor = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-		navy_base = {
-			default_organisation = 1
-		}
-	}
+  limit = {
+    electric_ball_bearing_motor = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+    navy_base = {
+      default_organisation = 1
+    }
+  }
 }
 literate_ncos = {
-	limit = {
-		cogeneration = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-		navy_base = {
-			default_organisation = 1
-		}
-	}
+  limit = {
+    cogeneration = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+    navy_base = {
+      default_organisation = 1
+    }
+  }
 }
 nco_combat_station_training = {
-	limit = {
-		cogeneration = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-		navy_base = {
-			default_organisation = 1
-		}
-	}
+  limit = {
+    cogeneration = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+    navy_base = {
+      default_organisation = 1
+    }
+  }
 }
 nco_tactical_training = {
-	limit = {
-		cogeneration = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-		navy_base = {
-			default_organisation = 1
-		}
-	}
+  limit = {
+    cogeneration = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+    navy_base = {
+      default_organisation = 1
+    }
+  }
 }
 amphibious_warfare_training = {
-	limit = {
-		electric_car = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-		navy_base = {
-			default_organisation = 1
-		}
-	}
+  limit = {
+    electric_car = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+    navy_base = {
+      default_organisation = 1
+    }
+  }
 }
 naval_exercises = {
-	limit = {
-		electric_car = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-		naval_attrition = -0.1000
-	}
+  limit = {
+    electric_car = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+    naval_attrition = -0.1000
+  }
 }

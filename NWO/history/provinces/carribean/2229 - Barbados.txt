@@ -6,13 +6,13 @@ life_rating = 20
 terrain = good_farmland
 colonial = 2
 1992.1.1 = {
-owner = BAR
-controller = BAR
-add_core = BAR
-colonial = 0
-state_building = {
-	level = 1
-	building = modern_beverages_factory
-	upgrade = yes
-}
+  owner = BAR
+  controller = BAR
+  add_core = BAR
+  colonial = 0
+  state_building = {
+    level = 1
+    building = modern_beverages_factory
+    upgrade = yes
+  }
 }

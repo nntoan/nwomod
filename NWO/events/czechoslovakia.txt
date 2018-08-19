@@ -1,52 +1,52 @@
 country_event = {
-	id = 1004201
-	title = "EVT_dissolution_of_czechoslovakia_NAME"
-	desc = "EVT_dissolution_of_czechoslovakia_DESC"
-	picture = "dissolution_of_czechoslovakia"
-	fire_only_once = yes
-	
-	trigger = {
-		war = no
-		tag = CZH
-		government = democracy
-		NOT = { ruling_party_ideology = communist }
-		NOT = { in_sphere = SUN }
-	}
-	
-	mean_time_to_happen = {
-		months = 24
-	}
-	
-	option = {
-		name = "EVT_dissolution_of_czechoslovakia_A" # Dissolve
-		release = SLV
-		all_core = { remove_core = CZH }
-		change_tag = CZE
-		ai_chance = { factor = 100 }
-	}
-	
-	option = {
-		name = "EVT_dissolution_of_czechoslovakia_B" # Confederation
-		release_vassal = SLV
-		all_core = { remove_core = CZH }
-		any_pop = {
-			limit = { is_primary_culture = yes }
-			militancy = 2
-			consciousness = 2
-		}
-		ai_chance = { factor = 0 }
-	}
+  id = 1004201
+  title = "EVT_dissolution_of_czechoslovakia_NAME"
+  desc = "EVT_dissolution_of_czechoslovakia_DESC"
+  picture = "dissolution_of_czechoslovakia"
+  fire_only_once = yes
 
-	option = {
-		name = "EVT_dissolution_of_czechoslovakia_C" # unitary state
-		any_pop = {
-			limit = { culture = slovak }
-			militancy = 4
-			consciousness = 4
-		}
-		ai_chance = { factor = 0 }
-	}
-	
+  trigger = {
+    war = no
+    tag = CZH
+    government = democracy
+    NOT = { ruling_party_ideology = communist }
+    NOT = { in_sphere = SUN }
+  }
+
+  mean_time_to_happen = {
+    months = 24
+  }
+
+  option = {
+    name = "EVT_dissolution_of_czechoslovakia_A" # Dissolve
+    release = SLV
+    all_core = { remove_core = CZH }
+    change_tag = CZE
+    ai_chance = { factor = 100 }
+  }
+
+  option = {
+    name = "EVT_dissolution_of_czechoslovakia_B" # Confederation
+    release_vassal = SLV
+    all_core = { remove_core = CZH }
+    any_pop = {
+      limit = { is_primary_culture = yes }
+      militancy = 2
+      consciousness = 2
+    }
+    ai_chance = { factor = 0 }
+  }
+
+  option = {
+    name = "EVT_dissolution_of_czechoslovakia_C" # unitary state
+    any_pop = {
+      limit = { culture = slovak }
+      militancy = 4
+      consciousness = 4
+    }
+    ai_chance = { factor = 0 }
+  }
+
 }
 country_event = {
   id = 8023107
@@ -58,30 +58,30 @@ country_event = {
   trigger = {
     tag = CZH
     year = 1968 NOT = { year = 1969 }
-    
-	government = proletarian_dictatorship
-	vassal_of = SUN
+
+    government = proletarian_dictatorship
+    vassal_of = SUN
   }
 
   mean_time_to_happen = { months = 1  }
 
   option = {
     name = EVT_8023107_A
-	any_pop = { consciousness = 2 }
-	relation = { who = SUN value = -50 } 
-	relation = { who = USA value = 50 } 
-	relation = { who = GBR value = 50 } 
-	relation = { who = FRA value = 50 } 
-	SUN  = { country_event = 8225001 } 
-	SUN = { country_event = 8023121 } 
-	ai_chance = { factor  = 100 }
+    any_pop = { consciousness = 2 }
+    relation = { who = SUN value = -50 }
+    relation = { who = USA value = 50 }
+    relation = { who = GBR value = 50 }
+    relation = { who = FRA value = 50 }
+    SUN  = { country_event = 8225001 }
+    SUN = { country_event = 8023121 }
+    ai_chance = { factor  = 100 }
   }
 
   option = {
     name = EVT_8023107_B
-	any_pop = { militancy = 3.0 }
-	set_global_flag = prague_spring # second chance in one year
-	ai_chance = { factor  = 0 }
+    any_pop = { militancy = 3.0 }
+    set_global_flag = prague_spring # second chance in one year
+    ai_chance = { factor  = 0 }
   }
 }
 country_event = {
@@ -93,7 +93,7 @@ country_event = {
 
   option = {
     name = EVT_8023108_A
-	prestige = -10
+    prestige = -10
   }
 }
 country_event = {
@@ -106,14 +106,14 @@ country_event = {
   trigger = {
     tag = CZH
     year = 1968 NOT = { year = 1969 }
-    
+
   }
 
   mean_time_to_happen = { months = 1  }
 
   option = {
     name = EVT_DEATH
-	random_state = { any_pop = { dominant_issue = { value = full_citizenship factor = 0.2 } } }
+    random_state = { any_pop = { dominant_issue = { value = full_citizenship factor = 0.2 } } }
   }
 }
 country_event = {
@@ -126,25 +126,25 @@ country_event = {
   trigger = {
     tag = CZH
     year = 1948 NOT = { year = 1952 }
-    
+
   }
 
   mean_time_to_happen = { months = 8 }
 
   option = {
     name = EVT_8023114_A
-	any_pop = {consciousness = 1 }
-	ai_chance = { factor = 0 }
+    any_pop = {consciousness = 1 }
+    ai_chance = { factor = 0 }
   }
 
   option = {
     name = EVT_8023114_B
-	relation = { who = SUN value = -100 } 
-	ai_chance = { factor = 100 }
+    relation = { who = SUN value = -100 }
+    ai_chance = { factor = 100 }
   }
 }
 
-country_event = { # 1948 Czechoslovak coup d'état
+country_event = { # 1948 Czechoslovak coup d'ï¿½tat
   id = 8023115
   title = EVT_8023115_NAME
   desc = EVT_8023115_DESC
@@ -162,15 +162,15 @@ country_event = { # 1948 Czechoslovak coup d'état
 
   option = {
     name = EVT_8023115_A
-	relation = { who = SUN value = 80 } 
-	ai_chance = { factor = 1 }
+    relation = { who = SUN value = 80 }
+    ai_chance = { factor = 1 }
   }
 
   option = {
     name = EVT_8023115_B
-	relation = { who = SUN value = -20 } 
-	any_pop = {consciousness = 1 }
-	ai_chance = { factor = 0 }
+    relation = { who = SUN value = -20 }
+    any_pop = {consciousness = 1 }
+    ai_chance = { factor = 0 }
   }
 }
 
@@ -185,7 +185,7 @@ country_event = {
     tag = CZH
     year = 1968 NOT = { year = 1970 }
     has_global_flag = prague_spring
-    
+
     war = no
   }
 
@@ -193,20 +193,20 @@ country_event = {
 
   option = {
     name = EVT_8023120_A
-	any_pop = { militancy = 0.5 consciousness = 1 }
-	relation = { who = SUN value = -50 } 
-	relation = { who = USA value = 50 } 
-	relation = { who = GBR value = 50 } 
-	relation = { who = FRA value = 50 } 
-	SUN  = { country_event = 8225001 } 
-	SUN = { country_event = 8023121 }
-	ai_chance = { factor  = 100 }
+    any_pop = { militancy = 0.5 consciousness = 1 }
+    relation = { who = SUN value = -50 }
+    relation = { who = USA value = 50 }
+    relation = { who = GBR value = 50 }
+    relation = { who = FRA value = 50 }
+    SUN  = { country_event = 8225001 }
+    SUN = { country_event = 8023121 }
+    ai_chance = { factor  = 100 }
   }
 
   option = {
     name = EVT_8023120_B
-	any_pop = { militancy = 1.5 }
-	ai_chance = { factor  = 0 }
+    any_pop = { militancy = 1.5 }
+    ai_chance = { factor  = 0 }
   }
 }
 country_event = {
@@ -218,25 +218,25 @@ country_event = {
 
   option = {
     name = EVT_8023121_A
-	any_pop = { consciousness = 1 }
-	set_global_flag = prague_spring
-	set_country_flag = end_the_spring
-	release_vassal = CZH
-	# infamy unsanctioned
-	war = { target = CZH attacker_goal = { casus_belli = make_puppet } defender_goal = { casus_belli = status_quo } }
-	ai_chance = { factor  = 100 }
+    any_pop = { consciousness = 1 }
+    set_global_flag = prague_spring
+    set_country_flag = end_the_spring
+    release_vassal = CZH
+    # infamy unsanctioned
+    war = { target = CZH attacker_goal = { casus_belli = make_puppet } defender_goal = { casus_belli = status_quo } }
+    ai_chance = { factor  = 100 }
   }
 
   option = {
     name = EVT_8023121_B
-	any_pop = { militancy = 1.0 }
-	release = CZH
-	CZH = { country_event = 8023122 }
-	ai_chance = { factor  = 0 }
+    any_pop = { militancy = 1.0 }
+    release = CZH
+    CZH = { country_event = 8023122 }
+    ai_chance = { factor  = 0 }
   }
 }
 country_event = {
-  id = 8023122 
+  id = 8023122
   title = EVT_8023122_NAME
   desc = EVT_8023122_DESC
   picture = "nwo2_prague_spring"
@@ -247,9 +247,9 @@ country_event = {
 
   option = {
     name = EVT_8023122_A
-	overlord = { release_vassal = THIS } 
-	SUN = { end_military_access = THIS } 
-	country_event = 8023123
+    overlord = { release_vassal = THIS }
+    SUN = { end_military_access = THIS }
+    country_event = 8023123
   }
 }
 country_event = {
@@ -258,21 +258,21 @@ country_event = {
   desc = EVT_8023123_DESC
   picture = "nwo2_prague_spring_victory"
   fire_only_once = yes
-  
+
   trigger = {
     tag = CZH
-   	has_country_flag = end_the_spring
-	war = no
-	is_vassal = no
+    has_country_flag = end_the_spring
+    war = no
+    is_vassal = no
   }
 
   mean_time_to_happen = { months = 2 }
-  
- option = {
+
+  option = {
     name = EVT_8023123_A
-	relation = { who = SUN value = -100 } 
-	any_pop = { militancy = -2.0 consciousness = -1 }
-	government = democracy  country_event = 800054
+    relation = { who = SUN value = -100 }
+    any_pop = { militancy = -2.0 consciousness = -1 }
+    government = democracy  country_event = 800054
   }
 }
 country_event = {
@@ -281,20 +281,20 @@ country_event = {
   desc = EVT_8023124_DESC
   picture = "nwo2_prague_spring_defeat"
   fire_only_once = yes
-  
+
   trigger = {
     tag = SUN
-   	has_country_flag = end_the_spring
-	war = no
-	is_our_vassal = CZH
+    has_country_flag = end_the_spring
+    war = no
+    is_our_vassal = CZH
   }
 
   mean_time_to_happen = { months = 2 }
 
   option = {
     name = EVT_8023124_A
-	SUN  = { country_event = 8225000 } 
-	CZH = { country_event = 8023125 }
+    SUN  = { country_event = 8225000 }
+    CZH = { country_event = 8023125 }
   }
 }
 country_event = {
@@ -306,9 +306,9 @@ country_event = {
 
   option = {
     name = EVT_8023125_A
-	any_pop = { militancy = 1.0 consciousness = 1 }
-	relation = { who = SUN value = 50 } 
-	SUN = { country_event = 8023108 }
+    any_pop = { militancy = 1.0 consciousness = 1 }
+    relation = { who = SUN value = 50 }
+    SUN = { country_event = 8023108 }
   }
 }
 country_event = {
@@ -321,25 +321,25 @@ country_event = {
   trigger = {
     tag = CZH
     has_global_flag = autumn_of_nations
-	government = proletarian_dictatorship
-	OR = { vassal_of = SUN is_vassal = no }
-	war = no
+    government = proletarian_dictatorship
+    OR = { vassal_of = SUN is_vassal = no }
+    war = no
   }
 
   mean_time_to_happen = { months = 1  }
 
   option = {
     name = EVT_8023130_A
-	any_pop = { militancy = -1.0  consciousness = 1 }
-	government = democracy  country_event = 800054
-	overlord = { country_event = 8014250 } 
-	ai_chance = { factor  = 100 }
+    any_pop = { militancy = -1.0  consciousness = 1 }
+    government = democracy  country_event = 800054
+    overlord = { country_event = 8014250 }
+    ai_chance = { factor  = 100 }
   }
 
   option = {
     name = EVT_8023130_B
-	any_pop = { militancy = 3 consciousness = 3 }
-	ai_chance = { factor  = 0 }
+    any_pop = { militancy = 3 consciousness = 3 }
+    ai_chance = { factor  = 0 }
   }
 }
 

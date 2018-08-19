@@ -1,206 +1,206 @@
 #Abu Dhabi - Abu Dhabi (427000/106750 POPS)
 1167 = {
-	clergymen = {
-		culture = sunni_arab
-		religion =  sunni 
-		size = 2135
-	 } 
-	farmers = {
-		culture = sunni_arab
-		religion =  sunni 
-		size = 18147
-	 } 
-	farmers = {
-		culture = european
-		religion =  protestant 
-		size = 8198
-	 } 
-	farmers = {
-		culture = european
-		religion = secularism
-		size = 341
-	 } 
-	farmers = {
-		culture = indian
-		religion =  hindu 
-		size = 7173
-	 } 
-	farmers = {
-		culture = indian
-		religion = secularism
-		size = 298
-	 } 
-	farmers = {
-		culture = shia_arab
-		religion =  shiite 
-		size = 16012
-	 } 
-	farmers = {
-		culture = bengali
-		religion =  sunni 
-		size = 10675
-	 } 
-	farmers = {
-		culture = indian_muslim
-		religion =  sunni 
-		size = 33092
-	 } 
-	farmers = {
-		culture = singalese
-		religion =  buddhist 
-		size = 2049
-	 } 
-	farmers = {
-		culture = singalese
-		religion = secularism
-		size = 85
-	 } 
-	farmers = {
-		culture = filipino
-		religion =  catholic 
-		size = 8198
-	 } 
-	farmers = {
-		culture = filipino
-		religion = secularism
-		size = 341
-	 } 
+  clergymen = {
+    culture = sunni_arab
+    religion =  sunni
+    size = 2135
+  }
+  farmers = {
+    culture = sunni_arab
+    religion =  sunni
+    size = 18147
+  }
+  farmers = {
+    culture = european
+    religion =  protestant
+    size = 8198
+  }
+  farmers = {
+    culture = european
+    religion = secularism
+    size = 341
+  }
+  farmers = {
+    culture = indian
+    religion =  hindu
+    size = 7173
+  }
+  farmers = {
+    culture = indian
+    religion = secularism
+    size = 298
+  }
+  farmers = {
+    culture = shia_arab
+    religion =  shiite
+    size = 16012
+  }
+  farmers = {
+    culture = bengali
+    religion =  sunni
+    size = 10675
+  }
+  farmers = {
+    culture = indian_muslim
+    religion =  sunni
+    size = 33092
+  }
+  farmers = {
+    culture = singalese
+    religion =  buddhist
+    size = 2049
+  }
+  farmers = {
+    culture = singalese
+    religion = secularism
+    size = 85
+  }
+  farmers = {
+    culture = filipino
+    religion =  catholic
+    size = 8198
+  }
+  farmers = {
+    culture = filipino
+    religion = secularism
+    size = 341
+  }
 }
 #Dubai - Dubai (1398000/349500 POPS)
 1168 = {
-	capitalists = {
-		culture = european
-		religion =  protestant 
-		size = 1677
-	 } 
-	capitalists = {
-		culture = european
-		religion = secularism
-		size = 69
-	 } 
-	officers = {
-		culture = sunni_arab
-		religion =  sunni 
-		size = 3021
-	 } 
-	soldiers = {
-		culture = sunni_arab
-		religion =  sunni 
-		size = 57403
-	 } 
-	aristocrats = {
-		culture = sunni_arab
-		religion =  sunni 
-		size = 5981
-	 } 
-	aristocrats = {
-		culture = european
-		religion =  protestant 
-		size = 7679
-	 } 
-	aristocrats = {
-		culture = european
-		religion = secularism
-		size = 319
-	 } 
-	bureaucrats = {
-		culture = european
-		religion =  protestant 
-		size = 671
-	 } 
-	bureaucrats = {
-		culture = european
-		religion = secularism
-		size = 27
-	 } 
-	clergymen = {
-		culture = european
-		religion =  protestant 
-		size = 6710
-	 } 
-	clergymen = {
-		culture = european
-		religion = secularism
-		size = 279
-	 } 
-	clerks = {
-		culture = european
-		religion =  protestant 
-		size = 8740
-	 } 
-	clerks = {
-		culture = european
-		religion = secularism
-		size = 364
-	 } 
-	artisans = {
-		culture = european
-		religion =  protestant 
-		size = 1363
-	 } 
-	artisans = {
-		culture = european
-		religion = secularism
-		size = 56
-	 } 
-	artisans = {
-		culture = indian
-		religion =  hindu 
-		size = 6940
-	 } 
-	artisans = {
-		culture = indian
-		religion = secularism
-		size = 289
-	 } 
-	craftsmen = {
-		culture = indian
-		religion =  hindu 
-		size = 16545
-	 } 
-	craftsmen = {
-		culture = indian
-		religion = secularism
-		size = 689
-	 } 
-	craftsmen = {
-		culture = shia_arab
-		religion =  shiite 
-		size = 10081
-	 } 
-	farmers = {
-		culture = shia_arab
-		religion =  shiite 
-		size = 42344
-	 } 
-	farmers = {
-		culture = bengali
-		religion =  sunni 
-		size = 34950
-	 } 
-	farmers = {
-		culture = indian_muslim
-		religion =  sunni 
-		size = 108345
-	 } 
-	farmers = {
-		culture = singalese
-		religion =  buddhist 
-		size = 6710
-	 } 
-	farmers = {
-		culture = singalese
-		religion = secularism
-		size = 279
-	 } 
-	farmers = {
-		culture = filipino
-		religion =  catholic 
-		size = 26841
-	 } 
-	farmers = {
-		culture = filipino
-		religion = secularism
-		size = 1118
-	 } 
+  capitalists = {
+    culture = european
+    religion =  protestant
+    size = 1677
+  }
+  capitalists = {
+    culture = european
+    religion = secularism
+    size = 69
+  }
+  officers = {
+    culture = sunni_arab
+    religion =  sunni
+    size = 3021
+  }
+  soldiers = {
+    culture = sunni_arab
+    religion =  sunni
+    size = 57403
+  }
+  aristocrats = {
+    culture = sunni_arab
+    religion =  sunni
+    size = 5981
+  }
+  aristocrats = {
+    culture = european
+    religion =  protestant
+    size = 7679
+  }
+  aristocrats = {
+    culture = european
+    religion = secularism
+    size = 319
+  }
+  bureaucrats = {
+    culture = european
+    religion =  protestant
+    size = 671
+  }
+  bureaucrats = {
+    culture = european
+    religion = secularism
+    size = 27
+  }
+  clergymen = {
+    culture = european
+    religion =  protestant
+    size = 6710
+  }
+  clergymen = {
+    culture = european
+    religion = secularism
+    size = 279
+  }
+  clerks = {
+    culture = european
+    religion =  protestant
+    size = 8740
+  }
+  clerks = {
+    culture = european
+    religion = secularism
+    size = 364
+  }
+  artisans = {
+    culture = european
+    religion =  protestant
+    size = 1363
+  }
+  artisans = {
+    culture = european
+    religion = secularism
+    size = 56
+  }
+  artisans = {
+    culture = indian
+    religion =  hindu
+    size = 6940
+  }
+  artisans = {
+    culture = indian
+    religion = secularism
+    size = 289
+  }
+  craftsmen = {
+    culture = indian
+    religion =  hindu
+    size = 16545
+  }
+  craftsmen = {
+    culture = indian
+    religion = secularism
+    size = 689
+  }
+  craftsmen = {
+    culture = shia_arab
+    religion =  shiite
+    size = 10081
+  }
+  farmers = {
+    culture = shia_arab
+    religion =  shiite
+    size = 42344
+  }
+  farmers = {
+    culture = bengali
+    religion =  sunni
+    size = 34950
+  }
+  farmers = {
+    culture = indian_muslim
+    religion =  sunni
+    size = 108345
+  }
+  farmers = {
+    culture = singalese
+    religion =  buddhist
+    size = 6710
+  }
+  farmers = {
+    culture = singalese
+    religion = secularism
+    size = 279
+  }
+  farmers = {
+    culture = filipino
+    religion =  catholic
+    size = 26841
+  }
+  farmers = {
+    culture = filipino
+    religion = secularism
+    size = 1118
+  }
 }

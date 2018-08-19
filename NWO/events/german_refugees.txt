@@ -9,7 +9,7 @@ country_event = {
     tag = ARG
     NOT = { year = 1990 }
     NOT = { social_reform_want = 0.5 }
-    
+
   }
   immediate = { set_global_flag = event_fired_8231000 }
 
@@ -17,16 +17,16 @@ country_event = {
 
   option = {
     name = EVT_8231000_A
-	SUN = { random_pop = { limit = { strata = rich culture = german } move_pop = 2348 } } # Buenos Aires
-	POL = { random_pop = { limit = { strata = rich culture = german } move_pop = 2348 } } # Buenos Aires
-	POL = { random_pop = { limit = { strata = rich culture = german } move_pop = 2351 } } # La Plata
-	add_country_modifier = { name = economic_boom duration = 365 }
-	ai_chance = { factor = 100 }
+    SUN = { random_pop = { limit = { strata = rich culture = german } move_pop = 2348 } } # Buenos Aires
+    POL = { random_pop = { limit = { strata = rich culture = german } move_pop = 2348 } } # Buenos Aires
+    POL = { random_pop = { limit = { strata = rich culture = german } move_pop = 2351 } } # La Plata
+    add_country_modifier = { name = economic_boom duration = 365 }
+    ai_chance = { factor = 100 }
   }
 
   option = {
     name = EVT_8231000_B
-	ai_chance = { factor = 0 }
+    ai_chance = { factor = 0 }
   }
 }
 country_event = {
@@ -40,7 +40,7 @@ country_event = {
     tag = SPA
     NOT = { year = 1990 }
     NOT = { social_reform_want = 0.5 }
-    
+
   }
 
   immediate = { set_global_flag = event_fired_8231001 }
@@ -50,10 +50,10 @@ country_event = {
 
   option = {
     name = EVT_8231001_A
-	badboy = 1 
-	POL = { random_pop = { limit = { strata = rich culture = german } move_pop = 487 } } # Madrid
-	add_country_modifier = { name = economic_boom duration = 365 }
-	country_event = { id = 8231010 days = 350 }
+    badboy = 1
+    POL = { random_pop = { limit = { strata = rich culture = german } move_pop = 487 } } # Madrid
+    add_country_modifier = { name = economic_boom duration = 365 }
+    country_event = { id = 8231010 days = 350 }
   }
 
   option = {
@@ -71,7 +71,7 @@ country_event = {
     tag = BRZ
     NOT = { year = 1990 }
     NOT = { social_reform_want = 0.5 }
-    
+
   }
 
   immediate = { set_global_flag = event_fired_8231004 }
@@ -80,11 +80,11 @@ country_event = {
 
   option = {
     name = EVT_8231004_A
-	badboy = 1 
-	POL = { random_pop = { limit = { strata = rich culture = german } move_pop = 2463 } } # Porto Alegre
-	POL = { random_pop = { limit = { strata = rich culture = german } move_pop = 2450 } } # Sao Paulo
-	POL = { random_pop = { limit = { strata = rich culture = german } move_pop = 2459 } } # Lajes
-	add_country_modifier = { name = economic_boom duration = 365 }
+    badboy = 1
+    POL = { random_pop = { limit = { strata = rich culture = german } move_pop = 2463 } } # Porto Alegre
+    POL = { random_pop = { limit = { strata = rich culture = german } move_pop = 2450 } } # Sao Paulo
+    POL = { random_pop = { limit = { strata = rich culture = german } move_pop = 2459 } } # Lajes
+    add_country_modifier = { name = economic_boom duration = 365 }
   }
 
   option = {
@@ -100,8 +100,8 @@ country_event = {
 
   option = {
     name = EVT_8231010_A
-	add_country_modifier = { name = german_scientists duration = 365 }
-	country_event = { id = 8231011 days = 750 }
+    add_country_modifier = { name = german_scientists duration = 365 }
+    country_event = { id = 8231011 days = 750 }
   }
 }
 country_event = {
@@ -113,16 +113,16 @@ country_event = {
   trigger = {
     OR = { tag = GER tag = DDR }
     NOT = { year = 1990 }
-	NOT = { has_country_flag = expulsion_of_germans }
-	OR = { CZH = { has_country_flag = expulsion_of_sudeten_germans } POL = { has_country_flag = expulsion_of_germans } }
+    NOT = { has_country_flag = expulsion_of_germans }
+    OR = { CZH = { has_country_flag = expulsion_of_sudeten_germans } POL = { has_country_flag = expulsion_of_germans } }
   }
 
   mean_time_to_happen = { months = 12 }
 
   option = {
     name = EVT_8231005_A
-	set_country_flag = expulsion_of_germans
-	add_country_modifier = { name = german_scientists duration = 365 }
+    set_country_flag = expulsion_of_germans
+    add_country_modifier = { name = german_scientists duration = 365 }
   }
 }
 country_event = {
@@ -134,7 +134,7 @@ country_event = {
 
   option = {
     name = EVT_8231011_A
-	add_country_modifier = { name = german_scientists duration = 365 }
+    add_country_modifier = { name = german_scientists duration = 365 }
   }
 }
 country_event = {
@@ -154,7 +154,7 @@ country_event = {
 
   option = {
     name = EVT_8231012_A
-money = -500 
+    money = -500
   }
 }
 country_event = {
@@ -174,7 +174,7 @@ country_event = {
 
   option = {
     name = EVT_8231013_A
-	add_country_modifier = { name = german_scientists duration = 365 }
+    add_country_modifier = { name = german_scientists duration = 365 }
   }
 }
 country_event = {
@@ -194,7 +194,7 @@ country_event = {
 
   option = {
     name = EVT_8231014_A
-	add_country_modifier = { name = german_scientists duration = 365 }
+    add_country_modifier = { name = german_scientists duration = 365 }
   }
 }
 country_event = {
@@ -214,7 +214,7 @@ country_event = {
 
   option = {
     name = EVT_8231015_A
-	add_country_modifier = { name = german_scientists duration = 365 }
+    add_country_modifier = { name = german_scientists duration = 365 }
   }
 }
 country_event = {
@@ -234,7 +234,7 @@ country_event = {
 
   option = {
     name = EVT_8231016_A
-	add_country_modifier = { name = german_scientists duration = 365 }
+    add_country_modifier = { name = german_scientists duration = 365 }
   }
 }
 country_event = {
@@ -254,7 +254,7 @@ country_event = {
 
   option = {
     name = EVT_8231020_A
-	add_country_modifier = { name = german_scientists duration = 365 }
+    add_country_modifier = { name = german_scientists duration = 365 }
   }
 }
 country_event = {
@@ -274,7 +274,7 @@ country_event = {
 
   option = {
     name = EVT_8231021_A
-	add_country_modifier = { name = german_scientists duration = 365 }
+    add_country_modifier = { name = german_scientists duration = 365 }
   }
 }
 country_event = {
@@ -293,7 +293,7 @@ country_event = {
 
   option = {
     name = EVT_8231040_A
-	add_country_modifier = { name = german_scientists duration = 365 }
+    add_country_modifier = { name = german_scientists duration = 365 }
   }
 }
 country_event = {
@@ -312,7 +312,7 @@ country_event = {
 
   option = {
     name = EVT_8231041_A
-	years_of_research = 0.1	
+    years_of_research = 0.1
   }
 }
 country_event = {
@@ -331,7 +331,7 @@ country_event = {
 
   option = {
     name = EVT_8231042_A
-	add_country_modifier = { name = german_scientists duration = 365 }
+    add_country_modifier = { name = german_scientists duration = 365 }
   }
 }
 country_event = {
@@ -350,7 +350,7 @@ country_event = {
 
   option = {
     name = EVT_8231043_A
-	add_country_modifier = { name = german_scientists duration = 365 }
+    add_country_modifier = { name = german_scientists duration = 365 }
   }
 }
 country_event = {
@@ -362,7 +362,7 @@ country_event = {
 
   trigger = {
     tag = BRZ
-	NOT = { year = 1990 }
+    NOT = { year = 1990 }
     has_global_flag = event_fired_8231004
   }
 
@@ -370,7 +370,7 @@ country_event = {
 
   option = {
     name = EVT_8231050_A
-	add_country_modifier = { name = german_scientists duration = 365 }
+    add_country_modifier = { name = german_scientists duration = 365 }
   }
 }
 country_event = {
@@ -382,15 +382,15 @@ country_event = {
 
   trigger = {
     tag = USA
-	year = 1945 NOT = { year = 1990 }
-    
+    year = 1945 NOT = { year = 1990 }
+
   }
 
   mean_time_to_happen = { months = 12 }
 
   option = {
     name = EVT_8231100_A
-	add_country_modifier = { name = german_scientists duration = 365 }
+    add_country_modifier = { name = german_scientists duration = 365 }
   }
 }
 country_event = {
@@ -402,15 +402,15 @@ country_event = {
 
   trigger = {
     tag = SUN
-	year = 1945 NOT = { year = 1990 }
-    
+    year = 1945 NOT = { year = 1990 }
+
   }
 
   mean_time_to_happen = { months = 12 }
 
   option = {
     name = EVT_8231101_A
-	add_country_modifier = { name = german_scientists duration = 365 }
+    add_country_modifier = { name = german_scientists duration = 365 }
   }
 }
 country_event = {
@@ -422,8 +422,8 @@ country_event = {
 
   trigger = {
     tag = GBR
-	year = 1945 NOT = { year = 1990 }
-    
+    year = 1945 NOT = { year = 1990 }
+
     GBR = { alliance_with = USA }
   }
 
@@ -431,6 +431,6 @@ country_event = {
 
   option = {
     name = EVT_8231102_A
-	add_country_modifier = { name = german_scientists duration = 365 }
+    add_country_modifier = { name = german_scientists duration = 365 }
   }
 }

@@ -6,8 +6,8 @@ life_rating = 38
 terrain = mountain_grassland
 colonial = 2
 1992.1.1 = {
-owner = PAK
-controller = PAK
-add_core = PAK
-colonial = 0
+  owner = PAK
+  controller = PAK
+  add_core = PAK
+  colonial = 0
 }

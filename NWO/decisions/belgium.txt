@@ -1,46 +1,46 @@
 political_decisions = {
 
-	partition_of_belgium = {
-		picture = "partition_of_belgium"
-		potential = {
-			tag = BEL
-			OR = { exists = WLL exists = FLA }
-			NOT = { AND = { exists = WLL exists = FLA } } # will not work if both exists
-		}
+  partition_of_belgium = {
+    picture = "partition_of_belgium"
+    potential = {
+      tag = BEL
+      OR = { exists = WLL exists = FLA }
+      NOT = { AND = { exists = WLL exists = FLA } } # will not work if both exists
+    }
 
-		ai_will_do = { factor = 1 }
-		
-		allow = { war = no }
+    ai_will_do = { factor = 1 }
 
-		effect = {
-			prestige = 10
-			all_core = { 
-				limit = { 
-					is_core = BEL
-				}
-				remove_core = BEL
-			}
-			any_owned = { 
-				limit = { 
-					is_core = FLA
-					NOT = { is_core = WLL }
-					NOT = { province_id = 387 }
-				}
-				owner = {
-					change_tag = FLA
-					capital = 390
-				}
-			}
-			any_owned = { 
-				limit = { 
-					is_core = WLL
-					NOT = { is_core = FLA }
-				}
-				owner = {
-					change_tag = WLL
-				}
-			}
-		}
-		
-	}
+    allow = { war = no }
+
+    effect = {
+      prestige = 10
+      all_core = {
+        limit = {
+          is_core = BEL
+        }
+        remove_core = BEL
+      }
+      any_owned = {
+        limit = {
+          is_core = FLA
+          NOT = { is_core = WLL }
+          NOT = { province_id = 387 }
+        }
+        owner = {
+          change_tag = FLA
+          capital = 390
+        }
+      }
+      any_owned = {
+        limit = {
+          is_core = WLL
+          NOT = { is_core = FLA }
+        }
+        owner = {
+          change_tag = WLL
+        }
+      }
+    }
+
+  }
 }

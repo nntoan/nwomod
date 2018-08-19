@@ -14,10 +14,10 @@ country_event = {
 
   option = {
     name = EVT_8023003_A
-	prestige = 10
+    prestige = 10
   }
 }
-country_event = { # Transfagaraan 
+country_event = { # Transfagaraan
   id = 8023004
   title = EVT_8023004_NAME
   desc = EVT_8023004_DESC
@@ -27,22 +27,22 @@ country_event = { # Transfagaraan
   trigger = {
     tag = ROM
     year = 1944 NOT = { year = 1990 }
-	has_global_flag = prague_spring
-	money = 2000
+    has_global_flag = prague_spring
+    money = 2000
   }
 
   mean_time_to_happen = { months = 12 }
 
   option = {
     name = EVT_8023004_A
-	treasury = -1000
-	prestige = 2
+    treasury = -1000
+    prestige = 2
   }
   option = {
     name = EVT_8023004_B
   }
 }
-country_event = { # Danube–Black_Sea_Canal
+country_event = { # Danubeï¿½Black_Sea_Canal
   id = 8023005
   title = EVT_8023005_NAME
   desc = EVT_8023005_DESC
@@ -52,15 +52,15 @@ country_event = { # Danube–Black_Sea_Canal
   trigger = {
     tag = ROM
     year = 1949 NOT = { year = 1990 }
-	money = 10000
+    money = 10000
   }
 
   mean_time_to_happen = { months = 12 }
 
   option = {
     name = EVT_8023005_A
-	treasury = -5000
-	674 = { add_province_modifier = { name = forced_labour duration = 1700 } }
+    treasury = -5000
+    674 = { add_province_modifier = { name = forced_labour duration = 1700 } }
   }
   option = {
     name = EVT_8023005_B
@@ -75,9 +75,9 @@ country_event = { # Palace_of_the_Parliament
 
   trigger = {
     tag = ROM
-	money = 20000
-	government = proletarian_dictatorship
-	has_country_flag = vrancea_earthquake
+    money = 20000
+    government = proletarian_dictatorship
+    has_country_flag = vrancea_earthquake
     year = 1944 NOT = { year = 1990 }
   }
 
@@ -85,16 +85,16 @@ country_event = { # Palace_of_the_Parliament
 
   option = {
     name = EVT_8023006_A
-	prestige = 5
-	treasury = -10000
+    prestige = 5
+    treasury = -10000
   }
-  
+
   option = {
     name = EVT_8023006_B
   }
 
 }
-country_event = { # 1977_Vrancea_earthquake 
+country_event = { # 1977_Vrancea_earthquake
   id = 8023007
   title = EVT_8023007_NAME
   desc = EVT_8023007_DESC
@@ -110,8 +110,8 @@ country_event = { # 1977_Vrancea_earthquake
 
   option = {
     name = EVT_8023007_A
-	668 = { add_province_modifier = { name = natural_disaster duration = 1700 } }
-	set_country_flag = vrancea_earthquake
+    668 = { add_province_modifier = { name = natural_disaster duration = 1700 } }
+    set_country_flag = vrancea_earthquake
   }
 }
 country_event = {
@@ -124,18 +124,18 @@ country_event = {
   trigger = {
     tag = ROM
     year = 1968 NOT = { year = 1990 }
-    
+
   }
 
   mean_time_to_happen = { months = 12 }
 
   option = {
     name = EVT_8023013_A
-	any_pop = { militancy = -1.0  consciousness = 1 }
-	relation = { who = USA value = 50 } 
-	relation = { who = GBR value = 50 } 
-	relation = { who = FRA value = 50 } 
-	relation = { who = SUN value = -50 } 
+    any_pop = { militancy = -1.0  consciousness = 1 }
+    relation = { who = USA value = 50 }
+    relation = { who = GBR value = 50 }
+    relation = { who = FRA value = 50 }
+    relation = { who = SUN value = -50 }
   }
 }
 country_event = {
@@ -155,8 +155,8 @@ country_event = {
 
   option = {
     name = EVT_8023014_A
-	any_pop = { militancy = 2.0  consciousness = 2 }
-	random_state = { any_pop = { dominant_issue = { value = full_citizenship factor = 0.6 } } }
+    any_pop = { militancy = 2.0  consciousness = 2 }
+    random_state = { any_pop = { dominant_issue = { value = full_citizenship factor = 0.6 } } }
   }
 }
 country_event = {
@@ -169,29 +169,29 @@ country_event = {
   trigger = {
     tag = ROM
     has_global_flag = autumn_of_nations
-	OR = { vassal_of = SUN is_vassal = no }
-	government = proletarian_dictatorship
-	war = no
+    OR = { vassal_of = SUN is_vassal = no }
+    government = proletarian_dictatorship
+    war = no
   }
 
   mean_time_to_happen = { months = 8 }
 
   option = {
     name = EVT_8023016_A
-	any_pop = { militancy = -3.0  consciousness = 2 }
-	government = democracy country_event = 800054
-	overlord = { country_event = 8014250 } 
-	country_event = { id = 8023017 days = 30 }
-	ai_chance = { factor = 100 }
+    any_pop = { militancy = -3.0  consciousness = 2 }
+    government = democracy country_event = 800054
+    overlord = { country_event = 8014250 }
+    country_event = { id = 8023017 days = 30 }
+    ai_chance = { factor = 100 }
   }
 
   option = {
     name = EVT_8023016_B
-	any_pop = { militancy = 5.0  consciousness = 4 }
-	ai_chance = { factor = 0 }
+    any_pop = { militancy = 5.0  consciousness = 4 }
+    ai_chance = { factor = 0 }
   }
 }
-country_event = { # Nicolae Ceausescu Death 
+country_event = { # Nicolae Ceausescu Death
   id = 8023017
   title = EVT_8023017_NAME
   desc = EVT_8023017_DESC
@@ -207,80 +207,80 @@ country_event = { # Nicolae Ceausescu Death
 
   option = {
     name = EVT_8023017_A
-	prestige = -5
-	any_pop = { militancy = -1.0  consciousness = 1 }
+    prestige = -5
+    any_pop = { militancy = -1.0  consciousness = 1 }
   }
   option = {
     name = EVT_8023017_B
-	prestige = 5
-	any_pop = { militancy = 0.5  consciousness = -0.5 }
+    prestige = 5
+    any_pop = { militancy = 0.5  consciousness = -0.5 }
   }
 }
 country_event = { # Transnistria War
   id = 8023020
   title = EVT_8023020_NAME
   # EVT_8023020_NAME;Transnistria War
-  desc = EVT_8023020_DESC 
-  # EVT_8023020_DESC;The Transnistria War was a limited conflict that broke out in November 1990 at Dubari between pro-Transnistria forces, including the Transnistrian Republican Guard, militia and Cossack units, and supported by elements of the Russian 14th Army, and pro-Moldovan forces, including Moldovan troops and no_minimum_wage. Fighting intensified on 1 March 1992 and, alternating with ad hoc ceasefires, lasted throughout the spring and early summer of 1992 until a ceasefire was declared on 21 July 1992, which has held. 
+  desc = EVT_8023020_DESC
+  # EVT_8023020_DESC;The Transnistria War was a limited conflict that broke out in November 1990 at Dubari between pro-Transnistria forces, including the Transnistrian Republican Guard, militia and Cossack units, and supported by elements of the Russian 14th Army, and pro-Moldovan forces, including Moldovan troops and no_minimum_wage. Fighting intensified on 1 March 1992 and, alternating with ad hoc ceasefires, lasted throughout the spring and early summer of 1992 until a ceasefire was declared on 21 July 1992, which has held.
   picture = "transnistria_war"
   fire_only_once = yes
 
   trigger = {
     tag = MDA
-	year = 1992 
+    year = 1992
   }
 
   mean_time_to_happen = { months = 3 }
 
   option = {
     name = EVT_8023020_A
-	# EVT_8023020_A;Retake control over our country
-	any_pop = { militancy = -3.0  consciousness = -1 }
-	# unclear international situation after fall of SOviet - infamy
-	war = { target = TRD attacker_goal = { casus_belli = annex_core_country } defender_goal = { casus_belli = status_quo } }
-	ai_chance = { factor = 100 }
+    # EVT_8023020_A;Retake control over our country
+    any_pop = { militancy = -3.0  consciousness = -1 }
+    # unclear international situation after fall of SOviet - infamy
+    war = { target = TRD attacker_goal = { casus_belli = annex_core_country } defender_goal = { casus_belli = status_quo } }
+    ai_chance = { factor = 100 }
   }
 
   option = {
     name = EVT_8023020_B
-	# EVT_8023020_B No,this is to dangerous
-	any_pop = { militancy = 5.0  consciousness = 4 }
-	ai_chance = { factor = 0 }
+    # EVT_8023020_B No,this is to dangerous
+    any_pop = { militancy = 5.0  consciousness = 4 }
+    ai_chance = { factor = 0 }
   }
 }
 
-country_event = { 
+country_event = {
   id = 8023021
   title = EVT_8023021_NAME
-  desc = EVT_8023021_DESC 
+  desc = EVT_8023021_DESC
   picture = "romania_1946_elections"
   fire_only_once = yes
 
   trigger = {
     tag = ROM
-	government = hms_government
-	NOT = { year = 1990 } 
+    government = hms_government
+    NOT = { year = 1990 }
   }
 
   mean_time_to_happen = { months = 9 }
-  
-  immediate = { 
-	election = yes
-	random_country = { limit = { tag = SUN government = proletarian_dictatorship ai = yes } ROM = { relation = { who = SUN value = 100 } } }
+
+  immediate = {
+    election = yes
+    random_country = { limit = { tag = SUN government = proletarian_dictatorship ai = yes } ROM = { relation = { who = SUN value = 100 } } }
   }
 
   option = {
     name = EVT_8023021_A
-	any_pop = { ideology = { value = communist factor = 0.5 } }
-	relation = { who = SUN value = 50 }
-	ai_chance = { factor = 100 }
+    any_pop = { ideology = { value = communist factor = 0.5 } }
+    relation = { who = SUN value = 50 }
+    ai_chance = { factor = 100 }
   }
 
   option = {
     name = EVT_8023021_B
-	any_pop = { ideology = { value = communist factor = 0.35 } militancy = 2 } 
-	relation = { who = SUN value = -10 }
-	ai_chance = { factor = 0 }
+    any_pop = { ideology = { value = communist factor = 0.35 } militancy = 2 }
+    relation = { who = SUN value = -10 }
+    ai_chance = { factor = 0 }
   }
 }
 

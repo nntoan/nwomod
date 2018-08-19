@@ -1,63 +1,63 @@
 #Mbabane - Mbabane (882000/220500 POPS)
 2114 = {
-	clergymen = {
-		culture = swazi
-		religion =  protestant 
-		size = 4013
-	 } 
-	clergymen = {
-		culture = swazi
-		religion = secularism
-		size = 396
-	 } 
-	farmers = {
-		culture = swazi
-		religion =  protestant 
-		size = 180589
-	 } 
-	farmers = {
-		culture = swazi
-		religion = secularism
-		size = 17860
-	 } 
-	farmers = {
-		culture = british
-		religion =  protestant 
-		size = 1404
-	 } 
-	farmers = {
-		culture = british
-		religion = secularism
-		size = 138
-	 } 
-	farmers = {
-		culture = afrikaaner
-		religion =  protestant 
-		size = 601
-	 } 
-	farmers = {
-		culture = afrikaaner
-		religion = secularism
-		size = 59
-	 } 
-	farmers = {
-		culture = zulu
-		religion =  protestant 
-		size = 10032
-	 } 
-	farmers = {
-		culture = zulu
-		religion = secularism
-		size = 992
-	 } 
-	farmers = {
-		culture = tsonga
-		religion =  protestant 
-		size = 4013
-	 } 
-	farmers = {
-		culture = tsonga
-		religion = secularism
-		size = 396
-	 } 
+  clergymen = {
+    culture = swazi
+    religion =  protestant
+    size = 4013
+  }
+  clergymen = {
+    culture = swazi
+    religion = secularism
+    size = 396
+  }
+  farmers = {
+    culture = swazi
+    religion =  protestant
+    size = 180589
+  }
+  farmers = {
+    culture = swazi
+    religion = secularism
+    size = 17860
+  }
+  farmers = {
+    culture = british
+    religion =  protestant
+    size = 1404
+  }
+  farmers = {
+    culture = british
+    religion = secularism
+    size = 138
+  }
+  farmers = {
+    culture = afrikaaner
+    religion =  protestant
+    size = 601
+  }
+  farmers = {
+    culture = afrikaaner
+    religion = secularism
+    size = 59
+  }
+  farmers = {
+    culture = zulu
+    religion =  protestant
+    size = 10032
+  }
+  farmers = {
+    culture = zulu
+    religion = secularism
+    size = 992
+  }
+  farmers = {
+    culture = tsonga
+    religion =  protestant
+    size = 4013
+  }
+  farmers = {
+    culture = tsonga
+    religion = secularism
+    size = 396
+  }
 }

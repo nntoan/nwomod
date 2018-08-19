@@ -6,8 +6,8 @@ life_rating = 45
 terrain = urban_doha
 colonial = 0
 1992.1.1 = {
-owner = QAT
-controller = QAT
-add_core = QAT
-colonial = 0
+  owner = QAT
+  controller = QAT
+  add_core = QAT
+  colonial = 0
 }

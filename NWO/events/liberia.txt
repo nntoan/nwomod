@@ -15,7 +15,7 @@ country_event = {
 
   option = {
     name = EVT_8008805_A
-	any_pop = { militancy = 6.0  consciousness = 5 }
+    any_pop = { militancy = 6.0  consciousness = 5 }
     government = presidential_dictatorship country_event = 800050
   }
 }
@@ -35,9 +35,9 @@ country_event = {
 
   option = {
     name = EVT_8008807_A
-	1888 = { change_controller = REB }
-	1889 = { change_controller = REB }
-	1891 = { change_controller = REB }
+    1888 = { change_controller = REB }
+    1889 = { change_controller = REB }
+    1891 = { change_controller = REB }
   }
 }
 country_event = {
@@ -50,14 +50,14 @@ country_event = {
   trigger = {
     tag = LIB
     year = 1989 NOT = { year = 1999 }
-	controls = 1890
+    controls = 1890
   }
 
   mean_time_to_happen = { months = 2 }
 
   option = {
     name = EVT_8008808_A
-	government = populist_dictatorship country_event = 800050
-	1890 = { change_controller  = REB } 
+    government = populist_dictatorship country_event = 800050
+    1890 = { change_controller  = REB }
   }
 }

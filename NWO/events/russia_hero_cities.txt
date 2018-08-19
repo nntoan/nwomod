@@ -7,16 +7,16 @@ country_event = {
 
   trigger = {
     tag = SUN
-	year = 1946 NOT = { year = 1963 }
-    
+    year = 1946 NOT = { year = 1963 }
+
   }
 
   mean_time_to_happen = { months = 3  }
 
   option = {
     name = EVT_8226020_A
-	money = -100 
-	any_pop = { militancy = -0.5  consciousness = -0.2 }
+    money = -100
+    any_pop = { militancy = -0.5  consciousness = -0.2 }
   }
 }
 country_event = {
@@ -28,16 +28,16 @@ country_event = {
 
   trigger = {
     tag = SUN
-	year = 1948 NOT = { year = 1963 }
-	owns = 973
+    year = 1948 NOT = { year = 1963 }
+    owns = 973
   }
 
   mean_time_to_happen = { months = 3  }
 
   option = {
     name = EVT_8226030_A
-	973 = {add_province_modifier = { name = hero_city duration = 3500 } }
-	any_pop = { militancy = -0.5  consciousness = -0.2 }
+    973 = {add_province_modifier = { name = hero_city duration = 3500 } }
+    any_pop = { militancy = -0.5  consciousness = -0.2 }
   }
 }
 country_event = {
@@ -49,19 +49,19 @@ country_event = {
 
   trigger = {
     tag = SUN
-	year = 1946 NOT = { year = 1963 }
-	owns = 994
+    year = 1946 NOT = { year = 1963 }
+    owns = 994
   }
 
   mean_time_to_happen = { months = 1  }
 
   option = {
     name = EVT_8226031_A
-	994 = {
-		add_province_modifier = { name = hero_city duration = 3500 } 	
-		change_province_name = "Leningrad" 
-		any_pop = { militancy = -0.5  consciousness = -0.2 }
-	}
+    994 = {
+      add_province_modifier = { name = hero_city duration = 3500 }
+      change_province_name = "Leningrad"
+      any_pop = { militancy = -0.5  consciousness = -0.2 }
+    }
   }
 }
 country_event = {
@@ -73,19 +73,19 @@ country_event = {
 
   trigger = {
     tag = SUN
-	year = 1947 NOT = { year = 1963 }
-	owns = 1039
+    year = 1947 NOT = { year = 1963 }
+    owns = 1039
   }
 
   mean_time_to_happen = { months = 3  }
 
   option = {
     name = EVT_8226032_A
-	1039 = {
-		add_province_modifier = { name = hero_city duration = 3500 } 	
-		change_province_name = "Stalingrad" 
-		any_pop = { militancy = -0.5  consciousness = -0.2 }
-	}
+    1039 = {
+      add_province_modifier = { name = hero_city duration = 3500 }
+      change_province_name = "Stalingrad"
+      any_pop = { militancy = -0.5  consciousness = -0.2 }
+    }
   }
 }
 country_event = {
@@ -97,16 +97,16 @@ country_event = {
 
   trigger = {
     tag = SUN
-	year = 1950 NOT = { year = 1963 }
-	owns = 968
+    year = 1950 NOT = { year = 1963 }
+    owns = 968
   }
 
   mean_time_to_happen = { months = 3  }
 
   option = {
     name = EVT_8226033_A
-	968 = {add_province_modifier = { name = hero_city duration = 3500 } }
-	any_pop = { militancy = -0.5  consciousness = -0.2 }
+    968 = {add_province_modifier = { name = hero_city duration = 3500 } }
+    any_pop = { militancy = -0.5  consciousness = -0.2 }
   }
 }
 country_event = {
@@ -118,16 +118,16 @@ country_event = {
 
   trigger = {
     tag = SUN
-	year = 1951 NOT = { year = 1963 }
-	owns = 967
+    year = 1951 NOT = { year = 1963 }
+    owns = 967
   }
 
   mean_time_to_happen = { months = 3  }
 
   option = {
     name = EVT_8226034_A
-	967 = {add_province_modifier = { name = hero_city duration = 3500 } }
-	any_pop = { militancy = -0.5  consciousness = -0.2 }
+    967 = {add_province_modifier = { name = hero_city duration = 3500 } }
+    any_pop = { militancy = -0.5  consciousness = -0.2 }
   }
 }
 country_event = {
@@ -139,16 +139,16 @@ country_event = {
 
   trigger = {
     tag = SUN
-	year = 1952 NOT = { year = 1963 }
-	owns = 1008
+    year = 1952 NOT = { year = 1963 }
+    owns = 1008
   }
 
   mean_time_to_happen = { months = 3  }
 
   option = {
     name = EVT_8226035_A
-	1008 = {add_province_modifier = { name = hero_city duration = 3500 } }
-	any_pop = { militancy = -0.5  consciousness = -0.2 }
+    1008 = {add_province_modifier = { name = hero_city duration = 3500 } }
+    any_pop = { militancy = -0.5  consciousness = -0.2 }
   }
 }
 country_event = {
@@ -160,16 +160,16 @@ country_event = {
 
   trigger = {
     tag = SUN
-	year = 1953 NOT = { year = 1963 }
-	owns = 958
+    year = 1953 NOT = { year = 1963 }
+    owns = 958
   }
 
   mean_time_to_happen = { months = 3  }
 
   option = {
     name = EVT_8226036_A
-	958 = {add_province_modifier = { name = hero_city duration = 3500 } }
-	any_pop = { militancy = -0.5  consciousness = -0.2 }
+    958 = {add_province_modifier = { name = hero_city duration = 3500 } }
+    any_pop = { militancy = -0.5  consciousness = -0.2 }
   }
 }
 country_event = {
@@ -181,16 +181,16 @@ country_event = {
 
   trigger = {
     tag = SUN
-	year = 1954 NOT = { year = 1963 }
-	owns = 1049
+    year = 1954 NOT = { year = 1963 }
+    owns = 1049
   }
 
   mean_time_to_happen = { months = 3  }
 
   option = {
     name = EVT_8226037_A
-	1049 = {add_province_modifier = { name = hero_city duration = 3500 } }
-	any_pop = { militancy = -0.5  consciousness = -0.2 }
+    1049 = {add_province_modifier = { name = hero_city duration = 3500 } }
+    any_pop = { militancy = -0.5  consciousness = -0.2 }
   }
 }
 country_event = {
@@ -202,15 +202,15 @@ country_event = {
 
   trigger = {
     tag = SUN
-	year = 1955 NOT = { year = 1963 }
-	owns = 966
+    year = 1955 NOT = { year = 1963 }
+    owns = 966
   }
 
   mean_time_to_happen = { months = 3  }
 
   option = {
     name = EVT_8226038_A
-	966 = {add_province_modifier = { name = hero_city duration = 3500 } }
+    966 = {add_province_modifier = { name = hero_city duration = 3500 } }
   }
 }
 country_event = {
@@ -222,16 +222,16 @@ country_event = {
 
   trigger = {
     tag = SUN
-	year = 1956 NOT = { year = 1963 }
-	owns = 718
+    year = 1956 NOT = { year = 1963 }
+    owns = 718
   }
 
   mean_time_to_happen = { months = 3  }
 
   option = {
     name = EVT_8226039_A
-	718 = {add_province_modifier = { name = hero_city duration = 3500 } }
-	any_pop = { militancy = -0.5  consciousness = -0.2 }
+    718 = {add_province_modifier = { name = hero_city duration = 3500 } }
+    any_pop = { militancy = -0.5  consciousness = -0.2 }
   }
 }
 country_event = {
@@ -243,16 +243,16 @@ country_event = {
 
   trigger = {
     tag = SUN
-	year = 1957 NOT = { year = 1963 }
-	owns = 1011
+    year = 1957 NOT = { year = 1963 }
+    owns = 1011
   }
 
   mean_time_to_happen = { months = 3  }
 
   option = {
     name = EVT_8226040_A
-	1011 = {add_province_modifier = { name = hero_city duration = 3500 } }
-	any_pop = { militancy = -0.5  consciousness = -0.2 }
+    1011 = {add_province_modifier = { name = hero_city duration = 3500 } }
+    any_pop = { militancy = -0.5  consciousness = -0.2 }
   }
 }
 country_event = {
@@ -264,16 +264,16 @@ country_event = {
 
   trigger = {
     tag = SUN
-	year = 1958 NOT = { year = 1963 }
-	owns = 2587
+    year = 1958 NOT = { year = 1963 }
+    owns = 2587
   }
 
   mean_time_to_happen = { months = 3  }
 
   option = {
     name = EVT_8226041_A
-	2587 = {add_province_modifier = { name = hero_city duration = 3500 } }
-	any_pop = { militancy = -0.5  consciousness = -0.2 }
+    2587 = {add_province_modifier = { name = hero_city duration = 3500 } }
+    any_pop = { militancy = -0.5  consciousness = -0.2 }
   }
 }
 country_event = {
@@ -285,16 +285,16 @@ country_event = {
 
   trigger = {
     tag = SUN
-	year = 1959 NOT = { year = 1963 }
-	owns = 943
+    year = 1959 NOT = { year = 1963 }
+    owns = 943
   }
 
   mean_time_to_happen = { months = 3  }
 
   option = {
     name = EVT_8226042_A
-	943 = {add_province_modifier = { name = hero_city duration = 3500 } }
-	any_pop = { militancy = -0.5  consciousness = -0.2 }
+    943 = {add_province_modifier = { name = hero_city duration = 3500 } }
+    any_pop = { militancy = -0.5  consciousness = -0.2 }
   }
 }
 country_event = {
@@ -306,16 +306,16 @@ country_event = {
 
   trigger = {
     tag = SUN
-	year = 1960 NOT = { year = 1963 }
-	owns = 1064
+    year = 1960 NOT = { year = 1963 }
+    owns = 1064
   }
 
   mean_time_to_happen = { months = 3  }
 
   option = {
     name = EVT_8226043_A
-	1064 = {add_province_modifier = { name = hero_city duration = 3500 } change_province_name = "Novosibirsk"  }
-	any_pop = { militancy = -0.5  consciousness = -0.2 }
+    1064 = {add_province_modifier = { name = hero_city duration = 3500 } change_province_name = "Novosibirsk"  }
+    any_pop = { militancy = -0.5  consciousness = -0.2 }
   }
 }
 country_event = {
@@ -327,16 +327,16 @@ country_event = {
 
   trigger = {
     tag = SUN
-	year = 1961 NOT = { year = 1963 }
-	owns = 1082
+    year = 1961 NOT = { year = 1963 }
+    owns = 1082
   }
 
   mean_time_to_happen = { months = 3  }
 
   option = {
     name = EVT_8226044_A
-	1082 = {add_province_modifier = { name = hero_city duration = 3500 } }
-	any_pop = { militancy = -0.5  consciousness = -0.2 }
+    1082 = {add_province_modifier = { name = hero_city duration = 3500 } }
+    any_pop = { militancy = -0.5  consciousness = -0.2 }
   }
 }
 country_event = {
@@ -348,15 +348,15 @@ country_event = {
 
   trigger = {
     tag = SUN
-	year = 1946 NOT = { year = 1963 }
-    
+    year = 1946 NOT = { year = 1963 }
+
   }
 
   mean_time_to_happen = { months = 3  }
 
   option = {
     name = EVT_8226050_A
-	prestige = 100
-	any_pop = { militancy = -0.1 consciousness = -0.1 }
+    prestige = 100
+    any_pop = { militancy = -0.1 consciousness = -0.1 }
   }
 }

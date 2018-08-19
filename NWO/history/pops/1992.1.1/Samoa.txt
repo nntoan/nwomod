@@ -1,93 +1,93 @@
 #Apia - Apia (163000/40750 POPS)
 2543 = {
-	capitalists = {
-		culture = british
-		religion =  protestant 
-		size = 186
-	 } 
-	capitalists = {
-		culture = british
-		religion = secularism
-		size = 16
-	 } 
-	aristocrats = {
-		culture = polynesian
-		religion =  catholic 
-		size = 1499
-	 } 
-	aristocrats = {
-		culture = polynesian
-		religion = secularism
-		size = 130
-	 } 
-	bureaucrats = {
-		culture = polynesian
-		religion =  catholic 
-		size = 74
-	 } 
-	bureaucrats = {
-		culture = polynesian
-		religion = secularism
-		size = 6
-	 } 
-	clergymen = {
-		culture = polynesian
-		religion =  catholic 
-		size = 749
-	 } 
-	clergymen = {
-		culture = polynesian
-		religion = secularism
-		size = 65
-	 } 
-	clerks = {
-		culture = polynesian
-		religion =  catholic 
-		size = 277
-	 } 
-	clerks = {
-		culture = polynesian
-		religion = secularism
-		size = 24
-	 } 
-	artisans = {
-		culture = polynesian
-		religion =  catholic 
-		size = 264
-	 } 
-	artisans = {
-		culture = polynesian
-		religion = secularism
-		size = 22
-	 } 
-	craftsmen = {
-		culture = polynesian
-		religion =  catholic 
-		size = 834
-	 } 
-	craftsmen = {
-		culture = polynesian
-		religion = secularism
-		size = 72
-	 } 
-	farmers = {
-		culture = polynesian
-		religion =  catholic 
-		size = 31015
-	 } 
-	farmers = {
-		culture = polynesian
-		religion = secularism
-		size = 2696
-	 } 
-	farmers = {
-		culture = british
-		religion =  protestant 
-		size = 2587
-	 } 
-	farmers = {
-		culture = british
-		religion = secularism
-		size = 224
-	 } 
+  capitalists = {
+    culture = british
+    religion =  protestant
+    size = 186
+  }
+  capitalists = {
+    culture = british
+    religion = secularism
+    size = 16
+  }
+  aristocrats = {
+    culture = polynesian
+    religion =  catholic
+    size = 1499
+  }
+  aristocrats = {
+    culture = polynesian
+    religion = secularism
+    size = 130
+  }
+  bureaucrats = {
+    culture = polynesian
+    religion =  catholic
+    size = 74
+  }
+  bureaucrats = {
+    culture = polynesian
+    religion = secularism
+    size = 6
+  }
+  clergymen = {
+    culture = polynesian
+    religion =  catholic
+    size = 749
+  }
+  clergymen = {
+    culture = polynesian
+    religion = secularism
+    size = 65
+  }
+  clerks = {
+    culture = polynesian
+    religion =  catholic
+    size = 277
+  }
+  clerks = {
+    culture = polynesian
+    religion = secularism
+    size = 24
+  }
+  artisans = {
+    culture = polynesian
+    religion =  catholic
+    size = 264
+  }
+  artisans = {
+    culture = polynesian
+    religion = secularism
+    size = 22
+  }
+  craftsmen = {
+    culture = polynesian
+    religion =  catholic
+    size = 834
+  }
+  craftsmen = {
+    culture = polynesian
+    religion = secularism
+    size = 72
+  }
+  farmers = {
+    culture = polynesian
+    religion =  catholic
+    size = 31015
+  }
+  farmers = {
+    culture = polynesian
+    religion = secularism
+    size = 2696
+  }
+  farmers = {
+    culture = british
+    religion =  protestant
+    size = 2587
+  }
+  farmers = {
+    culture = british
+    religion = secularism
+    size = 224
+  }
 }

@@ -1,661 +1,661 @@
 #Johor Bahru - Johor Bahru (2110000/527500 POPS)
 1385 = {
-	clergymen = {
-		culture = malay
-		religion =  sunni 
-		size = 10550
-	 } 
-	farmers = {
-		culture = malay
-		religion =  sunni 
-		size = 300675
-	 } 
-	farmers = {
-		culture = chinese
-		religion =  taoism 
-		size = 161415
-	 } 
-	farmers = {
-		culture = chinese
-		religion = secularism
-		size = 17935
-	 } 
-	farmers = {
-		culture = indian
-		religion =  hindu 
-		size = 33232
-	 } 
-	farmers = {
-		culture = indian
-		religion = secularism
-		size = 3692
-	 } 
+  clergymen = {
+    culture = malay
+    religion =  sunni
+    size = 10550
+  }
+  farmers = {
+    culture = malay
+    religion =  sunni
+    size = 300675
+  }
+  farmers = {
+    culture = chinese
+    religion =  taoism
+    size = 161415
+  }
+  farmers = {
+    culture = chinese
+    religion = secularism
+    size = 17935
+  }
+  farmers = {
+    culture = indian
+    religion =  hindu
+    size = 33232
+  }
+  farmers = {
+    culture = indian
+    religion = secularism
+    size = 3692
+  }
 }
 #Malacca - Malacca (514000/128500 POPS)
 1386 = {
-	officers = {
-		culture = malay
-		religion =  sunni 
-		size = 2689
-	 } 
-	soldiers = {
-		culture = malay
-		religion =  sunni 
-		size = 51103
-	 } 
-	aristocrats = {
-		culture = malay
-		religion =  sunni 
-		size = 3212
-	 } 
-	clergymen = {
-		culture = malay
-		religion =  sunni 
-		size = 2570
-	 } 
-	clerks = {
-		culture = malay
-		religion =  sunni 
-		size = 2053
-	 } 
-	artisans = {
-		culture = malay
-		religion =  sunni 
-		size = 1950
-	 } 
-	craftsmen = {
-		culture = malay
-		religion =  sunni 
-		size = 6160
-	 } 
-	farmers = {
-		culture = malay
-		religion =  sunni 
-		size = 17515
-	 } 
-	farmers = {
-		culture = chinese
-		religion =  taoism 
-		size = 28912
-	 } 
-	farmers = {
-		culture = chinese
-		religion = secularism
-		size = 3212
-	 } 
-	farmers = {
-		culture = indian
-		religion =  hindu 
-		size = 6939
-	 } 
-	farmers = {
-		culture = indian
-		religion = secularism
-		size = 771
-	 } 
+  officers = {
+    culture = malay
+    religion =  sunni
+    size = 2689
+  }
+  soldiers = {
+    culture = malay
+    religion =  sunni
+    size = 51103
+  }
+  aristocrats = {
+    culture = malay
+    religion =  sunni
+    size = 3212
+  }
+  clergymen = {
+    culture = malay
+    religion =  sunni
+    size = 2570
+  }
+  clerks = {
+    culture = malay
+    religion =  sunni
+    size = 2053
+  }
+  artisans = {
+    culture = malay
+    religion =  sunni
+    size = 1950
+  }
+  craftsmen = {
+    culture = malay
+    religion =  sunni
+    size = 6160
+  }
+  farmers = {
+    culture = malay
+    religion =  sunni
+    size = 17515
+  }
+  farmers = {
+    culture = chinese
+    religion =  taoism
+    size = 28912
+  }
+  farmers = {
+    culture = chinese
+    religion = secularism
+    size = 3212
+  }
+  farmers = {
+    culture = indian
+    religion =  hindu
+    size = 6939
+  }
+  farmers = {
+    culture = indian
+    religion = secularism
+    size = 771
+  }
 }
 #Kuala Lumpur - Kuala Lumpur (5233000/1308250 POPS)
 1387 = {
-	officers = {
-		culture = malay
-		religion =  sunni 
-		size = 22707
-	 } 
-	soldiers = {
-		culture = malay
-		religion =  sunni 
-		size = 431451
-	 } 
-	aristocrats = {
-		culture = malay
-		religion =  sunni 
-		size = 32706
-	 } 
-	bureaucrats = {
-		culture = malay
-		religion =  sunni 
-		size = 6541
-	 } 
-	capitalists = {
-		culture = malay
-		religion =  sunni 
-		size = 7849
-	 } 
-	clergymen = {
-		culture = malay
-		religion =  sunni 
-		size = 26165
-	 } 
-	clerks = {
-		culture = malay
-		religion =  sunni 
-		size = 23478
-	 } 
-	artisans = {
-		culture = malay
-		religion =  sunni 
-		size = 22304
-	 } 
-	craftsmen = {
-		culture = malay
-		religion =  sunni 
-		size = 70435
-	 } 
-	farmers = {
-		culture = malay
-		religion =  sunni 
-		size = 62819
-	 } 
-	farmers = {
-		culture = chinese
-		religion =  taoism 
-		size = 376776
-	 } 
-	farmers = {
-		culture = chinese
-		religion = secularism
-		size = 41864
-	 } 
-	farmers = {
-		culture = indian
-		religion =  hindu 
-		size = 164839
-	 } 
-	farmers = {
-		culture = indian
-		religion = secularism
-		size = 18315
-	 } 
+  officers = {
+    culture = malay
+    religion =  sunni
+    size = 22707
+  }
+  soldiers = {
+    culture = malay
+    religion =  sunni
+    size = 431451
+  }
+  aristocrats = {
+    culture = malay
+    religion =  sunni
+    size = 32706
+  }
+  bureaucrats = {
+    culture = malay
+    religion =  sunni
+    size = 6541
+  }
+  capitalists = {
+    culture = malay
+    religion =  sunni
+    size = 7849
+  }
+  clergymen = {
+    culture = malay
+    religion =  sunni
+    size = 26165
+  }
+  clerks = {
+    culture = malay
+    religion =  sunni
+    size = 23478
+  }
+  artisans = {
+    culture = malay
+    religion =  sunni
+    size = 22304
+  }
+  craftsmen = {
+    culture = malay
+    religion =  sunni
+    size = 70435
+  }
+  farmers = {
+    culture = malay
+    religion =  sunni
+    size = 62819
+  }
+  farmers = {
+    culture = chinese
+    religion =  taoism
+    size = 376776
+  }
+  farmers = {
+    culture = chinese
+    religion = secularism
+    size = 41864
+  }
+  farmers = {
+    culture = indian
+    religion =  hindu
+    size = 164839
+  }
+  farmers = {
+    culture = indian
+    religion = secularism
+    size = 18315
+  }
 }
 #Penang - Penang (992000/248000 POPS)
 1388 = {
-	clergymen = {
-		culture = malay
-		religion =  sunni 
-		size = 4960
-	 } 
-	farmers = {
-		culture = malay
-		religion =  sunni 
-		size = 104160
-	 } 
-	farmers = {
-		culture = chinese
-		religion =  taoism 
-		size = 102672
-	 } 
-	farmers = {
-		culture = chinese
-		religion = secularism
-		size = 11408
-	 } 
-	farmers = {
-		culture = indian
-		religion =  hindu 
-		size = 22320
-	 } 
-	farmers = {
-		culture = indian
-		religion = secularism
-		size = 2480
-	 } 
+  clergymen = {
+    culture = malay
+    religion =  sunni
+    size = 4960
+  }
+  farmers = {
+    culture = malay
+    religion =  sunni
+    size = 104160
+  }
+  farmers = {
+    culture = chinese
+    religion =  taoism
+    size = 102672
+  }
+  farmers = {
+    culture = chinese
+    religion = secularism
+    size = 11408
+  }
+  farmers = {
+    culture = indian
+    religion =  hindu
+    size = 22320
+  }
+  farmers = {
+    culture = indian
+    religion = secularism
+    size = 2480
+  }
 }
 #Alor Setar - Alor Setar (1382000/345500 POPS)
 1389 = {
-	clergymen = {
-		culture = malay
-		religion =  sunni 
-		size = 6910
-	 } 
-	farmers = {
-		culture = malay
-		religion =  sunni 
-		size = 259125
-	 } 
-	farmers = {
-		culture = chinese
-		religion =  taoism 
-		size = 49752
-	 } 
-	farmers = {
-		culture = chinese
-		religion = secularism
-		size = 5528
-	 } 
-	farmers = {
-		culture = indian
-		religion =  hindu 
-		size = 21766
-	 } 
-	farmers = {
-		culture = indian
-		religion = secularism
-		size = 2418
-	 } 
+  clergymen = {
+    culture = malay
+    religion =  sunni
+    size = 6910
+  }
+  farmers = {
+    culture = malay
+    religion =  sunni
+    size = 259125
+  }
+  farmers = {
+    culture = chinese
+    religion =  taoism
+    size = 49752
+  }
+  farmers = {
+    culture = chinese
+    religion = secularism
+    size = 5528
+  }
+  farmers = {
+    culture = indian
+    religion =  hindu
+    size = 21766
+  }
+  farmers = {
+    culture = indian
+    religion = secularism
+    size = 2418
+  }
 }
 #Kuantan - Kuantan (942000/235500 POPS)
 1390 = {
-	clergymen = {
-		culture = malay
-		religion =  sunni 
-		size = 4710
-	 } 
-	farmers = {
-		culture = malay
-		religion =  sunni 
-		size = 181335
-	 } 
-	farmers = {
-		culture = chinese
-		religion =  taoism 
-		size = 36031
-	 } 
-	farmers = {
-		culture = chinese
-		religion = secularism
-		size = 4003
-	 } 
-	farmers = {
-		culture = indian
-		religion =  hindu 
-		size = 8478
-	 } 
-	farmers = {
-		culture = indian
-		religion = secularism
-		size = 942
-	 } 
+  clergymen = {
+    culture = malay
+    religion =  sunni
+    size = 4710
+  }
+  farmers = {
+    culture = malay
+    religion =  sunni
+    size = 181335
+  }
+  farmers = {
+    culture = chinese
+    religion =  taoism
+    size = 36031
+  }
+  farmers = {
+    culture = chinese
+    religion = secularism
+    size = 4003
+  }
+  farmers = {
+    culture = indian
+    religion =  hindu
+    size = 8478
+  }
+  farmers = {
+    culture = indian
+    religion = secularism
+    size = 942
+  }
 }
 #Kota Bahru - Kota Bahru (1615000/403750 POPS)
 1391 = {
-	clergymen = {
-		culture = malay
-		religion =  sunni 
-		size = 8075
-	 } 
-	farmers = {
-		culture = malay
-		religion =  sunni 
-		size = 375487
-	 } 
-	farmers = {
-		culture = chinese
-		religion =  taoism 
-		size = 18168
-	 } 
-	farmers = {
-		culture = chinese
-		religion = secularism
-		size = 2018
-	 } 
+  clergymen = {
+    culture = malay
+    religion =  sunni
+    size = 8075
+  }
+  farmers = {
+    culture = malay
+    religion =  sunni
+    size = 375487
+  }
+  farmers = {
+    culture = chinese
+    religion =  taoism
+    size = 18168
+  }
+  farmers = {
+    culture = chinese
+    religion = secularism
+    size = 2018
+  }
 }
 #Kuching - Kuching (1093000/273250 POPS)
 1394 = {
-	officers = {
-		culture = malay
-		religion =  sunni 
-		size = 2818
-	 } 
-	soldiers = {
-		culture = malay
-		religion =  sunni 
-		size = 53547
-	 } 
-	aristocrats = {
-		culture = malay
-		religion =  sunni 
-		size = 6482
-	 } 
-	aristocrats = {
-		culture = chinese
-		religion =  taoism 
-		size = 314
-	 } 
-	aristocrats = {
-		culture = chinese
-		religion = secularism
-		size = 34
-	 } 
-	bureaucrats = {
-		culture = chinese
-		religion =  taoism 
-		size = 1229
-	 } 
-	bureaucrats = {
-		culture = chinese
-		religion = secularism
-		size = 136
-	 } 
-	capitalists = {
-		culture = chinese
-		religion =  taoism 
-		size = 1475
-	 } 
-	capitalists = {
-		culture = chinese
-		religion = secularism
-		size = 163
-	 } 
-	clergymen = {
-		culture = chinese
-		religion =  taoism 
-		size = 4918
-	 } 
-	clergymen = {
-		culture = chinese
-		religion = secularism
-		size = 546
-	 } 
-	clerks = {
-		culture = chinese
-		religion =  taoism 
-		size = 5365
-	 } 
-	clerks = {
-		culture = chinese
-		religion = secularism
-		size = 596
-	 } 
-	artisans = {
-		culture = chinese
-		religion =  taoism 
-		size = 5096
-	 } 
-	artisans = {
-		culture = chinese
-		religion = secularism
-		size = 566
-	 } 
-	craftsmen = {
-		culture = chinese
-		religion =  taoism 
-		size = 16097
-	 } 
-	craftsmen = {
-		culture = chinese
-		religion = secularism
-		size = 1788
-	 } 
-	farmers = {
-		culture = chinese
-		religion =  taoism 
-		size = 24525
-	 } 
-	farmers = {
-		culture = chinese
-		religion = secularism
-		size = 2725
-	 } 
-	farmers = {
-		culture = kalimatan
-		religion =  protestant 
-		size = 108207
-	 } 
-	farmers = {
-		culture = kalimatan
-		religion = secularism
-		size = 12023
-	 } 
-	farmers = {
-		culture = asian_minor
-		religion =  protestant 
-		size = 22132
-	 } 
-	farmers = {
-		culture = asian_minor
-		religion = secularism
-		size = 2459
-	 } 
+  officers = {
+    culture = malay
+    religion =  sunni
+    size = 2818
+  }
+  soldiers = {
+    culture = malay
+    religion =  sunni
+    size = 53547
+  }
+  aristocrats = {
+    culture = malay
+    religion =  sunni
+    size = 6482
+  }
+  aristocrats = {
+    culture = chinese
+    religion =  taoism
+    size = 314
+  }
+  aristocrats = {
+    culture = chinese
+    religion = secularism
+    size = 34
+  }
+  bureaucrats = {
+    culture = chinese
+    religion =  taoism
+    size = 1229
+  }
+  bureaucrats = {
+    culture = chinese
+    religion = secularism
+    size = 136
+  }
+  capitalists = {
+    culture = chinese
+    religion =  taoism
+    size = 1475
+  }
+  capitalists = {
+    culture = chinese
+    religion = secularism
+    size = 163
+  }
+  clergymen = {
+    culture = chinese
+    religion =  taoism
+    size = 4918
+  }
+  clergymen = {
+    culture = chinese
+    religion = secularism
+    size = 546
+  }
+  clerks = {
+    culture = chinese
+    religion =  taoism
+    size = 5365
+  }
+  clerks = {
+    culture = chinese
+    religion = secularism
+    size = 596
+  }
+  artisans = {
+    culture = chinese
+    religion =  taoism
+    size = 5096
+  }
+  artisans = {
+    culture = chinese
+    religion = secularism
+    size = 566
+  }
+  craftsmen = {
+    culture = chinese
+    religion =  taoism
+    size = 16097
+  }
+  craftsmen = {
+    culture = chinese
+    religion = secularism
+    size = 1788
+  }
+  farmers = {
+    culture = chinese
+    religion =  taoism
+    size = 24525
+  }
+  farmers = {
+    culture = chinese
+    religion = secularism
+    size = 2725
+  }
+  farmers = {
+    culture = kalimatan
+    religion =  protestant
+    size = 108207
+  }
+  farmers = {
+    culture = kalimatan
+    religion = secularism
+    size = 12023
+  }
+  farmers = {
+    culture = asian_minor
+    religion =  protestant
+    size = 22132
+  }
+  farmers = {
+    culture = asian_minor
+    religion = secularism
+    size = 2459
+  }
 }
 #Bintulu - Bintulu (486000/121500 POPS)
 1395 = {
-	clergymen = {
-		culture = malay
-		religion =  sunni 
-		size = 2430
-	 } 
-	farmers = {
-		culture = malay
-		religion =  sunni 
-		size = 25515
-	 } 
-	farmers = {
-		culture = chinese
-		religion =  taoism 
-		size = 26244
-	 } 
-	farmers = {
-		culture = chinese
-		religion = secularism
-		size = 2916
-	 } 
-	farmers = {
-		culture = kalimatan
-		religion =  protestant 
-		size = 48114
-	 } 
-	farmers = {
-		culture = kalimatan
-		religion = secularism
-		size = 5346
-	 } 
-	farmers = {
-		culture = asian_minor
-		religion =  protestant 
-		size = 9841
-	 } 
-	farmers = {
-		culture = asian_minor
-		religion = secularism
-		size = 1093
-	 } 
+  clergymen = {
+    culture = malay
+    religion =  sunni
+    size = 2430
+  }
+  farmers = {
+    culture = malay
+    religion =  sunni
+    size = 25515
+  }
+  farmers = {
+    culture = chinese
+    religion =  taoism
+    size = 26244
+  }
+  farmers = {
+    culture = chinese
+    religion = secularism
+    size = 2916
+  }
+  farmers = {
+    culture = kalimatan
+    religion =  protestant
+    size = 48114
+  }
+  farmers = {
+    culture = kalimatan
+    religion = secularism
+    size = 5346
+  }
+  farmers = {
+    culture = asian_minor
+    religion =  protestant
+    size = 9841
+  }
+  farmers = {
+    culture = asian_minor
+    religion = secularism
+    size = 1093
+  }
 }
 #Api - Api (1223000/305750 POPS)
 1396 = {
-	officers = {
-		culture = malay
-		religion =  sunni 
-		size = 3626
-	 } 
-	soldiers = {
-		culture = malay
-		religion =  sunni 
-		size = 68903
-	 } 
-	aristocrats = {
-		culture = malay
-		religion =  sunni 
-		size = 7643
-	 } 
-	bureaucrats = {
-		culture = malay
-		religion =  sunni 
-		size = 1528
-	 } 
-	capitalists = {
-		culture = chinese
-		religion =  taoism 
-		size = 883
-	 } 
-	capitalists = {
-		culture = chinese
-		religion = secularism
-		size = 98
-	 } 
-	clergymen = {
-		culture = chinese
-		religion =  taoism 
-		size = 5503
-	 } 
-	clergymen = {
-		culture = chinese
-		religion = secularism
-		size = 611
-	 } 
-	clerks = {
-		culture = chinese
-		religion =  taoism 
-		size = 5769
-	 } 
-	clerks = {
-		culture = chinese
-		religion = secularism
-		size = 641
-	 } 
-	artisans = {
-		culture = chinese
-		religion =  taoism 
-		size = 4353
-	 } 
-	artisans = {
-		culture = chinese
-		religion = secularism
-		size = 483
-	 } 
-	artisans = {
-		culture = kalimatan
-		religion =  protestant 
-		size = 1127
-	 } 
-	artisans = {
-		culture = kalimatan
-		religion = secularism
-		size = 125
-	 } 
-	craftsmen = {
-		culture = kalimatan
-		religion =  protestant 
-		size = 17309
-	 } 
-	craftsmen = {
-		culture = kalimatan
-		religion = secularism
-		size = 1923
-	 } 
-	farmers = {
-		culture = kalimatan
-		religion =  protestant 
-		size = 61362
-	 } 
-	farmers = {
-		culture = kalimatan
-		religion = secularism
-		size = 6818
-	 } 
-	farmers = {
-		culture = indonesian
-		religion =  sunni 
-		size = 91725
-	 } 
-	farmers = {
-		culture = filipino
-		religion =  catholic 
-		size = 5503
-	 } 
-	farmers = {
-		culture = filipino
-		religion = secularism
-		size = 611
-	 } 
-	farmers = {
-		culture = asian_minor
-		religion =  protestant 
-		size = 16510
-	 } 
-	farmers = {
-		culture = asian_minor
-		religion = secularism
-		size = 1834
-	 } 
+  officers = {
+    culture = malay
+    religion =  sunni
+    size = 3626
+  }
+  soldiers = {
+    culture = malay
+    religion =  sunni
+    size = 68903
+  }
+  aristocrats = {
+    culture = malay
+    religion =  sunni
+    size = 7643
+  }
+  bureaucrats = {
+    culture = malay
+    religion =  sunni
+    size = 1528
+  }
+  capitalists = {
+    culture = chinese
+    religion =  taoism
+    size = 883
+  }
+  capitalists = {
+    culture = chinese
+    religion = secularism
+    size = 98
+  }
+  clergymen = {
+    culture = chinese
+    religion =  taoism
+    size = 5503
+  }
+  clergymen = {
+    culture = chinese
+    religion = secularism
+    size = 611
+  }
+  clerks = {
+    culture = chinese
+    religion =  taoism
+    size = 5769
+  }
+  clerks = {
+    culture = chinese
+    religion = secularism
+    size = 641
+  }
+  artisans = {
+    culture = chinese
+    religion =  taoism
+    size = 4353
+  }
+  artisans = {
+    culture = chinese
+    religion = secularism
+    size = 483
+  }
+  artisans = {
+    culture = kalimatan
+    religion =  protestant
+    size = 1127
+  }
+  artisans = {
+    culture = kalimatan
+    religion = secularism
+    size = 125
+  }
+  craftsmen = {
+    culture = kalimatan
+    religion =  protestant
+    size = 17309
+  }
+  craftsmen = {
+    culture = kalimatan
+    religion = secularism
+    size = 1923
+  }
+  farmers = {
+    culture = kalimatan
+    religion =  protestant
+    size = 61362
+  }
+  farmers = {
+    culture = kalimatan
+    religion = secularism
+    size = 6818
+  }
+  farmers = {
+    culture = indonesian
+    religion =  sunni
+    size = 91725
+  }
+  farmers = {
+    culture = filipino
+    religion =  catholic
+    size = 5503
+  }
+  farmers = {
+    culture = filipino
+    religion = secularism
+    size = 611
+  }
+  farmers = {
+    culture = asian_minor
+    religion =  protestant
+    size = 16510
+  }
+  farmers = {
+    culture = asian_minor
+    religion = secularism
+    size = 1834
+  }
 }
 #Sandakan - Sandakan (813000/203250 POPS)
 1397 = {
-	clergymen = {
-		culture = malay
-		religion =  sunni 
-		size = 4065
-	 } 
-	farmers = {
-		culture = malay
-		religion =  sunni 
-		size = 50812
-	 } 
-	farmers = {
-		culture = chinese
-		religion =  taoism 
-		size = 10975
-	 } 
-	farmers = {
-		culture = chinese
-		religion = secularism
-		size = 1219
-	 } 
-	farmers = {
-		culture = kalimatan
-		religion =  protestant 
-		size = 53047
-	 } 
-	farmers = {
-		culture = kalimatan
-		religion = secularism
-		size = 5894
-	 } 
-	farmers = {
-		culture = indonesian
-		religion =  sunni 
-		size = 60975
-	 } 
-	farmers = {
-		culture = filipino
-		religion =  catholic 
-		size = 3658
-	 } 
-	farmers = {
-		culture = filipino
-		religion = secularism
-		size = 406
-	 } 
-	farmers = {
-		culture = asian_minor
-		religion =  protestant 
-		size = 10975
-	 } 
-	farmers = {
-		culture = asian_minor
-		religion = secularism
-		size = 1219
-	 } 
+  clergymen = {
+    culture = malay
+    religion =  sunni
+    size = 4065
+  }
+  farmers = {
+    culture = malay
+    religion =  sunni
+    size = 50812
+  }
+  farmers = {
+    culture = chinese
+    religion =  taoism
+    size = 10975
+  }
+  farmers = {
+    culture = chinese
+    religion = secularism
+    size = 1219
+  }
+  farmers = {
+    culture = kalimatan
+    religion =  protestant
+    size = 53047
+  }
+  farmers = {
+    culture = kalimatan
+    religion = secularism
+    size = 5894
+  }
+  farmers = {
+    culture = indonesian
+    religion =  sunni
+    size = 60975
+  }
+  farmers = {
+    culture = filipino
+    religion =  catholic
+    size = 3658
+  }
+  farmers = {
+    culture = filipino
+    religion = secularism
+    size = 406
+  }
+  farmers = {
+    culture = asian_minor
+    religion =  protestant
+    size = 10975
+  }
+  farmers = {
+    culture = asian_minor
+    religion = secularism
+    size = 1219
+  }
 }
 #Ipoh - Perak (1474000/368500 POPS)
 2575 = {
-	clergymen = {
-		culture = malay
-		religion =  sunni 
-		size = 7370
-	 } 
-	farmers = {
-		culture = malay
-		religion =  sunni 
-		size = 191620
-	 } 
-	farmers = {
-		culture = chinese
-		religion =  taoism 
-		size = 106128
-	 } 
-	farmers = {
-		culture = chinese
-		religion = secularism
-		size = 11792
-	 } 
-	farmers = {
-		culture = indian
-		religion =  hindu 
-		size = 46431
-	 } 
-	farmers = {
-		culture = indian
-		religion = secularism
-		size = 5159
-	 } 
+  clergymen = {
+    culture = malay
+    religion =  sunni
+    size = 7370
+  }
+  farmers = {
+    culture = malay
+    religion =  sunni
+    size = 191620
+  }
+  farmers = {
+    culture = chinese
+    religion =  taoism
+    size = 106128
+  }
+  farmers = {
+    culture = chinese
+    religion = secularism
+    size = 11792
+  }
+  farmers = {
+    culture = indian
+    religion =  hindu
+    size = 46431
+  }
+  farmers = {
+    culture = indian
+    religion = secularism
+    size = 5159
+  }
 }

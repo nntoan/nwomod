@@ -1,98 +1,98 @@
 #Nauru - Nauru (9000/2250 POPS)
 2523 = {
-	aristocrats = {
-		culture = micronesian
-		religion =  protestant 
-		size = 71
-	 } 
-	aristocrats = {
-		culture = micronesian
-		religion = secularism
-		size = 18
-	 } 
-	bureaucrats = {
-		culture = micronesian
-		religion =  protestant 
-		size = 3
-	 } 
-	capitalists = {
-		culture = micronesian
-		religion =  protestant 
-		size = 8
-	 } 
-	capitalists = {
-		culture = micronesian
-		religion = secularism
-		size = 2
-	 } 
-	clergymen = {
-		culture = micronesian
-		religion =  protestant 
-		size = 35
-	 } 
-	clergymen = {
-		culture = micronesian
-		religion = secularism
-		size = 9
-	 } 
-	clerks = {
-		culture = micronesian
-		religion =  protestant 
-		size = 65
-	 } 
-	clerks = {
-		culture = micronesian
-		religion = secularism
-		size = 17
-	 } 
-	artisans = {
-		culture = micronesian
-		religion =  protestant 
-		size = 62
-	 } 
-	artisans = {
-		culture = micronesian
-		religion = secularism
-		size = 16
-	 } 
-	craftsmen = {
-		culture = micronesian
-		religion =  protestant 
-		size = 198
-	 } 
-	craftsmen = {
-		culture = micronesian
-		religion = secularism
-		size = 52
-	 } 
-	farmers = {
-		culture = micronesian
-		religion =  protestant 
-		size = 1048
-	 } 
-	farmers = {
-		culture = micronesian
-		religion = secularism
-		size = 278
-	 } 
-	farmers = {
-		culture = european
-		religion =  protestant 
-		size = 142
-	 } 
-	farmers = {
-		culture = european
-		religion = secularism
-		size = 37
-	 } 
-	farmers = {
-		culture = chinese
-		religion =  taoism 
-		size = 142
-	 } 
-	farmers = {
-		culture = chinese
-		religion = secularism
-		size = 37
-	 } 
+  aristocrats = {
+    culture = micronesian
+    religion =  protestant
+    size = 71
+  }
+  aristocrats = {
+    culture = micronesian
+    religion = secularism
+    size = 18
+  }
+  bureaucrats = {
+    culture = micronesian
+    religion =  protestant
+    size = 3
+  }
+  capitalists = {
+    culture = micronesian
+    religion =  protestant
+    size = 8
+  }
+  capitalists = {
+    culture = micronesian
+    religion = secularism
+    size = 2
+  }
+  clergymen = {
+    culture = micronesian
+    religion =  protestant
+    size = 35
+  }
+  clergymen = {
+    culture = micronesian
+    religion = secularism
+    size = 9
+  }
+  clerks = {
+    culture = micronesian
+    religion =  protestant
+    size = 65
+  }
+  clerks = {
+    culture = micronesian
+    religion = secularism
+    size = 17
+  }
+  artisans = {
+    culture = micronesian
+    religion =  protestant
+    size = 62
+  }
+  artisans = {
+    culture = micronesian
+    religion = secularism
+    size = 16
+  }
+  craftsmen = {
+    culture = micronesian
+    religion =  protestant
+    size = 198
+  }
+  craftsmen = {
+    culture = micronesian
+    religion = secularism
+    size = 52
+  }
+  farmers = {
+    culture = micronesian
+    religion =  protestant
+    size = 1048
+  }
+  farmers = {
+    culture = micronesian
+    religion = secularism
+    size = 278
+  }
+  farmers = {
+    culture = european
+    religion =  protestant
+    size = 142
+  }
+  farmers = {
+    culture = european
+    religion = secularism
+    size = 37
+  }
+  farmers = {
+    culture = chinese
+    religion =  taoism
+    size = 142
+  }
+  farmers = {
+    culture = chinese
+    religion = secularism
+    size = 37
+  }
 }

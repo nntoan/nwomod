@@ -6,8 +6,8 @@ life_rating = 35
 terrain = dry_forest
 colonial = 2
 1992.1.1 = {
-owner = BUF
-controller = BUF
-add_core = BUF
-colonial = 0
+  owner = BUF
+  controller = BUF
+  add_core = BUF
+  colonial = 0
 }

@@ -9,41 +9,41 @@ terrain = good_farmland
 railroad = 1
 colonial = 0
 state_building = {
-	level = 1
-	building = automobiles_factory
-	upgrade = yes
+  level = 1
+  building = automobiles_factory
+  upgrade = yes
 }
 state_building = {
-	level = 1
-	building = petrochemicals_factory
-	upgrade = yes
+  level = 1
+  building = petrochemicals_factory
+  upgrade = yes
 }
 state_building = {
-	level = 1
-	building = steel_factory
-	upgrade = yes
+  level = 1
+  building = steel_factory
+  upgrade = yes
 }
 state_building = {
-	level = 1
-	building = machine_parts_factory
-	upgrade = yes
+  level = 1
+  building = machine_parts_factory
+  upgrade = yes
 }
 1992.1.1 = {
-owner = BEL
-controller = BEL
-add_core = BEL
-add_core = BNL
-add_core = WLL
-railroad = 1
-colonial = 0
-state_building = {
-	level = 1
-	building = heating_electricity_factory
-	upgrade = yes
-}
-state_building = {
-	level = 1
-	building = chemical_products_factory
-	upgrade = yes
-}
+  owner = BEL
+  controller = BEL
+  add_core = BEL
+  add_core = BNL
+  add_core = WLL
+  railroad = 1
+  colonial = 0
+  state_building = {
+    level = 1
+    building = heating_electricity_factory
+    upgrade = yes
+  }
+  state_building = {
+    level = 1
+    building = chemical_products_factory
+    upgrade = yes
+  }
 }

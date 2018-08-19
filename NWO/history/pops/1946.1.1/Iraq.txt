@@ -1,321 +1,321 @@
 #Mosul - Nineveh (491000/122750 POPS)
 923 = {
-	soldiers = {
-		culture = sunni_arab
-		religion =  sunni 
-		size = 2078
-	 } 
-	aristocrats = {
-		culture = sunni_arab
-		religion =  sunni 
-		size = 4910
-	 } 
-	clergymen = {
-		culture = sunni_arab
-		religion =  sunni 
-		size = 2455
-	 } 
-	artisans = {
-		culture = sunni_arab
-		religion =  sunni 
-		size = 1838
-	 } 
-	farmers = {
-		culture = sunni_arab
-		religion =  sunni 
-		size = 58332
-	 } 
-	farmers = {
-		culture = shia_arab
-		religion =  shiite 
-		size = 7365
-	 } 
-	farmers = {
-		culture = kurdish
-		religion =  sunni 
-		size = 34370
-	 } 
-	farmers = {
-		culture = christian_arab
-		religion =  orthodox 
-		size = 1180
-	 } 
-	farmers = {
-		culture = christian_arab
-		religion = secularism
-		size = 46
-	 } 
-	farmers = {
-		culture = turkish
-		religion =  sunni 
-		size = 9820
-	 } 
+  soldiers = {
+    culture = sunni_arab
+    religion =  sunni
+    size = 2078
+  }
+  aristocrats = {
+    culture = sunni_arab
+    religion =  sunni
+    size = 4910
+  }
+  clergymen = {
+    culture = sunni_arab
+    religion =  sunni
+    size = 2455
+  }
+  artisans = {
+    culture = sunni_arab
+    religion =  sunni
+    size = 1838
+  }
+  farmers = {
+    culture = sunni_arab
+    religion =  sunni
+    size = 58332
+  }
+  farmers = {
+    culture = shia_arab
+    religion =  shiite
+    size = 7365
+  }
+  farmers = {
+    culture = kurdish
+    religion =  sunni
+    size = 34370
+  }
+  farmers = {
+    culture = christian_arab
+    religion =  orthodox
+    size = 1180
+  }
+  farmers = {
+    culture = christian_arab
+    religion = secularism
+    size = 46
+  }
+  farmers = {
+    culture = turkish
+    religion =  sunni
+    size = 9820
+  }
 }
 #Arbil - Arbil, Dohuk (411000/102750 POPS)
 924 = {
-	clergymen = {
-		culture = kurdish
-		religion =  sunni 
-		size = 2055
-	 } 
-	farmers = {
-		culture = kurdish
-		religion =  sunni 
-		size = 99667
-	 } 
-	farmers = {
-		culture = christian_arab
-		religion =  orthodox 
-		size = 988
-	 } 
-	farmers = {
-		culture = christian_arab
-		religion = secularism
-		size = 38
-	 } 
+  clergymen = {
+    culture = kurdish
+    religion =  sunni
+    size = 2055
+  }
+  farmers = {
+    culture = kurdish
+    religion =  sunni
+    size = 99667
+  }
+  farmers = {
+    culture = christian_arab
+    religion =  orthodox
+    size = 988
+  }
+  farmers = {
+    culture = christian_arab
+    religion = secularism
+    size = 38
+  }
 }
 #Kirkuk - Kirkuk, Sulaymaniyah (491000/122750 POPS)
 925 = {
-	soldiers = {
-		culture = sunni_arab
-		religion =  sunni 
-		size = 2001
-	 } 
-	aristocrats = {
-		culture = sunni_arab
-		religion =  sunni 
-		size = 4910
-	 } 
-	clergymen = {
-		culture = sunni_arab
-		religion =  sunni 
-		size = 2455
-	 } 
-	artisans = {
-		culture = sunni_arab
-		religion =  sunni 
-		size = 1839
-	 } 
-	farmers = {
-		culture = sunni_arab
-		religion =  sunni 
-		size = 26497
-	 } 
-	farmers = {
-		culture = kurdish
-		religion =  sunni 
-		size = 73650
-	 } 
-	farmers = {
-		culture = turkish
-		religion =  sunni 
-		size = 9820
-	 } 
-	farmers = {
-		culture = christian_arab
-		religion =  orthodox 
-		size = 1180
-	 } 
-	farmers = {
-		culture = christian_arab
-		religion = secularism
-		size = 46
-	 } 
+  soldiers = {
+    culture = sunni_arab
+    religion =  sunni
+    size = 2001
+  }
+  aristocrats = {
+    culture = sunni_arab
+    religion =  sunni
+    size = 4910
+  }
+  clergymen = {
+    culture = sunni_arab
+    religion =  sunni
+    size = 2455
+  }
+  artisans = {
+    culture = sunni_arab
+    religion =  sunni
+    size = 1839
+  }
+  farmers = {
+    culture = sunni_arab
+    religion =  sunni
+    size = 26497
+  }
+  farmers = {
+    culture = kurdish
+    religion =  sunni
+    size = 73650
+  }
+  farmers = {
+    culture = turkish
+    religion =  sunni
+    size = 9820
+  }
+  farmers = {
+    culture = christian_arab
+    religion =  orthodox
+    size = 1180
+  }
+  farmers = {
+    culture = christian_arab
+    religion = secularism
+    size = 46
+  }
 }
 #Baghdad - Baghdad (1063000/265750 POPS)
 926 = {
-	soldiers = {
-		culture = sunni_arab
-		religion =  sunni 
-		size = 2818
-	 } 
-	aristocrats = {
-		culture = sunni_arab
-		religion =  sunni 
-		size = 10630
-	 } 
-	clergymen = {
-		culture = sunni_arab
-		religion =  sunni 
-		size = 5315
-	 } 
-	artisans = {
-		culture = sunni_arab
-		religion =  sunni 
-		size = 4006
-	 } 
-	farmers = {
-		culture = sunni_arab
-		religion =  sunni 
-		size = 21729
-	 } 
-	farmers = {
-		culture = jewish
-		religion =  jewish 
-		size = 20462
-	 } 
-	farmers = {
-		culture = jewish
-		religion = secularism
-		size = 797
-	 } 
-	farmers = {
-		culture = shia_arab
-		religion =  shiite 
-		size = 199312
-	 } 
+  soldiers = {
+    culture = sunni_arab
+    religion =  sunni
+    size = 2818
+  }
+  aristocrats = {
+    culture = sunni_arab
+    religion =  sunni
+    size = 10630
+  }
+  clergymen = {
+    culture = sunni_arab
+    religion =  sunni
+    size = 5315
+  }
+  artisans = {
+    culture = sunni_arab
+    religion =  sunni
+    size = 4006
+  }
+  farmers = {
+    culture = sunni_arab
+    religion =  sunni
+    size = 21729
+  }
+  farmers = {
+    culture = jewish
+    religion =  jewish
+    size = 20462
+  }
+  farmers = {
+    culture = jewish
+    religion = secularism
+    size = 797
+  }
+  farmers = {
+    culture = shia_arab
+    religion =  shiite
+    size = 199312
+  }
 }
 #Samarra - Saladin (211000/52750 POPS)
 927 = {
-	clergymen = {
-		culture = sunni_arab
-		religion =  sunni 
-		size = 1055
-	 } 
-	farmers = {
-		culture = sunni_arab
-		religion =  sunni 
-		size = 43782
-	 } 
-	farmers = {
-		culture = kurdish
-		religion =  sunni 
-		size = 2637
-	 } 
-	farmers = {
-		culture = shia_arab
-		religion =  shiite 
-		size = 5275
-	 } 
+  clergymen = {
+    culture = sunni_arab
+    religion =  sunni
+    size = 1055
+  }
+  farmers = {
+    culture = sunni_arab
+    religion =  sunni
+    size = 43782
+  }
+  farmers = {
+    culture = kurdish
+    religion =  sunni
+    size = 2637
+  }
+  farmers = {
+    culture = shia_arab
+    religion =  shiite
+    size = 5275
+  }
 }
 #Mendeli - Diyala (216000/54000 POPS)
 928 = {
-	clergymen = {
-		culture = sunni_arab
-		religion =  sunni 
-		size = 1080
-	 } 
-	farmers = {
-		culture = sunni_arab
-		religion =  sunni 
-		size = 20520
-	 } 
-	farmers = {
-		culture = shia_arab
-		religion =  shiite 
-		size = 26460
-	 } 
-	farmers = {
-		culture = kurdish
-		religion =  sunni 
-		size = 2160
-	 } 
-	farmers = {
-		culture = turkish
-		religion =  sunni 
-		size = 3780
-	 } 
+  clergymen = {
+    culture = sunni_arab
+    religion =  sunni
+    size = 1080
+  }
+  farmers = {
+    culture = sunni_arab
+    religion =  sunni
+    size = 20520
+  }
+  farmers = {
+    culture = shia_arab
+    religion =  shiite
+    size = 26460
+  }
+  farmers = {
+    culture = kurdish
+    religion =  sunni
+    size = 2160
+  }
+  farmers = {
+    culture = turkish
+    religion =  sunni
+    size = 3780
+  }
 }
 #Karbala - Karbala, Babil (584000/146000 POPS)
 929 = {
-	clergymen = {
-		culture = sunni_arab
-		religion =  sunni 
-		size = 2920
-	 } 
-	farmers = {
-		culture = sunni_arab
-		religion =  sunni 
-		size = 4380
-	 } 
-	farmers = {
-		culture = shia_arab
-		religion =  shiite 
-		size = 138700
-	 } 
+  clergymen = {
+    culture = sunni_arab
+    religion =  sunni
+    size = 2920
+  }
+  farmers = {
+    culture = sunni_arab
+    religion =  sunni
+    size = 4380
+  }
+  farmers = {
+    culture = shia_arab
+    religion =  shiite
+    size = 138700
+  }
 }
 #Kut - Misran, Wasit (327000/81750 POPS)
 930 = {
-	clergymen = {
-		culture = shia_arab
-		religion =  shiite 
-		size = 1635
-	 } 
-	farmers = {
-		culture = shia_arab
-		religion =  shiite 
-		size = 80115
-	 } 
+  clergymen = {
+    culture = shia_arab
+    religion =  shiite
+    size = 1635
+  }
+  farmers = {
+    culture = shia_arab
+    religion =  shiite
+    size = 80115
+  }
 }
 #Rutbah - Anbar (235000/58750 POPS)
 931 = {
-	clergymen = {
-		culture = sunni_arab
-		religion =  sunni 
-		size = 1175
-	 } 
-	farmers = {
-		culture = sunni_arab
-		religion =  sunni 
-		size = 57575
-	 } 
+  clergymen = {
+    culture = sunni_arab
+    religion =  sunni
+    size = 1175
+  }
+  farmers = {
+    culture = sunni_arab
+    religion =  sunni
+    size = 57575
+  }
 }
 #Basra - Basra (380000/95000 POPS)
 932 = {
-	soldiers = {
-		culture = shia_arab
-		religion =  shiite 
-		size = 4646
-	 } 
-	aristocrats = {
-		culture = shia_arab
-		religion =  shiite 
-		size = 3800
-	 } 
-	clergymen = {
-		culture = shia_arab
-		religion =  shiite 
-		size = 1900
-	 } 
-	artisans = {
-		culture = shia_arab
-		religion =  shiite 
-		size = 1373
-	 } 
-	farmers = {
-		culture = shia_arab
-		religion =  shiite 
-		size = 82847
-	 } 
+  soldiers = {
+    culture = shia_arab
+    religion =  shiite
+    size = 4646
+  }
+  aristocrats = {
+    culture = shia_arab
+    religion =  shiite
+    size = 3800
+  }
+  clergymen = {
+    culture = shia_arab
+    religion =  shiite
+    size = 1900
+  }
+  artisans = {
+    culture = shia_arab
+    religion =  shiite
+    size = 1373
+  }
+  farmers = {
+    culture = shia_arab
+    religion =  shiite
+    size = 82847
+  }
 }
 #Nasiriyya - Dhi Qar (275000/68750 POPS)
 933 = {
-	clergymen = {
-		culture = shia_arab
-		religion =  shiite 
-		size = 1375
-	 } 
-	farmers = {
-		culture = shia_arab
-		religion =  shiite 
-		size = 67375
-	 } 
+  clergymen = {
+    culture = shia_arab
+    religion =  shiite
+    size = 1375
+  }
+  farmers = {
+    culture = shia_arab
+    religion =  shiite
+    size = 67375
+  }
 }
 #Najaf - Muthanna, Njaf, Al-Qadisiyyah (471000/117750 POPS)
 934 = {
-	clergymen = {
-		culture = sunni_arab
-		religion =  sunni 
-		size = 2355
-	 } 
-	farmers = {
-		culture = sunni_arab
-		religion =  sunni 
-		size = 9420
-	 } 
-	farmers = {
-		culture = shia_arab
-		religion =  shiite 
-		size = 105975
-	 } 
+  clergymen = {
+    culture = sunni_arab
+    religion =  sunni
+    size = 2355
+  }
+  farmers = {
+    culture = sunni_arab
+    religion =  sunni
+    size = 9420
+  }
+  farmers = {
+    culture = shia_arab
+    religion =  shiite
+    size = 105975
+  }
 }

@@ -1,499 +1,499 @@
 #Manila - Manila (2770000/692500 POPS)
 1455 = {
-	officers = {
-		culture = filipino
-		religion =  catholic 
-		size = 1405
-	 } 
-	officers = {
-		culture = filipino
-		religion = secularism
-		size = 21
-	 } 
-	soldiers = {
-		culture = filipino
-		religion =  catholic 
-		size = 26710
-	 } 
-	soldiers = {
-		culture = filipino
-		religion = secularism
-		size = 406
-	 } 
-	aristocrats = {
-		culture = filipino
-		religion =  catholic 
-		size = 27284
-	 } 
-	aristocrats = {
-		culture = filipino
-		religion = secularism
-		size = 415
-	 } 
-	bureaucrats = {
-		culture = filipino
-		religion =  catholic 
-		size = 681
-	 } 
-	bureaucrats = {
-		culture = filipino
-		religion = secularism
-		size = 10
-	 } 
-	clergymen = {
-		culture = filipino
-		religion =  catholic 
-		size = 13642
-	 } 
-	clergymen = {
-		culture = filipino
-		religion = secularism
-		size = 207
-	 } 
-	artisans = {
-		culture = filipino
-		religion =  catholic 
-		size = 6962
-	 } 
-	artisans = {
-		culture = filipino
-		religion = secularism
-		size = 106
-	 } 
-	farmers = {
-		culture = filipino
-		religion =  catholic 
-		size = 571319
-	 } 
-	farmers = {
-		culture = filipino
-		religion = secularism
-		size = 8700
-	 } 
-	farmers = {
-		culture = chinese
-		religion =  taoism 
-		size = 34105
-	 } 
-	farmers = {
-		culture = chinese
-		religion = secularism
-		size = 519
-	 } 
+  officers = {
+    culture = filipino
+    religion =  catholic
+    size = 1405
+  }
+  officers = {
+    culture = filipino
+    religion = secularism
+    size = 21
+  }
+  soldiers = {
+    culture = filipino
+    religion =  catholic
+    size = 26710
+  }
+  soldiers = {
+    culture = filipino
+    religion = secularism
+    size = 406
+  }
+  aristocrats = {
+    culture = filipino
+    religion =  catholic
+    size = 27284
+  }
+  aristocrats = {
+    culture = filipino
+    religion = secularism
+    size = 415
+  }
+  bureaucrats = {
+    culture = filipino
+    religion =  catholic
+    size = 681
+  }
+  bureaucrats = {
+    culture = filipino
+    religion = secularism
+    size = 10
+  }
+  clergymen = {
+    culture = filipino
+    religion =  catholic
+    size = 13642
+  }
+  clergymen = {
+    culture = filipino
+    religion = secularism
+    size = 207
+  }
+  artisans = {
+    culture = filipino
+    religion =  catholic
+    size = 6962
+  }
+  artisans = {
+    culture = filipino
+    religion = secularism
+    size = 106
+  }
+  farmers = {
+    culture = filipino
+    religion =  catholic
+    size = 571319
+  }
+  farmers = {
+    culture = filipino
+    religion = secularism
+    size = 8700
+  }
+  farmers = {
+    culture = chinese
+    religion =  taoism
+    size = 34105
+  }
+  farmers = {
+    culture = chinese
+    religion = secularism
+    size = 519
+  }
 }
 #Vigan - Vigan (2216000/554000 POPS)
 1456 = {
-	clergymen = {
-		culture = filipino
-		religion =  catholic 
-		size = 10913
-	 } 
-	clergymen = {
-		culture = filipino
-		religion = secularism
-		size = 166
-	 } 
-	farmers = {
-		culture = filipino
-		religion =  catholic 
-		size = 534776
-	 } 
-	farmers = {
-		culture = filipino
-		religion = secularism
-		size = 8143
-	 } 
+  clergymen = {
+    culture = filipino
+    religion =  catholic
+    size = 10913
+  }
+  clergymen = {
+    culture = filipino
+    religion = secularism
+    size = 166
+  }
+  farmers = {
+    culture = filipino
+    religion =  catholic
+    size = 534776
+  }
+  farmers = {
+    culture = filipino
+    religion = secularism
+    size = 8143
+  }
 }
 #Legazpi - Legazpi (1855000/463750 POPS)
 1457 = {
-	clergymen = {
-		culture = filipino
-		religion =  catholic 
-		size = 9135
-	 } 
-	clergymen = {
-		culture = filipino
-		religion = secularism
-		size = 139
-	 } 
-	farmers = {
-		culture = filipino
-		religion =  catholic 
-		size = 447657
-	 } 
-	farmers = {
-		culture = filipino
-		religion = secularism
-		size = 6817
-	 } 
+  clergymen = {
+    culture = filipino
+    religion =  catholic
+    size = 9135
+  }
+  clergymen = {
+    culture = filipino
+    religion = secularism
+    size = 139
+  }
+  farmers = {
+    culture = filipino
+    religion =  catholic
+    size = 447657
+  }
+  farmers = {
+    culture = filipino
+    religion = secularism
+    size = 6817
+  }
 }
 #Mindoro - Mindoro (285000/71250 POPS)
 1458 = {
-	clergymen = {
-		culture = filipino
-		religion =  catholic 
-		size = 1403
-	 } 
-	clergymen = {
-		culture = filipino
-		religion = secularism
-		size = 21
-	 } 
-	farmers = {
-		culture = filipino
-		religion =  catholic 
-		size = 68777
-	 } 
-	farmers = {
-		culture = filipino
-		religion = secularism
-		size = 1047
-	 } 
+  clergymen = {
+    culture = filipino
+    religion =  catholic
+    size = 1403
+  }
+  clergymen = {
+    culture = filipino
+    religion = secularism
+    size = 21
+  }
+  farmers = {
+    culture = filipino
+    religion =  catholic
+    size = 68777
+  }
+  farmers = {
+    culture = filipino
+    religion = secularism
+    size = 1047
+  }
 }
 #Palawan - Palawan (348000/87000 POPS)
 1459 = {
-	clergymen = {
-		culture = filipino
-		religion =  catholic 
-		size = 1713
-	 } 
-	clergymen = {
-		culture = filipino
-		religion = secularism
-		size = 26
-	 } 
-	farmers = {
-		culture = filipino
-		religion =  catholic 
-		size = 83981
-	 } 
-	farmers = {
-		culture = filipino
-		religion = secularism
-		size = 1278
-	 } 
+  clergymen = {
+    culture = filipino
+    religion =  catholic
+    size = 1713
+  }
+  clergymen = {
+    culture = filipino
+    religion = secularism
+    size = 26
+  }
+  farmers = {
+    culture = filipino
+    religion =  catholic
+    size = 83981
+  }
+  farmers = {
+    culture = filipino
+    religion = secularism
+    size = 1278
+  }
 }
 #Iloilo - Iloilo (1640000/410000 POPS)
 1460 = {
-	clergymen = {
-		culture = filipino
-		religion =  catholic 
-		size = 8077
-	 } 
-	clergymen = {
-		culture = filipino
-		religion = secularism
-		size = 123
-	 } 
-	farmers = {
-		culture = filipino
-		religion =  catholic 
-		size = 395773
-	 } 
-	farmers = {
-		culture = filipino
-		religion = secularism
-		size = 6027
-	 } 
+  clergymen = {
+    culture = filipino
+    religion =  catholic
+    size = 8077
+  }
+  clergymen = {
+    culture = filipino
+    religion = secularism
+    size = 123
+  }
+  farmers = {
+    culture = filipino
+    religion =  catholic
+    size = 395773
+  }
+  farmers = {
+    culture = filipino
+    religion = secularism
+    size = 6027
+  }
 }
 #Tacloban - Tacloban (947000/236750 POPS)
 1461 = {
-	clergymen = {
-		culture = filipino
-		religion =  catholic 
-		size = 4663
-	 } 
-	clergymen = {
-		culture = filipino
-		religion = secularism
-		size = 71
-	 } 
-	farmers = {
-		culture = filipino
-		religion =  catholic 
-		size = 228534
-	 } 
-	farmers = {
-		culture = filipino
-		religion = secularism
-		size = 3480
-	 } 
+  clergymen = {
+    culture = filipino
+    religion =  catholic
+    size = 4663
+  }
+  clergymen = {
+    culture = filipino
+    religion = secularism
+    size = 71
+  }
+  farmers = {
+    culture = filipino
+    religion =  catholic
+    size = 228534
+  }
+  farmers = {
+    culture = filipino
+    religion = secularism
+    size = 3480
+  }
 }
 #Zamboanga - Zamboanga (501000/125250 POPS)
 1462 = {
-	officers = {
-		culture = filipino
-		religion =  catholic 
-		size = 87
-	 } 
-	officers = {
-		culture = filipino
-		religion = secularism
-		size = 1
-	 } 
-	soldiers = {
-		culture = filipino
-		religion =  catholic 
-		size = 1683
-	 } 
-	soldiers = {
-		culture = filipino
-		religion = secularism
-		size = 25
-	 } 
-	aristocrats = {
-		culture = filipino
-		religion =  catholic 
-		size = 4397
-	 } 
-	aristocrats = {
-		culture = filipino
-		religion = secularism
-		size = 66
-	 } 
-	clergymen = {
-		culture = moro
-		religion =  sunni 
-		size = 2505
-	 } 
-	artisans = {
-		culture = moro
-		religion =  sunni 
-		size = 1314
-	 } 
-	farmers = {
-		culture = moro
-		religion =  sunni 
-		size = 114497
-	 } 
+  officers = {
+    culture = filipino
+    religion =  catholic
+    size = 87
+  }
+  officers = {
+    culture = filipino
+    religion = secularism
+    size = 1
+  }
+  soldiers = {
+    culture = filipino
+    religion =  catholic
+    size = 1683
+  }
+  soldiers = {
+    culture = filipino
+    religion = secularism
+    size = 25
+  }
+  aristocrats = {
+    culture = filipino
+    religion =  catholic
+    size = 4397
+  }
+  aristocrats = {
+    culture = filipino
+    religion = secularism
+    size = 66
+  }
+  clergymen = {
+    culture = moro
+    religion =  sunni
+    size = 2505
+  }
+  artisans = {
+    culture = moro
+    religion =  sunni
+    size = 1314
+  }
+  farmers = {
+    culture = moro
+    religion =  sunni
+    size = 114497
+  }
 }
 #Davao - Davao (4122000/1030500 POPS)
 1463 = {
-	officers = {
-		culture = filipino
-		religion =  catholic 
-		size = 480
-	 } 
-	officers = {
-		culture = filipino
-		religion = secularism
-		size = 7
-	 } 
-	soldiers = {
-		culture = filipino
-		religion =  catholic 
-		size = 9141
-	 } 
-	soldiers = {
-		culture = filipino
-		religion = secularism
-		size = 139
-	 } 
-	aristocrats = {
-		culture = filipino
-		religion =  catholic 
-		size = 40601
-	 } 
-	aristocrats = {
-		culture = filipino
-		religion = secularism
-		size = 618
-	 } 
-	bureaucrats = {
-		culture = filipino
-		religion =  catholic 
-		size = 1014
-	 } 
-	bureaucrats = {
-		culture = filipino
-		religion = secularism
-		size = 15
-	 } 
-	clergymen = {
-		culture = filipino
-		religion =  catholic 
-		size = 20300
-	 } 
-	clergymen = {
-		culture = filipino
-		religion = secularism
-		size = 309
-	 } 
-	artisans = {
-		culture = filipino
-		religion =  catholic 
-		size = 10704
-	 } 
-	artisans = {
-		culture = filipino
-		religion = secularism
-		size = 163
-	 } 
-	farmers = {
-		culture = filipino
-		religion =  catholic 
-		size = 821143
-	 } 
-	farmers = {
-		culture = filipino
-		religion = secularism
-		size = 12504
-	 } 
-	farmers = {
-		culture = moro
-		religion =  sunni 
-		size = 113355
-	 } 
+  officers = {
+    culture = filipino
+    religion =  catholic
+    size = 480
+  }
+  officers = {
+    culture = filipino
+    religion = secularism
+    size = 7
+  }
+  soldiers = {
+    culture = filipino
+    religion =  catholic
+    size = 9141
+  }
+  soldiers = {
+    culture = filipino
+    religion = secularism
+    size = 139
+  }
+  aristocrats = {
+    culture = filipino
+    religion =  catholic
+    size = 40601
+  }
+  aristocrats = {
+    culture = filipino
+    religion = secularism
+    size = 618
+  }
+  bureaucrats = {
+    culture = filipino
+    religion =  catholic
+    size = 1014
+  }
+  bureaucrats = {
+    culture = filipino
+    religion = secularism
+    size = 15
+  }
+  clergymen = {
+    culture = filipino
+    religion =  catholic
+    size = 20300
+  }
+  clergymen = {
+    culture = filipino
+    religion = secularism
+    size = 309
+  }
+  artisans = {
+    culture = filipino
+    religion =  catholic
+    size = 10704
+  }
+  artisans = {
+    culture = filipino
+    religion = secularism
+    size = 163
+  }
+  farmers = {
+    culture = filipino
+    religion =  catholic
+    size = 821143
+  }
+  farmers = {
+    culture = filipino
+    religion = secularism
+    size = 12504
+  }
+  farmers = {
+    culture = moro
+    religion =  sunni
+    size = 113355
+  }
 }
 #Sulu - Sulu (250000/62500 POPS)
 1464 = {
-	clergymen = {
-		culture = moro
-		religion =  sunni 
-		size = 1250
-	 } 
-	farmers = {
-		culture = moro
-		religion =  sunni 
-		size = 61250
-	 } 
+  clergymen = {
+    culture = moro
+    religion =  sunni
+    size = 1250
+  }
+  farmers = {
+    culture = moro
+    religion =  sunni
+    size = 61250
+  }
 }
 #Cebu - Cebu (1571000/392750 POPS)
 2565 = {
-	officers = {
-		culture = filipino
-		religion =  catholic 
-		size = 538
-	 } 
-	officers = {
-		culture = filipino
-		religion = secularism
-		size = 8
-	 } 
-	soldiers = {
-		culture = filipino
-		religion =  catholic 
-		size = 10246
-	 } 
-	soldiers = {
-		culture = filipino
-		religion = secularism
-		size = 156
-	 } 
-	aristocrats = {
-		culture = filipino
-		religion =  catholic 
-		size = 15474
-	 } 
-	aristocrats = {
-		culture = filipino
-		religion = secularism
-		size = 235
-	 } 
-	bureaucrats = {
-		culture = filipino
-		religion =  catholic 
-		size = 386
-	 } 
-	bureaucrats = {
-		culture = filipino
-		religion = secularism
-		size = 5
-	 } 
-	clergymen = {
-		culture = filipino
-		religion =  catholic 
-		size = 7737
-	 } 
-	clergymen = {
-		culture = filipino
-		religion = secularism
-		size = 117
-	 } 
-	artisans = {
-		culture = filipino
-		religion =  catholic 
-		size = 4004
-	 } 
-	artisans = {
-		culture = filipino
-		religion = secularism
-		size = 60
-	 } 
-	farmers = {
-		culture = filipino
-		religion =  catholic 
-		size = 348471
-	 } 
-	farmers = {
-		culture = filipino
-		religion = secularism
-		size = 5306
-	 } 
+  officers = {
+    culture = filipino
+    religion =  catholic
+    size = 538
+  }
+  officers = {
+    culture = filipino
+    religion = secularism
+    size = 8
+  }
+  soldiers = {
+    culture = filipino
+    religion =  catholic
+    size = 10246
+  }
+  soldiers = {
+    culture = filipino
+    religion = secularism
+    size = 156
+  }
+  aristocrats = {
+    culture = filipino
+    religion =  catholic
+    size = 15474
+  }
+  aristocrats = {
+    culture = filipino
+    religion = secularism
+    size = 235
+  }
+  bureaucrats = {
+    culture = filipino
+    religion =  catholic
+    size = 386
+  }
+  bureaucrats = {
+    culture = filipino
+    religion = secularism
+    size = 5
+  }
+  clergymen = {
+    culture = filipino
+    religion =  catholic
+    size = 7737
+  }
+  clergymen = {
+    culture = filipino
+    religion = secularism
+    size = 117
+  }
+  artisans = {
+    culture = filipino
+    religion =  catholic
+    size = 4004
+  }
+  artisans = {
+    culture = filipino
+    religion = secularism
+    size = 60
+  }
+  farmers = {
+    culture = filipino
+    religion =  catholic
+    size = 348471
+  }
+  farmers = {
+    culture = filipino
+    religion = secularism
+    size = 5306
+  }
 }
 #Rassvet - Caloocan (2310000/577500 POPS)
 2634 = {
-	clergymen = {
-		culture = filipino
-		religion =  catholic 
-		size = 11376
-	 } 
-	clergymen = {
-		culture = filipino
-		religion = secularism
-		size = 173
-	 } 
-	farmers = {
-		culture = filipino
-		religion =  catholic 
-		size = 529018
-	 } 
-	farmers = {
-		culture = filipino
-		religion = secularism
-		size = 8056
-	 } 
-	farmers = {
-		culture = chinese
-		religion =  taoism 
-		size = 28441
-	 } 
-	farmers = {
-		culture = chinese
-		religion = secularism
-		size = 433
-	 } 
+  clergymen = {
+    culture = filipino
+    religion =  catholic
+    size = 11376
+  }
+  clergymen = {
+    culture = filipino
+    religion = secularism
+    size = 173
+  }
+  farmers = {
+    culture = filipino
+    religion =  catholic
+    size = 529018
+  }
+  farmers = {
+    culture = filipino
+    religion = secularism
+    size = 8056
+  }
+  farmers = {
+    culture = chinese
+    religion =  taoism
+    size = 28441
+  }
+  farmers = {
+    culture = chinese
+    religion = secularism
+    size = 433
+  }
 }
 #Kamenskoye - Quezon City (2310000/577500 POPS)
 2663 = {
-	clergymen = {
-		culture = filipino
-		religion =  catholic 
-		size = 11376
-	 } 
-	clergymen = {
-		culture = filipino
-		religion = secularism
-		size = 173
-	 } 
-	farmers = {
-		culture = filipino
-		religion =  catholic 
-		size = 529018
-	 } 
-	farmers = {
-		culture = filipino
-		religion = secularism
-		size = 8056
-	 } 
-	farmers = {
-		culture = chinese
-		religion =  taoism 
-		size = 28441
-	 } 
-	farmers = {
-		culture = chinese
-		religion = secularism
-		size = 433
-	 } 
+  clergymen = {
+    culture = filipino
+    religion =  catholic
+    size = 11376
+  }
+  clergymen = {
+    culture = filipino
+    religion = secularism
+    size = 173
+  }
+  farmers = {
+    culture = filipino
+    religion =  catholic
+    size = 529018
+  }
+  farmers = {
+    culture = filipino
+    religion = secularism
+    size = 8056
+  }
+  farmers = {
+    culture = chinese
+    religion =  taoism
+    size = 28441
+  }
+  farmers = {
+    culture = chinese
+    religion = secularism
+    size = 433
+  }
 }

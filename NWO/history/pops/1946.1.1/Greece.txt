@@ -1,593 +1,593 @@
 #Janina - Epirus (114000/28500 POPS)
 824 = {
-	clergymen = {
-		culture = greek
-		religion =  orthodox 
-		size = 535
-	 } 
-	clergymen = {
-		culture = greek
-		religion = secularism
-		size = 34
-	 } 
-	farmers = {
-		culture = greek
-		religion =  orthodox 
-		size = 23575
-	 } 
-	farmers = {
-		culture = greek
-		religion = secularism
-		size = 1504
-	 } 
-	farmers = {
-		culture = aromanians
-		religion =  orthodox 
-		size = 2679
-	 } 
-	farmers = {
-		culture = aromanians
-		religion = secularism
-		size = 171
-	 } 
+  clergymen = {
+    culture = greek
+    religion =  orthodox
+    size = 535
+  }
+  clergymen = {
+    culture = greek
+    religion = secularism
+    size = 34
+  }
+  farmers = {
+    culture = greek
+    religion =  orthodox
+    size = 23575
+  }
+  farmers = {
+    culture = greek
+    religion = secularism
+    size = 1504
+  }
+  farmers = {
+    culture = aromanians
+    religion =  orthodox
+    size = 2679
+  }
+  farmers = {
+    culture = aromanians
+    religion = secularism
+    size = 171
+  }
 }
 #Arta - Epirus (114000/28500 POPS)
 825 = {
-	clergymen = {
-		culture = greek
-		religion =  orthodox 
-		size = 535
-	 } 
-	clergymen = {
-		culture = greek
-		religion = secularism
-		size = 34
-	 } 
-	farmers = {
-		culture = greek
-		religion =  orthodox 
-		size = 26254
-	 } 
-	farmers = {
-		culture = greek
-		religion = secularism
-		size = 1675
-	 } 
+  clergymen = {
+    culture = greek
+    religion =  orthodox
+    size = 535
+  }
+  clergymen = {
+    culture = greek
+    religion = secularism
+    size = 34
+  }
+  farmers = {
+    culture = greek
+    religion =  orthodox
+    size = 26254
+  }
+  farmers = {
+    culture = greek
+    religion = secularism
+    size = 1675
+  }
 }
 #Corfu - Ionian Islands (72000/18000 POPS)
 826 = {
-	clergymen = {
-		culture = greek
-		religion =  orthodox 
-		size = 338
-	 } 
-	clergymen = {
-		culture = greek
-		religion = secularism
-		size = 21
-	 } 
-	farmers = {
-		culture = greek
-		religion =  orthodox 
-		size = 16581
-	 } 
-	farmers = {
-		culture = greek
-		religion = secularism
-		size = 1058
-	 } 
+  clergymen = {
+    culture = greek
+    religion =  orthodox
+    size = 338
+  }
+  clergymen = {
+    culture = greek
+    religion = secularism
+    size = 21
+  }
+  farmers = {
+    culture = greek
+    religion =  orthodox
+    size = 16581
+  }
+  farmers = {
+    culture = greek
+    religion = secularism
+    size = 1058
+  }
 }
 #Zante - Ionian Islands (72000/18000 POPS)
 827 = {
-	clergymen = {
-		culture = greek
-		religion =  orthodox 
-		size = 338
-	 } 
-	clergymen = {
-		culture = greek
-		religion = secularism
-		size = 21
-	 } 
-	farmers = {
-		culture = greek
-		religion =  orthodox 
-		size = 16581
-	 } 
-	farmers = {
-		culture = greek
-		religion = secularism
-		size = 1058
-	 } 
+  clergymen = {
+    culture = greek
+    religion =  orthodox
+    size = 338
+  }
+  clergymen = {
+    culture = greek
+    religion = secularism
+    size = 21
+  }
+  farmers = {
+    culture = greek
+    religion =  orthodox
+    size = 16581
+  }
+  farmers = {
+    culture = greek
+    religion = secularism
+    size = 1058
+  }
 }
 #Larisa - Thessaly (169000/42250 POPS)
 831 = {
-	clergymen = {
-		culture = greek
-		religion =  orthodox 
-		size = 794
-	 } 
-	clergymen = {
-		culture = greek
-		religion = secularism
-		size = 50
-	 } 
-	farmers = {
-		culture = greek
-		religion =  orthodox 
-		size = 38920
-	 } 
-	farmers = {
-		culture = greek
-		religion = secularism
-		size = 2484
-	 } 
+  clergymen = {
+    culture = greek
+    religion =  orthodox
+    size = 794
+  }
+  clergymen = {
+    culture = greek
+    religion = secularism
+    size = 50
+  }
+  farmers = {
+    culture = greek
+    religion =  orthodox
+    size = 38920
+  }
+  farmers = {
+    culture = greek
+    religion = secularism
+    size = 2484
+  }
 }
 #Volos - Thessaly (169000/42250 POPS)
 832 = {
-	clergymen = {
-		culture = greek
-		religion =  orthodox 
-		size = 794
-	 } 
-	clergymen = {
-		culture = greek
-		religion = secularism
-		size = 50
-	 } 
-	farmers = {
-		culture = greek
-		religion =  orthodox 
-		size = 38920
-	 } 
-	farmers = {
-		culture = greek
-		religion = secularism
-		size = 2484
-	 } 
+  clergymen = {
+    culture = greek
+    religion =  orthodox
+    size = 794
+  }
+  clergymen = {
+    culture = greek
+    religion = secularism
+    size = 50
+  }
+  farmers = {
+    culture = greek
+    religion =  orthodox
+    size = 38920
+  }
+  farmers = {
+    culture = greek
+    religion = secularism
+    size = 2484
+  }
 }
 #Trikkala - Thessaly (169000/42250 POPS)
 833 = {
-	clergymen = {
-		culture = greek
-		religion =  orthodox 
-		size = 794
-	 } 
-	clergymen = {
-		culture = greek
-		religion = secularism
-		size = 50
-	 } 
-	farmers = {
-		culture = greek
-		religion =  orthodox 
-		size = 25417
-	 } 
-	farmers = {
-		culture = greek
-		religion = secularism
-		size = 1622
-	 } 
-	farmers = {
-		culture = aromanians
-		religion =  orthodox 
-		size = 13503
-	 } 
-	farmers = {
-		culture = aromanians
-		religion = secularism
-		size = 861
-	 } 
+  clergymen = {
+    culture = greek
+    religion =  orthodox
+    size = 794
+  }
+  clergymen = {
+    culture = greek
+    religion = secularism
+    size = 50
+  }
+  farmers = {
+    culture = greek
+    religion =  orthodox
+    size = 25417
+  }
+  farmers = {
+    culture = greek
+    religion = secularism
+    size = 1622
+  }
+  farmers = {
+    culture = aromanians
+    religion =  orthodox
+    size = 13503
+  }
+  farmers = {
+    culture = aromanians
+    religion = secularism
+    size = 861
+  }
 }
 #Athens - Athens (2669000/667250 POPS)
 834 = {
-	officers = {
-		culture = greek
-		religion =  orthodox 
-		size = 5196
-	 } 
-	officers = {
-		culture = greek
-		religion = secularism
-		size = 331
-	 } 
-	soldiers = {
-		culture = greek
-		religion =  orthodox 
-		size = 98734
-	 } 
-	soldiers = {
-		culture = greek
-		religion = secularism
-		size = 6302
-	 } 
-	aristocrats = {
-		culture = greek
-		religion =  orthodox 
-		size = 25088
-	 } 
-	aristocrats = {
-		culture = greek
-		religion = secularism
-		size = 1601
-	 } 
-	bureaucrats = {
-		culture = greek
-		religion =  orthodox 
-		size = 626
-	 } 
-	bureaucrats = {
-		culture = greek
-		religion = secularism
-		size = 40
-	 } 
-	capitalists = {
-		culture = greek
-		religion =  orthodox 
-		size = 3135
-	 } 
-	capitalists = {
-		culture = greek
-		religion = secularism
-		size = 200
-	 } 
-	clergymen = {
-		culture = greek
-		religion =  orthodox 
-		size = 12544
-	 } 
-	clergymen = {
-		culture = greek
-		religion = secularism
-		size = 800
-	 } 
-	clerks = {
-		culture = greek
-		religion =  orthodox 
-		size = 10947
-	 } 
-	clerks = {
-		culture = greek
-		religion = secularism
-		size = 698
-	 } 
-	artisans = {
-		culture = greek
-		religion =  orthodox 
-		size = 10400
-	 } 
-	artisans = {
-		culture = greek
-		religion = secularism
-		size = 663
-	 } 
-	craftsmen = {
-		culture = greek
-		religion =  orthodox 
-		size = 32842
-	 } 
-	craftsmen = {
-		culture = greek
-		religion = secularism
-		size = 2096
-	 } 
-	farmers = {
-		culture = greek
-		religion =  orthodox 
-		size = 371248
-	 } 
-	farmers = {
-		culture = greek
-		religion = secularism
-		size = 23696
-	 } 
-	farmers = {
-		culture = albanian
-		religion =  sunni 
-		size = 56049
-	 } 
-	farmers = {
-		culture = indian_muslim
-		religion =  sunni 
-		size = 4003
-	 } 
+  officers = {
+    culture = greek
+    religion =  orthodox
+    size = 5196
+  }
+  officers = {
+    culture = greek
+    religion = secularism
+    size = 331
+  }
+  soldiers = {
+    culture = greek
+    religion =  orthodox
+    size = 98734
+  }
+  soldiers = {
+    culture = greek
+    religion = secularism
+    size = 6302
+  }
+  aristocrats = {
+    culture = greek
+    religion =  orthodox
+    size = 25088
+  }
+  aristocrats = {
+    culture = greek
+    religion = secularism
+    size = 1601
+  }
+  bureaucrats = {
+    culture = greek
+    religion =  orthodox
+    size = 626
+  }
+  bureaucrats = {
+    culture = greek
+    religion = secularism
+    size = 40
+  }
+  capitalists = {
+    culture = greek
+    religion =  orthodox
+    size = 3135
+  }
+  capitalists = {
+    culture = greek
+    religion = secularism
+    size = 200
+  }
+  clergymen = {
+    culture = greek
+    religion =  orthodox
+    size = 12544
+  }
+  clergymen = {
+    culture = greek
+    religion = secularism
+    size = 800
+  }
+  clerks = {
+    culture = greek
+    religion =  orthodox
+    size = 10947
+  }
+  clerks = {
+    culture = greek
+    religion = secularism
+    size = 698
+  }
+  artisans = {
+    culture = greek
+    religion =  orthodox
+    size = 10400
+  }
+  artisans = {
+    culture = greek
+    religion = secularism
+    size = 663
+  }
+  craftsmen = {
+    culture = greek
+    religion =  orthodox
+    size = 32842
+  }
+  craftsmen = {
+    culture = greek
+    religion = secularism
+    size = 2096
+  }
+  farmers = {
+    culture = greek
+    religion =  orthodox
+    size = 371248
+  }
+  farmers = {
+    culture = greek
+    religion = secularism
+    size = 23696
+  }
+  farmers = {
+    culture = albanian
+    religion =  sunni
+    size = 56049
+  }
+  farmers = {
+    culture = indian_muslim
+    religion =  sunni
+    size = 4003
+  }
 }
 #Amfissa - Central Greece (127000/31750 POPS)
 835 = {
-	clergymen = {
-		culture = greek
-		religion =  orthodox 
-		size = 596
-	 } 
-	clergymen = {
-		culture = greek
-		religion = secularism
-		size = 38
-	 } 
-	farmers = {
-		culture = greek
-		religion =  orthodox 
-		size = 29248
-	 } 
-	farmers = {
-		culture = greek
-		religion = secularism
-		size = 1866
-	 } 
+  clergymen = {
+    culture = greek
+    religion =  orthodox
+    size = 596
+  }
+  clergymen = {
+    culture = greek
+    religion = secularism
+    size = 38
+  }
+  farmers = {
+    culture = greek
+    religion =  orthodox
+    size = 29248
+  }
+  farmers = {
+    culture = greek
+    religion = secularism
+    size = 1866
+  }
 }
 #Lamia - Central Greece (127000/31750 POPS)
 836 = {
-	clergymen = {
-		culture = greek
-		religion =  orthodox 
-		size = 596
-	 } 
-	clergymen = {
-		culture = greek
-		religion = secularism
-		size = 38
-	 } 
-	farmers = {
-		culture = greek
-		religion =  orthodox 
-		size = 29248
-	 } 
-	farmers = {
-		culture = greek
-		religion = secularism
-		size = 1866
-	 } 
+  clergymen = {
+    culture = greek
+    religion =  orthodox
+    size = 596
+  }
+  clergymen = {
+    culture = greek
+    religion = secularism
+    size = 38
+  }
+  farmers = {
+    culture = greek
+    religion =  orthodox
+    size = 29248
+  }
+  farmers = {
+    culture = greek
+    religion = secularism
+    size = 1866
+  }
 }
 #Missolonghi - West Greece (237000/59250 POPS)
 837 = {
-	clergymen = {
-		culture = greek
-		religion =  orthodox 
-		size = 1113
-	 } 
-	clergymen = {
-		culture = greek
-		religion = secularism
-		size = 71
-	 } 
-	farmers = {
-		culture = greek
-		religion =  orthodox 
-		size = 54581
-	 } 
-	farmers = {
-		culture = greek
-		religion = secularism
-		size = 3483
-	 } 
+  clergymen = {
+    culture = greek
+    religion =  orthodox
+    size = 1113
+  }
+  clergymen = {
+    culture = greek
+    religion = secularism
+    size = 71
+  }
+  farmers = {
+    culture = greek
+    religion =  orthodox
+    size = 54581
+  }
+  farmers = {
+    culture = greek
+    religion = secularism
+    size = 3483
+  }
 }
 #Khalkis - Central Greece (127000/31750 POPS)
 838 = {
-	clergymen = {
-		culture = greek
-		religion =  orthodox 
-		size = 596
-	 } 
-	clergymen = {
-		culture = greek
-		religion = secularism
-		size = 38
-	 } 
-	farmers = {
-		culture = greek
-		religion =  orthodox 
-		size = 29248
-	 } 
-	farmers = {
-		culture = greek
-		religion = secularism
-		size = 1866
-	 } 
+  clergymen = {
+    culture = greek
+    religion =  orthodox
+    size = 596
+  }
+  clergymen = {
+    culture = greek
+    religion = secularism
+    size = 38
+  }
+  farmers = {
+    culture = greek
+    religion =  orthodox
+    size = 29248
+  }
+  farmers = {
+    culture = greek
+    religion = secularism
+    size = 1866
+  }
 }
 #Nafplion - Peloponnese (135000/33750 POPS)
 839 = {
-	clergymen = {
-		culture = greek
-		religion =  orthodox 
-		size = 634
-	 } 
-	clergymen = {
-		culture = greek
-		religion = secularism
-		size = 40
-	 } 
-	farmers = {
-		culture = greek
-		religion =  orthodox 
-		size = 31090
-	 } 
-	farmers = {
-		culture = greek
-		religion = secularism
-		size = 1984
-	 } 
+  clergymen = {
+    culture = greek
+    religion =  orthodox
+    size = 634
+  }
+  clergymen = {
+    culture = greek
+    religion = secularism
+    size = 40
+  }
+  farmers = {
+    culture = greek
+    religion =  orthodox
+    size = 31090
+  }
+  farmers = {
+    culture = greek
+    religion = secularism
+    size = 1984
+  }
 }
 #Corinth - Peloponnese (135000/33750 POPS)
 840 = {
-	clergymen = {
-		culture = greek
-		religion =  orthodox 
-		size = 634
-	 } 
-	clergymen = {
-		culture = greek
-		religion = secularism
-		size = 40
-	 } 
-	farmers = {
-		culture = greek
-		religion =  orthodox 
-		size = 31090
-	 } 
-	farmers = {
-		culture = greek
-		religion = secularism
-		size = 1984
-	 } 
+  clergymen = {
+    culture = greek
+    religion =  orthodox
+    size = 634
+  }
+  clergymen = {
+    culture = greek
+    religion = secularism
+    size = 40
+  }
+  farmers = {
+    culture = greek
+    religion =  orthodox
+    size = 31090
+  }
+  farmers = {
+    culture = greek
+    religion = secularism
+    size = 1984
+  }
 }
 #Kalamata - Peloponnese (135000/33750 POPS)
 841 = {
-	clergymen = {
-		culture = greek
-		religion =  orthodox 
-		size = 634
-	 } 
-	clergymen = {
-		culture = greek
-		religion = secularism
-		size = 40
-	 } 
-	farmers = {
-		culture = greek
-		religion =  orthodox 
-		size = 31090
-	 } 
-	farmers = {
-		culture = greek
-		religion = secularism
-		size = 1984
-	 } 
+  clergymen = {
+    culture = greek
+    religion =  orthodox
+    size = 634
+  }
+  clergymen = {
+    culture = greek
+    religion = secularism
+    size = 40
+  }
+  farmers = {
+    culture = greek
+    religion =  orthodox
+    size = 31090
+  }
+  farmers = {
+    culture = greek
+    religion = secularism
+    size = 1984
+  }
 }
 #Patras - West Greece (237000/59250 POPS)
 842 = {
-	clergymen = {
-		culture = greek
-		religion =  orthodox 
-		size = 1113
-	 } 
-	clergymen = {
-		culture = greek
-		religion = secularism
-		size = 71
-	 } 
-	farmers = {
-		culture = greek
-		religion =  orthodox 
-		size = 54581
-	 } 
-	farmers = {
-		culture = greek
-		religion = secularism
-		size = 3483
-	 } 
+  clergymen = {
+    culture = greek
+    religion =  orthodox
+    size = 1113
+  }
+  clergymen = {
+    culture = greek
+    religion = secularism
+    size = 71
+  }
+  farmers = {
+    culture = greek
+    religion =  orthodox
+    size = 54581
+  }
+  farmers = {
+    culture = greek
+    religion = secularism
+    size = 3483
+  }
 }
 #Chios - South Aegean (72000/18000 POPS)
 843 = {
-	clergymen = {
-		culture = greek
-		religion =  orthodox 
-		size = 338
-	 } 
-	clergymen = {
-		culture = greek
-		religion = secularism
-		size = 21
-	 } 
-	farmers = {
-		culture = greek
-		religion =  orthodox 
-		size = 16581
-	 } 
-	farmers = {
-		culture = greek
-		religion = secularism
-		size = 1058
-	 } 
+  clergymen = {
+    culture = greek
+    religion =  orthodox
+    size = 338
+  }
+  clergymen = {
+    culture = greek
+    religion = secularism
+    size = 21
+  }
+  farmers = {
+    culture = greek
+    religion =  orthodox
+    size = 16581
+  }
+  farmers = {
+    culture = greek
+    religion = secularism
+    size = 1058
+  }
 }
 #Myteline - North Aegean (137000/34250 POPS)
 844 = {
-	clergymen = {
-		culture = greek
-		religion =  orthodox 
-		size = 643
-	 } 
-	clergymen = {
-		culture = greek
-		religion = secularism
-		size = 41
-	 } 
-	farmers = {
-		culture = greek
-		religion =  orthodox 
-		size = 31551
-	 } 
-	farmers = {
-		culture = greek
-		religion = secularism
-		size = 2013
-	 } 
+  clergymen = {
+    culture = greek
+    religion =  orthodox
+    size = 643
+  }
+  clergymen = {
+    culture = greek
+    religion = secularism
+    size = 41
+  }
+  farmers = {
+    culture = greek
+    religion =  orthodox
+    size = 31551
+  }
+  farmers = {
+    culture = greek
+    religion = secularism
+    size = 2013
+  }
 }
 #Cyclades - South Aegean (72000/18000 POPS)
 845 = {
-	clergymen = {
-		culture = greek
-		religion =  orthodox 
-		size = 338
-	 } 
-	clergymen = {
-		culture = greek
-		religion = secularism
-		size = 21
-	 } 
-	farmers = {
-		culture = greek
-		religion =  orthodox 
-		size = 16581
-	 } 
-	farmers = {
-		culture = greek
-		religion = secularism
-		size = 1058
-	 } 
+  clergymen = {
+    culture = greek
+    religion =  orthodox
+    size = 338
+  }
+  clergymen = {
+    culture = greek
+    religion = secularism
+    size = 21
+  }
+  farmers = {
+    culture = greek
+    religion =  orthodox
+    size = 16581
+  }
+  farmers = {
+    culture = greek
+    religion = secularism
+    size = 1058
+  }
 }
 #Chania - Crete (216000/54000 POPS)
 847 = {
-	clergymen = {
-		culture = greek
-		religion =  orthodox 
-		size = 1015
-	 } 
-	clergymen = {
-		culture = greek
-		religion = secularism
-		size = 64
-	 } 
-	farmers = {
-		culture = greek
-		religion =  orthodox 
-		size = 49744
-	 } 
-	farmers = {
-		culture = greek
-		religion = secularism
-		size = 3175
-	 } 
+  clergymen = {
+    culture = greek
+    religion =  orthodox
+    size = 1015
+  }
+  clergymen = {
+    culture = greek
+    religion = secularism
+    size = 64
+  }
+  farmers = {
+    culture = greek
+    religion =  orthodox
+    size = 49744
+  }
+  farmers = {
+    culture = greek
+    religion = secularism
+    size = 3175
+  }
 }
 #Iraklion - Crete (216000/54000 POPS)
 848 = {
-	clergymen = {
-		culture = greek
-		religion =  orthodox 
-		size = 1015
-	 } 
-	clergymen = {
-		culture = greek
-		religion = secularism
-		size = 64
-	 } 
-	farmers = {
-		culture = greek
-		religion =  orthodox 
-		size = 49744
-	 } 
-	farmers = {
-		culture = greek
-		religion = secularism
-		size = 3175
-	 } 
+  clergymen = {
+    culture = greek
+    religion =  orthodox
+    size = 1015
+  }
+  clergymen = {
+    culture = greek
+    religion = secularism
+    size = 64
+  }
+  farmers = {
+    culture = greek
+    religion =  orthodox
+    size = 49744
+  }
+  farmers = {
+    culture = greek
+    religion = secularism
+    size = 3175
+  }
 }

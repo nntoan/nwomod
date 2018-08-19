@@ -7,30 +7,30 @@ terrain = hilly_farmland
 colonial = 0
 naval_base = 2
 state_building = {
-	level = 1
-	building = fabric_factory
-	upgrade = yes
+  level = 1
+  building = fabric_factory
+  upgrade = yes
 }
 1992.1.1 = {
-owner = JAP
-controller = JAP
-add_core = JAP
-railroad = 2
-colonial = 0
-naval_base = 4
-state_building = {
-	level = 1
-	building = home_appliance_factory
-	upgrade = yes
-}
-state_building = {
-	level = 1
-	building = clothes_factory
-	upgrade = yes
-}
-state_building = {
-	level = 1
-	building = paper_factory
-	upgrade = yes
-}
+  owner = JAP
+  controller = JAP
+  add_core = JAP
+  railroad = 2
+  colonial = 0
+  naval_base = 4
+  state_building = {
+    level = 1
+    building = home_appliance_factory
+    upgrade = yes
+  }
+  state_building = {
+    level = 1
+    building = clothes_factory
+    upgrade = yes
+  }
+  state_building = {
+    level = 1
+    building = paper_factory
+    upgrade = yes
+  }
 }

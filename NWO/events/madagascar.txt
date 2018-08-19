@@ -8,14 +8,14 @@ country_event = {
   trigger = {
     tag = MAD
     year = 1953 NOT = { year = 1990 }
-	exists = yes
+    exists = yes
   }
 
   mean_time_to_happen = { months = 11 }
 
   option = {
     name = EVT_8009111_A
-	define_general = { name = "Philibert Tsiranana" personality = energetic background = no_background }
+    define_general = { name = "Philibert Tsiranana" personality = energetic background = no_background }
   }
 }
 
@@ -31,14 +31,14 @@ province_event = { # Madagascar
   trigger = {
     NOT = { owned_by = MAD }
     year = 1946 NOT = { year = 1948 }
-    is_core = MAD  
+    is_core = MAD
   }
 
   mean_time_to_happen = { months = 3 }
 
   option = {
     name = OK
-	any_pop = { militancy = 3.0  consciousness = 2 }
+    any_pop = { militancy = 3.0  consciousness = 2 }
   }
 }
 

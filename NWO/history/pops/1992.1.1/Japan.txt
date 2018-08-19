@@ -1,1992 +1,1992 @@
 #Hiroshima - Hiroshima (2967000/741750 POPS)
 1638 = {
-	officers = {
-		culture = japanese
-		religion =  shinto 
-		size = 413
-	 } 
-	officers = {
-		culture = japanese
-		religion = secularism
-		size = 1011
-	 } 
-	soldiers = {
-		culture = japanese
-		religion =  shinto 
-		size = 7852
-	 } 
-	soldiers = {
-		culture = japanese
-		religion = secularism
-		size = 19224
-	 } 
-	aristocrats = {
-		culture = japanese
-		religion =  shinto 
-		size = 4302
-	 } 
-	aristocrats = {
-		culture = japanese
-		religion = secularism
-		size = 10532
-	 } 
-	bureaucrats = {
-		culture = japanese
-		religion =  shinto 
-		size = 1290
-	 } 
-	bureaucrats = {
-		culture = japanese
-		religion = secularism
-		size = 3159
-	 } 
-	capitalists = {
-		culture = japanese
-		religion =  shinto 
-		size = 1290
-	 } 
-	capitalists = {
-		culture = japanese
-		religion = secularism
-		size = 3159
-	 } 
-	clergymen = {
-		culture = japanese
-		religion =  shinto 
-		size = 8604
-	 } 
-	clergymen = {
-		culture = japanese
-		religion = secularism
-		size = 21065
-	 } 
-	clerks = {
-		culture = japanese
-		religion =  shinto 
-		size = 7009
-	 } 
-	clerks = {
-		culture = japanese
-		religion = secularism
-		size = 17162
-	 } 
-	artisans = {
-		culture = japanese
-		religion =  shinto 
-		size = 5958
-	 } 
-	artisans = {
-		culture = japanese
-		religion = secularism
-		size = 14587
-	 } 
-	craftsmen = {
-		culture = japanese
-		religion =  shinto 
-		size = 21380
-	 } 
-	craftsmen = {
-		culture = japanese
-		religion = secularism
-		size = 52344
-	 } 
-	farmers = {
-		culture = japanese
-		religion =  shinto 
-		size = 157006
-	 } 
-	farmers = {
-		culture = japanese
-		religion = secularism
-		size = 384394
-	 } 
+  officers = {
+    culture = japanese
+    religion =  shinto
+    size = 413
+  }
+  officers = {
+    culture = japanese
+    religion = secularism
+    size = 1011
+  }
+  soldiers = {
+    culture = japanese
+    religion =  shinto
+    size = 7852
+  }
+  soldiers = {
+    culture = japanese
+    religion = secularism
+    size = 19224
+  }
+  aristocrats = {
+    culture = japanese
+    religion =  shinto
+    size = 4302
+  }
+  aristocrats = {
+    culture = japanese
+    religion = secularism
+    size = 10532
+  }
+  bureaucrats = {
+    culture = japanese
+    religion =  shinto
+    size = 1290
+  }
+  bureaucrats = {
+    culture = japanese
+    religion = secularism
+    size = 3159
+  }
+  capitalists = {
+    culture = japanese
+    religion =  shinto
+    size = 1290
+  }
+  capitalists = {
+    culture = japanese
+    religion = secularism
+    size = 3159
+  }
+  clergymen = {
+    culture = japanese
+    religion =  shinto
+    size = 8604
+  }
+  clergymen = {
+    culture = japanese
+    religion = secularism
+    size = 21065
+  }
+  clerks = {
+    culture = japanese
+    religion =  shinto
+    size = 7009
+  }
+  clerks = {
+    culture = japanese
+    religion = secularism
+    size = 17162
+  }
+  artisans = {
+    culture = japanese
+    religion =  shinto
+    size = 5958
+  }
+  artisans = {
+    culture = japanese
+    religion = secularism
+    size = 14587
+  }
+  craftsmen = {
+    culture = japanese
+    religion =  shinto
+    size = 21380
+  }
+  craftsmen = {
+    culture = japanese
+    religion = secularism
+    size = 52344
+  }
+  farmers = {
+    culture = japanese
+    religion =  shinto
+    size = 157006
+  }
+  farmers = {
+    culture = japanese
+    religion = secularism
+    size = 384394
+  }
 }
 #Okayama - Okayama (2010000/502500 POPS)
 1639 = {
-	clergymen = {
-		culture = japanese
-		religion =  shinto 
-		size = 5829
-	 } 
-	clergymen = {
-		culture = japanese
-		religion = secularism
-		size = 14271
-	 } 
-	farmers = {
-		culture = japanese
-		religion =  shinto 
-		size = 139896
-	 } 
-	farmers = {
-		culture = japanese
-		religion = secularism
-		size = 342504
-	 } 
+  clergymen = {
+    culture = japanese
+    religion =  shinto
+    size = 5829
+  }
+  clergymen = {
+    culture = japanese
+    religion = secularism
+    size = 14271
+  }
+  farmers = {
+    culture = japanese
+    religion =  shinto
+    size = 139896
+  }
+  farmers = {
+    culture = japanese
+    religion = secularism
+    size = 342504
+  }
 }
 #Yamaguchi - Yamaguchi (1575000/393750 POPS)
 1640 = {
-	clergymen = {
-		culture = japanese
-		religion =  shinto 
-		size = 4567
-	 } 
-	clergymen = {
-		culture = japanese
-		religion = secularism
-		size = 11182
-	 } 
-	farmers = {
-		culture = japanese
-		religion =  shinto 
-		size = 109620
-	 } 
-	farmers = {
-		culture = japanese
-		religion = secularism
-		size = 268380
-	 } 
+  clergymen = {
+    culture = japanese
+    religion =  shinto
+    size = 4567
+  }
+  clergymen = {
+    culture = japanese
+    religion = secularism
+    size = 11182
+  }
+  farmers = {
+    culture = japanese
+    religion =  shinto
+    size = 109620
+  }
+  farmers = {
+    culture = japanese
+    religion = secularism
+    size = 268380
+  }
 }
 #Matsue - Matsue (784000/196000 POPS)
 1641 = {
-	clergymen = {
-		culture = japanese
-		religion =  shinto 
-		size = 2273
-	 } 
-	clergymen = {
-		culture = japanese
-		religion = secularism
-		size = 5566
-	 } 
-	farmers = {
-		culture = japanese
-		religion =  shinto 
-		size = 54566
-	 } 
-	farmers = {
-		culture = japanese
-		religion = secularism
-		size = 133593
-	 } 
+  clergymen = {
+    culture = japanese
+    religion =  shinto
+    size = 2273
+  }
+  clergymen = {
+    culture = japanese
+    religion = secularism
+    size = 5566
+  }
+  farmers = {
+    culture = japanese
+    religion =  shinto
+    size = 54566
+  }
+  farmers = {
+    culture = japanese
+    religion = secularism
+    size = 133593
+  }
 }
 #Hakodate - Hakodate (4828000/1207000 POPS)
 1642 = {
-	officers = {
-		culture = japanese
-		religion =  shinto 
-		size = 248
-	 } 
-	officers = {
-		culture = japanese
-		religion = secularism
-		size = 609
-	 } 
-	soldiers = {
-		culture = japanese
-		religion =  shinto 
-		size = 4727
-	 } 
-	soldiers = {
-		culture = japanese
-		religion = secularism
-		size = 11574
-	 } 
-	aristocrats = {
-		culture = japanese
-		religion =  shinto 
-		size = 7000
-	 } 
-	aristocrats = {
-		culture = japanese
-		religion = secularism
-		size = 17139
-	 } 
-	bureaucrats = {
-		culture = japanese
-		religion =  shinto 
-		size = 2100
-	 } 
-	bureaucrats = {
-		culture = japanese
-		religion = secularism
-		size = 5141
-	 } 
-	capitalists = {
-		culture = japanese
-		religion =  shinto 
-		size = 2100
-	 } 
-	capitalists = {
-		culture = japanese
-		religion = secularism
-		size = 5141
-	 } 
-	clergymen = {
-		culture = japanese
-		religion =  shinto 
-		size = 14001
-	 } 
-	clergymen = {
-		culture = japanese
-		religion = secularism
-		size = 34278
-	 } 
-	clerks = {
-		culture = japanese
-		religion =  shinto 
-		size = 11693
-	 } 
-	clerks = {
-		culture = japanese
-		religion = secularism
-		size = 28630
-	 } 
-	artisans = {
-		culture = japanese
-		religion =  shinto 
-		size = 9939
-	 } 
-	artisans = {
-		culture = japanese
-		religion = secularism
-		size = 24335
-	 } 
-	craftsmen = {
-		culture = japanese
-		religion =  shinto 
-		size = 35666
-	 } 
-	craftsmen = {
-		culture = japanese
-		religion = secularism
-		size = 87321
-	 } 
-	farmers = {
-		culture = japanese
-		religion =  shinto 
-		size = 262551
-	 } 
-	farmers = {
-		culture = japanese
-		religion = secularism
-		size = 642797
-	 } 
+  officers = {
+    culture = japanese
+    religion =  shinto
+    size = 248
+  }
+  officers = {
+    culture = japanese
+    religion = secularism
+    size = 609
+  }
+  soldiers = {
+    culture = japanese
+    religion =  shinto
+    size = 4727
+  }
+  soldiers = {
+    culture = japanese
+    religion = secularism
+    size = 11574
+  }
+  aristocrats = {
+    culture = japanese
+    religion =  shinto
+    size = 7000
+  }
+  aristocrats = {
+    culture = japanese
+    religion = secularism
+    size = 17139
+  }
+  bureaucrats = {
+    culture = japanese
+    religion =  shinto
+    size = 2100
+  }
+  bureaucrats = {
+    culture = japanese
+    religion = secularism
+    size = 5141
+  }
+  capitalists = {
+    culture = japanese
+    religion =  shinto
+    size = 2100
+  }
+  capitalists = {
+    culture = japanese
+    religion = secularism
+    size = 5141
+  }
+  clergymen = {
+    culture = japanese
+    religion =  shinto
+    size = 14001
+  }
+  clergymen = {
+    culture = japanese
+    religion = secularism
+    size = 34278
+  }
+  clerks = {
+    culture = japanese
+    religion =  shinto
+    size = 11693
+  }
+  clerks = {
+    culture = japanese
+    religion = secularism
+    size = 28630
+  }
+  artisans = {
+    culture = japanese
+    religion =  shinto
+    size = 9939
+  }
+  artisans = {
+    culture = japanese
+    religion = secularism
+    size = 24335
+  }
+  craftsmen = {
+    culture = japanese
+    religion =  shinto
+    size = 35666
+  }
+  craftsmen = {
+    culture = japanese
+    religion = secularism
+    size = 87321
+  }
+  farmers = {
+    culture = japanese
+    religion =  shinto
+    size = 262551
+  }
+  farmers = {
+    culture = japanese
+    religion = secularism
+    size = 642797
+  }
 }
 #Ishikara - Ishikara (515000/128750 POPS)
 1643 = {
-	clergymen = {
-		culture = japanese
-		religion =  shinto 
-		size = 1493
-	 } 
-	clergymen = {
-		culture = japanese
-		religion = secularism
-		size = 3656
-	 } 
-	farmers = {
-		culture = japanese
-		religion =  shinto 
-		size = 33976
-	 } 
-	farmers = {
-		culture = japanese
-		religion = secularism
-		size = 83185
-	 } 
-	farmers = {
-		culture = ainu
-		religion =  shinto 
-		size = 1866
-	 } 
-	farmers = {
-		culture = ainu
-		religion = secularism
-		size = 4570
-	 } 
+  clergymen = {
+    culture = japanese
+    religion =  shinto
+    size = 1493
+  }
+  clergymen = {
+    culture = japanese
+    religion = secularism
+    size = 3656
+  }
+  farmers = {
+    culture = japanese
+    religion =  shinto
+    size = 33976
+  }
+  farmers = {
+    culture = japanese
+    religion = secularism
+    size = 83185
+  }
+  farmers = {
+    culture = ainu
+    religion =  shinto
+    size = 1866
+  }
+  farmers = {
+    culture = ainu
+    religion = secularism
+    size = 4570
+  }
 }
 #Nemuru - Nemuru (515000/128750 POPS)
 1644 = {
-	clergymen = {
-		culture = japanese
-		religion =  shinto 
-		size = 1493
-	 } 
-	clergymen = {
-		culture = japanese
-		religion = secularism
-		size = 3656
-	 } 
-	farmers = {
-		culture = japanese
-		religion =  shinto 
-		size = 33976
-	 } 
-	farmers = {
-		culture = japanese
-		religion = secularism
-		size = 83185
-	 } 
-	farmers = {
-		culture = ainu
-		religion =  shinto 
-		size = 1866
-	 } 
-	farmers = {
-		culture = ainu
-		religion = secularism
-		size = 4570
-	 } 
+  clergymen = {
+    culture = japanese
+    religion =  shinto
+    size = 1493
+  }
+  clergymen = {
+    culture = japanese
+    religion = secularism
+    size = 3656
+  }
+  farmers = {
+    culture = japanese
+    religion =  shinto
+    size = 33976
+  }
+  farmers = {
+    culture = japanese
+    religion = secularism
+    size = 83185
+  }
+  farmers = {
+    culture = ainu
+    religion =  shinto
+    size = 1866
+  }
+  farmers = {
+    culture = ainu
+    religion = secularism
+    size = 4570
+  }
 }
 #Niigata - Niigata (2552000/638000 POPS)
 1645 = {
-	clergymen = {
-		culture = japanese
-		religion =  shinto 
-		size = 7400
-	 } 
-	clergymen = {
-		culture = japanese
-		religion = secularism
-		size = 18119
-	 } 
-	farmers = {
-		culture = japanese
-		religion =  shinto 
-		size = 177619
-	 } 
-	farmers = {
-		culture = japanese
-		religion = secularism
-		size = 434860
-	 } 
+  clergymen = {
+    culture = japanese
+    religion =  shinto
+    size = 7400
+  }
+  clergymen = {
+    culture = japanese
+    religion = secularism
+    size = 18119
+  }
+  farmers = {
+    culture = japanese
+    religion =  shinto
+    size = 177619
+  }
+  farmers = {
+    culture = japanese
+    religion = secularism
+    size = 434860
+  }
 }
 #Kanazawa - Kanazawa (8754000/2188500 POPS)
 1646 = {
-	clergymen = {
-		culture = japanese
-		religion =  shinto 
-		size = 25386
-	 } 
-	clergymen = {
-		culture = japanese
-		religion = secularism
-		size = 62153
-	 } 
-	farmers = {
-		culture = japanese
-		religion =  shinto 
-		size = 1050479
-	 } 
-	farmers = {
-		culture = japanese
-		religion = secularism
-		size = 1050479
-	 } 
+  clergymen = {
+    culture = japanese
+    religion =  shinto
+    size = 25386
+  }
+  clergymen = {
+    culture = japanese
+    religion = secularism
+    size = 62153
+  }
+  farmers = {
+    culture = japanese
+    religion =  shinto
+    size = 1050479
+  }
+  farmers = {
+    culture = japanese
+    religion = secularism
+    size = 1050479
+  }
 }
 #Fukui - Fukui (853000/213250 POPS)
 1647 = {
-	clergymen = {
-		culture = japanese
-		religion =  shinto 
-		size = 2473
-	 } 
-	clergymen = {
-		culture = japanese
-		religion = secularism
-		size = 6056
-	 } 
-	farmers = {
-		culture = japanese
-		religion =  shinto 
-		size = 59368
-	 } 
-	farmers = {
-		culture = japanese
-		religion = secularism
-		size = 145351
-	 } 
+  clergymen = {
+    culture = japanese
+    religion =  shinto
+    size = 2473
+  }
+  clergymen = {
+    culture = japanese
+    religion = secularism
+    size = 6056
+  }
+  farmers = {
+    culture = japanese
+    religion =  shinto
+    size = 59368
+  }
+  farmers = {
+    culture = japanese
+    religion = secularism
+    size = 145351
+  }
 }
 #Toyama - Toyama (1154000/288500 POPS)
 1648 = {
-	clergymen = {
-		culture = japanese
-		religion =  shinto 
-		size = 3346
-	 } 
-	clergymen = {
-		culture = japanese
-		religion = secularism
-		size = 8193
-	 } 
-	farmers = {
-		culture = japanese
-		religion =  shinto 
-		size = 80318
-	 } 
-	farmers = {
-		culture = japanese
-		religion = secularism
-		size = 196641
-	 } 
+  clergymen = {
+    culture = japanese
+    religion =  shinto
+    size = 3346
+  }
+  clergymen = {
+    culture = japanese
+    religion = secularism
+    size = 8193
+  }
+  farmers = {
+    culture = japanese
+    religion =  shinto
+    size = 80318
+  }
+  farmers = {
+    culture = japanese
+    religion = secularism
+    size = 196641
+  }
 }
 #Edo - Edo (12435000/3108750 POPS)
 1649 = {
-	officers = {
-		culture = japanese
-		religion =  shinto 
-		size = 1731
-	 } 
-	officers = {
-		culture = japanese
-		religion = secularism
-		size = 4240
-	 } 
-	soldiers = {
-		culture = japanese
-		religion =  shinto 
-		size = 32910
-	 } 
-	soldiers = {
-		culture = japanese
-		religion = secularism
-		size = 80574
-	 } 
-	aristocrats = {
-		culture = japanese
-		religion =  shinto 
-		size = 18030
-	 } 
-	aristocrats = {
-		culture = japanese
-		religion = secularism
-		size = 44144
-	 } 
-	bureaucrats = {
-		culture = japanese
-		religion =  shinto 
-		size = 5409
-	 } 
-	bureaucrats = {
-		culture = japanese
-		religion = secularism
-		size = 13242
-	 } 
-	capitalists = {
-		culture = japanese
-		religion =  shinto 
-		size = 5409
-	 } 
-	capitalists = {
-		culture = japanese
-		religion = secularism
-		size = 13242
-	 } 
-	clergymen = {
-		culture = japanese
-		religion =  shinto 
-		size = 36061
-	 } 
-	clergymen = {
-		culture = japanese
-		religion = secularism
-		size = 88288
-	 } 
-	clerks = {
-		culture = japanese
-		religion =  shinto 
-		size = 29379
-	 } 
-	clerks = {
-		culture = japanese
-		religion = secularism
-		size = 71928
-	 } 
-	artisans = {
-		culture = japanese
-		religion =  shinto 
-		size = 24972
-	 } 
-	artisans = {
-		culture = japanese
-		religion = secularism
-		size = 61139
-	 } 
-	craftsmen = {
-		culture = japanese
-		religion =  shinto 
-		size = 89607
-	 } 
-	craftsmen = {
-		culture = japanese
-		religion = secularism
-		size = 219383
-	 } 
-	farmers = {
-		culture = japanese
-		religion =  shinto 
-		size = 504763
-	 } 
-	farmers = {
-		culture = japanese
-		religion = secularism
-		size = 1235801
-	 } 
-	farmers = {
-		culture = chinese
-		religion =  taoism 
-		size = 36061
-	 } 
-	farmers = {
-		culture = chinese
-		religion = secularism
-		size = 88288
-	 } 
-	farmers = {
-		culture = korean
-		religion =  taoism 
-		size = 45076
-	 } 
-	farmers = {
-		culture = korean
-		religion = secularism
-		size = 110360
-	 } 
-	farmers = {
-		culture = filipino
-		religion =  catholic 
-		size = 54092
-	 } 
-	farmers = {
-		culture = filipino
-		religion = secularism
-		size = 132432
-	 } 
-	farmers = {
-		culture = ryukyuan
-		religion =  shinto 
-		size = 18030
-	 } 
-	farmers = {
-		culture = ryukyuan
-		religion = secularism
-		size = 44144
-	 } 
+  officers = {
+    culture = japanese
+    religion =  shinto
+    size = 1731
+  }
+  officers = {
+    culture = japanese
+    religion = secularism
+    size = 4240
+  }
+  soldiers = {
+    culture = japanese
+    religion =  shinto
+    size = 32910
+  }
+  soldiers = {
+    culture = japanese
+    religion = secularism
+    size = 80574
+  }
+  aristocrats = {
+    culture = japanese
+    religion =  shinto
+    size = 18030
+  }
+  aristocrats = {
+    culture = japanese
+    religion = secularism
+    size = 44144
+  }
+  bureaucrats = {
+    culture = japanese
+    religion =  shinto
+    size = 5409
+  }
+  bureaucrats = {
+    culture = japanese
+    religion = secularism
+    size = 13242
+  }
+  capitalists = {
+    culture = japanese
+    religion =  shinto
+    size = 5409
+  }
+  capitalists = {
+    culture = japanese
+    religion = secularism
+    size = 13242
+  }
+  clergymen = {
+    culture = japanese
+    religion =  shinto
+    size = 36061
+  }
+  clergymen = {
+    culture = japanese
+    religion = secularism
+    size = 88288
+  }
+  clerks = {
+    culture = japanese
+    religion =  shinto
+    size = 29379
+  }
+  clerks = {
+    culture = japanese
+    religion = secularism
+    size = 71928
+  }
+  artisans = {
+    culture = japanese
+    religion =  shinto
+    size = 24972
+  }
+  artisans = {
+    culture = japanese
+    religion = secularism
+    size = 61139
+  }
+  craftsmen = {
+    culture = japanese
+    religion =  shinto
+    size = 89607
+  }
+  craftsmen = {
+    culture = japanese
+    religion = secularism
+    size = 219383
+  }
+  farmers = {
+    culture = japanese
+    religion =  shinto
+    size = 504763
+  }
+  farmers = {
+    culture = japanese
+    religion = secularism
+    size = 1235801
+  }
+  farmers = {
+    culture = chinese
+    religion =  taoism
+    size = 36061
+  }
+  farmers = {
+    culture = chinese
+    religion = secularism
+    size = 88288
+  }
+  farmers = {
+    culture = korean
+    religion =  taoism
+    size = 45076
+  }
+  farmers = {
+    culture = korean
+    religion = secularism
+    size = 110360
+  }
+  farmers = {
+    culture = filipino
+    religion =  catholic
+    size = 54092
+  }
+  farmers = {
+    culture = filipino
+    religion = secularism
+    size = 132432
+  }
+  farmers = {
+    culture = ryukyuan
+    religion =  shinto
+    size = 18030
+  }
+  farmers = {
+    culture = ryukyuan
+    religion = secularism
+    size = 44144
+  }
 }
 #Chiba - Chiba (6111000/1527750 POPS)
 1650 = {
-	clergymen = {
-		culture = japanese
-		religion =  shinto 
-		size = 17721
-	 } 
-	clergymen = {
-		culture = japanese
-		religion = secularism
-		size = 43388
-	 } 
-	farmers = {
-		culture = japanese
-		religion =  shinto 
-		size = 425325
-	 } 
-	farmers = {
-		culture = japanese
-		religion = secularism
-		size = 1041314
-	 } 
+  clergymen = {
+    culture = japanese
+    religion =  shinto
+    size = 17721
+  }
+  clergymen = {
+    culture = japanese
+    religion = secularism
+    size = 43388
+  }
+  farmers = {
+    culture = japanese
+    religion =  shinto
+    size = 425325
+  }
+  farmers = {
+    culture = japanese
+    religion = secularism
+    size = 1041314
+  }
 }
 #Yokohama - Yokohama (8754000/2188500 POPS)
 1651 = {
-	officers = {
-		culture = japanese
-		religion =  shinto 
-		size = 653
-	 } 
-	officers = {
-		culture = japanese
-		religion = secularism
-		size = 1600
-	 } 
-	soldiers = {
-		culture = japanese
-		religion =  shinto 
-		size = 12423
-	 } 
-	soldiers = {
-		culture = japanese
-		religion = secularism
-		size = 30416
-	 } 
-	aristocrats = {
-		culture = japanese
-		religion =  shinto 
-		size = 12693
-	 } 
-	aristocrats = {
-		culture = japanese
-		religion = secularism
-		size = 31076
-	 } 
-	bureaucrats = {
-		culture = japanese
-		religion =  shinto 
-		size = 3807
-	 } 
-	bureaucrats = {
-		culture = japanese
-		religion = secularism
-		size = 9323
-	 } 
-	capitalists = {
-		culture = japanese
-		religion =  shinto 
-		size = 3807
-	 } 
-	capitalists = {
-		culture = japanese
-		religion = secularism
-		size = 9323
-	 } 
-	clergymen = {
-		culture = japanese
-		religion =  shinto 
-		size = 25386
-	 } 
-	clergymen = {
-		culture = japanese
-		religion = secularism
-		size = 62153
-	 } 
-	clerks = {
-		culture = japanese
-		religion =  shinto 
-		size = 21065
-	 } 
-	clerks = {
-		culture = japanese
-		religion = secularism
-		size = 51575
-	 } 
-	artisans = {
-		culture = japanese
-		religion =  shinto 
-		size = 17906
-	 } 
-	artisans = {
-		culture = japanese
-		religion = secularism
-		size = 43838
-	 } 
-	craftsmen = {
-		culture = japanese
-		religion =  shinto 
-		size = 64250
-	 } 
-	craftsmen = {
-		culture = japanese
-		religion = secularism
-		size = 157304
-	 } 
-	farmers = {
-		culture = japanese
-		religion =  shinto 
-		size = 472668
-	 } 
-	farmers = {
-		culture = japanese
-		religion = secularism
-		size = 1157224
-	 } 
+  officers = {
+    culture = japanese
+    religion =  shinto
+    size = 653
+  }
+  officers = {
+    culture = japanese
+    religion = secularism
+    size = 1600
+  }
+  soldiers = {
+    culture = japanese
+    religion =  shinto
+    size = 12423
+  }
+  soldiers = {
+    culture = japanese
+    religion = secularism
+    size = 30416
+  }
+  aristocrats = {
+    culture = japanese
+    religion =  shinto
+    size = 12693
+  }
+  aristocrats = {
+    culture = japanese
+    religion = secularism
+    size = 31076
+  }
+  bureaucrats = {
+    culture = japanese
+    religion =  shinto
+    size = 3807
+  }
+  bureaucrats = {
+    culture = japanese
+    religion = secularism
+    size = 9323
+  }
+  capitalists = {
+    culture = japanese
+    religion =  shinto
+    size = 3807
+  }
+  capitalists = {
+    culture = japanese
+    religion = secularism
+    size = 9323
+  }
+  clergymen = {
+    culture = japanese
+    religion =  shinto
+    size = 25386
+  }
+  clergymen = {
+    culture = japanese
+    religion = secularism
+    size = 62153
+  }
+  clerks = {
+    culture = japanese
+    religion =  shinto
+    size = 21065
+  }
+  clerks = {
+    culture = japanese
+    religion = secularism
+    size = 51575
+  }
+  artisans = {
+    culture = japanese
+    religion =  shinto
+    size = 17906
+  }
+  artisans = {
+    culture = japanese
+    religion = secularism
+    size = 43838
+  }
+  craftsmen = {
+    culture = japanese
+    religion =  shinto
+    size = 64250
+  }
+  craftsmen = {
+    culture = japanese
+    religion = secularism
+    size = 157304
+  }
+  farmers = {
+    culture = japanese
+    religion =  shinto
+    size = 472668
+  }
+  farmers = {
+    culture = japanese
+    religion = secularism
+    size = 1157224
+  }
 }
 #Urawa - Urawa (7154000/1788500 POPS)
 1652 = {
-	clergymen = {
-		culture = japanese
-		religion =  shinto 
-		size = 20746
-	 } 
-	clergymen = {
-		culture = japanese
-		religion = secularism
-		size = 50793
-	 } 
-	farmers = {
-		culture = japanese
-		religion =  shinto 
-		size = 497918
-	 } 
-	farmers = {
-		culture = japanese
-		religion = secularism
-		size = 1219041
-	 } 
+  clergymen = {
+    culture = japanese
+    religion =  shinto
+    size = 20746
+  }
+  clergymen = {
+    culture = japanese
+    religion = secularism
+    size = 50793
+  }
+  farmers = {
+    culture = japanese
+    religion =  shinto
+    size = 497918
+  }
+  farmers = {
+    culture = japanese
+    religion = secularism
+    size = 1219041
+  }
 }
 #Mito - Mito (3078000/769500 POPS)
 1653 = {
-	clergymen = {
-		culture = japanese
-		religion =  shinto 
-		size = 8926
-	 } 
-	clergymen = {
-		culture = japanese
-		religion = secularism
-		size = 21853
-	 } 
-	farmers = {
-		culture = japanese
-		religion =  shinto 
-		size = 214228
-	 } 
-	farmers = {
-		culture = japanese
-		religion = secularism
-		size = 524491
-	 } 
+  clergymen = {
+    culture = japanese
+    religion =  shinto
+    size = 8926
+  }
+  clergymen = {
+    culture = japanese
+    religion = secularism
+    size = 21853
+  }
+  farmers = {
+    culture = japanese
+    religion =  shinto
+    size = 214228
+  }
+  farmers = {
+    culture = japanese
+    religion = secularism
+    size = 524491
+  }
 }
 #Bonin - Bonin (2000/500 POPS)
 1654 = {
-	clergymen = {
-		culture = japanese
-		religion =  shinto 
-		size = 5
-	 } 
-	clergymen = {
-		culture = japanese
-		religion = secularism
-		size = 14
-	 } 
-	farmers = {
-		culture = japanese
-		religion =  shinto 
-		size = 139
-	 } 
-	farmers = {
-		culture = japanese
-		religion = secularism
-		size = 340
-	 } 
+  clergymen = {
+    culture = japanese
+    religion =  shinto
+    size = 5
+  }
+  clergymen = {
+    culture = japanese
+    religion = secularism
+    size = 14
+  }
+  farmers = {
+    culture = japanese
+    religion =  shinto
+    size = 139
+  }
+  farmers = {
+    culture = japanese
+    religion = secularism
+    size = 340
+  }
 }
 #Osaka - Osaka (9079000/2269750 POPS)
 1655 = {
-	officers = {
-		culture = japanese
-		religion =  shinto 
-		size = 820
-	 } 
-	officers = {
-		culture = japanese
-		religion = secularism
-		size = 2009
-	 } 
-	soldiers = {
-		culture = japanese
-		religion =  shinto 
-		size = 15597
-	 } 
-	soldiers = {
-		culture = japanese
-		religion = secularism
-		size = 38186
-	 } 
-	aristocrats = {
-		culture = japanese
-		religion =  shinto 
-		size = 13164
-	 } 
-	aristocrats = {
-		culture = japanese
-		religion = secularism
-		size = 32230
-	 } 
-	bureaucrats = {
-		culture = japanese
-		religion =  shinto 
-		size = 3949
-	 } 
-	bureaucrats = {
-		culture = japanese
-		religion = secularism
-		size = 9668
-	 } 
-	capitalists = {
-		culture = japanese
-		religion =  shinto 
-		size = 3949
-	 } 
-	capitalists = {
-		culture = japanese
-		religion = secularism
-		size = 9668
-	 } 
-	clergymen = {
-		culture = japanese
-		religion =  shinto 
-		size = 26329
-	 } 
-	clergymen = {
-		culture = japanese
-		religion = secularism
-		size = 64460
-	 } 
-	clerks = {
-		culture = japanese
-		religion =  shinto 
-		size = 21751
-	 } 
-	clerks = {
-		culture = japanese
-		religion = secularism
-		size = 53252
-	 } 
-	artisans = {
-		culture = japanese
-		religion =  shinto 
-		size = 18488
-	 } 
-	artisans = {
-		culture = japanese
-		religion = secularism
-		size = 45264
-	 } 
-	craftsmen = {
-		culture = japanese
-		religion =  shinto 
-		size = 66341
-	 } 
-	craftsmen = {
-		culture = japanese
-		religion = secularism
-		size = 162421
-	 } 
-	farmers = {
-		culture = japanese
-		religion =  shinto 
-		size = 487836
-	 } 
-	farmers = {
-		culture = japanese
-		religion = secularism
-		size = 1194358
-	 } 
+  officers = {
+    culture = japanese
+    religion =  shinto
+    size = 820
+  }
+  officers = {
+    culture = japanese
+    religion = secularism
+    size = 2009
+  }
+  soldiers = {
+    culture = japanese
+    religion =  shinto
+    size = 15597
+  }
+  soldiers = {
+    culture = japanese
+    religion = secularism
+    size = 38186
+  }
+  aristocrats = {
+    culture = japanese
+    religion =  shinto
+    size = 13164
+  }
+  aristocrats = {
+    culture = japanese
+    religion = secularism
+    size = 32230
+  }
+  bureaucrats = {
+    culture = japanese
+    religion =  shinto
+    size = 3949
+  }
+  bureaucrats = {
+    culture = japanese
+    religion = secularism
+    size = 9668
+  }
+  capitalists = {
+    culture = japanese
+    religion =  shinto
+    size = 3949
+  }
+  capitalists = {
+    culture = japanese
+    religion = secularism
+    size = 9668
+  }
+  clergymen = {
+    culture = japanese
+    religion =  shinto
+    size = 26329
+  }
+  clergymen = {
+    culture = japanese
+    religion = secularism
+    size = 64460
+  }
+  clerks = {
+    culture = japanese
+    religion =  shinto
+    size = 21751
+  }
+  clerks = {
+    culture = japanese
+    religion = secularism
+    size = 53252
+  }
+  artisans = {
+    culture = japanese
+    religion =  shinto
+    size = 18488
+  }
+  artisans = {
+    culture = japanese
+    religion = secularism
+    size = 45264
+  }
+  craftsmen = {
+    culture = japanese
+    religion =  shinto
+    size = 66341
+  }
+  craftsmen = {
+    culture = japanese
+    religion = secularism
+    size = 162421
+  }
+  farmers = {
+    culture = japanese
+    religion =  shinto
+    size = 487836
+  }
+  farmers = {
+    culture = japanese
+    religion = secularism
+    size = 1194358
+  }
 }
 #Wakayama - Wakayama (1102000/275500 POPS)
 1656 = {
-	clergymen = {
-		culture = japanese
-		religion =  shinto 
-		size = 3195
-	 } 
-	clergymen = {
-		culture = japanese
-		religion = secularism
-		size = 7824
-	 } 
-	farmers = {
-		culture = japanese
-		religion =  shinto 
-		size = 76699
-	 } 
-	farmers = {
-		culture = japanese
-		religion = secularism
-		size = 187780
-	 } 
+  clergymen = {
+    culture = japanese
+    religion =  shinto
+    size = 3195
+  }
+  clergymen = {
+    culture = japanese
+    religion = secularism
+    size = 7824
+  }
+  farmers = {
+    culture = japanese
+    religion =  shinto
+    size = 76699
+  }
+  farmers = {
+    culture = japanese
+    religion = secularism
+    size = 187780
+  }
 }
 #Kyoto - Kyoto (2726000/681500 POPS)
 1657 = {
-	officers = {
-		culture = japanese
-		religion =  shinto 
-		size = 219
-	 } 
-	officers = {
-		culture = japanese
-		religion = secularism
-		size = 536
-	 } 
-	soldiers = {
-		culture = japanese
-		religion =  shinto 
-		size = 4170
-	 } 
-	soldiers = {
-		culture = japanese
-		religion = secularism
-		size = 10211
-	 } 
-	aristocrats = {
-		culture = japanese
-		religion =  shinto 
-		size = 3952
-	 } 
-	aristocrats = {
-		culture = japanese
-		religion = secularism
-		size = 9677
-	 } 
-	bureaucrats = {
-		culture = japanese
-		religion =  shinto 
-		size = 1185
-	 } 
-	bureaucrats = {
-		culture = japanese
-		religion = secularism
-		size = 2903
-	 } 
-	capitalists = {
-		culture = japanese
-		religion =  shinto 
-		size = 1185
-	 } 
-	capitalists = {
-		culture = japanese
-		religion = secularism
-		size = 2903
-	 } 
-	clergymen = {
-		culture = japanese
-		religion =  shinto 
-		size = 7905
-	 } 
-	clergymen = {
-		culture = japanese
-		religion = secularism
-		size = 19354
-	 } 
-	clerks = {
-		culture = japanese
-		religion =  shinto 
-		size = 6549
-	 } 
-	clerks = {
-		culture = japanese
-		religion = secularism
-		size = 16033
-	 } 
-	artisans = {
-		culture = japanese
-		religion =  shinto 
-		size = 5566
-	 } 
-	artisans = {
-		culture = japanese
-		religion = secularism
-		size = 13628
-	 } 
-	craftsmen = {
-		culture = japanese
-		religion =  shinto 
-		size = 19974
-	 } 
-	craftsmen = {
-		culture = japanese
-		religion = secularism
-		size = 48904
-	 } 
-	farmers = {
-		culture = japanese
-		religion =  shinto 
-		size = 146924
-	 } 
-	farmers = {
-		culture = japanese
-		religion = secularism
-		size = 359712
-	 } 
+  officers = {
+    culture = japanese
+    religion =  shinto
+    size = 219
+  }
+  officers = {
+    culture = japanese
+    religion = secularism
+    size = 536
+  }
+  soldiers = {
+    culture = japanese
+    religion =  shinto
+    size = 4170
+  }
+  soldiers = {
+    culture = japanese
+    religion = secularism
+    size = 10211
+  }
+  aristocrats = {
+    culture = japanese
+    religion =  shinto
+    size = 3952
+  }
+  aristocrats = {
+    culture = japanese
+    religion = secularism
+    size = 9677
+  }
+  bureaucrats = {
+    culture = japanese
+    religion =  shinto
+    size = 1185
+  }
+  bureaucrats = {
+    culture = japanese
+    religion = secularism
+    size = 2903
+  }
+  capitalists = {
+    culture = japanese
+    religion =  shinto
+    size = 1185
+  }
+  capitalists = {
+    culture = japanese
+    religion = secularism
+    size = 2903
+  }
+  clergymen = {
+    culture = japanese
+    religion =  shinto
+    size = 7905
+  }
+  clergymen = {
+    culture = japanese
+    religion = secularism
+    size = 19354
+  }
+  clerks = {
+    culture = japanese
+    religion =  shinto
+    size = 6549
+  }
+  clerks = {
+    culture = japanese
+    religion = secularism
+    size = 16033
+  }
+  artisans = {
+    culture = japanese
+    religion =  shinto
+    size = 5566
+  }
+  artisans = {
+    culture = japanese
+    religion = secularism
+    size = 13628
+  }
+  craftsmen = {
+    culture = japanese
+    religion =  shinto
+    size = 19974
+  }
+  craftsmen = {
+    culture = japanese
+    religion = secularism
+    size = 48904
+  }
+  farmers = {
+    culture = japanese
+    religion =  shinto
+    size = 146924
+  }
+  farmers = {
+    culture = japanese
+    religion = secularism
+    size = 359712
+  }
 }
 #Nara - Nara (1487000/371750 POPS)
 1658 = {
-	clergymen = {
-		culture = japanese
-		religion =  shinto 
-		size = 4312
-	 } 
-	clergymen = {
-		culture = japanese
-		religion = secularism
-		size = 10557
-	 } 
-	farmers = {
-		culture = japanese
-		religion =  shinto 
-		size = 103495
-	 } 
-	farmers = {
-		culture = japanese
-		religion = secularism
-		size = 253384
-	 } 
+  clergymen = {
+    culture = japanese
+    religion =  shinto
+    size = 4312
+  }
+  clergymen = {
+    culture = japanese
+    religion = secularism
+    size = 10557
+  }
+  farmers = {
+    culture = japanese
+    religion =  shinto
+    size = 103495
+  }
+  farmers = {
+    culture = japanese
+    religion = secularism
+    size = 253384
+  }
 }
 #Kobe - Kobe (5723000/1430750 POPS)
 1659 = {
-	clergymen = {
-		culture = japanese
-		religion =  shinto 
-		size = 16596
-	 } 
-	clergymen = {
-		culture = japanese
-		religion = secularism
-		size = 40633
-	 } 
-	farmers = {
-		culture = japanese
-		religion =  shinto 
-		size = 398320
-	 } 
-	farmers = {
-		culture = japanese
-		religion = secularism
-		size = 975199
-	 } 
+  clergymen = {
+    culture = japanese
+    religion =  shinto
+    size = 16596
+  }
+  clergymen = {
+    culture = japanese
+    religion = secularism
+    size = 40633
+  }
+  farmers = {
+    culture = japanese
+    religion =  shinto
+    size = 398320
+  }
+  farmers = {
+    culture = japanese
+    religion = secularism
+    size = 975199
+  }
 }
 #Fukuoka - Fukuoka (5171000/1292750 POPS)
 1660 = {
-	officers = {
-		culture = japanese
-		religion =  shinto 
-		size = 634
-	 } 
-	officers = {
-		culture = japanese
-		religion = secularism
-		size = 1553
-	 } 
-	soldiers = {
-		culture = japanese
-		religion =  shinto 
-		size = 12056
-	 } 
-	soldiers = {
-		culture = japanese
-		religion = secularism
-		size = 29517
-	 } 
-	aristocrats = {
-		culture = japanese
-		religion =  shinto 
-		size = 7497
-	 } 
-	aristocrats = {
-		culture = japanese
-		religion = secularism
-		size = 18357
-	 } 
-	bureaucrats = {
-		culture = japanese
-		religion =  shinto 
-		size = 2249
-	 } 
-	bureaucrats = {
-		culture = japanese
-		religion = secularism
-		size = 5506
-	 } 
-	capitalists = {
-		culture = japanese
-		religion =  shinto 
-		size = 2249
-	 } 
-	capitalists = {
-		culture = japanese
-		religion = secularism
-		size = 5506
-	 } 
-	clergymen = {
-		culture = japanese
-		religion =  shinto 
-		size = 14995
-	 } 
-	clergymen = {
-		culture = japanese
-		religion = secularism
-		size = 36714
-	 } 
-	clerks = {
-		culture = japanese
-		religion =  shinto 
-		size = 12275
-	 } 
-	clerks = {
-		culture = japanese
-		religion = secularism
-		size = 30053
-	 } 
-	artisans = {
-		culture = japanese
-		religion =  shinto 
-		size = 10433
-	 } 
-	artisans = {
-		culture = japanese
-		religion = secularism
-		size = 25545
-	 } 
-	craftsmen = {
-		culture = japanese
-		religion =  shinto 
-		size = 37439
-	 } 
-	craftsmen = {
-		culture = japanese
-		religion = secularism
-		size = 91663
-	 } 
-	farmers = {
-		culture = japanese
-		religion =  shinto 
-		size = 275065
-	 } 
-	farmers = {
-		culture = japanese
-		religion = secularism
-		size = 673435
-	 } 
+  officers = {
+    culture = japanese
+    religion =  shinto
+    size = 634
+  }
+  officers = {
+    culture = japanese
+    religion = secularism
+    size = 1553
+  }
+  soldiers = {
+    culture = japanese
+    religion =  shinto
+    size = 12056
+  }
+  soldiers = {
+    culture = japanese
+    religion = secularism
+    size = 29517
+  }
+  aristocrats = {
+    culture = japanese
+    religion =  shinto
+    size = 7497
+  }
+  aristocrats = {
+    culture = japanese
+    religion = secularism
+    size = 18357
+  }
+  bureaucrats = {
+    culture = japanese
+    religion =  shinto
+    size = 2249
+  }
+  bureaucrats = {
+    culture = japanese
+    religion = secularism
+    size = 5506
+  }
+  capitalists = {
+    culture = japanese
+    religion =  shinto
+    size = 2249
+  }
+  capitalists = {
+    culture = japanese
+    religion = secularism
+    size = 5506
+  }
+  clergymen = {
+    culture = japanese
+    religion =  shinto
+    size = 14995
+  }
+  clergymen = {
+    culture = japanese
+    religion = secularism
+    size = 36714
+  }
+  clerks = {
+    culture = japanese
+    religion =  shinto
+    size = 12275
+  }
+  clerks = {
+    culture = japanese
+    religion = secularism
+    size = 30053
+  }
+  artisans = {
+    culture = japanese
+    religion =  shinto
+    size = 10433
+  }
+  artisans = {
+    culture = japanese
+    religion = secularism
+    size = 25545
+  }
+  craftsmen = {
+    culture = japanese
+    religion =  shinto
+    size = 37439
+  }
+  craftsmen = {
+    culture = japanese
+    religion = secularism
+    size = 91663
+  }
+  farmers = {
+    culture = japanese
+    religion =  shinto
+    size = 275065
+  }
+  farmers = {
+    culture = japanese
+    religion = secularism
+    size = 673435
+  }
 }
 #Nagasaki - Nagasaki (1563000/390750 POPS)
 1661 = {
-	clergymen = {
-		culture = japanese
-		religion =  shinto 
-		size = 4532
-	 } 
-	clergymen = {
-		culture = japanese
-		religion = secularism
-		size = 11097
-	 } 
-	farmers = {
-		culture = japanese
-		religion =  shinto 
-		size = 108784
-	 } 
-	farmers = {
-		culture = japanese
-		religion = secularism
-		size = 266335
-	 } 
+  clergymen = {
+    culture = japanese
+    religion =  shinto
+    size = 4532
+  }
+  clergymen = {
+    culture = japanese
+    religion = secularism
+    size = 11097
+  }
+  farmers = {
+    culture = japanese
+    religion =  shinto
+    size = 108784
+  }
+  farmers = {
+    culture = japanese
+    religion = secularism
+    size = 266335
+  }
 }
 #Kagoshima - Kagoshima (1841000/460250 POPS)
 1662 = {
-	clergymen = {
-		culture = japanese
-		religion =  shinto 
-		size = 5338
-	 } 
-	clergymen = {
-		culture = japanese
-		religion = secularism
-		size = 13071
-	 } 
-	farmers = {
-		culture = japanese
-		religion =  shinto 
-		size = 128133
-	 } 
-	farmers = {
-		culture = japanese
-		religion = secularism
-		size = 313706
-	 } 
+  clergymen = {
+    culture = japanese
+    religion =  shinto
+    size = 5338
+  }
+  clergymen = {
+    culture = japanese
+    religion = secularism
+    size = 13071
+  }
+  farmers = {
+    culture = japanese
+    religion =  shinto
+    size = 128133
+  }
+  farmers = {
+    culture = japanese
+    religion = secularism
+    size = 313706
+  }
 }
 #Miyazaki - Miyazaki (1206000/301500 POPS)
 1663 = {
-	clergymen = {
-		culture = japanese
-		religion =  shinto 
-		size = 3497
-	 } 
-	clergymen = {
-		culture = japanese
-		religion = secularism
-		size = 8562
-	 } 
-	farmers = {
-		culture = japanese
-		religion =  shinto 
-		size = 83937
-	 } 
-	farmers = {
-		culture = japanese
-		religion = secularism
-		size = 205502
-	 } 
+  clergymen = {
+    culture = japanese
+    religion =  shinto
+    size = 3497
+  }
+  clergymen = {
+    culture = japanese
+    religion = secularism
+    size = 8562
+  }
+  farmers = {
+    culture = japanese
+    religion =  shinto
+    size = 83937
+  }
+  farmers = {
+    culture = japanese
+    religion = secularism
+    size = 205502
+  }
 }
 #Kumamoto - Kumamoto (1917000/479250 POPS)
 1664 = {
-	clergymen = {
-		culture = japanese
-		religion =  shinto 
-		size = 5559
-	 } 
-	clergymen = {
-		culture = japanese
-		religion = secularism
-		size = 13610
-	 } 
-	farmers = {
-		culture = japanese
-		religion =  shinto 
-		size = 133423
-	 } 
-	farmers = {
-		culture = japanese
-		religion = secularism
-		size = 326656
-	 } 
+  clergymen = {
+    culture = japanese
+    religion =  shinto
+    size = 5559
+  }
+  clergymen = {
+    culture = japanese
+    religion = secularism
+    size = 13610
+  }
+  farmers = {
+    culture = japanese
+    religion =  shinto
+    size = 133423
+  }
+  farmers = {
+    culture = japanese
+    religion = secularism
+    size = 326656
+  }
 }
 #Kochi - Kochi (838000/209500 POPS)
 1665 = {
-	officers = {
-		culture = japanese
-		religion =  shinto 
-		size = 196
-	 } 
-	officers = {
-		culture = japanese
-		religion = secularism
-		size = 479
-	 } 
-	soldiers = {
-		culture = japanese
-		religion =  shinto 
-		size = 3729
-	 } 
-	soldiers = {
-		culture = japanese
-		religion = secularism
-		size = 9132
-	 } 
-	aristocrats = {
-		culture = japanese
-		religion =  shinto 
-		size = 1215
-	 } 
-	aristocrats = {
-		culture = japanese
-		religion = secularism
-		size = 2974
-	 } 
-	bureaucrats = {
-		culture = japanese
-		religion =  shinto 
-		size = 364
-	 } 
-	bureaucrats = {
-		culture = japanese
-		religion = secularism
-		size = 892
-	 } 
-	capitalists = {
-		culture = japanese
-		religion =  shinto 
-		size = 364
-	 } 
-	capitalists = {
-		culture = japanese
-		religion = secularism
-		size = 892
-	 } 
-	clergymen = {
-		culture = japanese
-		religion =  shinto 
-		size = 2430
-	 } 
-	clergymen = {
-		culture = japanese
-		religion = secularism
-		size = 5949
-	 } 
-	clerks = {
-		culture = japanese
-		religion =  shinto 
-		size = 1925
-	 } 
-	clerks = {
-		culture = japanese
-		religion = secularism
-		size = 4715
-	 } 
-	artisans = {
-		culture = japanese
-		religion =  shinto 
-		size = 1637
-	 } 
-	artisans = {
-		culture = japanese
-		religion = secularism
-		size = 4007
-	 } 
-	craftsmen = {
-		culture = japanese
-		religion =  shinto 
-		size = 5873
-	 } 
-	craftsmen = {
-		culture = japanese
-		religion = secularism
-		size = 14381
-	 } 
-	farmers = {
-		culture = japanese
-		religion =  shinto 
-		size = 43017
-	 } 
-	farmers = {
-		culture = japanese
-		religion = secularism
-		size = 105319
-	 } 
+  officers = {
+    culture = japanese
+    religion =  shinto
+    size = 196
+  }
+  officers = {
+    culture = japanese
+    religion = secularism
+    size = 479
+  }
+  soldiers = {
+    culture = japanese
+    religion =  shinto
+    size = 3729
+  }
+  soldiers = {
+    culture = japanese
+    religion = secularism
+    size = 9132
+  }
+  aristocrats = {
+    culture = japanese
+    religion =  shinto
+    size = 1215
+  }
+  aristocrats = {
+    culture = japanese
+    religion = secularism
+    size = 2974
+  }
+  bureaucrats = {
+    culture = japanese
+    religion =  shinto
+    size = 364
+  }
+  bureaucrats = {
+    culture = japanese
+    religion = secularism
+    size = 892
+  }
+  capitalists = {
+    culture = japanese
+    religion =  shinto
+    size = 364
+  }
+  capitalists = {
+    culture = japanese
+    religion = secularism
+    size = 892
+  }
+  clergymen = {
+    culture = japanese
+    religion =  shinto
+    size = 2430
+  }
+  clergymen = {
+    culture = japanese
+    religion = secularism
+    size = 5949
+  }
+  clerks = {
+    culture = japanese
+    religion =  shinto
+    size = 1925
+  }
+  clerks = {
+    culture = japanese
+    religion = secularism
+    size = 4715
+  }
+  artisans = {
+    culture = japanese
+    religion =  shinto
+    size = 1637
+  }
+  artisans = {
+    culture = japanese
+    religion = secularism
+    size = 4007
+  }
+  craftsmen = {
+    culture = japanese
+    religion =  shinto
+    size = 5873
+  }
+  craftsmen = {
+    culture = japanese
+    religion = secularism
+    size = 14381
+  }
+  farmers = {
+    culture = japanese
+    religion =  shinto
+    size = 43017
+  }
+  farmers = {
+    culture = japanese
+    religion = secularism
+    size = 105319
+  }
 }
 #Matsuyama - Matsuyama (2003000/500750 POPS)
 1666 = {
-	clergymen = {
-		culture = japanese
-		religion =  shinto 
-		size = 5808
-	 } 
-	clergymen = {
-		culture = japanese
-		religion = secularism
-		size = 14221
-	 } 
-	farmers = {
-		culture = japanese
-		religion =  shinto 
-		size = 139408
-	 } 
-	farmers = {
-		culture = japanese
-		religion = secularism
-		size = 341311
-	 } 
+  clergymen = {
+    culture = japanese
+    religion =  shinto
+    size = 5808
+  }
+  clergymen = {
+    culture = japanese
+    religion = secularism
+    size = 14221
+  }
+  farmers = {
+    culture = japanese
+    religion =  shinto
+    size = 139408
+  }
+  farmers = {
+    culture = japanese
+    religion = secularism
+    size = 341311
+  }
 }
 #Tokushima - Tokushima (848000/212000 POPS)
 1667 = {
-	clergymen = {
-		culture = japanese
-		religion =  shinto 
-		size = 2459
-	 } 
-	clergymen = {
-		culture = japanese
-		religion = secularism
-		size = 6020
-	 } 
-	farmers = {
-		culture = japanese
-		religion =  shinto 
-		size = 59020
-	 } 
-	farmers = {
-		culture = japanese
-		religion = secularism
-		size = 144499
-	 } 
+  clergymen = {
+    culture = japanese
+    religion =  shinto
+    size = 2459
+  }
+  clergymen = {
+    culture = japanese
+    religion = secularism
+    size = 6020
+  }
+  farmers = {
+    culture = japanese
+    religion =  shinto
+    size = 59020
+  }
+  farmers = {
+    culture = japanese
+    religion = secularism
+    size = 144499
+  }
 }
 #Sendai - Sendai (2438000/609500 POPS)
 1668 = {
-	officers = {
-		culture = japanese
-		religion =  shinto 
-		size = 523
-	 } 
-	officers = {
-		culture = japanese
-		religion = secularism
-		size = 1281
-	 } 
-	soldiers = {
-		culture = japanese
-		religion =  shinto 
-		size = 9947
-	 } 
-	soldiers = {
-		culture = japanese
-		religion = secularism
-		size = 24353
-	 } 
-	aristocrats = {
-		culture = japanese
-		religion =  shinto 
-		size = 3535
-	 } 
-	aristocrats = {
-		culture = japanese
-		religion = secularism
-		size = 8654
-	 } 
-	bureaucrats = {
-		culture = japanese
-		religion =  shinto 
-		size = 1060
-	 } 
-	bureaucrats = {
-		culture = japanese
-		religion = secularism
-		size = 2596
-	 } 
-	capitalists = {
-		culture = japanese
-		religion =  shinto 
-		size = 1060
-	 } 
-	capitalists = {
-		culture = japanese
-		religion = secularism
-		size = 2596
-	 } 
-	clergymen = {
-		culture = japanese
-		religion =  shinto 
-		size = 7070
-	 } 
-	clergymen = {
-		culture = japanese
-		religion = secularism
-		size = 17309
-	 } 
-	clerks = {
-		culture = japanese
-		religion =  shinto 
-		size = 5635
-	 } 
-	clerks = {
-		culture = japanese
-		religion = secularism
-		size = 13796
-	 } 
-	artisans = {
-		culture = japanese
-		religion =  shinto 
-		size = 4789
-	 } 
-	artisans = {
-		culture = japanese
-		religion = secularism
-		size = 11727
-	 } 
-	craftsmen = {
-		culture = japanese
-		religion =  shinto 
-		size = 17188
-	 } 
-	craftsmen = {
-		culture = japanese
-		religion = secularism
-		size = 42080
-	 } 
-	farmers = {
-		culture = japanese
-		religion =  shinto 
-		size = 125944
-	 } 
-	farmers = {
-		culture = japanese
-		religion = secularism
-		size = 308347
-	 } 
+  officers = {
+    culture = japanese
+    religion =  shinto
+    size = 523
+  }
+  officers = {
+    culture = japanese
+    religion = secularism
+    size = 1281
+  }
+  soldiers = {
+    culture = japanese
+    religion =  shinto
+    size = 9947
+  }
+  soldiers = {
+    culture = japanese
+    religion = secularism
+    size = 24353
+  }
+  aristocrats = {
+    culture = japanese
+    religion =  shinto
+    size = 3535
+  }
+  aristocrats = {
+    culture = japanese
+    religion = secularism
+    size = 8654
+  }
+  bureaucrats = {
+    culture = japanese
+    religion =  shinto
+    size = 1060
+  }
+  bureaucrats = {
+    culture = japanese
+    religion = secularism
+    size = 2596
+  }
+  capitalists = {
+    culture = japanese
+    religion =  shinto
+    size = 1060
+  }
+  capitalists = {
+    culture = japanese
+    religion = secularism
+    size = 2596
+  }
+  clergymen = {
+    culture = japanese
+    religion =  shinto
+    size = 7070
+  }
+  clergymen = {
+    culture = japanese
+    religion = secularism
+    size = 17309
+  }
+  clerks = {
+    culture = japanese
+    religion =  shinto
+    size = 5635
+  }
+  clerks = {
+    culture = japanese
+    religion = secularism
+    size = 13796
+  }
+  artisans = {
+    culture = japanese
+    religion =  shinto
+    size = 4789
+  }
+  artisans = {
+    culture = japanese
+    religion = secularism
+    size = 11727
+  }
+  craftsmen = {
+    culture = japanese
+    religion =  shinto
+    size = 17188
+  }
+  craftsmen = {
+    culture = japanese
+    religion = secularism
+    size = 42080
+  }
+  farmers = {
+    culture = japanese
+    religion =  shinto
+    size = 125944
+  }
+  farmers = {
+    culture = japanese
+    religion = secularism
+    size = 308347
+  }
 }
 #Fukushima - Fukushima (2192000/548000 POPS)
 1669 = {
-	clergymen = {
-		culture = japanese
-		religion =  shinto 
-		size = 6356
-	 } 
-	clergymen = {
-		culture = japanese
-		religion = secularism
-		size = 15563
-	 } 
-	farmers = {
-		culture = japanese
-		religion =  shinto 
-		size = 152563
-	 } 
-	farmers = {
-		culture = japanese
-		religion = secularism
-		size = 373516
-	 } 
+  clergymen = {
+    culture = japanese
+    religion =  shinto
+    size = 6356
+  }
+  clergymen = {
+    culture = japanese
+    religion = secularism
+    size = 15563
+  }
+  farmers = {
+    culture = japanese
+    religion =  shinto
+    size = 152563
+  }
+  farmers = {
+    culture = japanese
+    religion = secularism
+    size = 373516
+  }
 }
 #Morioka - Morioka (1460000/365000 POPS)
 1670 = {
-	clergymen = {
-		culture = japanese
-		religion =  shinto 
-		size = 4234
-	 } 
-	clergymen = {
-		culture = japanese
-		religion = secularism
-		size = 10366
-	 } 
-	farmers = {
-		culture = japanese
-		religion =  shinto 
-		size = 101616
-	 } 
-	farmers = {
-		culture = japanese
-		religion = secularism
-		size = 248784
-	 } 
+  clergymen = {
+    culture = japanese
+    religion =  shinto
+    size = 4234
+  }
+  clergymen = {
+    culture = japanese
+    religion = secularism
+    size = 10366
+  }
+  farmers = {
+    culture = japanese
+    religion =  shinto
+    size = 101616
+  }
+  farmers = {
+    culture = japanese
+    religion = secularism
+    size = 248784
+  }
 }
 #Akita - Akita (1226000/306500 POPS)
 1671 = {
-	clergymen = {
-		culture = japanese
-		religion =  shinto 
-		size = 3555
-	 } 
-	clergymen = {
-		culture = japanese
-		religion = secularism
-		size = 8704
-	 } 
-	farmers = {
-		culture = japanese
-		religion =  shinto 
-		size = 85329
-	 } 
-	farmers = {
-		culture = japanese
-		religion = secularism
-		size = 208910
-	 } 
+  clergymen = {
+    culture = japanese
+    religion =  shinto
+    size = 3555
+  }
+  clergymen = {
+    culture = japanese
+    religion = secularism
+    size = 8704
+  }
+  farmers = {
+    culture = japanese
+    religion =  shinto
+    size = 85329
+  }
+  farmers = {
+    culture = japanese
+    religion = secularism
+    size = 208910
+  }
 }
 #Aomori - Aomori (1521000/380250 POPS)
 1672 = {
-	clergymen = {
-		culture = japanese
-		religion =  shinto 
-		size = 4410
-	 } 
-	clergymen = {
-		culture = japanese
-		religion = secularism
-		size = 10799
-	 } 
-	farmers = {
-		culture = japanese
-		religion =  shinto 
-		size = 105861
-	 } 
-	farmers = {
-		culture = japanese
-		religion = secularism
-		size = 259178
-	 } 
+  clergymen = {
+    culture = japanese
+    religion =  shinto
+    size = 4410
+  }
+  clergymen = {
+    culture = japanese
+    religion = secularism
+    size = 10799
+  }
+  farmers = {
+    culture = japanese
+    religion =  shinto
+    size = 105861
+  }
+  farmers = {
+    culture = japanese
+    religion = secularism
+    size = 259178
+  }
 }
 #Yamagata - Yamagata (1282000/320500 POPS)
 1673 = {
-	clergymen = {
-		culture = japanese
-		religion =  shinto 
-		size = 3717
-	 } 
-	clergymen = {
-		culture = japanese
-		religion = secularism
-		size = 9102
-	 } 
-	farmers = {
-		culture = japanese
-		religion =  shinto 
-		size = 89227
-	 } 
-	farmers = {
-		culture = japanese
-		religion = secularism
-		size = 218452
-	 } 
+  clergymen = {
+    culture = japanese
+    religion =  shinto
+    size = 3717
+  }
+  clergymen = {
+    culture = japanese
+    religion = secularism
+    size = 9102
+  }
+  farmers = {
+    culture = japanese
+    religion =  shinto
+    size = 89227
+  }
+  farmers = {
+    culture = japanese
+    religion = secularism
+    size = 218452
+  }
 }
 #Utsunomiya - Utsunomiya (4153000/1038250 POPS)
 1674 = {
-	clergymen = {
-		culture = japanese
-		religion =  shinto 
-		size = 12043
-	 } 
-	clergymen = {
-		culture = japanese
-		religion = secularism
-		size = 29486
-	 } 
-	farmers = {
-		culture = japanese
-		religion =  shinto 
-		size = 289048
-	 } 
-	farmers = {
-		culture = japanese
-		religion = secularism
-		size = 707671
-	 } 
+  clergymen = {
+    culture = japanese
+    religion =  shinto
+    size = 12043
+  }
+  clergymen = {
+    culture = japanese
+    religion = secularism
+    size = 29486
+  }
+  farmers = {
+    culture = japanese
+    religion =  shinto
+    size = 289048
+  }
+  farmers = {
+    culture = japanese
+    religion = secularism
+    size = 707671
+  }
 }
 #Nagoya - Nagoya (2172000/543000 POPS)
 1675 = {
-	officers = {
-		culture = japanese
-		religion =  shinto 
-		size = 932
-	 } 
-	officers = {
-		culture = japanese
-		religion = secularism
-		size = 2283
-	 } 
-	soldiers = {
-		culture = japanese
-		religion =  shinto 
-		size = 17724
-	 } 
-	soldiers = {
-		culture = japanese
-		religion = secularism
-		size = 43393
-	 } 
-	aristocrats = {
-		culture = japanese
-		religion =  shinto 
-		size = 3149
-	 } 
-	aristocrats = {
-		culture = japanese
-		religion = secularism
-		size = 7710
-	 } 
-	bureaucrats = {
-		culture = japanese
-		religion =  shinto 
-		size = 944
-	 } 
-	bureaucrats = {
-		culture = japanese
-		religion = secularism
-		size = 2313
-	 } 
-	capitalists = {
-		culture = japanese
-		religion =  shinto 
-		size = 944
-	 } 
-	capitalists = {
-		culture = japanese
-		religion = secularism
-		size = 2313
-	 } 
-	clergymen = {
-		culture = japanese
-		religion =  shinto 
-		size = 6298
-	 } 
-	clergymen = {
-		culture = japanese
-		religion = secularism
-		size = 15421
-	 } 
-	clerks = {
-		culture = japanese
-		religion =  shinto 
-		size = 4704
-	 } 
-	clerks = {
-		culture = japanese
-		religion = secularism
-		size = 11517
-	 } 
-	artisans = {
-		culture = japanese
-		religion =  shinto 
-		size = 3998
-	 } 
-	artisans = {
-		culture = japanese
-		religion = secularism
-		size = 9789
-	 } 
-	craftsmen = {
-		culture = japanese
-		religion =  shinto 
-		size = 14348
-	 } 
-	craftsmen = {
-		culture = japanese
-		religion = secularism
-		size = 35128
-	 } 
-	farmers = {
-		culture = japanese
-		religion =  shinto 
-		size = 104424
-	 } 
-	farmers = {
-		culture = japanese
-		religion = secularism
-		size = 255658
-	 } 
+  officers = {
+    culture = japanese
+    religion =  shinto
+    size = 932
+  }
+  officers = {
+    culture = japanese
+    religion = secularism
+    size = 2283
+  }
+  soldiers = {
+    culture = japanese
+    religion =  shinto
+    size = 17724
+  }
+  soldiers = {
+    culture = japanese
+    religion = secularism
+    size = 43393
+  }
+  aristocrats = {
+    culture = japanese
+    religion =  shinto
+    size = 3149
+  }
+  aristocrats = {
+    culture = japanese
+    religion = secularism
+    size = 7710
+  }
+  bureaucrats = {
+    culture = japanese
+    religion =  shinto
+    size = 944
+  }
+  bureaucrats = {
+    culture = japanese
+    religion = secularism
+    size = 2313
+  }
+  capitalists = {
+    culture = japanese
+    religion =  shinto
+    size = 944
+  }
+  capitalists = {
+    culture = japanese
+    religion = secularism
+    size = 2313
+  }
+  clergymen = {
+    culture = japanese
+    religion =  shinto
+    size = 6298
+  }
+  clergymen = {
+    culture = japanese
+    religion = secularism
+    size = 15421
+  }
+  clerks = {
+    culture = japanese
+    religion =  shinto
+    size = 4704
+  }
+  clerks = {
+    culture = japanese
+    religion = secularism
+    size = 11517
+  }
+  artisans = {
+    culture = japanese
+    religion =  shinto
+    size = 3998
+  }
+  artisans = {
+    culture = japanese
+    religion = secularism
+    size = 9789
+  }
+  craftsmen = {
+    culture = japanese
+    religion =  shinto
+    size = 14348
+  }
+  craftsmen = {
+    culture = japanese
+    religion = secularism
+    size = 35128
+  }
+  farmers = {
+    culture = japanese
+    religion =  shinto
+    size = 104424
+  }
+  farmers = {
+    culture = japanese
+    religion = secularism
+    size = 255658
+  }
 }
 #Shizuoka - Shizuoka (3884000/971000 POPS)
 1676 = {
-	clergymen = {
-		culture = japanese
-		religion =  shinto 
-		size = 11263
-	 } 
-	clergymen = {
-		culture = japanese
-		religion = secularism
-		size = 27576
-	 } 
-	farmers = {
-		culture = japanese
-		religion =  shinto 
-		size = 270326
-	 } 
-	farmers = {
-		culture = japanese
-		religion = secularism
-		size = 661833
-	 } 
+  clergymen = {
+    culture = japanese
+    religion =  shinto
+    size = 11263
+  }
+  clergymen = {
+    culture = japanese
+    religion = secularism
+    size = 27576
+  }
+  farmers = {
+    culture = japanese
+    religion =  shinto
+    size = 270326
+  }
+  farmers = {
+    culture = japanese
+    religion = secularism
+    size = 661833
+  }
 }
 #Nagano - Nagano (2283000/570750 POPS)
 1677 = {
-	clergymen = {
-		culture = japanese
-		religion =  shinto 
-		size = 6620
-	 } 
-	clergymen = {
-		culture = japanese
-		religion = secularism
-		size = 16209
-	 } 
-	farmers = {
-		culture = japanese
-		religion =  shinto 
-		size = 158896
-	 } 
-	farmers = {
-		culture = japanese
-		religion = secularism
-		size = 389023
-	 } 
+  clergymen = {
+    culture = japanese
+    religion =  shinto
+    size = 6620
+  }
+  clergymen = {
+    culture = japanese
+    religion = secularism
+    size = 16209
+  }
+  farmers = {
+    culture = japanese
+    religion =  shinto
+    size = 158896
+  }
+  farmers = {
+    culture = japanese
+    religion = secularism
+    size = 389023
+  }
 }
 #Okinawa - Okinawa (1031000/257750 POPS)
 1678 = {
-	officers = {
-		culture = ryukyuan
-		religion =  shinto 
-		size = 53
-	 } 
-	officers = {
-		culture = ryukyuan
-		religion = secularism
-		size = 131
-	 } 
-	soldiers = {
-		culture = ryukyuan
-		religion =  shinto 
-		size = 1019
-	 } 
-	soldiers = {
-		culture = ryukyuan
-		religion = secularism
-		size = 2496
-	 } 
-	aristocrats = {
-		culture = ryukyuan
-		religion =  shinto 
-		size = 1494
-	 } 
-	aristocrats = {
-		culture = ryukyuan
-		religion = secularism
-		size = 3660
-	 } 
-	bureaucrats = {
-		culture = ryukyuan
-		religion =  shinto 
-		size = 448
-	 } 
-	bureaucrats = {
-		culture = ryukyuan
-		religion = secularism
-		size = 1097
-	 } 
-	capitalists = {
-		culture = ryukyuan
-		religion =  shinto 
-		size = 448
-	 } 
-	capitalists = {
-		culture = ryukyuan
-		religion = secularism
-		size = 1097
-	 } 
-	clergymen = {
-		culture = ryukyuan
-		religion =  shinto 
-		size = 2989
-	 } 
-	clergymen = {
-		culture = ryukyuan
-		religion = secularism
-		size = 7320
-	 } 
-	clerks = {
-		culture = ryukyuan
-		religion =  shinto 
-		size = 2496
-	 } 
-	clerks = {
-		culture = ryukyuan
-		religion = secularism
-		size = 6112
-	 } 
-	artisans = {
-		culture = ryukyuan
-		religion =  shinto 
-		size = 2122
-	 } 
-	artisans = {
-		culture = ryukyuan
-		religion = secularism
-		size = 5195
-	 } 
-	craftsmen = {
-		culture = ryukyuan
-		religion =  shinto 
-		size = 7615
-	 } 
-	craftsmen = {
-		culture = ryukyuan
-		religion = secularism
-		size = 18643
-	 } 
-	farmers = {
-		culture = ryukyuan
-		religion =  shinto 
-		size = 56058
-	 } 
-	farmers = {
-		culture = ryukyuan
-		religion = secularism
-		size = 137247
-	 } 
+  officers = {
+    culture = ryukyuan
+    religion =  shinto
+    size = 53
+  }
+  officers = {
+    culture = ryukyuan
+    religion = secularism
+    size = 131
+  }
+  soldiers = {
+    culture = ryukyuan
+    religion =  shinto
+    size = 1019
+  }
+  soldiers = {
+    culture = ryukyuan
+    religion = secularism
+    size = 2496
+  }
+  aristocrats = {
+    culture = ryukyuan
+    religion =  shinto
+    size = 1494
+  }
+  aristocrats = {
+    culture = ryukyuan
+    religion = secularism
+    size = 3660
+  }
+  bureaucrats = {
+    culture = ryukyuan
+    religion =  shinto
+    size = 448
+  }
+  bureaucrats = {
+    culture = ryukyuan
+    religion = secularism
+    size = 1097
+  }
+  capitalists = {
+    culture = ryukyuan
+    religion =  shinto
+    size = 448
+  }
+  capitalists = {
+    culture = ryukyuan
+    religion = secularism
+    size = 1097
+  }
+  clergymen = {
+    culture = ryukyuan
+    religion =  shinto
+    size = 2989
+  }
+  clergymen = {
+    culture = ryukyuan
+    religion = secularism
+    size = 7320
+  }
+  clerks = {
+    culture = ryukyuan
+    religion =  shinto
+    size = 2496
+  }
+  clerks = {
+    culture = ryukyuan
+    religion = secularism
+    size = 6112
+  }
+  artisans = {
+    culture = ryukyuan
+    religion =  shinto
+    size = 2122
+  }
+  artisans = {
+    culture = ryukyuan
+    religion = secularism
+    size = 5195
+  }
+  craftsmen = {
+    culture = ryukyuan
+    religion =  shinto
+    size = 7615
+  }
+  craftsmen = {
+    culture = ryukyuan
+    religion = secularism
+    size = 18643
+  }
+  farmers = {
+    culture = ryukyuan
+    religion =  shinto
+    size = 56058
+  }
+  farmers = {
+    culture = ryukyuan
+    religion = secularism
+    size = 137247
+  }
 }
 #Amari - Amari (327000/81750 POPS)
 1679 = {
-	clergymen = {
-		culture = japanese
-		religion =  shinto 
-		size = 948
-	 } 
-	clergymen = {
-		culture = japanese
-		religion = secularism
-		size = 2321
-	 } 
-	farmers = {
-		culture = japanese
-		religion =  shinto 
-		size = 22759
-	 } 
-	farmers = {
-		culture = japanese
-		religion = secularism
-		size = 55720
-	 } 
+  clergymen = {
+    culture = japanese
+    religion =  shinto
+    size = 948
+  }
+  clergymen = {
+    culture = japanese
+    religion = secularism
+    size = 2321
+  }
+  farmers = {
+    culture = japanese
+    religion =  shinto
+    size = 22759
+  }
+  farmers = {
+    culture = japanese
+    religion = secularism
+    size = 55720
+  }
 }
 #Marcus - Marcus (1000/250 POPS)
 2525 = {
-	clergymen = {
-		culture = japanese
-		religion =  shinto 
-		size = 2
-	 } 
-	clergymen = {
-		culture = japanese
-		religion = secularism
-		size = 7
-	 } 
-	farmers = {
-		culture = japanese
-		religion =  shinto 
-		size = 69
-	 } 
-	farmers = {
-		culture = japanese
-		religion = secularism
-		size = 170
-	 } 
+  clergymen = {
+    culture = japanese
+    religion =  shinto
+    size = 2
+  }
+  clergymen = {
+    culture = japanese
+    religion = secularism
+    size = 7
+  }
+  farmers = {
+    culture = japanese
+    religion =  shinto
+    size = 69
+  }
+  farmers = {
+    culture = japanese
+    religion = secularism
+    size = 170
+  }
 }
 #Senkaku Islands - Senkaku Islands (1000/250 POPS)
 3282 = {
-	aristocrats = {
-		culture = japanese
-		religion =  shinto 
-		size = 1
-	 } 
-	aristocrats = {
-		culture = japanese
-		religion = secularism
-		size = 3
-	 } 
-	clergymen = {
-		culture = japanese
-		religion =  shinto 
-		size = 2
-	 } 
-	clergymen = {
-		culture = japanese
-		religion = secularism
-		size = 7
-	 } 
-	clerks = {
-		culture = japanese
-		religion =  shinto 
-		size = 2
-	 } 
-	clerks = {
-		culture = japanese
-		religion = secularism
-		size = 5
-	 } 
-	artisans = {
-		culture = japanese
-		religion =  shinto 
-		size = 2
-	 } 
-	artisans = {
-		culture = japanese
-		religion = secularism
-		size = 4
-	 } 
-	craftsmen = {
-		culture = japanese
-		religion =  shinto 
-		size = 7
-	 } 
-	craftsmen = {
-		culture = japanese
-		religion = secularism
-		size = 17
-	 } 
-	farmers = {
-		culture = japanese
-		religion =  shinto 
-		size = 55
-	 } 
-	farmers = {
-		culture = japanese
-		religion = secularism
-		size = 134
-	 } 
+  aristocrats = {
+    culture = japanese
+    religion =  shinto
+    size = 1
+  }
+  aristocrats = {
+    culture = japanese
+    religion = secularism
+    size = 3
+  }
+  clergymen = {
+    culture = japanese
+    religion =  shinto
+    size = 2
+  }
+  clergymen = {
+    culture = japanese
+    religion = secularism
+    size = 7
+  }
+  clerks = {
+    culture = japanese
+    religion =  shinto
+    size = 2
+  }
+  clerks = {
+    culture = japanese
+    religion = secularism
+    size = 5
+  }
+  artisans = {
+    culture = japanese
+    religion =  shinto
+    size = 2
+  }
+  artisans = {
+    culture = japanese
+    religion = secularism
+    size = 4
+  }
+  craftsmen = {
+    culture = japanese
+    religion =  shinto
+    size = 7
+  }
+  craftsmen = {
+    culture = japanese
+    religion = secularism
+    size = 17
+  }
+  farmers = {
+    culture = japanese
+    religion =  shinto
+    size = 55
+  }
+  farmers = {
+    culture = japanese
+    religion = secularism
+    size = 134
+  }
 }

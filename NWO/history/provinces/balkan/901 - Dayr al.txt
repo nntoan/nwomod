@@ -7,9 +7,9 @@ life_rating = 42
 terrain = dry_grassland
 colonial = 0
 1992.1.1 = {
-owner = SYR
-controller = SYR
-add_core = SYR
-add_core = KUR
-colonial = 0
+  owner = SYR
+  controller = SYR
+  add_core = SYR
+  add_core = KUR
+  colonial = 0
 }

@@ -1,63 +1,63 @@
 #Thimpu - Thimpu (164000/41000 POPS)
 1329 = {
-	aristocrats = {
-		culture = ngalop
-		religion =  buddhist 
-		size = 1619
-	 } 
-	aristocrats = {
-		culture = ngalop
-		religion = secularism
-		size = 20
-	 } 
-	bureaucrats = {
-		culture = ngalop
-		religion =  buddhist 
-		size = 40
-	 } 
-	clergymen = {
-		culture = ngalop
-		religion =  buddhist 
-		size = 809
-	 } 
-	clergymen = {
-		culture = ngalop
-		religion = secularism
-		size = 10
-	 } 
-	artisans = {
-		culture = ngalop
-		religion =  buddhist 
-		size = 57
-	 } 
-	farmers = {
-		culture = ngalop
-		religion =  buddhist 
-		size = 17716
-	 } 
-	farmers = {
-		culture = ngalop
-		religion = secularism
-		size = 224
-	 } 
-	farmers = {
-		culture = indian
-		religion =  hindu 
-		size = 6073
-	 } 
-	farmers = {
-		culture = indian
-		religion = secularism
-		size = 76
-	 } 
-	farmers = {
-		culture = nepali
-		religion =  hindu 
-		size = 14169
-	 } 
-	farmers = {
-		culture = nepali
-		religion = secularism
-		size = 179
-	 } 
+  aristocrats = {
+    culture = ngalop
+    religion =  buddhist
+    size = 1619
+  }
+  aristocrats = {
+    culture = ngalop
+    religion = secularism
+    size = 20
+  }
+  bureaucrats = {
+    culture = ngalop
+    religion =  buddhist
+    size = 40
+  }
+  clergymen = {
+    culture = ngalop
+    religion =  buddhist
+    size = 809
+  }
+  clergymen = {
+    culture = ngalop
+    religion = secularism
+    size = 10
+  }
+  artisans = {
+    culture = ngalop
+    religion =  buddhist
+    size = 57
+  }
+  farmers = {
+    culture = ngalop
+    religion =  buddhist
+    size = 17716
+  }
+  farmers = {
+    culture = ngalop
+    religion = secularism
+    size = 224
+  }
+  farmers = {
+    culture = indian
+    religion =  hindu
+    size = 6073
+  }
+  farmers = {
+    culture = indian
+    religion = secularism
+    size = 76
+  }
+  farmers = {
+    culture = nepali
+    religion =  hindu
+    size = 14169
+  }
+  farmers = {
+    culture = nepali
+    religion = secularism
+    size = 179
+  }
 }

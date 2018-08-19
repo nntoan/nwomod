@@ -8,13 +8,13 @@ country_event = {
   trigger = {
     tag = GEO
     year = 1990 NOT = { year = 1999 }
-	government = democracy
+    government = democracy
   }
 
   mean_time_to_happen = { months = 2 }
 
   option = {
     name = EVT_8005913_A
-	random_state = { any_pop = { dominant_issue = { value = parties_allowed factor = 0.16 } } }
+    random_state = { any_pop = { dominant_issue = { value = parties_allowed factor = 0.16 } } }
   }
 }

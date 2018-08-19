@@ -6,9 +6,9 @@ life_rating = 20
 terrain = deciduous_forest_mountains
 colonial = 0
 1992.1.1 = {
-owner = ITA
-controller = ITA
-add_core = ITA
-railroad = 1
-colonial = 0
+  owner = ITA
+  controller = ITA
+  add_core = ITA
+  railroad = 1
+  colonial = 0
 }

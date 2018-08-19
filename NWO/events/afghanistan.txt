@@ -15,8 +15,8 @@ country_event = {
 
   option = {
     name = "OK"
-	random_state = { any_pop = { dominant_issue = { value = moralism factor = 0.15 } } }
-	define_general = { name = "Muhammed Hashim" personality = energetic background = no_background }
+    random_state = { any_pop = { dominant_issue = { value = moralism factor = 0.15 } } }
+    define_general = { name = "Muhammed Hashim" personality = energetic background = no_background }
   }
 }
 country_event = {
@@ -36,8 +36,8 @@ country_event = {
 
   option = {
     name = "OK"
-	random_state = { any_pop = { dominant_issue = { value = moralism factor = 0.15 } } }
-	define_general = { name = "Mohammed Daoud" personality = energetic background = no_background }
+    random_state = { any_pop = { dominant_issue = { value = moralism factor = 0.15 } } }
+    define_general = { name = "Mohammed Daoud" personality = energetic background = no_background }
   }
 }
 country_event = {
@@ -56,27 +56,27 @@ country_event = {
   mean_time_to_happen = { months = 2 }
 
   immediate = { set_global_flag = afghani_coup_1973 } # will trigger 8176110 # Soviet intervention
-  
+
   option = {
     name = EVT_8000109_A
-	ai_chance = { factor = 100 }
-	government = presidential_dictatorship country_event = 800050
-	random_state = { any_pop = { dominant_issue = { value = parties_allowed factor = 0.15 } } }
-	random_state = { any_pop = { dominant_issue = { value = planned_economy factor = 0.10 } } }
-	random_country = {
-		limit = { tag = AFG is_vassal = yes overlord = { NOT = { government = proletarian_dictatorship } } }
-		overlord = { country_event =  8000111 }
-	}
+    ai_chance = { factor = 100 }
+    government = presidential_dictatorship country_event = 800050
+    random_state = { any_pop = { dominant_issue = { value = parties_allowed factor = 0.15 } } }
+    random_state = { any_pop = { dominant_issue = { value = planned_economy factor = 0.10 } } }
+    random_country = {
+      limit = { tag = AFG is_vassal = yes overlord = { NOT = { government = proletarian_dictatorship } } }
+      overlord = { country_event =  8000111 }
+    }
   }
 
   option = {
     name = EVT_8000109_B
-	ai_chance = { factor = 0 }
-	any_pop = { militancy = 2.0 consciousness = 2 }
-	random_country = {
-		limit = { tag = AFG is_vassal = yes overlord = { NOT = { government = proletarian_dictatorship } } }
-		overlord = { country_event =  8000111 }
-	}
+    ai_chance = { factor = 0 }
+    any_pop = { militancy = 2.0 consciousness = 2 }
+    random_country = {
+      limit = { tag = AFG is_vassal = yes overlord = { NOT = { government = proletarian_dictatorship } } }
+      overlord = { country_event =  8000111 }
+    }
   }
 }
 country_event = {
@@ -88,17 +88,17 @@ country_event = {
 
   option = {
     name = EVT_8000110_A
-	government = proletarian_dictatorship  country_event = 800042
-	set_country_flag = soviet_intervention_in_afghanistan
-	country_event =  { id = 8176109 days = 30 }  
-	SUN  = { country_event = 8225000 } 
-	ai_chance = { factor = 0 }
+    government = proletarian_dictatorship  country_event = 800042
+    set_country_flag = soviet_intervention_in_afghanistan
+    country_event =  { id = 8176109 days = 30 }
+    SUN  = { country_event = 8225000 }
+    ai_chance = { factor = 0 }
   }
-  
+
   option = {
     name = EVT_8000110_B
-  	SUN  = { country_event = 8176112 }
-	ai_chance = { factor = 100 }
+    SUN  = { country_event = 8176112 }
+    ai_chance = { factor = 100 }
   }
 
 }
@@ -111,10 +111,10 @@ country_event = { # overlord
 
   option = {
     name = EVT_8000111_A
-	random_state = { any_pop = { dominant_issue = { value = parties_allowed factor = 0.35 } } }
-	random_state = { any_pop = { dominant_issue = { value = moralism factor = 0.4 } } }
-	release = AFG 
-	diplomatic_influence = { who = AFG value = -200 }
+    random_state = { any_pop = { dominant_issue = { value = parties_allowed factor = 0.35 } } }
+    random_state = { any_pop = { dominant_issue = { value = moralism factor = 0.4 } } }
+    release = AFG
+    diplomatic_influence = { who = AFG value = -200 }
   }
 }
 country_event = {
@@ -134,9 +134,9 @@ country_event = {
 
   option = {
     name = OK
-	random_state = { any_pop = { dominant_issue = { value = parties_allowed factor = 0.15 } } }
-	random_state = { any_pop = { dominant_issue = { value = planned_economy factor = 0.10 } } }
-	define_general = { name = "Burhanuddin Rabbani" personality = energetic background = no_background }
+    random_state = { any_pop = { dominant_issue = { value = parties_allowed factor = 0.15 } } }
+    random_state = { any_pop = { dominant_issue = { value = planned_economy factor = 0.10 } } }
+    define_general = { name = "Burhanuddin Rabbani" personality = energetic background = no_background }
   }
 }
 
@@ -150,15 +150,15 @@ country_event = {
   trigger = {
     tag = AFG
     year = 1979
-	government = proletarian_dictatorship
+    government = proletarian_dictatorship
   }
   mean_time_to_happen = { months = 2 }
 
   option = {
     name = OK
-	relation = { who = SUN value = -50 }
-	random_state = { any_pop = { dominant_issue = { value = moralism factor = 0.15 } } }
-	define_general = { name = "Hafizullah Amin" personality = energetic background = no_background }
+    relation = { who = SUN value = -50 }
+    random_state = { any_pop = { dominant_issue = { value = moralism factor = 0.15 } } }
+    define_general = { name = "Hafizullah Amin" personality = energetic background = no_background }
   }
 }
 country_event = {
@@ -171,13 +171,13 @@ country_event = {
   trigger = {
     tag = AFG
     year = 1980
-	government = proletarian_dictatorship
+    government = proletarian_dictatorship
   }
 
   option = {
     name = OK
-	random_state = { any_pop = { dominant_issue = { value = moralism factor = 0.35 } } }
-	define_general = { name = "Babrak Karmal" personality = energetic background = no_background }
+    random_state = { any_pop = { dominant_issue = { value = moralism factor = 0.35 } } }
+    define_general = { name = "Babrak Karmal" personality = energetic background = no_background }
   }
 }
 country_event = {
@@ -190,14 +190,14 @@ country_event = {
   trigger = {
     tag = AFG
     year = 1981
-	OR = { government = absolute_monarchy government = hms_government }
+    OR = { government = absolute_monarchy government = hms_government }
   }
   mean_time_to_happen = { months = 8 }
 
   option = {
     name = OK
-	random_state = { any_pop = { dominant_issue = { value = moralism factor = 0.15 } } }
-	define_general = { name = "Sultan Ali Keshtmand" personality = energetic background = no_background }
+    random_state = { any_pop = { dominant_issue = { value = moralism factor = 0.15 } } }
+    define_general = { name = "Sultan Ali Keshtmand" personality = energetic background = no_background }
   }
 }
 country_event = {
@@ -209,8 +209,8 @@ country_event = {
 
   option = {
     name = EVT_8176109_A
-	relation = { who = SUN value = 200 } 
-	SUN = { military_access = THIS } 
+    relation = { who = SUN value = 200 }
+    SUN = { military_access = THIS }
   }
 }
 country_event = {
@@ -226,28 +226,28 @@ country_event = {
     AFG = { is_vassal = no }
     has_global_flag = afghani_coup_1973
     exists = AFG
-    
-	government = proletarian_dictatorship
-	war = no
+
+    government = proletarian_dictatorship
+    war = no
   }
   mean_time_to_happen = { months = 10 }
 
   option = {
     name = EVT_8176110_A
-	relation = { who = AFG value = -150 } 
-	any_pop = { consciousness = 2  }
-	badboy = 2
-	random_state = { any_pop = { dominant_issue = { value = interventionism factor = 0.4 } } }
-	AFG = { country_event =  8000110 }
-	ai_chance = { factor = 100 }
+    relation = { who = AFG value = -150 }
+    any_pop = { consciousness = 2  }
+    badboy = 2
+    random_state = { any_pop = { dominant_issue = { value = interventionism factor = 0.4 } } }
+    AFG = { country_event =  8000110 }
+    ai_chance = { factor = 100 }
   }
 
   option = {
     name = EVT_8176110_B
-	any_pop = { militancy = 1 }
-	country_event = 8225001 # communism_gets_weaker 
-	AFG = { country_event =  8176111 }
-	ai_chance = { factor = 0 }
+    any_pop = { militancy = 1 }
+    country_event = 8225001 # communism_gets_weaker
+    AFG = { country_event =  8176111 }
+    ai_chance = { factor = 0 }
   }
 }
 country_event = {
@@ -259,7 +259,7 @@ country_event = {
 
   option = {
     name = EVT_8176111_A
-	any_pop = { militancy = 1.0 consciousness = 2  }
+    any_pop = { militancy = 1.0 consciousness = 2  }
   }
 }
 country_event = {
@@ -271,17 +271,17 @@ country_event = {
 
   option = {
     name = EVT_8176112_A
-	# infamy unsanctioned
-	war = { target = AFG attacker_goal = { casus_belli = install_communist_gov_cb } defender_goal = { casus_belli = status_quo } }
-	set_country_flag = soviet_intervention_in_afghanistan
-	ai_chance = { factor = 100 }
- }
+    # infamy unsanctioned
+    war = { target = AFG attacker_goal = { casus_belli = install_communist_gov_cb } defender_goal = { casus_belli = status_quo } }
+    set_country_flag = soviet_intervention_in_afghanistan
+    ai_chance = { factor = 100 }
+  }
 
   option = {
     name = EVT_8176112_B
-	badboy = -10 
-	country_event = 8176114 
-	ai_chance = { factor = 0 }
+    badboy = -10
+    country_event = 8176114
+    ai_chance = { factor = 0 }
   }
 }
 country_event = {
@@ -292,19 +292,19 @@ country_event = {
   fire_only_once = yes
 
   trigger = {
-	war = no
-	has_country_flag = soviet_intervention_in_afghanistan
-	tag = SUN
-	government = proletarian_dictatorship
-	AFG = { NOT = { government = proletarian_dictatorship } }
+    war = no
+    has_country_flag = soviet_intervention_in_afghanistan
+    tag = SUN
+    government = proletarian_dictatorship
+    AFG = { NOT = { government = proletarian_dictatorship } }
   }
-  
+
   mean_time_to_happen = { months = 1 }
-  
+
   option = {
     name = EVT_8176113_A
-	any_pop = { consciousness = 1 }
-	country_event = 8225001
+    any_pop = { consciousness = 1 }
+    country_event = 8225001
   }
 
 }
@@ -317,89 +317,89 @@ country_event = {
 
   option = {
     name = EVT_8176114_A
-	any_pop = { consciousness = 1 }
-	SUN  = { country_event = 8225001 } 
+    any_pop = { consciousness = 1 }
+    SUN  = { country_event = 8225001 }
   }
 }
 country_event = {
-	id = 8000121
-	title = EVT_8000121_NAME
-	desc = EVT_8000121_DESC
-	picture = "afghan_civial_war"
+  id = 8000121
+  title = EVT_8000121_NAME
+  desc = EVT_8000121_DESC
+  picture = "afghan_civial_war"
 
-	trigger = {
-		tag = AFG
-		has_country_flag = soviet_intervention_in_afghanistan
-		OR = { 
-			NOT = { ideology  = traditionalist }
-			NOT = { has_country_modifier = sharia }
-		}
-		NOT = { year = 1996 }
-	}
+  trigger = {
+    tag = AFG
+    has_country_flag = soviet_intervention_in_afghanistan
+    OR = {
+      NOT = { ideology  = traditionalist }
+      NOT = { has_country_modifier = sharia }
+    }
+    NOT = { year = 1996 }
+  }
 
-	mean_time_to_happen = { months = 11 }
+  mean_time_to_happen = { months = 11 }
 
-	option = {
-		name = EVT_8000121_B
-		ai_chance = { factor = 100 }
-		any_pop = {
-			limit = {
-				has_pop_religion = sunni
-				is_primary_culture = no
-			}
-			ideology = { factor = 0.5 value = traditionalist }
-            militancy = 10
-			consciousness = 2 
-		}
-	}
+  option = {
+    name = EVT_8000121_B
+    ai_chance = { factor = 100 }
+    any_pop = {
+      limit = {
+        has_pop_religion = sunni
+        is_primary_culture = no
+      }
+      ideology = { factor = 0.5 value = traditionalist }
+      militancy = 10
+      consciousness = 2
+    }
+  }
 
 }
 
 country_event = {
-	id = 8000122
-	title = EVT_8000122_NAME
-	desc = EVT_8000122_DESC
-	picture = "taliban"
-	fire_only_once =yes
+  id = 8000122
+  title = EVT_8000122_NAME
+  desc = EVT_8000122_DESC
+  picture = "taliban"
+  fire_only_once =yes
 
-	trigger = {
-		tag = AFG
-		OR = { 
-			NOT = { ideology = traditionalist }
-			NOT = { has_country_modifier = sharia }
-		}
-		NOT = { government = proletarian_dictatorship }
-		year = 1996
-	}
+  trigger = {
+    tag = AFG
+    OR = {
+      NOT = { ideology = traditionalist }
+      NOT = { has_country_modifier = sharia }
+    }
+    NOT = { government = proletarian_dictatorship }
+    year = 1996
+  }
 
-	mean_time_to_happen = {
-		months = 1
-	}
+  mean_time_to_happen = {
+    months = 1
+  }
 
-	option = {
-		name = EVT_8000122_A 
-		ai_chance = { factor = 100 }
-		any_pop = {
-			limit = {
-				has_pop_religion = sunni
-			}
-            militancy = -10
-			consciousness = -5 
-		}
-		government = theocracy religion = sunni country_event = 800051
-		add_country_modifier = { name = sharia duration = 1750 }
-	}
+  option = {
+    name = EVT_8000122_A
+    ai_chance = { factor = 100 }
+    any_pop = {
+      limit = {
+        has_pop_religion = sunni
+      }
+      militancy = -10
+      consciousness = -5
+    }
+    government = theocracy religion = sunni country_event = 800051
+    add_country_modifier = { name = sharia duration = 1750 }
+  }
 
-	option = {
-		name = EVT_8000122_B
-		any_pop = {
-			limit = {
-				has_pop_religion = sunni
-			}
-            militancy = 4
-			consciousness = 2 
-		}
-		ai_chance = { factor = 0 }
-	}
+  option = {
+    name = EVT_8000122_B
+    any_pop = {
+      limit = {
+        has_pop_religion = sunni
+      }
+      militancy = 4
+      consciousness = 2
+    }
+    ai_chance = { factor = 0 }
+  }
 
 }

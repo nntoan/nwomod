@@ -6,9 +6,9 @@ life_rating = 27
 terrain = marginal_farmland
 colonial = 2
 1992.1.1 = {
-owner = NET
-controller = NET
-add_core = CUR
-railroad = 1
-colonial = 2
+  owner = NET
+  controller = NET
+  add_core = CUR
+  railroad = 1
+  colonial = 2
 }

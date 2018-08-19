@@ -7,15 +7,15 @@ country_event = {
 
   trigger = {
     tag = HAI
-	year = 1949 NOT = { year = 1950 }
+    year = 1949 NOT = { year = 1950 }
   }
 
   mean_time_to_happen = { months = 6  }
 
   option = {
     name = EVT_8006601_A
-	government = presidential_dictatorship country_event = 800050
-	define_general = { name = "Paul Magloire" personality = energetic background = no_background }
+    government = presidential_dictatorship country_event = 800050
+    define_general = { name = "Paul Magloire" personality = energetic background = no_background }
   }
 }
 country_event = {
@@ -27,15 +27,15 @@ country_event = {
 
   trigger = {
     tag = HAI
-	year = 1953 NOT = { year = 1954 }
+    year = 1953 NOT = { year = 1954 }
   }
 
   mean_time_to_happen = { months = 1 }
 
   option = {
     name = EVT_8006609_A
-	add_country_modifier = { name = great_depression duration = 350 }
-	any_pop = { militancy = 2.0 consciousness = 1 }
+    add_country_modifier = { name = great_depression duration = 350 }
+    any_pop = { militancy = 2.0 consciousness = 1 }
   }
 }
 country_event = {
@@ -47,16 +47,16 @@ country_event = {
 
   trigger = {
     tag = HAI
-	year = 1960 NOT = { year = 1963 }
+    year = 1960 NOT = { year = 1963 }
   }
 
   mean_time_to_happen = { months = 2 }
 
   option = {
     name = EVT_8006610_A
-	government = presidential_dictatorship country_event = 800050
-	any_pop = { militancy = 1.0 consciousness = 2 }
-	random_state = { any_pop = { dominant_issue = { value = full_citizenship factor = 0.65 } } }
+    government = presidential_dictatorship country_event = 800050
+    any_pop = { militancy = 1.0 consciousness = 2 }
+    random_state = { any_pop = { dominant_issue = { value = full_citizenship factor = 0.65 } } }
   }
 }
 country_event = {
@@ -68,14 +68,14 @@ country_event = {
 
   trigger = {
     tag = HAI
-	year = 1980 NOT = { year = 1983 }
+    year = 1980 NOT = { year = 1983 }
   }
 
   mean_time_to_happen = { months = 2 }
 
   option = {
     name = EVT_8006611_A
-	any_pop = { militancy = 1.0 consciousness = 2 }
-	random_state = { any_pop = { dominant_issue = { value = full_citizenship factor = 0.6 } } }
+    any_pop = { militancy = 1.0 consciousness = 2 }
+    random_state = { any_pop = { dominant_issue = { value = full_citizenship factor = 0.6 } } }
   }
 }

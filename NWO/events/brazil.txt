@@ -8,17 +8,17 @@ country_event = {
   trigger = {
     tag = BRZ
     year = 1930
-	NOT = { year = 1946 }
+    NOT = { year = 1946 }
   }
 
   mean_time_to_happen = { months = 2 }
 
   option = {
     name = "OK"
-	government = presidential_dictatorship  country_event = 800050
-	random_state = { any_pop = { dominant_issue = { value = parties_allowed factor = 0.01 } } }
-	random_state = { any_pop = { dominant_issue = { value = planned_economy factor = 0.05 } } }
-	define_general = { name = "Vargas" personality = energetic background = no_background }
+    government = presidential_dictatorship  country_event = 800050
+    random_state = { any_pop = { dominant_issue = { value = parties_allowed factor = 0.01 } } }
+    random_state = { any_pop = { dominant_issue = { value = planned_economy factor = 0.05 } } }
+    define_general = { name = "Vargas" personality = energetic background = no_background }
   }
 }
 country_event = { # Suicide of Vargas
@@ -30,8 +30,8 @@ country_event = { # Suicide of Vargas
 
   trigger = {
     tag = BRZ
-	year = 1954
-	OR = { government = presidential_dictatorship government = populist_dictatorship }
+    year = 1954
+    OR = { government = presidential_dictatorship government = populist_dictatorship }
     NOT = { year = 1955 }
   }
 
@@ -39,8 +39,8 @@ country_event = { # Suicide of Vargas
 
   option = {
     name = "EVT_8002004_A"
-	government = democracy  country_event = 800054
-	any_pop = { consciousness = 1 }
+    government = democracy  country_event = 800054
+    any_pop = { consciousness = 1 }
   }
 }
 country_event = { # Import substitution industrialization
@@ -52,7 +52,7 @@ country_event = { # Import substitution industrialization
 
   trigger = {
     tag = BRZ
- 	year = 1949
+    year = 1949
     NOT = { year = 1965 }
   }
 
@@ -60,7 +60,7 @@ country_event = { # Import substitution industrialization
 
   option = {
     name = "EVT_8002007_A"
-	add_country_modifier = { name = import_substitution_industrialization duration = 5475 }
+    add_country_modifier = { name = import_substitution_industrialization duration = 5475 }
   }
 }
 country_event = { # Resignation of Quadros
@@ -72,7 +72,7 @@ country_event = { # Resignation of Quadros
 
   trigger = {
     tag = BRZ
- 	year = 1961
+    year = 1961
     NOT = { year = 1965 }
   }
 
@@ -80,7 +80,7 @@ country_event = { # Resignation of Quadros
 
   option = {
     name = "EVT_8002007_A"
-	relation = { who = SUN value = 50 }
+    relation = { who = SUN value = 50 }
   }
 }
 country_event = {
@@ -92,7 +92,7 @@ country_event = {
 
   trigger = {
     tag = BRZ
- 	year = 1964
+    year = 1964
     NOT = { year = 1966 }
   }
 
@@ -100,10 +100,10 @@ country_event = {
 
   option = {
     name = EVT_8002008_A
-	relation = { who = SUN value = -50 }
-	relation = { who = USA value = 100 }
-	government = presidential_dictatorship  country_event = 800050
-	any_pop = {  consciousness = 1 }
+    relation = { who = SUN value = -50 }
+    relation = { who = USA value = 100 }
+    government = presidential_dictatorship  country_event = 800050
+    any_pop = {  consciousness = 1 }
   }
 }
 country_event = {
@@ -115,7 +115,7 @@ country_event = {
 
   trigger = {
     tag = BRZ
- 	year = 1956
+    year = 1956
     NOT = { year = 1960 }
   }
 
@@ -123,16 +123,16 @@ country_event = {
 
   option = {
     name = "EVT_8002015_A"
-	treasury = -5000 
-	add_country_modifier = { name = five_year_plan duration = 1500 }
-	ai_chance = { factor = 100 }
+    treasury = -5000
+    add_country_modifier = { name = five_year_plan duration = 1500 }
+    ai_chance = { factor = 100 }
   }
 
   option = {
     name = "EVT_8002015_B"
-	any_pop = {  consciousness = 2 }
-	treasury = 5000 
-	ai_chance = { factor = 0 }
+    any_pop = {  consciousness = 2 }
+    treasury = 5000
+    ai_chance = { factor = 0 }
   }
 }
 
@@ -145,23 +145,23 @@ country_event = {
 
   trigger = {
     tag = BRZ
- 	year = 1993
-	government = democracy
+    year = 1993
+    government = democracy
   }
 
   mean_time_to_happen = { months = 2 }
 
   option = {
     name = "EVT_8002016_A"
-	prestige = 4
-	ai_chance = { factor = 100 }
+    prestige = 4
+    ai_chance = { factor = 100 }
   }
 
   option = {
     name = "EVT_8002016_A"
-	government = hms_government
-	prestige = -4
-	ai_chance = { factor = 0 }
+    government = hms_government
+    prestige = -4
+    ai_chance = { factor = 0 }
   }
 
 }

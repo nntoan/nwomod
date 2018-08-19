@@ -1,130 +1,130 @@
 #Mogadishu - Mogadishu (2466000/616500 POPS)
 1868 = {
-	aristocrats = {
-		culture = somali
-		religion =  sunni 
-		size = 24660
-	 } 
-	capitalists = {
-		culture = somali
-		religion =  sunni 
-		size = 3082
-	 } 
-	clergymen = {
-		culture = somali
-		religion =  sunni 
-		size = 12330
-	 } 
-	clerks = {
-		culture = somali
-		religion =  sunni 
-		size = 8669
-	 } 
-	artisans = {
-		culture = somali
-		religion =  sunni 
-		size = 8235
-	 } 
-	craftsmen = {
-		culture = somali
-		religion =  sunni 
-		size = 26007
-	 } 
-	farmers = {
-		culture = somali
-		religion =  sunni 
-		size = 464064
-	 } 
-	farmers = {
-		culture = swahili
-		religion =  sunni 
-		size = 30825
-	 } 
-	farmers = {
-		culture = sunni_arab
-		religion =  sunni 
-		size = 36990
-	 } 
+  aristocrats = {
+    culture = somali
+    religion =  sunni
+    size = 24660
+  }
+  capitalists = {
+    culture = somali
+    religion =  sunni
+    size = 3082
+  }
+  clergymen = {
+    culture = somali
+    religion =  sunni
+    size = 12330
+  }
+  clerks = {
+    culture = somali
+    religion =  sunni
+    size = 8669
+  }
+  artisans = {
+    culture = somali
+    religion =  sunni
+    size = 8235
+  }
+  craftsmen = {
+    culture = somali
+    religion =  sunni
+    size = 26007
+  }
+  farmers = {
+    culture = somali
+    religion =  sunni
+    size = 464064
+  }
+  farmers = {
+    culture = swahili
+    religion =  sunni
+    size = 30825
+  }
+  farmers = {
+    culture = sunni_arab
+    religion =  sunni
+    size = 36990
+  }
 }
 #Baidoa - Baidoa (1062000/265500 POPS)
 1869 = {
-	clergymen = {
-		culture = somali
-		religion =  sunni 
-		size = 5310
-	 } 
-	farmers = {
-		culture = somali
-		religion =  sunni 
-		size = 260190
-	 } 
+  clergymen = {
+    culture = somali
+    religion =  sunni
+    size = 5310
+  }
+  farmers = {
+    culture = somali
+    religion =  sunni
+    size = 260190
+  }
 }
 #Kismayo - Kismayo (1062000/265500 POPS)
 1870 = {
-	clergymen = {
-		culture = somali
-		religion =  sunni 
-		size = 5310
-	 } 
-	farmers = {
-		culture = somali
-		religion =  sunni 
-		size = 21240
-	 } 
-	farmers = {
-		culture = mushunguli
-		religion =  sunni 
-		size = 238950
-	 } 
+  clergymen = {
+    culture = somali
+    religion =  sunni
+    size = 5310
+  }
+  farmers = {
+    culture = somali
+    religion =  sunni
+    size = 21240
+  }
+  farmers = {
+    culture = mushunguli
+    religion =  sunni
+    size = 238950
+  }
 }
 #Hobye - Hobye (1062000/265500 POPS)
 1871 = {
-	clergymen = {
-		culture = somali
-		religion =  sunni 
-		size = 5310
-	 } 
-	farmers = {
-		culture = somali
-		religion =  sunni 
-		size = 260190
-	 } 
+  clergymen = {
+    culture = somali
+    religion =  sunni
+    size = 5310
+  }
+  farmers = {
+    culture = somali
+    religion =  sunni
+    size = 260190
+  }
 }
 #Busaso - Busaso (1037000/259250 POPS)
 1872 = {
-	aristocrats = {
-		culture = somali
-		religion =  sunni 
-		size = 10370
-	 } 
-	capitalists = {
-		culture = somali
-		religion =  sunni 
-		size = 1296
-	 } 
-	clergymen = {
-		culture = somali
-		religion =  sunni 
-		size = 5185
-	 } 
-	clerks = {
-		culture = somali
-		religion =  sunni 
-		size = 3648
-	 } 
-	artisans = {
-		culture = somali
-		religion =  sunni 
-		size = 3466
-	 } 
-	craftsmen = {
-		culture = somali
-		religion =  sunni 
-		size = 10946
-	 } 
-	farmers = {
-		culture = somali
-		religion =  sunni 
-		size = 223896
-	 } 
+  aristocrats = {
+    culture = somali
+    religion =  sunni
+    size = 10370
+  }
+  capitalists = {
+    culture = somali
+    religion =  sunni
+    size = 1296
+  }
+  clergymen = {
+    culture = somali
+    religion =  sunni
+    size = 5185
+  }
+  clerks = {
+    culture = somali
+    religion =  sunni
+    size = 3648
+  }
+  artisans = {
+    culture = somali
+    religion =  sunni
+    size = 3466
+  }
+  craftsmen = {
+    culture = somali
+    religion =  sunni
+    size = 10946
+  }
+  farmers = {
+    culture = somali
+    religion =  sunni
+    size = 223896
+  }
 }

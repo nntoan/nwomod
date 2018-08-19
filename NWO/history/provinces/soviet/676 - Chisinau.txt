@@ -6,13 +6,13 @@ life_rating = 27
 terrain = special_chisinau
 colonial = 0
 1992.1.1 = {
-owner = MDA
-controller = MDA
-add_core = MDA
-colonial = 0
-state_building = {
-	level = 2
-	building = clothes_factory
-	upgrade = yes
-}
+  owner = MDA
+  controller = MDA
+  add_core = MDA
+  colonial = 0
+  state_building = {
+    level = 2
+    building = clothes_factory
+    upgrade = yes
+  }
 }

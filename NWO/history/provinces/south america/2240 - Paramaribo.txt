@@ -6,8 +6,8 @@ life_rating = 28
 terrain = special_paramaribo
 colonial = 2
 1992.1.1 = {
-owner = SUR
-controller = SUR
-add_core = SUR
-colonial = 0
+  owner = SUR
+  controller = SUR
+  add_core = SUR
+  colonial = 0
 }

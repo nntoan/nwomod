@@ -1,442 +1,442 @@
 #Accra - Greater Accra (2488000/622000 POPS)
 1907 = {
-	officers = {
-		culture = anglo_african
-		religion =  protestant 
-		size = 3582
-	 } 
-	officers = {
-		culture = anglo_african
-		religion = secularism
-		size = 149
-	 } 
-	soldiers = {
-		culture = anglo_african
-		religion =  protestant 
-		size = 56129
-	 } 
-	soldiers = {
-		culture = anglo_african
-		religion = secularism
-		size = 2338
-	 } 
-	soldiers = {
-		culture = akan
-		religion =  protestant 
-		size = 11951
-	 } 
-	soldiers = {
-		culture = akan
-		religion = secularism
-		size = 497
-	 } 
-	aristocrats = {
-		culture = akan
-		religion =  protestant 
-		size = 23884
-	 } 
-	aristocrats = {
-		culture = akan
-		religion = secularism
-		size = 995
-	 } 
-	bureaucrats = {
-		culture = akan
-		religion =  protestant 
-		size = 597
-	 } 
-	bureaucrats = {
-		culture = akan
-		religion = secularism
-		size = 24
-	 } 
-	capitalists = {
-		culture = akan
-		religion =  protestant 
-		size = 2985
-	 } 
-	capitalists = {
-		culture = akan
-		religion = secularism
-		size = 124
-	 } 
-	clergymen = {
-		culture = akan
-		religion =  protestant 
-		size = 11942
-	 } 
-	clergymen = {
-		culture = akan
-		religion = secularism
-		size = 497
-	 } 
-	clerks = {
-		culture = akan
-		religion =  protestant 
-		size = 10188
-	 } 
-	clerks = {
-		culture = akan
-		religion = secularism
-		size = 424
-	 } 
-	artisans = {
-		culture = akan
-		religion =  protestant 
-		size = 9678
-	 } 
-	artisans = {
-		culture = akan
-		religion = secularism
-		size = 403
-	 } 
-	craftsmen = {
-		culture = akan
-		religion =  protestant 
-		size = 30565
-	 } 
-	craftsmen = {
-		culture = akan
-		religion = secularism
-		size = 1273
-	 } 
-	farmers = {
-		culture = akan
-		religion =  protestant 
-		size = 29572
-	 } 
-	farmers = {
-		culture = akan
-		religion = secularism
-		size = 1232
-	 } 
-	farmers = {
-		culture = ewe
-		religion =  catholic 
-		size = 256761
-	 } 
-	farmers = {
-		culture = ewe
-		religion = secularism
-		size = 10698
-	 } 
-	farmers = {
-		culture = ga_adangbe
-		religion =  protestant 
-		size = 149280
-	 } 
-	farmers = {
-		culture = ga_adangbe
-		religion = secularism
-		size = 6220
-	 } 
+  officers = {
+    culture = anglo_african
+    religion =  protestant
+    size = 3582
+  }
+  officers = {
+    culture = anglo_african
+    religion = secularism
+    size = 149
+  }
+  soldiers = {
+    culture = anglo_african
+    religion =  protestant
+    size = 56129
+  }
+  soldiers = {
+    culture = anglo_african
+    religion = secularism
+    size = 2338
+  }
+  soldiers = {
+    culture = akan
+    religion =  protestant
+    size = 11951
+  }
+  soldiers = {
+    culture = akan
+    religion = secularism
+    size = 497
+  }
+  aristocrats = {
+    culture = akan
+    religion =  protestant
+    size = 23884
+  }
+  aristocrats = {
+    culture = akan
+    religion = secularism
+    size = 995
+  }
+  bureaucrats = {
+    culture = akan
+    religion =  protestant
+    size = 597
+  }
+  bureaucrats = {
+    culture = akan
+    religion = secularism
+    size = 24
+  }
+  capitalists = {
+    culture = akan
+    religion =  protestant
+    size = 2985
+  }
+  capitalists = {
+    culture = akan
+    religion = secularism
+    size = 124
+  }
+  clergymen = {
+    culture = akan
+    religion =  protestant
+    size = 11942
+  }
+  clergymen = {
+    culture = akan
+    religion = secularism
+    size = 497
+  }
+  clerks = {
+    culture = akan
+    religion =  protestant
+    size = 10188
+  }
+  clerks = {
+    culture = akan
+    religion = secularism
+    size = 424
+  }
+  artisans = {
+    culture = akan
+    religion =  protestant
+    size = 9678
+  }
+  artisans = {
+    culture = akan
+    religion = secularism
+    size = 403
+  }
+  craftsmen = {
+    culture = akan
+    religion =  protestant
+    size = 30565
+  }
+  craftsmen = {
+    culture = akan
+    religion = secularism
+    size = 1273
+  }
+  farmers = {
+    culture = akan
+    religion =  protestant
+    size = 29572
+  }
+  farmers = {
+    culture = akan
+    religion = secularism
+    size = 1232
+  }
+  farmers = {
+    culture = ewe
+    religion =  catholic
+    size = 256761
+  }
+  farmers = {
+    culture = ewe
+    religion = secularism
+    size = 10698
+  }
+  farmers = {
+    culture = ga_adangbe
+    religion =  protestant
+    size = 149280
+  }
+  farmers = {
+    culture = ga_adangbe
+    religion = secularism
+    size = 6220
+  }
 }
 #Cape Coast - Central (1474000/368500 POPS)
 1908 = {
-	clergymen = {
-		culture = akan
-		religion =  protestant 
-		size = 7075
-	 } 
-	clergymen = {
-		culture = akan
-		religion = secularism
-		size = 294
-	 } 
-	farmers = {
-		culture = akan
-		religion =  protestant 
-		size = 346684
-	 } 
-	farmers = {
-		culture = akan
-		religion = secularism
-		size = 14445
-	 } 
+  clergymen = {
+    culture = akan
+    religion =  protestant
+    size = 7075
+  }
+  clergymen = {
+    culture = akan
+    religion = secularism
+    size = 294
+  }
+  farmers = {
+    culture = akan
+    religion =  protestant
+    size = 346684
+  }
+  farmers = {
+    culture = akan
+    religion = secularism
+    size = 14445
+  }
 }
 #Sekondi - Western (1474000/368500 POPS)
 1909 = {
-	clergymen = {
-		culture = african_minor
-		religion =  catholic 
-		size = 7075
-	 } 
-	clergymen = {
-		culture = african_minor
-		religion = secularism
-		size = 294
-	 } 
-	farmers = {
-		culture = african_minor
-		religion =  catholic 
-		size = 346684
-	 } 
-	farmers = {
-		culture = african_minor
-		religion = secularism
-		size = 14445
-	 } 
+  clergymen = {
+    culture = african_minor
+    religion =  catholic
+    size = 7075
+  }
+  clergymen = {
+    culture = african_minor
+    religion = secularism
+    size = 294
+  }
+  farmers = {
+    culture = african_minor
+    religion =  catholic
+    size = 346684
+  }
+  farmers = {
+    culture = african_minor
+    religion = secularism
+    size = 14445
+  }
 }
 #Kumasi - Ashanti, Eastern (4600000/1150000 POPS)
 1910 = {
-	officers = {
-		culture = akan
-		religion =  protestant 
-		size = 5104
-	 } 
-	officers = {
-		culture = akan
-		religion = secularism
-		size = 212
-	 } 
-	soldiers = {
-		culture = akan
-		religion =  protestant 
-		size = 96983
-	 } 
-	soldiers = {
-		culture = akan
-		religion = secularism
-		size = 4040
-	 } 
-	aristocrats = {
-		culture = akan
-		religion =  protestant 
-		size = 44160
-	 } 
-	aristocrats = {
-		culture = akan
-		religion = secularism
-		size = 1840
-	 } 
-	bureaucrats = {
-		culture = akan
-		religion =  protestant 
-		size = 1104
-	 } 
-	bureaucrats = {
-		culture = akan
-		religion = secularism
-		size = 46
-	 } 
-	capitalists = {
-		culture = akan
-		religion =  protestant 
-		size = 5520
-	 } 
-	capitalists = {
-		culture = akan
-		religion = secularism
-		size = 230
-	 } 
-	clergymen = {
-		culture = akan
-		religion =  protestant 
-		size = 22080
-	 } 
-	clergymen = {
-		culture = akan
-		religion = secularism
-		size = 920
-	 } 
-	clerks = {
-		culture = akan
-		religion =  protestant 
-		size = 19426
-	 } 
-	clerks = {
-		culture = akan
-		religion = secularism
-		size = 809
-	 } 
-	artisans = {
-		culture = akan
-		religion =  protestant 
-		size = 18455
-	 } 
-	artisans = {
-		culture = akan
-		religion = secularism
-		size = 768
-	 } 
-	craftsmen = {
-		culture = akan
-		religion =  protestant 
-		size = 58280
-	 } 
-	craftsmen = {
-		culture = akan
-		religion = secularism
-		size = 2428
-	 } 
-	farmers = {
-		culture = akan
-		religion =  protestant 
-		size = 777686
-	 } 
-	farmers = {
-		culture = akan
-		religion = secularism
-		size = 32403
-	 } 
-	farmers = {
-		culture = ewe
-		religion =  catholic 
-		size = 55200
-	 } 
-	farmers = {
-		culture = ewe
-		religion = secularism
-		size = 2300
-	 } 
+  officers = {
+    culture = akan
+    religion =  protestant
+    size = 5104
+  }
+  officers = {
+    culture = akan
+    religion = secularism
+    size = 212
+  }
+  soldiers = {
+    culture = akan
+    religion =  protestant
+    size = 96983
+  }
+  soldiers = {
+    culture = akan
+    religion = secularism
+    size = 4040
+  }
+  aristocrats = {
+    culture = akan
+    religion =  protestant
+    size = 44160
+  }
+  aristocrats = {
+    culture = akan
+    religion = secularism
+    size = 1840
+  }
+  bureaucrats = {
+    culture = akan
+    religion =  protestant
+    size = 1104
+  }
+  bureaucrats = {
+    culture = akan
+    religion = secularism
+    size = 46
+  }
+  capitalists = {
+    culture = akan
+    religion =  protestant
+    size = 5520
+  }
+  capitalists = {
+    culture = akan
+    religion = secularism
+    size = 230
+  }
+  clergymen = {
+    culture = akan
+    religion =  protestant
+    size = 22080
+  }
+  clergymen = {
+    culture = akan
+    religion = secularism
+    size = 920
+  }
+  clerks = {
+    culture = akan
+    religion =  protestant
+    size = 19426
+  }
+  clerks = {
+    culture = akan
+    religion = secularism
+    size = 809
+  }
+  artisans = {
+    culture = akan
+    religion =  protestant
+    size = 18455
+  }
+  artisans = {
+    culture = akan
+    religion = secularism
+    size = 768
+  }
+  craftsmen = {
+    culture = akan
+    religion =  protestant
+    size = 58280
+  }
+  craftsmen = {
+    culture = akan
+    religion = secularism
+    size = 2428
+  }
+  farmers = {
+    culture = akan
+    religion =  protestant
+    size = 777686
+  }
+  farmers = {
+    culture = akan
+    religion = secularism
+    size = 32403
+  }
+  farmers = {
+    culture = ewe
+    religion =  catholic
+    size = 55200
+  }
+  farmers = {
+    culture = ewe
+    religion = secularism
+    size = 2300
+  }
 }
 #Kintampo - Bongo-Ahafo (1433000/358250 POPS)
 1911 = {
-	clergymen = {
-		culture = african_minor
-		religion =  catholic 
-		size = 6878
-	 } 
-	clergymen = {
-		culture = african_minor
-		religion = secularism
-		size = 286
-	 } 
-	farmers = {
-		culture = african_minor
-		religion =  catholic 
-		size = 120371
-	 } 
-	farmers = {
-		culture = african_minor
-		religion = secularism
-		size = 5015
-	 } 
-	farmers = {
-		culture = mossi
-		religion =  sunni 
-		size = 35825
-	 } 
-	farmers = {
-		culture = akan
-		religion =  protestant 
-		size = 182277
-	 } 
-	farmers = {
-		culture = akan
-		religion = secularism
-		size = 7594
-	 } 
+  clergymen = {
+    culture = african_minor
+    religion =  catholic
+    size = 6878
+  }
+  clergymen = {
+    culture = african_minor
+    religion = secularism
+    size = 286
+  }
+  farmers = {
+    culture = african_minor
+    religion =  catholic
+    size = 120371
+  }
+  farmers = {
+    culture = african_minor
+    religion = secularism
+    size = 5015
+  }
+  farmers = {
+    culture = mossi
+    religion =  sunni
+    size = 35825
+  }
+  farmers = {
+    culture = akan
+    religion =  protestant
+    size = 182277
+  }
+  farmers = {
+    culture = akan
+    religion = secularism
+    size = 7594
+  }
 }
 #Wa - Northen (1538000/384500 POPS)
 1912 = {
-	clergymen = {
-		culture = mossi
-		religion =  sunni 
-		size = 7690
-	 } 
-	farmers = {
-		culture = mossi
-		religion =  sunni 
-		size = 338360
-	 } 
-	farmers = {
-		culture = akan
-		religion =  protestant 
-		size = 36912
-	 } 
-	farmers = {
-		culture = akan
-		religion = secularism
-		size = 1538
-	 } 
+  clergymen = {
+    culture = mossi
+    religion =  sunni
+    size = 7690
+  }
+  farmers = {
+    culture = mossi
+    religion =  sunni
+    size = 338360
+  }
+  farmers = {
+    culture = akan
+    religion =  protestant
+    size = 36912
+  }
+  farmers = {
+    culture = akan
+    religion = secularism
+    size = 1538
+  }
 }
 #Tamale - Upper West (435000/108750 POPS)
 1913 = {
-	officers = {
-		culture = mossi
-		religion =  sunni 
-		size = 1916
-	 } 
-	soldiers = {
-		culture = mossi
-		religion =  sunni 
-		size = 36422
-	 } 
-	aristocrats = {
-		culture = mossi
-		religion =  sunni 
-		size = 4350
-	 } 
-	clergymen = {
-		culture = mossi
-		religion =  sunni 
-		size = 2175
-	 } 
-	clerks = {
-		culture = mossi
-		religion =  sunni 
-		size = 1365
-	 } 
-	artisans = {
-		culture = mossi
-		religion =  sunni 
-		size = 1296
-	 } 
-	craftsmen = {
-		culture = mossi
-		religion =  sunni 
-		size = 4095
-	 } 
-	farmers = {
-		culture = mossi
-		religion =  sunni 
-		size = 56480
-	 } 
+  officers = {
+    culture = mossi
+    religion =  sunni
+    size = 1916
+  }
+  soldiers = {
+    culture = mossi
+    religion =  sunni
+    size = 36422
+  }
+  aristocrats = {
+    culture = mossi
+    religion =  sunni
+    size = 4350
+  }
+  clergymen = {
+    culture = mossi
+    religion =  sunni
+    size = 2175
+  }
+  clerks = {
+    culture = mossi
+    religion =  sunni
+    size = 1365
+  }
+  artisans = {
+    culture = mossi
+    religion =  sunni
+    size = 1296
+  }
+  craftsmen = {
+    culture = mossi
+    religion =  sunni
+    size = 4095
+  }
+  farmers = {
+    culture = mossi
+    religion =  sunni
+    size = 56480
+  }
 }
 #Ho - Volta (1314000/328500 POPS)
 1915 = {
-	clergymen = {
-		culture = ewe
-		religion =  catholic 
-		size = 6307
-	 } 
-	clergymen = {
-		culture = ewe
-		religion = secularism
-		size = 262
-	 } 
-	farmers = {
-		culture = ewe
-		religion =  catholic 
-		size = 189216
-	 } 
-	farmers = {
-		culture = ewe
-		religion = secularism
-		size = 7884
-	 } 
-	farmers = {
-		culture = ga_adangbe
-		religion =  protestant 
-		size = 119836
-	 } 
-	farmers = {
-		culture = ga_adangbe
-		religion = secularism
-		size = 4993
-	 } 
+  clergymen = {
+    culture = ewe
+    religion =  catholic
+    size = 6307
+  }
+  clergymen = {
+    culture = ewe
+    religion = secularism
+    size = 262
+  }
+  farmers = {
+    culture = ewe
+    religion =  catholic
+    size = 189216
+  }
+  farmers = {
+    culture = ewe
+    religion = secularism
+    size = 7884
+  }
+  farmers = {
+    culture = ga_adangbe
+    religion =  protestant
+    size = 119836
+  }
+  farmers = {
+    culture = ga_adangbe
+    religion = secularism
+    size = 4993
+  }
 }
 #Yendi - Upper East (649000/162250 POPS)
 1916 = {
-	clergymen = {
-		culture = mossi
-		religion =  sunni 
-		size = 3245
-	 } 
-	farmers = {
-		culture = mossi
-		religion =  sunni 
-		size = 159005
-	 } 
+  clergymen = {
+    culture = mossi
+    religion =  sunni
+    size = 3245
+  }
+  farmers = {
+    culture = mossi
+    religion =  sunni
+    size = 159005
+  }
 }

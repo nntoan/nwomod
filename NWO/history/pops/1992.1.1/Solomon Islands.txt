@@ -1,126 +1,126 @@
 #Solomon Islands - Solomon Islands (307000/76750 POPS)
 2534 = {
-	aristocrats = {
-		culture = melanesian
-		religion =  protestant 
-		size = 3008
-	 } 
-	aristocrats = {
-		culture = melanesian
-		religion = secularism
-		size = 61
-	 } 
-	bureaucrats = {
-		culture = melanesian
-		religion =  protestant 
-		size = 74
-	 } 
-	bureaucrats = {
-		culture = melanesian
-		religion = secularism
-		size = 1
-	 } 
-	capitalists = {
-		culture = melanesian
-		religion =  protestant 
-		size = 375
-	 } 
-	capitalists = {
-		culture = melanesian
-		religion = secularism
-		size = 7
-	 } 
-	clergymen = {
-		culture = melanesian
-		religion =  protestant 
-		size = 1504
-	 } 
-	clergymen = {
-		culture = melanesian
-		religion = secularism
-		size = 30
-	 } 
-	clerks = {
-		culture = melanesian
-		religion =  protestant 
-		size = 575
-	 } 
-	clerks = {
-		culture = melanesian
-		religion = secularism
-		size = 11
-	 } 
-	artisans = {
-		culture = melanesian
-		religion =  protestant 
-		size = 546
-	 } 
-	artisans = {
-		culture = melanesian
-		religion = secularism
-		size = 11
-	 } 
-	craftsmen = {
-		culture = melanesian
-		religion =  protestant 
-		size = 1727
-	 } 
-	craftsmen = {
-		culture = melanesian
-		religion = secularism
-		size = 35
-	 } 
-	farmers = {
-		culture = melanesian
-		religion =  protestant 
-		size = 63866
-	 } 
-	farmers = {
-		culture = melanesian
-		religion = secularism
-		size = 1303
-	 } 
-	farmers = {
-		culture = polynesian
-		religion =  catholic 
-		size = 3534
-	 } 
-	farmers = {
-		culture = polynesian
-		religion = secularism
-		size = 72
-	 } 
+  aristocrats = {
+    culture = melanesian
+    religion =  protestant
+    size = 3008
+  }
+  aristocrats = {
+    culture = melanesian
+    religion = secularism
+    size = 61
+  }
+  bureaucrats = {
+    culture = melanesian
+    religion =  protestant
+    size = 74
+  }
+  bureaucrats = {
+    culture = melanesian
+    religion = secularism
+    size = 1
+  }
+  capitalists = {
+    culture = melanesian
+    religion =  protestant
+    size = 375
+  }
+  capitalists = {
+    culture = melanesian
+    religion = secularism
+    size = 7
+  }
+  clergymen = {
+    culture = melanesian
+    religion =  protestant
+    size = 1504
+  }
+  clergymen = {
+    culture = melanesian
+    religion = secularism
+    size = 30
+  }
+  clerks = {
+    culture = melanesian
+    religion =  protestant
+    size = 575
+  }
+  clerks = {
+    culture = melanesian
+    religion = secularism
+    size = 11
+  }
+  artisans = {
+    culture = melanesian
+    religion =  protestant
+    size = 546
+  }
+  artisans = {
+    culture = melanesian
+    religion = secularism
+    size = 11
+  }
+  craftsmen = {
+    culture = melanesian
+    religion =  protestant
+    size = 1727
+  }
+  craftsmen = {
+    culture = melanesian
+    religion = secularism
+    size = 35
+  }
+  farmers = {
+    culture = melanesian
+    religion =  protestant
+    size = 63866
+  }
+  farmers = {
+    culture = melanesian
+    religion = secularism
+    size = 1303
+  }
+  farmers = {
+    culture = polynesian
+    religion =  catholic
+    size = 3534
+  }
+  farmers = {
+    culture = polynesian
+    religion = secularism
+    size = 72
+  }
 }
 #Santa Cruz Islands - Santa Cruz Islands (13000/3250 POPS)
 2536 = {
-	clergymen = {
-		culture = melanesian
-		religion =  protestant 
-		size = 63
-	 } 
-	clergymen = {
-		culture = melanesian
-		religion = secularism
-		size = 1
-	 } 
-	farmers = {
-		culture = melanesian
-		religion =  protestant 
-		size = 2971
-	 } 
-	farmers = {
-		culture = melanesian
-		religion = secularism
-		size = 60
-	 } 
-	farmers = {
-		culture = polynesian
-		religion =  catholic 
-		size = 148
-	 } 
-	farmers = {
-		culture = polynesian
-		religion = secularism
-		size = 3
-	 } 
+  clergymen = {
+    culture = melanesian
+    religion =  protestant
+    size = 63
+  }
+  clergymen = {
+    culture = melanesian
+    religion = secularism
+    size = 1
+  }
+  farmers = {
+    culture = melanesian
+    religion =  protestant
+    size = 2971
+  }
+  farmers = {
+    culture = melanesian
+    religion = secularism
+    size = 60
+  }
+  farmers = {
+    culture = polynesian
+    religion =  catholic
+    size = 148
+  }
+  farmers = {
+    culture = polynesian
+    religion = secularism
+    size = 3
+  }
 }

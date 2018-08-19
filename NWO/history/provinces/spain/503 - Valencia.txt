@@ -7,25 +7,25 @@ life_rating = 23
 terrain = dry_forest_hills
 colonial = 0
 1992.1.1 = {
-owner = SPA
-controller = SPA
-add_core = CAT
-add_core = SPA
-railroad = 1
-colonial = 0
-state_building = {
-	level = 1
-	building = beverages_factory
-	upgrade = yes
-}
-state_building = {
-	level = 1
-	building = clothes_factory
-	upgrade = yes
-}
-state_building = {
-	level = 1
-	building = milk_cheese_factory
-	upgrade = yes
-}
+  owner = SPA
+  controller = SPA
+  add_core = CAT
+  add_core = SPA
+  railroad = 1
+  colonial = 0
+  state_building = {
+    level = 1
+    building = beverages_factory
+    upgrade = yes
+  }
+  state_building = {
+    level = 1
+    building = clothes_factory
+    upgrade = yes
+  }
+  state_building = {
+    level = 1
+    building = milk_cheese_factory
+    upgrade = yes
+  }
 }

@@ -6,8 +6,8 @@ life_rating = 45
 terrain = desert
 colonial = 0
 1992.1.1 = {
-owner = UAE
-controller = UAE
-add_core = UAE
-colonial = 0
+  owner = UAE
+  controller = UAE
+  add_core = UAE
+  colonial = 0
 }

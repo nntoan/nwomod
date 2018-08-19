@@ -6,8 +6,8 @@ life_rating = 39
 terrain = swamp_jungle
 colonial = 2
 1992.1.1 = {
-owner = COD
-controller = COD
-add_core = COD
-colonial = 0
+  owner = COD
+  controller = COD
+  add_core = COD
+  colonial = 0
 }

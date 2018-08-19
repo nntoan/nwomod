@@ -1,150 +1,150 @@
-# South Vietnam 
+# South Vietnam
 country_event = {
-	id = 1228001
-	title = EVT_1228001_NAME
-	desc = EVT_1228001_DESC
-	picture = "french_vietnam"
+  id = 1228001
+  title = EVT_1228001_NAME
+  desc = EVT_1228001_DESC
+  picture = "french_vietnam"
 
-	fire_only_once = yes
-	
-	trigger = {
-		tag = FRA
-		NOT = { exists = SVI }
-		exists = VNM
-		NOT = { year = 1990 }
-		war = no
-		1380 = { controlled_by = FRA } # Saigon
-		1369 = { NOT = { controlled_by = FRA } } # Hanoi
-	}
+  fire_only_once = yes
 
-	mean_time_to_happen = {
-		months = 2
-	}
+  trigger = {
+    tag = FRA
+    NOT = { exists = SVI }
+    exists = VNM
+    NOT = { year = 1990 }
+    war = no
+    1380 = { controlled_by = FRA } # Saigon
+    1369 = { NOT = { controlled_by = FRA } } # Hanoi
+  }
 
-	option = {
-		name = EVT_1228001_A # South Vietnam Independence
-		ai_chance = { factor = 0 }
-		prestige = -20 
-		release = SVI
-		release_vassal = CAM diplomatic_influence = { who = CAM value = -100 }
-		release_vassal = LAO diplomatic_influence = { who = LAO value = -100 }
-	}
-	
-	option = {
-		name = EVT_1228001_B # Leave Vietnam to it's faith
-		ai_chance = { factor = 100 }
-		USA = { country_event = 1228002 }
-		release_vassal = CAM diplomatic_influence = { who = CAM value = -100 }
-		release_vassal = LAO diplomatic_influence = { who = LAO value = -100 }
-	}
+  mean_time_to_happen = {
+    months = 2
+  }
 
-	option = {
-		name = EVT_1228001_C
-		ai_chance = { factor = 0 }
-		any_pop = {
-			limit = {
-				culture = vietnamese
-				is_primary_culture = no
-				is_accepted_culture = no
-			}
-			militancy = 4
-			consciousness = 2
-	   }
-	   release_vassal = SVI
-	}
+  option = {
+    name = EVT_1228001_A # South Vietnam Independence
+    ai_chance = { factor = 0 }
+    prestige = -20
+    release = SVI
+    release_vassal = CAM diplomatic_influence = { who = CAM value = -100 }
+    release_vassal = LAO diplomatic_influence = { who = LAO value = -100 }
+  }
+
+  option = {
+    name = EVT_1228001_B # Leave Vietnam to it's faith
+    ai_chance = { factor = 100 }
+    USA = { country_event = 1228002 }
+    release_vassal = CAM diplomatic_influence = { who = CAM value = -100 }
+    release_vassal = LAO diplomatic_influence = { who = LAO value = -100 }
+  }
+
+  option = {
+    name = EVT_1228001_C
+    ai_chance = { factor = 0 }
+    any_pop = {
+      limit = {
+        culture = vietnamese
+        is_primary_culture = no
+        is_accepted_culture = no
+      }
+      militancy = 4
+      consciousness = 2
+    }
+    release_vassal = SVI
+  }
 
 }
 
 country_event = {
-	id = 1228002
-	title = EVT_1228002_NAME
-	desc = EVT_1228002_DESC
-	picture = "nwo2_chinese_vietnam"
-	is_triggered_only = yes # USA
+  id = 1228002
+  title = EVT_1228002_NAME
+  desc = EVT_1228002_DESC
+  picture = "nwo2_chinese_vietnam"
+  is_triggered_only = yes # USA
 
-	option = {
-		name = EVT_1228002_A # South Vietnam Independence
-		ai_chance = { factor = 100 }
-		FRA = { release = SVI }
-		VNM = { country_event = 8228005 }
-		diplomatic_influence = {
-			who = SVI
-			value = 200
-		}
-		diplomatic_influence = {
-			who = CAM
-			value = 200
-		}
-		diplomatic_influence = {
-			who = LAO
-			value = 200
-		}
-	}
-	
-	option = {
-		name = EVT_1228002_B # Leave Vietnam to it's faith
-		ai_chance = { factor = 0 }
-		FRA = { release = VNM }
-	}
-	
-	option = {
-		name = EVT_8228002_A # Let's ask Chiang to help
-		FRA = { release = SVI }
-		FRA = { release = VNM }
-		KMT = { country_event = 8228003 }
-		ai_chance = { factor = 0 }
-	}
+  option = {
+    name = EVT_1228002_A # South Vietnam Independence
+    ai_chance = { factor = 100 }
+    FRA = { release = SVI }
+    VNM = { country_event = 8228005 }
+    diplomatic_influence = {
+      who = SVI
+      value = 200
+    }
+    diplomatic_influence = {
+      who = CAM
+      value = 200
+    }
+    diplomatic_influence = {
+      who = LAO
+      value = 200
+    }
+  }
+
+  option = {
+    name = EVT_1228002_B # Leave Vietnam to it's faith
+    ai_chance = { factor = 0 }
+    FRA = { release = VNM }
+  }
+
+  option = {
+    name = EVT_8228002_A # Let's ask Chiang to help
+    FRA = { release = SVI }
+    FRA = { release = VNM }
+    KMT = { country_event = 8228003 }
+    ai_chance = { factor = 0 }
+  }
 
 }
 
 # French won Vietnam war
 country_event = {
-	id = 1228003
-	title = EVT_1228003_NAME
-	desc = EVT_1228003_DESC
-	picture = "french_vietnam"
-	fire_only_once = yes
+  id = 1228003
+  title = EVT_1228003_NAME
+  desc = EVT_1228003_DESC
+  picture = "french_vietnam"
+  fire_only_once = yes
 
-	trigger = {
-		tag = FRA
-		NOT = { exists = SVI }
-		NOT = { exists = VNM }
-		war = no
-		owns = 1380 # Saigon
-		owns = 1369 # Hanoi
-		NOT = { year = 1990 }
-	}
+  trigger = {
+    tag = FRA
+    NOT = { exists = SVI }
+    NOT = { exists = VNM }
+    war = no
+    owns = 1380 # Saigon
+    owns = 1369 # Hanoi
+    NOT = { year = 1990 }
+  }
 
-	mean_time_to_happen = {
-		months = 24 # militanyc modifier
-	}
+  mean_time_to_happen = {
+    months = 24 # militanyc modifier
+  }
 
-	option = {
-		name = EVT_1228003_A # Vietnam Independence
-		ai_chance = { factor = 0 }
-		prestige = -2
-		release_vassal = VNM
-		VNM = { government = hms_government }
-		diplomatic_influence = {
-			who = VNM
-			value = 200
-		}
-	}
-	
-	option = {
-		name = EVT_1228003_B
-		ai_chance = { factor = 0 }
-		any_pop = {
-			limit = {
-				culture = vietnamese
-				is_primary_culture = no
-				is_accepted_culture = no
-			}
-			militancy = 4
-			consciousness = 2
-	   }
-	   badboy = 1
-	}
+  option = {
+    name = EVT_1228003_A # Vietnam Independence
+    ai_chance = { factor = 0 }
+    prestige = -2
+    release_vassal = VNM
+    VNM = { government = hms_government }
+    diplomatic_influence = {
+      who = VNM
+      value = 200
+    }
+  }
+
+  option = {
+    name = EVT_1228003_B
+    ai_chance = { factor = 0 }
+    any_pop = {
+      limit = {
+        culture = vietnamese
+        is_primary_culture = no
+        is_accepted_culture = no
+      }
+      militancy = 4
+      consciousness = 2
+    }
+    badboy = 1
+  }
 
 }
 country_event = {
@@ -156,16 +156,16 @@ country_event = {
 
   option = {
     name = EVT_8228003_A
-	ai_chance = { factor = 100 }
+    ai_chance = { factor = 100 }
   }
 
   option = {
     name = EVT_8228003_B
-	casus_belli = { target = VNM type = make_puppet months = 12 }
-	war = { target = VNM attacker_goal = { casus_belli = make_puppet } defender_goal = { casus_belli = status_quo } }
-	ai_chance = { factor = 0 }
-	badboy = 10 
-	relation = { who = FRA value = -150 } 
+    casus_belli = { target = VNM type = make_puppet months = 12 }
+    war = { target = VNM attacker_goal = { casus_belli = make_puppet } defender_goal = { casus_belli = status_quo } }
+    ai_chance = { factor = 0 }
+    badboy = 10
+    relation = { who = FRA value = -150 }
   }
 }
 country_event = {
@@ -174,12 +174,12 @@ country_event = {
   desc = EVT_8228005_DESC
   picture = "nwo2_american_support_for_vietnam"
   is_triggered_only = yes # VNM
-  
+
   option = {
     name = EVT_8228005_A
-	any_pop = { militancy = -1.5 consciousness = -1 }
-	relation = { who = USA value = -100 } 
-	add_country_modifier = { name = military_man duration = 3500 } 
+    any_pop = { militancy = -1.5 consciousness = -1 }
+    relation = { who = USA value = -100 }
+    add_country_modifier = { name = military_man duration = 3500 }
   }
 }
 country_event = {
@@ -194,23 +194,23 @@ country_event = {
     year = 1948 NOT = { year = 1964 }
     NOT = { SVI = { war_with = VNM } }
     exists = VNM
-    
-	VNM = { brigades_compare = 1.5 } 
+
+    VNM = { brigades_compare = 1.5 }
   }
 
   mean_time_to_happen = { months = 4  }
 
   option = {
     name = EVT_8228010_A
-	casus_belli = { target = VNM type = annex_core_country months = 12 }
-	war = { target = VNM attacker_goal = { casus_belli = annex_core_country } defender_goal = { casus_belli = status_quo } }
-	ai_chance = { factor = 100 }
+    casus_belli = { target = VNM type = annex_core_country months = 12 }
+    war = { target = VNM attacker_goal = { casus_belli = annex_core_country } defender_goal = { casus_belli = status_quo } }
+    ai_chance = { factor = 100 }
   }
 
   option = {
     name = EVT_8228010_B
-	relation = { who = VNM value = 25 } 
-	ai_chance = { factor = 0 }
+    relation = { who = VNM value = 25 }
+    ai_chance = { factor = 0 }
   }
 }
 country_event = {
@@ -225,23 +225,23 @@ country_event = {
     year = 1948 NOT = { year = 1964 }
     NOT = { SVI = { war_with = VNM } }
     exists = SVI
-    
-	SVI = { brigades_compare = 1.5 } 
+
+    SVI = { brigades_compare = 1.5 }
   }
 
   mean_time_to_happen = { months = 4  }
 
   option = {
     name = EVT_8228011_A
-	casus_belli = { target = SVI type = annex_core_country months = 12 }
-	war = { target = SVI attacker_goal = { casus_belli = annex_core_country } defender_goal = { casus_belli = status_quo } }
-	ai_chance = { factor = 100 }
+    casus_belli = { target = SVI type = annex_core_country months = 12 }
+    war = { target = SVI attacker_goal = { casus_belli = annex_core_country } defender_goal = { casus_belli = status_quo } }
+    ai_chance = { factor = 100 }
   }
 
   option = {
     name = EVT_8228011_B
-	relation = { who = SVI value = 25 }
-	ai_chance = { factor = 0 }
+    relation = { who = SVI value = 25 }
+    ai_chance = { factor = 0 }
   }
 }
 country_event = {
@@ -261,15 +261,15 @@ country_event = {
 
   option = {
     name = EVT_8228020_A
-	ai_chance = { factor = 100 }
-	add_country_modifier = { name = lord_admiral duration = 350 }
+    ai_chance = { factor = 100 }
+    add_country_modifier = { name = lord_admiral duration = 350 }
   }
 
   option = {
     name = EVT_8228020_B
-	ai_chance = { factor = 0 }
-	trucks_vans = 200
-	specialized_machinery = 100
+    ai_chance = { factor = 0 }
+    trucks_vans = 200
+    specialized_machinery = 100
   }
 }
 country_event = {
@@ -287,17 +287,17 @@ country_event = {
 
   mean_time_to_happen = { months = 6  }
 
-   option = {
+  option = {
     name = EVT_8228021_A
-	ai_chance = { factor = 100 }
-	add_country_modifier = { name = lord_admiral duration = 150 }
+    ai_chance = { factor = 100 }
+    add_country_modifier = { name = lord_admiral duration = 150 }
   }
 
   option = {
     name = EVT_8228021_B
-	ai_chance = { factor = 0 }
-	trucks_vans = 200
-	specialized_machinery = 100
+    ai_chance = { factor = 0 }
+    trucks_vans = 200
+    specialized_machinery = 100
   }
 }
 country_event = {
@@ -317,15 +317,15 @@ country_event = {
 
   option = {
     name = EVT_8228022_A
-	money = -500 
-	any_pop = { militancy = 0.2 consciousness = 0.5 }
-	ai_chance = { factor = 100 }
+    money = -500
+    any_pop = { militancy = 0.2 consciousness = 0.5 }
+    ai_chance = { factor = 100 }
   }
 
   option = {
     name = EVT_8228022_B
-	any_pop = { militancy = -0.2 consciousness = -0.1 }
-	ai_chance = { factor = 0 }
+    any_pop = { militancy = -0.2 consciousness = -0.1 }
+    ai_chance = { factor = 0 }
   }
 
 }
@@ -346,7 +346,7 @@ country_event = {
 
   option = {
     name = EVT_8228030_A
-	war_exhaustion = -1
+    war_exhaustion = -1
   }
 }
 country_event = {
@@ -366,7 +366,7 @@ country_event = {
 
   option = {
     name = EVT_8228031_A
-	any_pop = { militancy = 0.1 consciousness = 0.5 }
+    any_pop = { militancy = 0.1 consciousness = 0.5 }
   }
 }
 country_event = {
@@ -387,11 +387,11 @@ country_event = {
 
   option = {
     name = EVT_8228032_A
-	any_pop = { militancy = -1.0 consciousness = -0.5 }
-	trucks_vans = 200
-	specialized_machinery = 100
-	relation = { who = CHI value = 50 }
-	diplomatic_influence = { who = SUN value = 100 }
+    any_pop = { militancy = -1.0 consciousness = -0.5 }
+    trucks_vans = 200
+    specialized_machinery = 100
+    relation = { who = CHI value = 50 }
+    diplomatic_influence = { who = SUN value = 100 }
   }
 }
 country_event = {
@@ -411,8 +411,8 @@ country_event = {
 
   option = {
     name = EVT_8228033_A
-	war_exhaustion = -1
-	any_pop = { militancy = -1.0 consciousness = -0.2 }
+    war_exhaustion = -1
+    any_pop = { militancy = -1.0 consciousness = -0.2 }
   }
 }
 country_event = {
@@ -432,8 +432,8 @@ country_event = {
 
   option = {
     name = EVT_8228034_A
-	any_pop = { limit = { culture = vietnamese } militancy = 3.5 consciousness = 3 }
-	any_owned = { limit = { pop_majority_culture = vietnamese controlled_by = THIS } change_controller = REB }
+    any_pop = { limit = { culture = vietnamese } militancy = 3.5 consciousness = 3 }
+    any_owned = { limit = { pop_majority_culture = vietnamese controlled_by = THIS } change_controller = REB }
   }
 }
 country_event = {
@@ -453,7 +453,7 @@ country_event = {
 
   option = {
     name = EVT_8228040_B
-	VNM = { country_event = 8228041 } 
+    VNM = { country_event = 8228041 }
   }
 }
 country_event = {
@@ -465,15 +465,15 @@ country_event = {
 
   option = {
     name = EVT_8228041_A
-	any_pop = { militancy = 0.3 consciousness = 0.6 }
-	ai_chance = { factor = 100 }
+    any_pop = { militancy = 0.3 consciousness = 0.6 }
+    ai_chance = { factor = 100 }
   }
 
   option = {
     name = EVT_8228041_B
-	any_pop = { militancy = -0.5 consciousness = -0.1 }
-	casus_belli = { target = FRA type = annex_core_country } 
-	ai_chance = { factor = 0 }
+    any_pop = { militancy = -0.5 consciousness = -0.1 }
+    casus_belli = { target = FRA type = annex_core_country }
+    ai_chance = { factor = 0 }
   }
 }
 
@@ -486,7 +486,7 @@ country_event = {
 
   trigger = {
     tag = VNM
-	war = no
+    war = no
     year = 1955 NOT = { year = 1963 }
     exists = SVI
   }
@@ -495,15 +495,15 @@ country_event = {
 
   option = {
     name = EVT_8228050_A
-	any_pop = { militancy = -0.3 consciousness = -0.1 }
-	SVI = { country_event = 8228051 } 
-	ai_chance = { factor = 100 }
+    any_pop = { militancy = -0.3 consciousness = -0.1 }
+    SVI = { country_event = 8228051 }
+    ai_chance = { factor = 100 }
   }
 
   option = {
     name = EVT_8228050_B
-	any_pop = { militancy = 1.0 consciousness = 2.0 }
-	ai_chance = { factor = 0 }
+    any_pop = { militancy = 1.0 consciousness = 2.0 }
+    ai_chance = { factor = 0 }
   }
 }
 country_event = {
@@ -515,15 +515,15 @@ country_event = {
 
   option = {
     name = EVT_8228051_A
-	any_pop = { militancy = 1.0 consciousness = 2.0 }
-	ai_chance = { factor = 0 }
+    any_pop = { militancy = 1.0 consciousness = 2.0 }
+    ai_chance = { factor = 0 }
   }
 
   option = {
     name = EVT_8228051_B
-	any_pop = { militancy = -0.3 consciousness = -0.1 }
-	VNM = { country_event = 8228052 }
-	ai_chance = { factor = 100 }
+    any_pop = { militancy = -0.3 consciousness = -0.1 }
+    VNM = { country_event = 8228052 }
+    ai_chance = { factor = 100 }
   }
 }
 country_event = {
@@ -535,17 +535,17 @@ country_event = {
 
   option = {
     name = EVT_8228052_A
-	any_pop = { militancy = 0.5 consciousness = 0.6 }
-	set_global_flag = vietnamese_elections_rigged_by_VNM 
-	SVI = { country_event = 8228060 }
-	ai_chance = { factor = 100 }
+    any_pop = { militancy = 0.5 consciousness = 0.6 }
+    set_global_flag = vietnamese_elections_rigged_by_VNM
+    SVI = { country_event = 8228060 }
+    ai_chance = { factor = 100 }
   }
 
   option = {
     name = EVT_8228052_B
-	SVI = { country_event = 8228053 }
-	any_pop = { militancy = -0.5 consciousness = -0.1 }
-	ai_chance = { factor = 0 }
+    SVI = { country_event = 8228053 }
+    any_pop = { militancy = -0.5 consciousness = -0.1 }
+    ai_chance = { factor = 0 }
   }
 }
 country_event = {
@@ -557,17 +557,17 @@ country_event = {
 
   option = {
     name = EVT_8228053_A
-	any_pop = { militancy = 0.5 consciousness = 0.8 }
-	set_global_flag = vietnamese_elections_rigged_by_SVI 
-	VNM = { country_event = 8228062 }
-	ai_chance = { factor = 100 }
+    any_pop = { militancy = 0.5 consciousness = 0.8 }
+    set_global_flag = vietnamese_elections_rigged_by_SVI
+    VNM = { country_event = 8228062 }
+    ai_chance = { factor = 100 }
   }
 
   option = {
-	name = EVT_8228053_B
-	any_pop = { militancy = -0.5 consciousness = -0.1 }
-	SVI = { country_event = 8228064 }
-	ai_chance = { factor = 0 }
+    name = EVT_8228053_B
+    any_pop = { militancy = -0.5 consciousness = -0.1 }
+    SVI = { country_event = 8228064 }
+    ai_chance = { factor = 0 }
   }
 }
 country_event = {
@@ -576,17 +576,17 @@ country_event = {
   desc = EVT_8228060_DESC
   picture = "nwo2_vietnam_elections"
   is_triggered_only = yes # SVI
-  
+
   option = {
     name = EVT_8228060_A
-	war = { target = VNM attacker_goal = { casus_belli = civil_war } defender_goal = { casus_belli = civil_war } }
-	ai_chance = { factor = 100 }
+    war = { target = VNM attacker_goal = { casus_belli = civil_war } defender_goal = { casus_belli = civil_war } }
+    ai_chance = { factor = 100 }
   }
 
   option = {
     name = EVT_8228060_B
-	VNM = { country_event = 8228061 }
-	ai_chance = { factor = 0 }
+    VNM = { country_event = 8228061 }
+    ai_chance = { factor = 0 }
   }
 }
 country_event = {
@@ -598,7 +598,7 @@ country_event = {
 
   option = {
     name = EVT_8228061_A
-	inherit = SVI 
+    inherit = SVI
   }
 }
 country_event = {
@@ -610,13 +610,13 @@ country_event = {
 
   option = {
     name = EVT_8228060_A
-	war = SVI 
-	any_pop = { militancy = 1.5 consciousness = 1.0 }
+    war = SVI
+    any_pop = { militancy = 1.5 consciousness = 1.0 }
   }
 
   option = {
     name = EVT_8228062_B
-    country_event = 8228063 
+    country_event = 8228063
   }
 }
 country_event = {
@@ -628,7 +628,7 @@ country_event = {
 
   option = {
     name = EVT_8228063_A
-    inherit = VNM 
+    inherit = VNM
   }
 }
 country_event = {
@@ -640,13 +640,13 @@ country_event = {
 
   option = {
     name = EVT_8228064_A
-	war = VNM 
-	any_pop = { militancy = 0.8 consciousness = 1 }
+    war = VNM
+    any_pop = { militancy = 0.8 consciousness = 1 }
   }
 
   option = {
     name = EVT_8228060_B
-	VNM = { country_event = 8228061 }
+    VNM = { country_event = 8228061 }
   }
 }
 country_event = {
@@ -661,21 +661,21 @@ country_event = {
     year = 1954 NOT = { year = 1964 }
     NOT = { VNM = { war_with = SVI } }
     exists = SVI
-    
+
   }
 
   mean_time_to_happen = { months = 4  }
 
   option = {
     name = EVT_8228100_A
-	casus_belli = { target = SVI type = annex_core_country months = 12 }
-	war = { target = SVI attacker_goal = { casus_belli = annex_core_country } defender_goal = { casus_belli = status_quo } }
-	ai_chance = { factor = 100 }
+    casus_belli = { target = SVI type = annex_core_country months = 12 }
+    war = { target = SVI attacker_goal = { casus_belli = annex_core_country } defender_goal = { casus_belli = status_quo } }
+    ai_chance = { factor = 100 }
   }
 
   option = {
     name = EVT_8228100_B
-	relation = { who = SVI value = 50 } 
+    relation = { who = SVI value = 50 }
   }
 }
 country_event = {
@@ -688,24 +688,24 @@ country_event = {
   trigger = {
     tag = SVI
     year = 1963
-	government = provisional_government
-	}
+    government = provisional_government
+  }
 
   mean_time_to_happen = { months = 4  }
 
   option = {
     name = EVT_8228101_A
-	random_country = {
-		limit = { is_sphere_leader_of = THIS }
-		country_event = 8228102
-	}
-	ai_chance = { factor = 100 }
+    random_country = {
+      limit = { is_sphere_leader_of = THIS }
+      country_event = 8228102
+    }
+    ai_chance = { factor = 100 }
   }
 
   option = {
     name = EVT_8228101_B
-	country_event = 8228104
-	ai_chance = { factor = 0 }
+    country_event = 8228104
+    ai_chance = { factor = 0 }
   }
 }
 country_event = {
@@ -717,14 +717,14 @@ country_event = {
 
   option = {
     name = EVT_8228102_A
-	SVI = { country_event = 8228104 }
-	ai_chance = { factor = 0.9 }
+    SVI = { country_event = 8228104 }
+    ai_chance = { factor = 0.9 }
   }
 
   option = {
     name = EVT_8228102_B
-	SVI = { country_event = 8228103 }
-	ai_chance = { factor = 0.1 }
+    SVI = { country_event = 8228103 }
+    ai_chance = { factor = 0.1 }
   }
 }
 country_event = {
@@ -736,7 +736,7 @@ country_event = {
 
   option = {
     name = EVT_8228103_A
-	SVI = { any_pop = { limit = { religion = buddhist } militancy = 0.8 consciousness = 0.1 } }
+    SVI = { any_pop = { limit = { religion = buddhist } militancy = 0.8 consciousness = 0.1 } }
   }
 }
 country_event = {
@@ -748,9 +748,9 @@ country_event = {
 
   option = {
     name = EVT_8228104_A
-	government = presidential_dictatorship country_event = 800050
-	primary_culture = vietnamese
-	SVI = { any_pop = { limit = { religion = buddhist } militancy = -0.5 consciousness = 0.1 } }
+    government = presidential_dictatorship country_event = 800050
+    primary_culture = vietnamese
+    SVI = { any_pop = { limit = { religion = buddhist } militancy = -0.5 consciousness = 0.1 } }
   }
 }
 
@@ -771,15 +771,15 @@ country_event = {
 
   option = {
     name = EVT_8228110_A
-	ai_chance = { factor = 100 }
-	add_country_modifier = { name = lord_admiral duration = 350 }
+    ai_chance = { factor = 100 }
+    add_country_modifier = { name = lord_admiral duration = 350 }
   }
 
   option = {
     name = EVT_8228110_B
-	ai_chance = { factor = 0 }
-	trucks_vans = 200
-	specialized_machinery = 100
+    ai_chance = { factor = 0 }
+    trucks_vans = 200
+    specialized_machinery = 100
   }
 }
 country_event = {
@@ -799,16 +799,16 @@ country_event = {
 
   option = {
     name = EVT_8228111_A
-	ai_chance = { factor = 100 }
-	any_pop = { militancy = -0.1 consciousness = -0.1 }
-	USA = { 	diplomatic_influence = { who = SVI value = 100 } }
+    ai_chance = { factor = 100 }
+    any_pop = { militancy = -0.1 consciousness = -0.1 }
+    USA = { 	diplomatic_influence = { who = SVI value = 100 } }
   }
 
   option = {
     name = EVT_8228111_B
-	ai_chance = { factor = 0 }
-	trucks_vans = 200
-	specialized_machinery = 100
+    ai_chance = { factor = 0 }
+    trucks_vans = 200
+    specialized_machinery = 100
   }
 }
 country_event = {
@@ -828,25 +828,25 @@ country_event = {
 
   option = {
     name = EVT_8228120_A
-	relation = { who = SVI value = 50 } 
-	relation = { who = VNM value = -50 } 
-	diplomatic_influence = { who = SVI value = 100 }
-	any_pop = { militancy = -0.5 consciousness = -0.1 }
-	ai_chance = { factor = 100 }
+    relation = { who = SVI value = 50 }
+    relation = { who = VNM value = -50 }
+    diplomatic_influence = { who = SVI value = 100 }
+    any_pop = { militancy = -0.5 consciousness = -0.1 }
+    ai_chance = { factor = 100 }
   }
 
   option = {
     name = EVT_8228120_B
-	relation = { who = SVI value = 100 } 
-	relation = { who = VNM value = -100 } 
-	any_pop = { militancy = 0.5 consciousness = 0.5 }
-	ai_chance = { factor = 0 }
+    relation = { who = SVI value = 100 }
+    relation = { who = VNM value = -100 }
+    any_pop = { militancy = 0.5 consciousness = 0.5 }
+    ai_chance = { factor = 0 }
   }
 
   option = {
     name = EVT_8228120_C
-	any_pop = { militancy = 0.8 consciousness = 1 }
-	ai_chance = { factor = 0 }
+    any_pop = { militancy = 0.8 consciousness = 1 }
+    ai_chance = { factor = 0 }
   }
 }
 country_event = {
@@ -866,7 +866,7 @@ country_event = {
 
   option = {
     name = EVT_8228130_A
-	any_pop = { militancy = -0.5 consciousness = -0.1 }
+    any_pop = { militancy = -0.5 consciousness = -0.1 }
   }
 
 }
@@ -887,14 +887,14 @@ country_event = {
 
   option = {
     name = EVT_8228131_A
-	any_pop = { militancy = -0.5 consciousness = -0.1 }
-	ai_chance = { factor = 100 }
+    any_pop = { militancy = -0.5 consciousness = -0.1 }
+    ai_chance = { factor = 100 }
   }
 
   option = {
     name = EVT_8228131_B
-	random_state = { any_pop = { dominant_issue = { value = full_citizenship factor = 0.05 } } }
-	ai_chance = { factor = 0 }
+    random_state = { any_pop = { dominant_issue = { value = full_citizenship factor = 0.05 } } }
+    ai_chance = { factor = 0 }
   }
 }
 country_event = {
@@ -914,12 +914,12 @@ country_event = {
 
   option = {
     name = EVT_8228132_A
-	any_pop = { militancy = 1.0 consciousness = 2 }
+    any_pop = { militancy = 1.0 consciousness = 2 }
   }
 
   option = {
     name = EVT_8228132_B
-	any_pop = { militancy = 2.0 consciousness = 1 }
+    any_pop = { militancy = 2.0 consciousness = 1 }
   }
 }
 country_event = {
@@ -939,7 +939,7 @@ country_event = {
 
   option = {
     name = EVT_8228140_A
-	any_pop = { militancy = 0.4 consciousness = 0.8 }
+    any_pop = { militancy = 0.4 consciousness = 0.8 }
   }
 }
 country_event = {
@@ -959,7 +959,7 @@ country_event = {
 
   option = {
     name = EVT_8228150_A
-	any_pop = { militancy = 0.3 consciousness = 0.6 }
+    any_pop = { militancy = 0.3 consciousness = 0.6 }
   }
 }
 country_event = {
@@ -978,7 +978,7 @@ country_event = {
 
   option = {
     name = EVT_8228198_A
-	add_country_modifier = { name = five_year_plan duration = 3500 }
+    add_country_modifier = { name = five_year_plan duration = 3500 }
   }
 }
 country_event = {
@@ -1010,7 +1010,7 @@ country_event = {
     tag = VNM
     NOT = { war_with = LAO }
     exists = LAO
-	government = proletarian_dictatorship
+    government = proletarian_dictatorship
     owns = 1380 # Saigon
   }
 
@@ -1018,15 +1018,15 @@ country_event = {
 
   option = {
     name = EVT_8228200_A
-	casus_belli = { target = LAO type = make_puppet months = 24 }
-	casus_belli = { target = LAO type = install_communist_gov_cb months = 24 }
-	LAO = { country_event = 8228201 }
-	ai_chance = { factor = 100 }
-   }
+    casus_belli = { target = LAO type = make_puppet months = 24 }
+    casus_belli = { target = LAO type = install_communist_gov_cb months = 24 }
+    LAO = { country_event = 8228201 }
+    ai_chance = { factor = 100 }
+  }
 
   option = {
     name = EVT_8228200_B
- 	ai_chance = { factor = 0 }
+    ai_chance = { factor = 0 }
   }
 }
 country_event = {
@@ -1038,16 +1038,16 @@ country_event = {
 
   option = {
     name = EVT_8228201_A
-	# infamy unsanctioned war
-	VNM = { war = { target = LAO attacker_goal = { casus_belli = make_puppet } attacker_goal = { casus_belli = install_communist_gov_cb } defender_goal = { casus_belli = status_quo } } } 
-	ai_chance = { factor = 100 }
-   }
-  
+    # infamy unsanctioned war
+    VNM = { war = { target = LAO attacker_goal = { casus_belli = make_puppet } attacker_goal = { casus_belli = install_communist_gov_cb } defender_goal = { casus_belli = status_quo } } }
+    ai_chance = { factor = 100 }
+  }
+
   option = {
     name = EVT_8228201_B
-	VNM = { military_access = THIS } 
-	government = proletarian_dictatorship country_event = 800052
- 	ai_chance = { factor = 0 }
+    VNM = { military_access = THIS }
+    government = proletarian_dictatorship country_event = 800052
+    ai_chance = { factor = 0 }
   }
-  
+
 }

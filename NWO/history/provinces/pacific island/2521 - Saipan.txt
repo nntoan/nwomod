@@ -6,14 +6,14 @@ life_rating = 34
 terrain = jungle
 colonial = 2
 1992.1.1 = {
-owner = NMI
-controller = NMI
-add_core = NMI
-railroad = 2
-colonial = 0
-state_building = {
-	level = 1
-	building = home_appliance_factory
-	upgrade = yes
-}
+  owner = NMI
+  controller = NMI
+  add_core = NMI
+  railroad = 2
+  colonial = 0
+  state_building = {
+    level = 1
+    building = home_appliance_factory
+    upgrade = yes
+  }
 }

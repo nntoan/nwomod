@@ -8,20 +8,20 @@ country_event = { # form the Malayan Union
   trigger = {
     tag = MSY
     year = 1946 NOT = { year = 1953 }
-	war = no
+    war = no
   }
 
   mean_time_to_happen = { months = 8  }
 
   option = {
     name = EVT_8009700_A
-	GBR = { country_event = 8009701 }
-	ai_chance = { factor = 100 }
+    GBR = { country_event = 8009701 }
+    ai_chance = { factor = 100 }
   }
   option = {
     name = EVT_8009700_B
-	prestige = -10
-	ai_chance = { factor = 0 }
+    prestige = -10
+    ai_chance = { factor = 0 }
   }
 }
 country_event = { # form the Malayan Union
@@ -33,16 +33,16 @@ country_event = { # form the Malayan Union
 
   option = {
     name = EVT_8009701_A
-	1388 = { secede_province = MSY }
-	1386 = { secede_province = MSY }
-	prestige = 10
-	badboy = -2
-	ai_chance = { factor = 100 }
+    1388 = { secede_province = MSY }
+    1386 = { secede_province = MSY }
+    prestige = 10
+    badboy = -2
+    ai_chance = { factor = 100 }
   }
   option = {
     name = EVT_8009702_A
-	relation = { who = MSY value = -100 }
-	ai_chance = { factor = 0 }
+    relation = { who = MSY value = -100 }
+    ai_chance = { factor = 0 }
   }
 }
 country_event = { # Singapore independence
@@ -55,26 +55,26 @@ country_event = { # Singapore independence
   trigger = {
     tag = GBR
     year = 1959 NOT = { year = 1963 }
-	NOT = { exists = SNG }
-	owns = 1384 # Singapore
+    NOT = { exists = SNG }
+    owns = 1384 # Singapore
   }
 
   mean_time_to_happen = { months = 8  }
 
   option = {
     name = EVT_8009702_A
-	release_vassal = SNG
-	diplomatic_influence = { who = GBR value = 200 }
-	prestige = 10
-	badboy = -2
-	ai_chance = { factor = 100 }
+    release_vassal = SNG
+    diplomatic_influence = { who = GBR value = 200 }
+    prestige = 10
+    badboy = -2
+    ai_chance = { factor = 100 }
   }
   option = {
     name = EVT_8009702_A
-	prestige = -10
-	badboy = 2
-	1384 = { any_pop = { militancy = 5 consciousness = 2 } }
-	ai_chance = { factor = 0 }
+    prestige = -10
+    badboy = 2
+    1384 = { any_pop = { militancy = 5 consciousness = 2 } }
+    ai_chance = { factor = 0 }
   }
 }
 country_event = {
@@ -93,7 +93,7 @@ country_event = {
 
   option = {
     name = EVT_8009704_A
-	prestige = -5
+    prestige = -5
   }
 }
 country_event = {
@@ -112,7 +112,7 @@ country_event = {
 
   option = {
     name = EVT_8009719_A
-	any_pop = { limit = { culture = chinese } militancy = 4 consciousness = 2 }
+    any_pop = { limit = { culture = chinese } militancy = 4 consciousness = 2 }
   }
 }
 country_event = {
@@ -126,23 +126,23 @@ country_event = {
     tag = SNG
     year = 1948 NOT = { year = 1963 }
     exists = MSY
-	GBR = { is_our_vassal = MSY is_our_vassal = SNG }
+    GBR = { is_our_vassal = MSY is_our_vassal = SNG }
   }
 
   mean_time_to_happen = { months = 1  }
 
   option = {
     name = EVT_8009720_A
-	relation = { who = MSY value = 100 }
-	MSY = { country_event =  8009721 }
-	ai_chance = { factor = 100 }
+    relation = { who = MSY value = 100 }
+    MSY = { country_event =  8009721 }
+    ai_chance = { factor = 100 }
   }
 
   option = {
     name = EVT_8009720_B
-	any_pop = { militancy = 0.3 consciousness = 2 }
-	relation = { who = MSY value = -100 }
-	ai_chance = { factor = 0 }
+    any_pop = { militancy = 0.3 consciousness = 2 }
+    relation = { who = MSY value = -100 }
+    ai_chance = { factor = 0 }
   }
 }
 country_event = {
@@ -154,8 +154,8 @@ country_event = {
 
   option = {
     name = EVT_8009721_A
-	inherit = SNG 
-	any_pop = { militancy = -0.3  consciousness = -1 }
+    inherit = SNG
+    any_pop = { militancy = -0.3  consciousness = -1 }
   }
 }
 country_event = {
@@ -175,26 +175,26 @@ country_event = {
 
   option = {
     name = EVT_8009722_A
-	relation = { who = MSY value = 100 } 
-	any_pop = { militancy = 0.5  consciousness = 2 }
-	MSY = { country_event =  8009723 }
-	any_owned = { limit = { OR = { province_id = 1394 province_id = 1395 province_id = 1396 province_id = 1397 } } secede_province = MSY } 
-	release_vassal = MSY
-	diplomatic_influence = { who = MSY value = 200 } 
-	release = BRU
-	diplomatic_influence = { who = BRU value = 200 }
-	ai_chance = { factor = 100 }
+    relation = { who = MSY value = 100 }
+    any_pop = { militancy = 0.5  consciousness = 2 }
+    MSY = { country_event =  8009723 }
+    any_owned = { limit = { OR = { province_id = 1394 province_id = 1395 province_id = 1396 province_id = 1397 } } secede_province = MSY }
+    release_vassal = MSY
+    diplomatic_influence = { who = MSY value = 200 }
+    release = BRU
+    diplomatic_influence = { who = BRU value = 200 }
+    ai_chance = { factor = 100 }
   }
 
   option = {
     name = EVT_8009722_B
-	relation = { who = MSY value = -200 } 
-	MSY = { country_event =  8009723 }
-	any_pop = { limit = { culture = malay } militancy = 6 consciousness = 5 }
-	release = BRU
-	release = SWK
-	any_owned = { limit = { OR = { province_id = 1396 province_id = 1397 } } secede_province = PHI } 
-	ai_chance = { factor = 0 }
+    relation = { who = MSY value = -200 }
+    MSY = { country_event =  8009723 }
+    any_pop = { limit = { culture = malay } militancy = 6 consciousness = 5 }
+    release = BRU
+    release = SWK
+    any_owned = { limit = { OR = { province_id = 1396 province_id = 1397 } } secede_province = PHI }
+    ai_chance = { factor = 0 }
   }
 }
 country_event = {
@@ -206,8 +206,8 @@ country_event = {
 
   option = {
     name = EVT_8009723_A
-	government = democracy country_event = 800054
-	any_pop = { militancy = -0.3  consciousness = 1 }
+    government = democracy country_event = 800054
+    any_pop = { militancy = -0.3  consciousness = 1 }
   }
 }
 country_event = {
@@ -221,25 +221,25 @@ country_event = {
     tag = IDO
     year = 1962 NOT = { year = 1965 }
     NOT = { owns = 1394 owns = 1397 }
-	MSY = { owns = 1394 owns = 1397 }
+    MSY = { owns = 1394 owns = 1397 }
   }
 
   mean_time_to_happen = { months = 1  }
 
   option = {
     name = EVT_8009724_A
-	any_pop = { militancy = -0.5  consciousness = 2 }
-	badboy = 15 
-	money = -500 
-	random_state = { any_pop = { dominant_issue = { value = jingoism factor = 0.43 } } }
-	MSY = { country_event = 8009725 }
-	ai_chance = { factor = 100 }
+    any_pop = { militancy = -0.5  consciousness = 2 }
+    badboy = 15
+    money = -500
+    random_state = { any_pop = { dominant_issue = { value = jingoism factor = 0.43 } } }
+    MSY = { country_event = 8009725 }
+    ai_chance = { factor = 100 }
   }
 
   option = {
     name = EVT_8009724_B
-	any_pop = { militancy = 0.5  consciousness = 2 }
-	ai_chance = { factor = 0 }
+    any_pop = { militancy = 0.5  consciousness = 2 }
+    ai_chance = { factor = 0 }
   }
 }
 country_event = {
@@ -251,15 +251,15 @@ country_event = {
 
   option = {
     name = EVT_8009725_A
-	any_pop = {  consciousness = 2 }
-	IDO = { country_event = 8009726 }
-	ai_chance = { factor = 100 }
+    any_pop = {  consciousness = 2 }
+    IDO = { country_event = 8009726 }
+    ai_chance = { factor = 100 }
   }
   option = {
     name = EVT_8009725_B
-	any_pop = { militancy = 1.0 }
-	1394 = { secede_province = IDO } 1395 = { secede_province = IDO } 1396 = { secede_province = IDO } 1397 = { secede_province = IDO }
-	ai_chance = { factor = 0 }
+    any_pop = { militancy = 1.0 }
+    1394 = { secede_province = IDO } 1395 = { secede_province = IDO } 1396 = { secede_province = IDO } 1397 = { secede_province = IDO }
+    ai_chance = { factor = 0 }
   }
 }
 country_event = {
@@ -272,16 +272,16 @@ country_event = {
 
   option = {
     name = EVT_8009726_A
-	any_pop = { militancy = 1.0 }
-	ai_chance = { factor = 100 }
+    any_pop = { militancy = 1.0 }
+    ai_chance = { factor = 100 }
   }
 
   option = {
     name = EVT_8009726_B
-	# infamy unsanctioned
-	war = { target = MSY attacker_goal = { casus_belli = acquire_state state_province_id = 1397 } defender_goal = { casus_belli  = status_quo } }
-	any_pop = {  consciousness = 2 }
-	ai_chance = { factor = 0 }
+    # infamy unsanctioned
+    war = { target = MSY attacker_goal = { casus_belli = acquire_state state_province_id = 1397 } defender_goal = { casus_belli  = status_quo } }
+    any_pop = {  consciousness = 2 }
+    ai_chance = { factor = 0 }
   }
 }
 country_event = { # Independence of Singapore
@@ -292,7 +292,7 @@ country_event = { # Independence of Singapore
   fire_only_once = yes
 
   trigger = {
-	tag = MSY
+    tag = MSY
     owns = 1384
     year = 1965 NOT = { year = 1990 }
   }
@@ -301,20 +301,20 @@ country_event = { # Independence of Singapore
 
   option = {
     name = EVT_8009727_A
-	any_pop = {  consciousness = 2 }
-	release = SNG
-	badboy = -1
-	USA = { diplomatic_influence = { who = SNG value = 200 } }
-	ai_chance = { factor = 100 }
+    any_pop = {  consciousness = 2 }
+    release = SNG
+    badboy = -1
+    USA = { diplomatic_influence = { who = SNG value = 200 } }
+    ai_chance = { factor = 100 }
   }
 
   option = {
     name = EVT_8009724_B
-	1384 = { any_pop = { militancy = 10 } }
-	any_pop = { limit = { culture = chinese } militancy = 5 }
-	badboy = 5
-	government = populist_dictatorship country_event = 800050
-	ai_chance = { factor = 0 }
+    1384 = { any_pop = { militancy = 10 } }
+    any_pop = { limit = { culture = chinese } militancy = 5 }
+    badboy = 5
+    government = populist_dictatorship country_event = 800050
+    ai_chance = { factor = 0 }
   }
 }
 
@@ -335,7 +335,7 @@ country_event = {
 
   option = {
     name = EVT_8009728_A
-	any_pop = { militancy = 1.0  consciousness = 1 }
+    any_pop = { militancy = 1.0  consciousness = 1 }
   }
 }
 country_event = {
@@ -355,6 +355,6 @@ country_event = {
 
   option = {
     name = EVT_8009729_A
-	add_country_modifier = { name = economic_boom duration = 365 }
+    add_country_modifier = { name = economic_boom duration = 365 }
   }
 }

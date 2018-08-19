@@ -1,56 +1,56 @@
 #Dikathong - Dikathong (154000/38500 POPS)
 2095 = {
-	clergymen = {
-		culture = tswana
-		religion =  protestant 
-		size = 308
-	 } 
-	clergymen = {
-		culture = tswana
-		religion = secularism
-		size = 462
-	 } 
-	farmers = {
-		culture = tswana
-		religion =  protestant 
-		size = 12012
-	 } 
-	farmers = {
-		culture = tswana
-		religion = secularism
-		size = 18018
-	 } 
-	farmers = {
-		culture = coloured
-		religion =  protestant 
-		size = 3080
-	 } 
-	farmers = {
-		culture = coloured
-		religion = secularism
-		size = 4620
-	 } 
+  clergymen = {
+    culture = tswana
+    religion =  protestant
+    size = 308
+  }
+  clergymen = {
+    culture = tswana
+    religion = secularism
+    size = 462
+  }
+  farmers = {
+    culture = tswana
+    religion =  protestant
+    size = 12012
+  }
+  farmers = {
+    culture = tswana
+    religion = secularism
+    size = 18018
+  }
+  farmers = {
+    culture = coloured
+    religion =  protestant
+    size = 3080
+  }
+  farmers = {
+    culture = coloured
+    religion = secularism
+    size = 4620
+  }
 }
 #Zhigansk - Bophuthatswana (1111000/277750 POPS)
 2649 = {
-	clergymen = {
-		culture = tswana
-		religion =  protestant 
-		size = 2222
-	 } 
-	clergymen = {
-		culture = tswana
-		religion = secularism
-		size = 3333
-	 } 
-	farmers = {
-		culture = tswana
-		religion =  protestant 
-		size = 108878
-	 } 
-	farmers = {
-		culture = tswana
-		religion = secularism
-		size = 163317
-	 } 
+  clergymen = {
+    culture = tswana
+    religion =  protestant
+    size = 2222
+  }
+  clergymen = {
+    culture = tswana
+    religion = secularism
+    size = 3333
+  }
+  farmers = {
+    culture = tswana
+    religion =  protestant
+    size = 108878
+  }
+  farmers = {
+    culture = tswana
+    religion = secularism
+    size = 163317
+  }
 }

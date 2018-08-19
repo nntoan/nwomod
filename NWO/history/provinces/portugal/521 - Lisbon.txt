@@ -6,28 +6,28 @@ life_rating = 19
 terrain = urban_lisbon
 colonial = 0
 1992.1.1 = {
-owner = POR
-controller = POR
-add_core = POR
-colonial = 0
-state_building = {
-	level = 1
-	building = electric_gear_factory
-	upgrade = yes
-}
-state_building = {
-	level = 1
-	building = petroleum_plastics_factory
-	upgrade = yes
-}
-state_building = {
-	level = 1
-	building = instruments_factory
-	upgrade = yes
-}
-state_building = {
-	level = 1
-	building = copper_wire_factory
-	upgrade = yes
-}
+  owner = POR
+  controller = POR
+  add_core = POR
+  colonial = 0
+  state_building = {
+    level = 1
+    building = electric_gear_factory
+    upgrade = yes
+  }
+  state_building = {
+    level = 1
+    building = petroleum_plastics_factory
+    upgrade = yes
+  }
+  state_building = {
+    level = 1
+    building = instruments_factory
+    upgrade = yes
+  }
+  state_building = {
+    level = 1
+    building = copper_wire_factory
+    upgrade = yes
+  }
 }

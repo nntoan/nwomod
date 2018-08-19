@@ -1,110 +1,110 @@
 #Tirana - Tirana, Diber, Berat, Elbasan (574000/143500 POPS)
 849 = {
-	soldiers = {
-		culture = albanian
-		religion =  sunni 
-		size = 11217
-	 } 
-	aristocrats = {
-		culture = albanian
-		religion =  sunni 
-		size = 5740
-	 } 
-	clergymen = {
-		culture = albanian
-		religion =  sunni 
-		size = 2870
-	 } 
-	clerks = {
-		culture = albanian
-		religion =  sunni 
-		size = 1525
-	 } 
-	artisans = {
-		culture = albanian
-		religion =  sunni 
-		size = 1448
-	 } 
-	craftsmen = {
-		culture = albanian
-		religion =  sunni 
-		size = 4575
-	 } 
-	farmers = {
-		culture = albanian
-		religion =  sunni 
-		size = 114675
-	 } 
+  soldiers = {
+    culture = albanian
+    religion =  sunni
+    size = 11217
+  }
+  aristocrats = {
+    culture = albanian
+    religion =  sunni
+    size = 5740
+  }
+  clergymen = {
+    culture = albanian
+    religion =  sunni
+    size = 2870
+  }
+  clerks = {
+    culture = albanian
+    religion =  sunni
+    size = 1525
+  }
+  artisans = {
+    culture = albanian
+    religion =  sunni
+    size = 1448
+  }
+  craftsmen = {
+    culture = albanian
+    religion =  sunni
+    size = 4575
+  }
+  farmers = {
+    culture = albanian
+    religion =  sunni
+    size = 114675
+  }
 }
 #Shkoder - Shkoder, Kukes, Lezhe (188000/47000 POPS)
 850 = {
-	farmers = {
-		culture = albanian
-		religion =  sunni 
-		size = 46060
-	 } 
+  farmers = {
+    culture = albanian
+    religion =  sunni
+    size = 46060
+  }
 }
 #Durres - Durres (126000/31500 POPS)
 851 = {
-	farmers = {
-		culture = albanian
-		religion =  sunni 
-		size = 30870
-	 } 
+  farmers = {
+    culture = albanian
+    religion =  sunni
+    size = 30870
+  }
 }
 #Vlore - Vlore, Fier (210000/52500 POPS)
 852 = {
-	clergymen = {
-		culture = albanian
-		religion =  sunni 
-		size = 1050
-	 } 
-	farmers = {
-		culture = albanian
-		religion =  sunni 
-		size = 51450
-	 } 
+  clergymen = {
+    culture = albanian
+    religion =  sunni
+    size = 1050
+  }
+  farmers = {
+    culture = albanian
+    religion =  sunni
+    size = 51450
+  }
 }
 #Gjirokaster - Gjirokaster, Korce (127000/31750 POPS)
 853 = {
-	soldiers = {
-		culture = albanian
-		religion =  sunni 
-		size = 1290
-	 } 
-	aristocrats = {
-		culture = albanian
-		religion =  sunni 
-		size = 1270
-	 } 
-	craftsmen = {
-		culture = albanian
-		religion =  sunni 
-		size = 1056
-	 } 
-	farmers = {
-		culture = albanian
-		religion =  sunni 
-		size = 20207
-	 } 
-	farmers = {
-		culture = greek
-		religion =  orthodox 
-		size = 2478
-	 } 
-	farmers = {
-		culture = greek
-		religion = secularism
-		size = 378
-	 } 
-	farmers = {
-		culture = aromanians
-		religion =  orthodox 
-		size = 3029
-	 } 
-	farmers = {
-		culture = aromanians
-		religion = secularism
-		size = 462
-	 } 
+  soldiers = {
+    culture = albanian
+    religion =  sunni
+    size = 1290
+  }
+  aristocrats = {
+    culture = albanian
+    religion =  sunni
+    size = 1270
+  }
+  craftsmen = {
+    culture = albanian
+    religion =  sunni
+    size = 1056
+  }
+  farmers = {
+    culture = albanian
+    religion =  sunni
+    size = 20207
+  }
+  farmers = {
+    culture = greek
+    religion =  orthodox
+    size = 2478
+  }
+  farmers = {
+    culture = greek
+    religion = secularism
+    size = 378
+  }
+  farmers = {
+    culture = aromanians
+    religion =  orthodox
+    size = 3029
+  }
+  farmers = {
+    culture = aromanians
+    religion = secularism
+    size = 462
+  }
 }

@@ -1,760 +1,760 @@
 #Bangkok - Bangkok (8826000/2206500 POPS)
 1346 = {
-	officers = {
-		culture = thai
-		religion =  buddhist 
-		size = 17199
-	 } 
-	officers = {
-		culture = thai
-		religion = secularism
-		size = 18632
-	 } 
-	soldiers = {
-		culture = thai
-		religion =  buddhist 
-		size = 326788
-	 } 
-	soldiers = {
-		culture = thai
-		religion = secularism
-		size = 354021
-	 } 
-	aristocrats = {
-		culture = thai
-		religion =  buddhist 
-		size = 37068
-	 } 
-	aristocrats = {
-		culture = thai
-		religion = secularism
-		size = 40158
-	 } 
-	bureaucrats = {
-		culture = thai
-		religion =  buddhist 
-		size = 3177
-	 } 
-	bureaucrats = {
-		culture = thai
-		religion = secularism
-		size = 3441
-	 } 
-	capitalists = {
-		culture = thai
-		religion =  buddhist 
-		size = 6354
-	 } 
-	capitalists = {
-		culture = thai
-		religion = secularism
-		size = 6884
-	 } 
-	clergymen = {
-		culture = thai
-		religion =  buddhist 
-		size = 1285
-	 } 
-	clergymen = {
-		culture = thai
-		religion = secularism
-		size = 1392
-	 } 
-	clergymen = {
-		culture = chinese
-		religion =  taoism 
-		size = 19896
-	 } 
-	clergymen = {
-		culture = chinese
-		religion = secularism
-		size = 21555
-	 } 
-	clerks = {
-		culture = chinese
-		religion =  taoism 
-		size = 9130
-	 } 
-	clerks = {
-		culture = chinese
-		religion = secularism
-		size = 9890
-	 } 
-	artisans = {
-		culture = chinese
-		religion =  taoism 
-		size = 8673
-	 } 
-	artisans = {
-		culture = chinese
-		religion = secularism
-		size = 9396
-	 } 
-	craftsmen = {
-		culture = chinese
-		religion =  taoism 
-		size = 27390
-	 } 
-	craftsmen = {
-		culture = chinese
-		religion = secularism
-		size = 29672
-	 } 
-	farmers = {
-		culture = chinese
-		religion =  taoism 
-		size = 517425
-	 } 
-	farmers = {
-		culture = chinese
-		religion = secularism
-		size = 560543
-	 } 
-	farmers = {
-		culture = burmese
-		religion =  buddhist 
-		size = 84729
-	 } 
-	farmers = {
-		culture = burmese
-		religion = secularism
-		size = 91790
-	 } 
+  officers = {
+    culture = thai
+    religion =  buddhist
+    size = 17199
+  }
+  officers = {
+    culture = thai
+    religion = secularism
+    size = 18632
+  }
+  soldiers = {
+    culture = thai
+    religion =  buddhist
+    size = 326788
+  }
+  soldiers = {
+    culture = thai
+    religion = secularism
+    size = 354021
+  }
+  aristocrats = {
+    culture = thai
+    religion =  buddhist
+    size = 37068
+  }
+  aristocrats = {
+    culture = thai
+    religion = secularism
+    size = 40158
+  }
+  bureaucrats = {
+    culture = thai
+    religion =  buddhist
+    size = 3177
+  }
+  bureaucrats = {
+    culture = thai
+    religion = secularism
+    size = 3441
+  }
+  capitalists = {
+    culture = thai
+    religion =  buddhist
+    size = 6354
+  }
+  capitalists = {
+    culture = thai
+    religion = secularism
+    size = 6884
+  }
+  clergymen = {
+    culture = thai
+    religion =  buddhist
+    size = 1285
+  }
+  clergymen = {
+    culture = thai
+    religion = secularism
+    size = 1392
+  }
+  clergymen = {
+    culture = chinese
+    religion =  taoism
+    size = 19896
+  }
+  clergymen = {
+    culture = chinese
+    religion = secularism
+    size = 21555
+  }
+  clerks = {
+    culture = chinese
+    religion =  taoism
+    size = 9130
+  }
+  clerks = {
+    culture = chinese
+    religion = secularism
+    size = 9890
+  }
+  artisans = {
+    culture = chinese
+    religion =  taoism
+    size = 8673
+  }
+  artisans = {
+    culture = chinese
+    religion = secularism
+    size = 9396
+  }
+  craftsmen = {
+    culture = chinese
+    religion =  taoism
+    size = 27390
+  }
+  craftsmen = {
+    culture = chinese
+    religion = secularism
+    size = 29672
+  }
+  farmers = {
+    culture = chinese
+    religion =  taoism
+    size = 517425
+  }
+  farmers = {
+    culture = chinese
+    religion = secularism
+    size = 560543
+  }
+  farmers = {
+    culture = burmese
+    religion =  buddhist
+    size = 84729
+  }
+  farmers = {
+    culture = burmese
+    religion = secularism
+    size = 91790
+  }
 }
 #Lopburi - Lopburi (4134000/1033500 POPS)
 1347 = {
-	clergymen = {
-		culture = thai
-		religion =  buddhist 
-		size = 9921
-	 } 
-	clergymen = {
-		culture = thai
-		religion = secularism
-		size = 10748
-	 } 
-	farmers = {
-		culture = thai
-		religion =  buddhist 
-		size = 386942
-	 } 
-	farmers = {
-		culture = thai
-		religion = secularism
-		size = 419187
-	 } 
-	farmers = {
-		culture = chinese
-		religion =  taoism 
-		size = 99216
-	 } 
-	farmers = {
-		culture = chinese
-		religion = secularism
-		size = 107484
-	 } 
+  clergymen = {
+    culture = thai
+    religion =  buddhist
+    size = 9921
+  }
+  clergymen = {
+    culture = thai
+    religion = secularism
+    size = 10748
+  }
+  farmers = {
+    culture = thai
+    religion =  buddhist
+    size = 386942
+  }
+  farmers = {
+    culture = thai
+    religion = secularism
+    size = 419187
+  }
+  farmers = {
+    culture = chinese
+    religion =  taoism
+    size = 99216
+  }
+  farmers = {
+    culture = chinese
+    religion = secularism
+    size = 107484
+  }
 }
 #Nakhon Sawan - Nakhon Sawan (4134000/1033500 POPS)
 1348 = {
-	clergymen = {
-		culture = thai
-		religion =  buddhist 
-		size = 9921
-	 } 
-	clergymen = {
-		culture = thai
-		religion = secularism
-		size = 10748
-	 } 
-	farmers = {
-		culture = thai
-		religion =  buddhist 
-		size = 486158
-	 } 
-	farmers = {
-		culture = thai
-		religion = secularism
-		size = 526671
-	 } 
+  clergymen = {
+    culture = thai
+    religion =  buddhist
+    size = 9921
+  }
+  clergymen = {
+    culture = thai
+    religion = secularism
+    size = 10748
+  }
+  farmers = {
+    culture = thai
+    religion =  buddhist
+    size = 486158
+  }
+  farmers = {
+    culture = thai
+    religion = secularism
+    size = 526671
+  }
 }
 #Sukothai - Sukothai (4134000/1033500 POPS)
 1349 = {
-	clergymen = {
-		culture = thai
-		religion =  buddhist 
-		size = 9921
-	 } 
-	clergymen = {
-		culture = thai
-		religion = secularism
-		size = 10748
-	 } 
-	farmers = {
-		culture = thai
-		religion =  buddhist 
-		size = 486158
-	 } 
-	farmers = {
-		culture = thai
-		religion = secularism
-		size = 526671
-	 } 
+  clergymen = {
+    culture = thai
+    religion =  buddhist
+    size = 9921
+  }
+  clergymen = {
+    culture = thai
+    religion = secularism
+    size = 10748
+  }
+  farmers = {
+    culture = thai
+    religion =  buddhist
+    size = 486158
+  }
+  farmers = {
+    culture = thai
+    religion = secularism
+    size = 526671
+  }
 }
 #Nakhon Ratchasima - Nakhon Ratchasima (4483000/1120750 POPS)
 1350 = {
-	clergymen = {
-		culture = thai
-		religion =  buddhist 
-		size = 10759
-	 } 
-	clergymen = {
-		culture = thai
-		religion = secularism
-		size = 11655
-	 } 
-	farmers = {
-		culture = thai
-		religion =  buddhist 
-		size = 527200
-	 } 
-	farmers = {
-		culture = thai
-		religion = secularism
-		size = 571134
-	 } 
+  clergymen = {
+    culture = thai
+    religion =  buddhist
+    size = 10759
+  }
+  clergymen = {
+    culture = thai
+    religion = secularism
+    size = 11655
+  }
+  farmers = {
+    culture = thai
+    religion =  buddhist
+    size = 527200
+  }
+  farmers = {
+    culture = thai
+    religion = secularism
+    size = 571134
+  }
 }
 #Prachinburi - Prachinburi (4134000/1033500 POPS)
 1351 = {
-	clergymen = {
-		culture = thai
-		religion =  buddhist 
-		size = 9921
-	 } 
-	clergymen = {
-		culture = thai
-		religion = secularism
-		size = 10748
-	 } 
-	farmers = {
-		culture = thai
-		religion =  buddhist 
-		size = 386942
-	 } 
-	farmers = {
-		culture = thai
-		religion = secularism
-		size = 419187
-	 } 
-	farmers = {
-		culture = chinese
-		religion =  taoism 
-		size = 99216
-	 } 
-	farmers = {
-		culture = chinese
-		religion = secularism
-		size = 107484
-	 } 
+  clergymen = {
+    culture = thai
+    religion =  buddhist
+    size = 9921
+  }
+  clergymen = {
+    culture = thai
+    religion = secularism
+    size = 10748
+  }
+  farmers = {
+    culture = thai
+    religion =  buddhist
+    size = 386942
+  }
+  farmers = {
+    culture = thai
+    religion = secularism
+    size = 419187
+  }
+  farmers = {
+    culture = chinese
+    religion =  taoism
+    size = 99216
+  }
+  farmers = {
+    culture = chinese
+    religion = secularism
+    size = 107484
+  }
 }
 #Phuket - Phuket (1816000/454000 POPS)
 1352 = {
-	clergymen = {
-		culture = thai
-		religion =  buddhist 
-		size = 4358
-	 } 
-	clergymen = {
-		culture = thai
-		religion = secularism
-		size = 4721
-	 } 
-	farmers = {
-		culture = thai
-		religion =  buddhist 
-		size = 104601
-	 } 
-	farmers = {
-		culture = thai
-		religion = secularism
-		size = 113318
-	 } 
-	farmers = {
-		culture = malay
-		religion =  sunni 
-		size = 122580
-	 } 
-	farmers = {
-		culture = burmese
-		religion =  buddhist 
-		size = 50121
-	 } 
-	farmers = {
-		culture = burmese
-		religion = secularism
-		size = 54298
-	 } 
+  clergymen = {
+    culture = thai
+    religion =  buddhist
+    size = 4358
+  }
+  clergymen = {
+    culture = thai
+    religion = secularism
+    size = 4721
+  }
+  farmers = {
+    culture = thai
+    religion =  buddhist
+    size = 104601
+  }
+  farmers = {
+    culture = thai
+    religion = secularism
+    size = 113318
+  }
+  farmers = {
+    culture = malay
+    religion =  sunni
+    size = 122580
+  }
+  farmers = {
+    culture = burmese
+    religion =  buddhist
+    size = 50121
+  }
+  farmers = {
+    culture = burmese
+    religion = secularism
+    size = 54298
+  }
 }
 #Ratchaburi - Ratchaburi (2241000/560250 POPS)
 1353 = {
-	clergymen = {
-		culture = thai
-		religion =  buddhist 
-		size = 5378
-	 } 
-	clergymen = {
-		culture = thai
-		religion = secularism
-		size = 5826
-	 } 
-	farmers = {
-		culture = thai
-		religion =  buddhist 
-		size = 182865
-	 } 
-	farmers = {
-		culture = thai
-		religion = secularism
-		size = 198104
-	 } 
-	farmers = {
-		culture = chinese
-		religion =  taoism 
-		size = 64540
-	 } 
-	farmers = {
-		culture = chinese
-		religion = secularism
-		size = 69919
-	 } 
-	farmers = {
-		culture = karen
-		religion =  buddhist 
-		size = 16135
-	 } 
-	farmers = {
-		culture = karen
-		religion = secularism
-		size = 17479
-	 } 
+  clergymen = {
+    culture = thai
+    religion =  buddhist
+    size = 5378
+  }
+  clergymen = {
+    culture = thai
+    religion = secularism
+    size = 5826
+  }
+  farmers = {
+    culture = thai
+    religion =  buddhist
+    size = 182865
+  }
+  farmers = {
+    culture = thai
+    religion = secularism
+    size = 198104
+  }
+  farmers = {
+    culture = chinese
+    religion =  taoism
+    size = 64540
+  }
+  farmers = {
+    culture = chinese
+    religion = secularism
+    size = 69919
+  }
+  farmers = {
+    culture = karen
+    religion =  buddhist
+    size = 16135
+  }
+  farmers = {
+    culture = karen
+    religion = secularism
+    size = 17479
+  }
 }
 #Nakhon Si Thammarat - Nakhon Si Thammarat (4155000/1038750 POPS)
 1354 = {
-	clergymen = {
-		culture = thai
-		religion =  buddhist 
-		size = 9972
-	 } 
-	clergymen = {
-		culture = thai
-		religion = secularism
-		size = 10803
-	 } 
-	farmers = {
-		culture = thai
-		religion =  buddhist 
-		size = 378936
-	 } 
-	farmers = {
-		culture = thai
-		religion = secularism
-		size = 410514
-	 } 
-	farmers = {
-		culture = chinese
-		religion =  taoism 
-		size = 49860
-	 } 
-	farmers = {
-		culture = chinese
-		religion = secularism
-		size = 54015
-	 } 
-	farmers = {
-		culture = malay
-		religion =  sunni 
-		size = 124650
-	 } 
+  clergymen = {
+    culture = thai
+    religion =  buddhist
+    size = 9972
+  }
+  clergymen = {
+    culture = thai
+    religion = secularism
+    size = 10803
+  }
+  farmers = {
+    culture = thai
+    religion =  buddhist
+    size = 378936
+  }
+  farmers = {
+    culture = thai
+    religion = secularism
+    size = 410514
+  }
+  farmers = {
+    culture = chinese
+    religion =  taoism
+    size = 49860
+  }
+  farmers = {
+    culture = chinese
+    religion = secularism
+    size = 54015
+  }
+  farmers = {
+    culture = malay
+    religion =  sunni
+    size = 124650
+  }
 }
 #Chiang Mai - Chiang Mai (1951000/487750 POPS)
 1355 = {
-	officers = {
-		culture = thai
-		religion =  buddhist 
-		size = 2715
-	 } 
-	officers = {
-		culture = thai
-		religion = secularism
-		size = 2941
-	 } 
-	soldiers = {
-		culture = thai
-		religion =  buddhist 
-		size = 51597
-	 } 
-	soldiers = {
-		culture = thai
-		religion = secularism
-		size = 55897
-	 } 
-	aristocrats = {
-		culture = thai
-		religion =  buddhist 
-		size = 8194
-	 } 
-	aristocrats = {
-		culture = thai
-		religion = secularism
-		size = 8876
-	 } 
-	bureaucrats = {
-		culture = thai
-		religion =  buddhist 
-		size = 702
-	 } 
-	bureaucrats = {
-		culture = thai
-		religion = secularism
-		size = 760
-	 } 
-	capitalists = {
-		culture = thai
-		religion =  buddhist 
-		size = 1404
-	 } 
-	capitalists = {
-		culture = thai
-		religion = secularism
-		size = 1521
-	 } 
-	clergymen = {
-		culture = thai
-		religion =  buddhist 
-		size = 4682
-	 } 
-	clergymen = {
-		culture = thai
-		religion = secularism
-		size = 5072
-	 } 
-	clerks = {
-		culture = thai
-		religion =  buddhist 
-		size = 2295
-	 } 
-	clerks = {
-		culture = thai
-		religion = secularism
-		size = 2486
-	 } 
-	artisans = {
-		culture = thai
-		religion =  buddhist 
-		size = 2180
-	 } 
-	artisans = {
-		culture = thai
-		religion = secularism
-		size = 2362
-	 } 
-	craftsmen = {
-		culture = thai
-		religion =  buddhist 
-		size = 6886
-	 } 
-	craftsmen = {
-		culture = thai
-		religion = secularism
-		size = 7460
-	 } 
-	farmers = {
-		culture = thai
-		religion =  buddhist 
-		size = 137072
-	 } 
-	farmers = {
-		culture = thai
-		religion = secularism
-		size = 148495
-	 } 
-	farmers = {
-		culture = karen
-		religion =  protestant 
-		size = 16388
-	 } 
-	farmers = {
-		culture = karen
-		religion = secularism
-		size = 17753
-	 } 
+  officers = {
+    culture = thai
+    religion =  buddhist
+    size = 2715
+  }
+  officers = {
+    culture = thai
+    religion = secularism
+    size = 2941
+  }
+  soldiers = {
+    culture = thai
+    religion =  buddhist
+    size = 51597
+  }
+  soldiers = {
+    culture = thai
+    religion = secularism
+    size = 55897
+  }
+  aristocrats = {
+    culture = thai
+    religion =  buddhist
+    size = 8194
+  }
+  aristocrats = {
+    culture = thai
+    religion = secularism
+    size = 8876
+  }
+  bureaucrats = {
+    culture = thai
+    religion =  buddhist
+    size = 702
+  }
+  bureaucrats = {
+    culture = thai
+    religion = secularism
+    size = 760
+  }
+  capitalists = {
+    culture = thai
+    religion =  buddhist
+    size = 1404
+  }
+  capitalists = {
+    culture = thai
+    religion = secularism
+    size = 1521
+  }
+  clergymen = {
+    culture = thai
+    religion =  buddhist
+    size = 4682
+  }
+  clergymen = {
+    culture = thai
+    religion = secularism
+    size = 5072
+  }
+  clerks = {
+    culture = thai
+    religion =  buddhist
+    size = 2295
+  }
+  clerks = {
+    culture = thai
+    religion = secularism
+    size = 2486
+  }
+  artisans = {
+    culture = thai
+    religion =  buddhist
+    size = 2180
+  }
+  artisans = {
+    culture = thai
+    religion = secularism
+    size = 2362
+  }
+  craftsmen = {
+    culture = thai
+    religion =  buddhist
+    size = 6886
+  }
+  craftsmen = {
+    culture = thai
+    religion = secularism
+    size = 7460
+  }
+  farmers = {
+    culture = thai
+    religion =  buddhist
+    size = 137072
+  }
+  farmers = {
+    culture = thai
+    religion = secularism
+    size = 148495
+  }
+  farmers = {
+    culture = karen
+    religion =  protestant
+    size = 16388
+  }
+  farmers = {
+    culture = karen
+    religion = secularism
+    size = 17753
+  }
 }
 #Udon Thani - Udon Thani (4134000/1033500 POPS)
 1358 = {
-	officers = {
-		culture = thai
-		religion =  buddhist 
-		size = 6713
-	 } 
-	officers = {
-		culture = thai
-		religion = secularism
-		size = 7272
-	 } 
-	soldiers = {
-		culture = thai
-		religion =  buddhist 
-		size = 127553
-	 } 
-	soldiers = {
-		culture = thai
-		religion = secularism
-		size = 138182
-	 } 
-	aristocrats = {
-		culture = thai
-		religion =  buddhist 
-		size = 17362
-	 } 
-	aristocrats = {
-		culture = thai
-		religion = secularism
-		size = 18809
-	 } 
-	bureaucrats = {
-		culture = thai
-		religion =  buddhist 
-		size = 1488
-	 } 
-	bureaucrats = {
-		culture = thai
-		religion = secularism
-		size = 1612
-	 } 
-	capitalists = {
-		culture = thai
-		religion =  buddhist 
-		size = 2976
-	 } 
-	capitalists = {
-		culture = thai
-		religion = secularism
-		size = 3224
-	 } 
-	clergymen = {
-		culture = thai
-		religion =  buddhist 
-		size = 9921
-	 } 
-	clergymen = {
-		culture = thai
-		religion = secularism
-		size = 10748
-	 } 
-	clerks = {
-		culture = thai
-		religion =  buddhist 
-		size = 4619
-	 } 
-	clerks = {
-		culture = thai
-		religion = secularism
-		size = 5003
-	 } 
-	artisans = {
-		culture = thai
-		religion =  buddhist 
-		size = 4388
-	 } 
-	artisans = {
-		culture = thai
-		religion = secularism
-		size = 4753
-	 } 
-	craftsmen = {
-		culture = thai
-		religion =  buddhist 
-		size = 13857
-	 } 
-	craftsmen = {
-		culture = thai
-		religion = secularism
-		size = 15012
-	 } 
-	farmers = {
-		culture = thai
-		religion =  buddhist 
-		size = 307200
-	 } 
-	farmers = {
-		culture = thai
-		religion = secularism
-		size = 332800
-	 } 
+  officers = {
+    culture = thai
+    religion =  buddhist
+    size = 6713
+  }
+  officers = {
+    culture = thai
+    religion = secularism
+    size = 7272
+  }
+  soldiers = {
+    culture = thai
+    religion =  buddhist
+    size = 127553
+  }
+  soldiers = {
+    culture = thai
+    religion = secularism
+    size = 138182
+  }
+  aristocrats = {
+    culture = thai
+    religion =  buddhist
+    size = 17362
+  }
+  aristocrats = {
+    culture = thai
+    religion = secularism
+    size = 18809
+  }
+  bureaucrats = {
+    culture = thai
+    religion =  buddhist
+    size = 1488
+  }
+  bureaucrats = {
+    culture = thai
+    religion = secularism
+    size = 1612
+  }
+  capitalists = {
+    culture = thai
+    religion =  buddhist
+    size = 2976
+  }
+  capitalists = {
+    culture = thai
+    religion = secularism
+    size = 3224
+  }
+  clergymen = {
+    culture = thai
+    religion =  buddhist
+    size = 9921
+  }
+  clergymen = {
+    culture = thai
+    religion = secularism
+    size = 10748
+  }
+  clerks = {
+    culture = thai
+    religion =  buddhist
+    size = 4619
+  }
+  clerks = {
+    culture = thai
+    religion = secularism
+    size = 5003
+  }
+  artisans = {
+    culture = thai
+    religion =  buddhist
+    size = 4388
+  }
+  artisans = {
+    culture = thai
+    religion = secularism
+    size = 4753
+  }
+  craftsmen = {
+    culture = thai
+    religion =  buddhist
+    size = 13857
+  }
+  craftsmen = {
+    culture = thai
+    religion = secularism
+    size = 15012
+  }
+  farmers = {
+    culture = thai
+    religion =  buddhist
+    size = 307200
+  }
+  farmers = {
+    culture = thai
+    religion = secularism
+    size = 332800
+  }
 }
 #Sisaket - Sisaket (4734000/1183500 POPS)
 1359 = {
-	clergymen = {
-		culture = thai
-		religion =  buddhist 
-		size = 11361
-	 } 
-	clergymen = {
-		culture = thai
-		religion = secularism
-		size = 12308
-	 } 
-	farmers = {
-		culture = thai
-		religion =  buddhist 
-		size = 443102
-	 } 
-	farmers = {
-		culture = thai
-		religion = secularism
-		size = 480027
-	 } 
-	farmers = {
-		culture = khmer
-		religion =  buddhist 
-		size = 113616
-	 } 
-	farmers = {
-		culture = khmer
-		religion = secularism
-		size = 123084
-	 } 
+  clergymen = {
+    culture = thai
+    religion =  buddhist
+    size = 11361
+  }
+  clergymen = {
+    culture = thai
+    religion = secularism
+    size = 12308
+  }
+  farmers = {
+    culture = thai
+    religion =  buddhist
+    size = 443102
+  }
+  farmers = {
+    culture = thai
+    religion = secularism
+    size = 480027
+  }
+  farmers = {
+    culture = khmer
+    religion =  buddhist
+    size = 113616
+  }
+  farmers = {
+    culture = khmer
+    religion = secularism
+    size = 123084
+  }
 }
 #Chanthaburi - Chanthaburi (1158000/289500 POPS)
 1365 = {
-	clergymen = {
-		culture = thai
-		religion =  buddhist 
-		size = 2779
-	 } 
-	clergymen = {
-		culture = thai
-		religion = secularism
-		size = 3010
-	 } 
-	farmers = {
-		culture = thai
-		religion =  buddhist 
-		size = 101440
-	 } 
-	farmers = {
-		culture = thai
-		religion = secularism
-		size = 109894
-	 } 
-	farmers = {
-		culture = chinese
-		religion =  taoism 
-		size = 13896
-	 } 
-	farmers = {
-		culture = chinese
-		religion = secularism
-		size = 15054
-	 } 
-	farmers = {
-		culture = khmer
-		religion =  buddhist 
-		size = 20844
-	 } 
-	farmers = {
-		culture = khmer
-		religion = secularism
-		size = 22581
-	 } 
+  clergymen = {
+    culture = thai
+    religion =  buddhist
+    size = 2779
+  }
+  clergymen = {
+    culture = thai
+    religion = secularism
+    size = 3010
+  }
+  farmers = {
+    culture = thai
+    religion =  buddhist
+    size = 101440
+  }
+  farmers = {
+    culture = thai
+    religion = secularism
+    size = 109894
+  }
+  farmers = {
+    culture = chinese
+    religion =  taoism
+    size = 13896
+  }
+  farmers = {
+    culture = chinese
+    religion = secularism
+    size = 15054
+  }
+  farmers = {
+    culture = khmer
+    religion =  buddhist
+    size = 20844
+  }
+  farmers = {
+    culture = khmer
+    religion = secularism
+    size = 22581
+  }
 }
 #Pattani - Pattani (1600000/400000 POPS)
 1392 = {
-	officers = {
-		culture = chinese
-		religion =  taoism 
-		size = 779
-	 } 
-	officers = {
-		culture = chinese
-		religion = secularism
-		size = 843
-	 } 
-	soldiers = {
-		culture = chinese
-		religion =  taoism 
-		size = 8820
-	 } 
-	soldiers = {
-		culture = chinese
-		religion = secularism
-		size = 9556
-	 } 
-	soldiers = {
-		culture = malay
-		religion =  sunni 
-		size = 12477
-	 } 
-	aristocrats = {
-		culture = malay
-		religion =  sunni 
-		size = 14000
-	 } 
-	bureaucrats = {
-		culture = malay
-		religion =  sunni 
-		size = 1200
-	 } 
-	capitalists = {
-		culture = malay
-		religion =  sunni 
-		size = 2400
-	 } 
-	clergymen = {
-		culture = malay
-		religion =  sunni 
-		size = 8000
-	 } 
-	clerks = {
-		culture = malay
-		religion =  sunni 
-		size = 4692
-	 } 
-	artisans = {
-		culture = malay
-		religion =  sunni 
-		size = 4457
-	 } 
-	craftsmen = {
-		culture = malay
-		religion =  sunni 
-		size = 14076
-	 } 
-	farmers = {
-		culture = malay
-		religion =  sunni 
-		size = 318698
-	 } 
+  officers = {
+    culture = chinese
+    religion =  taoism
+    size = 779
+  }
+  officers = {
+    culture = chinese
+    religion = secularism
+    size = 843
+  }
+  soldiers = {
+    culture = chinese
+    religion =  taoism
+    size = 8820
+  }
+  soldiers = {
+    culture = chinese
+    religion = secularism
+    size = 9556
+  }
+  soldiers = {
+    culture = malay
+    religion =  sunni
+    size = 12477
+  }
+  aristocrats = {
+    culture = malay
+    religion =  sunni
+    size = 14000
+  }
+  bureaucrats = {
+    culture = malay
+    religion =  sunni
+    size = 1200
+  }
+  capitalists = {
+    culture = malay
+    religion =  sunni
+    size = 2400
+  }
+  clergymen = {
+    culture = malay
+    religion =  sunni
+    size = 8000
+  }
+  clerks = {
+    culture = malay
+    religion =  sunni
+    size = 4692
+  }
+  artisans = {
+    culture = malay
+    religion =  sunni
+    size = 4457
+  }
+  craftsmen = {
+    culture = malay
+    religion =  sunni
+    size = 14076
+  }
+  farmers = {
+    culture = malay
+    religion =  sunni
+    size = 318698
+  }
 }
 #Nan - Nan (3554000/888500 POPS)
 2572 = {
-	clergymen = {
-		culture = thai
-		religion =  buddhist 
-		size = 8529
-	 } 
-	clergymen = {
-		culture = thai
-		religion = secularism
-		size = 9240
-	 } 
-	farmers = {
-		culture = thai
-		religion =  buddhist 
-		size = 417950
-	 } 
-	farmers = {
-		culture = thai
-		religion = secularism
-		size = 452779
-	 } 
+  clergymen = {
+    culture = thai
+    religion =  buddhist
+    size = 8529
+  }
+  clergymen = {
+    culture = thai
+    religion = secularism
+    size = 9240
+  }
+  farmers = {
+    culture = thai
+    religion =  buddhist
+    size = 417950
+  }
+  farmers = {
+    culture = thai
+    religion = secularism
+    size = 452779
+  }
 }

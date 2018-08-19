@@ -1,133 +1,133 @@
 #Balti - Transdnistria (555000/138750 POPS)
 677 = {
-	officers = {
-		culture = russian
-		religion =  orthodox 
-		size = 54
-	 } 
-	officers = {
-		culture = russian
-		religion = secularism
-		size = 14
-	 } 
-	soldiers = {
-		culture = russian
-		religion =  orthodox 
-		size = 1041
-	 } 
-	soldiers = {
-		culture = russian
-		religion = secularism
-		size = 276
-	 } 
-	aristocrats = {
-		culture = russian
-		religion =  orthodox 
-		size = 4384
-	 } 
-	aristocrats = {
-		culture = russian
-		religion = secularism
-		size = 1165
-	 } 
-	bureaucrats = {
-		culture = russian
-		religion =  orthodox 
-		size = 218
-	 } 
-	bureaucrats = {
-		culture = russian
-		religion = secularism
-		size = 58
-	 } 
-	capitalists = {
-		culture = russian
-		religion =  orthodox 
-		size = 547
-	 } 
-	capitalists = {
-		culture = russian
-		religion = secularism
-		size = 145
-	 } 
-	clergymen = {
-		culture = russian
-		religion =  orthodox 
-		size = 2192
-	 } 
-	clergymen = {
-		culture = russian
-		religion = secularism
-		size = 582
-	 } 
-	clerks = {
-		culture = russian
-		religion =  orthodox 
-		size = 1931
-	 } 
-	clerks = {
-		culture = russian
-		religion = secularism
-		size = 513
-	 } 
-	artisans = {
-		culture = russian
-		religion =  orthodox 
-		size = 1834
-	 } 
-	artisans = {
-		culture = russian
-		religion = secularism
-		size = 487
-	 } 
-	craftsmen = {
-		culture = russian
-		religion =  orthodox 
-		size = 5794
-	 } 
-	craftsmen = {
-		culture = russian
-		religion = secularism
-		size = 1540
-	 } 
-	farmers = {
-		culture = russian
-		religion =  orthodox 
-		size = 21461
-	 } 
-	farmers = {
-		culture = russian
-		religion = secularism
-		size = 5704
-	 } 
-	farmers = {
-		culture = romanian
-		religion =  orthodox 
-		size = 35076
-	 } 
-	farmers = {
-		culture = romanian
-		religion = secularism
-		size = 9324
-	 } 
-	farmers = {
-		culture = ukrainian
-		religion =  orthodox 
-		size = 31787
-	 } 
-	farmers = {
-		culture = ukrainian
-		religion = secularism
-		size = 8449
-	 } 
-	farmers = {
-		culture = bulgarian
-		religion =  orthodox 
-		size = 3287
-	 } 
-	farmers = {
-		culture = bulgarian
-		religion = secularism
-		size = 874
-	 } 
+  officers = {
+    culture = russian
+    religion =  orthodox
+    size = 54
+  }
+  officers = {
+    culture = russian
+    religion = secularism
+    size = 14
+  }
+  soldiers = {
+    culture = russian
+    religion =  orthodox
+    size = 1041
+  }
+  soldiers = {
+    culture = russian
+    religion = secularism
+    size = 276
+  }
+  aristocrats = {
+    culture = russian
+    religion =  orthodox
+    size = 4384
+  }
+  aristocrats = {
+    culture = russian
+    religion = secularism
+    size = 1165
+  }
+  bureaucrats = {
+    culture = russian
+    religion =  orthodox
+    size = 218
+  }
+  bureaucrats = {
+    culture = russian
+    religion = secularism
+    size = 58
+  }
+  capitalists = {
+    culture = russian
+    religion =  orthodox
+    size = 547
+  }
+  capitalists = {
+    culture = russian
+    religion = secularism
+    size = 145
+  }
+  clergymen = {
+    culture = russian
+    religion =  orthodox
+    size = 2192
+  }
+  clergymen = {
+    culture = russian
+    religion = secularism
+    size = 582
+  }
+  clerks = {
+    culture = russian
+    religion =  orthodox
+    size = 1931
+  }
+  clerks = {
+    culture = russian
+    religion = secularism
+    size = 513
+  }
+  artisans = {
+    culture = russian
+    religion =  orthodox
+    size = 1834
+  }
+  artisans = {
+    culture = russian
+    religion = secularism
+    size = 487
+  }
+  craftsmen = {
+    culture = russian
+    religion =  orthodox
+    size = 5794
+  }
+  craftsmen = {
+    culture = russian
+    religion = secularism
+    size = 1540
+  }
+  farmers = {
+    culture = russian
+    religion =  orthodox
+    size = 21461
+  }
+  farmers = {
+    culture = russian
+    religion = secularism
+    size = 5704
+  }
+  farmers = {
+    culture = romanian
+    religion =  orthodox
+    size = 35076
+  }
+  farmers = {
+    culture = romanian
+    religion = secularism
+    size = 9324
+  }
+  farmers = {
+    culture = ukrainian
+    religion =  orthodox
+    size = 31787
+  }
+  farmers = {
+    culture = ukrainian
+    religion = secularism
+    size = 8449
+  }
+  farmers = {
+    culture = bulgarian
+    religion =  orthodox
+    size = 3287
+  }
+  farmers = {
+    culture = bulgarian
+    religion = secularism
+    size = 874
+  }
 }

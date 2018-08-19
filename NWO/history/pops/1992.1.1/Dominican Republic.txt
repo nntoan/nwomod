@@ -1,166 +1,166 @@
 #Santo Domingo - Santo Domingo (6750000/1687500 POPS)
 2214 = {
-	officers = {
-		culture = caribbean_spanish
-		religion =  catholic 
-		size = 558
-	 } 
-	officers = {
-		culture = caribbean_spanish
-		religion = secularism
-		size = 90
-	 } 
-	soldiers = {
-		culture = caribbean_spanish
-		religion =  catholic 
-		size = 10614
-	 } 
-	soldiers = {
-		culture = caribbean_spanish
-		religion = secularism
-		size = 1728
-	 } 
-	aristocrats = {
-		culture = caribbean_spanish
-		religion =  catholic 
-		size = 58050
-	 } 
-	aristocrats = {
-		culture = caribbean_spanish
-		religion = secularism
-		size = 9450
-	 } 
-	bureaucrats = {
-		culture = caribbean_spanish
-		religion =  catholic 
-		size = 2902
-	 } 
-	bureaucrats = {
-		culture = caribbean_spanish
-		religion = secularism
-		size = 472
-	 } 
-	capitalists = {
-		culture = caribbean_spanish
-		religion =  catholic 
-		size = 7255
-	 } 
-	capitalists = {
-		culture = caribbean_spanish
-		religion = secularism
-		size = 1181
-	 } 
-	clergymen = {
-		culture = caribbean_spanish
-		religion =  catholic 
-		size = 29025
-	 } 
-	clergymen = {
-		culture = caribbean_spanish
-		religion = secularism
-		size = 4725
-	 } 
-	clerks = {
-		culture = caribbean_spanish
-		religion =  catholic 
-		size = 37459
-	 } 
-	clerks = {
-		culture = caribbean_spanish
-		religion = secularism
-		size = 6097
-	 } 
-	artisans = {
-		culture = caribbean_spanish
-		religion =  catholic 
-		size = 35585
-	 } 
-	artisans = {
-		culture = caribbean_spanish
-		religion = secularism
-		size = 5793
-	 } 
-	craftsmen = {
-		culture = caribbean_spanish
-		religion =  catholic 
-		size = 50748
-	 } 
-	craftsmen = {
-		culture = caribbean_spanish
-		religion = secularism
-		size = 8261
-	 } 
-	craftsmen = {
-		culture = afro_spanish
-		religion =  catholic 
-		size = 61629
-	 } 
-	craftsmen = {
-		culture = afro_spanish
-		religion = secularism
-		size = 10032
-	 } 
-	farmers = {
-		culture = afro_spanish
-		religion =  catholic 
-		size = 98008
-	 } 
-	farmers = {
-		culture = afro_spanish
-		religion = secularism
-		size = 15954
-	 } 
-	farmers = {
-		culture = caribbean_spanish
-		religion =  catholic 
-		size = 1059412
-	 } 
-	farmers = {
-		culture = caribbean_spanish
-		religion = secularism
-		size = 172462
-	 } 
+  officers = {
+    culture = caribbean_spanish
+    religion =  catholic
+    size = 558
+  }
+  officers = {
+    culture = caribbean_spanish
+    religion = secularism
+    size = 90
+  }
+  soldiers = {
+    culture = caribbean_spanish
+    religion =  catholic
+    size = 10614
+  }
+  soldiers = {
+    culture = caribbean_spanish
+    religion = secularism
+    size = 1728
+  }
+  aristocrats = {
+    culture = caribbean_spanish
+    religion =  catholic
+    size = 58050
+  }
+  aristocrats = {
+    culture = caribbean_spanish
+    religion = secularism
+    size = 9450
+  }
+  bureaucrats = {
+    culture = caribbean_spanish
+    religion =  catholic
+    size = 2902
+  }
+  bureaucrats = {
+    culture = caribbean_spanish
+    religion = secularism
+    size = 472
+  }
+  capitalists = {
+    culture = caribbean_spanish
+    religion =  catholic
+    size = 7255
+  }
+  capitalists = {
+    culture = caribbean_spanish
+    religion = secularism
+    size = 1181
+  }
+  clergymen = {
+    culture = caribbean_spanish
+    religion =  catholic
+    size = 29025
+  }
+  clergymen = {
+    culture = caribbean_spanish
+    religion = secularism
+    size = 4725
+  }
+  clerks = {
+    culture = caribbean_spanish
+    religion =  catholic
+    size = 37459
+  }
+  clerks = {
+    culture = caribbean_spanish
+    religion = secularism
+    size = 6097
+  }
+  artisans = {
+    culture = caribbean_spanish
+    religion =  catholic
+    size = 35585
+  }
+  artisans = {
+    culture = caribbean_spanish
+    religion = secularism
+    size = 5793
+  }
+  craftsmen = {
+    culture = caribbean_spanish
+    religion =  catholic
+    size = 50748
+  }
+  craftsmen = {
+    culture = caribbean_spanish
+    religion = secularism
+    size = 8261
+  }
+  craftsmen = {
+    culture = afro_spanish
+    religion =  catholic
+    size = 61629
+  }
+  craftsmen = {
+    culture = afro_spanish
+    religion = secularism
+    size = 10032
+  }
+  farmers = {
+    culture = afro_spanish
+    religion =  catholic
+    size = 98008
+  }
+  farmers = {
+    culture = afro_spanish
+    religion = secularism
+    size = 15954
+  }
+  farmers = {
+    culture = caribbean_spanish
+    religion =  catholic
+    size = 1059412
+  }
+  farmers = {
+    culture = caribbean_spanish
+    religion = secularism
+    size = 172462
+  }
 }
 #La Vega - La Vega (333000/83250 POPS)
 2216 = {
-	clergymen = {
-		culture = caribbean_spanish
-		religion =  catholic 
-		size = 1431
-	 } 
-	clergymen = {
-		culture = caribbean_spanish
-		religion = secularism
-		size = 233
-	 } 
-	farmers = {
-		culture = caribbean_spanish
-		religion =  catholic 
-		size = 10023
-	 } 
-	farmers = {
-		culture = caribbean_spanish
-		religion = secularism
-		size = 1631
-	 } 
-	farmers = {
-		culture = afro_spanish
-		religion =  catholic 
-		size = 7875
-	 } 
-	farmers = {
-		culture = afro_spanish
-		religion = secularism
-		size = 1281
-	 } 
-	farmers = {
-		culture = caribbean_spanish
-		religion =  catholic 
-		size = 52263
-	 } 
-	farmers = {
-		culture = caribbean_spanish
-		religion = secularism
-		size = 8508
-	 } 
+  clergymen = {
+    culture = caribbean_spanish
+    religion =  catholic
+    size = 1431
+  }
+  clergymen = {
+    culture = caribbean_spanish
+    religion = secularism
+    size = 233
+  }
+  farmers = {
+    culture = caribbean_spanish
+    religion =  catholic
+    size = 10023
+  }
+  farmers = {
+    culture = caribbean_spanish
+    religion = secularism
+    size = 1631
+  }
+  farmers = {
+    culture = afro_spanish
+    religion =  catholic
+    size = 7875
+  }
+  farmers = {
+    culture = afro_spanish
+    religion = secularism
+    size = 1281
+  }
+  farmers = {
+    culture = caribbean_spanish
+    religion =  catholic
+    size = 52263
+  }
+  farmers = {
+    culture = caribbean_spanish
+    religion = secularism
+    size = 8508
+  }
 }

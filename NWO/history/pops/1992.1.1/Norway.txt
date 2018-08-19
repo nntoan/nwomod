@@ -1,416 +1,416 @@
 #Trondheim - Trondheim (357000/89250 POPS)
 305 = {
-	clergymen = {
-		culture = norwegian
-		religion =  protestant 
-		size = 392
-	 } 
-	clergymen = {
-		culture = norwegian
-		religion = secularism
-		size = 1392
-	 } 
-	farmers = {
-		culture = norwegian
-		religion =  protestant 
-		size = 19242
-	 } 
-	farmers = {
-		culture = norwegian
-		religion = secularism
-		size = 68222
-	 } 
+  clergymen = {
+    culture = norwegian
+    religion =  protestant
+    size = 392
+  }
+  clergymen = {
+    culture = norwegian
+    religion = secularism
+    size = 1392
+  }
+  farmers = {
+    culture = norwegian
+    religion =  protestant
+    size = 19242
+  }
+  farmers = {
+    culture = norwegian
+    religion = secularism
+    size = 68222
+  }
 }
 #Bodo - Bodo (197000/49250 POPS)
 306 = {
-	clergymen = {
-		culture = norwegian
-		religion =  protestant 
-		size = 216
-	 } 
-	clergymen = {
-		culture = norwegian
-		religion = secularism
-		size = 768
-	 } 
-	farmers = {
-		culture = norwegian
-		religion =  protestant 
-		size = 10618
-	 } 
-	farmers = {
-		culture = norwegian
-		religion = secularism
-		size = 37646
-	 } 
+  clergymen = {
+    culture = norwegian
+    religion =  protestant
+    size = 216
+  }
+  clergymen = {
+    culture = norwegian
+    religion = secularism
+    size = 768
+  }
+  farmers = {
+    culture = norwegian
+    religion =  protestant
+    size = 10618
+  }
+  farmers = {
+    culture = norwegian
+    religion = secularism
+    size = 37646
+  }
 }
 #Hammerfest - Hammerfest (197000/49250 POPS)
 307 = {
-	clergymen = {
-		culture = norwegian
-		religion =  protestant 
-		size = 216
-	 } 
-	clergymen = {
-		culture = norwegian
-		religion = secularism
-		size = 768
-	 } 
-	farmers = {
-		culture = norwegian
-		religion =  protestant 
-		size = 7584
-	 } 
-	farmers = {
-		culture = norwegian
-		religion = secularism
-		size = 26890
-	 } 
-	farmers = {
-		culture = sami
-		religion =  protestant 
-		size = 3033
-	 } 
-	farmers = {
-		culture = sami
-		religion = secularism
-		size = 10756
-	 } 
+  clergymen = {
+    culture = norwegian
+    religion =  protestant
+    size = 216
+  }
+  clergymen = {
+    culture = norwegian
+    religion = secularism
+    size = 768
+  }
+  farmers = {
+    culture = norwegian
+    religion =  protestant
+    size = 7584
+  }
+  farmers = {
+    culture = norwegian
+    religion = secularism
+    size = 26890
+  }
+  farmers = {
+    culture = sami
+    religion =  protestant
+    size = 3033
+  }
+  farmers = {
+    culture = sami
+    religion = secularism
+    size = 10756
+  }
 }
 #Alesund - Alesund (378000/94500 POPS)
 308 = {
-	clergymen = {
-		culture = norwegian
-		religion =  protestant 
-		size = 415
-	 } 
-	clergymen = {
-		culture = norwegian
-		religion = secularism
-		size = 1474
-	 } 
-	farmers = {
-		culture = norwegian
-		religion =  protestant 
-		size = 20374
-	 } 
-	farmers = {
-		culture = norwegian
-		religion = secularism
-		size = 72235
-	 } 
+  clergymen = {
+    culture = norwegian
+    religion =  protestant
+    size = 415
+  }
+  clergymen = {
+    culture = norwegian
+    religion = secularism
+    size = 1474
+  }
+  farmers = {
+    culture = norwegian
+    religion =  protestant
+    size = 20374
+  }
+  farmers = {
+    culture = norwegian
+    religion = secularism
+    size = 72235
+  }
 }
 #Bergen - Bergen (770000/192500 POPS)
 309 = {
-	clergymen = {
-		culture = norwegian
-		religion =  protestant 
-		size = 846
-	 } 
-	clergymen = {
-		culture = norwegian
-		religion = secularism
-		size = 3003
-	 } 
-	farmers = {
-		culture = norwegian
-		religion =  protestant 
-		size = 35997
-	 } 
-	farmers = {
-		culture = norwegian
-		religion = secularism
-		size = 127627
-	 } 
-	farmers = {
-		culture = european
-		religion =  protestant 
-		size = 3387
-	 } 
-	farmers = {
-		culture = european
-		religion = secularism
-		size = 12012
-	 } 
-	farmers = {
-		culture = indian_muslim
-		religion =  sunni 
-		size = 3850
-	 } 
-	farmers = {
-		culture = somali
-		religion =  sunni 
-		size = 1925
-	 } 
-	farmers = {
-		culture = sunni_arab
-		religion =  sunni 
-		size = 3850
-	 } 
+  clergymen = {
+    culture = norwegian
+    religion =  protestant
+    size = 846
+  }
+  clergymen = {
+    culture = norwegian
+    religion = secularism
+    size = 3003
+  }
+  farmers = {
+    culture = norwegian
+    religion =  protestant
+    size = 35997
+  }
+  farmers = {
+    culture = norwegian
+    religion = secularism
+    size = 127627
+  }
+  farmers = {
+    culture = european
+    religion =  protestant
+    size = 3387
+  }
+  farmers = {
+    culture = european
+    religion = secularism
+    size = 12012
+  }
+  farmers = {
+    culture = indian_muslim
+    religion =  sunni
+    size = 3850
+  }
+  farmers = {
+    culture = somali
+    religion =  sunni
+    size = 1925
+  }
+  farmers = {
+    culture = sunni_arab
+    religion =  sunni
+    size = 3850
+  }
 }
 #Christiansand - Christiansand (237000/59250 POPS)
 310 = {
-	clergymen = {
-		culture = norwegian
-		religion =  protestant 
-		size = 260
-	 } 
-	clergymen = {
-		culture = norwegian
-		religion = secularism
-		size = 924
-	 } 
-	farmers = {
-		culture = norwegian
-		religion =  protestant 
-		size = 12774
-	 } 
-	farmers = {
-		culture = norwegian
-		religion = secularism
-		size = 45290
-	 } 
+  clergymen = {
+    culture = norwegian
+    religion =  protestant
+    size = 260
+  }
+  clergymen = {
+    culture = norwegian
+    religion = secularism
+    size = 924
+  }
+  farmers = {
+    culture = norwegian
+    religion =  protestant
+    size = 12774
+  }
+  farmers = {
+    culture = norwegian
+    religion = secularism
+    size = 45290
+  }
 }
 #Skien - Skien (214000/53500 POPS)
 311 = {
-	clergymen = {
-		culture = norwegian
-		religion =  protestant 
-		size = 235
-	 } 
-	clergymen = {
-		culture = norwegian
-		religion = secularism
-		size = 834
-	 } 
-	farmers = {
-		culture = norwegian
-		religion =  protestant 
-		size = 11534
-	 } 
-	farmers = {
-		culture = norwegian
-		religion = secularism
-		size = 40895
-	 } 
+  clergymen = {
+    culture = norwegian
+    religion =  protestant
+    size = 235
+  }
+  clergymen = {
+    culture = norwegian
+    religion = secularism
+    size = 834
+  }
+  farmers = {
+    culture = norwegian
+    religion =  protestant
+    size = 11534
+  }
+  farmers = {
+    culture = norwegian
+    religion = secularism
+    size = 40895
+  }
 }
 #Drammen - Drammen (214000/53500 POPS)
 312 = {
-	clergymen = {
-		culture = norwegian
-		religion =  protestant 
-		size = 235
-	 } 
-	clergymen = {
-		culture = norwegian
-		religion = secularism
-		size = 834
-	 } 
-	farmers = {
-		culture = norwegian
-		religion =  protestant 
-		size = 11534
-	 } 
-	farmers = {
-		culture = norwegian
-		religion = secularism
-		size = 40895
-	 } 
+  clergymen = {
+    culture = norwegian
+    religion =  protestant
+    size = 235
+  }
+  clergymen = {
+    culture = norwegian
+    religion = secularism
+    size = 834
+  }
+  farmers = {
+    culture = norwegian
+    religion =  protestant
+    size = 11534
+  }
+  farmers = {
+    culture = norwegian
+    religion = secularism
+    size = 40895
+  }
 }
 #Christiania - Christiania (1031000/257750 POPS)
 313 = {
-	officers = {
-		culture = norwegian
-		religion =  protestant 
-		size = 1513
-	 } 
-	officers = {
-		culture = norwegian
-		religion = secularism
-		size = 5366
-	 } 
-	soldiers = {
-		culture = norwegian
-		religion =  protestant 
-		size = 28759
-	 } 
-	soldiers = {
-		culture = norwegian
-		religion = secularism
-		size = 101967
-	 } 
-	aristocrats = {
-		culture = norwegian
-		religion =  protestant 
-		size = 1417
-	 } 
-	aristocrats = {
-		culture = norwegian
-		religion = secularism
-		size = 5025
-	 } 
-	bureaucrats = {
-		culture = norwegian
-		religion =  protestant 
-		size = 283
-	 } 
-	bureaucrats = {
-		culture = norwegian
-		religion = secularism
-		size = 1004
-	 } 
-	capitalists = {
-		culture = norwegian
-		religion =  protestant 
-		size = 340
-	 } 
-	capitalists = {
-		culture = norwegian
-		religion = secularism
-		size = 1205
-	 } 
-	clergymen = {
-		culture = norwegian
-		religion =  protestant 
-		size = 1134
-	 } 
-	clergymen = {
-		culture = norwegian
-		religion = secularism
-		size = 4020
-	 } 
-	clerks = {
-		culture = norwegian
-		religion =  protestant 
-		size = 792
-	 } 
-	clerks = {
-		culture = norwegian
-		religion = secularism
-		size = 2809
-	 } 
-	artisans = {
-		culture = norwegian
-		religion =  protestant 
-		size = 752
-	 } 
-	artisans = {
-		culture = norwegian
-		religion = secularism
-		size = 2668
-	 } 
-	craftsmen = {
-		culture = norwegian
-		religion =  protestant 
-		size = 2377
-	 } 
-	craftsmen = {
-		culture = norwegian
-		religion = secularism
-		size = 8428
-	 } 
-	farmers = {
-		culture = norwegian
-		religion =  protestant 
-		size = 11962
-	 } 
-	farmers = {
-		culture = norwegian
-		religion = secularism
-		size = 42411
-	 } 
-	farmers = {
-		culture = european
-		religion =  protestant 
-		size = 4536
-	 } 
-	farmers = {
-		culture = european
-		religion = secularism
-		size = 16083
-	 } 
-	farmers = {
-		culture = indian_muslim
-		religion =  sunni 
-		size = 5155
-	 } 
-	farmers = {
-		culture = somali
-		religion =  sunni 
-		size = 2577
-	 } 
-	farmers = {
-		culture = sunni_arab
-		religion =  sunni 
-		size = 5155
-	 } 
+  officers = {
+    culture = norwegian
+    religion =  protestant
+    size = 1513
+  }
+  officers = {
+    culture = norwegian
+    religion = secularism
+    size = 5366
+  }
+  soldiers = {
+    culture = norwegian
+    religion =  protestant
+    size = 28759
+  }
+  soldiers = {
+    culture = norwegian
+    religion = secularism
+    size = 101967
+  }
+  aristocrats = {
+    culture = norwegian
+    religion =  protestant
+    size = 1417
+  }
+  aristocrats = {
+    culture = norwegian
+    religion = secularism
+    size = 5025
+  }
+  bureaucrats = {
+    culture = norwegian
+    religion =  protestant
+    size = 283
+  }
+  bureaucrats = {
+    culture = norwegian
+    religion = secularism
+    size = 1004
+  }
+  capitalists = {
+    culture = norwegian
+    religion =  protestant
+    size = 340
+  }
+  capitalists = {
+    culture = norwegian
+    religion = secularism
+    size = 1205
+  }
+  clergymen = {
+    culture = norwegian
+    religion =  protestant
+    size = 1134
+  }
+  clergymen = {
+    culture = norwegian
+    religion = secularism
+    size = 4020
+  }
+  clerks = {
+    culture = norwegian
+    religion =  protestant
+    size = 792
+  }
+  clerks = {
+    culture = norwegian
+    religion = secularism
+    size = 2809
+  }
+  artisans = {
+    culture = norwegian
+    religion =  protestant
+    size = 752
+  }
+  artisans = {
+    culture = norwegian
+    religion = secularism
+    size = 2668
+  }
+  craftsmen = {
+    culture = norwegian
+    religion =  protestant
+    size = 2377
+  }
+  craftsmen = {
+    culture = norwegian
+    religion = secularism
+    size = 8428
+  }
+  farmers = {
+    culture = norwegian
+    religion =  protestant
+    size = 11962
+  }
+  farmers = {
+    culture = norwegian
+    religion = secularism
+    size = 42411
+  }
+  farmers = {
+    culture = european
+    religion =  protestant
+    size = 4536
+  }
+  farmers = {
+    culture = european
+    religion = secularism
+    size = 16083
+  }
+  farmers = {
+    culture = indian_muslim
+    religion =  sunni
+    size = 5155
+  }
+  farmers = {
+    culture = somali
+    religion =  sunni
+    size = 2577
+  }
+  farmers = {
+    culture = sunni_arab
+    religion =  sunni
+    size = 5155
+  }
 }
 #Hamar - Hamar (214000/53500 POPS)
 314 = {
-	clergymen = {
-		culture = norwegian
-		religion =  protestant 
-		size = 235
-	 } 
-	clergymen = {
-		culture = norwegian
-		religion = secularism
-		size = 834
-	 } 
-	farmers = {
-		culture = norwegian
-		religion =  protestant 
-		size = 11534
-	 } 
-	farmers = {
-		culture = norwegian
-		religion = secularism
-		size = 40895
-	 } 
+  clergymen = {
+    culture = norwegian
+    religion =  protestant
+    size = 235
+  }
+  clergymen = {
+    culture = norwegian
+    religion = secularism
+    size = 834
+  }
+  farmers = {
+    culture = norwegian
+    religion =  protestant
+    size = 11534
+  }
+  farmers = {
+    culture = norwegian
+    religion = secularism
+    size = 40895
+  }
 }
 #Lillehammer - Lillehammer (214000/53500 POPS)
 315 = {
-	clergymen = {
-		culture = norwegian
-		religion =  protestant 
-		size = 235
-	 } 
-	clergymen = {
-		culture = norwegian
-		religion = secularism
-		size = 834
-	 } 
-	farmers = {
-		culture = norwegian
-		religion =  protestant 
-		size = 11534
-	 } 
-	farmers = {
-		culture = norwegian
-		religion = secularism
-		size = 40895
-	 } 
+  clergymen = {
+    culture = norwegian
+    religion =  protestant
+    size = 235
+  }
+  clergymen = {
+    culture = norwegian
+    religion = secularism
+    size = 834
+  }
+  farmers = {
+    culture = norwegian
+    religion =  protestant
+    size = 11534
+  }
+  farmers = {
+    culture = norwegian
+    religion = secularism
+    size = 40895
+  }
 }
 #Frederiksstad - Frederiksstad (214000/53500 POPS)
 316 = {
-	clergymen = {
-		culture = norwegian
-		religion =  protestant 
-		size = 235
-	 } 
-	clergymen = {
-		culture = norwegian
-		religion = secularism
-		size = 834
-	 } 
-	farmers = {
-		culture = norwegian
-		religion =  protestant 
-		size = 11534
-	 } 
-	farmers = {
-		culture = norwegian
-		religion = secularism
-		size = 40895
-	 } 
+  clergymen = {
+    culture = norwegian
+    religion =  protestant
+    size = 235
+  }
+  clergymen = {
+    culture = norwegian
+    religion = secularism
+    size = 834
+  }
+  farmers = {
+    culture = norwegian
+    religion =  protestant
+    size = 11534
+  }
+  farmers = {
+    culture = norwegian
+    religion = secularism
+    size = 40895
+  }
 }

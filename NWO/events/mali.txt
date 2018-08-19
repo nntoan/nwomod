@@ -9,7 +9,7 @@ country_event = {
     tag = MLI
     year = 1959 NOT = { year = 1967 }
     government = hms_government # realm
-	NOT = { owns = 1783 }
+    NOT = { owns = 1783 }
   }
 
   mean_time_to_happen = { months = 2 }
@@ -49,7 +49,7 @@ country_event = {
   trigger = {
     tag = MLI
     year = 1991 NOT = { year = 1999 }
-	NOT = { government = democracy }
+    NOT = { government = democracy }
   }
 
   mean_time_to_happen = { months = 1 }
@@ -68,33 +68,33 @@ country_event = {
 
   trigger = {
     tag = MLI
-	exists = MLI
+    exists = MLI
     year = 1960 NOT = { year = 1990 }
-	owns = 1783
+    owns = 1783
     NOT = { exists = SEN }
-}
+  }
 
   mean_time_to_happen = { months = 5 }
 
   option = {
     name = EVT_8009216_A
-	release = SEN 
-	prestige = -10
-	government = democracy country_event = 800054
- 	ai_chance = { factor = 100 }
+    release = SEN
+    prestige = -10
+    government = democracy country_event = 800054
+    ai_chance = { factor = 100 }
   }
 
   option = {
     name = EVT_8009216_B
-	any_pop = { militancy = 2.0 consciousness = 2.0 }
-	release = SEN
-	casus_belli = { target = SEN type = conquest months = 12 }
-	war = { 
-		target = SEN 
-		attacker_goal = { casus_belli = conquest } 
-		defender_goal = { casus_belli = status_quo }
-	}
-	ai_chance = { factor = 0 }
+    any_pop = { militancy = 2.0 consciousness = 2.0 }
+    release = SEN
+    casus_belli = { target = SEN type = conquest months = 12 }
+    war = {
+      target = SEN
+      attacker_goal = { casus_belli = conquest }
+      defender_goal = { casus_belli = status_quo }
+    }
+    ai_chance = { factor = 0 }
   }
 }
 country_event = {
@@ -113,14 +113,14 @@ country_event = {
 
   option = {
     name = EVT_8009217_A
-	random_state = { any_pop = { dominant_issue = { value = planned_economy factor = 0.4 } } }
-	any_pop = { militancy = 3 consciousness = 2.0 }
-	ai_chance = { factor = 0 }
+    random_state = { any_pop = { dominant_issue = { value = planned_economy factor = 0.4 } } }
+    any_pop = { militancy = 3 consciousness = 2.0 }
+    ai_chance = { factor = 0 }
   }
 
   option = {
     name = EVT_8009217_B
-	any_pop = { militancy = -1 consciousness = -1 }
-	ai_chance = { factor = 100 }
+    any_pop = { militancy = -1 consciousness = -1 }
+    ai_chance = { factor = 100 }
   }
 }

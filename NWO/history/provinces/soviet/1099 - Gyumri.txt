@@ -6,8 +6,8 @@ life_rating = 30
 terrain = deciduous_forest_hills
 colonial = 0
 1992.1.1 = {
-owner = ARM
-controller = ARM
-add_core = ARM
-colonial = 0
+  owner = ARM
+  controller = ARM
+  add_core = ARM
+  colonial = 0
 }

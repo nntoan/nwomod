@@ -1,975 +1,975 @@
 the_imf = {
-	limit = {
-		grain_cradle = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-		tax_eff = 1
-	}
+  limit = {
+    grain_cradle = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+    tax_eff = 1
+  }
 }
 world_bank = {
-	limit = {
-		fertilizers = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-		loan_interest = -0.0100
-		tax_eff = 1
-	}
+  limit = {
+    fertilizers = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+    loan_interest = -0.0100
+    tax_eff = 1
+  }
 }
 reserve_transparency = {
-	limit = {
-		farm_machinery = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-		loan_interest = -0.0100
-		tax_eff = 1
-	}
+  limit = {
+    farm_machinery = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+    loan_interest = -0.0100
+    tax_eff = 1
+  }
 }
 multitude_of_financial_instruments = {
-	limit = {
-		intensive_farming = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-		tax_eff = 1
-	}
+  limit = {
+    intensive_farming = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+    tax_eff = 1
+  }
 }
 insurance_companies = {
-	limit = {
-		intensive_farming = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-		tax_eff = 1
-	}
+  limit = {
+    intensive_farming = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+    tax_eff = 1
+  }
 }
 industrial_rnd_investments = {
-	limit = {
-		insecticide = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-		factory_cost = -0.0100
-	}
+  limit = {
+    insecticide = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+    factory_cost = -0.0100
+  }
 }
 industrial_production_investments = {
-	limit = {
-		insecticide = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-		factory_cost = -0.0100
-	}
+  limit = {
+    insecticide = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+    factory_cost = -0.0100
+  }
 }
 industrial_distribution_investments = {
-	limit = {
-		insecticide = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-		factory_cost = -0.0100
-	}
+  limit = {
+    insecticide = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+    factory_cost = -0.0100
+  }
 }
 regulated_buying_and_selling_of_stocks = {
-	limit = {
-		green_revolution = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-		tax_eff = 1
-	}
+  limit = {
+    green_revolution = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+    tax_eff = 1
+  }
 }
 liquidation_of_assets = {
-	limit = {
-		plant_breeding = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-		factory_cost = -0.0100
-	}
+  limit = {
+    plant_breeding = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+    factory_cost = -0.0100
+  }
 }
 capital_for_investors = {
-	limit = {
-		plant_breeding = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-		factory_cost = -0.0100
-	}
+  limit = {
+    plant_breeding = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+    factory_cost = -0.0100
+  }
 }
 distribution_channels = {
-	limit = {
-		plant_breeding = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-		factory_cost = -0.0100
-	}
+  limit = {
+    plant_breeding = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+    factory_cost = -0.0100
+  }
 }
 zero_interest_rate_policy = {
-	limit = {
-		high_yielding_grain = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-		tax_eff = 1
-	}
+  limit = {
+    high_yielding_grain = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+    tax_eff = 1
+  }
 }
 open_market_operation = {
-	limit = {
-		high_yielding_grain = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-		loan_interest = -0.0100
-	}
+  limit = {
+    high_yielding_grain = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+    loan_interest = -0.0100
+  }
 }
 private_bank_monitoring = {
-	limit = {
-		modern_plant_breeding = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-		tax_eff = 1
-	}
+  limit = {
+    modern_plant_breeding = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+    tax_eff = 1
+  }
 }
 market_behaviour_monitoring = {
-	limit = {
-		modern_plant_breeding = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-		tax_eff = 1
-	}
+  limit = {
+    modern_plant_breeding = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+    tax_eff = 1
+  }
 }
 buying_on_margin = {
-	limit = {
-		precision_agriculture = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-		factory_cost = -0.0100
-	}
+  limit = {
+    precision_agriculture = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+    factory_cost = -0.0100
+  }
 }
 end_of_pound_sterling = {
-	limit = {
-		surface_mining = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-		tax_eff = 1
-	}
+  limit = {
+    surface_mining = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+    tax_eff = 1
+  }
 }
 anchored_dollar_standard = {
-	limit = {
-		vanning = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-		tax_eff = 3
-	}
+  limit = {
+    vanning = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+    tax_eff = 3
+  }
 }
 decimal_monetary_system = {
-	limit = {
-		vanning = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-		tax_eff = 3
-	}
+  limit = {
+    vanning = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+    tax_eff = 3
+  }
 }
 nixon_shock = {
-	limit = {
-		mining_hard_rock = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-		loan_interest = -0.0100
-	}
+  limit = {
+    mining_hard_rock = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+    loan_interest = -0.0100
+  }
 }
 pegged_float = {
-	limit = {
-		froth_flotation = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-		loan_interest = -0.0100
-	}
+  limit = {
+    froth_flotation = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+    loan_interest = -0.0100
+  }
 }
 double_standard = {
-	limit = {
-		mining_soft_rock = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-		tax_eff = 2
-	}
+  limit = {
+    mining_soft_rock = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+    tax_eff = 2
+  }
 }
 fixed_intramonetary_exchange_rates = {
-	limit = {
-		large_scale_surface_mining = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-		tax_eff = 1
-	}
+  limit = {
+    large_scale_surface_mining = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+    tax_eff = 1
+  }
 }
 international_monetary_exchange_rates = {
-	limit = {
-		haul_truck = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-		tax_eff = 1
-	}
+  limit = {
+    haul_truck = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+    tax_eff = 1
+  }
 }
 delhi_declaration = {
-	limit = {
-		large_scale_surface_mining = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-		tax_eff = 3
-	}
+  limit = {
+    large_scale_surface_mining = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+    tax_eff = 3
+  }
 }
 state_bond_monetary_mechanism = {
-	limit = {
-		landfill_mining = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-		tax_eff = 1
-	}
+  limit = {
+    landfill_mining = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+    tax_eff = 1
+  }
 }
 interest_inflation_weapon = {
-	limit = {
-		landfill_mining = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-		tax_eff = 1
-	}
+  limit = {
+    landfill_mining = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+    tax_eff = 1
+  }
 }
 hyperinflation = {
-	limit = {
-		recycling = 1
-	}
-	chance = {
-		base = 1
-	}
-	core_pop_consciousness_modifier = 0.0100
-	effect = {
-		factory_cost = 0.1000
-	}
+  limit = {
+    recycling = 1
+  }
+  chance = {
+    base = 1
+  }
+  core_pop_consciousness_modifier = 0.0100
+  effect = {
+    factory_cost = 0.1000
+  }
 }
 john_maynard_keynes = {
-	limit = {
-		mechanical_cotton_grin = 1
-	}
-	news = no
-	chance = {
-		base = 1
-	}
-	effect = {
-		permanent_prestige = 3
-		factory_goods_throughput = {
-			financial_services = 0.0200
-		}
-	}
+  limit = {
+    mechanical_cotton_grin = 1
+  }
+  news = no
+  chance = {
+    base = 1
+  }
+  effect = {
+    permanent_prestige = 3
+    factory_goods_throughput = {
+      financial_services = 0.0200
+    }
+  }
 }
 hirofumi_uzawa = {
-	limit = {
-		yarn = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-		permanent_prestige = 1
-	}
+  limit = {
+    yarn = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+    permanent_prestige = 1
+  }
 }
 kenneth_arrow = {
-	limit = {
-		yarn = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-		permanent_prestige = 1
-	}
+  limit = {
+    yarn = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+    permanent_prestige = 1
+  }
 }
 robert_lucas_jr = {
-	limit = {
-		dairy_products = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-		permanent_prestige = 1
-	}
+  limit = {
+    dairy_products = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+    permanent_prestige = 1
+  }
 }
 milton_friedman = {
-	limit = {
-		dairy_products = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-		permanent_prestige = 1
-	}
+  limit = {
+    dairy_products = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+    permanent_prestige = 1
+  }
 }
 ludwig_von_mises = {
-	limit = {
-		refrigeration = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-		permanent_prestige = 1
-	}
+  limit = {
+    refrigeration = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+    permanent_prestige = 1
+  }
 }
 friedrich_hayek = {
-	limit = {
-		refrigeration = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-		permanent_prestige = 1
-	}
+  limit = {
+    refrigeration = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+    permanent_prestige = 1
+  }
 }
 dominique_strauss_kahn = {
-	limit = {
-		intensive_pig_farming = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-		permanent_prestige = 1
-	}
+  limit = {
+    intensive_pig_farming = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+    permanent_prestige = 1
+  }
 }
 robert_shiller = {
-	limit = {
-		intensive_pig_farming = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-		permanent_prestige = 1
-	}
+  limit = {
+    intensive_pig_farming = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+    permanent_prestige = 1
+  }
 }
 david_romer = {
-	limit = {
-		intensive_pig_farming = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-		permanent_prestige = 1
-	}
+  limit = {
+    intensive_pig_farming = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+    permanent_prestige = 1
+  }
 }
 paul_krugman = {
-	limit = {
-		intensive_pig_farming = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-		permanent_prestige = 1
-	}
+  limit = {
+    intensive_pig_farming = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+    permanent_prestige = 1
+  }
 }
 johann_heinrich_von_thunen = {
-	limit = {
-		modern_chees_factory = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-		permanent_prestige = 1
-	}
+  limit = {
+    modern_chees_factory = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+    permanent_prestige = 1
+  }
 }
 gnu = {
-	limit = {
-		modern_chees_factory = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-		permanent_prestige = 1
-	}
+  limit = {
+    modern_chees_factory = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+    permanent_prestige = 1
+  }
 }
 ben_bernanke = {
-	limit = {
-		livestock_transportation = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-		permanent_prestige = 1
-	}
+  limit = {
+    livestock_transportation = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+    permanent_prestige = 1
+  }
 }
 giulio_tremonti = {
-	limit = {
-		livestock_transportation = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-		permanent_prestige = 1
-	}
+  limit = {
+    livestock_transportation = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+    permanent_prestige = 1
+  }
 }
 zhou_xiaochuan = {
-	limit = {
-		livestock_transportation = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-		permanent_prestige = 1
-	}
+  limit = {
+    livestock_transportation = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+    permanent_prestige = 1
+  }
 }
 ray_dalio = {
-	limit = {
-		animal_vaccines = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-		permanent_prestige = 1
-	}
+  limit = {
+    animal_vaccines = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+    permanent_prestige = 1
+  }
 }
 steve_keen = {
-	limit = {
-		animal_vaccines = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-		permanent_prestige = 1
-	}
+  limit = {
+    animal_vaccines = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+    permanent_prestige = 1
+  }
 }
 zero_lower_bound_problem = {
-	limit = {
-		rotary_milking = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-		permanent_prestige = 1
-	}
+  limit = {
+    rotary_milking = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+    permanent_prestige = 1
+  }
 }
 lost_decade = {
-	limit = {
-		rotary_milking = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-		permanent_prestige = 1
-	}
+  limit = {
+    rotary_milking = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+    permanent_prestige = 1
+  }
 }
 vernon_smith = {
-	limit = {
-		gmo_meat = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-		permanent_prestige = 1
-	}
+  limit = {
+    gmo_meat = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+    permanent_prestige = 1
+  }
 }
 debt_finace = {
-	limit = {
-		gmo_meat = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-		loan_interest = -0.0100
-	}
+  limit = {
+    gmo_meat = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+    loan_interest = -0.0100
+  }
 }
 economic_cooperation_act = {
-	limit = {
-		coal_mining = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-		factory_cost = -0.0100
-	}
+  limit = {
+    coal_mining = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+    factory_cost = -0.0100
+  }
 }
 post_war_consensus = {
-	limit = {
-		oil_well = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-		factory_cost = -0.0100
-	}
+  limit = {
+    oil_well = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+    factory_cost = -0.0100
+  }
 }
 anti_trust_laws = {
-	limit = {
-		oil_well = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-		factory_cost = -0.0100
-	}
+  limit = {
+    oil_well = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+    factory_cost = -0.0100
+  }
 }
 mixed_economy = {
-	limit = {
-		oil_refinery = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-		factory_cost = -0.0100
-	}
+  limit = {
+    oil_refinery = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+    factory_cost = -0.0100
+  }
 }
 centralized_economic_planning = {
-	limit = {
-		oil_refinery = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-		factory_cost = -0.0100
-	}
+  limit = {
+    oil_refinery = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+    factory_cost = -0.0100
+  }
 }
 import_substitution_industrialization = {
-	limit = {
-		oil_refinery = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-		tax_eff = 1
-	}
+  limit = {
+    oil_refinery = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+    tax_eff = 1
+  }
 }
 polypoly_structure = {
-	limit = {
-		nuclear_power = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-		factory_input = -0.0100
-	}
+  limit = {
+    nuclear_power = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+    factory_input = -0.0100
+  }
 }
 oligopoly_structure = {
-	limit = {
-		nuclear_power = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-		factory_output = 0.0100
-	}
+  limit = {
+    nuclear_power = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+    factory_output = 0.0100
+  }
 }
 monopoly_structure = {
-	limit = {
-		nuclear_power = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-		factory_cost = -0.0100
-	}
+  limit = {
+    nuclear_power = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+    factory_cost = -0.0100
+  }
 }
 limited_partnership_company = {
-	limit = {
-		oil_cartel = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-		tax_eff = 1
-	}
+  limit = {
+    oil_cartel = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+    tax_eff = 1
+  }
 }
 joint_stock_company = {
-	limit = {
-		oil_cartel = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-		tax_eff = 1
-	}
+  limit = {
+    oil_cartel = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+    tax_eff = 1
+  }
 }
 patent = {
-	limit = {
-		oil_cartel = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-		factory_cost = -0.0300
-	}
+  limit = {
+    oil_cartel = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+    factory_cost = -0.0300
+  }
 }
 trademark = {
-	limit = {
-		oil_cartel = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-		factory_cost = -0.0200
-	}
+  limit = {
+    oil_cartel = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+    factory_cost = -0.0200
+  }
 }
 financial_regulations = {
-	limit = {
-		oil_tanker = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-		tax_eff = 1
-	}
+  limit = {
+    oil_tanker = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+    tax_eff = 1
+  }
 }
 banking_regulations = {
-	limit = {
-		oil_tanker = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-		tax_eff = 1
-	}
+  limit = {
+    oil_tanker = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+    tax_eff = 1
+  }
 }
 working_board_of_directors = {
-	limit = {
-		renewable_energy = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-		factory_cost = -0.0100
-	}
+  limit = {
+    renewable_energy = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+    factory_cost = -0.0100
+  }
 }
 bankruptcy_proceedings = {
-	limit = {
-		renewable_energy = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-		factory_cost = -0.0100
-	}
+  limit = {
+    renewable_energy = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+    factory_cost = -0.0100
+  }
 }
 annual_report_proceedings = {
-	limit = {
-		renewable_energy = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-		factory_cost = -0.0100
-	}
+  limit = {
+    renewable_energy = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+    factory_cost = -0.0100
+  }
 }
 creative_trade_legislation = {
-	limit = {
-		deepwater_drilling = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-		loan_interest = -0.0100
-	}
+  limit = {
+    deepwater_drilling = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+    loan_interest = -0.0100
+  }
 }
 trade_block_protectionism = {
-	limit = {
-		nuclear_gen_iv = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-		factory_cost = -0.0100
-	}
+  limit = {
+    nuclear_gen_iv = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+    factory_cost = -0.0100
+  }
 }
 infant_industry = {
-	limit = {
-		nuclear_gen_iv = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-		factory_cost = -0.0100
-	}
+  limit = {
+    nuclear_gen_iv = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+    factory_cost = -0.0100
+  }
 }
 fordism = {
-	limit = {
-		mushet_steel = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-		factory_cost = -0.0100
-	}
+  limit = {
+    mushet_steel = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+    factory_cost = -0.0100
+  }
 }
 taylorism = {
-	limit = {
-		synthetic_dye = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-		factory_output = 0.0100
-	}
+  limit = {
+    synthetic_dye = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+    factory_output = 0.0100
+  }
 }
 work_classification = {
-	limit = {
-		tungsten_carbide = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-		factory_output = 0.0100
-	}
+  limit = {
+    tungsten_carbide = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+    factory_output = 0.0100
+  }
 }
 work_specialization = {
-	limit = {
-		tungsten_carbide = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-		factory_output = 0.0100
-	}
+  limit = {
+    tungsten_carbide = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+    factory_output = 0.0100
+  }
 }
 work_control_and_hierarchy = {
-	limit = {
-		tungsten_carbide = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-		factory_output = 0.0100
-	}
+  limit = {
+    tungsten_carbide = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+    factory_output = 0.0100
+  }
 }
 sequence_planning = {
-	limit = {
-		explosives = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-		factory_output = 0.0100
-	}
+  limit = {
+    explosives = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+    factory_output = 0.0100
+  }
 }
 inventory_planning = {
-	limit = {
-		explosives = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-		factory_output = 0.0100
-	}
+  limit = {
+    explosives = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+    factory_output = 0.0100
+  }
 }
 quality_assurance_procedure = {
-	limit = {
-		explosives = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-		factory_output = 0.0100
-	}
+  limit = {
+    explosives = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+    factory_output = 0.0100
+  }
 }
 time_studies = {
-	limit = {
-		liquid_crystal_display = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-		factory_output = 0.0100
-	}
+  limit = {
+    liquid_crystal_display = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+    factory_output = 0.0100
+  }
 }
 time_clock = {
-	limit = {
-		liquid_crystal_display = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-		factory_output = 0.0250
-	}
+  limit = {
+    liquid_crystal_display = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+    factory_output = 0.0250
+  }
 }
 lighting = {
-	limit = {
-		liquid_crystal_display = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-		factory_output = 0.0250
-	}
+  limit = {
+    liquid_crystal_display = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+    factory_output = 0.0250
+  }
 }
 old_style_family_business = {
-	limit = {
-		dematerialization = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-		factory_input = -0.0300
-	}
+  limit = {
+    dematerialization = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+    factory_input = -0.0300
+  }
 }
 anynomous_investor_business = {
-	limit = {
-		dematerialization = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-		factory_input = -0.0300
-	}
+  limit = {
+    dematerialization = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+    factory_input = -0.0300
+  }
 }
 marketized_smallholder_business = {
-	limit = {
-		dematerialization = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-		factory_input = -0.0300
-	}
+  limit = {
+    dematerialization = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+    factory_input = -0.0300
+  }
 }
 i_vanguard_method = {
-	limit = {
-		fold_forming = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-		factory_output = 0.0100
-	}
+  limit = {
+    fold_forming = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+    factory_output = 0.0100
+  }
 }
 human_resource_development = {
-	limit = {
-		cemented_carbide = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-		factory_output = 0.0100
-	}
+  limit = {
+    cemented_carbide = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+    factory_output = 0.0100
+  }
 }

@@ -1,599 +1,599 @@
 #Peshawar - Peshawar (13253000/3313250 POPS)
 1218 = {
-	officers = {
-		culture = indian_muslim
-		religion =  sunni 
-		size = 11174
-	 } 
-	soldiers = {
-		culture = indian_muslim
-		religion =  sunni 
-		size = 212322
-	 } 
-	aristocrats = {
-		culture = indian_muslim
-		religion =  sunni 
-		size = 132530
-	 } 
-	bureaucrats = {
-		culture = indian_muslim
-		religion =  sunni 
-		size = 6626
-	 } 
-	capitalists = {
-		culture = indian_muslim
-		religion =  sunni 
-		size = 16566
-	 } 
-	clergymen = {
-		culture = indian_muslim
-		religion =  sunni 
-		size = 66265
-	 } 
-	clerks = {
-		culture = indian_muslim
-		religion =  sunni 
-		size = 11531
-	 } 
-	artisans = {
-		culture = indian_muslim
-		religion =  sunni 
-		size = 10954
-	 } 
-	craftsmen = {
-		culture = indian_muslim
-		religion =  sunni 
-		size = 29019
-	 } 
-	craftsmen = {
-		culture = pashtun
-		religion =  sunni 
-		size = 5574
-	 } 
-	farmers = {
-		culture = pashtun
-		religion =  sunni 
-		size = 1461557
-	 } 
-	farmers = {
-		culture = pashtun
-		religion = secularism
-		size = 1461557
-	 } 
+  officers = {
+    culture = indian_muslim
+    religion =  sunni
+    size = 11174
+  }
+  soldiers = {
+    culture = indian_muslim
+    religion =  sunni
+    size = 212322
+  }
+  aristocrats = {
+    culture = indian_muslim
+    religion =  sunni
+    size = 132530
+  }
+  bureaucrats = {
+    culture = indian_muslim
+    religion =  sunni
+    size = 6626
+  }
+  capitalists = {
+    culture = indian_muslim
+    religion =  sunni
+    size = 16566
+  }
+  clergymen = {
+    culture = indian_muslim
+    religion =  sunni
+    size = 66265
+  }
+  clerks = {
+    culture = indian_muslim
+    religion =  sunni
+    size = 11531
+  }
+  artisans = {
+    culture = indian_muslim
+    religion =  sunni
+    size = 10954
+  }
+  craftsmen = {
+    culture = indian_muslim
+    religion =  sunni
+    size = 29019
+  }
+  craftsmen = {
+    culture = pashtun
+    religion =  sunni
+    size = 5574
+  }
+  farmers = {
+    culture = pashtun
+    religion =  sunni
+    size = 1461557
+  }
+  farmers = {
+    culture = pashtun
+    religion = secularism
+    size = 1461557
+  }
 }
 #Quetta - Quetta (2438000/609500 POPS)
 1219 = {
-	clergymen = {
-		culture = pashtun
-		religion =  sunni 
-		size = 12190
-	 } 
-	farmers = {
-		culture = pashtun
-		religion =  sunni 
-		size = 585120
-	 } 
-	farmers = {
-		culture = baluchi
-		religion =  sunni 
-		size = 12190
-	 } 
+  clergymen = {
+    culture = pashtun
+    religion =  sunni
+    size = 12190
+  }
+  farmers = {
+    culture = pashtun
+    religion =  sunni
+    size = 585120
+  }
+  farmers = {
+    culture = baluchi
+    religion =  sunni
+    size = 12190
+  }
 }
 #Dalbandin - Dalbandin (326000/81500 POPS)
 1220 = {
-	clergymen = {
-		culture = baluchi
-		religion =  sunni 
-		size = 1630
-	 } 
-	farmers = {
-		culture = baluchi
-		religion =  sunni 
-		size = 39120
-	 } 
-	farmers = {
-		culture = pashtun
-		religion =  sunni 
-		size = 40750
-	 } 
+  clergymen = {
+    culture = baluchi
+    religion =  sunni
+    size = 1630
+  }
+  farmers = {
+    culture = baluchi
+    religion =  sunni
+    size = 39120
+  }
+  farmers = {
+    culture = pashtun
+    religion =  sunni
+    size = 40750
+  }
 }
 #Kalat - Kalat (1958000/489500 POPS)
 1221 = {
-	officers = {
-		culture = baluchi
-		religion =  sunni 
-		size = 3544
-	 } 
-	soldiers = {
-		culture = baluchi
-		religion =  sunni 
-		size = 67350
-	 } 
-	aristocrats = {
-		culture = baluchi
-		religion =  sunni 
-		size = 19580
-	 } 
-	capitalists = {
-		culture = baluchi
-		religion =  sunni 
-		size = 2447
-	 } 
-	clergymen = {
-		culture = baluchi
-		religion =  sunni 
-		size = 9790
-	 } 
-	clerks = {
-		culture = baluchi
-		religion =  sunni 
-		size = 1562
-	 } 
-	artisans = {
-		culture = baluchi
-		religion =  sunni 
-		size = 1484
-	 } 
-	craftsmen = {
-		culture = baluchi
-		religion =  sunni 
-		size = 4687
-	 } 
-	farmers = {
-		culture = baluchi
-		religion =  sunni 
-		size = 378077
-	 } 
+  officers = {
+    culture = baluchi
+    religion =  sunni
+    size = 3544
+  }
+  soldiers = {
+    culture = baluchi
+    religion =  sunni
+    size = 67350
+  }
+  aristocrats = {
+    culture = baluchi
+    religion =  sunni
+    size = 19580
+  }
+  capitalists = {
+    culture = baluchi
+    religion =  sunni
+    size = 2447
+  }
+  clergymen = {
+    culture = baluchi
+    religion =  sunni
+    size = 9790
+  }
+  clerks = {
+    culture = baluchi
+    religion =  sunni
+    size = 1562
+  }
+  artisans = {
+    culture = baluchi
+    religion =  sunni
+    size = 1484
+  }
+  craftsmen = {
+    culture = baluchi
+    religion =  sunni
+    size = 4687
+  }
+  farmers = {
+    culture = baluchi
+    religion =  sunni
+    size = 378077
+  }
 }
 #Bela - Bela (979000/244750 POPS)
 1222 = {
-	clergymen = {
-		culture = baluchi
-		religion =  sunni 
-		size = 4895
-	 } 
-	farmers = {
-		culture = baluchi
-		religion =  sunni 
-		size = 239855
-	 } 
+  clergymen = {
+    culture = baluchi
+    religion =  sunni
+    size = 4895
+  }
+  farmers = {
+    culture = baluchi
+    religion =  sunni
+    size = 239855
+  }
 }
 #Chitral - Chitral (2732000/683000 POPS)
 1223 = {
-	clergymen = {
-		culture = pashtun
-		religion =  sunni 
-		size = 13660
-	 } 
-	farmers = {
-		culture = pashtun
-		religion =  sunni 
-		size = 669340
-	 } 
+  clergymen = {
+    culture = pashtun
+    religion =  sunni
+    size = 13660
+  }
+  farmers = {
+    culture = pashtun
+    religion =  sunni
+    size = 669340
+  }
 }
 #Gilgit - Gilgit (6370000/1592500 POPS)
 1225 = {
-	officers = {
-		culture = indian_muslim
-		religion =  sunni 
-		size = 3920
-	 } 
-	soldiers = {
-		culture = indian_muslim
-		religion =  sunni 
-		size = 74497
-	 } 
-	aristocrats = {
-		culture = indian_muslim
-		religion =  sunni 
-		size = 63700
-	 } 
-	bureaucrats = {
-		culture = indian_muslim
-		religion =  sunni 
-		size = 3185
-	 } 
-	capitalists = {
-		culture = indian_muslim
-		religion =  sunni 
-		size = 7962
-	 } 
-	clergymen = {
-		culture = indian_muslim
-		religion =  sunni 
-		size = 31850
-	 } 
-	clerks = {
-		culture = indian_muslim
-		religion =  sunni 
-		size = 28648
-	 } 
-	artisans = {
-		culture = indian_muslim
-		religion =  sunni 
-		size = 27215
-	 } 
-	craftsmen = {
-		culture = indian_muslim
-		religion =  sunni 
-		size = 85945
-	 } 
-	farmers = {
-		culture = indian_muslim
-		religion =  sunni 
-		size = 230453
-	 } 
-	farmers = {
-		culture = indian_shia
-		religion =  shiite 
-		size = 1035125
-	 } 
+  officers = {
+    culture = indian_muslim
+    religion =  sunni
+    size = 3920
+  }
+  soldiers = {
+    culture = indian_muslim
+    religion =  sunni
+    size = 74497
+  }
+  aristocrats = {
+    culture = indian_muslim
+    religion =  sunni
+    size = 63700
+  }
+  bureaucrats = {
+    culture = indian_muslim
+    religion =  sunni
+    size = 3185
+  }
+  capitalists = {
+    culture = indian_muslim
+    religion =  sunni
+    size = 7962
+  }
+  clergymen = {
+    culture = indian_muslim
+    religion =  sunni
+    size = 31850
+  }
+  clerks = {
+    culture = indian_muslim
+    religion =  sunni
+    size = 28648
+  }
+  artisans = {
+    culture = indian_muslim
+    religion =  sunni
+    size = 27215
+  }
+  craftsmen = {
+    culture = indian_muslim
+    religion =  sunni
+    size = 85945
+  }
+  farmers = {
+    culture = indian_muslim
+    religion =  sunni
+    size = 230453
+  }
+  farmers = {
+    culture = indian_shia
+    religion =  shiite
+    size = 1035125
+  }
 }
 #Lahore - Lahore (11354000/2838500 POPS)
 1227 = {
-	officers = {
-		culture = indian_muslim
-		religion =  sunni 
-		size = 36782
-	 } 
-	soldiers = {
-		culture = indian_muslim
-		religion =  sunni 
-		size = 698875
-	 } 
-	aristocrats = {
-		culture = indian_muslim
-		religion =  sunni 
-		size = 113540
-	 } 
-	bureaucrats = {
-		culture = indian_muslim
-		religion =  sunni 
-		size = 5677
-	 } 
-	capitalists = {
-		culture = indian_muslim
-		religion =  sunni 
-		size = 14192
-	 } 
-	clergymen = {
-		culture = indian_muslim
-		religion =  sunni 
-		size = 56770
-	 } 
-	clerks = {
-		culture = indian_muslim
-		religion =  sunni 
-		size = 7847
-	 } 
-	artisans = {
-		culture = indian_muslim
-		religion =  sunni 
-		size = 7455
-	 } 
-	craftsmen = {
-		culture = indian_muslim
-		religion =  sunni 
-		size = 23543
-	 } 
-	farmers = {
-		culture = indian_muslim
-		religion =  sunni 
-		size = 1220964
-	 } 
-	farmers = {
-		culture = indian
-		religion =  hindu 
-		size = 81748
-	 } 
-	farmers = {
-		culture = indian
-		religion = secularism
-		size = 3406
-	 } 
-	farmers = {
-		culture = indian_shia
-		religion =  shiite 
-		size = 567700
-	 } 
+  officers = {
+    culture = indian_muslim
+    religion =  sunni
+    size = 36782
+  }
+  soldiers = {
+    culture = indian_muslim
+    religion =  sunni
+    size = 698875
+  }
+  aristocrats = {
+    culture = indian_muslim
+    religion =  sunni
+    size = 113540
+  }
+  bureaucrats = {
+    culture = indian_muslim
+    religion =  sunni
+    size = 5677
+  }
+  capitalists = {
+    culture = indian_muslim
+    religion =  sunni
+    size = 14192
+  }
+  clergymen = {
+    culture = indian_muslim
+    religion =  sunni
+    size = 56770
+  }
+  clerks = {
+    culture = indian_muslim
+    religion =  sunni
+    size = 7847
+  }
+  artisans = {
+    culture = indian_muslim
+    religion =  sunni
+    size = 7455
+  }
+  craftsmen = {
+    culture = indian_muslim
+    religion =  sunni
+    size = 23543
+  }
+  farmers = {
+    culture = indian_muslim
+    religion =  sunni
+    size = 1220964
+  }
+  farmers = {
+    culture = indian
+    religion =  hindu
+    size = 81748
+  }
+  farmers = {
+    culture = indian
+    religion = secularism
+    size = 3406
+  }
+  farmers = {
+    culture = indian_shia
+    religion =  shiite
+    size = 567700
+  }
 }
 #Multan - Multan (9754000/2438500 POPS)
 1228 = {
-	clergymen = {
-		culture = indian_muslim
-		religion =  sunni 
-		size = 48770
-	 } 
-	farmers = {
-		culture = indian_muslim
-		religion =  sunni 
-		size = 1242659
-	 } 
-	farmers = {
-		culture = indian_muslim
-		religion = secularism
-		size = 1242659
-	 } 
+  clergymen = {
+    culture = indian_muslim
+    religion =  sunni
+    size = 48770
+  }
+  farmers = {
+    culture = indian_muslim
+    religion =  sunni
+    size = 1242659
+  }
+  farmers = {
+    culture = indian_muslim
+    religion = secularism
+    size = 1242659
+  }
 }
 #Sialkot - Sialkot (10297000/2574250 POPS)
 1229 = {
-	clergymen = {
-		culture = indian_muslim
-		religion =  sunni 
-		size = 51485
-	 } 
-	farmers = {
-		culture = indian_muslim
-		religion =  sunni 
-		size = 1017343
-	 } 
-	farmers = {
-		culture = indian_muslim
-		religion = secularism
-		size = 1017343
-	 } 
-	farmers = {
-		culture = indian_shia
-		religion =  shiite 
-		size = 566335
-	 } 
+  clergymen = {
+    culture = indian_muslim
+    religion =  sunni
+    size = 51485
+  }
+  farmers = {
+    culture = indian_muslim
+    religion =  sunni
+    size = 1017343
+  }
+  farmers = {
+    culture = indian_muslim
+    religion = secularism
+    size = 1017343
+  }
+  farmers = {
+    culture = indian_shia
+    religion =  shiite
+    size = 566335
+  }
 }
 #Attock - Attock (5909000/1477250 POPS)
 1230 = {
-	officers = {
-		culture = indian_muslim
-		religion =  sunni 
-		size = 3637
-	 } 
-	soldiers = {
-		culture = indian_muslim
-		religion =  sunni 
-		size = 69106
-	 } 
-	aristocrats = {
-		culture = indian_muslim
-		religion =  sunni 
-		size = 59090
-	 } 
-	bureaucrats = {
-		culture = indian_muslim
-		religion =  sunni 
-		size = 2954
-	 } 
-	capitalists = {
-		culture = indian_muslim
-		religion =  sunni 
-		size = 7386
-	 } 
-	clergymen = {
-		culture = indian_muslim
-		religion =  sunni 
-		size = 29545
-	 } 
-	clerks = {
-		culture = indian_muslim
-		religion =  sunni 
-		size = 5241
-	 } 
-	artisans = {
-		culture = indian_muslim
-		religion =  sunni 
-		size = 4979
-	 } 
-	craftsmen = {
-		culture = indian_muslim
-		religion =  sunni 
-		size = 15724
-	 } 
-	farmers = {
-		culture = indian_muslim
-		religion =  sunni 
-		size = 1279588
-	 } 
+  officers = {
+    culture = indian_muslim
+    religion =  sunni
+    size = 3637
+  }
+  soldiers = {
+    culture = indian_muslim
+    religion =  sunni
+    size = 69106
+  }
+  aristocrats = {
+    culture = indian_muslim
+    religion =  sunni
+    size = 59090
+  }
+  bureaucrats = {
+    culture = indian_muslim
+    religion =  sunni
+    size = 2954
+  }
+  capitalists = {
+    culture = indian_muslim
+    religion =  sunni
+    size = 7386
+  }
+  clergymen = {
+    culture = indian_muslim
+    religion =  sunni
+    size = 29545
+  }
+  clerks = {
+    culture = indian_muslim
+    religion =  sunni
+    size = 5241
+  }
+  artisans = {
+    culture = indian_muslim
+    religion =  sunni
+    size = 4979
+  }
+  craftsmen = {
+    culture = indian_muslim
+    religion =  sunni
+    size = 15724
+  }
+  farmers = {
+    culture = indian_muslim
+    religion =  sunni
+    size = 1279588
+  }
 }
 #Bahawalpur - Bahawalpur (6778000/1694500 POPS)
 1231 = {
-	clergymen = {
-		culture = indian_muslim
-		religion =  sunni 
-		size = 33890
-	 } 
-	farmers = {
-		culture = indian_muslim
-		religion =  sunni 
-		size = 775403
-	 } 
-	farmers = {
-		culture = indian_muslim
-		religion = secularism
-		size = 775403
-	 } 
-	farmers = {
-		culture = indian
-		religion =  hindu 
-		size = 162672
-	 } 
-	farmers = {
-		culture = indian
-		religion = secularism
-		size = 6778
-	 } 
+  clergymen = {
+    culture = indian_muslim
+    religion =  sunni
+    size = 33890
+  }
+  farmers = {
+    culture = indian_muslim
+    religion =  sunni
+    size = 775403
+  }
+  farmers = {
+    culture = indian_muslim
+    religion = secularism
+    size = 775403
+  }
+  farmers = {
+    culture = indian
+    religion =  hindu
+    size = 162672
+  }
+  farmers = {
+    culture = indian
+    religion = secularism
+    size = 6778
+  }
 }
 #Shahpur - Shahpur (9069000/2267250 POPS)
 1232 = {
-	clergymen = {
-		culture = indian_muslim
-		religion =  sunni 
-		size = 45345
-	 } 
-	farmers = {
-		culture = indian_muslim
-		religion =  sunni 
-		size = 1155390
-	 } 
-	farmers = {
-		culture = indian_muslim
-		religion = secularism
-		size = 1155390
-	 } 
+  clergymen = {
+    culture = indian_muslim
+    religion =  sunni
+    size = 45345
+  }
+  farmers = {
+    culture = indian_muslim
+    religion =  sunni
+    size = 1155390
+  }
+  farmers = {
+    culture = indian_muslim
+    religion = secularism
+    size = 1155390
+  }
 }
 #Karachi - Karachi (19873000/4968250 POPS)
 1288 = {
-	officers = {
-		culture = indian_muslim
-		religion =  sunni 
-		size = 16309
-	 } 
-	soldiers = {
-		culture = indian_muslim
-		religion =  sunni 
-		size = 309889
-	 } 
-	aristocrats = {
-		culture = indian_muslim
-		religion =  sunni 
-		size = 198730
-	 } 
-	bureaucrats = {
-		culture = indian_muslim
-		religion =  sunni 
-		size = 9936
-	 } 
-	capitalists = {
-		culture = indian_muslim
-		religion =  sunni 
-		size = 24841
-	 } 
-	clergymen = {
-		culture = indian_muslim
-		religion =  sunni 
-		size = 99365
-	 } 
-	clerks = {
-		culture = indian_muslim
-		religion =  sunni 
-		size = 17324
-	 } 
-	artisans = {
-		culture = indian_muslim
-		religion =  sunni 
-		size = 16457
-	 } 
-	craftsmen = {
-		culture = indian_muslim
-		religion =  sunni 
-		size = 51972
-	 } 
-	farmers = {
-		culture = indian_muslim
-		religion =  sunni 
-		size = 826932
-	 } 
-	farmers = {
-		culture = indian_muslim
-		religion = secularism
-		size = 826932
-	 } 
-	farmers = {
-		culture = indian_shia
-		religion =  shiite 
-		size = 1240075
-	 } 
-	farmers = {
-		culture = indian_shia
-		religion = secularism
-		size = 1240075
-	 } 
-	farmers = {
-		culture = baluchi
-		religion =  sunni 
-		size = 248412
-	 } 
+  officers = {
+    culture = indian_muslim
+    religion =  sunni
+    size = 16309
+  }
+  soldiers = {
+    culture = indian_muslim
+    religion =  sunni
+    size = 309889
+  }
+  aristocrats = {
+    culture = indian_muslim
+    religion =  sunni
+    size = 198730
+  }
+  bureaucrats = {
+    culture = indian_muslim
+    religion =  sunni
+    size = 9936
+  }
+  capitalists = {
+    culture = indian_muslim
+    religion =  sunni
+    size = 24841
+  }
+  clergymen = {
+    culture = indian_muslim
+    religion =  sunni
+    size = 99365
+  }
+  clerks = {
+    culture = indian_muslim
+    religion =  sunni
+    size = 17324
+  }
+  artisans = {
+    culture = indian_muslim
+    religion =  sunni
+    size = 16457
+  }
+  craftsmen = {
+    culture = indian_muslim
+    religion =  sunni
+    size = 51972
+  }
+  farmers = {
+    culture = indian_muslim
+    religion =  sunni
+    size = 826932
+  }
+  farmers = {
+    culture = indian_muslim
+    religion = secularism
+    size = 826932
+  }
+  farmers = {
+    culture = indian_shia
+    religion =  shiite
+    size = 1240075
+  }
+  farmers = {
+    culture = indian_shia
+    religion = secularism
+    size = 1240075
+  }
+  farmers = {
+    culture = baluchi
+    religion =  sunni
+    size = 248412
+  }
 }
 #Sukkur - Sukkur (4531000/1132750 POPS)
 1289 = {
-	clergymen = {
-		culture = indian_muslim
-		religion =  sunni 
-		size = 22655
-	 } 
-	farmers = {
-		culture = indian_muslim
-		religion =  sunni 
-		size = 826907
-	 } 
-	farmers = {
-		culture = indian_shia
-		religion =  shiite 
-		size = 283187
-	 } 
+  clergymen = {
+    culture = indian_muslim
+    religion =  sunni
+    size = 22655
+  }
+  farmers = {
+    culture = indian_muslim
+    religion =  sunni
+    size = 826907
+  }
+  farmers = {
+    culture = indian_shia
+    religion =  shiite
+    size = 283187
+  }
 }
 #Umarkot - Umarkot (1971000/492750 POPS)
 1290 = {
-	clergymen = {
-		culture = indian_muslim
-		religion =  sunni 
-		size = 9855
-	 } 
-	farmers = {
-		culture = indian_muslim
-		religion =  sunni 
-		size = 359707
-	 } 
-	farmers = {
-		culture = indian
-		religion =  hindu 
-		size = 118259
-	 } 
-	farmers = {
-		culture = indian
-		religion = secularism
-		size = 4927
-	 } 
+  clergymen = {
+    culture = indian_muslim
+    religion =  sunni
+    size = 9855
+  }
+  farmers = {
+    culture = indian_muslim
+    religion =  sunni
+    size = 359707
+  }
+  farmers = {
+    culture = indian
+    religion =  hindu
+    size = 118259
+  }
+  farmers = {
+    culture = indian
+    religion = secularism
+    size = 4927
+  }
 }
 #Saskylah - Tribal Areas (2073000/518250 POPS)
 2653 = {
-	clergymen = {
-		culture = pashtun
-		religion =  sunni 
-		size = 10365
-	 } 
-	farmers = {
-		culture = pashtun
-		religion =  sunni 
-		size = 507885
-	 } 
+  clergymen = {
+    culture = pashtun
+    religion =  sunni
+    size = 10365
+  }
+  farmers = {
+    culture = pashtun
+    religion =  sunni
+    size = 507885
+  }
 }
 #Olenyok - Faisalabad (11354000/2838500 POPS)
 2673 = {
-	clergymen = {
-		culture = indian_muslim
-		religion =  sunni 
-		size = 56770
-	 } 
-	farmers = {
-		culture = indian_muslim
-		religion =  sunni 
-		size = 1180816
-	 } 
-	farmers = {
-		culture = indian_muslim
-		religion = secularism
-		size = 1180816
-	 } 
-	farmers = {
-		culture = indian
-		religion =  hindu 
-		size = 54499
-	 } 
-	farmers = {
-		culture = indian
-		religion = secularism
-		size = 2270
-	 } 
-	farmers = {
-		culture = indian_shia
-		religion =  shiite 
-		size = 454160
-	 } 
+  clergymen = {
+    culture = indian_muslim
+    religion =  sunni
+    size = 56770
+  }
+  farmers = {
+    culture = indian_muslim
+    religion =  sunni
+    size = 1180816
+  }
+  farmers = {
+    culture = indian_muslim
+    religion = secularism
+    size = 1180816
+  }
+  farmers = {
+    culture = indian
+    religion =  hindu
+    size = 54499
+  }
+  farmers = {
+    culture = indian
+    religion = secularism
+    size = 2270
+  }
+  farmers = {
+    culture = indian_shia
+    religion =  shiite
+    size = 454160
+  }
 }

@@ -1,344 +1,344 @@
 #Tananarive - Tananarive (3553000/888250 POPS)
 2115 = {
-	officers = {
-		culture = merida
-		religion =  catholic 
-		size = 1046
-	 } 
-	officers = {
-		culture = merida
-		religion = secularism
-		size = 78
-	 } 
-	soldiers = {
-		culture = merida
-		religion =  catholic 
-		size = 19885
-	 } 
-	soldiers = {
-		culture = merida
-		religion = secularism
-		size = 1496
-	 } 
-	aristocrats = {
-		culture = merida
-		religion =  catholic 
-		size = 33042
-	 } 
-	aristocrats = {
-		culture = merida
-		religion = secularism
-		size = 2487
-	 } 
-	bureaucrats = {
-		culture = merida
-		religion =  catholic 
-		size = 825
-	 } 
-	bureaucrats = {
-		culture = merida
-		religion = secularism
-		size = 62
-	 } 
-	capitalists = {
-		culture = merida
-		religion =  catholic 
-		size = 4130
-	 } 
-	capitalists = {
-		culture = merida
-		religion = secularism
-		size = 310
-	 } 
-	clergymen = {
-		culture = merida
-		religion =  catholic 
-		size = 16521
-	 } 
-	clergymen = {
-		culture = merida
-		religion = secularism
-		size = 1243
-	 } 
-	clerks = {
-		culture = merida
-		religion =  catholic 
-		size = 9805
-	 } 
-	clerks = {
-		culture = merida
-		religion = secularism
-		size = 738
-	 } 
-	artisans = {
-		culture = merida
-		religion =  catholic 
-		size = 9314
-	 } 
-	artisans = {
-		culture = merida
-		religion = secularism
-		size = 701
-	 } 
-	craftsmen = {
-		culture = merida
-		religion =  catholic 
-		size = 29417
-	 } 
-	craftsmen = {
-		culture = merida
-		religion = secularism
-		size = 2214
-	 } 
-	farmers = {
-		culture = merida
-		religion =  catholic 
-		size = 578170
-	 } 
-	farmers = {
-		culture = merida
-		religion = secularism
-		size = 43518
-	 } 
-	farmers = {
-		culture = chinese
-		religion =  taoism 
-		size = 8260
-	 } 
-	farmers = {
-		culture = chinese
-		religion = secularism
-		size = 621
-	 } 
-	farmers = {
-		culture = french_african
-		religion =  catholic 
-		size = 24781
-	 } 
-	farmers = {
-		culture = french_african
-		religion = secularism
-		size = 1865
-	 } 
-	farmers = {
-		culture = french
-		religion =  catholic 
-		size = 16521
-	 } 
-	farmers = {
-		culture = french
-		religion = secularism
-		size = 1243
-	 } 
-	farmers = {
-		culture = african_minor
-		religion =  catholic 
-		size = 74346
-	 } 
-	farmers = {
-		culture = african_minor
-		religion = secularism
-		size = 5595
-	 } 
+  officers = {
+    culture = merida
+    religion =  catholic
+    size = 1046
+  }
+  officers = {
+    culture = merida
+    religion = secularism
+    size = 78
+  }
+  soldiers = {
+    culture = merida
+    religion =  catholic
+    size = 19885
+  }
+  soldiers = {
+    culture = merida
+    religion = secularism
+    size = 1496
+  }
+  aristocrats = {
+    culture = merida
+    religion =  catholic
+    size = 33042
+  }
+  aristocrats = {
+    culture = merida
+    religion = secularism
+    size = 2487
+  }
+  bureaucrats = {
+    culture = merida
+    religion =  catholic
+    size = 825
+  }
+  bureaucrats = {
+    culture = merida
+    religion = secularism
+    size = 62
+  }
+  capitalists = {
+    culture = merida
+    religion =  catholic
+    size = 4130
+  }
+  capitalists = {
+    culture = merida
+    religion = secularism
+    size = 310
+  }
+  clergymen = {
+    culture = merida
+    religion =  catholic
+    size = 16521
+  }
+  clergymen = {
+    culture = merida
+    religion = secularism
+    size = 1243
+  }
+  clerks = {
+    culture = merida
+    religion =  catholic
+    size = 9805
+  }
+  clerks = {
+    culture = merida
+    religion = secularism
+    size = 738
+  }
+  artisans = {
+    culture = merida
+    religion =  catholic
+    size = 9314
+  }
+  artisans = {
+    culture = merida
+    religion = secularism
+    size = 701
+  }
+  craftsmen = {
+    culture = merida
+    religion =  catholic
+    size = 29417
+  }
+  craftsmen = {
+    culture = merida
+    religion = secularism
+    size = 2214
+  }
+  farmers = {
+    culture = merida
+    religion =  catholic
+    size = 578170
+  }
+  farmers = {
+    culture = merida
+    religion = secularism
+    size = 43518
+  }
+  farmers = {
+    culture = chinese
+    religion =  taoism
+    size = 8260
+  }
+  farmers = {
+    culture = chinese
+    religion = secularism
+    size = 621
+  }
+  farmers = {
+    culture = french_african
+    religion =  catholic
+    size = 24781
+  }
+  farmers = {
+    culture = french_african
+    religion = secularism
+    size = 1865
+  }
+  farmers = {
+    culture = french
+    religion =  catholic
+    size = 16521
+  }
+  farmers = {
+    culture = french
+    religion = secularism
+    size = 1243
+  }
+  farmers = {
+    culture = african_minor
+    religion =  catholic
+    size = 74346
+  }
+  farmers = {
+    culture = african_minor
+    religion = secularism
+    size = 5595
+  }
 }
 #Fianarantsoa - Fianarantsoa (1237000/309250 POPS)
 2116 = {
-	clergymen = {
-		culture = betsileo
-		religion =  catholic 
-		size = 5752
-	 } 
-	clergymen = {
-		culture = betsileo
-		religion = secularism
-		size = 432
-	 } 
-	farmers = {
-		culture = betsileo
-		religion =  catholic 
-		size = 281850
-	 } 
-	farmers = {
-		culture = betsileo
-		religion = secularism
-		size = 21214
-	 } 
+  clergymen = {
+    culture = betsileo
+    religion =  catholic
+    size = 5752
+  }
+  clergymen = {
+    culture = betsileo
+    religion = secularism
+    size = 432
+  }
+  farmers = {
+    culture = betsileo
+    religion =  catholic
+    size = 281850
+  }
+  farmers = {
+    culture = betsileo
+    religion = secularism
+    size = 21214
+  }
 }
 #Ampanihy - Ampanihy (1237000/309250 POPS)
 2117 = {
-	clergymen = {
-		culture = betsileo
-		religion =  catholic 
-		size = 5752
-	 } 
-	clergymen = {
-		culture = betsileo
-		religion = secularism
-		size = 432
-	 } 
-	farmers = {
-		culture = betsileo
-		religion =  catholic 
-		size = 31635
-	 } 
-	farmers = {
-		culture = betsileo
-		religion = secularism
-		size = 2381
-	 } 
-	farmers = {
-		culture = african_minor
-		religion =  animist 
-		size = 250213
-	 } 
-	farmers = {
-		culture = african_minor
-		religion = secularism
-		size = 18833
-	 } 
+  clergymen = {
+    culture = betsileo
+    religion =  catholic
+    size = 5752
+  }
+  clergymen = {
+    culture = betsileo
+    religion = secularism
+    size = 432
+  }
+  farmers = {
+    culture = betsileo
+    religion =  catholic
+    size = 31635
+  }
+  farmers = {
+    culture = betsileo
+    religion = secularism
+    size = 2381
+  }
+  farmers = {
+    culture = african_minor
+    religion =  animist
+    size = 250213
+  }
+  farmers = {
+    culture = african_minor
+    religion = secularism
+    size = 18833
+  }
 }
 #Tolanaro - Tolanaro (803000/200750 POPS)
 2118 = {
-	clergymen = {
-		culture = african_minor
-		religion =  animist 
-		size = 3733
-	 } 
-	clergymen = {
-		culture = african_minor
-		religion = secularism
-		size = 281
-	 } 
-	farmers = {
-		culture = african_minor
-		religion =  animist 
-		size = 182963
-	 } 
-	farmers = {
-		culture = african_minor
-		religion = secularism
-		size = 13771
-	 } 
+  clergymen = {
+    culture = african_minor
+    religion =  animist
+    size = 3733
+  }
+  clergymen = {
+    culture = african_minor
+    religion = secularism
+    size = 281
+  }
+  farmers = {
+    culture = african_minor
+    religion =  animist
+    size = 182963
+  }
+  farmers = {
+    culture = african_minor
+    religion = secularism
+    size = 13771
+  }
 }
 #Toamasina - Toamasina (1888000/472000 POPS)
 2119 = {
-	clergymen = {
-		culture = betsimisaraka
-		religion =  animist 
-		size = 8779
-	 } 
-	clergymen = {
-		culture = betsimisaraka
-		religion = secularism
-		size = 660
-	 } 
-	farmers = {
-		culture = betsimisaraka
-		religion =  animist 
-		size = 395064
-	 } 
-	farmers = {
-		culture = betsimisaraka
-		religion = secularism
-		size = 29736
-	 } 
-	farmers = {
-		culture = african_minor
-		religion =  animist 
-		size = 35116
-	 } 
-	farmers = {
-		culture = african_minor
-		religion = secularism
-		size = 2643
-	 } 
+  clergymen = {
+    culture = betsimisaraka
+    religion =  animist
+    size = 8779
+  }
+  clergymen = {
+    culture = betsimisaraka
+    religion = secularism
+    size = 660
+  }
+  farmers = {
+    culture = betsimisaraka
+    religion =  animist
+    size = 395064
+  }
+  farmers = {
+    culture = betsimisaraka
+    religion = secularism
+    size = 29736
+  }
+  farmers = {
+    culture = african_minor
+    religion =  animist
+    size = 35116
+  }
+  farmers = {
+    culture = african_minor
+    religion = secularism
+    size = 2643
+  }
 }
 #Antsiranana - Antsiranana (854000/213500 POPS)
 2120 = {
-	clergymen = {
-		culture = tsimihety
-		religion =  animist 
-		size = 3971
-	 } 
-	clergymen = {
-		culture = tsimihety
-		religion = secularism
-		size = 298
-	 } 
-	farmers = {
-		culture = tsimihety
-		religion =  animist 
-		size = 184656
-	 } 
-	farmers = {
-		culture = tsimihety
-		religion = secularism
-		size = 13898
-	 } 
-	farmers = {
-		culture = african_minor
-		religion =  animist 
-		size = 9927
-	 } 
-	farmers = {
-		culture = african_minor
-		religion = secularism
-		size = 747
-	 } 
+  clergymen = {
+    culture = tsimihety
+    religion =  animist
+    size = 3971
+  }
+  clergymen = {
+    culture = tsimihety
+    religion = secularism
+    size = 298
+  }
+  farmers = {
+    culture = tsimihety
+    religion =  animist
+    size = 184656
+  }
+  farmers = {
+    culture = tsimihety
+    religion = secularism
+    size = 13898
+  }
+  farmers = {
+    culture = african_minor
+    religion =  animist
+    size = 9927
+  }
+  farmers = {
+    culture = african_minor
+    religion = secularism
+    size = 747
+  }
 }
 #Mahajanga - Mahajanga (1254000/313500 POPS)
 2121 = {
-	clergymen = {
-		culture = black_muslim
-		religion =  sunni 
-		size = 6270
-	 } 
-	farmers = {
-		culture = black_muslim
-		religion =  sunni 
-		size = 194370
-	 } 
-	farmers = {
-		culture = african_minor
-		religion =  animist 
-		size = 104959
-	 } 
-	farmers = {
-		culture = african_minor
-		religion = secularism
-		size = 7900
-	 } 
+  clergymen = {
+    culture = black_muslim
+    religion =  sunni
+    size = 6270
+  }
+  farmers = {
+    culture = black_muslim
+    religion =  sunni
+    size = 194370
+  }
+  farmers = {
+    culture = african_minor
+    religion =  animist
+    size = 104959
+  }
+  farmers = {
+    culture = african_minor
+    religion = secularism
+    size = 7900
+  }
 }
 #Toliara - Toliara (803000/200750 POPS)
 2122 = {
-	clergymen = {
-		culture = sakalava
-		religion =  animist 
-		size = 3733
-	 } 
-	clergymen = {
-		culture = sakalava
-		religion = secularism
-		size = 281
-	 } 
-	farmers = {
-		culture = sakalava
-		religion =  animist 
-		size = 156825
-	 } 
-	farmers = {
-		culture = sakalava
-		religion = secularism
-		size = 11804
-	 } 
-	farmers = {
-		culture = african_minor
-		religion =  animist 
-		size = 26137
-	 } 
-	farmers = {
-		culture = african_minor
-		religion = secularism
-		size = 1967
-	 } 
+  clergymen = {
+    culture = sakalava
+    religion =  animist
+    size = 3733
+  }
+  clergymen = {
+    culture = sakalava
+    religion = secularism
+    size = 281
+  }
+  farmers = {
+    culture = sakalava
+    religion =  animist
+    size = 156825
+  }
+  farmers = {
+    culture = sakalava
+    religion = secularism
+    size = 11804
+  }
+  farmers = {
+    culture = african_minor
+    religion =  animist
+    size = 26137
+  }
+  farmers = {
+    culture = african_minor
+    religion = secularism
+    size = 1967
+  }
 }

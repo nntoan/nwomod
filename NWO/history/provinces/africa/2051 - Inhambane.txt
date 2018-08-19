@@ -6,8 +6,8 @@ life_rating = 33
 terrain = dry_grassland
 colonial = 2
 1992.1.1 = {
-owner = MOZ
-controller = MOZ
-add_core = MOZ
-colonial = 0
+  owner = MOZ
+  controller = MOZ
+  add_core = MOZ
+  colonial = 0
 }

@@ -1,123 +1,123 @@
 #Singapore - Singapore (3046000/761500 POPS)
 1384 = {
-	officers = {
-		culture = chinese
-		religion =  taoism 
-		size = 4552
-	 } 
-	officers = {
-		culture = chinese
-		religion = secularism
-		size = 5133
-	 } 
-	soldiers = {
-		culture = chinese
-		religion =  taoism 
-		size = 86498
-	 } 
-	soldiers = {
-		culture = chinese
-		religion = secularism
-		size = 97541
-	 } 
-	aristocrats = {
-		culture = chinese
-		religion =  taoism 
-		size = 8947
-	 } 
-	aristocrats = {
-		culture = chinese
-		religion = secularism
-		size = 10089
-	 } 
-	bureaucrats = {
-		culture = chinese
-		religion =  taoism 
-		size = 2147
-	 } 
-	bureaucrats = {
-		culture = chinese
-		religion = secularism
-		size = 2421
-	 } 
-	capitalists = {
-		culture = chinese
-		religion =  taoism 
-		size = 2147
-	 } 
-	capitalists = {
-		culture = chinese
-		religion = secularism
-		size = 2421
-	 } 
-	clergymen = {
-		culture = chinese
-		religion =  taoism 
-		size = 7158
-	 } 
-	clergymen = {
-		culture = chinese
-		religion = secularism
-		size = 8071
-	 } 
-	clerks = {
-		culture = chinese
-		religion =  taoism 
-		size = 10065
-	 } 
-	clerks = {
-		culture = chinese
-		religion = secularism
-		size = 11350
-	 } 
-	artisans = {
-		culture = chinese
-		religion =  taoism 
-		size = 9562
-	 } 
-	artisans = {
-		culture = chinese
-		religion = secularism
-		size = 10782
-	 } 
-	craftsmen = {
-		culture = chinese
-		religion =  taoism 
-		size = 30197
-	 } 
-	craftsmen = {
-		culture = chinese
-		religion = secularism
-		size = 34051
-	 } 
-	farmers = {
-		culture = chinese
-		religion =  taoism 
-		size = 104289
-	 } 
-	farmers = {
-		culture = chinese
-		religion = secularism
-		size = 117602
-	 } 
-	farmers = {
-		culture = indian
-		religion =  hindu 
-		size = 32927
-	 } 
-	farmers = {
-		culture = indian
-		religion = secularism
-		size = 37130
-	 } 
-	farmers = {
-		culture = malay
-		religion =  sunni 
-		size = 101279
-	 } 
-	farmers = {
-		culture = indonesian
-		religion =  sunni 
-		size = 25129
-	 } 
+  officers = {
+    culture = chinese
+    religion =  taoism
+    size = 4552
+  }
+  officers = {
+    culture = chinese
+    religion = secularism
+    size = 5133
+  }
+  soldiers = {
+    culture = chinese
+    religion =  taoism
+    size = 86498
+  }
+  soldiers = {
+    culture = chinese
+    religion = secularism
+    size = 97541
+  }
+  aristocrats = {
+    culture = chinese
+    religion =  taoism
+    size = 8947
+  }
+  aristocrats = {
+    culture = chinese
+    religion = secularism
+    size = 10089
+  }
+  bureaucrats = {
+    culture = chinese
+    religion =  taoism
+    size = 2147
+  }
+  bureaucrats = {
+    culture = chinese
+    religion = secularism
+    size = 2421
+  }
+  capitalists = {
+    culture = chinese
+    religion =  taoism
+    size = 2147
+  }
+  capitalists = {
+    culture = chinese
+    religion = secularism
+    size = 2421
+  }
+  clergymen = {
+    culture = chinese
+    religion =  taoism
+    size = 7158
+  }
+  clergymen = {
+    culture = chinese
+    religion = secularism
+    size = 8071
+  }
+  clerks = {
+    culture = chinese
+    religion =  taoism
+    size = 10065
+  }
+  clerks = {
+    culture = chinese
+    religion = secularism
+    size = 11350
+  }
+  artisans = {
+    culture = chinese
+    religion =  taoism
+    size = 9562
+  }
+  artisans = {
+    culture = chinese
+    religion = secularism
+    size = 10782
+  }
+  craftsmen = {
+    culture = chinese
+    religion =  taoism
+    size = 30197
+  }
+  craftsmen = {
+    culture = chinese
+    religion = secularism
+    size = 34051
+  }
+  farmers = {
+    culture = chinese
+    religion =  taoism
+    size = 104289
+  }
+  farmers = {
+    culture = chinese
+    religion = secularism
+    size = 117602
+  }
+  farmers = {
+    culture = indian
+    religion =  hindu
+    size = 32927
+  }
+  farmers = {
+    culture = indian
+    religion = secularism
+    size = 37130
+  }
+  farmers = {
+    culture = malay
+    religion =  sunni
+    size = 101279
+  }
+  farmers = {
+    culture = indonesian
+    religion =  sunni
+    size = 25129
+  }
 }

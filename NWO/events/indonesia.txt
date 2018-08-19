@@ -1,45 +1,45 @@
 country_event = {
-	id = 1007301
-	title = EVT_1007301_NAME
-	desc = EVT_1007301_DESC
-	picture = "d_east_timor"
-	fire_only_once = yes
-	
-	trigger = {
-		tag = IDO
-		year = 2002
-		NOT = { exists = TIM }
-		war = no
-		1446 = { controlled_by = IDO } # Dili
-	}
+  id = 1007301
+  title = EVT_1007301_NAME
+  desc = EVT_1007301_DESC
+  picture = "d_east_timor"
+  fire_only_once = yes
 
-	mean_time_to_happen = {
-		months = 2
-	}
+  trigger = {
+    tag = IDO
+    year = 2002
+    NOT = { exists = TIM }
+    war = no
+    1446 = { controlled_by = IDO } # Dili
+  }
 
-	option = {
-		name = EVT_1007301_A 
-		ai_chance = { factor = 0 }
-		prestige = -20 
-		badboy = 2
-		any_pop = {
-			limit = {
-				location = { province_id = 1446 }
-				culture = ambon_timor
-			}
-			militancy = 6
-			consciousness = 5
-		}
-	}
+  mean_time_to_happen = {
+    months = 2
+  }
 
-	option = {
-		name = EVT_1007301_B
-		ai_chance = { factor = 100  }
-		prestige = 10 
-		release = TIM
-	}
-	
-	
+  option = {
+    name = EVT_1007301_A
+    ai_chance = { factor = 0 }
+    prestige = -20
+    badboy = 2
+    any_pop = {
+      limit = {
+        location = { province_id = 1446 }
+        culture = ambon_timor
+      }
+      militancy = 6
+      consciousness = 5
+    }
+  }
+
+  option = {
+    name = EVT_1007301_B
+    ai_chance = { factor = 100  }
+    prestige = 10
+    release = TIM
+  }
+
+
 }
 
 country_event = { # Independence of Indonesia
@@ -52,18 +52,18 @@ country_event = { # Independence of Indonesia
   trigger = {
     tag = IDO
     year = 1945 NOT = { year = 1990 }
-	exists = yes
-	NOT = { government = proletarian_dictatorship }
-	is_vassal = no
-	owns = 1413
-	war = no
+    exists = yes
+    NOT = { government = proletarian_dictatorship }
+    is_vassal = no
+    owns = 1413
+    war = no
   }
 
   mean_time_to_happen = { months = 8 }
 
   option = {
     name = EVT_8007303_A
-	capital = 1413
+    capital = 1413
   }
 }
 country_event = {
@@ -76,15 +76,15 @@ country_event = {
   trigger = {
     tag = IDO
     year = 1958
-	NOT = { government = proletarian_dictatorship }
+    NOT = { government = proletarian_dictatorship }
   }
 
   mean_time_to_happen = { months = 6 }
 
   option = {
     name = EVT_8007314_A
-	any_pop = { militancy = 1.5  consciousness = 2 }
-	random_state = { any_pop = { dominant_issue = { value = parties_allowed factor = 0.35 } } }
+    any_pop = { militancy = 1.5  consciousness = 2 }
+    random_state = { any_pop = { dominant_issue = { value = parties_allowed factor = 0.35 } } }
   }
 }
 country_event = {
@@ -97,14 +97,14 @@ country_event = {
   trigger = {
     tag = IDO
     year = 1967
-	NOT = { year = 1990 }
+    NOT = { year = 1990 }
   }
 
   mean_time_to_happen = { months = 12 }
 
   option = {
     name = EVT_8007315_A
-	any_pop = { consciousness = 1  }
+    any_pop = { consciousness = 1  }
   }
 }
 country_event = {
@@ -117,7 +117,7 @@ country_event = {
   trigger = {
     tag = IDO
     year = 1965
-	NOT = { year = 1990 }
+    NOT = { year = 1990 }
     NOT = { government = proletarian_dictatorship }
     war = no
   }
@@ -126,7 +126,7 @@ country_event = {
 
   option = {
     name = EVT_8007320_A
-	any_pop = { consciousness = 0.5 militancy = 0.5 }
+    any_pop = { consciousness = 0.5 militancy = 0.5 }
   }
 }
 
@@ -140,24 +140,24 @@ country_event = {
   trigger = {
     tag = POR
     government = democracy
-	IDO = { exists = yes war = no }
-	owns = 1446
-	war = no
+    IDO = { exists = yes war = no }
+    owns = 1446
+    war = no
   }
   mean_time_to_happen = { months = 12 }
 
   option = {
-		name = EVT_8007321_A
-		any_pop = {  consciousness = 2 }
-		IDO = { country_event = 8007322 }
-		ai_chance = { factor = 100 }
+    name = EVT_8007321_A
+    any_pop = {  consciousness = 2 }
+    IDO = { country_event = 8007322 }
+    ai_chance = { factor = 100 }
   }
 
   option = {
     name = EVT_8007321_B
-	badboy = 10
-	1446 = { add_core = IDO }
-	ai_chance = { factor = 0 }
+    badboy = 10
+    1446 = { add_core = IDO }
+    ai_chance = { factor = 0 }
   }
 }
 
@@ -168,20 +168,20 @@ country_event = {
   picture = "nwo2_east_timor"
 
   is_triggered_only = yes
-  
+
   option = {
-		name = EVT_8007322_A
-		any_pop = { militancy = -0.5  consciousness = 1.0 }
-		1446 = { secede_province = IDO } 
-		badboy = 10
-		ai_chance = { factor = 100 }
+    name = EVT_8007322_A
+    any_pop = { militancy = -0.5  consciousness = 1.0 }
+    1446 = { secede_province = IDO }
+    badboy = 10
+    ai_chance = { factor = 100 }
   }
 
   option = {
     name = EVT_8007322_B
-	any_pop = { militancy = 0.5  consciousness = 1 }
-	POR = { release = TIM }
-	ai_chance = { factor = 0 }
+    any_pop = { militancy = 0.5  consciousness = 1 }
+    POR = { release = TIM }
+    ai_chance = { factor = 0 }
   }
 }
 
@@ -194,26 +194,26 @@ country_event = {
 
   option = {
     name = EVT_8007303_A
-	define_general = { name = "Sukarno" personality = energetic background = no_background }
-	casus_belli = { target = NET type = become_independent months = 12 }
-	add_casus_belli = { target = NET type = acquire_core_state months = 12 }
-	random_country = { limit = { tag = NET } leave_alliance = GBR leave_alliance = USA }
-	war = { 
-		target = NET
-		attacker_goal = { casus_belli = become_independent }
-		defender_goal = { casus_belli = make_puppet } 
-		#defender_goal = { casus_belli = acquire_core_state state_province_id = 1413 } # 2620 West Java
-		#defender_goal = { casus_belli = acquire_core_state state_province_id = 1418 } # East Java
-		#defender_goal = { casus_belli = acquire_core_state state_province_id = 1405 } # Sumatra
-		#defender_goal = { casus_belli = acquire_core_state state_province_id = 1401 }
-		#defender_goal = { casus_belli = acquire_core_state state_province_id = 1398 } 
-	}
-	ai_chance = { factor = 100 }
+    define_general = { name = "Sukarno" personality = energetic background = no_background }
+    casus_belli = { target = NET type = become_independent months = 12 }
+    add_casus_belli = { target = NET type = acquire_core_state months = 12 }
+    random_country = { limit = { tag = NET } leave_alliance = GBR leave_alliance = USA }
+    war = {
+      target = NET
+      attacker_goal = { casus_belli = become_independent }
+      defender_goal = { casus_belli = make_puppet }
+      #defender_goal = { casus_belli = acquire_core_state state_province_id = 1413 } # 2620 West Java
+      #defender_goal = { casus_belli = acquire_core_state state_province_id = 1418 } # East Java
+      #defender_goal = { casus_belli = acquire_core_state state_province_id = 1405 } # Sumatra
+      #defender_goal = { casus_belli = acquire_core_state state_province_id = 1401 }
+      #defender_goal = { casus_belli = acquire_core_state state_province_id = 1398 }
+    }
+    ai_chance = { factor = 100 }
   }
   option = {
     name = EVT_8007303_B
-	NET = { inherit = THIS }
-	ai_chance = { factor = 0 }
+    NET = { inherit = THIS }
+    ai_chance = { factor = 0 }
   }
 }
 
@@ -227,14 +227,14 @@ country_event = {
   trigger = {
     tag = IDO
     year = 1947
-	NOT = { year = 1990 }
+    NOT = { year = 1990 }
   }
 
   mean_time_to_happen = { months = 1  }
 
   option = {
     name = OK
-	define_general = { name = "Amir Sjarifuddin" personality = energetic background = no_background }
+    define_general = { name = "Amir Sjarifuddin" personality = energetic background = no_background }
   }
 }
 country_event = {
@@ -253,7 +253,7 @@ country_event = {
 
   option = {
     name = OK
-	define_general = { name = "Muhammad Hatta" personality = energetic background = no_background }
+    define_general = { name = "Muhammad Hatta" personality = energetic background = no_background }
   }
 }
 country_event = {
@@ -272,7 +272,7 @@ country_event = {
 
   option = {
     name = OK
-	define_general = { name = "Wakil Pakmehasan" personality = energetic background = no_background }
+    define_general = { name = "Wakil Pakmehasan" personality = energetic background = no_background }
   }
 }
 country_event = {
@@ -291,7 +291,7 @@ country_event = {
 
   option = {
     name = OK
-	define_general = { name = "Mohammed Natsir" personality = energetic background = no_background }
+    define_general = { name = "Mohammed Natsir" personality = energetic background = no_background }
   }
 }
 
@@ -311,7 +311,7 @@ country_event = {
 
   option = {
     name = OK
-	define_general = { name = "Sukoman Wirjosandjojo" personality = energetic background = no_background }
+    define_general = { name = "Sukoman Wirjosandjojo" personality = energetic background = no_background }
   }
 }
 country_event = {
@@ -330,7 +330,7 @@ country_event = {
 
   option = {
     name = OK
-	define_general = { name = "Siswanto Wilopo" personality = energetic background = no_background }
+    define_general = { name = "Siswanto Wilopo" personality = energetic background = no_background }
   }
 }
 country_event = {
@@ -349,7 +349,7 @@ country_event = {
 
   option = {
     name = OK
-	define_general = { name = "Ali Sastromidjojo" personality = energetic background = no_background }
+    define_general = { name = "Ali Sastromidjojo" personality = energetic background = no_background }
   }
 }
 country_event = {
@@ -368,7 +368,7 @@ country_event = {
 
   option = {
     name = OK
-	define_general = { name = "Burhanuddin Harahap" personality = energetic background = no_background }
+    define_general = { name = "Burhanuddin Harahap" personality = energetic background = no_background }
   }
 }
 

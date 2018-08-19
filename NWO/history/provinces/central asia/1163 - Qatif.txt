@@ -7,14 +7,14 @@ life_rating = 45
 terrain = desert
 colonial = 0
 1992.1.1 = {
-owner = SAA
-controller = SAA
-add_core = SAA
-add_core = QTI
-colonial = 0
-state_building = {
-	level = 1
-	building = petroleum_plastics_factory
-	upgrade = yes
-}
+  owner = SAA
+  controller = SAA
+  add_core = SAA
+  add_core = QTI
+  colonial = 0
+  state_building = {
+    level = 1
+    building = petroleum_plastics_factory
+    upgrade = yes
+  }
 }

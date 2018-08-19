@@ -6,8 +6,8 @@ life_rating = 38
 terrain = mountain_farmland
 colonial = 2
 1992.1.1 = {
-owner = RWA
-controller = RWA
-add_core = RWA
-colonial = 0
+  owner = RWA
+  controller = RWA
+  add_core = RWA
+  colonial = 0
 }

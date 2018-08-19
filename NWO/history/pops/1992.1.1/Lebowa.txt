@@ -1,103 +1,103 @@
 #Yansk - Lebowa (1428000/357000 POPS)
 2647 = {
-	officers = {
-		culture = sepedi
-		religion =  protestant 
-		size = 71
-	 } 
-	officers = {
-		culture = sepedi
-		religion = secularism
-		size = 106
-	 } 
-	soldiers = {
-		culture = sepedi
-		religion =  protestant 
-		size = 1356
-	 } 
-	soldiers = {
-		culture = sepedi
-		religion = secularism
-		size = 2034
-	 } 
-	aristocrats = {
-		culture = sepedi
-		religion =  protestant 
-		size = 4998
-	 } 
-	aristocrats = {
-		culture = sepedi
-		religion = secularism
-		size = 7497
-	 } 
-	bureaucrats = {
-		culture = sepedi
-		religion =  protestant 
-		size = 571
-	 } 
-	bureaucrats = {
-		culture = sepedi
-		religion = secularism
-		size = 856
-	 } 
-	capitalists = {
-		culture = sepedi
-		religion =  protestant 
-		size = 856
-	 } 
-	capitalists = {
-		culture = sepedi
-		religion = secularism
-		size = 1285
-	 } 
-	clergymen = {
-		culture = sepedi
-		religion =  protestant 
-		size = 2856
-	 } 
-	clergymen = {
-		culture = sepedi
-		religion = secularism
-		size = 4284
-	 } 
-	clerks = {
-		culture = sepedi
-		religion =  protestant 
-		size = 3278
-	 } 
-	clerks = {
-		culture = sepedi
-		religion = secularism
-		size = 4917
-	 } 
-	artisans = {
-		culture = sepedi
-		religion =  protestant 
-		size = 3114
-	 } 
-	artisans = {
-		culture = sepedi
-		religion = secularism
-		size = 4671
-	 } 
-	craftsmen = {
-		culture = sepedi
-		religion =  protestant 
-		size = 9834
-	 } 
-	craftsmen = {
-		culture = sepedi
-		religion = secularism
-		size = 14751
-	 } 
-	farmers = {
-		culture = sepedi
-		religion =  protestant 
-		size = 115864
-	 } 
-	farmers = {
-		culture = sepedi
-		religion = secularism
-		size = 173796
-	 } 
+  officers = {
+    culture = sepedi
+    religion =  protestant
+    size = 71
+  }
+  officers = {
+    culture = sepedi
+    religion = secularism
+    size = 106
+  }
+  soldiers = {
+    culture = sepedi
+    religion =  protestant
+    size = 1356
+  }
+  soldiers = {
+    culture = sepedi
+    religion = secularism
+    size = 2034
+  }
+  aristocrats = {
+    culture = sepedi
+    religion =  protestant
+    size = 4998
+  }
+  aristocrats = {
+    culture = sepedi
+    religion = secularism
+    size = 7497
+  }
+  bureaucrats = {
+    culture = sepedi
+    religion =  protestant
+    size = 571
+  }
+  bureaucrats = {
+    culture = sepedi
+    religion = secularism
+    size = 856
+  }
+  capitalists = {
+    culture = sepedi
+    religion =  protestant
+    size = 856
+  }
+  capitalists = {
+    culture = sepedi
+    religion = secularism
+    size = 1285
+  }
+  clergymen = {
+    culture = sepedi
+    religion =  protestant
+    size = 2856
+  }
+  clergymen = {
+    culture = sepedi
+    religion = secularism
+    size = 4284
+  }
+  clerks = {
+    culture = sepedi
+    religion =  protestant
+    size = 3278
+  }
+  clerks = {
+    culture = sepedi
+    religion = secularism
+    size = 4917
+  }
+  artisans = {
+    culture = sepedi
+    religion =  protestant
+    size = 3114
+  }
+  artisans = {
+    culture = sepedi
+    religion = secularism
+    size = 4671
+  }
+  craftsmen = {
+    culture = sepedi
+    religion =  protestant
+    size = 9834
+  }
+  craftsmen = {
+    culture = sepedi
+    religion = secularism
+    size = 14751
+  }
+  farmers = {
+    culture = sepedi
+    religion =  protestant
+    size = 115864
+  }
+  farmers = {
+    culture = sepedi
+    religion = secularism
+    size = 173796
+  }
 }

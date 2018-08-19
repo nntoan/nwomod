@@ -1,13 +1,13 @@
 #Saskylah - Tribal Areas (765000/191250 POPS)
 2653 = {
-	clergymen = {
-		culture = pashtun
-		religion =  sunni 
-		size = 3825
-	 } 
-	farmers = {
-		culture = pashtun
-		religion =  sunni 
-		size = 187425
-	 } 
+  clergymen = {
+    culture = pashtun
+    religion =  sunni
+    size = 3825
+  }
+  farmers = {
+    culture = pashtun
+    religion =  sunni
+    size = 187425
+  }
 }

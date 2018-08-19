@@ -6,8 +6,8 @@ life_rating = 42
 terrain = jungle_hills
 colonial = 2
 1992.1.1 = {
-owner = SOL
-controller = SOL
-add_core = SOL
-colonial = 0
+  owner = SOL
+  controller = SOL
+  add_core = SOL
+  colonial = 0
 }

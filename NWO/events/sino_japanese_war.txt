@@ -16,24 +16,24 @@ country_event = {
 
   option = {
     name = EVT_8230001_A
-	any_country = { limit = { vassal_of = THIS } country_event = 8230011 }
-	relation = { who = USA value = 25 } 
-	relation = { who = GBR value = 25 } 
+    any_country = { limit = { vassal_of = THIS } country_event = 8230011 }
+    relation = { who = USA value = 25 }
+    relation = { who = GBR value = 25 }
     ai_chance = { factor = 100 }
   }
 
   option = {
     name = EVT_8230001_B
-	any_country = { limit = { vassal_of = THIS } country_event = 8230021 }
-	relation = { who = USA value = -25 } 
-	relation = { who = GBR value = -25 } 
+    any_country = { limit = { vassal_of = THIS } country_event = 8230021 }
+    relation = { who = USA value = -25 }
+    relation = { who = GBR value = -25 }
     ai_chance = { factor = 0 }
   }
 
   option = {
     name = EVT_8230001_C
-	any_pop = { militancy = 0.5  consciousness = 1.0 }
-	set_country_flag = CHI_leadership_struggle 
+    any_pop = { militancy = 0.5  consciousness = 1.0 }
+    set_country_flag = CHI_leadership_struggle
     ai_chance = { factor = 0 }
   }
 }
@@ -43,10 +43,10 @@ country_event = {
   desc = EVT_8230011_DESC
   picture = "nwo2_difangjun"
   is_triggered_only = yes
-  
+
   option = {
     name = EVT_8230011_A
-	relation = { who = FROM value = -25 } 
+    relation = { who = FROM value = -25 }
   }
 }
 country_event = {
@@ -58,7 +58,7 @@ country_event = {
 
   option = {
     name = EVT_8230021_A
-	relation = { who = FROM value = 25 } 
+    relation = { who = FROM value = 25 }
   }
 }
 
@@ -74,6 +74,6 @@ country_event = {
 
   option = {
     name = EVT_8230031_A
-	any_pop = { militancy = 0.5  consciousness = 1.0 }
+    any_pop = { militancy = 0.5  consciousness = 1.0 }
   }
 }

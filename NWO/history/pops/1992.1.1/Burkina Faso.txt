@@ -1,198 +1,198 @@
 #Wagadugu - Centre, Centre-Sud, Plateau-Central, Centre-Est (2618000/654500 POPS)
 1901 = {
-	officers = {
-		culture = french_african
-		religion =  catholic 
-		size = 541
-	 } 
-	officers = {
-		culture = french_african
-		religion = secularism
-		size = 34
-	 } 
-	soldiers = {
-		culture = french_african
-		religion =  catholic 
-		size = 10304
-	 } 
-	soldiers = {
-		culture = french_african
-		religion = secularism
-		size = 657
-	 } 
-	aristocrats = {
-		culture = french_african
-		religion =  catholic 
-		size = 1458
-	 } 
-	aristocrats = {
-		culture = french_african
-		religion = secularism
-		size = 93
-	 } 
-	aristocrats = {
-		culture = mossi
-		religion =  sunni 
-		size = 24628
-	 } 
-	capitalists = {
-		culture = mossi
-		religion =  sunni 
-		size = 3272
-	 } 
-	clergymen = {
-		culture = mossi
-		religion =  sunni 
-		size = 13090
-	 } 
-	clerks = {
-		culture = mossi
-		religion =  sunni 
-		size = 6365
-	 } 
-	artisans = {
-		culture = mossi
-		religion =  sunni 
-		size = 6047
-	 } 
-	craftsmen = {
-		culture = mossi
-		religion =  sunni 
-		size = 19096
-	 } 
-	farmers = {
-		culture = mossi
-		religion =  sunni 
-		size = 568258
-	 } 
+  officers = {
+    culture = french_african
+    religion =  catholic
+    size = 541
+  }
+  officers = {
+    culture = french_african
+    religion = secularism
+    size = 34
+  }
+  soldiers = {
+    culture = french_african
+    religion =  catholic
+    size = 10304
+  }
+  soldiers = {
+    culture = french_african
+    religion = secularism
+    size = 657
+  }
+  aristocrats = {
+    culture = french_african
+    religion =  catholic
+    size = 1458
+  }
+  aristocrats = {
+    culture = french_african
+    religion = secularism
+    size = 93
+  }
+  aristocrats = {
+    culture = mossi
+    religion =  sunni
+    size = 24628
+  }
+  capitalists = {
+    culture = mossi
+    religion =  sunni
+    size = 3272
+  }
+  clergymen = {
+    culture = mossi
+    religion =  sunni
+    size = 13090
+  }
+  clerks = {
+    culture = mossi
+    religion =  sunni
+    size = 6365
+  }
+  artisans = {
+    culture = mossi
+    religion =  sunni
+    size = 6047
+  }
+  craftsmen = {
+    culture = mossi
+    religion =  sunni
+    size = 19096
+  }
+  farmers = {
+    culture = mossi
+    religion =  sunni
+    size = 568258
+  }
 }
 #Wahiguya - Nord, Boucle du Mouhoun (1518000/379500 POPS)
 1902 = {
-	clergymen = {
-		culture = african_minor
-		religion =  catholic 
-		size = 7134
-	 } 
-	clergymen = {
-		culture = african_minor
-		religion = secularism
-		size = 455
-	 } 
-	farmers = {
-		culture = african_minor
-		religion =  catholic 
-		size = 239008
-	 } 
-	farmers = {
-		culture = african_minor
-		religion = secularism
-		size = 15255
-	 } 
-	farmers = {
-		culture = mossi
-		religion =  sunni 
-		size = 117645
-	 } 
+  clergymen = {
+    culture = african_minor
+    religion =  catholic
+    size = 7134
+  }
+  clergymen = {
+    culture = african_minor
+    religion = secularism
+    size = 455
+  }
+  farmers = {
+    culture = african_minor
+    religion =  catholic
+    size = 239008
+  }
+  farmers = {
+    culture = african_minor
+    religion = secularism
+    size = 15255
+  }
+  farmers = {
+    culture = mossi
+    religion =  sunni
+    size = 117645
+  }
 }
 #Dori - Sahel, Centre-Nord (1263000/315750 POPS)
 1903 = {
-	clergymen = {
-		culture = fula
-		religion =  sunni 
-		size = 6315
-	 } 
-	farmers = {
-		culture = fula
-		religion =  sunni 
-		size = 202080
-	 } 
-	farmers = {
-		culture = mossi
-		religion =  sunni 
-		size = 75780
-	 } 
-	farmers = {
-		culture = african_minor
-		religion =  catholic 
-		size = 29680
-	 } 
-	farmers = {
-		culture = african_minor
-		religion = secularism
-		size = 1894
-	 } 
+  clergymen = {
+    culture = fula
+    religion =  sunni
+    size = 6315
+  }
+  farmers = {
+    culture = fula
+    religion =  sunni
+    size = 202080
+  }
+  farmers = {
+    culture = mossi
+    religion =  sunni
+    size = 75780
+  }
+  farmers = {
+    culture = african_minor
+    religion =  catholic
+    size = 29680
+  }
+  farmers = {
+    culture = african_minor
+    religion = secularism
+    size = 1894
+  }
 }
 #Fada Ngourma - Est (763000/190750 POPS)
 1904 = {
-	clergymen = {
-		culture = black_muslim
-		religion =  sunni 
-		size = 3815
-	 } 
-	farmers = {
-		culture = black_muslim
-		religion =  sunni 
-		size = 95375
-	 } 
-	farmers = {
-		culture = african_minor
-		religion =  catholic 
-		size = 86066
-	 } 
-	farmers = {
-		culture = african_minor
-		religion = secularism
-		size = 5493
-	 } 
+  clergymen = {
+    culture = black_muslim
+    religion =  sunni
+    size = 3815
+  }
+  farmers = {
+    culture = black_muslim
+    religion =  sunni
+    size = 95375
+  }
+  farmers = {
+    culture = african_minor
+    religion =  catholic
+    size = 86066
+  }
+  farmers = {
+    culture = african_minor
+    religion = secularism
+    size = 5493
+  }
 }
 #Bobo Dioulasso - Sud-Ouest, Centre-Ouest (1061000/265250 POPS)
 1905 = {
-	clergymen = {
-		culture = african_minor
-		religion =  animist 
-		size = 4986
-	 } 
-	clergymen = {
-		culture = african_minor
-		religion = secularism
-		size = 318
-	 } 
-	farmers = {
-		culture = african_minor
-		religion =  animist 
-		size = 132147
-	 } 
-	farmers = {
-		culture = african_minor
-		religion = secularism
-		size = 8434
-	 } 
-	farmers = {
-		culture = black_muslim
-		religion =  sunni 
-		size = 119362
-	 } 
+  clergymen = {
+    culture = african_minor
+    religion =  animist
+    size = 4986
+  }
+  clergymen = {
+    culture = african_minor
+    religion = secularism
+    size = 318
+  }
+  farmers = {
+    culture = african_minor
+    religion =  animist
+    size = 132147
+  }
+  farmers = {
+    culture = african_minor
+    religion = secularism
+    size = 8434
+  }
+  farmers = {
+    culture = black_muslim
+    religion =  sunni
+    size = 119362
+  }
 }
 #Orodaro - Cascades, Haut-Bassins (1135000/283750 POPS)
 1906 = {
-	clergymen = {
-		culture = african_minor
-		religion =  animist 
-		size = 5334
-	 } 
-	clergymen = {
-		culture = african_minor
-		religion = secularism
-		size = 340
-	 } 
-	farmers = {
-		culture = african_minor
-		religion =  animist 
-		size = 261390
-	 } 
-	farmers = {
-		culture = african_minor
-		religion = secularism
-		size = 16684
-	 } 
+  clergymen = {
+    culture = african_minor
+    religion =  animist
+    size = 5334
+  }
+  clergymen = {
+    culture = african_minor
+    religion = secularism
+    size = 340
+  }
+  farmers = {
+    culture = african_minor
+    religion =  animist
+    size = 261390
+  }
+  farmers = {
+    culture = african_minor
+    religion = secularism
+    size = 16684
+  }
 }

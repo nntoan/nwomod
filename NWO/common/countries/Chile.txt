@@ -1,121 +1,121 @@
 graphical_culture = SouthAmericanGC
 color = { 147 112 219 }
 party = {
-		name = "party_conservative_0_CHL"
-		citizenship_policy = limited_citizenship
-		economic_policy = interventionism
-		ideology = conservative
-		religious_policy = secularized
-		trade_policy = free_trade
-		war_policy = pro_military
-		start_date = 1836.1.1
-		end_date = 2300.1.1
+  name = "party_conservative_0_CHL"
+  citizenship_policy = limited_citizenship
+  economic_policy = interventionism
+  ideology = conservative
+  religious_policy = secularized
+  trade_policy = free_trade
+  war_policy = pro_military
+  start_date = 1836.1.1
+  end_date = 2300.1.1
 }
 party = {
-		name = "party_liberal_0_CHL"
-		citizenship_policy = full_citizenship
-		economic_policy = laissez_faire
-		ideology = liberal
-		religious_policy = secularized
-		trade_policy = free_trade
-		war_policy = pacifism
-		start_date = 1836.1.1
-		end_date = 2300.1.1
+  name = "party_liberal_0_CHL"
+  citizenship_policy = full_citizenship
+  economic_policy = laissez_faire
+  ideology = liberal
+  religious_policy = secularized
+  trade_policy = free_trade
+  war_policy = pacifism
+  start_date = 1836.1.1
+  end_date = 2300.1.1
 }
 party = {
-		name = "party_socialist_0_CHL"
-		citizenship_policy = limited_citizenship
-		economic_policy = state_capitalism
-		ideology = socialist
-		religious_policy = pro_atheism
-		trade_policy = protectionism
-		war_policy = pacifism
-		start_date = 1836.1.1
-		end_date = 2300.1.1
+  name = "party_socialist_0_CHL"
+  citizenship_policy = limited_citizenship
+  economic_policy = state_capitalism
+  ideology = socialist
+  religious_policy = pro_atheism
+  trade_policy = protectionism
+  war_policy = pacifism
+  start_date = 1836.1.1
+  end_date = 2300.1.1
 }
 party = {
-		name = "party_progressive_0_CHL"
-		citizenship_policy = full_citizenship
-		economic_policy = interventionism
-		ideology = progressive
-		religious_policy = pro_atheism
-		trade_policy = protectionism
-		war_policy = pacifism
-		start_date = 1836.1.1
-		end_date = 2300.1.1
+  name = "party_progressive_0_CHL"
+  citizenship_policy = full_citizenship
+  economic_policy = interventionism
+  ideology = progressive
+  religious_policy = pro_atheism
+  trade_policy = protectionism
+  war_policy = pacifism
+  start_date = 1836.1.1
+  end_date = 2300.1.1
 }
 party = {
-		name = "party_populist_0_CHL"
-		citizenship_policy = residency
-		economic_policy = state_capitalism
-		ideology = populist
-		religious_policy = secularized
-		trade_policy = protectionism
-		war_policy = jingoism
-		start_date = 1836.1.1
-		end_date = 2300.1.1
+  name = "party_populist_0_CHL"
+  citizenship_policy = residency
+  economic_policy = state_capitalism
+  ideology = populist
+  religious_policy = secularized
+  trade_policy = protectionism
+  war_policy = jingoism
+  start_date = 1836.1.1
+  end_date = 2300.1.1
 }
 party = {
-		name = "party_traditionalist_0_CHL"
-		citizenship_policy = residency
-		economic_policy = state_capitalism
-		ideology = traditionalist
-		religious_policy = moralism
-		trade_policy = protectionism
-		war_policy = pro_military
-		start_date = 1836.1.1
-		end_date = 2300.1.1
+  name = "party_traditionalist_0_CHL"
+  citizenship_policy = residency
+  economic_policy = state_capitalism
+  ideology = traditionalist
+  religious_policy = moralism
+  trade_policy = protectionism
+  war_policy = pro_military
+  start_date = 1836.1.1
+  end_date = 2300.1.1
 }
 party = {
-		name = "party_communist_0_CHL"
-		citizenship_policy = full_citizenship
-		economic_policy = planned_economy
-		ideology = communist
-		religious_policy = pro_atheism
-		trade_policy = protectionism
-		war_policy = pro_military
-		start_date = 1836.1.1
-		end_date = 2300.1.1
+  name = "party_communist_0_CHL"
+  citizenship_policy = full_citizenship
+  economic_policy = planned_economy
+  ideology = communist
+  religious_policy = pro_atheism
+  trade_policy = protectionism
+  war_policy = pro_military
+  start_date = 1836.1.1
+  end_date = 2300.1.1
 }
 party = {
-		name = "party_nationalist"
-		citizenship_policy = full_citizenship
-		economic_policy = planned_economy
-		ideology = nationalist
-		religious_policy = secularized
-		trade_policy = protectionism
-		war_policy = pro_military
-		start_date = 1836.1.1
-		end_date = 2300.1.1
+  name = "party_nationalist"
+  citizenship_policy = full_citizenship
+  economic_policy = planned_economy
+  ideology = nationalist
+  religious_policy = secularized
+  trade_policy = protectionism
+  war_policy = pro_military
+  start_date = 1836.1.1
+  end_date = 2300.1.1
 }
 unit_names = {
-	carrier = {
-		"Almirante Montt" Antofagasta Atacama Iquique Latorre O'Higgins República "San Martín" "Santiago de Chile" Valparaíso
-	}
-	transportship = {
-		 Coihaique Concepción Copiapo "Del Toro" Iquique "La Serena" "Laguna Blanca" "Puerto Montt" "Punta Arenas" Rancagua
-		"San José" "San Pedro" "San Rafael" "Santa Inés" "Santa María" Santiago Sarmiento Talca Temuco Yulton
-	}
-	modern_frigate = {
-		"Almirante Condell" "Almirante Lynch" Angamos Aquiles Casma Chacabuco Chipana Covadonga Magallanes Orompello
-	}
-	cruiser = {
-		Aguamarina Diamante "Director Eyzaguirre" "Director Freire" Esmeralda Llullaillaco Parinacota "Presidente Errázuriz" "Presidente Pinto" Tupungato
-	}
-	modern_cruiser = {
-		"Almirante Montt" Antofagasta Atacama Iquique Latorre O'Higgins República "San Martín" "Santiago de Chile" Valparaíso
-	}
-	frigate = {
-		Aisén Araucania Arica Biobío Coquimbo "Los Lagos" "Los Ríos" Maule Tarapacá Valdivia
-	}
-	modern_destroyer = {
-		"Almirante Williams" Austral Blanco "Blanco Encalada" "Capitán Prat" Cochrane "Isla de Pascua" "Norte Chico" "Norte Grande" "Ojos del Salado"
-	}
-	destroyer = {
-		Abtao Águila Araucano Chacabuco Fortunata Galvarino Lautaro O'Higgins Potrillo "San Martín" 
-	}
-	submarine = {
-		Anganemon Butapichón Colo-Colo Curiñancu Guaiquimilla Huáscar Lientur "Pedro de Valdivia" Pelantaru Vilumilla
-	}
+  carrier = {
+    "Almirante Montt" Antofagasta Atacama Iquique Latorre O'Higgins Repï¿½blica "San Martï¿½n" "Santiago de Chile" Valparaï¿½so
+  }
+  transportship = {
+    Coihaique Concepciï¿½n Copiapo "Del Toro" Iquique "La Serena" "Laguna Blanca" "Puerto Montt" "Punta Arenas" Rancagua
+    "San Josï¿½" "San Pedro" "San Rafael" "Santa Inï¿½s" "Santa Marï¿½a" Santiago Sarmiento Talca Temuco Yulton
+  }
+  modern_frigate = {
+    "Almirante Condell" "Almirante Lynch" Angamos Aquiles Casma Chacabuco Chipana Covadonga Magallanes Orompello
+  }
+  cruiser = {
+    Aguamarina Diamante "Director Eyzaguirre" "Director Freire" Esmeralda Llullaillaco Parinacota "Presidente Errï¿½zuriz" "Presidente Pinto" Tupungato
+  }
+  modern_cruiser = {
+    "Almirante Montt" Antofagasta Atacama Iquique Latorre O'Higgins Repï¿½blica "San Martï¿½n" "Santiago de Chile" Valparaï¿½so
+  }
+  frigate = {
+    Aisï¿½n Araucania Arica Biobï¿½o Coquimbo "Los Lagos" "Los Rï¿½os" Maule Tarapacï¿½ Valdivia
+  }
+  modern_destroyer = {
+    "Almirante Williams" Austral Blanco "Blanco Encalada" "Capitï¿½n Prat" Cochrane "Isla de Pascua" "Norte Chico" "Norte Grande" "Ojos del Salado"
+  }
+  destroyer = {
+    Abtao ï¿½guila Araucano Chacabuco Fortunata Galvarino Lautaro O'Higgins Potrillo "San Martï¿½n"
+  }
+  submarine = {
+    Anganemon Butapichï¿½n Colo-Colo Curiï¿½ancu Guaiquimilla Huï¿½scar Lientur "Pedro de Valdivia" Pelantaru Vilumilla
+  }
 
 }

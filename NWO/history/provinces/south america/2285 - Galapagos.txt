@@ -6,8 +6,8 @@ life_rating = 38
 terrain = semi_desert_hills
 colonial = 0
 1992.1.1 = {
-owner = ECU
-controller = ECU
-add_core = ECU
-colonial = 0
+  owner = ECU
+  controller = ECU
+  add_core = ECU
+  colonial = 0
 }

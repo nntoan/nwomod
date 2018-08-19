@@ -9,15 +9,15 @@ country_event = {
     tag = URU
     year = 1972
     NOT = { year = 1990 }
-	government = democracy
+    government = democracy
   }
 
   mean_time_to_happen = { months = 1 }
 
   option = {
     name = EVT_8015716_A
-	government = presidential_dictatorship country_event = 800050
-	any_pop = { militancy = 1.0 consciousness = 0.5 }
+    government = presidential_dictatorship country_event = 800050
+    any_pop = { militancy = 1.0 consciousness = 0.5 }
   }
 }
 country_event = {
@@ -38,6 +38,6 @@ country_event = {
 
   option = {
     name = EVT_8015740_A
-	any_pop = { militancy = 1.0 consciousness = 2.0 }
+    any_pop = { militancy = 1.0 consciousness = 2.0 }
   }
 }

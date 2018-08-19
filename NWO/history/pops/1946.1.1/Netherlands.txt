@@ -1,2036 +1,2036 @@
 #Tanjungpinang - Riau Islands (562000/140500 POPS)
 1402 = {
-	soldiers = {
-		culture = indonesian
-		religion =  sunni 
-		size = 1686
-	 } 
-	aristocrats = {
-		culture = indonesian
-		religion =  sunni 
-		size = 5620
-	 } 
-	clergymen = {
-		culture = indonesian
-		religion =  sunni 
-		size = 2810
-	 } 
-	farmers = {
-		culture = indonesian
-		religion =  sunni 
-		size = 129087
-	 } 
+  soldiers = {
+    culture = indonesian
+    religion =  sunni
+    size = 1686
+  }
+  aristocrats = {
+    culture = indonesian
+    religion =  sunni
+    size = 5620
+  }
+  clergymen = {
+    culture = indonesian
+    religion =  sunni
+    size = 2810
+  }
+  farmers = {
+    culture = indonesian
+    religion =  sunni
+    size = 129087
+  }
 }
 #Batavia - Jakarta (3220000/805000 POPS)
 1413 = {
-	officers = {
-		culture = chinese
-		religion =  taoism 
-		size = 2408
-	 } 
-	officers = {
-		culture = chinese
-		religion = secularism
-		size = 6
-	 } 
-	soldiers = {
-		culture = chinese
-		religion =  taoism 
-		size = 9635
-	 } 
-	soldiers = {
-		culture = chinese
-		religion = secularism
-		size = 24
-	 } 
-	aristocrats = {
-		culture = chinese
-		religion =  taoism 
-		size = 32119
-	 } 
-	aristocrats = {
-		culture = chinese
-		religion = secularism
-		size = 80
-	 } 
-	bureaucrats = {
-		culture = chinese
-		religion =  taoism 
-		size = 802
-	 } 
-	bureaucrats = {
-		culture = chinese
-		religion = secularism
-		size = 2
-	 } 
-	clergymen = {
-		culture = chinese
-		religion =  taoism 
-		size = 16059
-	 } 
-	clergymen = {
-		culture = chinese
-		religion = secularism
-		size = 40
-	 } 
-	artisans = {
-		culture = chinese
-		religion =  taoism 
-		size = 4210
-	 } 
-	artisans = {
-		culture = chinese
-		religion = secularism
-		size = 10
-	 } 
-	farmers = {
-		culture = chinese
-		religion =  taoism 
-		size = 175658
-	 } 
-	farmers = {
-		culture = chinese
-		religion = secularism
-		size = 440
-	 } 
-	farmers = {
-		culture = indonesian
-		religion =  sunni 
-		size = 563500
-	 } 
+  officers = {
+    culture = chinese
+    religion =  taoism
+    size = 2408
+  }
+  officers = {
+    culture = chinese
+    religion = secularism
+    size = 6
+  }
+  soldiers = {
+    culture = chinese
+    religion =  taoism
+    size = 9635
+  }
+  soldiers = {
+    culture = chinese
+    religion = secularism
+    size = 24
+  }
+  aristocrats = {
+    culture = chinese
+    religion =  taoism
+    size = 32119
+  }
+  aristocrats = {
+    culture = chinese
+    religion = secularism
+    size = 80
+  }
+  bureaucrats = {
+    culture = chinese
+    religion =  taoism
+    size = 802
+  }
+  bureaucrats = {
+    culture = chinese
+    religion = secularism
+    size = 2
+  }
+  clergymen = {
+    culture = chinese
+    religion =  taoism
+    size = 16059
+  }
+  clergymen = {
+    culture = chinese
+    religion = secularism
+    size = 40
+  }
+  artisans = {
+    culture = chinese
+    religion =  taoism
+    size = 4210
+  }
+  artisans = {
+    culture = chinese
+    religion = secularism
+    size = 10
+  }
+  farmers = {
+    culture = chinese
+    religion =  taoism
+    size = 175658
+  }
+  farmers = {
+    culture = chinese
+    religion = secularism
+    size = 440
+  }
+  farmers = {
+    culture = indonesian
+    religion =  sunni
+    size = 563500
+  }
 }
 #Surabaya - East Java (3351000/837750 POPS)
 1418 = {
-	officers = {
-		culture = indonesian
-		religion =  sunni 
-		size = 2513
-	 } 
-	soldiers = {
-		culture = indonesian
-		religion =  sunni 
-		size = 10053
-	 } 
-	aristocrats = {
-		culture = indonesian
-		religion =  sunni 
-		size = 33510
-	 } 
-	clergymen = {
-		culture = indonesian
-		religion =  sunni 
-		size = 16755
-	 } 
-	artisans = {
-		culture = indonesian
-		religion =  sunni 
-		size = 4393
-	 } 
-	farmers = {
-		culture = indonesian
-		religion =  sunni 
-		size = 769689
-	 } 
+  officers = {
+    culture = indonesian
+    religion =  sunni
+    size = 2513
+  }
+  soldiers = {
+    culture = indonesian
+    religion =  sunni
+    size = 10053
+  }
+  aristocrats = {
+    culture = indonesian
+    religion =  sunni
+    size = 33510
+  }
+  clergymen = {
+    culture = indonesian
+    religion =  sunni
+    size = 16755
+  }
+  artisans = {
+    culture = indonesian
+    religion =  sunni
+    size = 4393
+  }
+  farmers = {
+    culture = indonesian
+    religion =  sunni
+    size = 769689
+  }
 }
 #Surakarta - East Java (2833000/708250 POPS)
 1419 = {
-	clergymen = {
-		culture = indonesian
-		religion =  sunni 
-		size = 14165
-	 } 
-	farmers = {
-		culture = indonesian
-		religion =  sunni 
-		size = 694085
-	 } 
+  clergymen = {
+    culture = indonesian
+    religion =  sunni
+    size = 14165
+  }
+  farmers = {
+    culture = indonesian
+    religion =  sunni
+    size = 694085
+  }
 }
 #Probolinggo - East Java (2899000/724750 POPS)
 1420 = {
-	clergymen = {
-		culture = indonesian
-		religion =  sunni 
-		size = 14495
-	 } 
-	farmers = {
-		culture = indonesian
-		religion =  sunni 
-		size = 710255
-	 } 
+  clergymen = {
+    culture = indonesian
+    religion =  sunni
+    size = 14495
+  }
+  farmers = {
+    culture = indonesian
+    religion =  sunni
+    size = 710255
+  }
 }
 #Madura - East Java (1303000/325750 POPS)
 1421 = {
-	clergymen = {
-		culture = indonesian
-		religion =  sunni 
-		size = 6515
-	 } 
-	farmers = {
-		culture = indonesian
-		religion =  sunni 
-		size = 319235
-	 } 
+  clergymen = {
+    culture = indonesian
+    religion =  sunni
+    size = 6515
+  }
+  farmers = {
+    culture = indonesian
+    religion =  sunni
+    size = 319235
+  }
 }
 #Muraleve - Central Kalimatan (71000/17750 POPS)
 1422 = {
-	clergymen = {
-		culture = kalimatan
-		religion =  protestant 
-		size = 354
-	 } 
-	farmers = {
-		culture = kalimatan
-		religion =  protestant 
-		size = 15580
-	 } 
-	farmers = {
-		culture = kalimatan
-		religion = secularism
-		size = 39
-	 } 
-	farmers = {
-		culture = indonesian
-		religion =  sunni 
-		size = 1775
-	 } 
+  clergymen = {
+    culture = kalimatan
+    religion =  protestant
+    size = 354
+  }
+  farmers = {
+    culture = kalimatan
+    religion =  protestant
+    size = 15580
+  }
+  farmers = {
+    culture = kalimatan
+    religion = secularism
+    size = 39
+  }
+  farmers = {
+    culture = indonesian
+    religion =  sunni
+    size = 1775
+  }
 }
 #Banjarmasin - Central Kalimatan (402000/100500 POPS)
 1423 = {
-	clergymen = {
-		culture = kalimatan
-		religion =  protestant 
-		size = 2004
-	 } 
-	clergymen = {
-		culture = kalimatan
-		religion = secularism
-		size = 5
-	 } 
-	farmers = {
-		culture = kalimatan
-		religion =  protestant 
-		size = 12029
-	 } 
-	farmers = {
-		culture = kalimatan
-		religion = secularism
-		size = 30
-	 } 
-	farmers = {
-		culture = indonesian
-		religion =  sunni 
-		size = 86430
-	 } 
+  clergymen = {
+    culture = kalimatan
+    religion =  protestant
+    size = 2004
+  }
+  clergymen = {
+    culture = kalimatan
+    religion = secularism
+    size = 5
+  }
+  farmers = {
+    culture = kalimatan
+    religion =  protestant
+    size = 12029
+  }
+  farmers = {
+    culture = kalimatan
+    religion = secularism
+    size = 30
+  }
+  farmers = {
+    culture = indonesian
+    religion =  sunni
+    size = 86430
+  }
 }
 #Pasir - South Kalimantan (1215000/303750 POPS)
 1424 = {
-	clergymen = {
-		culture = indonesian
-		religion =  sunni 
-		size = 6075
-	 } 
-	farmers = {
-		culture = indonesian
-		religion =  sunni 
-		size = 297675
-	 } 
+  clergymen = {
+    culture = indonesian
+    religion =  sunni
+    size = 6075
+  }
+  farmers = {
+    culture = indonesian
+    religion =  sunni
+    size = 297675
+  }
 }
 #Tarakan - North Kalimatan (208000/52000 POPS)
 1425 = {
-	clergymen = {
-		culture = indonesian
-		religion =  sunni 
-		size = 1040
-	 } 
-	farmers = {
-		culture = indonesian
-		religion =  sunni 
-		size = 50960
-	 } 
+  clergymen = {
+    culture = indonesian
+    religion =  sunni
+    size = 1040
+  }
+  farmers = {
+    culture = indonesian
+    religion =  sunni
+    size = 50960
+  }
 }
 #Pontianak - West Kalimatan (1138000/284500 POPS)
 1426 = {
-	clergymen = {
-		culture = chinese
-		religion =  taoism 
-		size = 5675
-	 } 
-	clergymen = {
-		culture = chinese
-		religion = secularism
-		size = 14
-	 } 
-	farmers = {
-		culture = chinese
-		religion =  taoism 
-		size = 8513
-	 } 
-	farmers = {
-		culture = chinese
-		religion = secularism
-		size = 21
-	 } 
-	farmers = {
-		culture = kalimatan
-		religion =  protestant 
-		size = 99326
-	 } 
-	farmers = {
-		culture = kalimatan
-		religion = secularism
-		size = 248
-	 } 
-	farmers = {
-		culture = indonesian
-		religion =  sunni 
-		size = 170700
-	 } 
+  clergymen = {
+    culture = chinese
+    religion =  taoism
+    size = 5675
+  }
+  clergymen = {
+    culture = chinese
+    religion = secularism
+    size = 14
+  }
+  farmers = {
+    culture = chinese
+    religion =  taoism
+    size = 8513
+  }
+  farmers = {
+    culture = chinese
+    religion = secularism
+    size = 21
+  }
+  farmers = {
+    culture = kalimatan
+    religion =  protestant
+    size = 99326
+  }
+  farmers = {
+    culture = kalimatan
+    religion = secularism
+    size = 248
+  }
+  farmers = {
+    culture = indonesian
+    religion =  sunni
+    size = 170700
+  }
 }
 #Kota Waringin - Central Kalimatan (268000/67000 POPS)
 1427 = {
-	clergymen = {
-		culture = indonesian
-		religion =  sunni 
-		size = 1340
-	 } 
-	farmers = {
-		culture = indonesian
-		religion =  sunni 
-		size = 65660
-	 } 
+  clergymen = {
+    culture = indonesian
+    religion =  sunni
+    size = 1340
+  }
+  farmers = {
+    culture = indonesian
+    religion =  sunni
+    size = 65660
+  }
 }
 #Sintang - West Kalimatan (335000/83750 POPS)
 1428 = {
-	clergymen = {
-		culture = kalimatan
-		religion =  protestant 
-		size = 1670
-	 } 
-	clergymen = {
-		culture = kalimatan
-		religion = secularism
-		size = 4
-	 } 
-	farmers = {
-		culture = kalimatan
-		religion =  protestant 
-		size = 27567
-	 } 
-	farmers = {
-		culture = kalimatan
-		religion = secularism
-		size = 69
-	 } 
-	farmers = {
-		culture = indonesian
-		religion =  sunni 
-		size = 54437
-	 } 
+  clergymen = {
+    culture = kalimatan
+    religion =  protestant
+    size = 1670
+  }
+  clergymen = {
+    culture = kalimatan
+    religion = secularism
+    size = 4
+  }
+  farmers = {
+    culture = kalimatan
+    religion =  protestant
+    size = 27567
+  }
+  farmers = {
+    culture = kalimatan
+    religion = secularism
+    size = 69
+  }
+  farmers = {
+    culture = indonesian
+    religion =  sunni
+    size = 54437
+  }
 }
 #Samarinda - East Kalimatan (1014000/253500 POPS)
 1429 = {
-	soldiers = {
-		culture = indonesian
-		religion =  sunni 
-		size = 3042
-	 } 
-	aristocrats = {
-		culture = indonesian
-		religion =  sunni 
-		size = 10140
-	 } 
-	clergymen = {
-		culture = indonesian
-		religion =  sunni 
-		size = 5070
-	 } 
-	artisans = {
-		culture = indonesian
-		religion =  sunni 
-		size = 1329
-	 } 
-	farmers = {
-		culture = indonesian
-		religion =  sunni 
-		size = 232906
-	 } 
+  soldiers = {
+    culture = indonesian
+    religion =  sunni
+    size = 3042
+  }
+  aristocrats = {
+    culture = indonesian
+    religion =  sunni
+    size = 10140
+  }
+  clergymen = {
+    culture = indonesian
+    religion =  sunni
+    size = 5070
+  }
+  artisans = {
+    culture = indonesian
+    religion =  sunni
+    size = 1329
+  }
+  farmers = {
+    culture = indonesian
+    religion =  sunni
+    size = 232906
+  }
 }
 #Makassar - South Sulawesi (1340000/335000 POPS)
 1430 = {
-	officers = {
-		culture = indonesian
-		religion =  sunni 
-		size = 1005
-	 } 
-	soldiers = {
-		culture = indonesian
-		religion =  sunni 
-		size = 4020
-	 } 
-	aristocrats = {
-		culture = indonesian
-		religion =  sunni 
-		size = 13400
-	 } 
-	clergymen = {
-		culture = indonesian
-		religion =  sunni 
-		size = 6700
-	 } 
-	artisans = {
-		culture = indonesian
-		religion =  sunni 
-		size = 1756
-	 } 
-	farmers = {
-		culture = indonesian
-		religion =  sunni 
-		size = 307784
-	 } 
+  officers = {
+    culture = indonesian
+    religion =  sunni
+    size = 1005
+  }
+  soldiers = {
+    culture = indonesian
+    religion =  sunni
+    size = 4020
+  }
+  aristocrats = {
+    culture = indonesian
+    religion =  sunni
+    size = 13400
+  }
+  clergymen = {
+    culture = indonesian
+    religion =  sunni
+    size = 6700
+  }
+  artisans = {
+    culture = indonesian
+    religion =  sunni
+    size = 1756
+  }
+  farmers = {
+    culture = indonesian
+    religion =  sunni
+    size = 307784
+  }
 }
 #Bone - South Sulawesi (1352000/338000 POPS)
 1431 = {
-	clergymen = {
-		culture = toraja
-		religion =  protestant 
-		size = 6743
-	 } 
-	clergymen = {
-		culture = toraja
-		religion = secularism
-		size = 16
-	 } 
-	farmers = {
-		culture = toraja
-		religion =  protestant 
-		size = 60687
-	 } 
-	farmers = {
-		culture = toraja
-		religion = secularism
-		size = 152
-	 } 
-	farmers = {
-		culture = indonesian
-		religion =  sunni 
-		size = 270400
-	 } 
+  clergymen = {
+    culture = toraja
+    religion =  protestant
+    size = 6743
+  }
+  clergymen = {
+    culture = toraja
+    religion = secularism
+    size = 16
+  }
+  farmers = {
+    culture = toraja
+    religion =  protestant
+    size = 60687
+  }
+  farmers = {
+    culture = toraja
+    religion = secularism
+    size = 152
+  }
+  farmers = {
+    culture = indonesian
+    religion =  sunni
+    size = 270400
+  }
 }
 #Mamuju - West Sulawesi (388000/97000 POPS)
 1432 = {
-	clergymen = {
-		culture = indonesian
-		religion =  sunni 
-		size = 1940
-	 } 
-	farmers = {
-		culture = indonesian
-		religion =  sunni 
-		size = 95060
-	 } 
+  clergymen = {
+    culture = indonesian
+    religion =  sunni
+    size = 1940
+  }
+  farmers = {
+    culture = indonesian
+    religion =  sunni
+    size = 95060
+  }
 }
 #Menado - North Sulawesi (760000/190000 POPS)
 1433 = {
-	clergymen = {
-		culture = gorontalo
-		religion =  protestant 
-		size = 3790
-	 } 
-	clergymen = {
-		culture = gorontalo
-		religion = secularism
-		size = 9
-	 } 
-	farmers = {
-		culture = gorontalo
-		religion =  protestant 
-		size = 128877
-	 } 
-	farmers = {
-		culture = gorontalo
-		religion = secularism
-		size = 323
-	 } 
-	farmers = {
-		culture = indonesian
-		religion =  sunni 
-		size = 57000
-	 } 
+  clergymen = {
+    culture = gorontalo
+    religion =  protestant
+    size = 3790
+  }
+  clergymen = {
+    culture = gorontalo
+    religion = secularism
+    size = 9
+  }
+  farmers = {
+    culture = gorontalo
+    religion =  protestant
+    size = 128877
+  }
+  farmers = {
+    culture = gorontalo
+    religion = secularism
+    size = 323
+  }
+  farmers = {
+    culture = indonesian
+    religion =  sunni
+    size = 57000
+  }
 }
 #Luwuk - Central Sulawesi (883000/220750 POPS)
 1434 = {
-	clergymen = {
-		culture = indonesian
-		religion =  sunni 
-		size = 4415
-	 } 
-	farmers = {
-		culture = indonesian
-		religion =  sunni 
-		size = 216335
-	 } 
+  clergymen = {
+    culture = indonesian
+    religion =  sunni
+    size = 4415
+  }
+  farmers = {
+    culture = indonesian
+    religion =  sunni
+    size = 216335
+  }
 }
 #Palu - Gorontalu (348000/87000 POPS)
 1435 = {
-	clergymen = {
-		culture = indonesian
-		religion =  sunni 
-		size = 1740
-	 } 
-	farmers = {
-		culture = indonesian
-		religion =  sunni 
-		size = 85260
-	 } 
+  clergymen = {
+    culture = indonesian
+    religion =  sunni
+    size = 1740
+  }
+  farmers = {
+    culture = indonesian
+    religion =  sunni
+    size = 85260
+  }
 }
 #Kendari - South East Sulawesi (412000/103000 POPS)
 1436 = {
-	clergymen = {
-		culture = indonesian
-		religion =  sunni 
-		size = 2060
-	 } 
-	farmers = {
-		culture = indonesian
-		religion =  sunni 
-		size = 100940
-	 } 
+  clergymen = {
+    culture = indonesian
+    religion =  sunni
+    size = 2060
+  }
+  farmers = {
+    culture = indonesian
+    religion =  sunni
+    size = 100940
+  }
 }
 #Bulon - South East Sulawesi (335000/83750 POPS)
 1437 = {
-	clergymen = {
-		culture = indonesian
-		religion =  sunni 
-		size = 1675
-	 } 
-	farmers = {
-		culture = indonesian
-		religion =  sunni 
-		size = 82075
-	 } 
+  clergymen = {
+    culture = indonesian
+    religion =  sunni
+    size = 1675
+  }
+  farmers = {
+    culture = indonesian
+    religion =  sunni
+    size = 82075
+  }
 }
 #Bali - Bali (1303000/325750 POPS)
 1438 = {
-	officers = {
-		culture = bali
-		religion =  hindu 
-		size = 974
-	 } 
-	officers = {
-		culture = bali
-		religion = secularism
-		size = 2
-	 } 
-	soldiers = {
-		culture = bali
-		religion =  hindu 
-		size = 3899
-	 } 
-	soldiers = {
-		culture = bali
-		religion = secularism
-		size = 9
-	 } 
-	aristocrats = {
-		culture = bali
-		religion =  hindu 
-		size = 12997
-	 } 
-	aristocrats = {
-		culture = bali
-		religion = secularism
-		size = 32
-	 } 
-	bureaucrats = {
-		culture = bali
-		religion =  hindu 
-		size = 324
-	 } 
-	clergymen = {
-		culture = bali
-		religion =  hindu 
-		size = 6498
-	 } 
-	clergymen = {
-		culture = bali
-		religion = secularism
-		size = 16
-	 } 
-	artisans = {
-		culture = bali
-		religion =  hindu 
-		size = 1703
-	 } 
-	artisans = {
-		culture = bali
-		religion = secularism
-		size = 4
-	 } 
-	farmers = {
-		culture = bali
-		religion =  hindu 
-		size = 249796
-	 } 
-	farmers = {
-		culture = bali
-		religion = secularism
-		size = 626
-	 } 
-	farmers = {
-		culture = indonesian
-		religion =  sunni 
-		size = 48862
-	 } 
+  officers = {
+    culture = bali
+    religion =  hindu
+    size = 974
+  }
+  officers = {
+    culture = bali
+    religion = secularism
+    size = 2
+  }
+  soldiers = {
+    culture = bali
+    religion =  hindu
+    size = 3899
+  }
+  soldiers = {
+    culture = bali
+    religion = secularism
+    size = 9
+  }
+  aristocrats = {
+    culture = bali
+    religion =  hindu
+    size = 12997
+  }
+  aristocrats = {
+    culture = bali
+    religion = secularism
+    size = 32
+  }
+  bureaucrats = {
+    culture = bali
+    religion =  hindu
+    size = 324
+  }
+  clergymen = {
+    culture = bali
+    religion =  hindu
+    size = 6498
+  }
+  clergymen = {
+    culture = bali
+    religion = secularism
+    size = 16
+  }
+  artisans = {
+    culture = bali
+    religion =  hindu
+    size = 1703
+  }
+  artisans = {
+    culture = bali
+    religion = secularism
+    size = 4
+  }
+  farmers = {
+    culture = bali
+    religion =  hindu
+    size = 249796
+  }
+  farmers = {
+    culture = bali
+    religion = secularism
+    size = 626
+  }
+  farmers = {
+    culture = indonesian
+    religion =  sunni
+    size = 48862
+  }
 }
 #Flores - East Nusa Tenggara (717000/179250 POPS)
 1439 = {
-	clergymen = {
-		culture = moluccan
-		religion =  catholic 
-		size = 3576
-	 } 
-	clergymen = {
-		culture = moluccan
-		religion = secularism
-		size = 8
-	 } 
-	farmers = {
-		culture = moluccan
-		religion =  catholic 
-		size = 160921
-	 } 
-	farmers = {
-		culture = moluccan
-		religion = secularism
-		size = 403
-	 } 
-	farmers = {
-		culture = indonesian
-		religion =  sunni 
-		size = 14340
-	 } 
+  clergymen = {
+    culture = moluccan
+    religion =  catholic
+    size = 3576
+  }
+  clergymen = {
+    culture = moluccan
+    religion = secularism
+    size = 8
+  }
+  farmers = {
+    culture = moluccan
+    religion =  catholic
+    size = 160921
+  }
+  farmers = {
+    culture = moluccan
+    religion = secularism
+    size = 403
+  }
+  farmers = {
+    culture = indonesian
+    religion =  sunni
+    size = 14340
+  }
 }
 #Sumbawa - West Nusa Tenggara (837000/209250 POPS)
 1440 = {
-	clergymen = {
-		culture = indonesian
-		religion =  sunni 
-		size = 4185
-	 } 
-	farmers = {
-		culture = indonesian
-		religion =  sunni 
-		size = 205065
-	 } 
+  clergymen = {
+    culture = indonesian
+    religion =  sunni
+    size = 4185
+  }
+  farmers = {
+    culture = indonesian
+    religion =  sunni
+    size = 205065
+  }
 }
 #Sumba - East Nusa Tenggara (230000/57500 POPS)
 1441 = {
-	clergymen = {
-		culture = moluccan
-		religion =  protestant 
-		size = 1147
-	 } 
-	clergymen = {
-		culture = moluccan
-		religion = secularism
-		size = 2
-	 } 
-	farmers = {
-		culture = moluccan
-		religion =  protestant 
-		size = 51620
-	 } 
-	farmers = {
-		culture = moluccan
-		religion = secularism
-		size = 129
-	 } 
-	farmers = {
-		culture = indonesian
-		religion =  sunni 
-		size = 4600
-	 } 
+  clergymen = {
+    culture = moluccan
+    religion =  protestant
+    size = 1147
+  }
+  clergymen = {
+    culture = moluccan
+    religion = secularism
+    size = 2
+  }
+  farmers = {
+    culture = moluccan
+    religion =  protestant
+    size = 51620
+  }
+  farmers = {
+    culture = moluccan
+    religion = secularism
+    size = 129
+  }
+  farmers = {
+    culture = indonesian
+    religion =  sunni
+    size = 4600
+  }
 }
 #Lombok - West Nusa Tenggara (670000/167500 POPS)
 1442 = {
-	soldiers = {
-		culture = indonesian
-		religion =  sunni 
-		size = 2010
-	 } 
-	aristocrats = {
-		culture = indonesian
-		religion =  sunni 
-		size = 6700
-	 } 
-	clergymen = {
-		culture = indonesian
-		religion =  sunni 
-		size = 3350
-	 } 
-	farmers = {
-		culture = indonesian
-		religion =  sunni 
-		size = 153893
-	 } 
+  soldiers = {
+    culture = indonesian
+    religion =  sunni
+    size = 2010
+  }
+  aristocrats = {
+    culture = indonesian
+    religion =  sunni
+    size = 6700
+  }
+  clergymen = {
+    culture = indonesian
+    religion =  sunni
+    size = 3350
+  }
+  farmers = {
+    culture = indonesian
+    religion =  sunni
+    size = 153893
+  }
 }
 #Roti - East Nusa Tenggara (40000/10000 POPS)
 1443 = {
-	clergymen = {
-		culture = ambon_timor
-		religion =  catholic 
-		size = 199
-	 } 
-	farmers = {
-		culture = ambon_timor
-		religion =  catholic 
-		size = 8977
-	 } 
-	farmers = {
-		culture = ambon_timor
-		religion = secularism
-		size = 22
-	 } 
+  clergymen = {
+    culture = ambon_timor
+    religion =  catholic
+    size = 199
+  }
+  farmers = {
+    culture = ambon_timor
+    religion =  catholic
+    size = 8977
+  }
+  farmers = {
+    culture = ambon_timor
+    religion = secularism
+    size = 22
+  }
 }
 #Alor - East Nusa Tenggara (63000/15750 POPS)
 1444 = {
-	clergymen = {
-		culture = ambon_timor
-		religion =  catholic 
-		size = 314
-	 } 
-	farmers = {
-		culture = ambon_timor
-		religion =  catholic 
-		size = 14139
-	 } 
-	farmers = {
-		culture = ambon_timor
-		religion = secularism
-		size = 35
-	 } 
-	farmers = {
-		culture = indonesian
-		religion =  sunni 
-		size = 1260
-	 } 
+  clergymen = {
+    culture = ambon_timor
+    religion =  catholic
+    size = 314
+  }
+  farmers = {
+    culture = ambon_timor
+    religion =  catholic
+    size = 14139
+  }
+  farmers = {
+    culture = ambon_timor
+    religion = secularism
+    size = 35
+  }
+  farmers = {
+    culture = indonesian
+    religion =  sunni
+    size = 1260
+  }
 }
 #Kaupeng - East Nusa Tenggara (518000/129500 POPS)
 1445 = {
-	officers = {
-		culture = ambon_timor
-		religion =  catholic 
-		size = 387
-	 } 
-	soldiers = {
-		culture = ambon_timor
-		religion =  catholic 
-		size = 1550
-	 } 
-	soldiers = {
-		culture = ambon_timor
-		religion = secularism
-		size = 3
-	 } 
-	aristocrats = {
-		culture = ambon_timor
-		religion =  catholic 
-		size = 5167
-	 } 
-	aristocrats = {
-		culture = ambon_timor
-		religion = secularism
-		size = 12
-	 } 
-	bureaucrats = {
-		culture = ambon_timor
-		religion =  catholic 
-		size = 128
-	 } 
-	clergymen = {
-		culture = ambon_timor
-		religion =  catholic 
-		size = 2583
-	 } 
-	clergymen = {
-		culture = ambon_timor
-		religion = secularism
-		size = 6
-	 } 
-	artisans = {
-		culture = ambon_timor
-		religion =  catholic 
-		size = 677
-	 } 
-	artisans = {
-		culture = ambon_timor
-		religion = secularism
-		size = 1
-	 } 
-	farmers = {
-		culture = ambon_timor
-		religion =  catholic 
-		size = 108348
-	 } 
-	farmers = {
-		culture = ambon_timor
-		religion = secularism
-		size = 271
-	 } 
-	farmers = {
-		culture = indonesian
-		religion =  sunni 
-		size = 10360
-	 } 
+  officers = {
+    culture = ambon_timor
+    religion =  catholic
+    size = 387
+  }
+  soldiers = {
+    culture = ambon_timor
+    religion =  catholic
+    size = 1550
+  }
+  soldiers = {
+    culture = ambon_timor
+    religion = secularism
+    size = 3
+  }
+  aristocrats = {
+    culture = ambon_timor
+    religion =  catholic
+    size = 5167
+  }
+  aristocrats = {
+    culture = ambon_timor
+    religion = secularism
+    size = 12
+  }
+  bureaucrats = {
+    culture = ambon_timor
+    religion =  catholic
+    size = 128
+  }
+  clergymen = {
+    culture = ambon_timor
+    religion =  catholic
+    size = 2583
+  }
+  clergymen = {
+    culture = ambon_timor
+    religion = secularism
+    size = 6
+  }
+  artisans = {
+    culture = ambon_timor
+    religion =  catholic
+    size = 677
+  }
+  artisans = {
+    culture = ambon_timor
+    religion = secularism
+    size = 1
+  }
+  farmers = {
+    culture = ambon_timor
+    religion =  catholic
+    size = 108348
+  }
+  farmers = {
+    culture = ambon_timor
+    religion = secularism
+    size = 271
+  }
+  farmers = {
+    culture = indonesian
+    religion =  sunni
+    size = 10360
+  }
 }
 #Ternate - North Maluku (180000/45000 POPS)
 1447 = {
-	farmers = {
-		culture = indonesian
-		religion =  sunni 
-		size = 44100
-	 } 
+  farmers = {
+    culture = indonesian
+    religion =  sunni
+    size = 44100
+  }
 }
 #Jilolo - North Maluku (167000/41750 POPS)
 1448 = {
-	farmers = {
-		culture = indonesian
-		religion =  sunni 
-		size = 40915
-	 } 
+  farmers = {
+    culture = indonesian
+    religion =  sunni
+    size = 40915
+  }
 }
 #Ambon - Maluku (110000/27500 POPS)
 1449 = {
-	clergymen = {
-		culture = ambon_timor
-		religion =  catholic 
-		size = 548
-	 } 
-	clergymen = {
-		culture = ambon_timor
-		religion = secularism
-		size = 1
-	 } 
-	farmers = {
-		culture = ambon_timor
-		religion =  catholic 
-		size = 13167
-	 } 
-	farmers = {
-		culture = ambon_timor
-		religion = secularism
-		size = 33
-	 } 
-	farmers = {
-		culture = indonesian
-		religion =  sunni 
-		size = 13750
-	 } 
+  clergymen = {
+    culture = ambon_timor
+    religion =  catholic
+    size = 548
+  }
+  clergymen = {
+    culture = ambon_timor
+    religion = secularism
+    size = 1
+  }
+  farmers = {
+    culture = ambon_timor
+    religion =  catholic
+    size = 13167
+  }
+  farmers = {
+    culture = ambon_timor
+    religion = secularism
+    size = 33
+  }
+  farmers = {
+    culture = indonesian
+    religion =  sunni
+    size = 13750
+  }
 }
 #Ceram - Maluku (304000/76000 POPS)
 1450 = {
-	clergymen = {
-		culture = indonesian
-		religion =  sunni 
-		size = 1520
-	 } 
-	farmers = {
-		culture = indonesian
-		religion =  sunni 
-		size = 74480
-	 } 
+  clergymen = {
+    culture = indonesian
+    religion =  sunni
+    size = 1520
+  }
+  farmers = {
+    culture = indonesian
+    religion =  sunni
+    size = 74480
+  }
 }
 #Aru - Maluku (98000/24500 POPS)
 1451 = {
-	officers = {
-		culture = ambon_timor
-		religion =  catholic 
-		size = 72
-	 } 
-	soldiers = {
-		culture = ambon_timor
-		religion =  catholic 
-		size = 293
-	 } 
-	aristocrats = {
-		culture = ambon_timor
-		religion =  catholic 
-		size = 977
-	 } 
-	aristocrats = {
-		culture = ambon_timor
-		religion = secularism
-		size = 2
-	 } 
-	bureaucrats = {
-		culture = ambon_timor
-		religion =  catholic 
-		size = 23
-	 } 
-	clergymen = {
-		culture = ambon_timor
-		religion =  catholic 
-		size = 488
-	 } 
-	clergymen = {
-		culture = ambon_timor
-		religion = secularism
-		size = 1
-	 } 
-	artisans = {
-		culture = ambon_timor
-		religion =  catholic 
-		size = 127
-	 } 
-	farmers = {
-		culture = ambon_timor
-		religion =  catholic 
-		size = 10235
-	 } 
-	farmers = {
-		culture = ambon_timor
-		religion = secularism
-		size = 25
-	 } 
-	farmers = {
-		culture = indonesian
-		religion =  sunni 
-		size = 12250
-	 } 
+  officers = {
+    culture = ambon_timor
+    religion =  catholic
+    size = 72
+  }
+  soldiers = {
+    culture = ambon_timor
+    religion =  catholic
+    size = 293
+  }
+  aristocrats = {
+    culture = ambon_timor
+    religion =  catholic
+    size = 977
+  }
+  aristocrats = {
+    culture = ambon_timor
+    religion = secularism
+    size = 2
+  }
+  bureaucrats = {
+    culture = ambon_timor
+    religion =  catholic
+    size = 23
+  }
+  clergymen = {
+    culture = ambon_timor
+    religion =  catholic
+    size = 488
+  }
+  clergymen = {
+    culture = ambon_timor
+    religion = secularism
+    size = 1
+  }
+  artisans = {
+    culture = ambon_timor
+    religion =  catholic
+    size = 127
+  }
+  farmers = {
+    culture = ambon_timor
+    religion =  catholic
+    size = 10235
+  }
+  farmers = {
+    culture = ambon_timor
+    religion = secularism
+    size = 25
+  }
+  farmers = {
+    culture = indonesian
+    religion =  sunni
+    size = 12250
+  }
 }
 #Biak - Papua (268000/67000 POPS)
 1452 = {
-	clergymen = {
-		culture = indonesian
-		religion =  sunni 
-		size = 1340
-	 } 
-	farmers = {
-		culture = indonesian
-		religion =  sunni 
-		size = 65660
-	 } 
+  clergymen = {
+    culture = indonesian
+    religion =  sunni
+    size = 1340
+  }
+  farmers = {
+    culture = indonesian
+    religion =  sunni
+    size = 65660
+  }
 }
 #Sorong - West Papua (254000/63500 POPS)
 1453 = {
-	officers = {
-		culture = papua
-		religion =  protestant 
-		size = 189
-	 } 
-	soldiers = {
-		culture = papua
-		religion =  protestant 
-		size = 760
-	 } 
-	soldiers = {
-		culture = papua
-		religion = secularism
-		size = 1
-	 } 
-	aristocrats = {
-		culture = papua
-		religion =  protestant 
-		size = 2533
-	 } 
-	aristocrats = {
-		culture = papua
-		religion = secularism
-		size = 6
-	 } 
-	bureaucrats = {
-		culture = papua
-		religion =  protestant 
-		size = 62
-	 } 
-	clergymen = {
-		culture = papua
-		religion =  protestant 
-		size = 1266
-	 } 
-	clergymen = {
-		culture = papua
-		religion = secularism
-		size = 3
-	 } 
-	artisans = {
-		culture = papua
-		religion =  protestant 
-		size = 332
-	 } 
-	farmers = {
-		culture = papua
-		religion =  protestant 
-		size = 34126
-	 } 
-	farmers = {
-		culture = papua
-		religion = secularism
-		size = 85
-	 } 
-	farmers = {
-		culture = indonesian
-		religion =  sunni 
-		size = 24130
-	 } 
+  officers = {
+    culture = papua
+    religion =  protestant
+    size = 189
+  }
+  soldiers = {
+    culture = papua
+    religion =  protestant
+    size = 760
+  }
+  soldiers = {
+    culture = papua
+    religion = secularism
+    size = 1
+  }
+  aristocrats = {
+    culture = papua
+    religion =  protestant
+    size = 2533
+  }
+  aristocrats = {
+    culture = papua
+    religion = secularism
+    size = 6
+  }
+  bureaucrats = {
+    culture = papua
+    religion =  protestant
+    size = 62
+  }
+  clergymen = {
+    culture = papua
+    religion =  protestant
+    size = 1266
+  }
+  clergymen = {
+    culture = papua
+    religion = secularism
+    size = 3
+  }
+  artisans = {
+    culture = papua
+    religion =  protestant
+    size = 332
+  }
+  farmers = {
+    culture = papua
+    religion =  protestant
+    size = 34126
+  }
+  farmers = {
+    culture = papua
+    religion = secularism
+    size = 85
+  }
+  farmers = {
+    culture = indonesian
+    religion =  sunni
+    size = 24130
+  }
 }
 #Merah - Papua (402000/100500 POPS)
 1454 = {
-	clergymen = {
-		culture = papua
-		religion =  protestant 
-		size = 2004
-	 } 
-	clergymen = {
-		culture = papua
-		religion = secularism
-		size = 5
-	 } 
-	farmers = {
-		culture = papua
-		religion =  protestant 
-		size = 72179
-	 } 
-	farmers = {
-		culture = papua
-		religion = secularism
-		size = 180
-	 } 
-	farmers = {
-		culture = indonesian
-		religion =  sunni 
-		size = 26130
-	 } 
+  clergymen = {
+    culture = papua
+    religion =  protestant
+    size = 2004
+  }
+  clergymen = {
+    culture = papua
+    religion = secularism
+    size = 5
+  }
+  farmers = {
+    culture = papua
+    religion =  protestant
+    size = 72179
+  }
+  farmers = {
+    culture = papua
+    religion = secularism
+    size = 180
+  }
+  farmers = {
+    culture = indonesian
+    religion =  sunni
+    size = 26130
+  }
 }
 #Merauke - Papua (279000/69750 POPS)
 1560 = {
-	clergymen = {
-		culture = papua
-		religion =  protestant 
-		size = 1391
-	 } 
-	clergymen = {
-		culture = papua
-		religion = secularism
-		size = 3
-	 } 
-	farmers = {
-		culture = papua
-		religion =  protestant 
-		size = 61226
-	 } 
-	farmers = {
-		culture = papua
-		religion = secularism
-		size = 153
-	 } 
-	farmers = {
-		culture = indonesian
-		religion =  sunni 
-		size = 6975
-	 } 
+  clergymen = {
+    culture = papua
+    religion =  protestant
+    size = 1391
+  }
+  clergymen = {
+    culture = papua
+    religion = secularism
+    size = 3
+  }
+  farmers = {
+    culture = papua
+    religion =  protestant
+    size = 61226
+  }
+  farmers = {
+    culture = papua
+    religion = secularism
+    size = 153
+  }
+  farmers = {
+    culture = indonesian
+    religion =  sunni
+    size = 6975
+  }
 }
 #Curacao - Curacao (101000/25250 POPS)
 2234 = {
-	officers = {
-		culture = dutch
-		religion =  catholic 
-		size = 62
-	 } 
-	officers = {
-		culture = dutch
-		religion = secularism
-		size = 12
-	 } 
-	soldiers = {
-		culture = dutch
-		religion =  catholic 
-		size = 253
-	 } 
-	soldiers = {
-		culture = dutch
-		religion = secularism
-		size = 49
-	 } 
-	aristocrats = {
-		culture = dutch
-		religion =  catholic 
-		size = 740
-	 } 
-	aristocrats = {
-		culture = dutch
-		religion = secularism
-		size = 143
-	 } 
-	aristocrats = {
-		culture = european
-		religion =  protestant 
-		size = 105
-	 } 
-	aristocrats = {
-		culture = european
-		religion = secularism
-		size = 20
-	 } 
-	bureaucrats = {
-		culture = european
-		religion =  protestant 
-		size = 41
-	 } 
-	bureaucrats = {
-		culture = european
-		religion = secularism
-		size = 8
-	 } 
-	clergymen = {
-		culture = european
-		religion =  protestant 
-		size = 275
-	 } 
-	clergymen = {
-		culture = european
-		religion = secularism
-		size = 53
-	 } 
-	clergymen = {
-		culture = brazilian
-		religion =  catholic 
-		size = 147
-	 } 
-	clergymen = {
-		culture = brazilian
-		religion = secularism
-		size = 28
-	 } 
-	artisans = {
-		culture = brazilian
-		religion =  catholic 
-		size = 553
-	 } 
-	artisans = {
-		culture = brazilian
-		religion = secularism
-		size = 107
-	 } 
-	farmers = {
-		culture = brazilian
-		religion =  catholic 
-		size = 16639
-	 } 
-	farmers = {
-		culture = brazilian
-		religion = secularism
-		size = 3228
-	 } 
-	farmers = {
-		culture = caribbean_spanish
-		religion =  catholic 
-		size = 2325
-	 } 
-	farmers = {
-		culture = caribbean_spanish
-		religion = secularism
-		size = 451
-	 } 
+  officers = {
+    culture = dutch
+    religion =  catholic
+    size = 62
+  }
+  officers = {
+    culture = dutch
+    religion = secularism
+    size = 12
+  }
+  soldiers = {
+    culture = dutch
+    religion =  catholic
+    size = 253
+  }
+  soldiers = {
+    culture = dutch
+    religion = secularism
+    size = 49
+  }
+  aristocrats = {
+    culture = dutch
+    religion =  catholic
+    size = 740
+  }
+  aristocrats = {
+    culture = dutch
+    religion = secularism
+    size = 143
+  }
+  aristocrats = {
+    culture = european
+    religion =  protestant
+    size = 105
+  }
+  aristocrats = {
+    culture = european
+    religion = secularism
+    size = 20
+  }
+  bureaucrats = {
+    culture = european
+    religion =  protestant
+    size = 41
+  }
+  bureaucrats = {
+    culture = european
+    religion = secularism
+    size = 8
+  }
+  clergymen = {
+    culture = european
+    religion =  protestant
+    size = 275
+  }
+  clergymen = {
+    culture = european
+    religion = secularism
+    size = 53
+  }
+  clergymen = {
+    culture = brazilian
+    religion =  catholic
+    size = 147
+  }
+  clergymen = {
+    culture = brazilian
+    religion = secularism
+    size = 28
+  }
+  artisans = {
+    culture = brazilian
+    religion =  catholic
+    size = 553
+  }
+  artisans = {
+    culture = brazilian
+    religion = secularism
+    size = 107
+  }
+  farmers = {
+    culture = brazilian
+    religion =  catholic
+    size = 16639
+  }
+  farmers = {
+    culture = brazilian
+    religion = secularism
+    size = 3228
+  }
+  farmers = {
+    culture = caribbean_spanish
+    religion =  catholic
+    size = 2325
+  }
+  farmers = {
+    culture = caribbean_spanish
+    religion = secularism
+    size = 451
+  }
 }
 #Aruba - Aruba (50000/12500 POPS)
 2235 = {
-	officers = {
-		culture = dutch
-		religion =  catholic 
-		size = 30
-	 } 
-	officers = {
-		culture = dutch
-		religion = secularism
-		size = 6
-	 } 
-	soldiers = {
-		culture = dutch
-		religion =  catholic 
-		size = 125
-	 } 
-	soldiers = {
-		culture = dutch
-		religion = secularism
-		size = 24
-	 } 
-	aristocrats = {
-		culture = dutch
-		religion =  catholic 
-		size = 366
-	 } 
-	aristocrats = {
-		culture = dutch
-		religion = secularism
-		size = 71
-	 } 
-	aristocrats = {
-		culture = european
-		religion =  protestant 
-		size = 51
-	 } 
-	aristocrats = {
-		culture = european
-		religion = secularism
-		size = 10
-	 } 
-	bureaucrats = {
-		culture = european
-		religion =  protestant 
-		size = 20
-	 } 
-	bureaucrats = {
-		culture = european
-		religion = secularism
-		size = 4
-	 } 
-	clergymen = {
-		culture = european
-		religion =  protestant 
-		size = 136
-	 } 
-	clergymen = {
-		culture = european
-		religion = secularism
-		size = 26
-	 } 
-	clergymen = {
-		culture = brazilian
-		religion =  catholic 
-		size = 72
-	 } 
-	clergymen = {
-		culture = brazilian
-		religion = secularism
-		size = 14
-	 } 
-	artisans = {
-		culture = brazilian
-		religion =  catholic 
-		size = 36
-	 } 
-	artisans = {
-		culture = brazilian
-		religion = secularism
-		size = 6
-	 } 
-	farmers = {
-		culture = brazilian
-		religion =  catholic 
-		size = 8475
-	 } 
-	farmers = {
-		culture = brazilian
-		religion = secularism
-		size = 1644
-	 } 
-	farmers = {
-		culture = caribbean_spanish
-		religion =  catholic 
-		size = 1151
-	 } 
-	farmers = {
-		culture = caribbean_spanish
-		religion = secularism
-		size = 223
-	 } 
+  officers = {
+    culture = dutch
+    religion =  catholic
+    size = 30
+  }
+  officers = {
+    culture = dutch
+    religion = secularism
+    size = 6
+  }
+  soldiers = {
+    culture = dutch
+    religion =  catholic
+    size = 125
+  }
+  soldiers = {
+    culture = dutch
+    religion = secularism
+    size = 24
+  }
+  aristocrats = {
+    culture = dutch
+    religion =  catholic
+    size = 366
+  }
+  aristocrats = {
+    culture = dutch
+    religion = secularism
+    size = 71
+  }
+  aristocrats = {
+    culture = european
+    religion =  protestant
+    size = 51
+  }
+  aristocrats = {
+    culture = european
+    religion = secularism
+    size = 10
+  }
+  bureaucrats = {
+    culture = european
+    religion =  protestant
+    size = 20
+  }
+  bureaucrats = {
+    culture = european
+    religion = secularism
+    size = 4
+  }
+  clergymen = {
+    culture = european
+    religion =  protestant
+    size = 136
+  }
+  clergymen = {
+    culture = european
+    religion = secularism
+    size = 26
+  }
+  clergymen = {
+    culture = brazilian
+    religion =  catholic
+    size = 72
+  }
+  clergymen = {
+    culture = brazilian
+    religion = secularism
+    size = 14
+  }
+  artisans = {
+    culture = brazilian
+    religion =  catholic
+    size = 36
+  }
+  artisans = {
+    culture = brazilian
+    religion = secularism
+    size = 6
+  }
+  farmers = {
+    culture = brazilian
+    religion =  catholic
+    size = 8475
+  }
+  farmers = {
+    culture = brazilian
+    religion = secularism
+    size = 1644
+  }
+  farmers = {
+    culture = caribbean_spanish
+    religion =  catholic
+    size = 1151
+  }
+  farmers = {
+    culture = caribbean_spanish
+    religion = secularism
+    size = 223
+  }
 }
 #Saint Martin - Saint Martin (2000/500 POPS)
 2236 = {
-	soldiers = {
-		culture = dutch
-		religion =  catholic 
-		size = 5
-	 } 
-	aristocrats = {
-		culture = dutch
-		religion =  catholic 
-		size = 15
-	 } 
-	aristocrats = {
-		culture = dutch
-		religion = secularism
-		size = 2
-	 } 
-	aristocrats = {
-		culture = european
-		religion =  protestant 
-		size = 1
-	 } 
-	clergymen = {
-		culture = european
-		religion =  protestant 
-		size = 5
-	 } 
-	clergymen = {
-		culture = european
-		religion = secularism
-		size = 1
-	 } 
-	clergymen = {
-		culture = brazilian
-		religion =  catholic 
-		size = 2
-	 } 
-	artisans = {
-		culture = brazilian
-		religion =  catholic 
-		size = 11
-	 } 
-	artisans = {
-		culture = brazilian
-		religion = secularism
-		size = 2
-	 } 
-	farmers = {
-		culture = brazilian
-		religion =  catholic 
-		size = 329
-	 } 
-	farmers = {
-		culture = brazilian
-		religion = secularism
-		size = 63
-	 } 
-	farmers = {
-		culture = caribbean_spanish
-		religion =  catholic 
-		size = 46
-	 } 
-	farmers = {
-		culture = caribbean_spanish
-		religion = secularism
-		size = 8
-	 } 
+  soldiers = {
+    culture = dutch
+    religion =  catholic
+    size = 5
+  }
+  aristocrats = {
+    culture = dutch
+    religion =  catholic
+    size = 15
+  }
+  aristocrats = {
+    culture = dutch
+    religion = secularism
+    size = 2
+  }
+  aristocrats = {
+    culture = european
+    religion =  protestant
+    size = 1
+  }
+  clergymen = {
+    culture = european
+    religion =  protestant
+    size = 5
+  }
+  clergymen = {
+    culture = european
+    religion = secularism
+    size = 1
+  }
+  clergymen = {
+    culture = brazilian
+    religion =  catholic
+    size = 2
+  }
+  artisans = {
+    culture = brazilian
+    religion =  catholic
+    size = 11
+  }
+  artisans = {
+    culture = brazilian
+    religion = secularism
+    size = 2
+  }
+  farmers = {
+    culture = brazilian
+    religion =  catholic
+    size = 329
+  }
+  farmers = {
+    culture = brazilian
+    religion = secularism
+    size = 63
+  }
+  farmers = {
+    culture = caribbean_spanish
+    religion =  catholic
+    size = 46
+  }
+  farmers = {
+    culture = caribbean_spanish
+    religion = secularism
+    size = 8
+  }
 }
 #Paramaribo - Paramaribo (184000/46000 POPS)
 2240 = {
-	officers = {
-		culture = dutch
-		religion =  catholic 
-		size = 131
-	 } 
-	officers = {
-		culture = dutch
-		religion = secularism
-		size = 6
-	 } 
-	soldiers = {
-		culture = dutch
-		religion =  catholic 
-		size = 306
-	 } 
-	soldiers = {
-		culture = dutch
-		religion = secularism
-		size = 15
-	 } 
-	soldiers = {
-		culture = chinese
-		religion =  taoism 
-		size = 219
-	 } 
-	soldiers = {
-		culture = chinese
-		religion = secularism
-		size = 10
-	 } 
-	aristocrats = {
-		culture = chinese
-		religion =  taoism 
-		size = 657
-	 } 
-	aristocrats = {
-		culture = chinese
-		religion = secularism
-		size = 32
-	 } 
-	aristocrats = {
-		culture = indian
-		religion =  hindu 
-		size = 1095
-	 } 
-	aristocrats = {
-		culture = indian
-		religion = secularism
-		size = 54
-	 } 
-	bureaucrats = {
-		culture = indian
-		religion =  hindu 
-		size = 43
-	 } 
-	bureaucrats = {
-		culture = indian
-		religion = secularism
-		size = 2
-	 } 
-	clergymen = {
-		culture = indian
-		religion =  hindu 
-		size = 876
-	 } 
-	clergymen = {
-		culture = indian
-		religion = secularism
-		size = 43
-	 } 
-	artisans = {
-		culture = indian
-		religion =  hindu 
-		size = 719
-	 } 
-	artisans = {
-		culture = indian
-		religion = secularism
-		size = 35
-	 } 
-	farmers = {
-		culture = indian
-		religion =  hindu 
-		size = 13476
-	 } 
-	farmers = {
-		culture = indian
-		religion = secularism
-		size = 672
-	 } 
-	farmers = {
-		culture = brazilian
-		religion =  catholic 
-		size = 876
-	 } 
-	farmers = {
-		culture = brazilian
-		religion = secularism
-		size = 43
-	 } 
-	farmers = {
-		culture = dutch_african
-		religion =  protestant 
-		size = 17964
-	 } 
-	farmers = {
-		culture = dutch_african
-		religion = secularism
-		size = 895
-	 } 
-	farmers = {
-		culture = indonesian
-		religion =  sunni 
-		size = 6900
-	 } 
-	farmers = {
-		culture = native_american_minor
-		religion =  catholic 
-		size = 876
-	 } 
-	farmers = {
-		culture = native_american_minor
-		religion = secularism
-		size = 43
-	 } 
+  officers = {
+    culture = dutch
+    religion =  catholic
+    size = 131
+  }
+  officers = {
+    culture = dutch
+    religion = secularism
+    size = 6
+  }
+  soldiers = {
+    culture = dutch
+    religion =  catholic
+    size = 306
+  }
+  soldiers = {
+    culture = dutch
+    religion = secularism
+    size = 15
+  }
+  soldiers = {
+    culture = chinese
+    religion =  taoism
+    size = 219
+  }
+  soldiers = {
+    culture = chinese
+    religion = secularism
+    size = 10
+  }
+  aristocrats = {
+    culture = chinese
+    religion =  taoism
+    size = 657
+  }
+  aristocrats = {
+    culture = chinese
+    religion = secularism
+    size = 32
+  }
+  aristocrats = {
+    culture = indian
+    religion =  hindu
+    size = 1095
+  }
+  aristocrats = {
+    culture = indian
+    religion = secularism
+    size = 54
+  }
+  bureaucrats = {
+    culture = indian
+    religion =  hindu
+    size = 43
+  }
+  bureaucrats = {
+    culture = indian
+    religion = secularism
+    size = 2
+  }
+  clergymen = {
+    culture = indian
+    religion =  hindu
+    size = 876
+  }
+  clergymen = {
+    culture = indian
+    religion = secularism
+    size = 43
+  }
+  artisans = {
+    culture = indian
+    religion =  hindu
+    size = 719
+  }
+  artisans = {
+    culture = indian
+    religion = secularism
+    size = 35
+  }
+  farmers = {
+    culture = indian
+    religion =  hindu
+    size = 13476
+  }
+  farmers = {
+    culture = indian
+    religion = secularism
+    size = 672
+  }
+  farmers = {
+    culture = brazilian
+    religion =  catholic
+    size = 876
+  }
+  farmers = {
+    culture = brazilian
+    religion = secularism
+    size = 43
+  }
+  farmers = {
+    culture = dutch_african
+    religion =  protestant
+    size = 17964
+  }
+  farmers = {
+    culture = dutch_african
+    religion = secularism
+    size = 895
+  }
+  farmers = {
+    culture = indonesian
+    religion =  sunni
+    size = 6900
+  }
+  farmers = {
+    culture = native_american_minor
+    religion =  catholic
+    size = 876
+  }
+  farmers = {
+    culture = native_american_minor
+    religion = secularism
+    size = 43
+  }
 }
 #Apetina - Apetina (23000/5750 POPS)
 2245 = {
-	clergymen = {
-		culture = dutch_african
-		religion =  protestant 
-		size = 109
-	 } 
-	clergymen = {
-		culture = dutch_african
-		religion = secularism
-		size = 5
-	 } 
-	farmers = {
-		culture = dutch_african
-		religion =  protestant 
-		size = 4435
-	 } 
-	farmers = {
-		culture = dutch_african
-		religion = secularism
-		size = 221
-	 } 
-	farmers = {
-		culture = native_american_minor
-		religion =  catholic 
-		size = 930
-	 } 
-	farmers = {
-		culture = native_american_minor
-		religion = secularism
-		size = 46
-	 } 
+  clergymen = {
+    culture = dutch_african
+    religion =  protestant
+    size = 109
+  }
+  clergymen = {
+    culture = dutch_african
+    religion = secularism
+    size = 5
+  }
+  farmers = {
+    culture = dutch_african
+    religion =  protestant
+    size = 4435
+  }
+  farmers = {
+    culture = dutch_african
+    religion = secularism
+    size = 221
+  }
+  farmers = {
+    culture = native_american_minor
+    religion =  catholic
+    size = 930
+  }
+  farmers = {
+    culture = native_american_minor
+    religion = secularism
+    size = 46
+  }
 }
 #Tilichiki - Malang (2173000/543250 POPS)
 2616 = {
-	clergymen = {
-		culture = indonesian
-		religion =  sunni 
-		size = 10865
-	 } 
-	farmers = {
-		culture = indonesian
-		religion =  sunni 
-		size = 532385
-	 } 
+  clergymen = {
+    culture = indonesian
+    religion =  sunni
+    size = 10865
+  }
+  farmers = {
+    culture = indonesian
+    religion =  sunni
+    size = 532385
+  }
 }
 #Amsterdam - Amsterdam (1647000/411750 POPS)
 375 = {
-	officers = {
-		culture = dutch
-		religion =  catholic 
-		size = 1246
-	 } 
-	officers = {
-		culture = dutch
-		religion = secularism
-		size = 241
-	 } 
-	soldiers = {
-		culture = dutch
-		religion =  catholic 
-		size = 23692
-	 } 
-	soldiers = {
-		culture = dutch
-		religion = secularism
-		size = 4596
-	 } 
-	aristocrats = {
-		culture = dutch
-		religion =  catholic 
-		size = 8620
-	 } 
-	aristocrats = {
-		culture = dutch
-		religion = secularism
-		size = 1672
-	 } 
-	bureaucrats = {
-		culture = dutch
-		religion =  catholic 
-		size = 2068
-	 } 
-	bureaucrats = {
-		culture = dutch
-		religion = secularism
-		size = 401
-	 } 
-	capitalists = {
-		culture = dutch
-		religion =  catholic 
-		size = 2068
-	 } 
-	capitalists = {
-		culture = dutch
-		religion = secularism
-		size = 401
-	 } 
-	clergymen = {
-		culture = dutch
-		religion =  catholic 
-		size = 6896
-	 } 
-	clergymen = {
-		culture = dutch
-		religion = secularism
-		size = 1338
-	 } 
-	clerks = {
-		culture = dutch
-		religion =  catholic 
-		size = 7239
-	 } 
-	clerks = {
-		culture = dutch
-		religion = secularism
-		size = 1404
-	 } 
-	artisans = {
-		culture = dutch
-		religion =  catholic 
-		size = 6877
-	 } 
-	artisans = {
-		culture = dutch
-		religion = secularism
-		size = 1334
-	 } 
-	craftsmen = {
-		culture = dutch
-		religion =  catholic 
-		size = 21719
-	 } 
-	craftsmen = {
-		culture = dutch
-		religion = secularism
-		size = 4214
-	 } 
-	farmers = {
-		culture = dutch
-		religion =  catholic 
-		size = 223030
-	 } 
-	farmers = {
-		culture = dutch
-		religion = secularism
-		size = 43274
-	 } 
-	farmers = {
-		culture = european
-		religion =  protestant 
-		size = 41380
-	 } 
-	farmers = {
-		culture = european
-		religion = secularism
-		size = 8029
-	 } 
+  officers = {
+    culture = dutch
+    religion =  catholic
+    size = 1246
+  }
+  officers = {
+    culture = dutch
+    religion = secularism
+    size = 241
+  }
+  soldiers = {
+    culture = dutch
+    religion =  catholic
+    size = 23692
+  }
+  soldiers = {
+    culture = dutch
+    religion = secularism
+    size = 4596
+  }
+  aristocrats = {
+    culture = dutch
+    religion =  catholic
+    size = 8620
+  }
+  aristocrats = {
+    culture = dutch
+    religion = secularism
+    size = 1672
+  }
+  bureaucrats = {
+    culture = dutch
+    religion =  catholic
+    size = 2068
+  }
+  bureaucrats = {
+    culture = dutch
+    religion = secularism
+    size = 401
+  }
+  capitalists = {
+    culture = dutch
+    religion =  catholic
+    size = 2068
+  }
+  capitalists = {
+    culture = dutch
+    religion = secularism
+    size = 401
+  }
+  clergymen = {
+    culture = dutch
+    religion =  catholic
+    size = 6896
+  }
+  clergymen = {
+    culture = dutch
+    religion = secularism
+    size = 1338
+  }
+  clerks = {
+    culture = dutch
+    religion =  catholic
+    size = 7239
+  }
+  clerks = {
+    culture = dutch
+    religion = secularism
+    size = 1404
+  }
+  artisans = {
+    culture = dutch
+    religion =  catholic
+    size = 6877
+  }
+  artisans = {
+    culture = dutch
+    religion = secularism
+    size = 1334
+  }
+  craftsmen = {
+    culture = dutch
+    religion =  catholic
+    size = 21719
+  }
+  craftsmen = {
+    culture = dutch
+    religion = secularism
+    size = 4214
+  }
+  farmers = {
+    culture = dutch
+    religion =  catholic
+    size = 223030
+  }
+  farmers = {
+    culture = dutch
+    religion = secularism
+    size = 43274
+  }
+  farmers = {
+    culture = european
+    religion =  protestant
+    size = 41380
+  }
+  farmers = {
+    culture = european
+    religion = secularism
+    size = 8029
+  }
 }
 #Rotterdam - Rotterdam (2150000/537500 POPS)
 376 = {
-	officers = {
-		culture = dutch
-		religion =  catholic 
-		size = 1557
-	 } 
-	officers = {
-		culture = dutch
-		religion = secularism
-		size = 302
-	 } 
-	soldiers = {
-		culture = dutch
-		religion =  catholic 
-		size = 29611
-	 } 
-	soldiers = {
-		culture = dutch
-		religion = secularism
-		size = 5745
-	 } 
-	aristocrats = {
-		culture = dutch
-		religion =  catholic 
-		size = 11253
-	 } 
-	aristocrats = {
-		culture = dutch
-		religion = secularism
-		size = 2183
-	 } 
-	bureaucrats = {
-		culture = dutch
-		religion =  catholic 
-		size = 2700
-	 } 
-	bureaucrats = {
-		culture = dutch
-		religion = secularism
-		size = 524
-	 } 
-	capitalists = {
-		culture = dutch
-		religion =  catholic 
-		size = 2700
-	 } 
-	capitalists = {
-		culture = dutch
-		religion = secularism
-		size = 524
-	 } 
-	clergymen = {
-		culture = dutch
-		religion =  catholic 
-		size = 9003
-	 } 
-	clergymen = {
-		culture = dutch
-		religion = secularism
-		size = 1746
-	 } 
-	clerks = {
-		culture = dutch
-		religion =  catholic 
-		size = 9482
-	 } 
-	clerks = {
-		culture = dutch
-		religion = secularism
-		size = 1839
-	 } 
-	artisans = {
-		culture = dutch
-		religion =  catholic 
-		size = 9008
-	 } 
-	artisans = {
-		culture = dutch
-		religion = secularism
-		size = 1747
-	 } 
-	craftsmen = {
-		culture = dutch
-		religion =  catholic 
-		size = 28447
-	 } 
-	craftsmen = {
-		culture = dutch
-		religion = secularism
-		size = 5519
-	 } 
-	farmers = {
-		culture = dutch
-		religion =  catholic 
-		size = 292372
-	 } 
-	farmers = {
-		culture = dutch
-		religion = secularism
-		size = 56728
-	 } 
-	farmers = {
-		culture = european
-		religion =  protestant 
-		size = 54018
-	 } 
-	farmers = {
-		culture = european
-		religion = secularism
-		size = 10481
-	 } 
+  officers = {
+    culture = dutch
+    religion =  catholic
+    size = 1557
+  }
+  officers = {
+    culture = dutch
+    religion = secularism
+    size = 302
+  }
+  soldiers = {
+    culture = dutch
+    religion =  catholic
+    size = 29611
+  }
+  soldiers = {
+    culture = dutch
+    religion = secularism
+    size = 5745
+  }
+  aristocrats = {
+    culture = dutch
+    religion =  catholic
+    size = 11253
+  }
+  aristocrats = {
+    culture = dutch
+    religion = secularism
+    size = 2183
+  }
+  bureaucrats = {
+    culture = dutch
+    religion =  catholic
+    size = 2700
+  }
+  bureaucrats = {
+    culture = dutch
+    religion = secularism
+    size = 524
+  }
+  capitalists = {
+    culture = dutch
+    religion =  catholic
+    size = 2700
+  }
+  capitalists = {
+    culture = dutch
+    religion = secularism
+    size = 524
+  }
+  clergymen = {
+    culture = dutch
+    religion =  catholic
+    size = 9003
+  }
+  clergymen = {
+    culture = dutch
+    religion = secularism
+    size = 1746
+  }
+  clerks = {
+    culture = dutch
+    religion =  catholic
+    size = 9482
+  }
+  clerks = {
+    culture = dutch
+    religion = secularism
+    size = 1839
+  }
+  artisans = {
+    culture = dutch
+    religion =  catholic
+    size = 9008
+  }
+  artisans = {
+    culture = dutch
+    religion = secularism
+    size = 1747
+  }
+  craftsmen = {
+    culture = dutch
+    religion =  catholic
+    size = 28447
+  }
+  craftsmen = {
+    culture = dutch
+    religion = secularism
+    size = 5519
+  }
+  farmers = {
+    culture = dutch
+    religion =  catholic
+    size = 292372
+  }
+  farmers = {
+    culture = dutch
+    religion = secularism
+    size = 56728
+  }
+  farmers = {
+    culture = european
+    religion =  protestant
+    size = 54018
+  }
+  farmers = {
+    culture = european
+    religion = secularism
+    size = 10481
+  }
 }
 #Utrecht - Utrecht (753000/188250 POPS)
 377 = {
-	officers = {
-		culture = dutch
-		religion =  catholic 
-		size = 675
-	 } 
-	officers = {
-		culture = dutch
-		religion = secularism
-		size = 130
-	 } 
-	soldiers = {
-		culture = dutch
-		religion =  catholic 
-		size = 12827
-	 } 
-	soldiers = {
-		culture = dutch
-		religion = secularism
-		size = 2488
-	 } 
-	aristocrats = {
-		culture = dutch
-		religion =  catholic 
-		size = 3941
-	 } 
-	aristocrats = {
-		culture = dutch
-		religion = secularism
-		size = 764
-	 } 
-	bureaucrats = {
-		culture = dutch
-		religion =  catholic 
-		size = 945
-	 } 
-	bureaucrats = {
-		culture = dutch
-		religion = secularism
-		size = 183
-	 } 
-	capitalists = {
-		culture = dutch
-		religion =  catholic 
-		size = 945
-	 } 
-	capitalists = {
-		culture = dutch
-		religion = secularism
-		size = 183
-	 } 
-	clergymen = {
-		culture = dutch
-		religion =  catholic 
-		size = 3153
-	 } 
-	clergymen = {
-		culture = dutch
-		religion = secularism
-		size = 611
-	 } 
-	clerks = {
-		culture = dutch
-		religion =  catholic 
-		size = 3262
-	 } 
-	clerks = {
-		culture = dutch
-		religion = secularism
-		size = 632
-	 } 
-	artisans = {
-		culture = dutch
-		religion =  catholic 
-		size = 3098
-	 } 
-	artisans = {
-		culture = dutch
-		religion = secularism
-		size = 601
-	 } 
-	craftsmen = {
-		culture = dutch
-		religion =  catholic 
-		size = 9787
-	 } 
-	craftsmen = {
-		culture = dutch
-		religion = secularism
-		size = 1898
-	 } 
-	farmers = {
-		culture = dutch
-		religion =  catholic 
-		size = 100104
-	 } 
-	farmers = {
-		culture = dutch
-		religion = secularism
-		size = 19423
-	 } 
-	farmers = {
-		culture = european
-		religion =  protestant 
-		size = 18919
-	 } 
-	farmers = {
-		culture = european
-		religion = secularism
-		size = 3670
-	 } 
+  officers = {
+    culture = dutch
+    religion =  catholic
+    size = 675
+  }
+  officers = {
+    culture = dutch
+    religion = secularism
+    size = 130
+  }
+  soldiers = {
+    culture = dutch
+    religion =  catholic
+    size = 12827
+  }
+  soldiers = {
+    culture = dutch
+    religion = secularism
+    size = 2488
+  }
+  aristocrats = {
+    culture = dutch
+    religion =  catholic
+    size = 3941
+  }
+  aristocrats = {
+    culture = dutch
+    religion = secularism
+    size = 764
+  }
+  bureaucrats = {
+    culture = dutch
+    religion =  catholic
+    size = 945
+  }
+  bureaucrats = {
+    culture = dutch
+    religion = secularism
+    size = 183
+  }
+  capitalists = {
+    culture = dutch
+    religion =  catholic
+    size = 945
+  }
+  capitalists = {
+    culture = dutch
+    religion = secularism
+    size = 183
+  }
+  clergymen = {
+    culture = dutch
+    religion =  catholic
+    size = 3153
+  }
+  clergymen = {
+    culture = dutch
+    religion = secularism
+    size = 611
+  }
+  clerks = {
+    culture = dutch
+    religion =  catholic
+    size = 3262
+  }
+  clerks = {
+    culture = dutch
+    religion = secularism
+    size = 632
+  }
+  artisans = {
+    culture = dutch
+    religion =  catholic
+    size = 3098
+  }
+  artisans = {
+    culture = dutch
+    religion = secularism
+    size = 601
+  }
+  craftsmen = {
+    culture = dutch
+    religion =  catholic
+    size = 9787
+  }
+  craftsmen = {
+    culture = dutch
+    religion = secularism
+    size = 1898
+  }
+  farmers = {
+    culture = dutch
+    religion =  catholic
+    size = 100104
+  }
+  farmers = {
+    culture = dutch
+    religion = secularism
+    size = 19423
+  }
+  farmers = {
+    culture = european
+    religion =  protestant
+    size = 18919
+  }
+  farmers = {
+    culture = european
+    religion = secularism
+    size = 3670
+  }
 }
 #Middelburg - Middelburg (228000/57000 POPS)
 378 = {
-	clergymen = {
-		culture = dutch
-		religion =  catholic 
-		size = 954
-	 } 
-	clergymen = {
-		culture = dutch
-		religion = secularism
-		size = 185
-	 } 
-	farmers = {
-		culture = dutch
-		religion =  catholic 
-		size = 46782
-	 } 
-	farmers = {
-		culture = dutch
-		religion = secularism
-		size = 9077
-	 } 
+  clergymen = {
+    culture = dutch
+    religion =  catholic
+    size = 954
+  }
+  clergymen = {
+    culture = dutch
+    religion = secularism
+    size = 185
+  }
+  farmers = {
+    culture = dutch
+    religion =  catholic
+    size = 46782
+  }
+  farmers = {
+    culture = dutch
+    religion = secularism
+    size = 9077
+  }
 }
 #Eindhoven - Eindhoven (1491000/372750 POPS)
 379 = {
-	clergymen = {
-		culture = dutch
-		religion =  catholic 
-		size = 6243
-	 } 
-	clergymen = {
-		culture = dutch
-		religion = secularism
-		size = 1211
-	 } 
-	farmers = {
-		culture = dutch
-		religion =  catholic 
-		size = 305934
-	 } 
-	farmers = {
-		culture = dutch
-		religion = secularism
-		size = 59360
-	 } 
+  clergymen = {
+    culture = dutch
+    religion =  catholic
+    size = 6243
+  }
+  clergymen = {
+    culture = dutch
+    religion = secularism
+    size = 1211
+  }
+  farmers = {
+    culture = dutch
+    religion =  catholic
+    size = 305934
+  }
+  farmers = {
+    culture = dutch
+    religion = secularism
+    size = 59360
+  }
 }
 #Breda - Flevoland (240000/60000 POPS)
 380 = {
-	clergymen = {
-		culture = dutch
-		religion =  catholic 
-		size = 1005
-	 } 
-	clergymen = {
-		culture = dutch
-		religion = secularism
-		size = 195
-	 } 
-	farmers = {
-		culture = dutch
-		religion =  catholic 
-		size = 49245
-	 } 
-	farmers = {
-		culture = dutch
-		religion = secularism
-		size = 9555
-	 } 
+  clergymen = {
+    culture = dutch
+    religion =  catholic
+    size = 1005
+  }
+  clergymen = {
+    culture = dutch
+    religion = secularism
+    size = 195
+  }
+  farmers = {
+    culture = dutch
+    religion =  catholic
+    size = 49245
+  }
+  farmers = {
+    culture = dutch
+    religion = secularism
+    size = 9555
+  }
 }
 #Maastricht - Maastricht (674000/168500 POPS)
 381 = {
-	clergymen = {
-		culture = dutch
-		religion =  catholic 
-		size = 2822
-	 } 
-	clergymen = {
-		culture = dutch
-		religion = secularism
-		size = 547
-	 } 
-	farmers = {
-		culture = dutch
-		religion =  catholic 
-		size = 138296
-	 } 
-	farmers = {
-		culture = dutch
-		religion = secularism
-		size = 26833
-	 } 
+  clergymen = {
+    culture = dutch
+    religion =  catholic
+    size = 2822
+  }
+  clergymen = {
+    culture = dutch
+    religion = secularism
+    size = 547
+  }
+  farmers = {
+    culture = dutch
+    religion =  catholic
+    size = 138296
+  }
+  farmers = {
+    culture = dutch
+    religion = secularism
+    size = 26833
+  }
 }
 #Arnhem - Arnhem (1215000/303750 POPS)
 382 = {
-	clergymen = {
-		culture = dutch
-		religion =  catholic 
-		size = 5087
-	 } 
-	clergymen = {
-		culture = dutch
-		religion = secularism
-		size = 987
-	 } 
-	farmers = {
-		culture = dutch
-		religion =  catholic 
-		size = 249302
-	 } 
-	farmers = {
-		culture = dutch
-		religion = secularism
-		size = 48372
-	 } 
+  clergymen = {
+    culture = dutch
+    religion =  catholic
+    size = 5087
+  }
+  clergymen = {
+    culture = dutch
+    religion = secularism
+    size = 987
+  }
+  farmers = {
+    culture = dutch
+    religion =  catholic
+    size = 249302
+  }
+  farmers = {
+    culture = dutch
+    religion = secularism
+    size = 48372
+  }
 }
 #Groningen - Groningen (350000/87500 POPS)
 383 = {
-	clergymen = {
-		culture = dutch
-		religion =  catholic 
-		size = 1465
-	 } 
-	clergymen = {
-		culture = dutch
-		religion = secularism
-		size = 284
-	 } 
-	farmers = {
-		culture = dutch
-		religion =  catholic 
-		size = 71815
-	 } 
-	farmers = {
-		culture = dutch
-		religion = secularism
-		size = 13934
-	 } 
+  clergymen = {
+    culture = dutch
+    religion =  catholic
+    size = 1465
+  }
+  clergymen = {
+    culture = dutch
+    religion = secularism
+    size = 284
+  }
+  farmers = {
+    culture = dutch
+    religion =  catholic
+    size = 71815
+  }
+  farmers = {
+    culture = dutch
+    religion = secularism
+    size = 13934
+  }
 }
 #Zwolle - Zwolle (685000/171250 POPS)
 384 = {
-	clergymen = {
-		culture = dutch
-		religion =  catholic 
-		size = 2868
-	 } 
-	clergymen = {
-		culture = dutch
-		religion = secularism
-		size = 556
-	 } 
-	farmers = {
-		culture = dutch
-		religion =  catholic 
-		size = 140553
-	 } 
-	farmers = {
-		culture = dutch
-		religion = secularism
-		size = 27271
-	 } 
+  clergymen = {
+    culture = dutch
+    religion =  catholic
+    size = 2868
+  }
+  clergymen = {
+    culture = dutch
+    religion = secularism
+    size = 556
+  }
+  farmers = {
+    culture = dutch
+    religion =  catholic
+    size = 140553
+  }
+  farmers = {
+    culture = dutch
+    religion = secularism
+    size = 27271
+  }
 }
 #Leeuwarden - Leeuwarden (388000/97000 POPS)
 385 = {
-	clergymen = {
-		culture = dutch
-		religion =  catholic 
-		size = 1624
-	 } 
-	clergymen = {
-		culture = dutch
-		religion = secularism
-		size = 315
-	 } 
-	farmers = {
-		culture = dutch
-		religion =  catholic 
-		size = 34799
-	 } 
-	farmers = {
-		culture = frisian
-		religion =  catholic 
-		size = 44813
-	 } 
-	farmers = {
-		culture = dutch
-		religion = secularism
-		size = 6911
-	 } 
-	farmers = {
-		culture = frisian
-		religion = secularism
-		size = 8536
-	 } 
+  clergymen = {
+    culture = dutch
+    religion =  catholic
+    size = 1624
+  }
+  clergymen = {
+    culture = dutch
+    religion = secularism
+    size = 315
+  }
+  farmers = {
+    culture = dutch
+    religion =  catholic
+    size = 34799
+  }
+  farmers = {
+    culture = frisian
+    religion =  catholic
+    size = 44813
+  }
+  farmers = {
+    culture = dutch
+    religion = secularism
+    size = 6911
+  }
+  farmers = {
+    culture = frisian
+    religion = secularism
+    size = 8536
+  }
 }
 #Assen - Assen (294000/73500 POPS)
 386 = {
-	clergymen = {
-		culture = dutch
-		religion =  catholic 
-		size = 1231
-	 } 
-	clergymen = {
-		culture = dutch
-		religion = secularism
-		size = 238
-	 } 
-	farmers = {
-		culture = dutch
-		religion =  catholic 
-		size = 60325
-	 } 
-	farmers = {
-		culture = dutch
-		religion = secularism
-		size = 11704
-	 } 
+  clergymen = {
+    culture = dutch
+    religion =  catholic
+    size = 1231
+  }
+  clergymen = {
+    culture = dutch
+    religion = secularism
+    size = 238
+  }
+  farmers = {
+    culture = dutch
+    religion =  catholic
+    size = 60325
+  }
+  farmers = {
+    culture = dutch
+    religion = secularism
+    size = 11704
+  }
 }

@@ -1,199 +1,199 @@
 #San Jose - San Jose, Puentaarenas (1276000/319000 POPS)
 2201 = {
-	officers = {
-		culture = central_american_spanish
-		religion =  catholic 
-		size = 302
-	 } 
-	officers = {
-		culture = central_american_spanish
-		religion = secularism
-		size = 61
-	 } 
-	soldiers = {
-		culture = central_american_spanish
-		religion =  catholic 
-		size = 5748
-	 } 
-	soldiers = {
-		culture = central_american_spanish
-		religion = secularism
-		size = 1177
-	 } 
-	aristocrats = {
-		culture = central_american_spanish
-		religion =  catholic 
-		size = 10590
-	 } 
-	aristocrats = {
-		culture = central_american_spanish
-		religion = secularism
-		size = 2169
-	 } 
-	bureaucrats = {
-		culture = central_american_spanish
-		religion =  catholic 
-		size = 529
-	 } 
-	bureaucrats = {
-		culture = central_american_spanish
-		religion = secularism
-		size = 108
-	 } 
-	capitalists = {
-		culture = central_american_spanish
-		religion =  catholic 
-		size = 1323
-	 } 
-	capitalists = {
-		culture = central_american_spanish
-		religion = secularism
-		size = 271
-	 } 
-	clergymen = {
-		culture = central_american_spanish
-		religion =  catholic 
-		size = 5295
-	 } 
-	clergymen = {
-		culture = central_american_spanish
-		religion = secularism
-		size = 1084
-	 } 
-	clerks = {
-		culture = central_american_spanish
-		religion =  catholic 
-		size = 2686
-	 } 
-	clerks = {
-		culture = central_american_spanish
-		religion = secularism
-		size = 550
-	 } 
-	clerks = {
-		culture = chinese
-		religion =  taoism 
-		size = 3559
-	 } 
-	clerks = {
-		culture = chinese
-		religion = secularism
-		size = 729
-	 } 
-	artisans = {
-		culture = chinese
-		religion =  taoism 
-		size = 5934
-	 } 
-	artisans = {
-		culture = chinese
-		religion = secularism
-		size = 1215
-	 } 
-	craftsmen = {
-		culture = chinese
-		religion =  taoism 
-		size = 3744
-	 } 
-	craftsmen = {
-		culture = chinese
-		religion = secularism
-		size = 766
-	 } 
-	craftsmen = {
-		culture = central_american_spanish
-		religion =  catholic 
-		size = 14996
-	 } 
-	craftsmen = {
-		culture = central_american_spanish
-		religion = secularism
-		size = 3071
-	 } 
-	farmers = {
-		culture = central_american_spanish
-		religion =  catholic 
-		size = 210058
-	 } 
-	farmers = {
-		culture = central_american_spanish
-		religion = secularism
-		size = 43023
-	 } 
+  officers = {
+    culture = central_american_spanish
+    religion =  catholic
+    size = 302
+  }
+  officers = {
+    culture = central_american_spanish
+    religion = secularism
+    size = 61
+  }
+  soldiers = {
+    culture = central_american_spanish
+    religion =  catholic
+    size = 5748
+  }
+  soldiers = {
+    culture = central_american_spanish
+    religion = secularism
+    size = 1177
+  }
+  aristocrats = {
+    culture = central_american_spanish
+    religion =  catholic
+    size = 10590
+  }
+  aristocrats = {
+    culture = central_american_spanish
+    religion = secularism
+    size = 2169
+  }
+  bureaucrats = {
+    culture = central_american_spanish
+    religion =  catholic
+    size = 529
+  }
+  bureaucrats = {
+    culture = central_american_spanish
+    religion = secularism
+    size = 108
+  }
+  capitalists = {
+    culture = central_american_spanish
+    religion =  catholic
+    size = 1323
+  }
+  capitalists = {
+    culture = central_american_spanish
+    religion = secularism
+    size = 271
+  }
+  clergymen = {
+    culture = central_american_spanish
+    religion =  catholic
+    size = 5295
+  }
+  clergymen = {
+    culture = central_american_spanish
+    religion = secularism
+    size = 1084
+  }
+  clerks = {
+    culture = central_american_spanish
+    religion =  catholic
+    size = 2686
+  }
+  clerks = {
+    culture = central_american_spanish
+    religion = secularism
+    size = 550
+  }
+  clerks = {
+    culture = chinese
+    religion =  taoism
+    size = 3559
+  }
+  clerks = {
+    culture = chinese
+    religion = secularism
+    size = 729
+  }
+  artisans = {
+    culture = chinese
+    religion =  taoism
+    size = 5934
+  }
+  artisans = {
+    culture = chinese
+    religion = secularism
+    size = 1215
+  }
+  craftsmen = {
+    culture = chinese
+    religion =  taoism
+    size = 3744
+  }
+  craftsmen = {
+    culture = chinese
+    religion = secularism
+    size = 766
+  }
+  craftsmen = {
+    culture = central_american_spanish
+    religion =  catholic
+    size = 14996
+  }
+  craftsmen = {
+    culture = central_american_spanish
+    religion = secularism
+    size = 3071
+  }
+  farmers = {
+    culture = central_american_spanish
+    religion =  catholic
+    size = 210058
+  }
+  farmers = {
+    culture = central_american_spanish
+    religion = secularism
+    size = 43023
+  }
 }
 #Liberia - Guanacste, Alajuela, Hederia (1130000/282500 POPS)
 2202 = {
-	clergymen = {
-		culture = native_american_minor
-		religion =  catholic 
-		size = 4689
-	 } 
-	clergymen = {
-		culture = native_american_minor
-		religion = secularism
-		size = 960
-	 } 
-	farmers = {
-		culture = native_american_minor
-		religion =  catholic 
-		size = 9379
-	 } 
-	farmers = {
-		culture = native_american_minor
-		religion = secularism
-		size = 1921
-	 } 
-	farmers = {
-		culture = central_american_spanish
-		religion =  catholic 
-		size = 220406
-	 } 
-	farmers = {
-		culture = central_american_spanish
-		religion = secularism
-		size = 45143
-	 } 
+  clergymen = {
+    culture = native_american_minor
+    religion =  catholic
+    size = 4689
+  }
+  clergymen = {
+    culture = native_american_minor
+    religion = secularism
+    size = 960
+  }
+  farmers = {
+    culture = native_american_minor
+    religion =  catholic
+    size = 9379
+  }
+  farmers = {
+    culture = native_american_minor
+    religion = secularism
+    size = 1921
+  }
+  farmers = {
+    culture = central_american_spanish
+    religion =  catholic
+    size = 220406
+  }
+  farmers = {
+    culture = central_american_spanish
+    religion = secularism
+    size = 45143
+  }
 }
 #Limon - Limon, Cartago (616000/154000 POPS)
 2203 = {
-	clergymen = {
-		culture = anglo_african
-		religion =  protestant 
-		size = 2556
-	 } 
-	clergymen = {
-		culture = anglo_african
-		religion = secularism
-		size = 523
-	 } 
-	farmers = {
-		culture = anglo_african
-		religion =  protestant 
-		size = 3834
-	 } 
-	farmers = {
-		culture = anglo_african
-		religion = secularism
-		size = 785
-	 } 
-	farmers = {
-		culture = afro_spanish
-		religion =  catholic 
-		size = 40902
-	 } 
-	farmers = {
-		culture = afro_spanish
-		religion = secularism
-		size = 8377
-	 } 
-	farmers = {
-		culture = central_american_spanish
-		religion =  catholic 
-		size = 80526
-	 } 
-	farmers = {
-		culture = central_american_spanish
-		religion = secularism
-		size = 16493
-	 } 
+  clergymen = {
+    culture = anglo_african
+    religion =  protestant
+    size = 2556
+  }
+  clergymen = {
+    culture = anglo_african
+    religion = secularism
+    size = 523
+  }
+  farmers = {
+    culture = anglo_african
+    religion =  protestant
+    size = 3834
+  }
+  farmers = {
+    culture = anglo_african
+    religion = secularism
+    size = 785
+  }
+  farmers = {
+    culture = afro_spanish
+    religion =  catholic
+    size = 40902
+  }
+  farmers = {
+    culture = afro_spanish
+    religion = secularism
+    size = 8377
+  }
+  farmers = {
+    culture = central_american_spanish
+    religion =  catholic
+    size = 80526
+  }
+  farmers = {
+    culture = central_american_spanish
+    religion = secularism
+    size = 16493
+  }
 }

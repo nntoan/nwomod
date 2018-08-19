@@ -1,222 +1,222 @@
 #Havana - Havana (3464000/866000 POPS)
 2209 = {
-	officers = {
-		culture = caribbean_spanish
-		religion =  catholic 
-		size = 7241
-	 } 
-	officers = {
-		culture = caribbean_spanish
-		religion = secularism
-		size = 12872
-	 } 
-	soldiers = {
-		culture = caribbean_spanish
-		religion =  catholic 
-		size = 137580
-	 } 
-	soldiers = {
-		culture = caribbean_spanish
-		religion = secularism
-		size = 244586
-	 } 
-	aristocrats = {
-		culture = caribbean_spanish
-		religion =  catholic 
-		size = 1706
-	 } 
-	aristocrats = {
-		culture = caribbean_spanish
-		religion = secularism
-		size = 3032
-	 } 
-	aristocrats = {
-		culture = afro_spanish
-		religion =  catholic 
-		size = 10764
-	 } 
-	aristocrats = {
-		culture = afro_spanish
-		religion = secularism
-		size = 19136
-	 } 
-	bureaucrats = {
-		culture = afro_spanish
-		religion =  catholic 
-		size = 623
-	 } 
-	bureaucrats = {
-		culture = afro_spanish
-		religion = secularism
-		size = 1108
-	 } 
-	capitalists = {
-		culture = afro_spanish
-		religion =  catholic 
-		size = 1558
-	 } 
-	capitalists = {
-		culture = afro_spanish
-		religion = secularism
-		size = 2771
-	 } 
-	clergymen = {
-		culture = afro_spanish
-		religion =  catholic 
-		size = 6235
-	 } 
-	clergymen = {
-		culture = afro_spanish
-		religion = secularism
-		size = 11084
-	 } 
-	clerks = {
-		culture = afro_spanish
-		religion =  catholic 
-		size = 4703
-	 } 
-	clerks = {
-		culture = afro_spanish
-		religion = secularism
-		size = 8362
-	 } 
-	artisans = {
-		culture = afro_spanish
-		religion =  catholic 
-		size = 4468
-	 } 
-	artisans = {
-		culture = afro_spanish
-		religion = secularism
-		size = 7943
-	 } 
-	craftsmen = {
-		culture = afro_spanish
-		religion =  catholic 
-		size = 14111
-	 } 
-	craftsmen = {
-		culture = afro_spanish
-		religion = secularism
-		size = 25086
-	 } 
-	farmers = {
-		culture = afro_spanish
-		religion =  catholic 
-		size = 44827
-	 } 
-	farmers = {
-		culture = afro_spanish
-		religion = secularism
-		size = 79693
-	 } 
-	farmers = {
-		culture = caribbean_spanish
-		religion =  catholic 
-		size = 77940
-	 } 
-	farmers = {
-		culture = caribbean_spanish
-		religion = secularism
-		size = 138560
-	 } 
+  officers = {
+    culture = caribbean_spanish
+    religion =  catholic
+    size = 7241
+  }
+  officers = {
+    culture = caribbean_spanish
+    religion = secularism
+    size = 12872
+  }
+  soldiers = {
+    culture = caribbean_spanish
+    religion =  catholic
+    size = 137580
+  }
+  soldiers = {
+    culture = caribbean_spanish
+    religion = secularism
+    size = 244586
+  }
+  aristocrats = {
+    culture = caribbean_spanish
+    religion =  catholic
+    size = 1706
+  }
+  aristocrats = {
+    culture = caribbean_spanish
+    religion = secularism
+    size = 3032
+  }
+  aristocrats = {
+    culture = afro_spanish
+    religion =  catholic
+    size = 10764
+  }
+  aristocrats = {
+    culture = afro_spanish
+    religion = secularism
+    size = 19136
+  }
+  bureaucrats = {
+    culture = afro_spanish
+    religion =  catholic
+    size = 623
+  }
+  bureaucrats = {
+    culture = afro_spanish
+    religion = secularism
+    size = 1108
+  }
+  capitalists = {
+    culture = afro_spanish
+    religion =  catholic
+    size = 1558
+  }
+  capitalists = {
+    culture = afro_spanish
+    religion = secularism
+    size = 2771
+  }
+  clergymen = {
+    culture = afro_spanish
+    religion =  catholic
+    size = 6235
+  }
+  clergymen = {
+    culture = afro_spanish
+    religion = secularism
+    size = 11084
+  }
+  clerks = {
+    culture = afro_spanish
+    religion =  catholic
+    size = 4703
+  }
+  clerks = {
+    culture = afro_spanish
+    religion = secularism
+    size = 8362
+  }
+  artisans = {
+    culture = afro_spanish
+    religion =  catholic
+    size = 4468
+  }
+  artisans = {
+    culture = afro_spanish
+    religion = secularism
+    size = 7943
+  }
+  craftsmen = {
+    culture = afro_spanish
+    religion =  catholic
+    size = 14111
+  }
+  craftsmen = {
+    culture = afro_spanish
+    religion = secularism
+    size = 25086
+  }
+  farmers = {
+    culture = afro_spanish
+    religion =  catholic
+    size = 44827
+  }
+  farmers = {
+    culture = afro_spanish
+    religion = secularism
+    size = 79693
+  }
+  farmers = {
+    culture = caribbean_spanish
+    religion =  catholic
+    size = 77940
+  }
+  farmers = {
+    culture = caribbean_spanish
+    religion = secularism
+    size = 138560
+  }
 }
 #Jagua - Jagua (1752000/438000 POPS)
 2210 = {
-	clergymen = {
-		culture = caribbean_spanish
-		religion =  catholic 
-		size = 3153
-	 } 
-	clergymen = {
-		culture = caribbean_spanish
-		religion = secularism
-		size = 5606
-	 } 
-	farmers = {
-		culture = caribbean_spanish
-		religion =  catholic 
-		size = 99338
-	 } 
-	farmers = {
-		culture = caribbean_spanish
-		religion = secularism
-		size = 176601
-	 } 
-	farmers = {
-		culture = caribbean_spanish
-		religion =  catholic 
-		size = 55188
-	 } 
-	farmers = {
-		culture = caribbean_spanish
-		religion = secularism
-		size = 98112
-	 } 
+  clergymen = {
+    culture = caribbean_spanish
+    religion =  catholic
+    size = 3153
+  }
+  clergymen = {
+    culture = caribbean_spanish
+    religion = secularism
+    size = 5606
+  }
+  farmers = {
+    culture = caribbean_spanish
+    religion =  catholic
+    size = 99338
+  }
+  farmers = {
+    culture = caribbean_spanish
+    religion = secularism
+    size = 176601
+  }
+  farmers = {
+    culture = caribbean_spanish
+    religion =  catholic
+    size = 55188
+  }
+  farmers = {
+    culture = caribbean_spanish
+    religion = secularism
+    size = 98112
+  }
 }
 #Camaguey - Camaguey (1573000/393250 POPS)
 2211 = {
-	clergymen = {
-		culture = caribbean_spanish
-		religion =  catholic 
-		size = 2831
-	 } 
-	clergymen = {
-		culture = caribbean_spanish
-		religion = secularism
-		size = 5033
-	 } 
-	farmers = {
-		culture = caribbean_spanish
-		religion =  catholic 
-		size = 101930
-	 } 
-	farmers = {
-		culture = caribbean_spanish
-		religion = secularism
-		size = 181209
-	 } 
-	farmers = {
-		culture = caribbean_spanish
-		religion =  catholic 
-		size = 36808
-	 } 
-	farmers = {
-		culture = caribbean_spanish
-		religion = secularism
-		size = 65436
-	 } 
+  clergymen = {
+    culture = caribbean_spanish
+    religion =  catholic
+    size = 2831
+  }
+  clergymen = {
+    culture = caribbean_spanish
+    religion = secularism
+    size = 5033
+  }
+  farmers = {
+    culture = caribbean_spanish
+    religion =  catholic
+    size = 101930
+  }
+  farmers = {
+    culture = caribbean_spanish
+    religion = secularism
+    size = 181209
+  }
+  farmers = {
+    culture = caribbean_spanish
+    religion =  catholic
+    size = 36808
+  }
+  farmers = {
+    culture = caribbean_spanish
+    religion = secularism
+    size = 65436
+  }
 }
 #Santiago de Cuba - Santiago de Cuba (3715000/928750 POPS)
 2212 = {
-	clergymen = {
-		culture = caribbean_spanish
-		religion =  catholic 
-		size = 6687
-	 } 
-	clergymen = {
-		culture = caribbean_spanish
-		religion = secularism
-		size = 11888
-	 } 
-	farmers = {
-		culture = caribbean_spanish
-		religion =  catholic 
-		size = 240732
-	 } 
-	farmers = {
-		culture = caribbean_spanish
-		religion = secularism
-		size = 427968
-	 } 
-	farmers = {
-		culture = caribbean_spanish
-		religion =  catholic 
-		size = 86931
-	 } 
-	farmers = {
-		culture = caribbean_spanish
-		religion = secularism
-		size = 154544
-	 } 
+  clergymen = {
+    culture = caribbean_spanish
+    religion =  catholic
+    size = 6687
+  }
+  clergymen = {
+    culture = caribbean_spanish
+    religion = secularism
+    size = 11888
+  }
+  farmers = {
+    culture = caribbean_spanish
+    religion =  catholic
+    size = 240732
+  }
+  farmers = {
+    culture = caribbean_spanish
+    religion = secularism
+    size = 427968
+  }
+  farmers = {
+    culture = caribbean_spanish
+    religion =  catholic
+    size = 86931
+  }
+  farmers = {
+    culture = caribbean_spanish
+    religion = secularism
+    size = 154544
+  }
 }

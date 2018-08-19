@@ -1,103 +1,103 @@
 #Puerto Rico - Puerto Rico (3537000/884250 POPS)
 2222 = {
-	aristocrats = {
-		culture = caribbean_spanish
-		religion =  catholic 
-		size = 11318
-	 } 
-	aristocrats = {
-		culture = caribbean_spanish
-		religion = secularism
-		size = 6366
-	 } 
-	bureaucrats = {
-		culture = caribbean_spanish
-		religion =  catholic 
-		size = 3395
-	 } 
-	bureaucrats = {
-		culture = caribbean_spanish
-		religion = secularism
-		size = 1909
-	 } 
-	capitalists = {
-		culture = caribbean_spanish
-		religion =  catholic 
-		size = 3395
-	 } 
-	capitalists = {
-		culture = caribbean_spanish
-		religion = secularism
-		size = 1909
-	 } 
-	clergymen = {
-		culture = caribbean_spanish
-		religion =  catholic 
-		size = 22636
-	 } 
-	clergymen = {
-		culture = caribbean_spanish
-		religion = secularism
-		size = 12733
-	 } 
-	clerks = {
-		culture = caribbean_spanish
-		religion =  catholic 
-		size = 19431
-	 } 
-	clerks = {
-		culture = caribbean_spanish
-		religion = secularism
-		size = 10929
-	 } 
-	artisans = {
-		culture = caribbean_spanish
-		religion =  catholic 
-		size = 2074
-	 } 
-	artisans = {
-		culture = caribbean_spanish
-		religion = secularism
-		size = 1166
-	 } 
-	artisans = {
-		culture = caribbean_spanish
-		religion =  catholic 
-		size = 14442
-	 } 
-	artisans = {
-		culture = caribbean_spanish
-		religion = secularism
-		size = 8123
-	 } 
-	craftsmen = {
-		culture = caribbean_spanish
-		religion =  catholic 
-		size = 59265
-	 } 
-	craftsmen = {
-		culture = caribbean_spanish
-		religion = secularism
-		size = 33336
-	 } 
-	farmers = {
-		culture = caribbean_spanish
-		religion =  catholic 
-		size = 356391
-	 } 
-	farmers = {
-		culture = caribbean_spanish
-		religion = secularism
-		size = 200470
-	 } 
-	farmers = {
-		culture = afro_spanish
-		religion =  catholic 
-		size = 73569
-	 } 
-	farmers = {
-		culture = afro_spanish
-		religion = secularism
-		size = 41382
-	 } 
+  aristocrats = {
+    culture = caribbean_spanish
+    religion =  catholic
+    size = 11318
+  }
+  aristocrats = {
+    culture = caribbean_spanish
+    religion = secularism
+    size = 6366
+  }
+  bureaucrats = {
+    culture = caribbean_spanish
+    religion =  catholic
+    size = 3395
+  }
+  bureaucrats = {
+    culture = caribbean_spanish
+    religion = secularism
+    size = 1909
+  }
+  capitalists = {
+    culture = caribbean_spanish
+    religion =  catholic
+    size = 3395
+  }
+  capitalists = {
+    culture = caribbean_spanish
+    religion = secularism
+    size = 1909
+  }
+  clergymen = {
+    culture = caribbean_spanish
+    religion =  catholic
+    size = 22636
+  }
+  clergymen = {
+    culture = caribbean_spanish
+    religion = secularism
+    size = 12733
+  }
+  clerks = {
+    culture = caribbean_spanish
+    religion =  catholic
+    size = 19431
+  }
+  clerks = {
+    culture = caribbean_spanish
+    religion = secularism
+    size = 10929
+  }
+  artisans = {
+    culture = caribbean_spanish
+    religion =  catholic
+    size = 2074
+  }
+  artisans = {
+    culture = caribbean_spanish
+    religion = secularism
+    size = 1166
+  }
+  artisans = {
+    culture = caribbean_spanish
+    religion =  catholic
+    size = 14442
+  }
+  artisans = {
+    culture = caribbean_spanish
+    religion = secularism
+    size = 8123
+  }
+  craftsmen = {
+    culture = caribbean_spanish
+    religion =  catholic
+    size = 59265
+  }
+  craftsmen = {
+    culture = caribbean_spanish
+    religion = secularism
+    size = 33336
+  }
+  farmers = {
+    culture = caribbean_spanish
+    religion =  catholic
+    size = 356391
+  }
+  farmers = {
+    culture = caribbean_spanish
+    religion = secularism
+    size = 200470
+  }
+  farmers = {
+    culture = afro_spanish
+    religion =  catholic
+    size = 73569
+  }
+  farmers = {
+    culture = afro_spanish
+    religion = secularism
+    size = 41382
+  }
 }

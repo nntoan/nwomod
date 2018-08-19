@@ -1,33 +1,33 @@
 #Tumlong - Tumlong (610000/152500 POPS)
 1328 = {
-	clergymen = {
-		culture = sikkim
-		religion =  buddhist 
-		size = 2897
-	 } 
-	clergymen = {
-		culture = sikkim
-		religion = secularism
-		size = 152
-	 } 
-	farmers = {
-		culture = sikkim
-		religion =  buddhist 
-		size = 55052
-	 } 
-	farmers = {
-		culture = sikkim
-		religion = secularism
-		size = 2897
-	 } 
-	farmers = {
-		culture = nepali
-		religion =  hindu 
-		size = 86925
-	 } 
-	farmers = {
-		culture = nepali
-		religion = secularism
-		size = 4575
-	 } 
+  clergymen = {
+    culture = sikkim
+    religion =  buddhist
+    size = 2897
+  }
+  clergymen = {
+    culture = sikkim
+    religion = secularism
+    size = 152
+  }
+  farmers = {
+    culture = sikkim
+    religion =  buddhist
+    size = 55052
+  }
+  farmers = {
+    culture = sikkim
+    religion = secularism
+    size = 2897
+  }
+  farmers = {
+    culture = nepali
+    religion =  hindu
+    size = 86925
+  }
+  farmers = {
+    culture = nepali
+    religion = secularism
+    size = 4575
+  }
 }

@@ -6,18 +6,18 @@ life_rating = 34
 terrain = urban_hanoi
 colonial = 0
 state_building = {
-	level = 1
-	building = fabric_factory
-	upgrade = yes
+  level = 1
+  building = fabric_factory
+  upgrade = yes
 }
 1992.1.1 = {
-owner = VNM
-controller = VNM
-add_core = VNM
-colonial = 0
-state_building = {
-	level = 2
-	building = aeroplane_factory
-	upgrade = yes
-}
+  owner = VNM
+  controller = VNM
+  add_core = VNM
+  colonial = 0
+  state_building = {
+    level = 2
+    building = aeroplane_factory
+    upgrade = yes
+  }
 }

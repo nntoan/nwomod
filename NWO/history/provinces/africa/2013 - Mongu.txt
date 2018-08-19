@@ -7,9 +7,9 @@ life_rating = 40
 terrain = dry_forest
 colonial = 2
 1992.1.1 = {
-owner = ZAM
-controller = ZAM
-add_core = ZAM
-add_core = BRT
-colonial = 0
+  owner = ZAM
+  controller = ZAM
+  add_core = ZAM
+  add_core = BRT
+  colonial = 0
 }

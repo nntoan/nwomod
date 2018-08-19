@@ -1,48 +1,48 @@
 #======= WW2 =========
 cruiser = {
-	icon = 4
-	naval_icon = 1
-	
-	type = naval
-	sprite = Cruiser
-	unit_type = big_ship
-	capital = yes
-	floating_flag = yes
-	colonial_points = 5
+  icon = 4
+  naval_icon = 1
 
-	#Core Abilities
-	priority = 25
-	max_strength = 100
-	default_organisation = 30
-	maximum_speed = 32
-	weighted_value = 24.0
-	can_build_overseas = no
+  type = naval
+  sprite = Cruiser
+  unit_type = big_ship
+  capital = yes
+  floating_flag = yes
+  colonial_points = 5
+
+  #Core Abilities
+  priority = 25
+  max_strength = 100
+  default_organisation = 30
+  maximum_speed = 32
+  weighted_value = 24.0
+  can_build_overseas = no
 
 
-	#Building Costs
-	build_time = 360
-	#cost 1B
-	build_cost = {
-		ships = 20
-		specialized_machinery = 20
-		aeroplanes = 10
-	}
-	min_port_level = 3
-	limit_per_port = -1
-	supply_consumption_score = 6
-	
-	supply_consumption = 1.0
-	supply_cost = {
-		ships = 0.14
-		specialized_machinery = 0.02
-		petrochemicals = 0.08
-	}
-	
-	#Naval Abilties
-        hull = 32
-        gun_power = 16
-        fire_range = 0.5
-        evasion = 0.1
+  #Building Costs
+  build_time = 360
+  #cost 1B
+  build_cost = {
+    ships = 20
+    specialized_machinery = 20
+    aeroplanes = 10
+  }
+  min_port_level = 3
+  limit_per_port = -1
+  supply_consumption_score = 6
+
+  supply_consumption = 1.0
+  supply_cost = {
+    ships = 0.14
+    specialized_machinery = 0.02
+    petrochemicals = 0.08
+  }
+
+  #Naval Abilties
+  hull = 32
+  gun_power = 16
+  fire_range = 0.5
+  evasion = 0.1
 }
 
 

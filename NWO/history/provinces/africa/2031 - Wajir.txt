@@ -8,9 +8,9 @@ life_rating = 43
 terrain = semi_desert
 colonial = 2
 1992.1.1 = {
-owner = KEN
-controller = KEN
-add_core = KEN
-add_core = WAJ
-colonial = 0
+  owner = KEN
+  controller = KEN
+  add_core = KEN
+  add_core = WAJ
+  colonial = 0
 }

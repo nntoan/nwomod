@@ -8,15 +8,15 @@ life_rating = 21
 terrain = marginal_farmland
 colonial = 0
 state_building = {
-	level = 1
-	building = ships_factory
-	upgrade = yes
+  level = 1
+  building = ships_factory
+  upgrade = yes
 }
 1992.1.1 = {
-owner = UKR
-controller = UKR
-add_core = UKR
-add_core = RUS
-add_core = CRI
-colonial = 0
+  owner = UKR
+  controller = UKR
+  add_core = UKR
+  add_core = RUS
+  add_core = CRI
+  colonial = 0
 }

@@ -1,127 +1,127 @@
 graphical_culture = Generic
 color = { 30 25 232 }
 party = {
-		name = "party_conservative_0_QUE"
-		citizenship_policy = limited_citizenship
-		economic_policy = interventionism
-		ideology = conservative
-		religious_policy = secularized
-		trade_policy = free_trade
-		war_policy = pro_military
-		start_date = 1836.1.1
-		end_date = 2300.1.1
+  name = "party_conservative_0_QUE"
+  citizenship_policy = limited_citizenship
+  economic_policy = interventionism
+  ideology = conservative
+  religious_policy = secularized
+  trade_policy = free_trade
+  war_policy = pro_military
+  start_date = 1836.1.1
+  end_date = 2300.1.1
 }
 party = {
-		name = "party_liberal_0_QUE"
-		citizenship_policy = full_citizenship
-		economic_policy = laissez_faire
-		ideology = liberal
-		religious_policy = secularized
-		trade_policy = free_trade
-		war_policy = pacifism
-		start_date = 1836.1.1
-		end_date = 2300.1.1
+  name = "party_liberal_0_QUE"
+  citizenship_policy = full_citizenship
+  economic_policy = laissez_faire
+  ideology = liberal
+  religious_policy = secularized
+  trade_policy = free_trade
+  war_policy = pacifism
+  start_date = 1836.1.1
+  end_date = 2300.1.1
 }
 party = {
-		name = "party_socialist_0_QUE"
-		citizenship_policy = limited_citizenship
-		economic_policy = state_capitalism
-		ideology = socialist
-		religious_policy = pro_atheism
-		trade_policy = protectionism
-		war_policy = pacifism
-		start_date = 1836.1.1
-		end_date = 2300.1.1
+  name = "party_socialist_0_QUE"
+  citizenship_policy = limited_citizenship
+  economic_policy = state_capitalism
+  ideology = socialist
+  religious_policy = pro_atheism
+  trade_policy = protectionism
+  war_policy = pacifism
+  start_date = 1836.1.1
+  end_date = 2300.1.1
 }
 party = {
-		name = "party_progressive_0_QUE"
-		citizenship_policy = full_citizenship
-		economic_policy = interventionism
-		ideology = progressive
-		religious_policy = pro_atheism
-		trade_policy = protectionism
-		war_policy = pacifism
-		start_date = 1836.1.1
-		end_date = 2300.1.1
+  name = "party_progressive_0_QUE"
+  citizenship_policy = full_citizenship
+  economic_policy = interventionism
+  ideology = progressive
+  religious_policy = pro_atheism
+  trade_policy = protectionism
+  war_policy = pacifism
+  start_date = 1836.1.1
+  end_date = 2300.1.1
 }
 party = {
-		name = "party_populist_0_QUE"
-		citizenship_policy = residency
-		economic_policy = state_capitalism
-		ideology = populist
-		religious_policy = secularized
-		trade_policy = protectionism
-		war_policy = jingoism
-		start_date = 1836.1.1
-		end_date = 2300.1.1
+  name = "party_populist_0_QUE"
+  citizenship_policy = residency
+  economic_policy = state_capitalism
+  ideology = populist
+  religious_policy = secularized
+  trade_policy = protectionism
+  war_policy = jingoism
+  start_date = 1836.1.1
+  end_date = 2300.1.1
 }
 party = {
-		name = "party_traditionalist_0_QUE"
-		citizenship_policy = residency
-		economic_policy = state_capitalism
-		ideology = traditionalist
-		religious_policy = moralism
-		trade_policy = protectionism
-		war_policy = pro_military
-		start_date = 1836.1.1
-		end_date = 2300.1.1
+  name = "party_traditionalist_0_QUE"
+  citizenship_policy = residency
+  economic_policy = state_capitalism
+  ideology = traditionalist
+  religious_policy = moralism
+  trade_policy = protectionism
+  war_policy = pro_military
+  start_date = 1836.1.1
+  end_date = 2300.1.1
 }
 party = {
-		name = "party_communist_0_QUE"
-		citizenship_policy = full_citizenship
-		economic_policy = planned_economy
-		ideology = communist
-		religious_policy = pro_atheism
-		trade_policy = protectionism
-		war_policy = pacifism
-		start_date = 1836.1.1
-		end_date = 2300.1.1
+  name = "party_communist_0_QUE"
+  citizenship_policy = full_citizenship
+  economic_policy = planned_economy
+  ideology = communist
+  religious_policy = pro_atheism
+  trade_policy = protectionism
+  war_policy = pacifism
+  start_date = 1836.1.1
+  end_date = 2300.1.1
 }
 party = {
-		name = "party_nationalist"
-		citizenship_policy = full_citizenship
-		economic_policy = planned_economy
-		ideology = nationalist
-		religious_policy = secularized
-		trade_policy = protectionism
-		war_policy = pro_military
-		start_date = 1836.1.1
-		end_date = 2300.1.1
+  name = "party_nationalist"
+  citizenship_policy = full_citizenship
+  economic_policy = planned_economy
+  ideology = nationalist
+  religious_policy = secularized
+  trade_policy = protectionism
+  war_policy = pro_military
+  start_date = 1836.1.1
+  end_date = 2300.1.1
 }
 unit_names = {
-	carrier = {
-		Québec Montréal Acadie Canada Cartier Montcalm "De la Salle" Détroit Vaudreuil Frontenac Chevalier "Saint-Laurent" 
-		"Trois-Rivières" Champlain Richelieu
-	}
-	transportship = {
-	}
-	modern_frigate = {
-		Québec Montréal Acadie Canada Cartier Montcalm "De la Salle" Détroit Vaudreuil Frontenac Chevalier "Saint-Laurent" 
-		"Trois-Rivières" Champlain Richelieu
-	}
-	cruiser = {
-		Québec Montréal Acadie Canada Cartier Montcalm "De la Salle" Détroit Vaudreuil Frontenac Chevalier "Saint-Laurent" 
-		"Trois-Rivières" Champlain Richelieu
-	}
-	modern_cruiser = {
-		Québec Montréal Acadie Canada Cartier Montcalm "De la Salle" Détroit Vaudreuil Frontenac Chevalier "Saint-Laurent" 
-		"Trois-Rivières" Champlain Richelieu
-	}
-	frigate = {
-		Québec Montréal Acadie Canada Cartier Montcalm "De la Salle" Détroit Vaudreuil Frontenac Chevalier "Saint-Laurent" 
-		"Trois-Rivières" Champlain Richelieu
-	}
-	modern_destroyer = {
-		Québec Montréal Acadie Canada Cartier Montcalm "De la Salle" Détroit Vaudreuil Frontenac Chevalier "Saint-Laurent" 
-		"Trois-Rivières" Champlain Richelieu
-	}
-	destroyer = {
-		Québec Montréal Acadie Canada Cartier Montcalm "De la Salle" Détroit Vaudreuil Frontenac Chevalier "Saint-Laurent" 
-		"Trois-Rivières" Champlain Richelieu
-	}
-	submarine = {
-		Québec Montréal Acadie Canada Cartier Montcalm "De la Salle" Détroit Vaudreuil Frontenac Chevalier "Saint-Laurent" 
-		"Trois-Rivières" Champlain Richelieu
-	}
+  carrier = {
+    Quï¿½bec Montrï¿½al Acadie Canada Cartier Montcalm "De la Salle" Dï¿½troit Vaudreuil Frontenac Chevalier "Saint-Laurent"
+    "Trois-Riviï¿½res" Champlain Richelieu
+  }
+  transportship = {
+  }
+  modern_frigate = {
+    Quï¿½bec Montrï¿½al Acadie Canada Cartier Montcalm "De la Salle" Dï¿½troit Vaudreuil Frontenac Chevalier "Saint-Laurent"
+    "Trois-Riviï¿½res" Champlain Richelieu
+  }
+  cruiser = {
+    Quï¿½bec Montrï¿½al Acadie Canada Cartier Montcalm "De la Salle" Dï¿½troit Vaudreuil Frontenac Chevalier "Saint-Laurent"
+    "Trois-Riviï¿½res" Champlain Richelieu
+  }
+  modern_cruiser = {
+    Quï¿½bec Montrï¿½al Acadie Canada Cartier Montcalm "De la Salle" Dï¿½troit Vaudreuil Frontenac Chevalier "Saint-Laurent"
+    "Trois-Riviï¿½res" Champlain Richelieu
+  }
+  frigate = {
+    Quï¿½bec Montrï¿½al Acadie Canada Cartier Montcalm "De la Salle" Dï¿½troit Vaudreuil Frontenac Chevalier "Saint-Laurent"
+    "Trois-Riviï¿½res" Champlain Richelieu
+  }
+  modern_destroyer = {
+    Quï¿½bec Montrï¿½al Acadie Canada Cartier Montcalm "De la Salle" Dï¿½troit Vaudreuil Frontenac Chevalier "Saint-Laurent"
+    "Trois-Riviï¿½res" Champlain Richelieu
+  }
+  destroyer = {
+    Quï¿½bec Montrï¿½al Acadie Canada Cartier Montcalm "De la Salle" Dï¿½troit Vaudreuil Frontenac Chevalier "Saint-Laurent"
+    "Trois-Riviï¿½res" Champlain Richelieu
+  }
+  submarine = {
+    Quï¿½bec Montrï¿½al Acadie Canada Cartier Montcalm "De la Salle" Dï¿½troit Vaudreuil Frontenac Chevalier "Saint-Laurent"
+    "Trois-Riviï¿½res" Champlain Richelieu
+  }
 
 }

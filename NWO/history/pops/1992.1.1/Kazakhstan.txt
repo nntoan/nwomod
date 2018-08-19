@@ -1,558 +1,558 @@
 #Qaraganda - Qaraganda (360000/90000 POPS)
 1181 = {
-	officers = {
-		culture = kazak
-		religion =  sunni 
-		size = 2655
-	 } 
-	soldiers = {
-		culture = kazak
-		religion =  sunni 
-		size = 16245
-	 } 
-	soldiers = {
-		culture = russian
-		religion =  orthodox 
-		size = 18814
-	 } 
-	soldiers = {
-		culture = russian
-		religion = secularism
-		size = 15393
-	 } 
-	aristocrats = {
-		culture = russian
-		religion =  orthodox 
-		size = 1980
-	 } 
-	aristocrats = {
-		culture = russian
-		religion = secularism
-		size = 1620
-	 } 
-	bureaucrats = {
-		culture = russian
-		religion =  orthodox 
-		size = 99
-	 } 
-	bureaucrats = {
-		culture = russian
-		religion = secularism
-		size = 81
-	 } 
-	capitalists = {
-		culture = russian
-		religion =  orthodox 
-		size = 247
-	 } 
-	capitalists = {
-		culture = russian
-		religion = secularism
-		size = 202
-	 } 
-	clergymen = {
-		culture = russian
-		religion =  orthodox 
-		size = 990
-	 } 
-	clergymen = {
-		culture = russian
-		religion = secularism
-		size = 810
-	 } 
-	clerks = {
-		culture = russian
-		religion =  orthodox 
-		size = 405
-	 } 
-	clerks = {
-		culture = russian
-		religion = secularism
-		size = 332
-	 } 
-	artisans = {
-		culture = russian
-		religion =  orthodox 
-		size = 385
-	 } 
-	artisans = {
-		culture = russian
-		religion = secularism
-		size = 315
-	 } 
-	craftsmen = {
-		culture = russian
-		religion =  orthodox 
-		size = 1217
-	 } 
-	craftsmen = {
-		culture = russian
-		religion = secularism
-		size = 996
-	 } 
-	farmers = {
-		culture = russian
-		religion =  orthodox 
-		size = 9024
-	 } 
-	farmers = {
-		culture = russian
-		religion = secularism
-		size = 7384
-	 } 
-	farmers = {
-		culture = ukrainian
-		religion =  orthodox 
-		size = 2970
-	 } 
-	farmers = {
-		culture = ukrainian
-		religion = secularism
-		size = 2430
-	 } 
-	farmers = {
-		culture = tatar
-		religion =  sunni 
-		size = 2700
-	 } 
-	farmers = {
-		culture = german
-		religion =  catholic 
-		size = 1485
-	 } 
-	farmers = {
-		culture = german
-		religion = secularism
-		size = 1215
-	 } 
+  officers = {
+    culture = kazak
+    religion =  sunni
+    size = 2655
+  }
+  soldiers = {
+    culture = kazak
+    religion =  sunni
+    size = 16245
+  }
+  soldiers = {
+    culture = russian
+    religion =  orthodox
+    size = 18814
+  }
+  soldiers = {
+    culture = russian
+    religion = secularism
+    size = 15393
+  }
+  aristocrats = {
+    culture = russian
+    religion =  orthodox
+    size = 1980
+  }
+  aristocrats = {
+    culture = russian
+    religion = secularism
+    size = 1620
+  }
+  bureaucrats = {
+    culture = russian
+    religion =  orthodox
+    size = 99
+  }
+  bureaucrats = {
+    culture = russian
+    religion = secularism
+    size = 81
+  }
+  capitalists = {
+    culture = russian
+    religion =  orthodox
+    size = 247
+  }
+  capitalists = {
+    culture = russian
+    religion = secularism
+    size = 202
+  }
+  clergymen = {
+    culture = russian
+    religion =  orthodox
+    size = 990
+  }
+  clergymen = {
+    culture = russian
+    religion = secularism
+    size = 810
+  }
+  clerks = {
+    culture = russian
+    religion =  orthodox
+    size = 405
+  }
+  clerks = {
+    culture = russian
+    religion = secularism
+    size = 332
+  }
+  artisans = {
+    culture = russian
+    religion =  orthodox
+    size = 385
+  }
+  artisans = {
+    culture = russian
+    religion = secularism
+    size = 315
+  }
+  craftsmen = {
+    culture = russian
+    religion =  orthodox
+    size = 1217
+  }
+  craftsmen = {
+    culture = russian
+    religion = secularism
+    size = 996
+  }
+  farmers = {
+    culture = russian
+    religion =  orthodox
+    size = 9024
+  }
+  farmers = {
+    culture = russian
+    religion = secularism
+    size = 7384
+  }
+  farmers = {
+    culture = ukrainian
+    religion =  orthodox
+    size = 2970
+  }
+  farmers = {
+    culture = ukrainian
+    religion = secularism
+    size = 2430
+  }
+  farmers = {
+    culture = tatar
+    religion =  sunni
+    size = 2700
+  }
+  farmers = {
+    culture = german
+    religion =  catholic
+    size = 1485
+  }
+  farmers = {
+    culture = german
+    religion = secularism
+    size = 1215
+  }
 }
 #Guryev - Guryev (547000/136750 POPS)
 1182 = {
-	clergymen = {
-		culture = kazak
-		religion =  sunni 
-		size = 2735
-	 } 
-	farmers = {
-		culture = kazak
-		religion =  sunni 
-		size = 134015
-	 } 
+  clergymen = {
+    culture = kazak
+    religion =  sunni
+    size = 2735
+  }
+  farmers = {
+    culture = kazak
+    religion =  sunni
+    size = 134015
+  }
 }
 #Aqtobe - Aqtobe (389000/97250 POPS)
 1183 = {
-	clergymen = {
-		culture = kazak
-		religion =  sunni 
-		size = 1945
-	 } 
-	farmers = {
-		culture = kazak
-		religion =  sunni 
-		size = 95305
-	 } 
+  clergymen = {
+    culture = kazak
+    religion =  sunni
+    size = 1945
+  }
+  farmers = {
+    culture = kazak
+    religion =  sunni
+    size = 95305
+  }
 }
 #Kokshetau - Kokshetau (588000/147000 POPS)
 1184 = {
-	clergymen = {
-		culture = kazak
-		religion =  sunni 
-		size = 2940
-	 } 
-	farmers = {
-		culture = kazak
-		religion =  sunni 
-		size = 27930
-	 } 
-	farmers = {
-		culture = russian
-		religion =  orthodox 
-		size = 54169
-	 } 
-	farmers = {
-		culture = russian
-		religion = secularism
-		size = 44320
-	 } 
-	farmers = {
-		culture = ukrainian
-		religion =  orthodox 
-		size = 4851
-	 } 
-	farmers = {
-		culture = ukrainian
-		religion = secularism
-		size = 3969
-	 } 
-	farmers = {
-		culture = tatar
-		religion =  sunni 
-		size = 4410
-	 } 
-	farmers = {
-		culture = german
-		religion =  catholic 
-		size = 2425
-	 } 
-	farmers = {
-		culture = german
-		religion = secularism
-		size = 1984
-	 } 
+  clergymen = {
+    culture = kazak
+    religion =  sunni
+    size = 2940
+  }
+  farmers = {
+    culture = kazak
+    religion =  sunni
+    size = 27930
+  }
+  farmers = {
+    culture = russian
+    religion =  orthodox
+    size = 54169
+  }
+  farmers = {
+    culture = russian
+    religion = secularism
+    size = 44320
+  }
+  farmers = {
+    culture = ukrainian
+    religion =  orthodox
+    size = 4851
+  }
+  farmers = {
+    culture = ukrainian
+    religion = secularism
+    size = 3969
+  }
+  farmers = {
+    culture = tatar
+    religion =  sunni
+    size = 4410
+  }
+  farmers = {
+    culture = german
+    religion =  catholic
+    size = 2425
+  }
+  farmers = {
+    culture = german
+    religion = secularism
+    size = 1984
+  }
 }
 #Yasi - Yasi (1065000/266250 POPS)
 1185 = {
-	clergymen = {
-		culture = kazak
-		religion =  sunni 
-		size = 5325
-	 } 
-	farmers = {
-		culture = kazak
-		religion =  sunni 
-		size = 260925
-	 } 
+  clergymen = {
+    culture = kazak
+    religion =  sunni
+    size = 5325
+  }
+  farmers = {
+    culture = kazak
+    religion =  sunni
+    size = 260925
+  }
 }
 #Alma Ata - Alma Ata (3346000/836500 POPS)
 1186 = {
-	officers = {
-		culture = kazak
-		religion =  sunni 
-		size = 21315
-	 } 
-	soldiers = {
-		culture = kazak
-		religion =  sunni 
-		size = 154350
-	 } 
-	soldiers = {
-		culture = uighur
-		religion =  sunni 
-		size = 41825
-	 } 
-	soldiers = {
-		culture = russian
-		religion =  orthodox 
-		size = 114847
-	 } 
-	soldiers = {
-		culture = russian
-		religion = secularism
-		size = 93966
-	 } 
-	aristocrats = {
-		culture = russian
-		religion =  orthodox 
-		size = 18403
-	 } 
-	aristocrats = {
-		culture = russian
-		religion = secularism
-		size = 15057
-	 } 
-	bureaucrats = {
-		culture = russian
-		religion =  orthodox 
-		size = 920
-	 } 
-	bureaucrats = {
-		culture = russian
-		religion = secularism
-		size = 752
-	 } 
-	capitalists = {
-		culture = russian
-		religion =  orthodox 
-		size = 2300
-	 } 
-	capitalists = {
-		culture = russian
-		religion = secularism
-		size = 1881
-	 } 
-	clergymen = {
-		culture = russian
-		religion =  orthodox 
-		size = 9201
-	 } 
-	clergymen = {
-		culture = russian
-		religion = secularism
-		size = 7528
-	 } 
-	clerks = {
-		culture = russian
-		religion =  orthodox 
-		size = 4512
-	 } 
-	clerks = {
-		culture = russian
-		religion = secularism
-		size = 3692
-	 } 
-	artisans = {
-		culture = russian
-		religion =  orthodox 
-		size = 4287
-	 } 
-	artisans = {
-		culture = russian
-		religion = secularism
-		size = 3507
-	 } 
-	craftsmen = {
-		culture = russian
-		religion =  orthodox 
-		size = 13538
-	 } 
-	craftsmen = {
-		culture = russian
-		religion = secularism
-		size = 11077
-	 } 
-	farmers = {
-		culture = russian
-		religion =  orthodox 
-		size = 117235
-	 } 
-	farmers = {
-		culture = russian
-		religion = secularism
-		size = 95919
-	 } 
-	farmers = {
-		culture = ukrainian
-		religion =  orthodox 
-		size = 27604
-	 } 
-	farmers = {
-		culture = ukrainian
-		religion = secularism
-		size = 22585
-	 } 
-	farmers = {
-		culture = tatar
-		religion =  sunni 
-		size = 25095
-	 } 
-	farmers = {
-		culture = german
-		religion =  catholic 
-		size = 13802
-	 } 
-	farmers = {
-		culture = german
-		religion = secularism
-		size = 11292
-	 } 
+  officers = {
+    culture = kazak
+    religion =  sunni
+    size = 21315
+  }
+  soldiers = {
+    culture = kazak
+    religion =  sunni
+    size = 154350
+  }
+  soldiers = {
+    culture = uighur
+    religion =  sunni
+    size = 41825
+  }
+  soldiers = {
+    culture = russian
+    religion =  orthodox
+    size = 114847
+  }
+  soldiers = {
+    culture = russian
+    religion = secularism
+    size = 93966
+  }
+  aristocrats = {
+    culture = russian
+    religion =  orthodox
+    size = 18403
+  }
+  aristocrats = {
+    culture = russian
+    religion = secularism
+    size = 15057
+  }
+  bureaucrats = {
+    culture = russian
+    religion =  orthodox
+    size = 920
+  }
+  bureaucrats = {
+    culture = russian
+    religion = secularism
+    size = 752
+  }
+  capitalists = {
+    culture = russian
+    religion =  orthodox
+    size = 2300
+  }
+  capitalists = {
+    culture = russian
+    religion = secularism
+    size = 1881
+  }
+  clergymen = {
+    culture = russian
+    religion =  orthodox
+    size = 9201
+  }
+  clergymen = {
+    culture = russian
+    religion = secularism
+    size = 7528
+  }
+  clerks = {
+    culture = russian
+    religion =  orthodox
+    size = 4512
+  }
+  clerks = {
+    culture = russian
+    religion = secularism
+    size = 3692
+  }
+  artisans = {
+    culture = russian
+    religion =  orthodox
+    size = 4287
+  }
+  artisans = {
+    culture = russian
+    religion = secularism
+    size = 3507
+  }
+  craftsmen = {
+    culture = russian
+    religion =  orthodox
+    size = 13538
+  }
+  craftsmen = {
+    culture = russian
+    religion = secularism
+    size = 11077
+  }
+  farmers = {
+    culture = russian
+    religion =  orthodox
+    size = 117235
+  }
+  farmers = {
+    culture = russian
+    religion = secularism
+    size = 95919
+  }
+  farmers = {
+    culture = ukrainian
+    religion =  orthodox
+    size = 27604
+  }
+  farmers = {
+    culture = ukrainian
+    religion = secularism
+    size = 22585
+  }
+  farmers = {
+    culture = tatar
+    religion =  sunni
+    size = 25095
+  }
+  farmers = {
+    culture = german
+    religion =  catholic
+    size = 13802
+  }
+  farmers = {
+    culture = german
+    religion = secularism
+    size = 11292
+  }
 }
 #Semipalatinsk - Semipalatinsk (753000/188250 POPS)
 1187 = {
-	clergymen = {
-		culture = kazak
-		religion =  sunni 
-		size = 3765
-	 } 
-	farmers = {
-		culture = kazak
-		religion =  sunni 
-		size = 35767
-	 } 
-	farmers = {
-		culture = russian
-		religion =  orthodox 
-		size = 69369
-	 } 
-	farmers = {
-		culture = russian
-		religion = secularism
-		size = 56757
-	 } 
-	farmers = {
-		culture = ukrainian
-		religion =  orthodox 
-		size = 6212
-	 } 
-	farmers = {
-		culture = ukrainian
-		religion = secularism
-		size = 5082
-	 } 
-	farmers = {
-		culture = tatar
-		religion =  sunni 
-		size = 5647
-	 } 
-	farmers = {
-		culture = german
-		religion =  catholic 
-		size = 3105
-	 } 
-	farmers = {
-		culture = german
-		religion = secularism
-		size = 2541
-	 } 
+  clergymen = {
+    culture = kazak
+    religion =  sunni
+    size = 3765
+  }
+  farmers = {
+    culture = kazak
+    religion =  sunni
+    size = 35767
+  }
+  farmers = {
+    culture = russian
+    religion =  orthodox
+    size = 69369
+  }
+  farmers = {
+    culture = russian
+    religion = secularism
+    size = 56757
+  }
+  farmers = {
+    culture = ukrainian
+    religion =  orthodox
+    size = 6212
+  }
+  farmers = {
+    culture = ukrainian
+    religion = secularism
+    size = 5082
+  }
+  farmers = {
+    culture = tatar
+    religion =  sunni
+    size = 5647
+  }
+  farmers = {
+    culture = german
+    religion =  catholic
+    size = 3105
+  }
+  farmers = {
+    culture = german
+    religion = secularism
+    size = 2541
+  }
 }
 #Qaratal - Qaratal (1407000/351750 POPS)
 1188 = {
-	clergymen = {
-		culture = kazak
-		religion =  sunni 
-		size = 7035
-	 } 
-	farmers = {
-		culture = kazak
-		religion =  sunni 
-		size = 302505
-	 } 
-	farmers = {
-		culture = uighur
-		religion =  sunni 
-		size = 42210
-	 } 
+  clergymen = {
+    culture = kazak
+    religion =  sunni
+    size = 7035
+  }
+  farmers = {
+    culture = kazak
+    religion =  sunni
+    size = 302505
+  }
+  farmers = {
+    culture = uighur
+    religion =  sunni
+    size = 42210
+  }
 }
 #Kyzylorda - Kyzylorda (718000/179500 POPS)
 1193 = {
-	clergymen = {
-		culture = kazak
-		religion =  sunni 
-		size = 3590
-	 } 
-	farmers = {
-		culture = kazak
-		religion =  sunni 
-		size = 175910
-	 } 
+  clergymen = {
+    culture = kazak
+    religion =  sunni
+    size = 3590
+  }
+  farmers = {
+    culture = kazak
+    religion =  sunni
+    size = 175910
+  }
 }
 #Aqtau - Aqtau (550000/137500 POPS)
 1194 = {
-	clergymen = {
-		culture = kazak
-		religion =  sunni 
-		size = 2750
-	 } 
-	farmers = {
-		culture = kazak
-		religion =  sunni 
-		size = 134750
-	 } 
+  clergymen = {
+    culture = kazak
+    religion =  sunni
+    size = 2750
+  }
+  farmers = {
+    culture = kazak
+    religion =  sunni
+    size = 134750
+  }
 }
 #Shymkent - Shymkent (2647000/661750 POPS)
 1197 = {
-	clergymen = {
-		culture = kazak
-		religion =  sunni 
-		size = 13235
-	 } 
-	farmers = {
-		culture = kazak
-		religion =  sunni 
-		size = 529400
-	 } 
-	farmers = {
-		culture = uzbek
-		religion =  sunni 
-		size = 119115
-	 } 
+  clergymen = {
+    culture = kazak
+    religion =  sunni
+    size = 13235
+  }
+  farmers = {
+    culture = kazak
+    religion =  sunni
+    size = 529400
+  }
+  farmers = {
+    culture = uzbek
+    religion =  sunni
+    size = 119115
+  }
 }
 #Zhambul - Zhambul (1009000/252250 POPS)
 2606 = {
-	clergymen = {
-		culture = kazak
-		religion =  sunni 
-		size = 5045
-	 } 
-	farmers = {
-		culture = kazak
-		religion =  sunni 
-		size = 247205
-	 } 
+  clergymen = {
+    culture = kazak
+    religion =  sunni
+    size = 5045
+  }
+  farmers = {
+    culture = kazak
+    religion =  sunni
+    size = 247205
+  }
 }
 #Uralsk - Uralsk (618000/154500 POPS)
 2610 = {
-	clergymen = {
-		culture = kazak
-		religion =  sunni 
-		size = 3090
-	 } 
-	farmers = {
-		culture = kazak
-		religion =  sunni 
-		size = 151410
-	 } 
+  clergymen = {
+    culture = kazak
+    religion =  sunni
+    size = 3090
+  }
+  farmers = {
+    culture = kazak
+    religion =  sunni
+    size = 151410
+  }
 }
 #Turgay - Turgay (887000/221750 POPS)
 2611 = {
-	clergymen = {
-		culture = kazak
-		religion =  sunni 
-		size = 4435
-	 } 
-	farmers = {
-		culture = kazak
-		religion =  sunni 
-		size = 42132
-	 } 
-	farmers = {
-		culture = russian
-		religion =  orthodox 
-		size = 81714
-	 } 
-	farmers = {
-		culture = russian
-		religion = secularism
-		size = 66857
-	 } 
-	farmers = {
-		culture = ukrainian
-		religion =  orthodox 
-		size = 7317
-	 } 
-	farmers = {
-		culture = ukrainian
-		religion = secularism
-		size = 5987
-	 } 
-	farmers = {
-		culture = tatar
-		religion =  sunni 
-		size = 6652
-	 } 
-	farmers = {
-		culture = german
-		religion =  catholic 
-		size = 3658
-	 } 
-	farmers = {
-		culture = german
-		religion = secularism
-		size = 2993
-	 } 
+  clergymen = {
+    culture = kazak
+    religion =  sunni
+    size = 4435
+  }
+  farmers = {
+    culture = kazak
+    religion =  sunni
+    size = 42132
+  }
+  farmers = {
+    culture = russian
+    religion =  orthodox
+    size = 81714
+  }
+  farmers = {
+    culture = russian
+    religion = secularism
+    size = 66857
+  }
+  farmers = {
+    culture = ukrainian
+    religion =  orthodox
+    size = 7317
+  }
+  farmers = {
+    culture = ukrainian
+    religion = secularism
+    size = 5987
+  }
+  farmers = {
+    culture = tatar
+    religion =  sunni
+    size = 6652
+  }
+  farmers = {
+    culture = german
+    religion =  catholic
+    size = 3658
+  }
+  farmers = {
+    culture = german
+    religion = secularism
+    size = 2993
+  }
 }
 #Aktash - Aktash (1479000/369750 POPS)
 2612 = {
-	clergymen = {
-		culture = kazak
-		religion =  sunni 
-		size = 7395
-	 } 
-	farmers = {
-		culture = kazak
-		religion =  sunni 
-		size = 362355
-	 } 
+  clergymen = {
+    culture = kazak
+    religion =  sunni
+    size = 7395
+  }
+  farmers = {
+    culture = kazak
+    religion =  sunni
+    size = 362355
+  }
 }
 #Aralsk - Aralsk (403000/100750 POPS)
 2702 = {
-	clergymen = {
-		culture = kazak
-		religion =  sunni 
-		size = 2015
-	 } 
-	farmers = {
-		culture = kazak
-		religion =  sunni 
-		size = 98735
-	 } 
+  clergymen = {
+    culture = kazak
+    religion =  sunni
+    size = 2015
+  }
+  farmers = {
+    culture = kazak
+    religion =  sunni
+    size = 98735
+  }
 }

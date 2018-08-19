@@ -6,18 +6,18 @@ life_rating = 32
 terrain = urban_kabul
 colonial = 0
 1992.1.1 = {
-owner = AFG
-controller = AFG
-add_core = AFG
-colonial = 0
-state_building = {
-	level = 1
-	building = wool_fabric_factory
-	upgrade = yes
-}
-state_building = {
-	level = 1
-	building = fabric_factory
-	upgrade = yes
-}
+  owner = AFG
+  controller = AFG
+  add_core = AFG
+  colonial = 0
+  state_building = {
+    level = 1
+    building = wool_fabric_factory
+    upgrade = yes
+  }
+  state_building = {
+    level = 1
+    building = fabric_factory
+    upgrade = yes
+  }
 }

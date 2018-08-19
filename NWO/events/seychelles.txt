@@ -8,29 +8,29 @@ country_event = { # Independence of Seychelles
   trigger = {
     tag = GBR
     year = 1976 NOT = { year = 1990 }
-	owns = 2127 # Seychelles
-	NOT = { exists = SEY }
-	NOT = { owns = 2125 } # mauritius
+    owns = 2127 # Seychelles
+    NOT = { exists = SEY }
+    NOT = { owns = 2125 } # mauritius
   }
 
   mean_time_to_happen = { months = 2 }
 
   option = {
     name = EVT_8009600_A
-	prestige = 10
-	release = SEY
-	diplomatic_influence = { who = SEY value = 200 } 
-	create_alliance = SEY
-	ai_chance = { factor = 100 }
+    prestige = 10
+    release = SEY
+    diplomatic_influence = { who = SEY value = 200 }
+    create_alliance = SEY
+    ai_chance = { factor = 100 }
   }
-  
+
   option = {
     name = EVT_8009600_B
-	prestige = -10
-	badboy = 1
-	any_pop = { limit = { location = { continent = africa }  } militancy = 8 consciousness = 5.0 }
-	# TODO SEY UDI
-	ai_chance = { factor = 0 }
+    prestige = -10
+    badboy = 1
+    any_pop = { limit = { location = { continent = africa }  } militancy = 8 consciousness = 5.0 }
+    # TODO SEY UDI
+    ai_chance = { factor = 0 }
   }
-  
+
 }

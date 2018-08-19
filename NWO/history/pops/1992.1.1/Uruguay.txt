@@ -1,222 +1,222 @@
 #Montevideo - Montevideo (1981000/495250 POPS)
 2344 = {
-	officers = {
-		culture = rioplatense
-		religion =  catholic 
-		size = 328
-	 } 
-	officers = {
-		culture = rioplatense
-		religion = secularism
-		size = 584
-	 } 
-	soldiers = {
-		culture = rioplatense
-		religion =  catholic 
-		size = 6249
-	 } 
-	soldiers = {
-		culture = rioplatense
-		religion = secularism
-		size = 11109
-	 } 
-	aristocrats = {
-		culture = rioplatense
-		religion =  catholic 
-		size = 6239
-	 } 
-	aristocrats = {
-		culture = rioplatense
-		religion = secularism
-		size = 11093
-	 } 
-	bureaucrats = {
-		culture = rioplatense
-		religion =  catholic 
-		size = 534
-	 } 
-	bureaucrats = {
-		culture = rioplatense
-		religion = secularism
-		size = 950
-	 } 
-	capitalists = {
-		culture = rioplatense
-		religion =  catholic 
-		size = 1069
-	 } 
-	capitalists = {
-		culture = rioplatense
-		religion = secularism
-		size = 1901
-	 } 
-	clergymen = {
-		culture = rioplatense
-		religion =  catholic 
-		size = 3565
-	 } 
-	clergymen = {
-		culture = rioplatense
-		religion = secularism
-		size = 6339
-	 } 
-	clerks = {
-		culture = rioplatense
-		religion =  catholic 
-		size = 5297
-	 } 
-	clerks = {
-		culture = rioplatense
-		religion = secularism
-		size = 9417
-	 } 
-	artisans = {
-		culture = rioplatense
-		religion =  catholic 
-		size = 5032
-	 } 
-	artisans = {
-		culture = rioplatense
-		religion = secularism
-		size = 8946
-	 } 
-	craftsmen = {
-		culture = rioplatense
-		religion =  catholic 
-		size = 15892
-	 } 
-	craftsmen = {
-		culture = rioplatense
-		religion = secularism
-		size = 28252
-	 } 
-	farmers = {
-		culture = rioplatense
-		religion =  catholic 
-		size = 109119
-	 } 
-	farmers = {
-		culture = rioplatense
-		religion = secularism
-		size = 193990
-	 } 
-	farmers = {
-		culture = afro_spanish
-		religion =  catholic 
-		size = 10697
-	 } 
-	farmers = {
-		culture = afro_spanish
-		religion = secularism
-		size = 19017
-	 } 
-	farmers = {
-		culture = brazilian
-		religion =  catholic 
-		size = 14263
-	 } 
-	farmers = {
-		culture = brazilian
-		religion = secularism
-		size = 25356
-	 } 
+  officers = {
+    culture = rioplatense
+    religion =  catholic
+    size = 328
+  }
+  officers = {
+    culture = rioplatense
+    religion = secularism
+    size = 584
+  }
+  soldiers = {
+    culture = rioplatense
+    religion =  catholic
+    size = 6249
+  }
+  soldiers = {
+    culture = rioplatense
+    religion = secularism
+    size = 11109
+  }
+  aristocrats = {
+    culture = rioplatense
+    religion =  catholic
+    size = 6239
+  }
+  aristocrats = {
+    culture = rioplatense
+    religion = secularism
+    size = 11093
+  }
+  bureaucrats = {
+    culture = rioplatense
+    religion =  catholic
+    size = 534
+  }
+  bureaucrats = {
+    culture = rioplatense
+    religion = secularism
+    size = 950
+  }
+  capitalists = {
+    culture = rioplatense
+    religion =  catholic
+    size = 1069
+  }
+  capitalists = {
+    culture = rioplatense
+    religion = secularism
+    size = 1901
+  }
+  clergymen = {
+    culture = rioplatense
+    religion =  catholic
+    size = 3565
+  }
+  clergymen = {
+    culture = rioplatense
+    religion = secularism
+    size = 6339
+  }
+  clerks = {
+    culture = rioplatense
+    religion =  catholic
+    size = 5297
+  }
+  clerks = {
+    culture = rioplatense
+    religion = secularism
+    size = 9417
+  }
+  artisans = {
+    culture = rioplatense
+    religion =  catholic
+    size = 5032
+  }
+  artisans = {
+    culture = rioplatense
+    religion = secularism
+    size = 8946
+  }
+  craftsmen = {
+    culture = rioplatense
+    religion =  catholic
+    size = 15892
+  }
+  craftsmen = {
+    culture = rioplatense
+    religion = secularism
+    size = 28252
+  }
+  farmers = {
+    culture = rioplatense
+    religion =  catholic
+    size = 109119
+  }
+  farmers = {
+    culture = rioplatense
+    religion = secularism
+    size = 193990
+  }
+  farmers = {
+    culture = afro_spanish
+    religion =  catholic
+    size = 10697
+  }
+  farmers = {
+    culture = afro_spanish
+    religion = secularism
+    size = 19017
+  }
+  farmers = {
+    culture = brazilian
+    religion =  catholic
+    size = 14263
+  }
+  farmers = {
+    culture = brazilian
+    religion = secularism
+    size = 25356
+  }
 }
 #Paysandu - Paysandu (695000/173750 POPS)
 2345 = {
-	clergymen = {
-		culture = rioplatense
-		religion =  catholic 
-		size = 1251
-	 } 
-	clergymen = {
-		culture = rioplatense
-		religion = secularism
-		size = 2224
-	 } 
-	farmers = {
-		culture = rioplatense
-		religion =  catholic 
-		size = 55044
-	 } 
-	farmers = {
-		culture = rioplatense
-		religion = secularism
-		size = 97856
-	 } 
-	farmers = {
-		culture = brazilian
-		religion =  catholic 
-		size = 6255
-	 } 
-	farmers = {
-		culture = brazilian
-		religion = secularism
-		size = 11120
-	 } 
+  clergymen = {
+    culture = rioplatense
+    religion =  catholic
+    size = 1251
+  }
+  clergymen = {
+    culture = rioplatense
+    religion = secularism
+    size = 2224
+  }
+  farmers = {
+    culture = rioplatense
+    religion =  catholic
+    size = 55044
+  }
+  farmers = {
+    culture = rioplatense
+    religion = secularism
+    size = 97856
+  }
+  farmers = {
+    culture = brazilian
+    religion =  catholic
+    size = 6255
+  }
+  farmers = {
+    culture = brazilian
+    religion = secularism
+    size = 11120
+  }
 }
 #Tacumba - Tacumba (165000/41250 POPS)
 2346 = {
-	clergymen = {
-		culture = rioplatense
-		religion =  catholic 
-		size = 297
-	 } 
-	clergymen = {
-		culture = rioplatense
-		religion = secularism
-		size = 528
-	 } 
-	farmers = {
-		culture = rioplatense
-		religion =  catholic 
-		size = 13216
-	 } 
-	farmers = {
-		culture = rioplatense
-		religion = secularism
-		size = 23495
-	 } 
-	farmers = {
-		culture = brazilian
-		religion =  catholic 
-		size = 1336
-	 } 
-	farmers = {
-		culture = brazilian
-		religion = secularism
-		size = 2375
-	 } 
+  clergymen = {
+    culture = rioplatense
+    religion =  catholic
+    size = 297
+  }
+  clergymen = {
+    culture = rioplatense
+    religion = secularism
+    size = 528
+  }
+  farmers = {
+    culture = rioplatense
+    religion =  catholic
+    size = 13216
+  }
+  farmers = {
+    culture = rioplatense
+    religion = secularism
+    size = 23495
+  }
+  farmers = {
+    culture = brazilian
+    religion =  catholic
+    size = 1336
+  }
+  farmers = {
+    culture = brazilian
+    religion = secularism
+    size = 2375
+  }
 }
 #Melo - Melo (242000/60500 POPS)
 2347 = {
-	clergymen = {
-		culture = rioplatense
-		religion =  catholic 
-		size = 435
-	 } 
-	clergymen = {
-		culture = rioplatense
-		religion = secularism
-		size = 774
-	 } 
-	farmers = {
-		culture = rioplatense
-		religion =  catholic 
-		size = 19602
-	 } 
-	farmers = {
-		culture = rioplatense
-		religion = secularism
-		size = 34848
-	 } 
-	farmers = {
-		culture = brazilian
-		religion =  catholic 
-		size = 1742
-	 } 
-	farmers = {
-		culture = brazilian
-		religion = secularism
-		size = 3097
-	 } 
+  clergymen = {
+    culture = rioplatense
+    religion =  catholic
+    size = 435
+  }
+  clergymen = {
+    culture = rioplatense
+    religion = secularism
+    size = 774
+  }
+  farmers = {
+    culture = rioplatense
+    religion =  catholic
+    size = 19602
+  }
+  farmers = {
+    culture = rioplatense
+    religion = secularism
+    size = 34848
+  }
+  farmers = {
+    culture = brazilian
+    religion =  catholic
+    size = 1742
+  }
+  farmers = {
+    culture = brazilian
+    religion = secularism
+    size = 3097
+  }
 }

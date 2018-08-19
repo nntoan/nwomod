@@ -1,121 +1,121 @@
 graphical_culture = SouthAmericanGC
 color = { 80 30 20 }
 party = {
-		name = "party_conservative_0_PRG"
-		citizenship_policy = limited_citizenship
-		economic_policy = interventionism
-		ideology = conservative
-		religious_policy = secularized
-		trade_policy = free_trade
-		war_policy = pro_military
-		start_date = 1836.1.1
-		end_date = 2300.1.1
+  name = "party_conservative_0_PRG"
+  citizenship_policy = limited_citizenship
+  economic_policy = interventionism
+  ideology = conservative
+  religious_policy = secularized
+  trade_policy = free_trade
+  war_policy = pro_military
+  start_date = 1836.1.1
+  end_date = 2300.1.1
 }
 party = {
-		name = "party_liberal_0_PRG"
-		citizenship_policy = full_citizenship
-		economic_policy = laissez_faire
-		ideology = liberal
-		religious_policy = secularized
-		trade_policy = free_trade
-		war_policy = pacifism
-		start_date = 1836.1.1
-		end_date = 2300.1.1
+  name = "party_liberal_0_PRG"
+  citizenship_policy = full_citizenship
+  economic_policy = laissez_faire
+  ideology = liberal
+  religious_policy = secularized
+  trade_policy = free_trade
+  war_policy = pacifism
+  start_date = 1836.1.1
+  end_date = 2300.1.1
 }
 party = {
-		name = "party_socialist_0_PRG"
-		citizenship_policy = limited_citizenship
-		economic_policy = state_capitalism
-		ideology = socialist
-		religious_policy = pro_atheism
-		trade_policy = protectionism
-		war_policy = pacifism
-		start_date = 1836.1.1
-		end_date = 2300.1.1
+  name = "party_socialist_0_PRG"
+  citizenship_policy = limited_citizenship
+  economic_policy = state_capitalism
+  ideology = socialist
+  religious_policy = pro_atheism
+  trade_policy = protectionism
+  war_policy = pacifism
+  start_date = 1836.1.1
+  end_date = 2300.1.1
 }
 party = {
-		name = "party_progressive_0_PRG"
-		citizenship_policy = full_citizenship
-		economic_policy = interventionism
-		ideology = progressive
-		religious_policy = pro_atheism
-		trade_policy = protectionism
-		war_policy = pacifism
-		start_date = 1836.1.1
-		end_date = 2300.1.1
+  name = "party_progressive_0_PRG"
+  citizenship_policy = full_citizenship
+  economic_policy = interventionism
+  ideology = progressive
+  religious_policy = pro_atheism
+  trade_policy = protectionism
+  war_policy = pacifism
+  start_date = 1836.1.1
+  end_date = 2300.1.1
 }
 party = {
-		name = "party_populist_0_PRG"
-		citizenship_policy = residency
-		economic_policy = state_capitalism
-		ideology = populist
-		religious_policy = secularized
-		trade_policy = protectionism
-		war_policy = jingoism
-		start_date = 1836.1.1
-		end_date = 2300.1.1
+  name = "party_populist_0_PRG"
+  citizenship_policy = residency
+  economic_policy = state_capitalism
+  ideology = populist
+  religious_policy = secularized
+  trade_policy = protectionism
+  war_policy = jingoism
+  start_date = 1836.1.1
+  end_date = 2300.1.1
 }
 party = {
-		name = "party_traditionalist_0_PRG"
-		citizenship_policy = residency
-		economic_policy = state_capitalism
-		ideology = traditionalist
-		religious_policy = moralism
-		trade_policy = protectionism
-		war_policy = pro_military
-		start_date = 1836.1.1
-		end_date = 2300.1.1
+  name = "party_traditionalist_0_PRG"
+  citizenship_policy = residency
+  economic_policy = state_capitalism
+  ideology = traditionalist
+  religious_policy = moralism
+  trade_policy = protectionism
+  war_policy = pro_military
+  start_date = 1836.1.1
+  end_date = 2300.1.1
 }
 party = {
-		name = "party_communist_0_PRG"
-		citizenship_policy = full_citizenship
-		economic_policy = planned_economy
-		ideology = communist
-		religious_policy = pro_atheism
-		trade_policy = protectionism
-		war_policy = pacifism
-		start_date = 1836.1.1
-		end_date = 2300.1.1
+  name = "party_communist_0_PRG"
+  citizenship_policy = full_citizenship
+  economic_policy = planned_economy
+  ideology = communist
+  religious_policy = pro_atheism
+  trade_policy = protectionism
+  war_policy = pacifism
+  start_date = 1836.1.1
+  end_date = 2300.1.1
 }
 party = {
-		name = "party_nationalist"
-		citizenship_policy = full_citizenship
-		economic_policy = planned_economy
-		ideology = nationalist
-		religious_policy = secularized
-		trade_policy = protectionism
-		war_policy = pro_military
-		start_date = 1836.1.1
-		end_date = 2300.1.1
+  name = "party_nationalist"
+  citizenship_policy = full_citizenship
+  economic_policy = planned_economy
+  ideology = nationalist
+  religious_policy = secularized
+  trade_policy = protectionism
+  war_policy = pro_military
+  start_date = 1836.1.1
+  end_date = 2300.1.1
 }
 unit_names = {
-	carrier = {
-		"Capitán Cabral" "Capitán Ortíz" Haumaitá Itaipú Nanawa Paraguya "Rodríguez de Francia" Tebicuary "Teniente Fariña" Yhaguy
-	}
-	transportship = {
-		Angostura "Estrella de los Mares" Gigante Intrépida Júpiter Libre Marte Neptuno Plutón Reducción
-		"San Honorato" "San Lucas" "San Marcos" "San Mateo" "Santa Isabel" "Santa Mónica" Saturno Sirena Tetis Veloz
-	}
-	modern_frigate = {
-		Azote Destructor Fervor Héroe Relámpago Tempestad Terror Triunfo Trueno Victoria
-	}
-	cruiser = {
-		Areguá Asunción Caaguazú "Cerro Peró" "Ciudad del Este" Concepción "Fuerte Olimpo" Itauguá Ñeembucú Villarica
-	}
-	modern_cruiser = {
-		"Capitán Cabral" "Capitán Ortíz" Haumaitá Itaipú Nanawa Paraguya "Rodríguez de Francia" Tebicuary "Teniente Fariña" Yhaguy
-	}
-	frigate = {
-		"Alto Paraguay" "Bajo Paraguay" Boquerón Constitución "Gran Chaco" Independencia Libertad "Patria Paraguaya" "Presidente Hayes" República
-	}
-	modern_destroyer = {
-		"General Yegros" Jejuí "Márquez de Olinda" Paraguarí Pirabebé "Francisco Solano López" Salto Tacuarí Ygurey Yporá
-	}
-	destroyer = {
-		Encarnación "San José" "San Juan" "San Juan Bautista" "San Lorenzo" "San Pedro" "Santa Ana" "Santa María" "Santa Marta" "Santísima Trinidad"
-	}
-	submarine = {
-		"Carlos Antonio López" Guaraní Jopará Nivaclé Paraná Pilcomayo "Río Paraguay" "Salto de Guairá" "San Francisco Javier" "San Ignacio de Loyola"
-	}
+  carrier = {
+    "Capitï¿½n Cabral" "Capitï¿½n Ortï¿½z" Haumaitï¿½ Itaipï¿½ Nanawa Paraguya "Rodrï¿½guez de Francia" Tebicuary "Teniente Fariï¿½a" Yhaguy
+  }
+  transportship = {
+    Angostura "Estrella de los Mares" Gigante Intrï¿½pida Jï¿½piter Libre Marte Neptuno Plutï¿½n Reducciï¿½n
+    "San Honorato" "San Lucas" "San Marcos" "San Mateo" "Santa Isabel" "Santa Mï¿½nica" Saturno Sirena Tetis Veloz
+  }
+  modern_frigate = {
+    Azote Destructor Fervor Hï¿½roe Relï¿½mpago Tempestad Terror Triunfo Trueno Victoria
+  }
+  cruiser = {
+    Areguï¿½ Asunciï¿½n Caaguazï¿½ "Cerro Perï¿½" "Ciudad del Este" Concepciï¿½n "Fuerte Olimpo" Itauguï¿½ ï¿½eembucï¿½ Villarica
+  }
+  modern_cruiser = {
+    "Capitï¿½n Cabral" "Capitï¿½n Ortï¿½z" Haumaitï¿½ Itaipï¿½ Nanawa Paraguya "Rodrï¿½guez de Francia" Tebicuary "Teniente Fariï¿½a" Yhaguy
+  }
+  frigate = {
+    "Alto Paraguay" "Bajo Paraguay" Boquerï¿½n Constituciï¿½n "Gran Chaco" Independencia Libertad "Patria Paraguaya" "Presidente Hayes" Repï¿½blica
+  }
+  modern_destroyer = {
+    "General Yegros" Jejuï¿½ "Mï¿½rquez de Olinda" Paraguarï¿½ Pirabebï¿½ "Francisco Solano Lï¿½pez" Salto Tacuarï¿½ Ygurey Yporï¿½
+  }
+  destroyer = {
+    Encarnaciï¿½n "San Josï¿½" "San Juan" "San Juan Bautista" "San Lorenzo" "San Pedro" "Santa Ana" "Santa Marï¿½a" "Santa Marta" "Santï¿½sima Trinidad"
+  }
+  submarine = {
+    "Carlos Antonio Lï¿½pez" Guaranï¿½ Joparï¿½ Nivaclï¿½ Paranï¿½ Pilcomayo "Rï¿½o Paraguay" "Salto de Guairï¿½" "San Francisco Javier" "San Ignacio de Loyola"
+  }
 
 }

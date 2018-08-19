@@ -1,23 +1,23 @@
 #Ulundi - Ulundi (1911000/477750 POPS)
 2113 = {
-	clergymen = {
-		culture = zulu
-		religion =  protestant 
-		size = 3822
-	 } 
-	clergymen = {
-		culture = zulu
-		religion = secularism
-		size = 5733
-	 } 
-	farmers = {
-		culture = zulu
-		religion =  protestant 
-		size = 187278
-	 } 
-	farmers = {
-		culture = zulu
-		religion = secularism
-		size = 280917
-	 } 
+  clergymen = {
+    culture = zulu
+    religion =  protestant
+    size = 3822
+  }
+  clergymen = {
+    culture = zulu
+    religion = secularism
+    size = 5733
+  }
+  farmers = {
+    culture = zulu
+    religion =  protestant
+    size = 187278
+  }
+  farmers = {
+    culture = zulu
+    religion = secularism
+    size = 280917
+  }
 }

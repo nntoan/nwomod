@@ -1,281 +1,281 @@
 #Hanoi - Hanoi (1857000/464250 POPS)
 1369 = {
-	officers = {
-		culture = vietnamese
-		religion =  buddhist 
-		size = 8090
-	 } 
-	officers = {
-		culture = vietnamese
-		religion = secularism
-		size = 999
-	 } 
-	soldiers = {
-		culture = vietnamese
-		religion =  buddhist 
-		size = 153715
-	 } 
-	soldiers = {
-		culture = vietnamese
-		religion = secularism
-		size = 18998
-	 } 
-	aristocrats = {
-		culture = vietnamese
-		religion =  buddhist 
-		size = 16527
-	 } 
-	aristocrats = {
-		culture = vietnamese
-		religion = secularism
-		size = 2042
-	 } 
-	bureaucrats = {
-		culture = vietnamese
-		religion =  buddhist 
-		size = 412
-	 } 
-	bureaucrats = {
-		culture = vietnamese
-		religion = secularism
-		size = 51
-	 } 
-	clergymen = {
-		culture = vietnamese
-		religion =  buddhist 
-		size = 8263
-	 } 
-	clergymen = {
-		culture = vietnamese
-		religion = secularism
-		size = 1021
-	 } 
-	artisans = {
-		culture = vietnamese
-		religion =  buddhist 
-		size = 1337
-	 } 
-	artisans = {
-		culture = vietnamese
-		religion = secularism
-		size = 165
-	 } 
-	farmers = {
-		culture = vietnamese
-		religion =  buddhist 
-		size = 175253
-	 } 
-	farmers = {
-		culture = vietnamese
-		religion = secularism
-		size = 21660
-	 } 
-	farmers = {
-		culture = vietnamese_christian
-		religion =  catholic 
-		size = 41318
-	 } 
-	farmers = {
-		culture = vietnamese_christian
-		religion = secularism
-		size = 5106
-	 } 
-	farmers = {
-		culture = chinese
-		religion =  taoism 
-		size = 8263
-	 } 
-	farmers = {
-		culture = chinese
-		religion = secularism
-		size = 1021
-	 } 
+  officers = {
+    culture = vietnamese
+    religion =  buddhist
+    size = 8090
+  }
+  officers = {
+    culture = vietnamese
+    religion = secularism
+    size = 999
+  }
+  soldiers = {
+    culture = vietnamese
+    religion =  buddhist
+    size = 153715
+  }
+  soldiers = {
+    culture = vietnamese
+    religion = secularism
+    size = 18998
+  }
+  aristocrats = {
+    culture = vietnamese
+    religion =  buddhist
+    size = 16527
+  }
+  aristocrats = {
+    culture = vietnamese
+    religion = secularism
+    size = 2042
+  }
+  bureaucrats = {
+    culture = vietnamese
+    religion =  buddhist
+    size = 412
+  }
+  bureaucrats = {
+    culture = vietnamese
+    religion = secularism
+    size = 51
+  }
+  clergymen = {
+    culture = vietnamese
+    religion =  buddhist
+    size = 8263
+  }
+  clergymen = {
+    culture = vietnamese
+    religion = secularism
+    size = 1021
+  }
+  artisans = {
+    culture = vietnamese
+    religion =  buddhist
+    size = 1337
+  }
+  artisans = {
+    culture = vietnamese
+    religion = secularism
+    size = 165
+  }
+  farmers = {
+    culture = vietnamese
+    religion =  buddhist
+    size = 175253
+  }
+  farmers = {
+    culture = vietnamese
+    religion = secularism
+    size = 21660
+  }
+  farmers = {
+    culture = vietnamese_christian
+    religion =  catholic
+    size = 41318
+  }
+  farmers = {
+    culture = vietnamese_christian
+    religion = secularism
+    size = 5106
+  }
+  farmers = {
+    culture = chinese
+    religion =  taoism
+    size = 8263
+  }
+  farmers = {
+    culture = chinese
+    religion = secularism
+    size = 1021
+  }
 }
 #Haiphong - Haiphong (882000/220500 POPS)
 1370 = {
-	clergymen = {
-		culture = vietnamese
-		religion =  buddhist 
-		size = 3924
-	 } 
-	clergymen = {
-		culture = vietnamese
-		religion = secularism
-		size = 485
-	 } 
-	farmers = {
-		culture = vietnamese
-		religion =  buddhist 
-		size = 153071
-	 } 
-	farmers = {
-		culture = vietnamese
-		religion = secularism
-		size = 18918
-	 } 
-	farmers = {
-		culture = vietnamese_christian
-		religion =  catholic 
-		size = 33361
-	 } 
-	farmers = {
-		culture = vietnamese_christian
-		religion = secularism
-		size = 4123
-	 } 
-	farmers = {
-		culture = chinese
-		religion =  taoism 
-		size = 5887
-	 } 
-	farmers = {
-		culture = chinese
-		religion = secularism
-		size = 727
-	 } 
+  clergymen = {
+    culture = vietnamese
+    religion =  buddhist
+    size = 3924
+  }
+  clergymen = {
+    culture = vietnamese
+    religion = secularism
+    size = 485
+  }
+  farmers = {
+    culture = vietnamese
+    religion =  buddhist
+    size = 153071
+  }
+  farmers = {
+    culture = vietnamese
+    religion = secularism
+    size = 18918
+  }
+  farmers = {
+    culture = vietnamese_christian
+    religion =  catholic
+    size = 33361
+  }
+  farmers = {
+    culture = vietnamese_christian
+    religion = secularism
+    size = 4123
+  }
+  farmers = {
+    culture = chinese
+    religion =  taoism
+    size = 5887
+  }
+  farmers = {
+    culture = chinese
+    religion = secularism
+    size = 727
+  }
 }
 #Cao Bang - Cao Bang (450000/112500 POPS)
 1371 = {
-	clergymen = {
-		culture = vietnamese
-		religion =  buddhist 
-		size = 2002
-	 } 
-	clergymen = {
-		culture = vietnamese
-		religion = secularism
-		size = 247
-	 } 
-	farmers = {
-		culture = vietnamese
-		religion =  buddhist 
-		size = 8010
-	 } 
-	farmers = {
-		culture = vietnamese
-		religion = secularism
-		size = 990
-	 } 
-	farmers = {
-		culture = asian_minor
-		religion =  animist 
-		size = 90112
-	 } 
-	farmers = {
-		culture = asian_minor
-		religion = secularism
-		size = 11137
-	 } 
+  clergymen = {
+    culture = vietnamese
+    religion =  buddhist
+    size = 2002
+  }
+  clergymen = {
+    culture = vietnamese
+    religion = secularism
+    size = 247
+  }
+  farmers = {
+    culture = vietnamese
+    religion =  buddhist
+    size = 8010
+  }
+  farmers = {
+    culture = vietnamese
+    religion = secularism
+    size = 990
+  }
+  farmers = {
+    culture = asian_minor
+    religion =  animist
+    size = 90112
+  }
+  farmers = {
+    culture = asian_minor
+    religion = secularism
+    size = 11137
+  }
 }
 #Son La - Son La (575000/143750 POPS)
 1372 = {
-	clergymen = {
-		culture = vietnamese
-		religion =  buddhist 
-		size = 2558
-	 } 
-	clergymen = {
-		culture = vietnamese
-		religion = secularism
-		size = 316
-	 } 
-	farmers = {
-		culture = vietnamese
-		religion =  buddhist 
-		size = 35822
-	 } 
-	farmers = {
-		culture = vietnamese
-		religion = secularism
-		size = 4427
-	 } 
-	farmers = {
-		culture = asian_minor
-		religion =  animist 
-		size = 89556
-	 } 
-	farmers = {
-		culture = asian_minor
-		religion = secularism
-		size = 11068
-	 } 
+  clergymen = {
+    culture = vietnamese
+    religion =  buddhist
+    size = 2558
+  }
+  clergymen = {
+    culture = vietnamese
+    religion = secularism
+    size = 316
+  }
+  farmers = {
+    culture = vietnamese
+    religion =  buddhist
+    size = 35822
+  }
+  farmers = {
+    culture = vietnamese
+    religion = secularism
+    size = 4427
+  }
+  farmers = {
+    culture = asian_minor
+    religion =  animist
+    size = 89556
+  }
+  farmers = {
+    culture = asian_minor
+    religion = secularism
+    size = 11068
+  }
 }
 #Lang Son - Lang Son (730000/182500 POPS)
 1373 = {
-	clergymen = {
-		culture = vietnamese
-		religion =  buddhist 
-		size = 3248
-	 } 
-	clergymen = {
-		culture = vietnamese
-		religion = secularism
-		size = 401
-	 } 
-	farmers = {
-		culture = vietnamese
-		religion =  buddhist 
-		size = 142934
-	 } 
-	farmers = {
-		culture = vietnamese
-		religion = secularism
-		size = 17666
-	 } 
-	farmers = {
-		culture = vietnamese_christian
-		religion =  catholic 
-		size = 16242
-	 } 
-	farmers = {
-		culture = vietnamese_christian
-		religion = secularism
-		size = 2007
-	 } 
+  clergymen = {
+    culture = vietnamese
+    religion =  buddhist
+    size = 3248
+  }
+  clergymen = {
+    culture = vietnamese
+    religion = secularism
+    size = 401
+  }
+  farmers = {
+    culture = vietnamese
+    religion =  buddhist
+    size = 142934
+  }
+  farmers = {
+    culture = vietnamese
+    religion = secularism
+    size = 17666
+  }
+  farmers = {
+    culture = vietnamese_christian
+    religion =  catholic
+    size = 16242
+  }
+  farmers = {
+    culture = vietnamese_christian
+    religion = secularism
+    size = 2007
+  }
 }
 #Thanh Hoa - Thanh Hoa (495000/123750 POPS)
 1374 = {
-	clergymen = {
-		culture = vietnamese
-		religion =  buddhist 
-		size = 2202
-	 } 
-	clergymen = {
-		culture = vietnamese
-		religion = secularism
-		size = 272
-	 } 
-	farmers = {
-		culture = vietnamese
-		religion =  buddhist 
-		size = 107934
-	 } 
-	farmers = {
-		culture = vietnamese
-		religion = secularism
-		size = 13340
-	 } 
+  clergymen = {
+    culture = vietnamese
+    religion =  buddhist
+    size = 2202
+  }
+  clergymen = {
+    culture = vietnamese
+    religion = secularism
+    size = 272
+  }
+  farmers = {
+    culture = vietnamese
+    religion =  buddhist
+    size = 107934
+  }
+  farmers = {
+    culture = vietnamese
+    religion = secularism
+    size = 13340
+  }
 }
 #Vinh - Vinh (635000/158750 POPS)
 1376 = {
-	clergymen = {
-		culture = vietnamese
-		religion =  buddhist 
-		size = 2825
-	 } 
-	clergymen = {
-		culture = vietnamese
-		religion = secularism
-		size = 349
-	 } 
-	farmers = {
-		culture = vietnamese
-		religion =  buddhist 
-		size = 138461
-	 } 
-	farmers = {
-		culture = vietnamese
-		religion = secularism
-		size = 17113
-	 } 
+  clergymen = {
+    culture = vietnamese
+    religion =  buddhist
+    size = 2825
+  }
+  clergymen = {
+    culture = vietnamese
+    religion = secularism
+    size = 349
+  }
+  farmers = {
+    culture = vietnamese
+    religion =  buddhist
+    size = 138461
+  }
+  farmers = {
+    culture = vietnamese
+    religion = secularism
+    size = 17113
+  }
 }

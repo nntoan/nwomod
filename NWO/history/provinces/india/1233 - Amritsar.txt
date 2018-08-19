@@ -7,14 +7,14 @@ life_rating = 34
 terrain = floodplain_farmland
 colonial = 2
 1992.1.1 = {
-owner = HND
-controller = HND
-add_core = HND
-add_core = PNJ
-colonial = 0
-state_building = {
-	level = 1
-	building = wool_fabric_factory
-	upgrade = yes
-}
+  owner = HND
+  controller = HND
+  add_core = HND
+  add_core = PNJ
+  colonial = 0
+  state_building = {
+    level = 1
+    building = wool_fabric_factory
+    upgrade = yes
+  }
 }

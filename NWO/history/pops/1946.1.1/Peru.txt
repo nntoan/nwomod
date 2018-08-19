@@ -1,930 +1,930 @@
 #Iquitos - Iquitos (229000/57250 POPS)
 2286 = {
-	clergymen = {
-		culture = andean_spanish
-		religion =  catholic 
-		size = 1102
-	 } 
-	clergymen = {
-		culture = andean_spanish
-		religion = secularism
-		size = 42
-	 } 
-	farmers = {
-		culture = andean_spanish
-		religion =  catholic 
-		size = 26449
-	 } 
-	farmers = {
-		culture = andean_spanish
-		religion = secularism
-		size = 1030
-	 } 
-	farmers = {
-		culture = native_american_minor
-		religion =  catholic 
-		size = 27551
-	 } 
-	farmers = {
-		culture = native_american_minor
-		religion = secularism
-		size = 1073
-	 } 
+  clergymen = {
+    culture = andean_spanish
+    religion =  catholic
+    size = 1102
+  }
+  clergymen = {
+    culture = andean_spanish
+    religion = secularism
+    size = 42
+  }
+  farmers = {
+    culture = andean_spanish
+    religion =  catholic
+    size = 26449
+  }
+  farmers = {
+    culture = andean_spanish
+    religion = secularism
+    size = 1030
+  }
+  farmers = {
+    culture = native_american_minor
+    religion =  catholic
+    size = 27551
+  }
+  farmers = {
+    culture = native_american_minor
+    religion = secularism
+    size = 1073
+  }
 }
 #Yurimaguas - Yurimaguas (127000/31750 POPS)
 2287 = {
-	clergymen = {
-		culture = native_american_minor
-		religion =  catholic 
-		size = 611
-	 } 
-	clergymen = {
-		culture = native_american_minor
-		religion = secularism
-		size = 23
-	 } 
-	farmers = {
-		culture = native_american_minor
-		religion =  catholic 
-		size = 10084
-	 } 
-	farmers = {
-		culture = native_american_minor
-		religion = secularism
-		size = 392
-	 } 
-	farmers = {
-		culture = andean_spanish
-		religion =  catholic 
-		size = 19863
-	 } 
-	farmers = {
-		culture = andean_spanish
-		religion = secularism
-		size = 773
-	 } 
+  clergymen = {
+    culture = native_american_minor
+    religion =  catholic
+    size = 611
+  }
+  clergymen = {
+    culture = native_american_minor
+    religion = secularism
+    size = 23
+  }
+  farmers = {
+    culture = native_american_minor
+    religion =  catholic
+    size = 10084
+  }
+  farmers = {
+    culture = native_american_minor
+    religion = secularism
+    size = 392
+  }
+  farmers = {
+    culture = andean_spanish
+    religion =  catholic
+    size = 19863
+  }
+  farmers = {
+    culture = andean_spanish
+    religion = secularism
+    size = 773
+  }
 }
 #Yuncos - Yuncos (27000/6750 POPS)
 2288 = {
-	clergymen = {
-		culture = native_american_minor
-		religion =  catholic 
-		size = 129
-	 } 
-	clergymen = {
-		culture = native_american_minor
-		religion = secularism
-		size = 5
-	 } 
-	farmers = {
-		culture = native_american_minor
-		religion =  catholic 
-		size = 3118
-	 } 
-	farmers = {
-		culture = native_american_minor
-		religion = secularism
-		size = 121
-	 } 
-	farmers = {
-		culture = andean_spanish
-		religion =  catholic 
-		size = 3248
-	 } 
-	farmers = {
-		culture = andean_spanish
-		religion = secularism
-		size = 126
-	 } 
+  clergymen = {
+    culture = native_american_minor
+    religion =  catholic
+    size = 129
+  }
+  clergymen = {
+    culture = native_american_minor
+    religion = secularism
+    size = 5
+  }
+  farmers = {
+    culture = native_american_minor
+    religion =  catholic
+    size = 3118
+  }
+  farmers = {
+    culture = native_american_minor
+    religion = secularism
+    size = 121
+  }
+  farmers = {
+    culture = andean_spanish
+    religion =  catholic
+    size = 3248
+  }
+  farmers = {
+    culture = andean_spanish
+    religion = secularism
+    size = 126
+  }
 }
 #Puca Urco - Puca Urco (32000/8000 POPS)
 2289 = {
-	officers = {
-		culture = native_american_minor
-		religion =  catholic 
-		size = 383
-	 } 
-	officers = {
-		culture = native_american_minor
-		religion = secularism
-		size = 14
-	 } 
-	soldiers = {
-		culture = native_american_minor
-		religion =  catholic 
-		size = 3466
-	 } 
-	soldiers = {
-		culture = native_american_minor
-		religion = secularism
-		size = 135
-	 } 
-	soldiers = {
-		culture = andean_spanish
-		religion =  catholic 
-		size = 3817
-	 } 
-	soldiers = {
-		culture = andean_spanish
-		religion = secularism
-		size = 148
-	 } 
-	aristocrats = {
-		culture = andean_spanish
-		religion =  catholic 
-		size = 32
-	 } 
-	aristocrats = {
-		culture = andean_spanish
-		religion = secularism
-		size = 1
-	 } 
+  officers = {
+    culture = native_american_minor
+    religion =  catholic
+    size = 383
+  }
+  officers = {
+    culture = native_american_minor
+    religion = secularism
+    size = 14
+  }
+  soldiers = {
+    culture = native_american_minor
+    religion =  catholic
+    size = 3466
+  }
+  soldiers = {
+    culture = native_american_minor
+    religion = secularism
+    size = 135
+  }
+  soldiers = {
+    culture = andean_spanish
+    religion =  catholic
+    size = 3817
+  }
+  soldiers = {
+    culture = andean_spanish
+    religion = secularism
+    size = 148
+  }
+  aristocrats = {
+    culture = andean_spanish
+    religion =  catholic
+    size = 32
+  }
+  aristocrats = {
+    culture = andean_spanish
+    religion = secularism
+    size = 1
+  }
 }
 #Cajamarca - Cajamarca (444000/111000 POPS)
 2290 = {
-	clergymen = {
-		culture = quechua
-		religion =  catholic 
-		size = 2136
-	 } 
-	clergymen = {
-		culture = quechua
-		religion = secularism
-		size = 83
-	 } 
-	farmers = {
-		culture = quechua
-		religion =  catholic 
-		size = 40598
-	 } 
-	farmers = {
-		culture = quechua
-		religion = secularism
-		size = 1581
-	 } 
-	farmers = {
-		culture = andean_spanish
-		religion =  catholic 
-		size = 64102
-	 } 
-	farmers = {
-		culture = andean_spanish
-		religion = secularism
-		size = 2497
-	 } 
+  clergymen = {
+    culture = quechua
+    religion =  catholic
+    size = 2136
+  }
+  clergymen = {
+    culture = quechua
+    religion = secularism
+    size = 83
+  }
+  farmers = {
+    culture = quechua
+    religion =  catholic
+    size = 40598
+  }
+  farmers = {
+    culture = quechua
+    religion = secularism
+    size = 1581
+  }
+  farmers = {
+    culture = andean_spanish
+    religion =  catholic
+    size = 64102
+  }
+  farmers = {
+    culture = andean_spanish
+    religion = secularism
+    size = 2497
+  }
 }
 #Piura - Piura (596000/149000 POPS)
 2291 = {
-	clergymen = {
-		culture = andean_spanish
-		religion =  catholic 
-		size = 2868
-	 } 
-	clergymen = {
-		culture = andean_spanish
-		religion = secularism
-		size = 111
-	 } 
-	farmers = {
-		culture = andean_spanish
-		religion =  catholic 
-		size = 140544
-	 } 
-	farmers = {
-		culture = andean_spanish
-		religion = secularism
-		size = 5475
-	 } 
+  clergymen = {
+    culture = andean_spanish
+    religion =  catholic
+    size = 2868
+  }
+  clergymen = {
+    culture = andean_spanish
+    religion = secularism
+    size = 111
+  }
+  farmers = {
+    culture = andean_spanish
+    religion =  catholic
+    size = 140544
+  }
+  farmers = {
+    culture = andean_spanish
+    religion = secularism
+    size = 5475
+  }
 }
 #Trujillo - Trujillo (357000/89250 POPS)
 2292 = {
-	officers = {
-		culture = andean_spanish
-		religion =  catholic 
-		size = 1496
-	 } 
-	officers = {
-		culture = andean_spanish
-		religion = secularism
-		size = 58
-	 } 
-	soldiers = {
-		culture = andean_spanish
-		religion =  catholic 
-		size = 28445
-	 } 
-	soldiers = {
-		culture = andean_spanish
-		religion = secularism
-		size = 1108
-	 } 
-	aristocrats = {
-		culture = andean_spanish
-		religion =  catholic 
-		size = 3436
-	 } 
-	aristocrats = {
-		culture = andean_spanish
-		religion = secularism
-		size = 133
-	 } 
-	bureaucrats = {
-		culture = andean_spanish
-		religion =  catholic 
-		size = 85
-	 } 
-	bureaucrats = {
-		culture = andean_spanish
-		religion = secularism
-		size = 3
-	 } 
-	capitalists = {
-		culture = andean_spanish
-		religion =  catholic 
-		size = 429
-	 } 
-	capitalists = {
-		culture = andean_spanish
-		religion = secularism
-		size = 16
-	 } 
-	clergymen = {
-		culture = andean_spanish
-		religion =  catholic 
-		size = 1718
-	 } 
-	clergymen = {
-		culture = andean_spanish
-		religion = secularism
-		size = 66
-	 } 
-	clerks = {
-		culture = andean_spanish
-		religion =  catholic 
-		size = 982
-	 } 
-	clerks = {
-		culture = andean_spanish
-		religion = secularism
-		size = 38
-	 } 
-	artisans = {
-		culture = andean_spanish
-		religion =  catholic 
-		size = 932
-	 } 
-	artisans = {
-		culture = andean_spanish
-		religion = secularism
-		size = 36
-	 } 
-	craftsmen = {
-		culture = andean_spanish
-		religion =  catholic 
-		size = 2948
-	 } 
-	craftsmen = {
-		culture = andean_spanish
-		religion = secularism
-		size = 114
-	 } 
-	farmers = {
-		culture = andean_spanish
-		religion =  catholic 
-		size = 45428
-	 } 
-	farmers = {
-		culture = andean_spanish
-		religion = secularism
-		size = 1769
-	 } 
+  officers = {
+    culture = andean_spanish
+    religion =  catholic
+    size = 1496
+  }
+  officers = {
+    culture = andean_spanish
+    religion = secularism
+    size = 58
+  }
+  soldiers = {
+    culture = andean_spanish
+    religion =  catholic
+    size = 28445
+  }
+  soldiers = {
+    culture = andean_spanish
+    religion = secularism
+    size = 1108
+  }
+  aristocrats = {
+    culture = andean_spanish
+    religion =  catholic
+    size = 3436
+  }
+  aristocrats = {
+    culture = andean_spanish
+    religion = secularism
+    size = 133
+  }
+  bureaucrats = {
+    culture = andean_spanish
+    religion =  catholic
+    size = 85
+  }
+  bureaucrats = {
+    culture = andean_spanish
+    religion = secularism
+    size = 3
+  }
+  capitalists = {
+    culture = andean_spanish
+    religion =  catholic
+    size = 429
+  }
+  capitalists = {
+    culture = andean_spanish
+    religion = secularism
+    size = 16
+  }
+  clergymen = {
+    culture = andean_spanish
+    religion =  catholic
+    size = 1718
+  }
+  clergymen = {
+    culture = andean_spanish
+    religion = secularism
+    size = 66
+  }
+  clerks = {
+    culture = andean_spanish
+    religion =  catholic
+    size = 982
+  }
+  clerks = {
+    culture = andean_spanish
+    religion = secularism
+    size = 38
+  }
+  artisans = {
+    culture = andean_spanish
+    religion =  catholic
+    size = 932
+  }
+  artisans = {
+    culture = andean_spanish
+    religion = secularism
+    size = 36
+  }
+  craftsmen = {
+    culture = andean_spanish
+    religion =  catholic
+    size = 2948
+  }
+  craftsmen = {
+    culture = andean_spanish
+    religion = secularism
+    size = 114
+  }
+  farmers = {
+    culture = andean_spanish
+    religion =  catholic
+    size = 45428
+  }
+  farmers = {
+    culture = andean_spanish
+    religion = secularism
+    size = 1769
+  }
 }
 #Huanuco - Huanuco (238000/59500 POPS)
 2293 = {
-	clergymen = {
-		culture = quechua
-		religion =  catholic 
-		size = 1145
-	 } 
-	clergymen = {
-		culture = quechua
-		religion = secularism
-		size = 44
-	 } 
-	farmers = {
-		culture = quechua
-		religion =  catholic 
-		size = 50396
-	 } 
-	farmers = {
-		culture = quechua
-		religion = secularism
-		size = 1963
-	 } 
-	farmers = {
-		culture = andean_spanish
-		religion =  catholic 
-		size = 5726
-	 } 
-	farmers = {
-		culture = andean_spanish
-		religion = secularism
-		size = 223
-	 } 
+  clergymen = {
+    culture = quechua
+    religion =  catholic
+    size = 1145
+  }
+  clergymen = {
+    culture = quechua
+    religion = secularism
+    size = 44
+  }
+  farmers = {
+    culture = quechua
+    religion =  catholic
+    size = 50396
+  }
+  farmers = {
+    culture = quechua
+    religion = secularism
+    size = 1963
+  }
+  farmers = {
+    culture = andean_spanish
+    religion =  catholic
+    size = 5726
+  }
+  farmers = {
+    culture = andean_spanish
+    religion = secularism
+    size = 223
+  }
 }
 #Moyobamba - Moyobamba (218000/54500 POPS)
 2294 = {
-	clergymen = {
-		culture = andean_spanish
-		religion =  catholic 
-		size = 1049
-	 } 
-	clergymen = {
-		culture = andean_spanish
-		religion = secularism
-		size = 40
-	 } 
-	farmers = {
-		culture = andean_spanish
-		religion =  catholic 
-		size = 51407
-	 } 
-	farmers = {
-		culture = andean_spanish
-		religion = secularism
-		size = 2002
-	 } 
+  clergymen = {
+    culture = andean_spanish
+    religion =  catholic
+    size = 1049
+  }
+  clergymen = {
+    culture = andean_spanish
+    religion = secularism
+    size = 40
+  }
+  farmers = {
+    culture = andean_spanish
+    religion =  catholic
+    size = 51407
+  }
+  farmers = {
+    culture = andean_spanish
+    religion = secularism
+    size = 2002
+  }
 }
 #Lima - Lima (3038000/759500 POPS)
 2295 = {
-	officers = {
-		culture = andean_spanish
-		religion =  catholic 
-		size = 3352
-	 } 
-	officers = {
-		culture = andean_spanish
-		religion = secularism
-		size = 130
-	 } 
-	soldiers = {
-		culture = andean_spanish
-		religion =  catholic 
-		size = 63702
-	 } 
-	soldiers = {
-		culture = andean_spanish
-		religion = secularism
-		size = 2481
-	 } 
-	aristocrats = {
-		culture = andean_spanish
-		religion =  catholic 
-		size = 20667
-	 } 
-	aristocrats = {
-		culture = andean_spanish
-		religion = secularism
-		size = 805
-	 } 
-	aristocrats = {
-		culture = chinese
-		religion =  taoism 
-		size = 8572
-	 } 
-	aristocrats = {
-		culture = chinese
-		religion = secularism
-		size = 334
-	 } 
-	bureaucrats = {
-		culture = chinese
-		religion =  taoism 
-		size = 730
-	 } 
-	bureaucrats = {
-		culture = chinese
-		religion = secularism
-		size = 28
-	 } 
-	capitalists = {
-		culture = chinese
-		religion =  taoism 
-		size = 3654
-	 } 
-	capitalists = {
-		culture = chinese
-		religion = secularism
-		size = 142
-	 } 
-	clergymen = {
-		culture = chinese
-		religion =  taoism 
-		size = 8972
-	 } 
-	clergymen = {
-		culture = chinese
-		religion = secularism
-		size = 349
-	 } 
-	clergymen = {
-		culture = quechua
-		religion =  catholic 
-		size = 5647
-	 } 
-	clergymen = {
-		culture = quechua
-		religion = secularism
-		size = 220
-	 } 
-	clerks = {
-		culture = quechua
-		religion =  catholic 
-		size = 11658
-	 } 
-	clerks = {
-		culture = quechua
-		religion = secularism
-		size = 454
-	 } 
-	artisans = {
-		culture = quechua
-		religion =  catholic 
-		size = 11075
-	 } 
-	artisans = {
-		culture = quechua
-		religion = secularism
-		size = 431
-	 } 
-	craftsmen = {
-		culture = quechua
-		religion =  catholic 
-		size = 34976
-	 } 
-	craftsmen = {
-		culture = quechua
-		religion = secularism
-		size = 1362
-	 } 
-	farmers = {
-		culture = quechua
-		religion =  catholic 
-		size = 2433
-	 } 
-	farmers = {
-		culture = quechua
-		religion = secularism
-		size = 94
-	 } 
-	farmers = {
-		culture = andean_spanish
-		religion =  catholic 
-		size = 511713
-	 } 
-	farmers = {
-		culture = andean_spanish
-		religion = secularism
-		size = 19936
-	 } 
-	farmers = {
-		culture = afro_spanish
-		religion =  catholic 
-		size = 29240
-	 } 
-	farmers = {
-		culture = afro_spanish
-		religion = secularism
-		size = 1139
-	 } 
-	farmers = {
-		culture = japanese
-		religion =  shinto 
-		size = 14620
-	 } 
-	farmers = {
-		culture = japanese
-		religion = secularism
-		size = 569
-	 } 
+  officers = {
+    culture = andean_spanish
+    religion =  catholic
+    size = 3352
+  }
+  officers = {
+    culture = andean_spanish
+    religion = secularism
+    size = 130
+  }
+  soldiers = {
+    culture = andean_spanish
+    religion =  catholic
+    size = 63702
+  }
+  soldiers = {
+    culture = andean_spanish
+    religion = secularism
+    size = 2481
+  }
+  aristocrats = {
+    culture = andean_spanish
+    religion =  catholic
+    size = 20667
+  }
+  aristocrats = {
+    culture = andean_spanish
+    religion = secularism
+    size = 805
+  }
+  aristocrats = {
+    culture = chinese
+    religion =  taoism
+    size = 8572
+  }
+  aristocrats = {
+    culture = chinese
+    religion = secularism
+    size = 334
+  }
+  bureaucrats = {
+    culture = chinese
+    religion =  taoism
+    size = 730
+  }
+  bureaucrats = {
+    culture = chinese
+    religion = secularism
+    size = 28
+  }
+  capitalists = {
+    culture = chinese
+    religion =  taoism
+    size = 3654
+  }
+  capitalists = {
+    culture = chinese
+    religion = secularism
+    size = 142
+  }
+  clergymen = {
+    culture = chinese
+    religion =  taoism
+    size = 8972
+  }
+  clergymen = {
+    culture = chinese
+    religion = secularism
+    size = 349
+  }
+  clergymen = {
+    culture = quechua
+    religion =  catholic
+    size = 5647
+  }
+  clergymen = {
+    culture = quechua
+    religion = secularism
+    size = 220
+  }
+  clerks = {
+    culture = quechua
+    religion =  catholic
+    size = 11658
+  }
+  clerks = {
+    culture = quechua
+    religion = secularism
+    size = 454
+  }
+  artisans = {
+    culture = quechua
+    religion =  catholic
+    size = 11075
+  }
+  artisans = {
+    culture = quechua
+    religion = secularism
+    size = 431
+  }
+  craftsmen = {
+    culture = quechua
+    religion =  catholic
+    size = 34976
+  }
+  craftsmen = {
+    culture = quechua
+    religion = secularism
+    size = 1362
+  }
+  farmers = {
+    culture = quechua
+    religion =  catholic
+    size = 2433
+  }
+  farmers = {
+    culture = quechua
+    religion = secularism
+    size = 94
+  }
+  farmers = {
+    culture = andean_spanish
+    religion =  catholic
+    size = 511713
+  }
+  farmers = {
+    culture = andean_spanish
+    religion = secularism
+    size = 19936
+  }
+  farmers = {
+    culture = afro_spanish
+    religion =  catholic
+    size = 29240
+  }
+  farmers = {
+    culture = afro_spanish
+    religion = secularism
+    size = 1139
+  }
+  farmers = {
+    culture = japanese
+    religion =  shinto
+    size = 14620
+  }
+  farmers = {
+    culture = japanese
+    religion = secularism
+    size = 569
+  }
 }
 #Huancavelica - Huancavelica (146000/36500 POPS)
 2296 = {
-	clergymen = {
-		culture = quechua
-		religion =  catholic 
-		size = 702
-	 } 
-	clergymen = {
-		culture = quechua
-		religion = secularism
-		size = 27
-	 } 
-	farmers = {
-		culture = quechua
-		religion =  catholic 
-		size = 30915
-	 } 
-	farmers = {
-		culture = quechua
-		religion = secularism
-		size = 1204
-	 } 
-	farmers = {
-		culture = andean_spanish
-		religion =  catholic 
-		size = 3513
-	 } 
-	farmers = {
-		culture = andean_spanish
-		religion = secularism
-		size = 136
-	 } 
+  clergymen = {
+    culture = quechua
+    religion =  catholic
+    size = 702
+  }
+  clergymen = {
+    culture = quechua
+    religion = secularism
+    size = 27
+  }
+  farmers = {
+    culture = quechua
+    religion =  catholic
+    size = 30915
+  }
+  farmers = {
+    culture = quechua
+    religion = secularism
+    size = 1204
+  }
+  farmers = {
+    culture = andean_spanish
+    religion =  catholic
+    size = 3513
+  }
+  farmers = {
+    culture = andean_spanish
+    religion = secularism
+    size = 136
+  }
 }
 #Ica - Ica (217000/54250 POPS)
 2297 = {
-	clergymen = {
-		culture = quechua
-		religion =  catholic 
-		size = 1044
-	 } 
-	clergymen = {
-		culture = quechua
-		religion = secularism
-		size = 40
-	 } 
-	farmers = {
-		culture = quechua
-		religion =  catholic 
-		size = 12009
-	 } 
-	farmers = {
-		culture = quechua
-		religion = secularism
-		size = 467
-	 } 
-	farmers = {
-		culture = andean_spanish
-		religion =  catholic 
-		size = 39161
-	 } 
-	farmers = {
-		culture = andean_spanish
-		religion = secularism
-		size = 1525
-	 } 
+  clergymen = {
+    culture = quechua
+    religion =  catholic
+    size = 1044
+  }
+  clergymen = {
+    culture = quechua
+    religion = secularism
+    size = 40
+  }
+  farmers = {
+    culture = quechua
+    religion =  catholic
+    size = 12009
+  }
+  farmers = {
+    culture = quechua
+    religion = secularism
+    size = 467
+  }
+  farmers = {
+    culture = andean_spanish
+    religion =  catholic
+    size = 39161
+  }
+  farmers = {
+    culture = andean_spanish
+    religion = secularism
+    size = 1525
+  }
 }
 #Huaraz - Huaraz (340000/85000 POPS)
 2298 = {
-	clergymen = {
-		culture = quechua
-		religion =  catholic 
-		size = 1636
-	 } 
-	clergymen = {
-		culture = quechua
-		religion = secularism
-		size = 63
-	 } 
-	farmers = {
-		culture = quechua
-		religion =  catholic 
-		size = 18816
-	 } 
-	farmers = {
-		culture = quechua
-		religion = secularism
-		size = 733
-	 } 
-	farmers = {
-		culture = andean_spanish
-		religion =  catholic 
-		size = 61359
-	 } 
-	farmers = {
-		culture = andean_spanish
-		religion = secularism
-		size = 2390
-	 } 
+  clergymen = {
+    culture = quechua
+    religion =  catholic
+    size = 1636
+  }
+  clergymen = {
+    culture = quechua
+    religion = secularism
+    size = 63
+  }
+  farmers = {
+    culture = quechua
+    religion =  catholic
+    size = 18816
+  }
+  farmers = {
+    culture = quechua
+    religion = secularism
+    size = 733
+  }
+  farmers = {
+    culture = andean_spanish
+    religion =  catholic
+    size = 61359
+  }
+  farmers = {
+    culture = andean_spanish
+    religion = secularism
+    size = 2390
+  }
 }
 #Ayacucho - Ayacucho (202000/50500 POPS)
 2299 = {
-	clergymen = {
-		culture = quechua
-		religion =  catholic 
-		size = 972
-	 } 
-	clergymen = {
-		culture = quechua
-		religion = secularism
-		size = 37
-	 } 
-	farmers = {
-		culture = quechua
-		religion =  catholic 
-		size = 45203
-	 } 
-	farmers = {
-		culture = quechua
-		religion = secularism
-		size = 1761
-	 } 
-	farmers = {
-		culture = andean_spanish
-		religion =  catholic 
-		size = 2430
-	 } 
-	farmers = {
-		culture = andean_spanish
-		religion = secularism
-		size = 94
-	 } 
+  clergymen = {
+    culture = quechua
+    religion =  catholic
+    size = 972
+  }
+  clergymen = {
+    culture = quechua
+    religion = secularism
+    size = 37
+  }
+  farmers = {
+    culture = quechua
+    religion =  catholic
+    size = 45203
+  }
+  farmers = {
+    culture = quechua
+    religion = secularism
+    size = 1761
+  }
+  farmers = {
+    culture = andean_spanish
+    religion =  catholic
+    size = 2430
+  }
+  farmers = {
+    culture = andean_spanish
+    religion = secularism
+    size = 94
+  }
 }
 #Pucallpa - Pucallpa (131000/32750 POPS)
 2300 = {
-	clergymen = {
-		culture = native_american_minor
-		religion =  catholic 
-		size = 630
-	 } 
-	clergymen = {
-		culture = native_american_minor
-		religion = secularism
-		size = 24
-	 } 
-	farmers = {
-		culture = native_american_minor
-		religion =  catholic 
-		size = 16075
-	 } 
-	farmers = {
-		culture = native_american_minor
-		religion = secularism
-		size = 626
-	 } 
-	farmers = {
-		culture = andean_spanish
-		religion =  catholic 
-		size = 14814
-	 } 
-	farmers = {
-		culture = andean_spanish
-		religion = secularism
-		size = 577
-	 } 
+  clergymen = {
+    culture = native_american_minor
+    religion =  catholic
+    size = 630
+  }
+  clergymen = {
+    culture = native_american_minor
+    religion = secularism
+    size = 24
+  }
+  farmers = {
+    culture = native_american_minor
+    religion =  catholic
+    size = 16075
+  }
+  farmers = {
+    culture = native_american_minor
+    religion = secularism
+    size = 626
+  }
+  farmers = {
+    culture = andean_spanish
+    religion =  catholic
+    size = 14814
+  }
+  farmers = {
+    culture = andean_spanish
+    religion = secularism
+    size = 577
+  }
 }
 #Puerto Maldonado - Puerto Maldonado (30000/7500 POPS)
 2301 = {
-	clergymen = {
-		culture = native_american_minor
-		religion =  catholic 
-		size = 144
-	 } 
-	clergymen = {
-		culture = native_american_minor
-		religion = secularism
-		size = 5
-	 } 
-	farmers = {
-		culture = native_american_minor
-		religion =  catholic 
-		size = 3465
-	 } 
-	farmers = {
-		culture = native_american_minor
-		religion = secularism
-		size = 135
-	 } 
-	farmers = {
-		culture = andean_spanish
-		religion =  catholic 
-		size = 3609
-	 } 
-	farmers = {
-		culture = andean_spanish
-		religion = secularism
-		size = 140
-	 } 
+  clergymen = {
+    culture = native_american_minor
+    religion =  catholic
+    size = 144
+  }
+  clergymen = {
+    culture = native_american_minor
+    religion = secularism
+    size = 5
+  }
+  farmers = {
+    culture = native_american_minor
+    religion =  catholic
+    size = 3465
+  }
+  farmers = {
+    culture = native_american_minor
+    religion = secularism
+    size = 135
+  }
+  farmers = {
+    culture = andean_spanish
+    religion =  catholic
+    size = 3609
+  }
+  farmers = {
+    culture = andean_spanish
+    religion = secularism
+    size = 140
+  }
 }
 #Cusco - Cusco (383000/95750 POPS)
 2302 = {
-	clergymen = {
-		culture = quechua
-		religion =  catholic 
-		size = 1843
-	 } 
-	clergymen = {
-		culture = quechua
-		religion = secularism
-		size = 71
-	 } 
-	farmers = {
-		culture = quechua
-		religion =  catholic 
-		size = 81100
-	 } 
-	farmers = {
-		culture = quechua
-		religion = secularism
-		size = 3159
-	 } 
-	farmers = {
-		culture = andean_spanish
-		religion =  catholic 
-		size = 9215
-	 } 
-	farmers = {
-		culture = andean_spanish
-		religion = secularism
-		size = 359
-	 } 
+  clergymen = {
+    culture = quechua
+    religion =  catholic
+    size = 1843
+  }
+  clergymen = {
+    culture = quechua
+    religion = secularism
+    size = 71
+  }
+  farmers = {
+    culture = quechua
+    religion =  catholic
+    size = 81100
+  }
+  farmers = {
+    culture = quechua
+    religion = secularism
+    size = 3159
+  }
+  farmers = {
+    culture = andean_spanish
+    religion =  catholic
+    size = 9215
+  }
+  farmers = {
+    culture = andean_spanish
+    religion = secularism
+    size = 359
+  }
 }
 #Puno - Puno (407000/101750 POPS)
 2303 = {
-	clergymen = {
-		culture = aimara
-		religion =  catholic 
-		size = 1958
-	 } 
-	clergymen = {
-		culture = aimara
-		religion = secularism
-		size = 76
-	 } 
-	farmers = {
-		culture = aimara
-		religion =  catholic 
-		size = 37215
-	 } 
-	farmers = {
-		culture = aimara
-		religion = secularism
-		size = 1449
-	 } 
-	farmers = {
-		culture = quechua
-		religion =  catholic 
-		size = 44069
-	 } 
-	farmers = {
-		culture = quechua
-		religion = secularism
-		size = 1717
-	 } 
-	farmers = {
-		culture = andean_spanish
-		religion =  catholic 
-		size = 14689
-	 } 
-	farmers = {
-		culture = andean_spanish
-		religion = secularism
-		size = 572
-	 } 
+  clergymen = {
+    culture = aimara
+    religion =  catholic
+    size = 1958
+  }
+  clergymen = {
+    culture = aimara
+    religion = secularism
+    size = 76
+  }
+  farmers = {
+    culture = aimara
+    religion =  catholic
+    size = 37215
+  }
+  farmers = {
+    culture = aimara
+    religion = secularism
+    size = 1449
+  }
+  farmers = {
+    culture = quechua
+    religion =  catholic
+    size = 44069
+  }
+  farmers = {
+    culture = quechua
+    religion = secularism
+    size = 1717
+  }
+  farmers = {
+    culture = andean_spanish
+    religion =  catholic
+    size = 14689
+  }
+  farmers = {
+    culture = andean_spanish
+    religion = secularism
+    size = 572
+  }
 }
 #Arequipa - Arequipa (373000/93250 POPS)
 2304 = {
-	officers = {
-		culture = quechua
-		religion =  catholic 
-		size = 1251
-	 } 
-	officers = {
-		culture = quechua
-		religion = secularism
-		size = 48
-	 } 
-	soldiers = {
-		culture = quechua
-		religion =  catholic 
-		size = 21186
-	 } 
-	soldiers = {
-		culture = quechua
-		religion = secularism
-		size = 825
-	 } 
-	soldiers = {
-		culture = andean_spanish
-		religion =  catholic 
-		size = 2589
-	 } 
-	soldiers = {
-		culture = andean_spanish
-		religion = secularism
-		size = 100
-	 } 
-	aristocrats = {
-		culture = andean_spanish
-		religion =  catholic 
-		size = 3590
-	 } 
-	aristocrats = {
-		culture = andean_spanish
-		religion = secularism
-		size = 139
-	 } 
-	bureaucrats = {
-		culture = andean_spanish
-		religion =  catholic 
-		size = 89
-	 } 
-	bureaucrats = {
-		culture = andean_spanish
-		religion = secularism
-		size = 3
-	 } 
-	capitalists = {
-		culture = andean_spanish
-		religion =  catholic 
-		size = 448
-	 } 
-	capitalists = {
-		culture = andean_spanish
-		religion = secularism
-		size = 17
-	 } 
-	clergymen = {
-		culture = andean_spanish
-		religion =  catholic 
-		size = 1795
-	 } 
-	clergymen = {
-		culture = andean_spanish
-		religion = secularism
-		size = 69
-	 } 
-	clerks = {
-		culture = andean_spanish
-		religion =  catholic 
-		size = 1135
-	 } 
-	clerks = {
-		culture = andean_spanish
-		religion = secularism
-		size = 44
-	 } 
-	artisans = {
-		culture = andean_spanish
-		religion =  catholic 
-		size = 1078
-	 } 
-	artisans = {
-		culture = andean_spanish
-		religion = secularism
-		size = 42
-	 } 
-	craftsmen = {
-		culture = andean_spanish
-		religion =  catholic 
-		size = 3409
-	 } 
-	craftsmen = {
-		culture = andean_spanish
-		religion = secularism
-		size = 132
-	 } 
-	farmers = {
-		culture = andean_spanish
-		religion =  catholic 
-		size = 53178
-	 } 
-	farmers = {
-		culture = andean_spanish
-		religion = secularism
-		size = 2071
-	 } 
+  officers = {
+    culture = quechua
+    religion =  catholic
+    size = 1251
+  }
+  officers = {
+    culture = quechua
+    religion = secularism
+    size = 48
+  }
+  soldiers = {
+    culture = quechua
+    religion =  catholic
+    size = 21186
+  }
+  soldiers = {
+    culture = quechua
+    religion = secularism
+    size = 825
+  }
+  soldiers = {
+    culture = andean_spanish
+    religion =  catholic
+    size = 2589
+  }
+  soldiers = {
+    culture = andean_spanish
+    religion = secularism
+    size = 100
+  }
+  aristocrats = {
+    culture = andean_spanish
+    religion =  catholic
+    size = 3590
+  }
+  aristocrats = {
+    culture = andean_spanish
+    religion = secularism
+    size = 139
+  }
+  bureaucrats = {
+    culture = andean_spanish
+    religion =  catholic
+    size = 89
+  }
+  bureaucrats = {
+    culture = andean_spanish
+    religion = secularism
+    size = 3
+  }
+  capitalists = {
+    culture = andean_spanish
+    religion =  catholic
+    size = 448
+  }
+  capitalists = {
+    culture = andean_spanish
+    religion = secularism
+    size = 17
+  }
+  clergymen = {
+    culture = andean_spanish
+    religion =  catholic
+    size = 1795
+  }
+  clergymen = {
+    culture = andean_spanish
+    religion = secularism
+    size = 69
+  }
+  clerks = {
+    culture = andean_spanish
+    religion =  catholic
+    size = 1135
+  }
+  clerks = {
+    culture = andean_spanish
+    religion = secularism
+    size = 44
+  }
+  artisans = {
+    culture = andean_spanish
+    religion =  catholic
+    size = 1078
+  }
+  artisans = {
+    culture = andean_spanish
+    religion = secularism
+    size = 42
+  }
+  craftsmen = {
+    culture = andean_spanish
+    religion =  catholic
+    size = 3409
+  }
+  craftsmen = {
+    culture = andean_spanish
+    religion = secularism
+    size = 132
+  }
+  farmers = {
+    culture = andean_spanish
+    religion =  catholic
+    size = 53178
+  }
+  farmers = {
+    culture = andean_spanish
+    religion = secularism
+    size = 2071
+  }
 }
 #Tacna - Tacna (89000/22250 POPS)
 2578 = {
-	clergymen = {
-		culture = aimara
-		religion =  catholic 
-		size = 428
-	 } 
-	clergymen = {
-		culture = aimara
-		religion = secularism
-		size = 16
-	 } 
-	farmers = {
-		culture = aimara
-		religion =  catholic 
-		size = 10279
-	 } 
-	farmers = {
-		culture = aimara
-		religion = secularism
-		size = 400
-	 } 
-	farmers = {
-		culture = andean_spanish
-		religion =  catholic 
-		size = 10707
-	 } 
-	farmers = {
-		culture = andean_spanish
-		religion = secularism
-		size = 417
-	 } 
+  clergymen = {
+    culture = aimara
+    religion =  catholic
+    size = 428
+  }
+  clergymen = {
+    culture = aimara
+    religion = secularism
+    size = 16
+  }
+  farmers = {
+    culture = aimara
+    religion =  catholic
+    size = 10279
+  }
+  farmers = {
+    culture = aimara
+    religion = secularism
+    size = 400
+  }
+  farmers = {
+    culture = andean_spanish
+    religion =  catholic
+    size = 10707
+  }
+  farmers = {
+    culture = andean_spanish
+    religion = secularism
+    size = 417
+  }
 }

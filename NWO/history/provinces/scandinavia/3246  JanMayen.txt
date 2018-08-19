@@ -6,8 +6,8 @@ life_rating = 20
 terrain = tundra_mountains
 colonial = 2
 1992.1.1 = {
-owner = DEN
-controller = DEN
-add_core = GRN
-colonial = 2
+  owner = DEN
+  controller = DEN
+  add_core = GRN
+  colonial = 2
 }

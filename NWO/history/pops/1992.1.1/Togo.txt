@@ -1,179 +1,179 @@
 #Lome - Lome (1812000/453000 POPS)
 1914 = {
-	officers = {
-		culture = french_african
-		religion =  catholic 
-		size = 262
-	 } 
-	officers = {
-		culture = french_african
-		religion = secularism
-		size = 39
-	 } 
-	soldiers = {
-		culture = french_african
-		religion =  catholic 
-		size = 5003
-	 } 
-	soldiers = {
-		culture = french_african
-		religion = secularism
-		size = 747
-	 } 
-	aristocrats = {
-		culture = french_african
-		religion =  catholic 
-		size = 2616
-	 } 
-	aristocrats = {
-		culture = french_african
-		religion = secularism
-		size = 390
-	 } 
-	aristocrats = {
-		culture = ewe
-		religion =  catholic 
-		size = 13148
-	 } 
-	aristocrats = {
-		culture = ewe
-		religion = secularism
-		size = 1964
-	 } 
-	bureaucrats = {
-		culture = ewe
-		religion =  catholic 
-		size = 394
-	 } 
-	bureaucrats = {
-		culture = ewe
-		religion = secularism
-		size = 58
-	 } 
-	capitalists = {
-		culture = ewe
-		religion =  catholic 
-		size = 1970
-	 } 
-	capitalists = {
-		culture = ewe
-		religion = secularism
-		size = 294
-	 } 
-	clergymen = {
-		culture = ewe
-		religion =  catholic 
-		size = 7882
-	 } 
-	clergymen = {
-		culture = ewe
-		religion = secularism
-		size = 1177
-	 } 
-	clerks = {
-		culture = ewe
-		religion =  catholic 
-		size = 5520
-	 } 
-	clerks = {
-		culture = ewe
-		religion = secularism
-		size = 824
-	 } 
-	artisans = {
-		culture = ewe
-		religion =  catholic 
-		size = 5243
-	 } 
-	artisans = {
-		culture = ewe
-		religion = secularism
-		size = 783
-	 } 
-	craftsmen = {
-		culture = ewe
-		religion =  catholic 
-		size = 16560
-	 } 
-	craftsmen = {
-		culture = ewe
-		religion = secularism
-		size = 2474
-	 } 
-	farmers = {
-		culture = ewe
-		religion =  catholic 
-		size = 189687
-	 } 
-	farmers = {
-		culture = ewe
-		religion = secularism
-		size = 28344
-	 } 
-	farmers = {
-		culture = african_minor
-		religion =  animist 
-		size = 145820
-	 } 
-	farmers = {
-		culture = african_minor
-		religion = secularism
-		size = 21789
-	 } 
+  officers = {
+    culture = french_african
+    religion =  catholic
+    size = 262
+  }
+  officers = {
+    culture = french_african
+    religion = secularism
+    size = 39
+  }
+  soldiers = {
+    culture = french_african
+    religion =  catholic
+    size = 5003
+  }
+  soldiers = {
+    culture = french_african
+    religion = secularism
+    size = 747
+  }
+  aristocrats = {
+    culture = french_african
+    religion =  catholic
+    size = 2616
+  }
+  aristocrats = {
+    culture = french_african
+    religion = secularism
+    size = 390
+  }
+  aristocrats = {
+    culture = ewe
+    religion =  catholic
+    size = 13148
+  }
+  aristocrats = {
+    culture = ewe
+    religion = secularism
+    size = 1964
+  }
+  bureaucrats = {
+    culture = ewe
+    religion =  catholic
+    size = 394
+  }
+  bureaucrats = {
+    culture = ewe
+    religion = secularism
+    size = 58
+  }
+  capitalists = {
+    culture = ewe
+    religion =  catholic
+    size = 1970
+  }
+  capitalists = {
+    culture = ewe
+    religion = secularism
+    size = 294
+  }
+  clergymen = {
+    culture = ewe
+    religion =  catholic
+    size = 7882
+  }
+  clergymen = {
+    culture = ewe
+    religion = secularism
+    size = 1177
+  }
+  clerks = {
+    culture = ewe
+    religion =  catholic
+    size = 5520
+  }
+  clerks = {
+    culture = ewe
+    religion = secularism
+    size = 824
+  }
+  artisans = {
+    culture = ewe
+    religion =  catholic
+    size = 5243
+  }
+  artisans = {
+    culture = ewe
+    religion = secularism
+    size = 783
+  }
+  craftsmen = {
+    culture = ewe
+    religion =  catholic
+    size = 16560
+  }
+  craftsmen = {
+    culture = ewe
+    religion = secularism
+    size = 2474
+  }
+  farmers = {
+    culture = ewe
+    religion =  catholic
+    size = 189687
+  }
+  farmers = {
+    culture = ewe
+    religion = secularism
+    size = 28344
+  }
+  farmers = {
+    culture = african_minor
+    religion =  animist
+    size = 145820
+  }
+  farmers = {
+    culture = african_minor
+    religion = secularism
+    size = 21789
+  }
 }
 #Atakpane - Atakpane (958000/239500 POPS)
 1917 = {
-	clergymen = {
-		culture = kabye
-		religion =  animist 
-		size = 4167
-	 } 
-	clergymen = {
-		culture = kabye
-		religion = secularism
-		size = 622
-	 } 
-	farmers = {
-		culture = kabye
-		religion =  animist 
-		size = 172942
-	 } 
-	farmers = {
-		culture = kabye
-		religion = secularism
-		size = 25842
-	 } 
-	farmers = {
-		culture = african_minor
-		religion =  animist 
-		size = 31254
-	 } 
-	farmers = {
-		culture = african_minor
-		religion = secularism
-		size = 4670
-	 } 
+  clergymen = {
+    culture = kabye
+    religion =  animist
+    size = 4167
+  }
+  clergymen = {
+    culture = kabye
+    religion = secularism
+    size = 622
+  }
+  farmers = {
+    culture = kabye
+    religion =  animist
+    size = 172942
+  }
+  farmers = {
+    culture = kabye
+    religion = secularism
+    size = 25842
+  }
+  farmers = {
+    culture = african_minor
+    religion =  animist
+    size = 31254
+  }
+  farmers = {
+    culture = african_minor
+    religion = secularism
+    size = 4670
+  }
 }
 #Sokode - Sokode (950000/237500 POPS)
 1918 = {
-	clergymen = {
-		culture = black_muslim
-		religion =  sunni 
-		size = 4750
-	 } 
-	farmers = {
-		culture = black_muslim
-		religion =  sunni 
-		size = 180500
-	 } 
-	farmers = {
-		culture = african_minor
-		religion =  catholic 
-		size = 45457
-	 } 
-	farmers = {
-		culture = african_minor
-		religion = secularism
-		size = 6792
-	 } 
+  clergymen = {
+    culture = black_muslim
+    religion =  sunni
+    size = 4750
+  }
+  farmers = {
+    culture = black_muslim
+    religion =  sunni
+    size = 180500
+  }
+  farmers = {
+    culture = african_minor
+    religion =  catholic
+    size = 45457
+  }
+  farmers = {
+    culture = african_minor
+    religion = secularism
+    size = 6792
+  }
 }

@@ -1,101 +1,101 @@
 #Gilbert Islands - Gilbert Islands (69000/17250 POPS)
 2527 = {
-	aristocrats = {
-		culture = micronesian
-		religion =  protestant 
-		size = 565
-	 } 
-	aristocrats = {
-		culture = micronesian
-		religion = secularism
-		size = 124
-	 } 
-	bureaucrats = {
-		culture = micronesian
-		religion =  protestant 
-		size = 27
-	 } 
-	bureaucrats = {
-		culture = micronesian
-		religion = secularism
-		size = 6
-	 } 
-	capitalists = {
-		culture = micronesian
-		religion =  protestant 
-		size = 70
-	 } 
-	capitalists = {
-		culture = micronesian
-		religion = secularism
-		size = 15
-	 } 
-	clergymen = {
-		culture = micronesian
-		religion =  protestant 
-		size = 282
-	 } 
-	clergymen = {
-		culture = micronesian
-		religion = secularism
-		size = 62
-	 } 
-	clerks = {
-		culture = micronesian
-		religion =  protestant 
-		size = 231
-	 } 
-	clerks = {
-		culture = micronesian
-		religion = secularism
-		size = 50
-	 } 
-	artisans = {
-		culture = micronesian
-		religion =  protestant 
-		size = 219
-	 } 
-	artisans = {
-		culture = micronesian
-		religion = secularism
-		size = 48
-	 } 
-	craftsmen = {
-		culture = micronesian
-		religion =  protestant 
-		size = 694
-	 } 
-	craftsmen = {
-		culture = micronesian
-		religion = secularism
-		size = 152
-	 } 
-	farmers = {
-		culture = micronesian
-		religion =  protestant 
-		size = 12052
-	 } 
-	farmers = {
-		culture = micronesian
-		religion = secularism
-		size = 2645
-	 } 
+  aristocrats = {
+    culture = micronesian
+    religion =  protestant
+    size = 565
+  }
+  aristocrats = {
+    culture = micronesian
+    religion = secularism
+    size = 124
+  }
+  bureaucrats = {
+    culture = micronesian
+    religion =  protestant
+    size = 27
+  }
+  bureaucrats = {
+    culture = micronesian
+    religion = secularism
+    size = 6
+  }
+  capitalists = {
+    culture = micronesian
+    religion =  protestant
+    size = 70
+  }
+  capitalists = {
+    culture = micronesian
+    religion = secularism
+    size = 15
+  }
+  clergymen = {
+    culture = micronesian
+    religion =  protestant
+    size = 282
+  }
+  clergymen = {
+    culture = micronesian
+    religion = secularism
+    size = 62
+  }
+  clerks = {
+    culture = micronesian
+    religion =  protestant
+    size = 231
+  }
+  clerks = {
+    culture = micronesian
+    religion = secularism
+    size = 50
+  }
+  artisans = {
+    culture = micronesian
+    religion =  protestant
+    size = 219
+  }
+  artisans = {
+    culture = micronesian
+    religion = secularism
+    size = 48
+  }
+  craftsmen = {
+    culture = micronesian
+    religion =  protestant
+    size = 694
+  }
+  craftsmen = {
+    culture = micronesian
+    religion = secularism
+    size = 152
+  }
+  farmers = {
+    culture = micronesian
+    religion =  protestant
+    size = 12052
+  }
+  farmers = {
+    culture = micronesian
+    religion = secularism
+    size = 2645
+  }
 }
 #Line Islands - Line Islands (1000/250 POPS)
 686 = {
-	clergymen = {
-		culture = micronesian
-		religion =  protestant 
-		size = 4
-	 } 
-	farmers = {
-		culture = micronesian
-		religion =  protestant 
-		size = 200
-	 } 
-	farmers = {
-		culture = micronesian
-		religion = secularism
-		size = 44
-	 } 
+  clergymen = {
+    culture = micronesian
+    religion =  protestant
+    size = 4
+  }
+  farmers = {
+    culture = micronesian
+    religion =  protestant
+    size = 200
+  }
+  farmers = {
+    culture = micronesian
+    religion = secularism
+    size = 44
+  }
 }

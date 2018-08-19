@@ -4,7 +4,7 @@
 # Order in here matters for selection priority if icons are overlapping,
 # so leave bases on top
 
-# 
+#
 # cost = x #==> extra construction cost (added to goods cost estimations)
 # time = x #==> number of days to build.
 #
@@ -13,180 +13,180 @@
 # BUILDING MATERIALS
 #
 petrochemicals_factory = {
-	type = factory
-	on_completion = factory
-	completion_size = 0.2
-	max_level = 255
-	cost = 0
-	goods_cost = 
-	{
-		cement = 60 
-		machine_parts = 80 
-		coal = 125 
-	}
-	time = 365
-	visibility = yes
-	onmap = no
+  type = factory
+  on_completion = factory
+  completion_size = 0.2
+  max_level = 255
+  cost = 0
+  goods_cost =
+  {
+    cement = 60
+    machine_parts = 80
+    coal = 125
+  }
+  time = 365
+  visibility = yes
+  onmap = no
 
-	production_type = petrochemicals_factory
-	pop_build_factory = yes
+  production_type = petrochemicals_factory
+  pop_build_factory = yes
 }
 
 machine_parts_factory = {
-	type = factory
-	on_completion = factory
-	completion_size = 0.2
-	max_level = 255
-	cost = 0
-	goods_cost = 
-	{
-		cement = 60 
-		iron = 80 
-		petrochemicals = 125 
-	}
-	time = 365
-	visibility = yes
-	onmap = no
+  type = factory
+  on_completion = factory
+  completion_size = 0.2
+  max_level = 255
+  cost = 0
+  goods_cost =
+  {
+    cement = 60
+    iron = 80
+    petrochemicals = 125
+  }
+  time = 365
+  visibility = yes
+  onmap = no
 
-	production_type = machine_parts_factory
-	pop_build_factory = yes
+  production_type = machine_parts_factory
+  pop_build_factory = yes
 }
 
 modern_machine_parts_factory = {
-	type = factory
-	on_completion = factory
-	completion_size = 0.2
-	max_level = 255
-	cost = 0
-	goods_cost = 
-	{
-		cement = 60 
-		iron = 80 
-		petrochemicals = 125 
-	}
-	time = 365
-	visibility = yes
-	onmap = no
+  type = factory
+  on_completion = factory
+  completion_size = 0.2
+  max_level = 255
+  cost = 0
+  goods_cost =
+  {
+    cement = 60
+    iron = 80
+    petrochemicals = 125
+  }
+  time = 365
+  visibility = yes
+  onmap = no
 
-	production_type = modern_machine_parts_factory
-	pop_build_factory = yes
+  production_type = modern_machine_parts_factory
+  pop_build_factory = yes
 }
 
 cement_factory = {
-	type = factory
-	on_completion = factory
-	completion_size = 0.2
-	max_level = 255
-	cost = 0
-	goods_cost = 
-	{
-		coal = 60 
-		machine_parts = 80 
-		petrochemicals = 125 
-	}
-	time = 365
-	visibility = yes
-	onmap = no
+  type = factory
+  on_completion = factory
+  completion_size = 0.2
+  max_level = 255
+  cost = 0
+  goods_cost =
+  {
+    coal = 60
+    machine_parts = 80
+    petrochemicals = 125
+  }
+  time = 365
+  visibility = yes
+  onmap = no
 
-	production_type = cement_factory
-	pop_build_factory = yes
+  production_type = cement_factory
+  pop_build_factory = yes
 }
 
 fertilizers_factory = {
-	type = factory
-	on_completion = factory
-	completion_size = 0.2
-	max_level = 255
-	cost = 0
-	goods_cost = 
-	{
-		cement = 60 
-		machine_parts = 80 
-		petrochemicals = 125 
-	}
-	time = 365
-	visibility = yes
-	onmap = no
+  type = factory
+  on_completion = factory
+  completion_size = 0.2
+  max_level = 255
+  cost = 0
+  goods_cost =
+  {
+    cement = 60
+    machine_parts = 80
+    petrochemicals = 125
+  }
+  time = 365
+  visibility = yes
+  onmap = no
 
-	production_type = fertilizers_factory
-	pop_build_factory = yes
+  production_type = fertilizers_factory
+  pop_build_factory = yes
 }
 
 fabric_factory = {
-	type = factory
-	on_completion = factory
-	completion_size = 0.2
-	max_level = 255
-	cost = 0
-	goods_cost = 
-	{
-		cement = 60 
-		machine_parts = 80 
-		petrochemicals = 125 
-	}
-	time = 365
-	visibility = yes
-	onmap = no
+  type = factory
+  on_completion = factory
+  completion_size = 0.2
+  max_level = 255
+  cost = 0
+  goods_cost =
+  {
+    cement = 60
+    machine_parts = 80
+    petrochemicals = 125
+  }
+  time = 365
+  visibility = yes
+  onmap = no
 
-	production_type = fabric_factory
-	pop_build_factory = yes
+  production_type = fabric_factory
+  pop_build_factory = yes
 }
 wool_fabric_factory = {
-	type = factory
-	on_completion = factory
-	completion_size = 0.2
-	max_level = 255
-	cost = 0
-	goods_cost = 
-	{
-		cement = 60 
-		machine_parts = 80 
-		petrochemicals = 125 
-	}
-	time = 365
-	visibility = yes
-	onmap = no
+  type = factory
+  on_completion = factory
+  completion_size = 0.2
+  max_level = 255
+  cost = 0
+  goods_cost =
+  {
+    cement = 60
+    machine_parts = 80
+    petrochemicals = 125
+  }
+  time = 365
+  visibility = yes
+  onmap = no
 
-	production_type = wool_fabric_factory
-	pop_build_factory = yes
+  production_type = wool_fabric_factory
+  pop_build_factory = yes
 }
 synthetic_fabric_factory = {
-	type = factory
-	on_completion = factory
-	completion_size = 0.2
-	max_level = 255
-	cost = 0
-	goods_cost = 
-	{
-		cement = 60 
-		machine_parts = 80 
-		petrochemicals = 125 
-	}
-	time = 365
-	visibility = yes
-	onmap = no
+  type = factory
+  on_completion = factory
+  completion_size = 0.2
+  max_level = 255
+  cost = 0
+  goods_cost =
+  {
+    cement = 60
+    machine_parts = 80
+    petrochemicals = 125
+  }
+  time = 365
+  visibility = yes
+  onmap = no
 
-	production_type = synthetic_fabric_factory
-	pop_build_factory = yes
+  production_type = synthetic_fabric_factory
+  pop_build_factory = yes
 }
 footwear_factory = {
-	type = factory
-	on_completion = factory
-	completion_size = 0.2
-	max_level = 255
-	cost = 0
-	goods_cost = 
-	{
-		cement = 60 
-		machine_parts = 80 
-		petrochemicals = 125 
-	}
-	time = 365
-	visibility = yes
-	onmap = no
+  type = factory
+  on_completion = factory
+  completion_size = 0.2
+  max_level = 255
+  cost = 0
+  goods_cost =
+  {
+    cement = 60
+    machine_parts = 80
+    petrochemicals = 125
+  }
+  time = 365
+  visibility = yes
+  onmap = no
 
-	production_type = footwear_factory
-	pop_build_factory = yes
+  production_type = footwear_factory
+  pop_build_factory = yes
 }
 
 
@@ -194,1157 +194,1158 @@ footwear_factory = {
 # INITIAL CONSUMER GOODS
 #
 diamonds_factory = {
-	type = factory
-	on_completion = factory
-	completion_size = 0.2
-	max_level = 255
-	cost = 0
-	goods_cost = 
-	{
-		cement = 60 
-		machine_parts = 80 
-		petrochemicals = 125 
-	}
-	time = 365
-	visibility = yes
-	onmap = no
+  type = factory
+  on_completion = factory
+  completion_size = 0.2
+  max_level = 255
+  cost = 0
+  goods_cost =
+  {
+    cement = 60
+    machine_parts = 80
+    petrochemicals = 125
+  }
+  time = 365
+  visibility = yes
+  onmap = no
 
-	production_type = diamonds_factory
-	pop_build_factory = yes
-	advanced_factory = yes
+  production_type = diamonds_factory
+  pop_build_factory = yes
+  advanced_factory = yes
 }
 
 #
 # INITIAL INDUSTRIAL GOODS
 #
 advanced_machinery_factory = {
-	type = factory
-	on_completion = factory
-	completion_size = 0.2
-	max_level = 255
-	cost = 0
-	goods_cost = 
-	{
-		cement = 60 
-		machine_parts = 80 
-		petrochemicals = 125 
-	}
-	time = 365
-	visibility = yes
-	onmap = no
+  type = factory
+  on_completion = factory
+  completion_size = 0.2
+  max_level = 255
+  cost = 0
+  goods_cost =
+  {
+    cement = 60
+    machine_parts = 80
+    petrochemicals = 125
+  }
+  time = 365
+  visibility = yes
+  onmap = no
 
-	production_type = advanced_machinery_factory
-	pop_build_factory = yes
-	advanced_factory = yes
+  production_type = advanced_machinery_factory
+  pop_build_factory = yes
+  advanced_factory = yes
 }
 
 engines_factory = {
-	type = factory
-	on_completion = factory
-	completion_size = 0.2
-	max_level = 255
-	cost = 0
-	goods_cost = 
-	{
-		cement = 60 
-		machine_parts = 80 
-		petrochemicals = 125 
-	}
-	time = 365
-	visibility = yes
-	onmap = no
+  type = factory
+  on_completion = factory
+  completion_size = 0.2
+  max_level = 255
+  cost = 0
+  goods_cost =
+  {
+    cement = 60
+    machine_parts = 80
+    petrochemicals = 125
+  }
+  time = 365
+  visibility = yes
+  onmap = no
 
-	production_type = engines_factory
-	pop_build_factory = yes
+  production_type = engines_factory
+  pop_build_factory = yes
 }
 
 modern_copper_wire_factory = {
-	type = factory
-	on_completion = factory
-	completion_size = 0.2
-	max_level = 255
-	cost = 0
-	goods_cost = 
-	{
-		cement = 60 
-		machine_parts = 80 
-		petrochemicals = 125 
-	}
-	time = 365
-	visibility = yes
-	onmap = no
+  type = factory
+  on_completion = factory
+  completion_size = 0.2
+  max_level = 255
+  cost = 0
+  goods_cost =
+  {
+    cement = 60
+    machine_parts = 80
+    petrochemicals = 125
+  }
+  time = 365
+  visibility = yes
+  onmap = no
 
-	production_type = modern_copper_wire_factory
-	pop_build_factory = yes
+  production_type = modern_copper_wire_factory
+  pop_build_factory = yes
 }
 
 copper_wire_factory = {
-	type = factory
-	on_completion = factory
-	completion_size = 0.2
-	max_level = 255
-	cost = 0
-	goods_cost = 
-	{
-		cement = 60 
-		machine_parts = 80 
-		petrochemicals = 125 
-	}
-	time = 365
-	visibility = yes
-	onmap = no
+  type = factory
+  on_completion = factory
+  completion_size = 0.2
+  max_level = 255
+  cost = 0
+  goods_cost =
+  {
+    cement = 60
+    machine_parts = 80
+    petrochemicals = 125
+  }
+  time = 365
+  visibility = yes
+  onmap = no
 
-	production_type = copper_wire_factory
-	pop_build_factory = yes
+  production_type = copper_wire_factory
+  pop_build_factory = yes
 }
 
 steel_factory = {
-	type = factory
-	on_completion = factory
-	completion_size = 0.2
-	max_level = 255
-	cost = 0
-	goods_cost = 
-	{
-		cement = 60 
-		machine_parts = 80 
-		petrochemicals = 125 
-	}
-	time = 365
-	visibility = yes
-	onmap = no
+  type = factory
+  on_completion = factory
+  completion_size = 0.2
+  max_level = 255
+  cost = 0
+  goods_cost =
+  {
+    cement = 60
+    machine_parts = 80
+    petrochemicals = 125
+  }
+  time = 365
+  visibility = yes
+  onmap = no
 
-	production_type = steel_factory
-	pop_build_factory = yes
+  production_type = steel_factory
+  pop_build_factory = yes
 }
 
 chemical_products_factory = {
-	type = factory
-	on_completion = factory
-	completion_size = 0.2
-	max_level = 255
-	cost = 0
-	goods_cost = 
-	{
-		cement = 60 
-		machine_parts = 80 
-		petrochemicals = 125 
-	}
-	time = 365
-	visibility = yes
-	onmap = no
+  type = factory
+  on_completion = factory
+  completion_size = 0.2
+  max_level = 255
+  cost = 0
+  goods_cost =
+  {
+    cement = 60
+    machine_parts = 80
+    petrochemicals = 125
+  }
+  time = 365
+  visibility = yes
+  onmap = no
 
-	production_type = chemical_products_factory
-	pop_build_factory = yes
+  production_type = chemical_products_factory
+  pop_build_factory = yes
 }
 
 petroleum_plastics_factory = {
-	type = factory
-	on_completion = factory
-	completion_size = 0.2
-	max_level = 255
-	cost = 0
-	goods_cost = 
-	{
-		cement = 60 
-		machine_parts = 80 
-		petrochemicals = 125 
-	}
-	time = 365
-	visibility = yes
-	onmap = no
+  type = factory
+  on_completion = factory
+  completion_size = 0.2
+  max_level = 255
+  cost = 0
+  goods_cost =
+  {
+    cement = 60
+    machine_parts = 80
+    petrochemicals = 125
+  }
+  time = 365
+  visibility = yes
+  onmap = no
 
-	production_type = petroleum_plastics_factory
-	pop_build_factory = yes
+  production_type = petroleum_plastics_factory
+  pop_build_factory = yes
 }
 
 rubber_factory = {
-	type = factory
-	on_completion = factory
-	completion_size = 0.2
-	max_level = 255
-	cost = 0
-	goods_cost = 
-	{
-		cement = 60 
-		machine_parts = 80 
-		petrochemicals = 125 
-	}
-	time = 365
-	visibility = yes
-	onmap = no
+  type = factory
+  on_completion = factory
+  completion_size = 0.2
+  max_level = 255
+  cost = 0
+  goods_cost =
+  {
+    cement = 60
+    machine_parts = 80
+    petrochemicals = 125
+  }
+  time = 365
+  visibility = yes
+  onmap = no
 
-	production_type = rubber_factory
-	pop_build_factory = yes
+  production_type = rubber_factory
+  pop_build_factory = yes
 }
 
 paper_factory = {
-	type = factory
-	on_completion = factory
-	completion_size = 0.2
-	max_level = 255
-	cost = 0
-	goods_cost = 
-	{
-		cement = 60 
-		machine_parts = 80 
-		petrochemicals = 125 
-	}
-	time = 365
-	visibility = yes
-	onmap = no
+  type = factory
+  on_completion = factory
+  completion_size = 0.2
+  max_level = 255
+  cost = 0
+  goods_cost =
+  {
+    cement = 60
+    machine_parts = 80
+    petrochemicals = 125
+  }
+  time = 365
+  visibility = yes
+  onmap = no
 
-	production_type = paper_factory
-	pop_build_factory = yes
+  production_type = paper_factory
+  pop_build_factory = yes
 }
 
 glass_factory = {
-	type = factory
-	on_completion = factory
-	completion_size = 0.2
-	max_level = 255
-	cost = 0
-	goods_cost = 
-	{
-		cement = 60 
-		machine_parts = 80 
-		petrochemicals = 125 
-	}
-	time = 365
-	visibility = yes
-	onmap = no
+  type = factory
+  on_completion = factory
+  completion_size = 0.2
+  max_level = 255
+  cost = 0
+  goods_cost =
+  {
+    cement = 60
+    machine_parts = 80
+    petrochemicals = 125
+  }
+  time = 365
+  visibility = yes
+  onmap = no
 
-	production_type = glass_factory
-	pop_build_factory = yes
+  production_type = glass_factory
+  pop_build_factory = yes
 }
 modern_glass_factory = {
-	type = factory
-	on_completion = factory
-	completion_size = 0.2
-	max_level = 255
-	cost = 0
-	goods_cost = 
-	{
-		cement = 60 
-		machine_parts = 80 
-		petrochemicals = 125 
-	}
-	time = 365
-	visibility = yes
-	onmap = no
+  type = factory
+  on_completion = factory
+  completion_size = 0.2
+  max_level = 255
+  cost = 0
+  goods_cost =
+  {
+    cement = 60
+    machine_parts = 80
+    petrochemicals = 125
+  }
+  time = 365
+  visibility = yes
+  onmap = no
 
-	production_type = modern_glass_factory
-	pop_build_factory = yes
+  production_type = modern_glass_factory
+  pop_build_factory = yes
 }
 
 aluminium_factory = {
-	type = factory
-	on_completion = factory
-	completion_size = 0.2
-	max_level = 255
-	cost = 0
-	goods_cost = 
-	{
-		cement = 60 
-		machine_parts = 80 
-		petrochemicals = 125 
-	}
-	time = 365
-	visibility = yes
-	onmap = no
+  type = factory
+  on_completion = factory
+  completion_size = 0.2
+  max_level = 255
+  cost = 0
+  goods_cost =
+  {
+    cement = 60
+    machine_parts = 80
+    petrochemicals = 125
+  }
+  time = 365
+  visibility = yes
+  onmap = no
 
-	production_type = aluminium_factory
-	pop_build_factory = yes
+  production_type = aluminium_factory
+  pop_build_factory = yes
 }
 
 petroleum_aluminium_factory = {
-	type = factory
-	on_completion = factory
-	completion_size = 0.2
-	max_level = 255
-	cost = 0
-	goods_cost = 
-	{
-		cement = 60 
-		machine_parts = 80 
-		petrochemicals = 125 
-	}
-	time = 365
-	visibility = yes
-	onmap = no
+  type = factory
+  on_completion = factory
+  completion_size = 0.2
+  max_level = 255
+  cost = 0
+  goods_cost =
+  {
+    cement = 60
+    machine_parts = 80
+    petrochemicals = 125
+  }
+  time = 365
+  visibility = yes
+  onmap = no
 
-	production_type = petroleum_aluminium_factory
-	pop_build_factory = yes
+  production_type = petroleum_aluminium_factory
+  pop_build_factory = yes
 }
 
-trucks_vans_factory = { 
-	type = factory
-	on_completion = factory
-	completion_size = 0.2
-	max_level = 255
-	cost = 0
-	goods_cost = 
-	{
-		cement = 60 
-		machine_parts = 80 
-		petrochemicals = 125 
-	}
-	time = 365
-	visibility = yes
-	onmap = no
+trucks_vans_factory = {
+  type = factory
+  on_completion = factory
+  completion_size = 0.2
+  max_level = 255
+  cost = 0
+  goods_cost =
+  {
+    cement = 60
+    machine_parts = 80
+    petrochemicals = 125
+  }
+  time = 365
+  visibility = yes
+  onmap = no
 
-	production_type = trucks_vans_factory
-	pop_build_factory = yes
-	strategic_factory = yes
+  production_type = trucks_vans_factory
+  pop_build_factory = yes
+  strategic_factory = yes
 }
 
-heating_electricity_factory = { 	
-	type = factory
-	on_completion = factory
-	completion_size = 0.2
-	max_level = 255
-	cost = 0
-	goods_cost = 
-	{
-		cement = 60 
-		machine_parts = 80 
-		petrochemicals = 125 
-	}
-	time = 365
-	visibility = yes
-	onmap = no
+heating_electricity_factory = {
+  type = factory
+  on_completion = factory
+  completion_size = 0.2
+  max_level = 255
+  cost = 0
+  goods_cost =
+  {
+    cement = 60
+    machine_parts = 80
+    petrochemicals = 125
+  }
+  time = 365
+  visibility = yes
+  onmap = no
 
-	production_type = heating_electricity_factory
-	pop_build_factory = yes
-	#strategic_factory = yes
+  production_type = heating_electricity_factory
+  pop_build_factory = yes
+  #strategic_factory = yes
 }
 
-petroleum_heating_electricity_factory = { 	
-	type = factory
-	on_completion = factory
-	completion_size = 0.2
-	max_level = 255
-	cost = 0
-	goods_cost = 
-	{
-		cement = 60 
-		machine_parts = 80 
-		petrochemicals = 125 
-	}
-	time = 365
-	visibility = yes
-	onmap = no
+petroleum_heating_electricity_factory = {
+  type = factory
+  on_completion = factory
+  completion_size = 0.2
+  max_level = 255
+  cost = 0
+  goods_cost =
+  {
+    cement = 60
+    machine_parts = 80
+    petrochemicals = 125
+  }
+  time = 365
+  visibility = yes
+  onmap = no
 
-	production_type = petroleum_heating_electricity_factory
-	pop_build_factory = yes
-	#strategic_factory = yes
+  production_type = petroleum_heating_electricity_factory
+  pop_build_factory = yes
+  #strategic_factory = yes
 }
 
-other_minerals_heating_electricity_factory = { 	
-	type = factory
-	on_completion = factory
-	completion_size = 0.2
-	max_level = 255
-	cost = 0
-	goods_cost = 
-	{
-		cement = 60 
-		machine_parts = 80 
-		petrochemicals = 125 
-	}
-	time = 365
-	visibility = yes
-	onmap = no
+other_minerals_heating_electricity_factory = {
+  type = factory
+  on_completion = factory
+  completion_size = 0.2
+  max_level = 255
+  cost = 0
+  goods_cost =
+  {
+    cement = 60
+    machine_parts = 80
+    petrochemicals = 125
+  }
+  time = 365
+  visibility = yes
+  onmap = no
 
-	production_type = other_minerals_heating_electricity_factory
-	pop_build_factory = yes
-	#strategic_factory = yes
+  production_type = other_minerals_heating_electricity_factory
+  pop_build_factory = yes
+  #strategic_factory = yes
 }
 
-advanced_heating_electricity_factory = { 	
-	type = factory
-	on_completion = factory
-	completion_size = 0.2
-	max_level = 255
-	cost = 0
-	goods_cost = 
-	{
-		cement = 60 
-		machine_parts = 80 
-		petrochemicals = 125 
-	}
-	time = 365
-	visibility = yes
-	onmap = no
+advanced_heating_electricity_factory = {
+  type = factory
+  on_completion = factory
+  completion_size = 0.2
+  max_level = 255
+  cost = 0
+  goods_cost =
+  {
+    cement = 60
+    machine_parts = 80
+    petrochemicals = 125
+  }
+  time = 365
+  visibility = yes
+  onmap = no
 
-	production_type = advanced_heating_electricity_factory
-	pop_build_factory = yes
-	#strategic_factory = yes
+  production_type = advanced_heating_electricity_factory
+  pop_build_factory = yes
+  #strategic_factory = yes
 }
 
-advanced_petroleum_heating_electricity_factory = { 	
-	type = factory
-	on_completion = factory
-	completion_size = 0.2
-	max_level = 255
-	cost = 0
-	goods_cost = 
-	{
-		cement = 60 
-		machine_parts = 80 
-		petrochemicals = 125 
-	}
-	time = 365
-	visibility = yes
-	onmap = no
+advanced_petroleum_heating_electricity_factory = {
+  type = factory
+  on_completion = factory
+  completion_size = 0.2
+  max_level = 255
+  cost = 0
+  goods_cost =
+  {
+    cement = 60
+    machine_parts = 80
+    petrochemicals = 125
+  }
+  time = 365
+  visibility = yes
+  onmap = no
 
-	production_type = advanced_petroleum_heating_electricity_factory
-	pop_build_factory = yes
-	#strategic_factory = yes
+  production_type = advanced_petroleum_heating_electricity_factory
+  pop_build_factory = yes
+  #strategic_factory = yes
 }
 
 integrated_circuits_factory = {
-	type = factory
-	on_completion = factory
-	completion_size = 0.2
-	max_level = 255
-	cost = 0
-	goods_cost = 
-	{
-		cement = 60 
-		machine_parts = 80 
-		petrochemicals = 125 
-	}
-	time = 365
-	visibility = yes
-	onmap = no
+  type = factory
+  on_completion = factory
+  completion_size = 0.2
+  max_level = 255
+  cost = 0
+  goods_cost =
+  {
+    cement = 60
+    machine_parts = 80
+    petrochemicals = 125
+  }
+  time = 365
+  visibility = yes
+  onmap = no
 
-	production_type = integrated_circuits_factory
-	pop_build_factory = yes
+  production_type = integrated_circuits_factory
+  pop_build_factory = yes
 }
 
 modern_integrated_circuits_factory = {
-	type = factory
-	on_completion = factory
-	completion_size = 0.2
-	max_level = 255
-	cost = 0
-	goods_cost = 
-	{
-		cement = 60 
-		machine_parts = 80 
-		petrochemicals = 125 
-	}
-	time = 365
-	visibility = yes
-	onmap = no
+  type = factory
+  on_completion = factory
+  completion_size = 0.2
+  max_level = 255
+  cost = 0
+  goods_cost =
+  {
+    cement = 60
+    machine_parts = 80
+    petrochemicals = 125
+  }
+  time = 365
+  visibility = yes
+  onmap = no
 
-	production_type = modern_integrated_circuits_factory
-	pop_build_factory = yes
+  production_type = modern_integrated_circuits_factory
+  pop_build_factory = yes
 }
 
 clothes_factory = {
-	type = factory
-	on_completion = factory
-	completion_size = 0.2
-	max_level = 255
-	cost = 0
-	goods_cost = 
-	{
-		cement = 60 
-		machine_parts = 80 
-		petrochemicals = 125 
-	}
-	time = 365
-	visibility = yes
-	onmap = no
+  type = factory
+  on_completion = factory
+  completion_size = 0.2
+  max_level = 255
+  cost = 0
+  goods_cost =
+  {
+    cement = 60
+    machine_parts = 80
+    petrochemicals = 125
+  }
+  time = 365
+  visibility = yes
+  onmap = no
 
-	production_type = clothes_factory
-	pop_build_factory = yes
+  production_type = clothes_factory
+  pop_build_factory = yes
 }
 
 luxury_clothes_factory = {
-	type = factory
-	on_completion = factory
-	completion_size = 0.2
-	max_level = 255
-	cost = 0
-	goods_cost = 
-	{
-		cement = 60 
-		machine_parts = 80 
-		petrochemicals = 125 
-	}
-	time = 365
-	visibility = yes
-	onmap = no
+  type = factory
+  on_completion = factory
+  completion_size = 0.2
+  max_level = 255
+  cost = 0
+  goods_cost =
+  {
+    cement = 60
+    machine_parts = 80
+    petrochemicals = 125
+  }
+  time = 365
+  visibility = yes
+  onmap = no
 
-	production_type = luxury_clothes_factory
-	pop_build_factory = yes
+  production_type = luxury_clothes_factory
+  pop_build_factory = yes
 }
 
 instruments_factory = {
-	type = factory
-	on_completion = factory
-	completion_size = 0.2
-	max_level = 255
-	cost = 0
-	goods_cost = 
-	{
-		cement = 60 
-		machine_parts = 80 
-		petrochemicals = 125 
-	}
-	time = 365
-	visibility = yes
-	onmap = no
+  type = factory
+  on_completion = factory
+  completion_size = 0.2
+  max_level = 255
+  cost = 0
+  goods_cost =
+  {
+    cement = 60
+    machine_parts = 80
+    petrochemicals = 125
+  }
+  time = 365
+  visibility = yes
+  onmap = no
 
-	production_type = instruments_factory
-	pop_build_factory = yes
+  production_type = instruments_factory
+  pop_build_factory = yes
 }
 
 turbines_factory = {
-	type = factory
-	on_completion = factory
-	completion_size = 0.2
-	max_level = 255
-	cost = 0
-	goods_cost = 
-	{
-		cement = 60 
-		machine_parts = 80 
-		petrochemicals = 125 
-	}
-	time = 365
-	visibility = yes
-	onmap = no
+  type = factory
+  on_completion = factory
+  completion_size = 0.2
+  max_level = 255
+  cost = 0
+  goods_cost =
+  {
+    cement = 60
+    machine_parts = 80
+    petrochemicals = 125
+  }
+  time = 365
+  visibility = yes
+  onmap = no
 
-	production_type = turbines_factory
-	pop_build_factory = yes
-	advanced_factory = yes
+  production_type = turbines_factory
+  pop_build_factory = yes
+  advanced_factory = yes
 }
 
 luxury_furniture_factory = {
-	type = factory
-	on_completion = factory
-	completion_size = 0.2
-	max_level = 255
-	cost = 0
-	goods_cost = 
-	{
-		cement = 60 
-		machine_parts = 80 
-		petrochemicals = 125 
-	}
-	time = 365
-	visibility = yes
-	onmap = no
+  type = factory
+  on_completion = factory
+  completion_size = 0.2
+  max_level = 255
+  cost = 0
+  goods_cost =
+  {
+    cement = 60
+    machine_parts = 80
+    petrochemicals = 125
+  }
+  time = 365
+  visibility = yes
+  onmap = no
 
-	production_type = luxury_furniture_factory
-	pop_build_factory = yes
+  production_type = luxury_furniture_factory
+  pop_build_factory = yes
 }
 
 furniture_factory = {
-	type = factory
-	on_completion = factory
-	completion_size = 0.2
-	max_level = 255
-	cost = 0
-	goods_cost = 
-	{
-		cement = 60 
-		machine_parts = 80 
-		petrochemicals = 125 
-	}
-	time = 365
-	visibility = yes
-	onmap = no
+  type = factory
+  on_completion = factory
+  completion_size = 0.2
+  max_level = 255
+  cost = 0
+  goods_cost =
+  {
+    cement = 60
+    machine_parts = 80
+    petrochemicals = 125
+  }
+  time = 365
+  visibility = yes
+  onmap = no
 
-	production_type = furniture_factory
-	pop_build_factory = yes
+  production_type = furniture_factory
+  pop_build_factory = yes
 }
 
 beverages_factory = {
-	type = factory
-	on_completion = factory
-	completion_size = 0.2
-	max_level = 255
-	cost = 0
-	goods_cost = 
-	{
-		cement = 60 
-		machine_parts = 80 
-		petrochemicals = 125 
-	}
-	time = 365
-	visibility = yes
-	onmap = no
+  type = factory
+  on_completion = factory
+  completion_size = 0.2
+  max_level = 255
+  cost = 0
+  goods_cost =
+  {
+    cement = 60
+    machine_parts = 80
+    petrochemicals = 125
+  }
+  time = 365
+  visibility = yes
+  onmap = no
 
-	production_type = beverages_factory
-	pop_build_factory = yes
+  production_type = beverages_factory
+  pop_build_factory = yes
 }
 
 modern_beverages_factory = {
-	type = factory
-	on_completion = factory
-	completion_size = 0.2
-	max_level = 255
-	cost = 0
-	goods_cost = 
-	{
-		cement = 60 
-		machine_parts = 80 
-		petrochemicals = 125 
-	}
-	time = 365
-	visibility = yes
-	onmap = no
+  type = factory
+  on_completion = factory
+  completion_size = 0.2
+  max_level = 255
+  cost = 0
+  goods_cost =
+  {
+    cement = 60
+    machine_parts = 80
+    petrochemicals = 125
+  }
+  time = 365
+  visibility = yes
+  onmap = no
 
-	production_type = modern_beverages_factory
-	pop_build_factory = yes
+  production_type = modern_beverages_factory
+  pop_build_factory = yes
 }
 
 electric_gear_factory = {
-	type = factory
-	on_completion = factory
-	completion_size = 0.2
-	max_level = 255
-	cost = 0
-	goods_cost = 
-	{
-		cement = 60 
-		machine_parts = 80 
-		petrochemicals = 125 
-	}
-	time = 365
-	visibility = yes
-	onmap = no
+  type = factory
+  on_completion = factory
+  completion_size = 0.2
+  max_level = 255
+  cost = 0
+  goods_cost =
+  {
+    cement = 60
+    machine_parts = 80
+    petrochemicals = 125
+  }
+  time = 365
+  visibility = yes
+  onmap = no
 
-	production_type = electric_gear_factory
-	pop_build_factory = yes
+  production_type = electric_gear_factory
+  pop_build_factory = yes
 }
 
 advanced_instruments_factory = {
-	type = factory
-	on_completion = factory
-	completion_size = 0.2
-	max_level = 255
-	cost = 0
-	goods_cost = 
-	{
-		cement = 60 
-		machine_parts = 80 
-		petrochemicals = 125 
-	}
-	time = 365
-	visibility = yes
-	onmap = no
+  type = factory
+  on_completion = factory
+  completion_size = 0.2
+  max_level = 255
+  cost = 0
+  goods_cost =
+  {
+    cement = 60
+    machine_parts = 80
+    petrochemicals = 125
+  }
+  time = 365
+  visibility = yes
+  onmap = no
 
-	production_type = advanced_instruments_factory
-	pop_build_factory = yes
-	advanced_factory = yes
+  production_type = advanced_instruments_factory
+  pop_build_factory = yes
+  advanced_factory = yes
 }
 
 
-ships_factory = { 
-	type = factory
-	on_completion = factory
-	completion_size = 0.2
-	max_level = 255
-	cost = 0
-	goods_cost = 
-	{
-		cement = 60 
-		machine_parts = 80 
-		petrochemicals = 125 
-	}
-	time = 365
-	visibility = yes
-	onmap = no
+ships_factory = {
+  type = factory
+  on_completion = factory
+  completion_size = 0.2
+  max_level = 255
+  cost = 0
+  goods_cost =
+  {
+    cement = 60
+    machine_parts = 80
+    petrochemicals = 125
+  }
+  time = 365
+  visibility = yes
+  onmap = no
 
-	production_type = ships_factory
-	pop_build_factory = yes
-	strategic_factory = yes
+  production_type = ships_factory
+  pop_build_factory = yes
+  strategic_factory = yes
 }
 
-aeroplane_factory = { 	
-	type = factory
-	on_completion = factory
-	completion_size = 0.2
-	max_level = 255
-	cost = 0
-	goods_cost = 
-	{
-		cement = 60 
-		machine_parts = 80 
-		petrochemicals = 125 
-	}
-	time = 365
-	visibility = yes
-	onmap = no
+aeroplane_factory = {
+  type = factory
+  on_completion = factory
+  completion_size = 0.2
+  max_level = 255
+  cost = 0
+  goods_cost =
+  {
+    cement = 60
+    machine_parts = 80
+    petrochemicals = 125
+  }
+  time = 365
+  visibility = yes
+  onmap = no
 
-	production_type = aeroplane_factory
-	pop_build_factory = yes
-	strategic_factory = yes
+  production_type = aeroplane_factory
+  pop_build_factory = yes
+  strategic_factory = yes
 }
 
-modern_aeroplane_factory = { 	
-	type = factory
-	on_completion = factory
-	completion_size = 0.2
-	max_level = 255
-	cost = 0
-	goods_cost = 
-	{
-		cement = 60 
-		machine_parts = 80 
-		petrochemicals = 125 
-	}
-	time = 365
-	visibility = yes
-	onmap = no
+modern_aeroplane_factory = {
+  type = factory
+  on_completion = factory
+  completion_size = 0.2
+  max_level = 255
+  cost = 0
+  goods_cost =
+  {
+    cement = 60
+    machine_parts = 80
+    petrochemicals = 125
+  }
+  time = 365
+  visibility = yes
+  onmap = no
 
-	production_type = modern_aeroplane_factory
-	pop_build_factory = yes
-	strategic_factory = yes
+  production_type = modern_aeroplane_factory
+  pop_build_factory = yes
+  strategic_factory = yes
 }
 
 computers_factory = {
-	type = factory
-	on_completion = factory
-	completion_size = 0.2
-	max_level = 255
-	cost = 0
-	goods_cost = 
-	{
-		cement = 60 
-		machine_parts = 80 
-		petrochemicals = 125 
-	}
-	time = 365
-	visibility = yes
-	onmap = no
+  type = factory
+  on_completion = factory
+  completion_size = 0.2
+  max_level = 255
+  cost = 0
+  goods_cost =
+  {
+    cement = 60
+    machine_parts = 80
+    petrochemicals = 125
+  }
+  time = 365
+  visibility = yes
+  onmap = no
 
-	production_type = computers_factory
-	pop_build_factory = yes
-	advanced_factory = yes
+  production_type = computers_factory
+  pop_build_factory = yes
+  advanced_factory = yes
 }
 
 telecommunications_factory = {
-	type = factory
-	on_completion = factory
-	completion_size = 0.2
-	max_level = 255
-	cost = 0
-	goods_cost = 
-	{
-		cement = 60 
-		machine_parts = 80 
-		petrochemicals = 125 
-	}
-	time = 365
-	visibility = yes
-	onmap = no
+  type = factory
+  on_completion = factory
+  completion_size = 0.2
+  max_level = 255
+  cost = 0
+  goods_cost =
+  {
+    cement = 60
+    machine_parts = 80
+    petrochemicals = 125
+  }
+  time = 365
+  visibility = yes
+  onmap = no
 
-	production_type = telecommunications_factory
-	pop_build_factory = yes
-	advanced_factory = yes
+  production_type = telecommunications_factory
+  pop_build_factory = yes
+  advanced_factory = yes
 }
 
 electric_telecommunications_factory = {
-	type = factory
-	on_completion = factory
-	completion_size = 0.2
-	max_level = 255
-	cost = 0
-	goods_cost = 
-	{
-		cement = 60 
-		machine_parts = 80 
-		petrochemicals = 125 
-	}
-	time = 365
-	visibility = yes
-	onmap = no
+  type = factory
+  on_completion = factory
+  completion_size = 0.2
+  max_level = 255
+  cost = 0
+  goods_cost =
+  {
+    cement = 60
+    machine_parts = 80
+    petrochemicals = 125
+  }
+  time = 365
+  visibility = yes
+  onmap = no
 
-	production_type = electric_telecommunications_factory
-	pop_build_factory = yes
-	advanced_factory = yes
+  production_type = electric_telecommunications_factory
+  pop_build_factory = yes
+  advanced_factory = yes
 }
 
 automobiles_factory = {
-	type = factory
-	on_completion = factory
-	completion_size = 0.2
-	max_level = 255
-	cost = 0
-	goods_cost = 
-	{
-		cement = 60 
-		machine_parts = 80 
-		petrochemicals = 125 
-	}
-	time = 365
-	visibility = yes
-	onmap = no
+  type = factory
+  on_completion = factory
+  completion_size = 0.2
+  max_level = 255
+  cost = 0
+  goods_cost =
+  {
+    cement = 60
+    machine_parts = 80
+    petrochemicals = 125
+  }
+  time = 365
+  visibility = yes
+  onmap = no
 
-	production_type = automobiles_factory
-	pop_build_factory = yes
-	advanced_factory = yes
+  production_type = automobiles_factory
+  pop_build_factory = yes
+  advanced_factory = yes
 }
 
 modern_automobiles_factory = {
-	type = factory
-	on_completion = factory
-	completion_size = 0.2
-	max_level = 255
-	cost = 0
-	goods_cost = 
-	{
-		cement = 60 
-		machine_parts = 80 
-		petrochemicals = 125 
-	}
-	time = 365
-	visibility = yes
-	onmap = no
+  type = factory
+  on_completion = factory
+  completion_size = 0.2
+  max_level = 255
+  cost = 0
+  goods_cost =
+  {
+    cement = 60
+    machine_parts = 80
+    petrochemicals = 125
+  }
+  time = 365
+  visibility = yes
+  onmap = no
 
-	production_type = modern_automobiles_factory
-	pop_build_factory = yes
-	advanced_factory = yes
+  production_type = modern_automobiles_factory
+  pop_build_factory = yes
+  advanced_factory = yes
 }
 
 milk_cheese_factory = {
-	type = factory
-	on_completion = factory
-	completion_size = 0.2
-	max_level = 255
-	cost = 0
-	goods_cost = 
-	{
-		cement = 60 
-		machine_parts = 80 
-		petrochemicals = 125 
-	}
-	time = 365
-	visibility = yes
-	onmap = no
+  type = factory
+  on_completion = factory
+  completion_size = 0.2
+  max_level = 255
+  cost = 0
+  goods_cost =
+  {
+    cement = 60
+    machine_parts = 80
+    petrochemicals = 125
+  }
+  time = 365
+  visibility = yes
+  onmap = no
 
-	production_type = milk_cheese_factory
-	pop_build_factory = yes
-	advanced_factory = yes
+  production_type = milk_cheese_factory
+  pop_build_factory = yes
+  advanced_factory = yes
 }
 
 health_factory = {
-	type = factory
-	on_completion = factory
-	completion_size = 0.2
-	max_level = 255
-	cost = 0
-	goods_cost = 
-	{
-		cement = 60 
-		machine_parts = 80 
-		petrochemicals = 125 
-	}
-	time = 365
-	visibility = yes
-	onmap = no
+  type = factory
+  on_completion = factory
+  completion_size = 0.2
+  max_level = 255
+  cost = 0
+  goods_cost =
+  {
+    cement = 60
+    machine_parts = 80
+    petrochemicals = 125
+  }
+  time = 365
+  visibility = yes
+  onmap = no
 
-	production_type = health_factory
-	pop_build_factory = yes
-	advanced_factory = yes
+  production_type = health_factory
+  pop_build_factory = yes
+  advanced_factory = yes
 }
 
 modern_tvs_factory = {
-	type = factory
-	on_completion = factory
-	completion_size = 0.2
-	max_level = 255
-	cost = 0
-	goods_cost = 
-	{
-		cement = 60 
-		machine_parts = 80 
-		petrochemicals = 125 
-	}
-	time = 365
-	visibility = yes
-	onmap = no
+  type = factory
+  on_completion = factory
+  completion_size = 0.2
+  max_level = 255
+  cost = 0
+  goods_cost =
+  {
+    cement = 60
+    machine_parts = 80
+    petrochemicals = 125
+  }
+  time = 365
+  visibility = yes
+  onmap = no
 
-	production_type = modern_tvs_factory
-	pop_build_factory = yes
-	advanced_factory = yes
+  production_type = modern_tvs_factory
+  pop_build_factory = yes
+  advanced_factory = yes
 }
 
 tvs_factory = {
-	type = factory
-	on_completion = factory
-	completion_size = 0.2
-	max_level = 255
-	cost = 0
-	goods_cost = 
-	{
-		cement = 60 
-		machine_parts = 80 
-		petrochemicals = 125 
-	}
-	time = 365
-	visibility = yes
-	onmap = no
+  type = factory
+  on_completion = factory
+  completion_size = 0.2
+  max_level = 255
+  cost = 0
+  goods_cost =
+  {
+    cement = 60
+    machine_parts = 80
+    petrochemicals = 125
+  }
+  time = 365
+  visibility = yes
+  onmap = no
 
-	production_type = tvs_factory
-	pop_build_factory = yes
-	advanced_factory = yes
+  production_type = tvs_factory
+  pop_build_factory = yes
+  advanced_factory = yes
 }
 
 home_appliance_factory = {
-	type = factory
-	on_completion = factory
-	completion_size = 0.2
-	max_level = 255
-	cost = 0
-	goods_cost = 
-	{
-		cement = 60 
-		machine_parts = 80 
-		petrochemicals = 125 
-	}
-	time = 365
-	visibility = yes
-	onmap = no
+  type = factory
+  on_completion = factory
+  completion_size = 0.2
+  max_level = 255
+  cost = 0
+  goods_cost =
+  {
+    cement = 60
+    machine_parts = 80
+    petrochemicals = 125
+  }
+  time = 365
+  visibility = yes
+  onmap = no
 
-	production_type = home_appliance_factory
-	pop_build_factory = yes
-	advanced_factory = yes
+  production_type = home_appliance_factory
+  pop_build_factory = yes
+  advanced_factory = yes
 }
 modern_home_appliance_factory = {
-	type = factory
-	on_completion = factory
-	completion_size = 0.2
-	max_level = 255
-	cost = 0
-	goods_cost = 
-	{
-		cement = 60 
-		machine_parts = 80 
-		petrochemicals = 125 
-	}
-	time = 365
-	visibility = yes
-	onmap = no
+  type = factory
+  on_completion = factory
+  completion_size = 0.2
+  max_level = 255
+  cost = 0
+  goods_cost =
+  {
+    cement = 60
+    machine_parts = 80
+    petrochemicals = 125
+  }
+  time = 365
+  visibility = yes
+  onmap = no
 
-	production_type = modern_home_appliance_factory
-	pop_build_factory = yes
-	advanced_factory = yes
+  production_type = modern_home_appliance_factory
+  pop_build_factory = yes
+  advanced_factory = yes
 }
 
-specialized_machinery_factory = { 	
-	type = factory
-	on_completion = factory
-	completion_size = 0.2
-	max_level = 255
-	cost = 0
-	goods_cost = 
-	{
-		cement = 60 
-		machine_parts = 80 
-		petrochemicals = 125 
-	}
-	time = 365
-	visibility = yes
-	onmap = no
+specialized_machinery_factory = {
+  type = factory
+  on_completion = factory
+  completion_size = 0.2
+  max_level = 255
+  cost = 0
+  goods_cost =
+  {
+    cement = 60
+    machine_parts = 80
+    petrochemicals = 125
+  }
+  time = 365
+  visibility = yes
+  onmap = no
 
-	production_type = specialized_machinery_factory
-	pop_build_factory = yes
-	strategic_factory = yes
+  production_type = specialized_machinery_factory
+  pop_build_factory = yes
+  strategic_factory = yes
 }
 
-advanced_specialized_machinery_factory = { 	
-	type = factory
-	on_completion = factory
-	completion_size = 0.2
-	max_level = 255
-	cost = 0
-	goods_cost = 
-	{
-		cement = 60 
-		machine_parts = 80 
-		petrochemicals = 125 
-	}
-	time = 365
-	visibility = yes
-	onmap = no
+advanced_specialized_machinery_factory = {
+  type = factory
+  on_completion = factory
+  completion_size = 0.2
+  max_level = 255
+  cost = 0
+  goods_cost =
+  {
+    cement = 60
+    machine_parts = 80
+    petrochemicals = 125
+  }
+  time = 365
+  visibility = yes
+  onmap = no
 
-	production_type = advanced_specialized_machinery_factory
-	pop_build_factory = yes
-	strategic_factory = yes
+  production_type = advanced_specialized_machinery_factory
+  pop_build_factory = yes
+  strategic_factory = yes
 }
 
 transport_factory = {
-	type = factory
-	on_completion = factory
-	completion_size = 0.2
-	max_level = 255
-	cost = 0
-	goods_cost = 
-	{
-		cement = 60 
-		machine_parts = 80 
-		petrochemicals = 125 
-	}
-	time = 365
-	visibility = yes
-	onmap = no
+  type = factory
+  on_completion = factory
+  completion_size = 0.2
+  max_level = 255
+  cost = 0
+  goods_cost =
+  {
+    cement = 60
+    machine_parts = 80
+    petrochemicals = 125
+  }
+  time = 365
+  visibility = yes
+  onmap = no
 
-	production_type = transport_factory
-	pop_build_factory = yes
-	advanced_factory = yes
+  production_type = transport_factory
+  pop_build_factory = yes
+  advanced_factory = yes
 }
-modern_telephones_factory = {
-	type = factory
-	on_completion = factory
-	completion_size = 0.2
-	max_level = 255
-	cost = 0
-	goods_cost = 
-	{
-		cement = 60 
-		machine_parts = 80 
-		petrochemicals = 125 
-	}
-	time = 365
-	visibility = yes
-	onmap = no
 
-	production_type = modern_telephones_factory
-	pop_build_factory = yes
-	advanced_factory = yes
+modern_telephones_factory = {
+  type = factory
+  on_completion = factory
+  completion_size = 0.2
+  max_level = 255
+  cost = 0
+  goods_cost =
+  {
+    cement = 60
+    machine_parts = 80
+    petrochemicals = 125
+  }
+  time = 365
+  visibility = yes
+  onmap = no
+
+  production_type = modern_telephones_factory
+  pop_build_factory = yes
+  advanced_factory = yes
 }
 
 telephones_factory = {
-	type = factory
-	on_completion = factory
-	completion_size = 0.2
-	max_level = 255
-	cost = 0
-	goods_cost = 
-	{
-		cement = 60 
-		machine_parts = 80 
-		petrochemicals = 125 
-	}
-	time = 365
-	visibility = yes
-	onmap = no
+  type = factory
+  on_completion = factory
+  completion_size = 0.2
+  max_level = 255
+  cost = 0
+  goods_cost =
+  {
+    cement = 60
+    machine_parts = 80
+    petrochemicals = 125
+  }
+  time = 365
+  visibility = yes
+  onmap = no
 
-	production_type =telephones_factory
-	pop_build_factory = yes
-	advanced_factory = yes
+  production_type =telephones_factory
+  pop_build_factory = yes
+  advanced_factory = yes
 }
 
 computer_peripherals_factory = {
-	type = factory
-	on_completion = factory
-	completion_size = 0.2
-	max_level = 255
-	cost = 0
-	goods_cost = 
-	{
-		cement = 60 
-		machine_parts = 80 
-		petrochemicals = 125 
-	}
-	time = 365
-	visibility = yes
-	onmap = no
+  type = factory
+  on_completion = factory
+  completion_size = 0.2
+  max_level = 255
+  cost = 0
+  goods_cost =
+  {
+    cement = 60
+    machine_parts = 80
+    petrochemicals = 125
+  }
+  time = 365
+  visibility = yes
+  onmap = no
 
-	production_type = computer_peripherals_factory
-	pop_build_factory = yes
-	advanced_factory = yes
+  production_type = computer_peripherals_factory
+  pop_build_factory = yes
+  advanced_factory = yes
 }
 
 cosmetics_factory = {
-	type = factory
-	on_completion = factory
-	completion_size = 0.2
-	max_level = 255
-	cost = 0
-	goods_cost = 
-	{
-		cement = 60 
-		machine_parts = 80 
-		petrochemicals = 125 
-	}
-	time = 365
-	visibility = yes
-	onmap = no
+  type = factory
+  on_completion = factory
+  completion_size = 0.2
+  max_level = 255
+  cost = 0
+  goods_cost =
+  {
+    cement = 60
+    machine_parts = 80
+    petrochemicals = 125
+  }
+  time = 365
+  visibility = yes
+  onmap = no
 
-	production_type = cosmetics_factory
-	pop_build_factory = yes
-	advanced_factory = yes
+  production_type = cosmetics_factory
+  pop_build_factory = yes
+  advanced_factory = yes
 }
 
 recording_media_factory = {
-	type = factory
-	on_completion = factory
-	completion_size = 0.2
-	max_level = 255
-	cost = 0
-	goods_cost = 
-	{
-		cement = 60 
-		machine_parts = 80 
-		petrochemicals = 125 
-	}
-	time = 365
-	visibility = yes
-	onmap = no
+  type = factory
+  on_completion = factory
+  completion_size = 0.2
+  max_level = 255
+  cost = 0
+  goods_cost =
+  {
+    cement = 60
+    machine_parts = 80
+    petrochemicals = 125
+  }
+  time = 365
+  visibility = yes
+  onmap = no
 
-	production_type = recording_media_factory
-	pop_build_factory = yes
-	advanced_factory = yes
+  production_type = recording_media_factory
+  pop_build_factory = yes
+  advanced_factory = yes
 }
 
 financial_services_factory = {
-	type = factory
-	on_completion = factory
-	completion_size = 0.2
-	max_level = 255
-	cost = 0
-	goods_cost = 
-	{
-		cement = 60 
-		machine_parts = 80 
-		petrochemicals = 125 
-	}
-	time = 365
-	visibility = yes
-	onmap = no
+  type = factory
+  on_completion = factory
+  completion_size = 0.2
+  max_level = 255
+  cost = 0
+  goods_cost =
+  {
+    cement = 60
+    machine_parts = 80
+    petrochemicals = 125
+  }
+  time = 365
+  visibility = yes
+  onmap = no
 
-	production_type = financial_services_factory
-	pop_build_factory = yes
-	advanced_factory = yes
+  production_type = financial_services_factory
+  pop_build_factory = yes
+  advanced_factory = yes
 }
 
-fort = {      
-	type = fort
-	goods_cost =
-	{
-		timber = 100
-		engines = 1000
-		cement = 1000
-		explosives = 500
-		trucks_vans = 500
-		artillery = 400
-	}
-	time = 1080 
-	visibility = yes
-	onmap = yes
-	max_level = 6
-	province = yes
-	one_per_state = yes
-	fort_level = 1
+fort = {
+  type = fort
+  goods_cost =
+  {
+    timber = 100
+    engines = 1000
+    cement = 1000
+    explosives = 500
+    trucks_vans = 500
+    artillery = 400
+  }
+  time = 1080
+  visibility = yes
+  onmap = yes
+  max_level = 6
+  province = yes
+  one_per_state = yes
+  fort_level = 1
 }
 
 # Ref. Gwadar Port
@@ -1357,53 +1358,53 @@ fort = {
 # steel = 200 x 0.38 = 76
 # machine_parts = 10 x 0.16 = 1.6
 # petrochemicals = 2500 x 0.05 = 125 TODO
-naval_base = {    
-	type = naval_base
-	cost = 15000
-	goods_cost =
-	{
-		timber = 100
-		engines = 100
-		cement = 100
-		steel = 200
-		machine_parts = 10
-	}
-	time = 1080
-	naval_capacity = 1
-	capital = yes
-	onmap = yes
-	port = yes
-	visibility = yes
-	max_level = 6
-	colonial_points = { 30 50 70 90 110 130 } #points at levels 1-6
-	province = yes
-	one_per_state = yes
-	colonial_range = 50
-	local_ship_build = -0.10
+naval_base = {
+  type = naval_base
+  cost = 15000
+  goods_cost =
+  {
+    timber = 100
+    engines = 100
+    cement = 100
+    steel = 200
+    machine_parts = 10
+  }
+  time = 1080
+  naval_capacity = 1
+  capital = yes
+  onmap = yes
+  port = yes
+  visibility = yes
+  max_level = 6
+  colonial_points = { 30 50 70 90 110 130 } #points at levels 1-6
+  province = yes
+  one_per_state = yes
+  colonial_range = 50
+  local_ship_build = -0.10
 }
 
-# Rough estimate of high speed rail ocst $1 bil/province -> 250 £       
+# Rough estimate of high speed rail ocst $1 bil/province -> 250 £
 # timber = 100 x 0.14 = 14
 # cement = 2000 x 0.06 = 120
 # steel = 200 x 0.38 = 76
 # petrochemicals = 250 x 0.05 = 12.5 TODO
-railroad = {   
-	type = infrastructure
-	goods_cost =
-	{
-		timber = 100
-		cement = 100
-		steel = 100
-	}
-	time = 720
-	visibility = yes
-	onmap = no
-	max_level = 6
-	province = yes
-	
-	infrastructure = 0.16
-	movement_cost = -0.05
-	
-	pop_build_factory = yes
-	spawn_railway_track = no
+railroad = {
+  type = infrastructure
+  goods_cost =
+  {
+    timber = 100
+    cement = 100
+    steel = 100
+  }
+  time = 720
+  visibility = yes
+  onmap = no
+  max_level = 6
+  province = yes
+
+  infrastructure = 0.16
+  movement_cost = -0.05
+
+  pop_build_factory = yes
+  spawn_railway_track = no
 }

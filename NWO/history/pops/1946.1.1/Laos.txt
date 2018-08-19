@@ -1,243 +1,243 @@
 #Luangprabang - Luangprabang (531000/132750 POPS)
 1356 = {
-	clergymen = {
-		culture = lao
-		religion =  buddhist 
-		size = 2635
-	 } 
-	clergymen = {
-		culture = lao
-		religion = secularism
-		size = 19
-	 } 
-	farmers = {
-		culture = lao
-		religion =  buddhist 
-		size = 64559
-	 } 
-	farmers = {
-		culture = lao
-		religion = secularism
-		size = 487
-	 } 
-	farmers = {
-		culture = asian_minor
-		religion =  animist 
-		size = 64559
-	 } 
-	farmers = {
-		culture = asian_minor
-		religion = secularism
-		size = 487
-	 } 
+  clergymen = {
+    culture = lao
+    religion =  buddhist
+    size = 2635
+  }
+  clergymen = {
+    culture = lao
+    religion = secularism
+    size = 19
+  }
+  farmers = {
+    culture = lao
+    religion =  buddhist
+    size = 64559
+  }
+  farmers = {
+    culture = lao
+    religion = secularism
+    size = 487
+  }
+  farmers = {
+    culture = asian_minor
+    religion =  animist
+    size = 64559
+  }
+  farmers = {
+    culture = asian_minor
+    religion = secularism
+    size = 487
+  }
 }
 #Vientiane - Vientiane (441000/110250 POPS)
 1357 = {
-	officers = {
-		culture = lao
-		religion =  buddhist 
-		size = 808
-	 } 
-	officers = {
-		culture = lao
-		religion = secularism
-		size = 6
-	 } 
-	soldiers = {
-		culture = lao
-		religion =  buddhist 
-		size = 15368
-	 } 
-	soldiers = {
-		culture = lao
-		religion = secularism
-		size = 116
-	 } 
-	aristocrats = {
-		culture = lao
-		religion =  buddhist 
-		size = 4376
-	 } 
-	aristocrats = {
-		culture = lao
-		religion = secularism
-		size = 33
-	 } 
-	bureaucrats = {
-		culture = lao
-		religion =  buddhist 
-		size = 109
-	 } 
-	clergymen = {
-		culture = lao
-		religion =  buddhist 
-		size = 2188
-	 } 
-	clergymen = {
-		culture = lao
-		religion = secularism
-		size = 16
-	 } 
-	artisans = {
-		culture = lao
-		religion =  buddhist 
-		size = 264
-	 } 
-	artisans = {
-		culture = lao
-		religion = secularism
-		size = 1
-	 } 
-	farmers = {
-		culture = lao
-		religion =  buddhist 
-		size = 67704
-	 } 
-	farmers = {
-		culture = lao
-		religion = secularism
-		size = 511
-	 } 
-	farmers = {
-		culture = thai
-		religion =  buddhist 
-		size = 18601
-	 } 
-	farmers = {
-		culture = thai
-		religion = secularism
-		size = 140
-	 } 
+  officers = {
+    culture = lao
+    religion =  buddhist
+    size = 808
+  }
+  officers = {
+    culture = lao
+    religion = secularism
+    size = 6
+  }
+  soldiers = {
+    culture = lao
+    religion =  buddhist
+    size = 15368
+  }
+  soldiers = {
+    culture = lao
+    religion = secularism
+    size = 116
+  }
+  aristocrats = {
+    culture = lao
+    religion =  buddhist
+    size = 4376
+  }
+  aristocrats = {
+    culture = lao
+    religion = secularism
+    size = 33
+  }
+  bureaucrats = {
+    culture = lao
+    religion =  buddhist
+    size = 109
+  }
+  clergymen = {
+    culture = lao
+    religion =  buddhist
+    size = 2188
+  }
+  clergymen = {
+    culture = lao
+    religion = secularism
+    size = 16
+  }
+  artisans = {
+    culture = lao
+    religion =  buddhist
+    size = 264
+  }
+  artisans = {
+    culture = lao
+    religion = secularism
+    size = 1
+  }
+  farmers = {
+    culture = lao
+    religion =  buddhist
+    size = 67704
+  }
+  farmers = {
+    culture = lao
+    religion = secularism
+    size = 511
+  }
+  farmers = {
+    culture = thai
+    religion =  buddhist
+    size = 18601
+  }
+  farmers = {
+    culture = thai
+    religion = secularism
+    size = 140
+  }
 }
 #Xiangabouli - Xiangabouli (178000/44500 POPS)
 1360 = {
-	clergymen = {
-		culture = lao
-		religion =  buddhist 
-		size = 883
-	 } 
-	clergymen = {
-		culture = lao
-		religion = secularism
-		size = 6
-	 } 
-	farmers = {
-		culture = lao
-		religion =  buddhist 
-		size = 3533
-	 } 
-	farmers = {
-		culture = lao
-		religion = secularism
-		size = 26
-	 } 
-	farmers = {
-		culture = asian_minor
-		religion =  buddhist 
-		size = 39749
-	 } 
-	farmers = {
-		culture = asian_minor
-		religion = secularism
-		size = 300
-	 } 
+  clergymen = {
+    culture = lao
+    religion =  buddhist
+    size = 883
+  }
+  clergymen = {
+    culture = lao
+    religion = secularism
+    size = 6
+  }
+  farmers = {
+    culture = lao
+    religion =  buddhist
+    size = 3533
+  }
+  farmers = {
+    culture = lao
+    religion = secularism
+    size = 26
+  }
+  farmers = {
+    culture = asian_minor
+    religion =  buddhist
+    size = 39749
+  }
+  farmers = {
+    culture = asian_minor
+    religion = secularism
+    size = 300
+  }
 }
 #Savannakhet - Savannakhet (362000/90500 POPS)
 1361 = {
-	clergymen = {
-		culture = lao
-		religion =  buddhist 
-		size = 1796
-	 } 
-	clergymen = {
-		culture = lao
-		religion = secularism
-		size = 13
-	 } 
-	farmers = {
-		culture = lao
-		religion =  buddhist 
-		size = 65569
-	 } 
-	farmers = {
-		culture = lao
-		religion = secularism
-		size = 495
-	 } 
-	farmers = {
-		culture = asian_minor
-		religion =  animist 
-		size = 22455
-	 } 
-	farmers = {
-		culture = asian_minor
-		religion = secularism
-		size = 169
-	 } 
+  clergymen = {
+    culture = lao
+    religion =  buddhist
+    size = 1796
+  }
+  clergymen = {
+    culture = lao
+    religion = secularism
+    size = 13
+  }
+  farmers = {
+    culture = lao
+    religion =  buddhist
+    size = 65569
+  }
+  farmers = {
+    culture = lao
+    religion = secularism
+    size = 495
+  }
+  farmers = {
+    culture = asian_minor
+    religion =  animist
+    size = 22455
+  }
+  farmers = {
+    culture = asian_minor
+    religion = secularism
+    size = 169
+  }
 }
 #Satavan - Satavan (179000/44750 POPS)
 1362 = {
-	clergymen = {
-		culture = khmer
-		religion =  buddhist 
-		size = 888
-	 } 
-	clergymen = {
-		culture = khmer
-		religion = secularism
-		size = 6
-	 } 
-	farmers = {
-		culture = khmer
-		religion =  buddhist 
-		size = 6661
-	 } 
-	farmers = {
-		culture = khmer
-		religion = secularism
-		size = 50
-	 } 
-	farmers = {
-		culture = asian_minor
-		religion =  animist 
-		size = 36863
-	 } 
-	farmers = {
-		culture = asian_minor
-		religion = secularism
-		size = 278
-	 } 
+  clergymen = {
+    culture = khmer
+    religion =  buddhist
+    size = 888
+  }
+  clergymen = {
+    culture = khmer
+    religion = secularism
+    size = 6
+  }
+  farmers = {
+    culture = khmer
+    religion =  buddhist
+    size = 6661
+  }
+  farmers = {
+    culture = khmer
+    religion = secularism
+    size = 50
+  }
+  farmers = {
+    culture = asian_minor
+    religion =  animist
+    size = 36863
+  }
+  farmers = {
+    culture = asian_minor
+    religion = secularism
+    size = 278
+  }
 }
 #Pakche - Pakche (193000/48250 POPS)
 1363 = {
-	clergymen = {
-		culture = khmer
-		religion =  buddhist 
-		size = 957
-	 } 
-	clergymen = {
-		culture = khmer
-		religion = secularism
-		size = 7
-	 } 
-	farmers = {
-		culture = khmer
-		religion =  buddhist 
-		size = 42141
-	 } 
-	farmers = {
-		culture = khmer
-		religion = secularism
-		size = 318
-	 } 
-	farmers = {
-		culture = asian_minor
-		religion =  animist 
-		size = 4788
-	 } 
-	farmers = {
-		culture = asian_minor
-		religion = secularism
-		size = 36
-	 } 
+  clergymen = {
+    culture = khmer
+    religion =  buddhist
+    size = 957
+  }
+  clergymen = {
+    culture = khmer
+    religion = secularism
+    size = 7
+  }
+  farmers = {
+    culture = khmer
+    religion =  buddhist
+    size = 42141
+  }
+  farmers = {
+    culture = khmer
+    religion = secularism
+    size = 318
+  }
+  farmers = {
+    culture = asian_minor
+    religion =  animist
+    size = 4788
+  }
+  farmers = {
+    culture = asian_minor
+    religion = secularism
+    size = 36
+  }
 }

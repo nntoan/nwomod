@@ -1,33 +1,33 @@
 #Comoros - Comoros (430000/107500 POPS)
 2123 = {
-	aristocrats = {
-		culture = comore
-		religion =  sunni 
-		size = 4300
-	 } 
-	clergymen = {
-		culture = comore
-		religion =  sunni 
-		size = 2150
-	 } 
-	clerks = {
-		culture = comore
-		religion =  sunni 
-		size = 1124
-	 } 
-	artisans = {
-		culture = comore
-		religion =  sunni 
-		size = 1068
-	 } 
-	craftsmen = {
-		culture = comore
-		religion =  sunni 
-		size = 3373
-	 } 
-	farmers = {
-		culture = comore
-		religion =  sunni 
-		size = 94841
-	 } 
+  aristocrats = {
+    culture = comore
+    religion =  sunni
+    size = 4300
+  }
+  clergymen = {
+    culture = comore
+    religion =  sunni
+    size = 2150
+  }
+  clerks = {
+    culture = comore
+    religion =  sunni
+    size = 1124
+  }
+  artisans = {
+    culture = comore
+    religion =  sunni
+    size = 1068
+  }
+  craftsmen = {
+    culture = comore
+    religion =  sunni
+    size = 3373
+  }
+  farmers = {
+    culture = comore
+    religion =  sunni
+    size = 94841
+  }
 }

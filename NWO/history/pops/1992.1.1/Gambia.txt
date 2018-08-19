@@ -1,78 +1,78 @@
 #Banjul - Banjul (950000/237500 POPS)
 1785 = {
-	officers = {
-		culture = anglo_african
-		religion =  protestant 
-		size = 11
-	 } 
-	soldiers = {
-		culture = anglo_african
-		religion =  protestant 
-		size = 227
-	 } 
-	soldiers = {
-		culture = anglo_african
-		religion = secularism
-		size = 9
-	 } 
-	aristocrats = {
-		culture = anglo_african
-		religion =  protestant 
-		size = 8880
-	 } 
-	aristocrats = {
-		culture = anglo_african
-		religion = secularism
-		size = 370
-	 } 
-	capitalists = {
-		culture = mande
-		religion =  sunni 
-		size = 1187
-	 } 
-	clergymen = {
-		culture = mande
-		religion =  sunni 
-		size = 4750
-	 } 
-	clerks = {
-		culture = mande
-		religion =  sunni 
-		size = 5073
-	 } 
-	artisans = {
-		culture = mande
-		religion =  sunni 
-		size = 4819
-	 } 
-	craftsmen = {
-		culture = mande
-		religion =  sunni 
-		size = 15220
-	 } 
-	farmers = {
-		culture = mande
-		religion =  sunni 
-		size = 67977
-	 } 
-	farmers = {
-		culture = fula
-		religion =  sunni 
-		size = 42750
-	 } 
-	farmers = {
-		culture = wolof
-		religion =  sunni 
-		size = 38000
-	 } 
-	farmers = {
-		culture = african_minor
-		religion =  catholic 
-		size = 45600
-	 } 
-	farmers = {
-		culture = african_minor
-		religion = secularism
-		size = 1900
-	 } 
+  officers = {
+    culture = anglo_african
+    religion =  protestant
+    size = 11
+  }
+  soldiers = {
+    culture = anglo_african
+    religion =  protestant
+    size = 227
+  }
+  soldiers = {
+    culture = anglo_african
+    religion = secularism
+    size = 9
+  }
+  aristocrats = {
+    culture = anglo_african
+    religion =  protestant
+    size = 8880
+  }
+  aristocrats = {
+    culture = anglo_african
+    religion = secularism
+    size = 370
+  }
+  capitalists = {
+    culture = mande
+    religion =  sunni
+    size = 1187
+  }
+  clergymen = {
+    culture = mande
+    religion =  sunni
+    size = 4750
+  }
+  clerks = {
+    culture = mande
+    religion =  sunni
+    size = 5073
+  }
+  artisans = {
+    culture = mande
+    religion =  sunni
+    size = 4819
+  }
+  craftsmen = {
+    culture = mande
+    religion =  sunni
+    size = 15220
+  }
+  farmers = {
+    culture = mande
+    religion =  sunni
+    size = 67977
+  }
+  farmers = {
+    culture = fula
+    religion =  sunni
+    size = 42750
+  }
+  farmers = {
+    culture = wolof
+    religion =  sunni
+    size = 38000
+  }
+  farmers = {
+    culture = african_minor
+    religion =  catholic
+    size = 45600
+  }
+  farmers = {
+    culture = african_minor
+    religion = secularism
+    size = 1900
+  }
 }

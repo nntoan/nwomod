@@ -1,143 +1,143 @@
 graphical_culture = SouthAmericanGC
 color = { 255 176 140 }
 party = {
-		name = "party_conservative_0_VNZ"
-		citizenship_policy = limited_citizenship
-		economic_policy = interventionism
-		ideology = conservative
-		religious_policy = secularized
-		trade_policy = free_trade
-		war_policy = pro_military
-		start_date = 1836.1.1
-		end_date = 2300.1.1
+  name = "party_conservative_0_VNZ"
+  citizenship_policy = limited_citizenship
+  economic_policy = interventionism
+  ideology = conservative
+  religious_policy = secularized
+  trade_policy = free_trade
+  war_policy = pro_military
+  start_date = 1836.1.1
+  end_date = 2300.1.1
 }
 party = {
-		name = "party_liberal_0_VNZ"
-		citizenship_policy = full_citizenship
-		economic_policy = laissez_faire
-		ideology = liberal
-		religious_policy = secularized
-		trade_policy = free_trade
-		war_policy = pacifism
-		start_date = 1836.1.1
-		end_date = 2300.1.1
+  name = "party_liberal_0_VNZ"
+  citizenship_policy = full_citizenship
+  economic_policy = laissez_faire
+  ideology = liberal
+  religious_policy = secularized
+  trade_policy = free_trade
+  war_policy = pacifism
+  start_date = 1836.1.1
+  end_date = 2300.1.1
 }
 party = {
-		name = "party_socialist_0_VNZ"
-		citizenship_policy = limited_citizenship
-		economic_policy = state_capitalism
-		ideology = socialist
-		religious_policy = pro_atheism
-		trade_policy = protectionism
-		war_policy = pacifism
-		start_date = 1971.1.1
-		end_date = 2300.1.1
+  name = "party_socialist_0_VNZ"
+  citizenship_policy = limited_citizenship
+  economic_policy = state_capitalism
+  ideology = socialist
+  religious_policy = pro_atheism
+  trade_policy = protectionism
+  war_policy = pacifism
+  start_date = 1971.1.1
+  end_date = 2300.1.1
 }
 party = {
-		name = "party_socialist_1_VNZ"
-		citizenship_policy = limited_citizenship
-		economic_policy = state_capitalism
-		ideology = socialist
-		religious_policy = pro_atheism
-		trade_policy = protectionism
-		war_policy = pacifism
-		start_date = 2007.1.1
-		end_date = 2300.1.1
+  name = "party_socialist_1_VNZ"
+  citizenship_policy = limited_citizenship
+  economic_policy = state_capitalism
+  ideology = socialist
+  religious_policy = pro_atheism
+  trade_policy = protectionism
+  war_policy = pacifism
+  start_date = 2007.1.1
+  end_date = 2300.1.1
 }
 party = {
-		name = "party_progressive_0_VNZ"
-		citizenship_policy = full_citizenship
-		economic_policy = interventionism
-		ideology = progressive
-		religious_policy = pro_atheism
-		trade_policy = protectionism
-		war_policy = pacifism
-		start_date = 1836.1.1
-		end_date = 2300.1.1
+  name = "party_progressive_0_VNZ"
+  citizenship_policy = full_citizenship
+  economic_policy = interventionism
+  ideology = progressive
+  religious_policy = pro_atheism
+  trade_policy = protectionism
+  war_policy = pacifism
+  start_date = 1836.1.1
+  end_date = 2300.1.1
 }
 party = {
-		name = "party_populist_0_VNZ"
-		citizenship_policy = residency
-		economic_policy = state_capitalism
-		ideology = populist
-		religious_policy = secularized
-		trade_policy = protectionism
-		war_policy = jingoism
-		start_date = 1965.1.1
-		end_date = 2300.1.1
+  name = "party_populist_0_VNZ"
+  citizenship_policy = residency
+  economic_policy = state_capitalism
+  ideology = populist
+  religious_policy = secularized
+  trade_policy = protectionism
+  war_policy = jingoism
+  start_date = 1965.1.1
+  end_date = 2300.1.1
 }
 party = {
-		name = "party_populist_1_VNZ"
-		citizenship_policy = residency
-		economic_policy = state_capitalism
-		ideology = populist
-		religious_policy = secularized
-		trade_policy = protectionism
-		war_policy = jingoism
-		start_date = 2009.1.1
-		end_date = 2300.1.1
+  name = "party_populist_1_VNZ"
+  citizenship_policy = residency
+  economic_policy = state_capitalism
+  ideology = populist
+  religious_policy = secularized
+  trade_policy = protectionism
+  war_policy = jingoism
+  start_date = 2009.1.1
+  end_date = 2300.1.1
 }
 party = {
-		name = "party_traditionalist_0_VNZ"
-		citizenship_policy = residency
-		economic_policy = state_capitalism
-		ideology = traditionalist
-		religious_policy = moralism
-		trade_policy = protectionism
-		war_policy = pro_military
-		start_date = 1836.1.1
-		end_date = 2300.1.1
+  name = "party_traditionalist_0_VNZ"
+  citizenship_policy = residency
+  economic_policy = state_capitalism
+  ideology = traditionalist
+  religious_policy = moralism
+  trade_policy = protectionism
+  war_policy = pro_military
+  start_date = 1836.1.1
+  end_date = 2300.1.1
 }
 party = {
-		name = "party_communist_0_VNZ"
-		citizenship_policy = full_citizenship
-		economic_policy = planned_economy
-		ideology = communist
-		religious_policy = pro_atheism
-		trade_policy = protectionism
-		war_policy = pacifism
-		start_date = 1836.1.1
-		end_date = 2300.1.1
+  name = "party_communist_0_VNZ"
+  citizenship_policy = full_citizenship
+  economic_policy = planned_economy
+  ideology = communist
+  religious_policy = pro_atheism
+  trade_policy = protectionism
+  war_policy = pacifism
+  start_date = 1836.1.1
+  end_date = 2300.1.1
 }
 party = {
-		name = "party_nationalist"
-		citizenship_policy = full_citizenship
-		economic_policy = planned_economy
-		ideology = nationalist
-		religious_policy = secularized
-		trade_policy = protectionism
-		war_policy = pro_military
-		start_date = 1836.1.1
-		end_date = 2300.1.1
+  name = "party_nationalist"
+  citizenship_policy = full_citizenship
+  economic_policy = planned_economy
+  ideology = nationalist
+  religious_policy = secularized
+  trade_policy = protectionism
+  war_policy = pro_military
+  start_date = 1836.1.1
+  end_date = 2300.1.1
 }
 unit_names = {
-	carrier = {
-		"Almirante Brión" "Francisco de Miranda" "General Falcón" "General Páez" "General Zamora" Guaicaipuro "Mariscal Sucre" "Simón Bolivar" Tamanaco Venezuela
-	}
-	transportship = {
-		Diligente Móvil Navegante Neptuno Poderoso Reivindicador Remolcador República "San Juan" "San Lucas"
-		"San Marcos" "San Mateo" "San Pablo" "San Pedro" Sirena Tormenta Tritón Veloz Ventoso Zamora
-	}
-	modern_frigate = {
-		Aragua Constitución Federación "General Crespo" Independencia Libertad Marcay Maturín Miranda Patria
-	}
-	cruiser = {
-		Aragua Caroní Casiquiare Cumaná "General Salom" Maracaibo Orinoco Restaurador Sucre Zulia
-	}
-	modern_cruiser = {
-		"Almirante Brión" "Francisco de Miranda" "General Falcón" "General Páez" "General Zamora" Guaicaipuro "Mariscal Sucre" "Simón Bolivar" Tamanaco Venezuela
-	}
-	frigate = {
-		Caribe Cojedes Lara Mérida Monagas "Nueva Esparta" Portuguesa Trujillo Warao Yecuana
-	}
-	modern_destroyer = {
-		Bolívar Carabobo "General Soublette" "General Urdaneta" Maraparari Monagas Totumo Trópico "Veintitres de Mayo"
-	}
-	destroyer = {
-		Brión Colombiana Conejo Eclipse Feliz Independencia Intrépido Mariño Piar Rita
-	}
-	submarine = {
-		Cacique Carreño "Diego de Losada" "Gran Colombia" Gual Guayana Narvate "Nueva Andalucía" Tovar Villegas
-	}
+  carrier = {
+    "Almirante Briï¿½n" "Francisco de Miranda" "General Falcï¿½n" "General Pï¿½ez" "General Zamora" Guaicaipuro "Mariscal Sucre" "Simï¿½n Bolivar" Tamanaco Venezuela
+  }
+  transportship = {
+    Diligente Mï¿½vil Navegante Neptuno Poderoso Reivindicador Remolcador Repï¿½blica "San Juan" "San Lucas"
+    "San Marcos" "San Mateo" "San Pablo" "San Pedro" Sirena Tormenta Tritï¿½n Veloz Ventoso Zamora
+  }
+  modern_frigate = {
+    Aragua Constituciï¿½n Federaciï¿½n "General Crespo" Independencia Libertad Marcay Maturï¿½n Miranda Patria
+  }
+  cruiser = {
+    Aragua Caronï¿½ Casiquiare Cumanï¿½ "General Salom" Maracaibo Orinoco Restaurador Sucre Zulia
+  }
+  modern_cruiser = {
+    "Almirante Briï¿½n" "Francisco de Miranda" "General Falcï¿½n" "General Pï¿½ez" "General Zamora" Guaicaipuro "Mariscal Sucre" "Simï¿½n Bolivar" Tamanaco Venezuela
+  }
+  frigate = {
+    Caribe Cojedes Lara Mï¿½rida Monagas "Nueva Esparta" Portuguesa Trujillo Warao Yecuana
+  }
+  modern_destroyer = {
+    Bolï¿½var Carabobo "General Soublette" "General Urdaneta" Maraparari Monagas Totumo Trï¿½pico "Veintitres de Mayo"
+  }
+  destroyer = {
+    Briï¿½n Colombiana Conejo Eclipse Feliz Independencia Intrï¿½pido Mariï¿½o Piar Rita
+  }
+  submarine = {
+    Cacique Carreï¿½o "Diego de Losada" "Gran Colombia" Gual Guayana Narvate "Nueva Andalucï¿½a" Tovar Villegas
+  }
 
 }

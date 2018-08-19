@@ -7,9 +7,9 @@ life_rating = 23
 terrain = dry_forest_hills
 colonial = 0
 1992.1.1 = {
-owner = GRE
-controller = GRE
-add_core = GRE
-add_core = TUR
-colonial = 0
+  owner = GRE
+  controller = GRE
+  add_core = GRE
+  add_core = TUR
+  colonial = 0
 }

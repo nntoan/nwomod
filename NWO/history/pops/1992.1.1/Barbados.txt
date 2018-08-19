@@ -1,143 +1,143 @@
 #Barbados - Barbados (262000/65500 POPS)
 2229 = {
-	capitalists = {
-		culture = british
-		religion =  protestant 
-		size = 322
-	 } 
-	capitalists = {
-		culture = british
-		religion = secularism
-		size = 70
-	 } 
-	officers = {
-		culture = afro_caribbean
-		religion =  protestant 
-		size = 13
-	 } 
-	officers = {
-		culture = afro_caribbean
-		religion = secularism
-		size = 2
-	 } 
-	soldiers = {
-		culture = afro_caribbean
-		religion =  protestant 
-		size = 252
-	 } 
-	soldiers = {
-		culture = afro_caribbean
-		religion = secularism
-		size = 55
-	 } 
-	aristocrats = {
-		culture = afro_caribbean
-		religion =  protestant 
-		size = 1879
-	 } 
-	aristocrats = {
-		culture = afro_caribbean
-		religion = secularism
-		size = 412
-	 } 
-	bureaucrats = {
-		culture = afro_caribbean
-		religion =  protestant 
-		size = 214
-	 } 
-	bureaucrats = {
-		culture = afro_caribbean
-		religion = secularism
-		size = 47
-	 } 
-	clergymen = {
-		culture = afro_caribbean
-		religion =  protestant 
-		size = 1074
-	 } 
-	clergymen = {
-		culture = afro_caribbean
-		religion = secularism
-		size = 235
-	 } 
-	clerks = {
-		culture = afro_caribbean
-		religion =  protestant 
-		size = 887
-	 } 
-	clerks = {
-		culture = afro_caribbean
-		religion = secularism
-		size = 194
-	 } 
-	artisans = {
-		culture = afro_caribbean
-		religion =  protestant 
-		size = 842
-	 } 
-	artisans = {
-		culture = afro_caribbean
-		religion = secularism
-		size = 185
-	 } 
-	craftsmen = {
-		culture = afro_caribbean
-		religion =  protestant 
-		size = 2661
-	 } 
-	craftsmen = {
-		culture = afro_caribbean
-		religion = secularism
-		size = 584
-	 } 
-	farmers = {
-		culture = afro_caribbean
-		religion =  protestant 
-		size = 41801
-	 } 
-	farmers = {
-		culture = afro_caribbean
-		religion = secularism
-		size = 9176
-	 } 
-	farmers = {
-		culture = british
-		religion =  protestant 
-		size = 1127
-	 } 
-	farmers = {
-		culture = british
-		religion = secularism
-		size = 247
-	 } 
-	farmers = {
-		culture = chinese
-		religion =  taoism 
-		size = 268
-	 } 
-	farmers = {
-		culture = chinese
-		religion = secularism
-		size = 58
-	 } 
-	farmers = {
-		culture = indian
-		religion =  hindu 
-		size = 697
-	 } 
-	farmers = {
-		culture = indian
-		religion = secularism
-		size = 153
-	 } 
-	farmers = {
-		culture = caribbean_spanish
-		religion =  catholic 
-		size = 1664
-	 } 
-	farmers = {
-		culture = caribbean_spanish
-		religion = secularism
-		size = 365
-	 } 
+  capitalists = {
+    culture = british
+    religion =  protestant
+    size = 322
+  }
+  capitalists = {
+    culture = british
+    religion = secularism
+    size = 70
+  }
+  officers = {
+    culture = afro_caribbean
+    religion =  protestant
+    size = 13
+  }
+  officers = {
+    culture = afro_caribbean
+    religion = secularism
+    size = 2
+  }
+  soldiers = {
+    culture = afro_caribbean
+    religion =  protestant
+    size = 252
+  }
+  soldiers = {
+    culture = afro_caribbean
+    religion = secularism
+    size = 55
+  }
+  aristocrats = {
+    culture = afro_caribbean
+    religion =  protestant
+    size = 1879
+  }
+  aristocrats = {
+    culture = afro_caribbean
+    religion = secularism
+    size = 412
+  }
+  bureaucrats = {
+    culture = afro_caribbean
+    religion =  protestant
+    size = 214
+  }
+  bureaucrats = {
+    culture = afro_caribbean
+    religion = secularism
+    size = 47
+  }
+  clergymen = {
+    culture = afro_caribbean
+    religion =  protestant
+    size = 1074
+  }
+  clergymen = {
+    culture = afro_caribbean
+    religion = secularism
+    size = 235
+  }
+  clerks = {
+    culture = afro_caribbean
+    religion =  protestant
+    size = 887
+  }
+  clerks = {
+    culture = afro_caribbean
+    religion = secularism
+    size = 194
+  }
+  artisans = {
+    culture = afro_caribbean
+    religion =  protestant
+    size = 842
+  }
+  artisans = {
+    culture = afro_caribbean
+    religion = secularism
+    size = 185
+  }
+  craftsmen = {
+    culture = afro_caribbean
+    religion =  protestant
+    size = 2661
+  }
+  craftsmen = {
+    culture = afro_caribbean
+    religion = secularism
+    size = 584
+  }
+  farmers = {
+    culture = afro_caribbean
+    religion =  protestant
+    size = 41801
+  }
+  farmers = {
+    culture = afro_caribbean
+    religion = secularism
+    size = 9176
+  }
+  farmers = {
+    culture = british
+    religion =  protestant
+    size = 1127
+  }
+  farmers = {
+    culture = british
+    religion = secularism
+    size = 247
+  }
+  farmers = {
+    culture = chinese
+    religion =  taoism
+    size = 268
+  }
+  farmers = {
+    culture = chinese
+    religion = secularism
+    size = 58
+  }
+  farmers = {
+    culture = indian
+    religion =  hindu
+    size = 697
+  }
+  farmers = {
+    culture = indian
+    religion = secularism
+    size = 153
+  }
+  farmers = {
+    culture = caribbean_spanish
+    religion =  catholic
+    size = 1664
+  }
+  farmers = {
+    culture = caribbean_spanish
+    religion = secularism
+    size = 365
+  }
 }

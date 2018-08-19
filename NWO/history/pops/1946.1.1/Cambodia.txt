@@ -1,182 +1,182 @@
 #Phnom Penh - The rest (2602000/650500 POPS)
 1364 = {
-	officers = {
-		culture = khmer
-		religion =  buddhist 
-		size = 641
-	 } 
-	officers = {
-		culture = khmer
-		religion = secularism
-		size = 4
-	 } 
-	soldiers = {
-		culture = khmer
-		religion =  buddhist 
-		size = 12189
-	 } 
-	soldiers = {
-		culture = khmer
-		religion = secularism
-		size = 92
-	 } 
-	aristocrats = {
-		culture = khmer
-		religion =  buddhist 
-		size = 25824
-	 } 
-	aristocrats = {
-		culture = khmer
-		religion = secularism
-		size = 195
-	 } 
-	bureaucrats = {
-		culture = khmer
-		religion =  buddhist 
-		size = 645
-	 } 
-	bureaucrats = {
-		culture = khmer
-		religion = secularism
-		size = 4
-	 } 
-	clergymen = {
-		culture = khmer
-		religion =  buddhist 
-		size = 12912
-	 } 
-	clergymen = {
-		culture = khmer
-		religion = secularism
-		size = 97
-	 } 
-	artisans = {
-		culture = khmer
-		religion =  buddhist 
-		size = 2245
-	 } 
-	artisans = {
-		culture = khmer
-		religion = secularism
-		size = 16
-	 } 
-	farmers = {
-		culture = khmer
-		religion =  buddhist 
-		size = 513688
-	 } 
-	farmers = {
-		culture = khmer
-		religion = secularism
-		size = 3881
-	 } 
-	farmers = {
-		culture = chinese
-		religion =  taoism 
-		size = 12912
-	 } 
-	farmers = {
-		culture = chinese
-		religion = secularism
-		size = 97
-	 } 
-	farmers = {
-		culture = vietnamese
-		religion =  buddhist 
-		size = 58105
-	 } 
-	farmers = {
-		culture = vietnamese
-		religion = secularism
-		size = 439
-	 } 
-	farmers = {
-		culture = cham
-		religion =  sunni 
-		size = 6505
-	 } 
+  officers = {
+    culture = khmer
+    religion =  buddhist
+    size = 641
+  }
+  officers = {
+    culture = khmer
+    religion = secularism
+    size = 4
+  }
+  soldiers = {
+    culture = khmer
+    religion =  buddhist
+    size = 12189
+  }
+  soldiers = {
+    culture = khmer
+    religion = secularism
+    size = 92
+  }
+  aristocrats = {
+    culture = khmer
+    religion =  buddhist
+    size = 25824
+  }
+  aristocrats = {
+    culture = khmer
+    religion = secularism
+    size = 195
+  }
+  bureaucrats = {
+    culture = khmer
+    religion =  buddhist
+    size = 645
+  }
+  bureaucrats = {
+    culture = khmer
+    religion = secularism
+    size = 4
+  }
+  clergymen = {
+    culture = khmer
+    religion =  buddhist
+    size = 12912
+  }
+  clergymen = {
+    culture = khmer
+    religion = secularism
+    size = 97
+  }
+  artisans = {
+    culture = khmer
+    religion =  buddhist
+    size = 2245
+  }
+  artisans = {
+    culture = khmer
+    religion = secularism
+    size = 16
+  }
+  farmers = {
+    culture = khmer
+    religion =  buddhist
+    size = 513688
+  }
+  farmers = {
+    culture = khmer
+    religion = secularism
+    size = 3881
+  }
+  farmers = {
+    culture = chinese
+    religion =  taoism
+    size = 12912
+  }
+  farmers = {
+    culture = chinese
+    religion = secularism
+    size = 97
+  }
+  farmers = {
+    culture = vietnamese
+    religion =  buddhist
+    size = 58105
+  }
+  farmers = {
+    culture = vietnamese
+    religion = secularism
+    size = 439
+  }
+  farmers = {
+    culture = cham
+    religion =  sunni
+    size = 6505
+  }
 }
 #Battambang - Battambang, Pailin, Banteay, Oddar, Siem, Preah (1048000/262000 POPS)
 1366 = {
-	clergymen = {
-		culture = khmer
-		religion =  buddhist 
-		size = 5200
-	 } 
-	clergymen = {
-		culture = khmer
-		religion = secularism
-		size = 39
-	 } 
-	farmers = {
-		culture = khmer
-		religion =  buddhist 
-		size = 254834
-	 } 
-	farmers = {
-		culture = khmer
-		religion = secularism
-		size = 1925
-	 } 
+  clergymen = {
+    culture = khmer
+    religion =  buddhist
+    size = 5200
+  }
+  clergymen = {
+    culture = khmer
+    religion = secularism
+    size = 39
+  }
+  farmers = {
+    culture = khmer
+    religion =  buddhist
+    size = 254834
+  }
+  farmers = {
+    culture = khmer
+    religion = secularism
+    size = 1925
+  }
 }
 #Kampot - Kampo, Preah Sihanouk, Kho Kong, Pursat, Kep (467000/116750 POPS)
 1367 = {
-	clergymen = {
-		culture = khmer
-		religion =  buddhist 
-		size = 2317
-	 } 
-	clergymen = {
-		culture = khmer
-		religion = secularism
-		size = 17
-	 } 
-	farmers = {
-		culture = khmer
-		religion =  buddhist 
-		size = 113556
-	 } 
-	farmers = {
-		culture = khmer
-		religion = secularism
-		size = 858
-	 } 
+  clergymen = {
+    culture = khmer
+    religion =  buddhist
+    size = 2317
+  }
+  clergymen = {
+    culture = khmer
+    religion = secularism
+    size = 17
+  }
+  farmers = {
+    culture = khmer
+    religion =  buddhist
+    size = 113556
+  }
+  farmers = {
+    culture = khmer
+    religion = secularism
+    size = 858
+  }
 }
 #Stongtreng - Stung Treng, Ratanakiri,Mondulkiri, Kracheh (352000/88000 POPS)
 1368 = {
-	clergymen = {
-		culture = khmer
-		religion =  buddhist 
-		size = 1746
-	 } 
-	clergymen = {
-		culture = khmer
-		religion = secularism
-		size = 13
-	 } 
-	farmers = {
-		culture = khmer
-		religion =  buddhist 
-		size = 50657
-	 } 
-	farmers = {
-		culture = khmer
-		religion = secularism
-		size = 382
-	 } 
-	farmers = {
-		culture = cham
-		religion =  sunni 
-		size = 13200
-	 } 
-	farmers = {
-		culture = lao
-		religion =  buddhist 
-		size = 21835
-	 } 
-	farmers = {
-		culture = lao
-		religion = secularism
-		size = 165
-	 } 
+  clergymen = {
+    culture = khmer
+    religion =  buddhist
+    size = 1746
+  }
+  clergymen = {
+    culture = khmer
+    religion = secularism
+    size = 13
+  }
+  farmers = {
+    culture = khmer
+    religion =  buddhist
+    size = 50657
+  }
+  farmers = {
+    culture = khmer
+    religion = secularism
+    size = 382
+  }
+  farmers = {
+    culture = cham
+    religion =  sunni
+    size = 13200
+  }
+  farmers = {
+    culture = lao
+    religion =  buddhist
+    size = 21835
+  }
+  farmers = {
+    culture = lao
+    religion = secularism
+    size = 165
+  }
 }

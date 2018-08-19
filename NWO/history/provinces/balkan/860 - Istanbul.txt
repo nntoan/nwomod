@@ -6,19 +6,19 @@ life_rating = 36
 terrain = urban_istanbul
 colonial = 0
 1992.1.1 = {
-owner = TUR
-controller = TUR
-add_core = TUR
-colonial = 0
-naval_base = 2
-state_building = {
-	level = 3
-	building = automobiles_factory
-	upgrade = yes
-}
-state_building = {
-	level = 3
-	building = steel_factory
-	upgrade = yes
-}
+  owner = TUR
+  controller = TUR
+  add_core = TUR
+  colonial = 0
+  naval_base = 2
+  state_building = {
+    level = 3
+    building = automobiles_factory
+    upgrade = yes
+  }
+  state_building = {
+    level = 3
+    building = steel_factory
+    upgrade = yes
+  }
 }

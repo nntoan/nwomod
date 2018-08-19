@@ -1,133 +1,133 @@
 #Saint Vincent - Saint Vincent (107000/26750 POPS)
 2409 = {
-	capitalists = {
-		culture = british
-		religion =  protestant 
-		size = 107
-	 } 
-	capitalists = {
-		culture = british
-		religion = secularism
-		size = 25
-	 } 
-	aristocrats = {
-		culture = afro_caribbean
-		religion =  protestant 
-		size = 866
-	 } 
-	aristocrats = {
-		culture = afro_caribbean
-		religion = secularism
-		size = 203
-	 } 
-	bureaucrats = {
-		culture = afro_caribbean
-		religion =  protestant 
-		size = 42
-	 } 
-	bureaucrats = {
-		culture = afro_caribbean
-		religion = secularism
-		size = 10
-	 } 
-	clergymen = {
-		culture = afro_caribbean
-		religion =  protestant 
-		size = 433
-	 } 
-	clergymen = {
-		culture = afro_caribbean
-		religion = secularism
-		size = 101
-	 } 
-	clerks = {
-		culture = afro_caribbean
-		religion =  protestant 
-		size = 398
-	 } 
-	clerks = {
-		culture = afro_caribbean
-		religion = secularism
-		size = 93
-	 } 
-	artisans = {
-		culture = afro_caribbean
-		religion =  protestant 
-		size = 378
-	 } 
-	artisans = {
-		culture = afro_caribbean
-		religion = secularism
-		size = 88
-	 } 
-	craftsmen = {
-		culture = afro_caribbean
-		religion =  protestant 
-		size = 1195
-	 } 
-	craftsmen = {
-		culture = afro_caribbean
-		religion = secularism
-		size = 280
-	 } 
-	farmers = {
-		culture = afro_caribbean
-		religion =  protestant 
-		size = 10985
-	 } 
-	farmers = {
-		culture = afro_caribbean
-		religion = secularism
-		size = 2576
-	 } 
-	farmers = {
-		culture = british
-		religion =  protestant 
-		size = 758
-	 } 
-	farmers = {
-		culture = british
-		religion = secularism
-		size = 178
-	 } 
-	farmers = {
-		culture = chinese
-		religion =  taoism 
-		size = 649
-	 } 
-	farmers = {
-		culture = chinese
-		religion = secularism
-		size = 152
-	 } 
-	farmers = {
-		culture = indian
-		religion =  hindu 
-		size = 1300
-	 } 
-	farmers = {
-		culture = indian
-		religion = secularism
-		size = 304
-	 } 
-	farmers = {
-		culture = caribbean_spanish
-		religion =  catholic 
-		size = 4116
-	 } 
-	farmers = {
-		culture = caribbean_spanish
-		religion = secularism
-		size = 965
-	 } 
-	farmers = {
-		culture = native_american_minor
-		religion =  catholic 
-		size = 433
-	 } 
-	farmers = {
-		culture = native_american_minor
-		religion = secularism
-		size = 101
-	 } 
+  capitalists = {
+    culture = british
+    religion =  protestant
+    size = 107
+  }
+  capitalists = {
+    culture = british
+    religion = secularism
+    size = 25
+  }
+  aristocrats = {
+    culture = afro_caribbean
+    religion =  protestant
+    size = 866
+  }
+  aristocrats = {
+    culture = afro_caribbean
+    religion = secularism
+    size = 203
+  }
+  bureaucrats = {
+    culture = afro_caribbean
+    religion =  protestant
+    size = 42
+  }
+  bureaucrats = {
+    culture = afro_caribbean
+    religion = secularism
+    size = 10
+  }
+  clergymen = {
+    culture = afro_caribbean
+    religion =  protestant
+    size = 433
+  }
+  clergymen = {
+    culture = afro_caribbean
+    religion = secularism
+    size = 101
+  }
+  clerks = {
+    culture = afro_caribbean
+    religion =  protestant
+    size = 398
+  }
+  clerks = {
+    culture = afro_caribbean
+    religion = secularism
+    size = 93
+  }
+  artisans = {
+    culture = afro_caribbean
+    religion =  protestant
+    size = 378
+  }
+  artisans = {
+    culture = afro_caribbean
+    religion = secularism
+    size = 88
+  }
+  craftsmen = {
+    culture = afro_caribbean
+    religion =  protestant
+    size = 1195
+  }
+  craftsmen = {
+    culture = afro_caribbean
+    religion = secularism
+    size = 280
+  }
+  farmers = {
+    culture = afro_caribbean
+    religion =  protestant
+    size = 10985
+  }
+  farmers = {
+    culture = afro_caribbean
+    religion = secularism
+    size = 2576
+  }
+  farmers = {
+    culture = british
+    religion =  protestant
+    size = 758
+  }
+  farmers = {
+    culture = british
+    religion = secularism
+    size = 178
+  }
+  farmers = {
+    culture = chinese
+    religion =  taoism
+    size = 649
+  }
+  farmers = {
+    culture = chinese
+    religion = secularism
+    size = 152
+  }
+  farmers = {
+    culture = indian
+    religion =  hindu
+    size = 1300
+  }
+  farmers = {
+    culture = indian
+    religion = secularism
+    size = 304
+  }
+  farmers = {
+    culture = caribbean_spanish
+    religion =  catholic
+    size = 4116
+  }
+  farmers = {
+    culture = caribbean_spanish
+    religion = secularism
+    size = 965
+  }
+  farmers = {
+    culture = native_american_minor
+    religion =  catholic
+    size = 433
+  }
+  farmers = {
+    culture = native_american_minor
+    religion = secularism
+    size = 101
+  }
 }

@@ -7,14 +7,14 @@ country_event = {
 
   trigger = {
     tag = ECU
-	year = 1947 NOT = { year = 1948 }
+    year = 1947 NOT = { year = 1948 }
   }
   mean_time_to_happen = { months = 2 }
 
   option = {
     name = "EVT_8004801_A"
-	government = presidential_dictatorship country_event = 800050
-	define_general = { name = "Carlos Arosemena Tola" personality = energetic background = no_background }
+    government = presidential_dictatorship country_event = 800050
+    define_general = { name = "Carlos Arosemena Tola" personality = energetic background = no_background }
   }
 }
 country_event = {
@@ -26,30 +26,30 @@ country_event = {
 
   trigger = {
     tag = ECU
-	year = 1948 NOT = { year = 1951 }
-	government = presidential_dictatorship
+    year = 1948 NOT = { year = 1951 }
+    government = presidential_dictatorship
   }
 
   mean_time_to_happen = { months = 4 }
 
   option = {
     name = EVT_8004802_A
-	any_pop = { consciousness = 2 }
-	government = presidential_dictatorship country_event = 800050
+    any_pop = { consciousness = 2 }
+    government = presidential_dictatorship country_event = 800050
   }
 
   option = {
     name = EVT_8004802_B
-	any_pop = { consciousness = 1 }
-	define_general = { name = "Gala Plazo" personality = energetic background = no_background }
-	government = democracy country_event = 800054
-	ai_chance = { factor = 100 }
+    any_pop = { consciousness = 1 }
+    define_general = { name = "Gala Plazo" personality = energetic background = no_background }
+    government = democracy country_event = 800054
+    ai_chance = { factor = 100 }
   }
 
   option = {
     name = "EVT_ELECTIONS_NOCHANGE"
-	any_pop = { consciousness = 1 }
-	ai_chance = { factor = 0 }
+    any_pop = { consciousness = 1 }
+    ai_chance = { factor = 0 }
   }
 }
 country_event = {
@@ -61,15 +61,15 @@ country_event = {
 
   trigger = {
     tag = ECU
-	year = 1961 NOT = { year = 1962 }
-	government = democracy
+    year = 1961 NOT = { year = 1962 }
+    government = democracy
   }
 
   mean_time_to_happen = { months = 1 }
 
   option = {
     name = "EVT_8004806_A"
-	government = presidential_dictatorship country_event = 800050
+    government = presidential_dictatorship country_event = 800050
   }
 }
 country_event = {
@@ -81,18 +81,18 @@ country_event = {
 
   trigger = {
     tag = ECU
-	year = 1963 NOT = { year = 1968 }
-	war = no
-	owns = 2280
-	owns = 2281
+    year = 1963 NOT = { year = 1968 }
+    war = no
+    owns = 2280
+    owns = 2281
   }
 
   mean_time_to_happen = { months = 1 }
 
   option = {
     name = "EVT_8004807_A"
-	government = presidential_dictatorship country_event = 800050
-	2280 = { change_controller = REB }
-	2281 = { change_controller = REB }
+    government = presidential_dictatorship country_event = 800050
+    2280 = { change_controller = REB }
+    2281 = { change_controller = REB }
   }
 }

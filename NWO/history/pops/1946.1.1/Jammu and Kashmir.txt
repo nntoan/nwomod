@@ -1,107 +1,107 @@
 #Srinagar - Srinagar (3098000/774500 POPS)
 1224 = {
-	aristocrats = {
-		culture = indian_muslim
-		religion =  sunni 
-		size = 30980
-	 } 
-	clergymen = {
-		culture = indian_muslim
-		religion =  sunni 
-		size = 15490
-	 } 
-	artisans = {
-		culture = indian_muslim
-		religion =  sunni 
-		size = 1924
-	 } 
-	farmers = {
-		culture = indian_muslim
-		religion =  sunni 
-		size = 469747
-	 } 
-	farmers = {
-		culture = indian
-		religion =  hindu 
-		size = 253029
-	 } 
-	farmers = {
-		culture = indian
-		religion = secularism
-		size = 2555
-	 } 
+  aristocrats = {
+    culture = indian_muslim
+    religion =  sunni
+    size = 30980
+  }
+  clergymen = {
+    culture = indian_muslim
+    religion =  sunni
+    size = 15490
+  }
+  artisans = {
+    culture = indian_muslim
+    religion =  sunni
+    size = 1924
+  }
+  farmers = {
+    culture = indian_muslim
+    religion =  sunni
+    size = 469747
+  }
+  farmers = {
+    culture = indian
+    religion =  hindu
+    size = 253029
+  }
+  farmers = {
+    culture = indian
+    religion = secularism
+    size = 2555
+  }
 }
 #Gilgit - Gilgit (1992000/498000 POPS)
 1225 = {
-	aristocrats = {
-		culture = indian_muslim
-		religion =  sunni 
-		size = 19920
-	 } 
-	clergymen = {
-		culture = indian_muslim
-		religion =  sunni 
-		size = 9960
-	 } 
-	artisans = {
-		culture = indian_muslim
-		religion =  sunni 
-		size = 1237
-	 } 
-	farmers = {
-		culture = indian_muslim
-		religion =  sunni 
-		size = 142685
-	 } 
-	farmers = {
-		culture = indian_shia
-		religion =  shiite 
-		size = 323700
-	 } 
+  aristocrats = {
+    culture = indian_muslim
+    religion =  sunni
+    size = 19920
+  }
+  clergymen = {
+    culture = indian_muslim
+    religion =  sunni
+    size = 9960
+  }
+  artisans = {
+    culture = indian_muslim
+    religion =  sunni
+    size = 1237
+  }
+  farmers = {
+    culture = indian_muslim
+    religion =  sunni
+    size = 142685
+  }
+  farmers = {
+    culture = indian_shia
+    religion =  shiite
+    size = 323700
+  }
 }
 #Leh - Leh (73000/18250 POPS)
 1226 = {
-	farmers = {
-		culture = indian_muslim
-		religion =  sunni 
-		size = 8395
-	 } 
-	farmers = {
-		culture = indian
-		religion =  hindu 
-		size = 1084
-	 } 
-	farmers = {
-		culture = indian
-		religion = secularism
-		size = 10
-	 } 
-	farmers = {
-		culture = tibetan
-		religion =  buddhist 
-		size = 8311
-	 } 
-	farmers = {
-		culture = tibetan
-		religion = secularism
-		size = 83
-	 } 
+  farmers = {
+    culture = indian_muslim
+    religion =  sunni
+    size = 8395
+  }
+  farmers = {
+    culture = indian
+    religion =  hindu
+    size = 1084
+  }
+  farmers = {
+    culture = indian
+    religion = secularism
+    size = 10
+  }
+  farmers = {
+    culture = tibetan
+    religion =  buddhist
+    size = 8311
+  }
+  farmers = {
+    culture = tibetan
+    religion = secularism
+    size = 83
+  }
 }
 #Aksai Chin - Aksai Chin (128000/32000 POPS)
 3281 = {
-	farmers = {
-		culture = uighur
-		religion =  sunni 
-		size = 25920
-	 } 
-	farmers = {
-		culture = tibetan
-		religion =  buddhist 
-		size = 5317
-	 } 
-	farmers = {
-		culture = tibetan
-		religion = secularism
-		size = 122
-	 } 
+  farmers = {
+    culture = uighur
+    religion =  sunni
+    size = 25920
+  }
+  farmers = {
+    culture = tibetan
+    religion =  buddhist
+    size = 5317
+  }
+  farmers = {
+    culture = tibetan
+    religion = secularism
+    size = 122
+  }
 }

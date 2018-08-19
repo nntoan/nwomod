@@ -7,30 +7,30 @@ country_event = {
   trigger = {
     year = 1946
     OR = {
-		SUN = { war_with = USA }
-		national_provinces_occupied = 0.30
+      SUN = { war_with = USA }
+      national_provinces_occupied = 0.30
     }
     NOT = { has_country_modifier  = nukes_enabled }
     war = yes
-	is_greater_power = yes
-	has_country_flag = develop_atomic_bomb
+    is_greater_power = yes
+    has_country_flag = develop_atomic_bomb
   }
 
   mean_time_to_happen = { months = 3  }
 
   option = {
     name = EVT_8233000_A
-	any_greater_power = { limit = { war_with = THIS is_vassal = no } country_event = 8233001 }
-	any_country = { limit = { war_with = THIS  is_vassal = no has_country_flag = develop_atomic_bomb is_greater_power = no } country_event = 8233001 }
-	random_country = { limit = { war_with = THIS  is_vassal = no NOT = { has_country_flag = develop_atomic_bomb } is_greater_power = no } country_event = 8233001 }
-	add_country_modifier = { name = nukes_enabled duration = 350 } 
-	badboy = 5
-	ai_chance = { factor = 0.1 modifier = { factor = 10 NOT = { badboy = 15 } } }
+    any_greater_power = { limit = { war_with = THIS is_vassal = no } country_event = 8233001 }
+    any_country = { limit = { war_with = THIS  is_vassal = no has_country_flag = develop_atomic_bomb is_greater_power = no } country_event = 8233001 }
+    random_country = { limit = { war_with = THIS  is_vassal = no NOT = { has_country_flag = develop_atomic_bomb } is_greater_power = no } country_event = 8233001 }
+    add_country_modifier = { name = nukes_enabled duration = 350 }
+    badboy = 5
+    ai_chance = { factor = 0.1 modifier = { factor = 10 NOT = { badboy = 15 } } }
   }
   option = {
     name = EVT_8233000_B
-	add_country_modifier = { name = nukes_enabled duration = 350 } 
-	ai_chance = { factor = 1 modifier = { factor = 0 badboy = 15 } }
+    add_country_modifier = { name = nukes_enabled duration = 350 }
+    ai_chance = { factor = 1 modifier = { factor = 0 badboy = 15 } }
   }
 }
 country_event = {
@@ -40,26 +40,26 @@ country_event = {
   picture = "nuke"
 
   is_triggered_only = yes
-  
+
   immediate = {
-	add_country_modifier = { name = task_nuke duration = 60 } 
-	random_province = { add_province_modifier = { name = nuked duration = 1500 } }
-	random_province = { add_province_modifier = { name = nuked duration = 1500 } }
-	random_province = { add_province_modifier = { name = nuked duration = 1500 } }
+    add_country_modifier = { name = task_nuke duration = 60 }
+    random_province = { add_province_modifier = { name = nuked duration = 1500 } }
+    random_province = { add_province_modifier = { name = nuked duration = 1500 } }
+    random_province = { add_province_modifier = { name = nuked duration = 1500 } }
   }
-  
+
   option = {
     name = EVT_8233001_A
-	ai_chance = { factor = 1 }
+    ai_chance = { factor = 1 }
   }
-  
+
   option = {
     name = EVT_8233001_B
-	badboy = 5
-	FROM = { country_event = 8233002 }
-	ai_chance = { factor = 0 }
-  }  
-  
+    badboy = 5
+    FROM = { country_event = 8233002 }
+    ai_chance = { factor = 0 }
+  }
+
 }
 country_event = {
   id = 8233002
@@ -68,12 +68,12 @@ country_event = {
   picture = "nwo2_hiroshima_nuke"
 
   is_triggered_only = yes
-  
+
   option = {
     name = EVT_8233002_A
-	random_province = { add_province_modifier = { name = nuked duration = 1500 } }
+    random_province = { add_province_modifier = { name = nuked duration = 1500 } }
   }
-  
+
 }
 country_event = {
   id = 8233100
@@ -87,16 +87,16 @@ country_event = {
     NOT = { year = 1946 }
     NOT = { has_country_flag  = nukes_enabled }
     war_with = JAP
-	JAP = { controls  = 1638 }
+    JAP = { controls  = 1638 }
   }
 
   mean_time_to_happen = { months = 1  }
 
   option = {
     name = EVT_8233100_A
-	JAP = { country_event = 8233101 } 
-	badboy = 5 
-	any_pop = { militancy = -0.5 consciousness = 2 }
+    JAP = { country_event = 8233101 }
+    badboy = 5
+    any_pop = { militancy = -0.5 consciousness = 2 }
   }
 
   option = {
@@ -112,7 +112,7 @@ country_event = {
 
   option = {
     name = EVT_8233100_A
-	1638 = { add_province_modifier = { name = nuked duration = 1500 } }
+    1638 = { add_province_modifier = { name = nuked duration = 1500 } }
   }
 }
 country_event = {
@@ -127,16 +127,16 @@ country_event = {
     NOT = { year = 1946 }
     NOT = { has_country_flag  = nukes_enabled }
     war_with = JAP
-	JAP = { controls  = 1661 }
+    JAP = { controls  = 1661 }
   }
 
   mean_time_to_happen = { months = 1  }
 
   option = {
     name = EVT_8233100_A
-	JAP = { country_event = 8233103 } 
-	badboy = 5 
-	any_pop = { militancy = -0.5 consciousness = 2 }
+    JAP = { country_event = 8233103 }
+    badboy = 5
+    any_pop = { militancy = -0.5 consciousness = 2 }
   }
 
   option = {
@@ -152,7 +152,7 @@ country_event = {
 
   option = {
     name = EVT_8233100_A
-	1661 = { add_province_modifier = { name = nuked duration = 1500 } }
+    1661 = { add_province_modifier = { name = nuked duration = 1500 } }
   }
 }
 country_event = {
@@ -167,16 +167,16 @@ country_event = {
     NOT = { year = 1946 }
     NOT = { has_country_flag  = nukes_enabled }
     war_with = JAP
-	JAP = { controls  = 1659 }
+    JAP = { controls  = 1659 }
   }
 
   mean_time_to_happen = { months = 1  }
 
   option = {
     name = EVT_8233100_A
-	JAP = { country_event = 8233105 } 
-	badboy = 5 
-	any_pop = { militancy = -0.5 consciousness = 2 }
+    JAP = { country_event = 8233105 }
+    badboy = 5
+    any_pop = { militancy = -0.5 consciousness = 2 }
   }
 
   option = {
@@ -193,7 +193,7 @@ country_event = {
 
   option = {
     name = EVT_8233100_A
-	1659 = { add_province_modifier = { name = nuked duration = 1500 } }
+    1659 = { add_province_modifier = { name = nuked duration = 1500 } }
   }
 
 }

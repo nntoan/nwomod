@@ -7,10 +7,10 @@ life_rating = 37
 terrain = hilly_grassland
 colonial = 0
 1992.1.1 = {
-owner = ETH
-controller = ETH
-add_core = ETH
-add_core = SOM
-add_core = OGA
-colonial = 0
+  owner = ETH
+  controller = ETH
+  add_core = ETH
+  add_core = SOM
+  add_core = OGA
+  colonial = 0
 }

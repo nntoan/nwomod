@@ -8,15 +8,15 @@ terrain = boreal_marsh
 railroad = 1
 colonial = 0
 state_building = {
-	level = 1
-	building = home_appliance_factory
-	upgrade = yes
+  level = 1
+  building = home_appliance_factory
+  upgrade = yes
 }
 1992.1.1 = {
-owner = CAN
-controller = CAN
-add_core = CAN
-add_core = QUE
-railroad = 1
-colonial = 0
+  owner = CAN
+  controller = CAN
+  add_core = CAN
+  add_core = QUE
+  railroad = 1
+  colonial = 0
 }

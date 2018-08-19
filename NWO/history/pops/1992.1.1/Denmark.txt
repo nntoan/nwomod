@@ -1,596 +1,596 @@
 #Nuuk - Kujalleq (26000/6500 POPS)
 251 = {
-	officers = {
-		culture = danish
-		religion =  protestant 
-		size = 7
-	 } 
-	officers = {
-		culture = danish
-		religion = secularism
-		size = 11
-	 } 
-	soldiers = {
-		culture = danish
-		religion =  protestant 
-		size = 29
-	 } 
-	soldiers = {
-		culture = danish
-		religion = secularism
-		size = 48
-	 } 
-	aristocrats = {
-		culture = danish
-		religion =  protestant 
-		size = 86
-	 } 
-	aristocrats = {
-		culture = danish
-		religion = secularism
-		size = 140
-	 } 
-	bureaucrats = {
-		culture = danish
-		religion =  protestant 
-		size = 9
-	 } 
-	bureaucrats = {
-		culture = danish
-		religion = secularism
-		size = 16
-	 } 
-	capitalists = {
-		culture = danish
-		religion =  protestant 
-		size = 14
-	 } 
-	capitalists = {
-		culture = danish
-		religion = secularism
-		size = 24
-	 } 
-	clergymen = {
-		culture = danish
-		religion =  protestant 
-		size = 49
-	 } 
-	clergymen = {
-		culture = danish
-		religion = secularism
-		size = 80
-	 } 
-	clerks = {
-		culture = danish
-		religion =  protestant 
-		size = 49
-	 } 
-	clerks = {
-		culture = danish
-		religion = secularism
-		size = 81
-	 } 
-	clerks = {
-		culture = inuit
-		religion =  protestant 
-		size = 26
-	 } 
-	clerks = {
-		culture = inuit
-		religion = secularism
-		size = 44
-	 } 
-	artisans = {
-		culture = inuit
-		religion =  protestant 
-		size = 72
-	 } 
-	artisans = {
-		culture = inuit
-		religion = secularism
-		size = 119
-	 } 
-	craftsmen = {
-		culture = inuit
-		religion =  protestant 
-		size = 231
-	 } 
-	craftsmen = {
-		culture = inuit
-		religion = secularism
-		size = 376
-	 } 
-	farmers = {
-		culture = inuit
-		religion =  protestant 
-		size = 1892
-	 } 
-	farmers = {
-		culture = inuit
-		religion = secularism
-		size = 3086
-	 } 
+  officers = {
+    culture = danish
+    religion =  protestant
+    size = 7
+  }
+  officers = {
+    culture = danish
+    religion = secularism
+    size = 11
+  }
+  soldiers = {
+    culture = danish
+    religion =  protestant
+    size = 29
+  }
+  soldiers = {
+    culture = danish
+    religion = secularism
+    size = 48
+  }
+  aristocrats = {
+    culture = danish
+    religion =  protestant
+    size = 86
+  }
+  aristocrats = {
+    culture = danish
+    religion = secularism
+    size = 140
+  }
+  bureaucrats = {
+    culture = danish
+    religion =  protestant
+    size = 9
+  }
+  bureaucrats = {
+    culture = danish
+    religion = secularism
+    size = 16
+  }
+  capitalists = {
+    culture = danish
+    religion =  protestant
+    size = 14
+  }
+  capitalists = {
+    culture = danish
+    religion = secularism
+    size = 24
+  }
+  clergymen = {
+    culture = danish
+    religion =  protestant
+    size = 49
+  }
+  clergymen = {
+    culture = danish
+    religion = secularism
+    size = 80
+  }
+  clerks = {
+    culture = danish
+    religion =  protestant
+    size = 49
+  }
+  clerks = {
+    culture = danish
+    religion = secularism
+    size = 81
+  }
+  clerks = {
+    culture = inuit
+    religion =  protestant
+    size = 26
+  }
+  clerks = {
+    culture = inuit
+    religion = secularism
+    size = 44
+  }
+  artisans = {
+    culture = inuit
+    religion =  protestant
+    size = 72
+  }
+  artisans = {
+    culture = inuit
+    religion = secularism
+    size = 119
+  }
+  craftsmen = {
+    culture = inuit
+    religion =  protestant
+    size = 231
+  }
+  craftsmen = {
+    culture = inuit
+    religion = secularism
+    size = 376
+  }
+  farmers = {
+    culture = inuit
+    religion =  protestant
+    size = 1892
+  }
+  farmers = {
+    culture = inuit
+    religion = secularism
+    size = 3086
+  }
 }
 #Faroe Islands - Faroe Islands (47000/11750 POPS)
 253 = {
-	officers = {
-		culture = faroe
-		religion =  protestant 
-		size = 13
-	 } 
-	officers = {
-		culture = faroe
-		religion = secularism
-		size = 21
-	 } 
-	soldiers = {
-		culture = faroe
-		religion =  protestant 
-		size = 53
-	 } 
-	soldiers = {
-		culture = faroe
-		religion = secularism
-		size = 87
-	 } 
-	aristocrats = {
-		culture = faroe
-		religion =  protestant 
-		size = 156
-	 } 
-	aristocrats = {
-		culture = faroe
-		religion = secularism
-		size = 254
-	 } 
-	bureaucrats = {
-		culture = faroe
-		religion =  protestant 
-		size = 17
-	 } 
-	bureaucrats = {
-		culture = faroe
-		religion = secularism
-		size = 29
-	 } 
-	capitalists = {
-		culture = faroe
-		religion =  protestant 
-		size = 26
-	 } 
-	capitalists = {
-		culture = faroe
-		religion = secularism
-		size = 43
-	 } 
-	clergymen = {
-		culture = faroe
-		religion =  protestant 
-		size = 89
-	 } 
-	clergymen = {
-		culture = faroe
-		religion = secularism
-		size = 145
-	 } 
-	clerks = {
-		culture = faroe
-		religion =  protestant 
-		size = 139
-	 } 
-	clerks = {
-		culture = faroe
-		religion = secularism
-		size = 226
-	 } 
-	artisans = {
-		culture = faroe
-		religion =  protestant 
-		size = 132
-	 } 
-	artisans = {
-		culture = faroe
-		religion = secularism
-		size = 215
-	 } 
-	craftsmen = {
-		culture = faroe
-		religion =  protestant 
-		size = 417
-	 } 
-	craftsmen = {
-		culture = faroe
-		religion = secularism
-		size = 681
-	 } 
-	farmers = {
-		culture = faroe
-		religion =  protestant 
-		size = 3419
-	 } 
-	farmers = {
-		culture = faroe
-		religion = secularism
-		size = 5578
-	 } 
+  officers = {
+    culture = faroe
+    religion =  protestant
+    size = 13
+  }
+  officers = {
+    culture = faroe
+    religion = secularism
+    size = 21
+  }
+  soldiers = {
+    culture = faroe
+    religion =  protestant
+    size = 53
+  }
+  soldiers = {
+    culture = faroe
+    religion = secularism
+    size = 87
+  }
+  aristocrats = {
+    culture = faroe
+    religion =  protestant
+    size = 156
+  }
+  aristocrats = {
+    culture = faroe
+    religion = secularism
+    size = 254
+  }
+  bureaucrats = {
+    culture = faroe
+    religion =  protestant
+    size = 17
+  }
+  bureaucrats = {
+    culture = faroe
+    religion = secularism
+    size = 29
+  }
+  capitalists = {
+    culture = faroe
+    religion =  protestant
+    size = 26
+  }
+  capitalists = {
+    culture = faroe
+    religion = secularism
+    size = 43
+  }
+  clergymen = {
+    culture = faroe
+    religion =  protestant
+    size = 89
+  }
+  clergymen = {
+    culture = faroe
+    religion = secularism
+    size = 145
+  }
+  clerks = {
+    culture = faroe
+    religion =  protestant
+    size = 139
+  }
+  clerks = {
+    culture = faroe
+    religion = secularism
+    size = 226
+  }
+  artisans = {
+    culture = faroe
+    religion =  protestant
+    size = 132
+  }
+  artisans = {
+    culture = faroe
+    religion = secularism
+    size = 215
+  }
+  craftsmen = {
+    culture = faroe
+    religion =  protestant
+    size = 417
+  }
+  craftsmen = {
+    culture = faroe
+    religion = secularism
+    size = 681
+  }
+  farmers = {
+    culture = faroe
+    religion =  protestant
+    size = 3419
+  }
+  farmers = {
+    culture = faroe
+    religion = secularism
+    size = 5578
+  }
 }
 #Esbjerg - Sydjylland (102000/25500 POPS)
 2557 = {
-	clergymen = {
-		culture = danish
-		religion =  protestant 
-		size = 173
-	 } 
-	clergymen = {
-		culture = danish
-		religion = secularism
-		size = 846
-	 } 
-	farmers = {
-		culture = danish
-		religion =  protestant 
-		size = 4161
-	 } 
-	farmers = {
-		culture = danish
-		religion = secularism
-		size = 20318
-	 } 
+  clergymen = {
+    culture = danish
+    religion =  protestant
+    size = 173
+  }
+  clergymen = {
+    culture = danish
+    religion = secularism
+    size = 846
+  }
+  farmers = {
+    culture = danish
+    religion =  protestant
+    size = 4161
+  }
+  farmers = {
+    culture = danish
+    religion = secularism
+    size = 20318
+  }
 }
 #JanMayen - JanMayen (26000/6500 POPS)
 3246 = {
-	clergymen = {
-		culture = danish
-		religion =  protestant 
-		size = 49
-	 } 
-	clergymen = {
-		culture = danish
-		religion = secularism
-		size = 80
-	 } 
-	farmers = {
-		culture = danish
-		religion =  protestant 
-		size = 197
-	 } 
-	farmers = {
-		culture = danish
-		religion = secularism
-		size = 322
-	 } 
-	farmers = {
-		culture = inuit
-		religion =  protestant 
-		size = 2223
-	 } 
-	farmers = {
-		culture = inuit
-		religion = secularism
-		size = 3627
-	 } 
+  clergymen = {
+    culture = danish
+    religion =  protestant
+    size = 49
+  }
+  clergymen = {
+    culture = danish
+    religion = secularism
+    size = 80
+  }
+  farmers = {
+    culture = danish
+    religion =  protestant
+    size = 197
+  }
+  farmers = {
+    culture = danish
+    religion = secularism
+    size = 322
+  }
+  farmers = {
+    culture = inuit
+    religion =  protestant
+    size = 2223
+  }
+  farmers = {
+    culture = inuit
+    religion = secularism
+    size = 3627
+  }
 }
 #Kujalleq - Kujalleq (2000/500 POPS)
 3283 = {
-	clergymen = {
-		culture = inuit
-		religion =  protestant 
-		size = 3
-	 } 
-	clergymen = {
-		culture = inuit
-		religion = secularism
-		size = 6
-	 } 
-	farmers = {
-		culture = inuit
-		religion =  protestant 
-		size = 186
-	 } 
-	farmers = {
-		culture = inuit
-		religion = secularism
-		size = 303
-	 } 
+  clergymen = {
+    culture = inuit
+    religion =  protestant
+    size = 3
+  }
+  clergymen = {
+    culture = inuit
+    religion = secularism
+    size = 6
+  }
+  farmers = {
+    culture = inuit
+    religion =  protestant
+    size = 186
+  }
+  farmers = {
+    culture = inuit
+    religion = secularism
+    size = 303
+  }
 }
 #Aarhus - Midtjylland (1153000/288250 POPS)
 366 = {
-	clergymen = {
-		culture = danish
-		religion =  protestant 
-		size = 1960
-	 } 
-	clergymen = {
-		culture = danish
-		religion = secularism
-		size = 9569
-	 } 
-	farmers = {
-		culture = danish
-		religion =  protestant 
-		size = 41162
-	 } 
-	farmers = {
-		culture = danish
-		religion = secularism
-		size = 200967
-	 } 
-	farmers = {
-		culture = indian_muslim
-		religion =  sunni 
-		size = 4323
-	 } 
-	farmers = {
-		culture = sunni_arab
-		religion =  sunni 
-		size = 23060
-	 } 
-	farmers = {
-		culture = kurdish
-		religion =  sunni 
-		size = 5765
-	 } 
-	farmers = {
-		culture = roma
-		religion =  orthodox 
-		size = 244
-	 } 
-	farmers = {
-		culture = roma
-		religion = secularism
-		size = 1196
-	 } 
+  clergymen = {
+    culture = danish
+    religion =  protestant
+    size = 1960
+  }
+  clergymen = {
+    culture = danish
+    religion = secularism
+    size = 9569
+  }
+  farmers = {
+    culture = danish
+    religion =  protestant
+    size = 41162
+  }
+  farmers = {
+    culture = danish
+    religion = secularism
+    size = 200967
+  }
+  farmers = {
+    culture = indian_muslim
+    religion =  sunni
+    size = 4323
+  }
+  farmers = {
+    culture = sunni_arab
+    religion =  sunni
+    size = 23060
+  }
+  farmers = {
+    culture = kurdish
+    religion =  sunni
+    size = 5765
+  }
+  farmers = {
+    culture = roma
+    religion =  orthodox
+    size = 244
+  }
+  farmers = {
+    culture = roma
+    religion = secularism
+    size = 1196
+  }
 }
 #Aalborg - Nordjylland (523000/130750 POPS)
 367 = {
-	clergymen = {
-		culture = danish
-		religion =  protestant 
-		size = 889
-	 } 
-	clergymen = {
-		culture = danish
-		religion = secularism
-		size = 4340
-	 } 
-	farmers = {
-		culture = danish
-		religion =  protestant 
-		size = 21338
-	 } 
-	farmers = {
-		culture = danish
-		religion = secularism
-		size = 104181
-	 } 
+  clergymen = {
+    culture = danish
+    religion =  protestant
+    size = 889
+  }
+  clergymen = {
+    culture = danish
+    religion = secularism
+    size = 4340
+  }
+  farmers = {
+    culture = danish
+    religion =  protestant
+    size = 21338
+  }
+  farmers = {
+    culture = danish
+    religion = secularism
+    size = 104181
+  }
 }
 #Ribe - Sydjylland (102000/25500 POPS)
 368 = {
-	clergymen = {
-		culture = danish
-		religion =  protestant 
-		size = 173
-	 } 
-	clergymen = {
-		culture = danish
-		religion = secularism
-		size = 846
-	 } 
-	farmers = {
-		culture = danish
-		religion =  protestant 
-		size = 4161
-	 } 
-	farmers = {
-		culture = danish
-		religion = secularism
-		size = 20318
-	 } 
+  clergymen = {
+    culture = danish
+    religion =  protestant
+    size = 173
+  }
+  clergymen = {
+    culture = danish
+    religion = secularism
+    size = 846
+  }
+  farmers = {
+    culture = danish
+    religion =  protestant
+    size = 4161
+  }
+  farmers = {
+    culture = danish
+    religion = secularism
+    size = 20318
+  }
 }
 #Abenra - Sydjylland (477000/119250 POPS)
 371 = {
-	clergymen = {
-		culture = danish
-		religion =  protestant 
-		size = 810
-	 } 
-	clergymen = {
-		culture = danish
-		religion = secularism
-		size = 3959
-	 } 
-	farmers = {
-		culture = danish
-		religion =  protestant 
-		size = 18853
-	 } 
-	farmers = {
-		culture = danish
-		religion = secularism
-		size = 92048
-	 } 
-	farmers = {
-		culture = german
-		religion =  catholic 
-		size = 608
-	 } 
-	farmers = {
-		culture = german
-		religion = secularism
-		size = 2968
-	 } 
+  clergymen = {
+    culture = danish
+    religion =  protestant
+    size = 810
+  }
+  clergymen = {
+    culture = danish
+    religion = secularism
+    size = 3959
+  }
+  farmers = {
+    culture = danish
+    religion =  protestant
+    size = 18853
+  }
+  farmers = {
+    culture = danish
+    religion = secularism
+    size = 92048
+  }
+  farmers = {
+    culture = german
+    religion =  catholic
+    size = 608
+  }
+  farmers = {
+    culture = german
+    religion = secularism
+    size = 2968
+  }
 }
 #Copenhagen - Sjaeland, Hovedstaden (2341000/585250 POPS)
 372 = {
-	officers = {
-		culture = danish
-		religion =  protestant 
-		size = 567
-	 } 
-	officers = {
-		culture = danish
-		religion = secularism
-		size = 2768
-	 } 
-	soldiers = {
-		culture = danish
-		religion =  protestant 
-		size = 10777
-	 } 
-	soldiers = {
-		culture = danish
-		religion = secularism
-		size = 52619
-	 } 
-	aristocrats = {
-		culture = danish
-		religion =  protestant 
-		size = 1989
-	 } 
-	aristocrats = {
-		culture = danish
-		religion = secularism
-		size = 9715
-	 } 
-	bureaucrats = {
-		culture = danish
-		religion =  protestant 
-		size = 596
-	 } 
-	bureaucrats = {
-		culture = danish
-		religion = secularism
-		size = 2914
-	 } 
-	capitalists = {
-		culture = danish
-		religion =  protestant 
-		size = 596
-	 } 
-	capitalists = {
-		culture = danish
-		religion = secularism
-		size = 2914
-	 } 
-	clergymen = {
-		culture = danish
-		religion =  protestant 
-		size = 3979
-	 } 
-	clergymen = {
-		culture = danish
-		religion = secularism
-		size = 19430
-	 } 
-	clerks = {
-		culture = danish
-		religion =  protestant 
-		size = 2843
-	 } 
-	clerks = {
-		culture = danish
-		religion = secularism
-		size = 13882
-	 } 
-	artisans = {
-		culture = danish
-		religion =  protestant 
-		size = 2416
-	 } 
-	artisans = {
-		culture = danish
-		religion = secularism
-		size = 11800
-	 } 
-	craftsmen = {
-		culture = danish
-		religion =  protestant 
-		size = 8672
-	 } 
-	craftsmen = {
-		culture = danish
-		religion = secularism
-		size = 42341
-	 } 
-	farmers = {
-		culture = danish
-		religion =  protestant 
-		size = 55112
-	 } 
-	farmers = {
-		culture = danish
-		religion = secularism
-		size = 269080
-	 } 
-	farmers = {
-		culture = indian_muslim
-		religion =  sunni 
-		size = 8778
-	 } 
-	farmers = {
-		culture = sunni_arab
-		religion =  sunni 
-		size = 46820
-	 } 
-	farmers = {
-		culture = kurdish
-		religion =  sunni 
-		size = 11705
-	 } 
-	farmers = {
-		culture = roma
-		religion =  orthodox 
-		size = 497
-	 } 
-	farmers = {
-		culture = roma
-		religion = secularism
-		size = 2428
-	 } 
+  officers = {
+    culture = danish
+    religion =  protestant
+    size = 567
+  }
+  officers = {
+    culture = danish
+    religion = secularism
+    size = 2768
+  }
+  soldiers = {
+    culture = danish
+    religion =  protestant
+    size = 10777
+  }
+  soldiers = {
+    culture = danish
+    religion = secularism
+    size = 52619
+  }
+  aristocrats = {
+    culture = danish
+    religion =  protestant
+    size = 1989
+  }
+  aristocrats = {
+    culture = danish
+    religion = secularism
+    size = 9715
+  }
+  bureaucrats = {
+    culture = danish
+    religion =  protestant
+    size = 596
+  }
+  bureaucrats = {
+    culture = danish
+    religion = secularism
+    size = 2914
+  }
+  capitalists = {
+    culture = danish
+    religion =  protestant
+    size = 596
+  }
+  capitalists = {
+    culture = danish
+    religion = secularism
+    size = 2914
+  }
+  clergymen = {
+    culture = danish
+    religion =  protestant
+    size = 3979
+  }
+  clergymen = {
+    culture = danish
+    religion = secularism
+    size = 19430
+  }
+  clerks = {
+    culture = danish
+    religion =  protestant
+    size = 2843
+  }
+  clerks = {
+    culture = danish
+    religion = secularism
+    size = 13882
+  }
+  artisans = {
+    culture = danish
+    religion =  protestant
+    size = 2416
+  }
+  artisans = {
+    culture = danish
+    religion = secularism
+    size = 11800
+  }
+  craftsmen = {
+    culture = danish
+    religion =  protestant
+    size = 8672
+  }
+  craftsmen = {
+    culture = danish
+    religion = secularism
+    size = 42341
+  }
+  farmers = {
+    culture = danish
+    religion =  protestant
+    size = 55112
+  }
+  farmers = {
+    culture = danish
+    religion = secularism
+    size = 269080
+  }
+  farmers = {
+    culture = indian_muslim
+    religion =  sunni
+    size = 8778
+  }
+  farmers = {
+    culture = sunni_arab
+    religion =  sunni
+    size = 46820
+  }
+  farmers = {
+    culture = kurdish
+    religion =  sunni
+    size = 11705
+  }
+  farmers = {
+    culture = roma
+    religion =  orthodox
+    size = 497
+  }
+  farmers = {
+    culture = roma
+    religion = secularism
+    size = 2428
+  }
 }
 #Odense - Sydjylland (402000/100500 POPS)
 373 = {
-	clergymen = {
-		culture = danish
-		religion =  protestant 
-		size = 683
-	 } 
-	clergymen = {
-		culture = danish
-		religion = secularism
-		size = 3336
-	 } 
-	farmers = {
-		culture = danish
-		religion =  protestant 
-		size = 16401
-	 } 
-	farmers = {
-		culture = danish
-		religion = secularism
-		size = 80078
-	 } 
+  clergymen = {
+    culture = danish
+    religion =  protestant
+    size = 683
+  }
+  clergymen = {
+    culture = danish
+    religion = secularism
+    size = 3336
+  }
+  farmers = {
+    culture = danish
+    religion =  protestant
+    size = 16401
+  }
+  farmers = {
+    culture = danish
+    religion = secularism
+    size = 80078
+  }
 }
 #Bornholm - Bornholm (36000/9000 POPS)
 374 = {
-	clergymen = {
-		culture = danish
-		religion =  protestant 
-		size = 61
-	 } 
-	clergymen = {
-		culture = danish
-		religion = secularism
-		size = 298
-	 } 
-	farmers = {
-		culture = danish
-		religion =  protestant 
-		size = 1468
-	 } 
-	farmers = {
-		culture = danish
-		religion = secularism
-		size = 7171
-	 } 
+  clergymen = {
+    culture = danish
+    religion =  protestant
+    size = 61
+  }
+  clergymen = {
+    culture = danish
+    religion = secularism
+    size = 298
+  }
+  farmers = {
+    culture = danish
+    religion =  protestant
+    size = 1468
+  }
+  farmers = {
+    culture = danish
+    religion = secularism
+    size = 7171
+  }
 }

@@ -1,44 +1,44 @@
 country_event = {
-	id = 1002621
+  id = 1002621
 
-	title = EVT_1002621_NAME
-	desc = EVT_1002621_DESC
-	picture = "newfoundland"
+  title = EVT_1002621_NAME
+  desc = EVT_1002621_DESC
+  picture = "newfoundland"
 
-	fire_only_once = yes
-	
-	trigger = {
-		tag = GBR
-		74 = { controlled_by = GBR }
-		NOT = { 74 = { has_province_modifier = nationalist_agitation } }
-		war = no
-		CAN = { war = no }
-	}
+  fire_only_once = yes
 
-	mean_time_to_happen = {
-		months = 12
-	}
+  trigger = {
+    tag = GBR
+    74 = { controlled_by = GBR }
+    NOT = { 74 = { has_province_modifier = nationalist_agitation } }
+    war = no
+    CAN = { war = no }
+  }
 
-	option = {
-		name = EVT_1002621_A # Newfoundland Responsible government
-		ai_chance = { factor = 0 }
-		prestige = 5
-		release_vassal = NFL
-	}
-	
-	option = {
-		name = EVT_1002621_B # Integrate with Canada
-		ai_chance = { factor = 100 }
-		release = CAN
-		CAN = { country_event = 8002622 }
-	}
+  mean_time_to_happen = {
+    months = 12
+  }
 
-	option = {
-		name = EVT_1002621_C # stay integrated part of the empire
-		ai_chance = { factor = 0 }
-		prestige = -5
-		74 = { add_province_modifier = { name = nationalist_agitation duration = 3650 } }
-	}
+  option = {
+    name = EVT_1002621_A # Newfoundland Responsible government
+    ai_chance = { factor = 0 }
+    prestige = 5
+    release_vassal = NFL
+  }
+
+  option = {
+    name = EVT_1002621_B # Integrate with Canada
+    ai_chance = { factor = 100 }
+    release = CAN
+    CAN = { country_event = 8002622 }
+  }
+
+  option = {
+    name = EVT_1002621_C # stay integrated part of the empire
+    ai_chance = { factor = 0 }
+    prestige = -5
+    74 = { add_province_modifier = { name = nationalist_agitation duration = 3650 } }
+  }
 
 }
 country_event = {
@@ -50,7 +50,7 @@ country_event = {
 
   option = {
     name = EVT_8002622_A
-	prestige = 10
+    prestige = 10
   }
 }
 country_event = {
@@ -64,15 +64,15 @@ country_event = {
     tag = CAN
     year = 1947 NOT = { year = 1963 }
     owns = 22
-	owns = 26
+    owns = 26
   }
 
   mean_time_to_happen = { months = 11 }
 
   option = {
     name = EVT_8002623_A
-	22 = { trade_goods = petroleum }
-	26 = { trade_goods = petroleum }
+    22 = { trade_goods = petroleum }
+    26 = { trade_goods = petroleum }
   }
 }
 country_event = {
@@ -87,14 +87,14 @@ country_event = {
     year = 1945 NOT = { year = 1963 }
     NOT = {
     }
-    
+
   }
 
   mean_time_to_happen = { months = 5  }
 
   option = {
     name = EVT_8002624_A
-	any_pop = {  consciousness = 1 }
+    any_pop = {  consciousness = 1 }
   }
 }
 country_event = {
@@ -106,26 +106,26 @@ country_event = {
 
   trigger = {
     tag = CAN
-	year = 1958 NOT = { year = 1963 }
-    
+    year = 1958 NOT = { year = 1963 }
+
   }
 
   mean_time_to_happen = { months = 10 }
 
   option = {
     name = EVT_8002625_A
-	any_pop = {  consciousness = 2 }
+    any_pop = {  consciousness = 2 }
   }
 
   option = {
     name = EVT_8002625_B
-	money = -1000 
+    money = -1000
   }
 
   option = {
     name = EVT_8002625_C
-	money = 1000 
-	any_pop = {  consciousness = 1 }
+    money = 1000
+    any_pop = {  consciousness = 1 }
   }
 }
 country_event = {
@@ -138,7 +138,7 @@ country_event = {
   trigger = {
     tag = CAN
     year = 1965 NOT = { year = 1966 }
-	government = hms_government
+    government = hms_government
   }
   immediate = { set_global_flag = event_fired_8002626 }
 
@@ -146,14 +146,14 @@ country_event = {
 
   option = {
     name = EVT_8002626_A
-	ai_chance = { factor = 100 }
-	prestige = 50
-	government = democracy  
+    ai_chance = { factor = 100 }
+    prestige = 50
+    government = democracy
   }
 
   option = {
     name = EVT_8002626_B
-	relation = { who = GBR value = 5 } 
+    relation = { who = GBR value = 5 }
   }
 }
 country_event = {
@@ -167,14 +167,14 @@ country_event = {
     tag = CAN
     year = 1960 NOT = { year = 1967 }
     war = no
-    any_owned_province = { province_id = 2534 }  
+    any_owned_province = { province_id = 2534 }
   }
 
   mean_time_to_happen = { months = 5 }
 
   option = {
     name = EVT_8002627_A
-	any_pop = {  consciousness = 1 }
+    any_pop = {  consciousness = 1 }
   }
 }
 country_event = {
@@ -195,15 +195,15 @@ country_event = {
 
   option = {
     name = EVT_8002628_A
-	any_pop = {  consciousness = 2 }
-	country_event =  { id = 8002629 days = 3000 }  # 1979
-	ai_chance = { factor = 100 }
+    any_pop = {  consciousness = 2 }
+    country_event =  { id = 8002629 days = 3000 }  # 1979
+    ai_chance = { factor = 100 }
   }
 
   option = {
     name = EVT_8002628_B
-	any_pop = { militancy = 2.0 }
-	ai_chance = { factor = 0 }
+    any_pop = { militancy = 2.0 }
+    ai_chance = { factor = 0 }
   }
 }
 country_event = {
@@ -219,20 +219,20 @@ country_event = {
     NOT = { exists = QUE }
     war = no
   }
-  
+
   mean_time_to_happen = { months = 1 }
-  
+
 
   option = {
     name = EVT_8002629_A
-	any_pop = {  consciousness = 1 }
-	ai_chance = { factor = 100 }
+    any_pop = {  consciousness = 1 }
+    ai_chance = { factor = 100 }
   }
 
   option = {
     name = EVT_8002629_B
-	any_pop = { militancy = 1.5 }
-	ai_chance = { factor = 0 }
+    any_pop = { militancy = 1.5 }
+    ai_chance = { factor = 0 }
   }
 }
 country_event = {
@@ -241,27 +241,27 @@ country_event = {
   desc = EVT_8002630_DESC
   picture = "nwo2_quebec_independence"
   fire_only_once = yes
-  
+
   trigger = {
     tag = CAN
     year = 1980 NOT = { year = 1981 }
     NOT = { exists = QUE }
     war = no
   }
-  
+
   mean_time_to_happen = { months = 1 }
-  
+
   option = {
     name = EVT_8002630_A
-	any_pop = { militancy = -1.0  consciousness = 2 }
-	ai_chance = { factor = 100 }
+    any_pop = { militancy = -1.0  consciousness = 2 }
+    ai_chance = { factor = 100 }
   }
 
   option = {
     name = EVT_8002630_B
-	release_vassal = QUE 
-	create_alliance = QUE 
-	ai_chance = { factor = 0 }
+    release_vassal = QUE
+    create_alliance = QUE
+    ai_chance = { factor = 0 }
   }
 }
 country_event = {
@@ -270,38 +270,38 @@ country_event = {
   desc = EVT_8002631_DESC
   picture = "nwo2_quebec_independence"
   fire_only_once = yes
-  
+
   trigger = {
     tag = CAN
     year = 1995 NOT = { year = 1996 }
     NOT = { exists = QUE }
     war = no
   }
-  
+
   mean_time_to_happen = { months = 10 }
-  
+
   option = {
     name = EVT_8002631_A
-	any_pop = { militancy = -1.0  consciousness = 3 }
-	ai_chance = { factor = 100 }
+    any_pop = { militancy = -1.0  consciousness = 3 }
+    ai_chance = { factor = 100 }
   }
 
   option = {
     name = EVT_8002631_B
-	release = QUE 
-	create_alliance = QUE
-        76 = {
-	      secede_province = CAN
-        } 
-        2625 = {
-	      secede_province = CAN
-        } 
-        60 = {
-	      secede_province = CAN
-        } 
-        2593 = {
-	      secede_province = CAN
-        } 
-	ai_chance = { factor = 0 }
+    release = QUE
+    create_alliance = QUE
+    76 = {
+      secede_province = CAN
+    }
+    2625 = {
+      secede_province = CAN
+    }
+    60 = {
+      secede_province = CAN
+    }
+    2593 = {
+      secede_province = CAN
+    }
+    ai_chance = { factor = 0 }
   }
 }

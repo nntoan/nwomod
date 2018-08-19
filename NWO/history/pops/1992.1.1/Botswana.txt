@@ -1,255 +1,255 @@
 #Gaborone - South-East, Sothern (585000/146250 POPS)
 2074 = {
-	capitalists = {
-		culture = british
-		religion =  protestant 
-		size = 736
-	 } 
-	capitalists = {
-		culture = british
-		religion = secularism
-		size = 140
-	 } 
-	officers = {
-		culture = tswana
-		religion =  protestant 
-		size = 299
-	 } 
-	officers = {
-		culture = tswana
-		religion = secularism
-		size = 56
-	 } 
-	soldiers = {
-		culture = tswana
-		religion =  protestant 
-		size = 5688
-	 } 
-	soldiers = {
-		culture = tswana
-		religion = secularism
-		size = 1083
-	 } 
-	aristocrats = {
-		culture = tswana
-		religion =  protestant 
-		size = 3071
-	 } 
-	aristocrats = {
-		culture = tswana
-		religion = secularism
-		size = 584
-	 } 
-	bureaucrats = {
-		culture = tswana
-		religion =  protestant 
-		size = 614
-	 } 
-	bureaucrats = {
-		culture = tswana
-		religion = secularism
-		size = 116
-	 } 
-	clergymen = {
-		culture = tswana
-		religion =  protestant 
-		size = 2457
-	 } 
-	clergymen = {
-		culture = tswana
-		religion = secularism
-		size = 468
-	 } 
-	clerks = {
-		culture = tswana
-		religion =  protestant 
-		size = 2722
-	 } 
-	clerks = {
-		culture = tswana
-		religion = secularism
-		size = 518
-	 } 
-	artisans = {
-		culture = tswana
-		religion =  protestant 
-		size = 2586
-	 } 
-	artisans = {
-		culture = tswana
-		religion = secularism
-		size = 492
-	 } 
-	craftsmen = {
-		culture = tswana
-		religion =  protestant 
-		size = 8167
-	 } 
-	craftsmen = {
-		culture = tswana
-		religion = secularism
-		size = 1555
-	 } 
-	farmers = {
-		culture = tswana
-		religion =  protestant 
-		size = 64074
-	 } 
-	farmers = {
-		culture = tswana
-		religion = secularism
-		size = 12204
-	 } 
-	farmers = {
-		culture = british
-		religion =  protestant 
-		size = 5405
-	 } 
-	farmers = {
-		culture = british
-		religion = secularism
-		size = 1029
-	 } 
-	farmers = {
-		culture = anglo_african
-		religion =  protestant 
-		size = 27027
-	 } 
-	farmers = {
-		culture = anglo_african
-		religion = secularism
-		size = 5148
-	 } 
+  capitalists = {
+    culture = british
+    religion =  protestant
+    size = 736
+  }
+  capitalists = {
+    culture = british
+    religion = secularism
+    size = 140
+  }
+  officers = {
+    culture = tswana
+    religion =  protestant
+    size = 299
+  }
+  officers = {
+    culture = tswana
+    religion = secularism
+    size = 56
+  }
+  soldiers = {
+    culture = tswana
+    religion =  protestant
+    size = 5688
+  }
+  soldiers = {
+    culture = tswana
+    religion = secularism
+    size = 1083
+  }
+  aristocrats = {
+    culture = tswana
+    religion =  protestant
+    size = 3071
+  }
+  aristocrats = {
+    culture = tswana
+    religion = secularism
+    size = 584
+  }
+  bureaucrats = {
+    culture = tswana
+    religion =  protestant
+    size = 614
+  }
+  bureaucrats = {
+    culture = tswana
+    religion = secularism
+    size = 116
+  }
+  clergymen = {
+    culture = tswana
+    religion =  protestant
+    size = 2457
+  }
+  clergymen = {
+    culture = tswana
+    religion = secularism
+    size = 468
+  }
+  clerks = {
+    culture = tswana
+    religion =  protestant
+    size = 2722
+  }
+  clerks = {
+    culture = tswana
+    religion = secularism
+    size = 518
+  }
+  artisans = {
+    culture = tswana
+    religion =  protestant
+    size = 2586
+  }
+  artisans = {
+    culture = tswana
+    religion = secularism
+    size = 492
+  }
+  craftsmen = {
+    culture = tswana
+    religion =  protestant
+    size = 8167
+  }
+  craftsmen = {
+    culture = tswana
+    religion = secularism
+    size = 1555
+  }
+  farmers = {
+    culture = tswana
+    religion =  protestant
+    size = 64074
+  }
+  farmers = {
+    culture = tswana
+    religion = secularism
+    size = 12204
+  }
+  farmers = {
+    culture = british
+    religion =  protestant
+    size = 5405
+  }
+  farmers = {
+    culture = british
+    religion = secularism
+    size = 1029
+  }
+  farmers = {
+    culture = anglo_african
+    religion =  protestant
+    size = 27027
+  }
+  farmers = {
+    culture = anglo_african
+    religion = secularism
+    size = 5148
+  }
 }
 #Serowe - Central, North-East (313000/78250 POPS)
 2075 = {
-	clergymen = {
-		culture = tswana
-		religion =  protestant 
-		size = 1314
-	 } 
-	clergymen = {
-		culture = tswana
-		religion = secularism
-		size = 250
-	 } 
-	farmers = {
-		culture = tswana
-		religion =  protestant 
-		size = 54555
-	 } 
-	farmers = {
-		culture = tswana
-		religion = secularism
-		size = 10391
-	 } 
-	farmers = {
-		culture = shona
-		religion =  protestant 
-		size = 9859
-	 } 
-	farmers = {
-		culture = shona
-		religion = secularism
-		size = 1877
-	 } 
+  clergymen = {
+    culture = tswana
+    religion =  protestant
+    size = 1314
+  }
+  clergymen = {
+    culture = tswana
+    religion = secularism
+    size = 250
+  }
+  farmers = {
+    culture = tswana
+    religion =  protestant
+    size = 54555
+  }
+  farmers = {
+    culture = tswana
+    religion = secularism
+    size = 10391
+  }
+  farmers = {
+    culture = shona
+    religion =  protestant
+    size = 9859
+  }
+  farmers = {
+    culture = shona
+    religion = secularism
+    size = 1877
+  }
 }
 #Nokaneng - Ghanzi, North-West (114000/28500 POPS)
 2076 = {
-	clergymen = {
-		culture = tswana
-		religion =  protestant 
-		size = 478
-	 } 
-	clergymen = {
-		culture = tswana
-		religion = secularism
-		size = 91
-	 } 
-	farmers = {
-		culture = tswana
-		religion =  protestant 
-		size = 11012
-	 } 
-	farmers = {
-		culture = tswana
-		religion = secularism
-		size = 2097
-	 } 
-	farmers = {
-		culture = shona
-		religion =  protestant 
-		size = 11012
-	 } 
-	farmers = {
-		culture = shona
-		religion = secularism
-		size = 2097
-	 } 
-	farmers = {
-		culture = khoisan
-		religion =  animist 
-		size = 1436
-	 } 
-	farmers = {
-		culture = khoisan
-		religion = secularism
-		size = 273
-	 } 
+  clergymen = {
+    culture = tswana
+    religion =  protestant
+    size = 478
+  }
+  clergymen = {
+    culture = tswana
+    religion = secularism
+    size = 91
+  }
+  farmers = {
+    culture = tswana
+    religion =  protestant
+    size = 11012
+  }
+  farmers = {
+    culture = tswana
+    religion = secularism
+    size = 2097
+  }
+  farmers = {
+    culture = shona
+    religion =  protestant
+    size = 11012
+  }
+  farmers = {
+    culture = shona
+    religion = secularism
+    size = 2097
+  }
+  farmers = {
+    culture = khoisan
+    religion =  animist
+    size = 1436
+  }
+  farmers = {
+    culture = khoisan
+    religion = secularism
+    size = 273
+  }
 }
 #Tsabong - Ghanzi, Kgalagadi (52000/13000 POPS)
 2077 = {
-	clergymen = {
-		culture = tswana
-		religion =  protestant 
-		size = 218
-	 } 
-	clergymen = {
-		culture = tswana
-		religion = secularism
-		size = 41
-	 } 
-	farmers = {
-		culture = tswana
-		religion =  protestant 
-		size = 9391
-	 } 
-	farmers = {
-		culture = tswana
-		religion = secularism
-		size = 1788
-	 } 
-	farmers = {
-		culture = khoisan
-		religion =  animist 
-		size = 1310
-	 } 
-	farmers = {
-		culture = khoisan
-		religion = secularism
-		size = 249
-	 } 
+  clergymen = {
+    culture = tswana
+    religion =  protestant
+    size = 218
+  }
+  clergymen = {
+    culture = tswana
+    religion = secularism
+    size = 41
+  }
+  farmers = {
+    culture = tswana
+    religion =  protestant
+    size = 9391
+  }
+  farmers = {
+    culture = tswana
+    religion = secularism
+    size = 1788
+  }
+  farmers = {
+    culture = khoisan
+    religion =  animist
+    size = 1310
+  }
+  farmers = {
+    culture = khoisan
+    religion = secularism
+    size = 249
+  }
 }
 #Mochudi - Kgatleng, Kwenen (198000/49500 POPS)
 2574 = {
-	clergymen = {
-		culture = tswana
-		religion =  protestant 
-		size = 831
-	 } 
-	clergymen = {
-		culture = tswana
-		religion = secularism
-		size = 158
-	 } 
-	farmers = {
-		culture = tswana
-		religion =  protestant 
-		size = 40748
-	 } 
-	farmers = {
-		culture = tswana
-		religion = secularism
-		size = 7761
-	 } 
+  clergymen = {
+    culture = tswana
+    religion =  protestant
+    size = 831
+  }
+  clergymen = {
+    culture = tswana
+    religion = secularism
+    size = 158
+  }
+  farmers = {
+    culture = tswana
+    religion =  protestant
+    size = 40748
+  }
+  farmers = {
+    culture = tswana
+    religion = secularism
+    size = 7761
+  }
 }

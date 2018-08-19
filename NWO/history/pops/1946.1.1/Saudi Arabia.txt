@@ -1,177 +1,177 @@
 #Mecca - Mecca (983000/245750 POPS)
 1151 = {
-	clergymen = {
-		culture = sunni_arab
-		religion =  sunni 
-		size = 4915
-	 } 
-	farmers = {
-		culture = sunni_arab
-		religion =  sunni 
-		size = 240835
-	 } 
+  clergymen = {
+    culture = sunni_arab
+    religion =  sunni
+    size = 4915
+  }
+  farmers = {
+    culture = sunni_arab
+    religion =  sunni
+    size = 240835
+  }
 }
 #Jidda - Bahah (58000/14500 POPS)
 1152 = {
-	farmers = {
-		culture = sunni_arab
-		religion =  sunni 
-		size = 13457
-	 } 
+  farmers = {
+    culture = sunni_arab
+    religion =  sunni
+    size = 13457
+  }
 }
 #Medina - Medina (252000/63000 POPS)
 1153 = {
-	clergymen = {
-		culture = sunni_arab
-		religion =  sunni 
-		size = 1260
-	 } 
-	farmers = {
-		culture = sunni_arab
-		religion =  sunni 
-		size = 61740
-	 } 
+  clergymen = {
+    culture = sunni_arab
+    religion =  sunni
+    size = 1260
+  }
+  farmers = {
+    culture = sunni_arab
+    religion =  sunni
+    size = 61740
+  }
 }
 #Tabuk - Tabuk (112000/28000 POPS)
 1154 = {
-	farmers = {
-		culture = sunni_arab
-		religion =  sunni 
-		size = 27440
-	 } 
+  farmers = {
+    culture = sunni_arab
+    religion =  sunni
+    size = 27440
+  }
 }
 #Abha - Asir (272000/68000 POPS)
 1155 = {
-	clergymen = {
-		culture = sunni_arab
-		religion =  sunni 
-		size = 1360
-	 } 
-	farmers = {
-		culture = sunni_arab
-		religion =  sunni 
-		size = 10880
-	 } 
-	farmers = {
-		culture = shia_arab
-		religion =  shiite 
-		size = 55760
-	 } 
+  clergymen = {
+    culture = sunni_arab
+    religion =  sunni
+    size = 1360
+  }
+  farmers = {
+    culture = sunni_arab
+    religion =  sunni
+    size = 10880
+  }
+  farmers = {
+    culture = shia_arab
+    religion =  shiite
+    size = 55760
+  }
 }
 #Kaf - Jawf (62000/15500 POPS)
 1156 = {
-	farmers = {
-		culture = sunni_arab
-		religion =  sunni 
-		size = 15190
-	 } 
+  farmers = {
+    culture = sunni_arab
+    religion =  sunni
+    size = 15190
+  }
 }
 #Riyadh - Riyadh (964000/241000 POPS)
 1157 = {
-	aristocrats = {
-		culture = sunni_arab
-		religion =  sunni 
-		size = 9640
-	 } 
-	clergymen = {
-		culture = sunni_arab
-		religion =  sunni 
-		size = 4820
-	 } 
-	artisans = {
-		culture = sunni_arab
-		religion =  sunni 
-		size = 2651
-	 } 
-	farmers = {
-		culture = sunni_arab
-		religion =  sunni 
-		size = 223648
-	 } 
+  aristocrats = {
+    culture = sunni_arab
+    religion =  sunni
+    size = 9640
+  }
+  clergymen = {
+    culture = sunni_arab
+    religion =  sunni
+    size = 4820
+  }
+  artisans = {
+    culture = sunni_arab
+    religion =  sunni
+    size = 2651
+  }
+  farmers = {
+    culture = sunni_arab
+    religion =  sunni
+    size = 223648
+  }
 }
 #Rafha - Northern Borders (45000/11250 POPS)
 1158 = {
-	farmers = {
-		culture = sunni_arab
-		religion =  sunni 
-		size = 11025
-	 } 
+  farmers = {
+    culture = sunni_arab
+    religion =  sunni
+    size = 11025
+  }
 }
 #Halaban - Quasim (172000/43000 POPS)
 1159 = {
-	farmers = {
-		culture = sunni_arab
-		religion =  sunni 
-		size = 42140
-	 } 
+  farmers = {
+    culture = sunni_arab
+    religion =  sunni
+    size = 42140
+  }
 }
 #Hail - Hail (84000/21000 POPS)
 1160 = {
-	farmers = {
-		culture = sunni_arab
-		religion =  sunni 
-		size = 20580
-	 } 
+  farmers = {
+    culture = sunni_arab
+    religion =  sunni
+    size = 20580
+  }
 }
 #Sharawrah - Najran (71000/17750 POPS)
 1161 = {
-	farmers = {
-		culture = sunni_arab
-		religion =  sunni 
-		size = 17395
-	 } 
+  farmers = {
+    culture = sunni_arab
+    religion =  sunni
+    size = 17395
+  }
 }
 #Qatif - Eastern Region (292000/73000 POPS)
 1163 = {
-	aristocrats = {
-		culture = sunni_arab
-		religion =  sunni 
-		size = 2920
-	 } 
-	clergymen = {
-		culture = sunni_arab
-		religion =  sunni 
-		size = 1460
-	 } 
-	farmers = {
-		culture = sunni_arab
-		religion =  sunni 
-		size = 2044
-	 } 
-	farmers = {
-		culture = shia_arab
-		religion =  shiite 
-		size = 65700
-	 } 
+  aristocrats = {
+    culture = sunni_arab
+    religion =  sunni
+    size = 2920
+  }
+  clergymen = {
+    culture = sunni_arab
+    religion =  sunni
+    size = 1460
+  }
+  farmers = {
+    culture = sunni_arab
+    religion =  sunni
+    size = 2044
+  }
+  farmers = {
+    culture = shia_arab
+    religion =  shiite
+    size = 65700
+  }
 }
 #Hufuf - Eastern Region (292000/73000 POPS)
 1164 = {
-	clergymen = {
-		culture = sunni_arab
-		religion =  sunni 
-		size = 1460
-	 } 
-	farmers = {
-		culture = sunni_arab
-		religion =  sunni 
-		size = 42340
-	 } 
-	farmers = {
-		culture = shia_arab
-		religion =  shiite 
-		size = 29200
-	 } 
+  clergymen = {
+    culture = sunni_arab
+    religion =  sunni
+    size = 1460
+  }
+  farmers = {
+    culture = sunni_arab
+    religion =  sunni
+    size = 42340
+  }
+  farmers = {
+    culture = shia_arab
+    religion =  shiite
+    size = 29200
+  }
 }
 #AlAhsa - Jizan (194000/48500 POPS)
 2586 = {
-	farmers = {
-		culture = sunni_arab
-		religion =  sunni 
-		size = 25220
-	 } 
-	farmers = {
-		culture = shia_arab
-		religion =  shiite 
-		size = 22310
-	 } 
+  farmers = {
+    culture = sunni_arab
+    religion =  sunni
+    size = 25220
+  }
+  farmers = {
+    culture = shia_arab
+    religion =  shiite
+    size = 22310
+  }
 }

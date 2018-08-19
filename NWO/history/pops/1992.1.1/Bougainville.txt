@@ -1,103 +1,103 @@
 #Bougainville - Bougainville (186000/46500 POPS)
 2539 = {
-	officers = {
-		culture = melanesian
-		religion =  protestant 
-		size = 21
-	 } 
-	officers = {
-		culture = melanesian
-		religion = secularism
-		size = 1
-	 } 
-	soldiers = {
-		culture = melanesian
-		religion =  protestant 
-		size = 414
-	 } 
-	soldiers = {
-		culture = melanesian
-		religion = secularism
-		size = 26
-	 } 
-	aristocrats = {
-		culture = melanesian
-		religion =  protestant 
-		size = 1748
-	 } 
-	aristocrats = {
-		culture = melanesian
-		religion = secularism
-		size = 111
-	 } 
-	bureaucrats = {
-		culture = melanesian
-		religion =  protestant 
-		size = 43
-	 } 
-	bureaucrats = {
-		culture = melanesian
-		religion = secularism
-		size = 2
-	 } 
-	capitalists = {
-		culture = melanesian
-		religion =  protestant 
-		size = 218
-	 } 
-	capitalists = {
-		culture = melanesian
-		religion = secularism
-		size = 13
-	 } 
-	clergymen = {
-		culture = melanesian
-		religion =  protestant 
-		size = 874
-	 } 
-	clergymen = {
-		culture = melanesian
-		religion = secularism
-		size = 55
-	 } 
-	clerks = {
-		culture = melanesian
-		religion =  protestant 
-		size = 202
-	 } 
-	clerks = {
-		culture = melanesian
-		religion = secularism
-		size = 12
-	 } 
-	artisans = {
-		culture = melanesian
-		religion =  protestant 
-		size = 191
-	 } 
-	artisans = {
-		culture = melanesian
-		religion = secularism
-		size = 12
-	 } 
-	craftsmen = {
-		culture = melanesian
-		religion =  protestant 
-		size = 606
-	 } 
-	craftsmen = {
-		culture = melanesian
-		religion = secularism
-		size = 38
-	 } 
-	farmers = {
-		culture = melanesian
-		religion =  protestant 
-		size = 39389
-	 } 
-	farmers = {
-		culture = melanesian
-		religion = secularism
-		size = 2514
-	 } 
+  officers = {
+    culture = melanesian
+    religion =  protestant
+    size = 21
+  }
+  officers = {
+    culture = melanesian
+    religion = secularism
+    size = 1
+  }
+  soldiers = {
+    culture = melanesian
+    religion =  protestant
+    size = 414
+  }
+  soldiers = {
+    culture = melanesian
+    religion = secularism
+    size = 26
+  }
+  aristocrats = {
+    culture = melanesian
+    religion =  protestant
+    size = 1748
+  }
+  aristocrats = {
+    culture = melanesian
+    religion = secularism
+    size = 111
+  }
+  bureaucrats = {
+    culture = melanesian
+    religion =  protestant
+    size = 43
+  }
+  bureaucrats = {
+    culture = melanesian
+    religion = secularism
+    size = 2
+  }
+  capitalists = {
+    culture = melanesian
+    religion =  protestant
+    size = 218
+  }
+  capitalists = {
+    culture = melanesian
+    religion = secularism
+    size = 13
+  }
+  clergymen = {
+    culture = melanesian
+    religion =  protestant
+    size = 874
+  }
+  clergymen = {
+    culture = melanesian
+    religion = secularism
+    size = 55
+  }
+  clerks = {
+    culture = melanesian
+    religion =  protestant
+    size = 202
+  }
+  clerks = {
+    culture = melanesian
+    religion = secularism
+    size = 12
+  }
+  artisans = {
+    culture = melanesian
+    religion =  protestant
+    size = 191
+  }
+  artisans = {
+    culture = melanesian
+    religion = secularism
+    size = 12
+  }
+  craftsmen = {
+    culture = melanesian
+    religion =  protestant
+    size = 606
+  }
+  craftsmen = {
+    culture = melanesian
+    religion = secularism
+    size = 38
+  }
+  farmers = {
+    culture = melanesian
+    religion =  protestant
+    size = 39389
+  }
+  farmers = {
+    culture = melanesian
+    religion = secularism
+    size = 2514
+  }
 }

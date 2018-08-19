@@ -7,9 +7,9 @@ life_rating = 39
 terrain = semi_desert
 colonial = 2
 1992.1.1 = {
-owner = SOM
-controller = SOM
-add_core = SOM
-add_core = SUM
-colonial = 0
+  owner = SOM
+  controller = SOM
+  add_core = SOM
+  add_core = SUM
+  colonial = 0
 }

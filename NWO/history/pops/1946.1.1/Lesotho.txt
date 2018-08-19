@@ -1,63 +1,63 @@
 #Thaba Bosiu - Thaba Bosiu (726000/181500 POPS)
 2104 = {
-	aristocrats = {
-		culture = sotho
-		religion =  protestant 
-		size = 7132
-	 } 
-	aristocrats = {
-		culture = sotho
-		religion = secularism
-		size = 127
-	 } 
-	bureaucrats = {
-		culture = sotho
-		religion =  protestant 
-		size = 177
-	 } 
-	bureaucrats = {
-		culture = sotho
-		religion = secularism
-		size = 3
-	 } 
-	clergymen = {
-		culture = sotho
-		religion =  protestant 
-		size = 3566
-	 } 
-	clergymen = {
-		culture = sotho
-		religion = secularism
-		size = 63
-	 } 
-	artisans = {
-		culture = sotho
-		religion =  protestant 
-		size = 252
-	 } 
-	artisans = {
-		culture = sotho
-		religion = secularism
-		size = 4
-	 } 
-	farmers = {
-		culture = sotho
-		religion =  protestant 
-		size = 166658
-	 } 
-	farmers = {
-		culture = sotho
-		religion = secularism
-		size = 2968
-	 } 
-	farmers = {
-		culture = british
-		religion =  protestant 
-		size = 534
-	 } 
-	farmers = {
-		culture = british
-		religion = secularism
-		size = 9
-	 } 
+  aristocrats = {
+    culture = sotho
+    religion =  protestant
+    size = 7132
+  }
+  aristocrats = {
+    culture = sotho
+    religion = secularism
+    size = 127
+  }
+  bureaucrats = {
+    culture = sotho
+    religion =  protestant
+    size = 177
+  }
+  bureaucrats = {
+    culture = sotho
+    religion = secularism
+    size = 3
+  }
+  clergymen = {
+    culture = sotho
+    religion =  protestant
+    size = 3566
+  }
+  clergymen = {
+    culture = sotho
+    religion = secularism
+    size = 63
+  }
+  artisans = {
+    culture = sotho
+    religion =  protestant
+    size = 252
+  }
+  artisans = {
+    culture = sotho
+    religion = secularism
+    size = 4
+  }
+  farmers = {
+    culture = sotho
+    religion =  protestant
+    size = 166658
+  }
+  farmers = {
+    culture = sotho
+    religion = secularism
+    size = 2968
+  }
+  farmers = {
+    culture = british
+    religion =  protestant
+    size = 534
+  }
+  farmers = {
+    culture = british
+    religion = secularism
+    size = 9
+  }
 }

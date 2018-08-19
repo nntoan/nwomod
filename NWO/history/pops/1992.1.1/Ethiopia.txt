@@ -1,798 +1,798 @@
 #Gonder - Amhara (3323000/830750 POPS)
 1852 = {
-	officers = {
-		culture = amhara
-		religion =  orthodox 
-		size = 2277
-	 } 
-	officers = {
-		culture = amhara
-		religion = secularism
-		size = 253
-	 } 
-	soldiers = {
-		culture = amhara
-		religion =  orthodox 
-		size = 43264
-	 } 
-	soldiers = {
-		culture = amhara
-		religion = secularism
-		size = 4807
-	 } 
-	aristocrats = {
-		culture = amhara
-		religion =  orthodox 
-		size = 29907
-	 } 
-	aristocrats = {
-		culture = amhara
-		religion = secularism
-		size = 3323
-	 } 
-	bureaucrats = {
-		culture = amhara
-		religion =  orthodox 
-		size = 747
-	 } 
-	bureaucrats = {
-		culture = amhara
-		religion = secularism
-		size = 83
-	 } 
-	capitalists = {
-		culture = amhara
-		religion =  orthodox 
-		size = 3737
-	 } 
-	capitalists = {
-		culture = amhara
-		religion = secularism
-		size = 415
-	 } 
-	clergymen = {
-		culture = amhara
-		religion =  orthodox 
-		size = 14953
-	 } 
-	clergymen = {
-		culture = amhara
-		religion = secularism
-		size = 1661
-	 } 
-	clerks = {
-		culture = amhara
-		religion =  orthodox 
-		size = 4459
-	 } 
-	clerks = {
-		culture = amhara
-		religion = secularism
-		size = 495
-	 } 
-	artisans = {
-		culture = amhara
-		religion =  orthodox 
-		size = 4236
-	 } 
-	artisans = {
-		culture = amhara
-		religion = secularism
-		size = 470
-	 } 
-	craftsmen = {
-		culture = amhara
-		religion =  orthodox 
-		size = 13378
-	 } 
-	craftsmen = {
-		culture = amhara
-		religion = secularism
-		size = 1486
-	 } 
-	farmers = {
-		culture = amhara
-		religion =  orthodox 
-		size = 630713
-	 } 
-	farmers = {
-		culture = amhara
-		religion = secularism
-		size = 70079
-	 } 
+  officers = {
+    culture = amhara
+    religion =  orthodox
+    size = 2277
+  }
+  officers = {
+    culture = amhara
+    religion = secularism
+    size = 253
+  }
+  soldiers = {
+    culture = amhara
+    religion =  orthodox
+    size = 43264
+  }
+  soldiers = {
+    culture = amhara
+    religion = secularism
+    size = 4807
+  }
+  aristocrats = {
+    culture = amhara
+    religion =  orthodox
+    size = 29907
+  }
+  aristocrats = {
+    culture = amhara
+    religion = secularism
+    size = 3323
+  }
+  bureaucrats = {
+    culture = amhara
+    religion =  orthodox
+    size = 747
+  }
+  bureaucrats = {
+    culture = amhara
+    religion = secularism
+    size = 83
+  }
+  capitalists = {
+    culture = amhara
+    religion =  orthodox
+    size = 3737
+  }
+  capitalists = {
+    culture = amhara
+    religion = secularism
+    size = 415
+  }
+  clergymen = {
+    culture = amhara
+    religion =  orthodox
+    size = 14953
+  }
+  clergymen = {
+    culture = amhara
+    religion = secularism
+    size = 1661
+  }
+  clerks = {
+    culture = amhara
+    religion =  orthodox
+    size = 4459
+  }
+  clerks = {
+    culture = amhara
+    religion = secularism
+    size = 495
+  }
+  artisans = {
+    culture = amhara
+    religion =  orthodox
+    size = 4236
+  }
+  artisans = {
+    culture = amhara
+    religion = secularism
+    size = 470
+  }
+  craftsmen = {
+    culture = amhara
+    religion =  orthodox
+    size = 13378
+  }
+  craftsmen = {
+    culture = amhara
+    religion = secularism
+    size = 1486
+  }
+  farmers = {
+    culture = amhara
+    religion =  orthodox
+    size = 630713
+  }
+  farmers = {
+    culture = amhara
+    religion = secularism
+    size = 70079
+  }
 }
 #Debre Tabor - Amhara (4792000/1198000 POPS)
 1853 = {
-	clergymen = {
-		culture = amhara
-		religion =  orthodox 
-		size = 21564
-	 } 
-	clergymen = {
-		culture = amhara
-		religion = secularism
-		size = 2396
-	 } 
-	farmers = {
-		culture = amhara
-		religion =  orthodox 
-		size = 1002726
-	 } 
-	farmers = {
-		culture = amhara
-		religion = secularism
-		size = 111414
-	 } 
-	farmers = {
-		culture = oromo
-		religion =  protestant 
-		size = 53910
-	 } 
-	farmers = {
-		culture = oromo
-		religion = secularism
-		size = 5990
-	 } 
+  clergymen = {
+    culture = amhara
+    religion =  orthodox
+    size = 21564
+  }
+  clergymen = {
+    culture = amhara
+    religion = secularism
+    size = 2396
+  }
+  farmers = {
+    culture = amhara
+    religion =  orthodox
+    size = 1002726
+  }
+  farmers = {
+    culture = amhara
+    religion = secularism
+    size = 111414
+  }
+  farmers = {
+    culture = oromo
+    religion =  protestant
+    size = 53910
+  }
+  farmers = {
+    culture = oromo
+    religion = secularism
+    size = 5990
+  }
 }
 #Matamma - Matamma (445000/111250 POPS)
 1854 = {
-	clergymen = {
-		culture = amhara
-		religion =  orthodox 
-		size = 2002
-	 } 
-	clergymen = {
-		culture = amhara
-		religion = secularism
-		size = 222
-	 } 
-	farmers = {
-		culture = amhara
-		religion =  orthodox 
-		size = 20025
-	 } 
-	farmers = {
-		culture = amhara
-		religion = secularism
-		size = 2225
-	 } 
-	farmers = {
-		culture = oromo
-		religion =  protestant 
-		size = 13015
-	 } 
-	farmers = {
-		culture = oromo
-		religion = secularism
-		size = 1446
-	 } 
-	farmers = {
-		culture = african_minor
-		religion =  catholic 
-		size = 65080
-	 } 
-	farmers = {
-		culture = african_minor
-		religion = secularism
-		size = 7231
-	 } 
+  clergymen = {
+    culture = amhara
+    religion =  orthodox
+    size = 2002
+  }
+  clergymen = {
+    culture = amhara
+    religion = secularism
+    size = 222
+  }
+  farmers = {
+    culture = amhara
+    religion =  orthodox
+    size = 20025
+  }
+  farmers = {
+    culture = amhara
+    religion = secularism
+    size = 2225
+  }
+  farmers = {
+    culture = oromo
+    religion =  protestant
+    size = 13015
+  }
+  farmers = {
+    culture = oromo
+    religion = secularism
+    size = 1446
+  }
+  farmers = {
+    culture = african_minor
+    religion =  catholic
+    size = 65080
+  }
+  farmers = {
+    culture = african_minor
+    religion = secularism
+    size = 7231
+  }
 }
 #Debre Markos - Oromia (4758000/1189500 POPS)
 1855 = {
-	clergymen = {
-		culture = amhara
-		religion =  orthodox 
-		size = 21411
-	 } 
-	clergymen = {
-		culture = amhara
-		religion = secularism
-		size = 2379
-	 } 
-	farmers = {
-		culture = amhara
-		religion =  orthodox 
-		size = 374692
-	 } 
-	farmers = {
-		culture = amhara
-		religion = secularism
-		size = 41632
-	 } 
-	farmers = {
-		culture = oromo
-		religion =  protestant 
-		size = 674446
-	 } 
-	farmers = {
-		culture = oromo
-		religion = secularism
-		size = 74938
-	 } 
+  clergymen = {
+    culture = amhara
+    religion =  orthodox
+    size = 21411
+  }
+  clergymen = {
+    culture = amhara
+    religion = secularism
+    size = 2379
+  }
+  farmers = {
+    culture = amhara
+    religion =  orthodox
+    size = 374692
+  }
+  farmers = {
+    culture = amhara
+    religion = secularism
+    size = 41632
+  }
+  farmers = {
+    culture = oromo
+    religion =  protestant
+    size = 674446
+  }
+  farmers = {
+    culture = oromo
+    religion = secularism
+    size = 74938
+  }
 }
 #Aksum - Aksum (2867000/716750 POPS)
 1856 = {
-	officers = {
-		culture = amhara
-		religion =  orthodox 
-		size = 706
-	 } 
-	officers = {
-		culture = amhara
-		religion = secularism
-		size = 78
-	 } 
-	soldiers = {
-		culture = amhara
-		religion =  orthodox 
-		size = 13437
-	 } 
-	soldiers = {
-		culture = amhara
-		religion = secularism
-		size = 1493
-	 } 
-	aristocrats = {
-		culture = amhara
-		religion =  orthodox 
-		size = 5207
-	 } 
-	aristocrats = {
-		culture = amhara
-		religion = secularism
-		size = 578
-	 } 
-	aristocrats = {
-		culture = tigray
-		religion =  orthodox 
-		size = 20595
-	 } 
-	aristocrats = {
-		culture = tigray
-		religion = secularism
-		size = 2288
-	 } 
-	bureaucrats = {
-		culture = tigray
-		religion =  orthodox 
-		size = 644
-	 } 
-	bureaucrats = {
-		culture = tigray
-		religion = secularism
-		size = 71
-	 } 
-	capitalists = {
-		culture = tigray
-		religion =  orthodox 
-		size = 3224
-	 } 
-	capitalists = {
-		culture = tigray
-		religion = secularism
-		size = 358
-	 } 
-	clergymen = {
-		culture = tigray
-		religion =  orthodox 
-		size = 12901
-	 } 
-	clergymen = {
-		culture = tigray
-		religion = secularism
-		size = 1433
-	 } 
-	clerks = {
-		culture = tigray
-		religion =  orthodox 
-		size = 4006
-	 } 
-	clerks = {
-		culture = tigray
-		religion = secularism
-		size = 445
-	 } 
-	artisans = {
-		culture = tigray
-		religion =  orthodox 
-		size = 3806
-	 } 
-	artisans = {
-		culture = tigray
-		religion = secularism
-		size = 422
-	 } 
-	craftsmen = {
-		culture = tigray
-		religion =  orthodox 
-		size = 12021
-	 } 
-	craftsmen = {
-		culture = tigray
-		religion = secularism
-		size = 1335
-	 } 
-	farmers = {
-		culture = tigray
-		religion =  orthodox 
-		size = 568521
-	 } 
-	farmers = {
-		culture = tigray
-		religion = secularism
-		size = 63169
-	 } 
+  officers = {
+    culture = amhara
+    religion =  orthodox
+    size = 706
+  }
+  officers = {
+    culture = amhara
+    religion = secularism
+    size = 78
+  }
+  soldiers = {
+    culture = amhara
+    religion =  orthodox
+    size = 13437
+  }
+  soldiers = {
+    culture = amhara
+    religion = secularism
+    size = 1493
+  }
+  aristocrats = {
+    culture = amhara
+    religion =  orthodox
+    size = 5207
+  }
+  aristocrats = {
+    culture = amhara
+    religion = secularism
+    size = 578
+  }
+  aristocrats = {
+    culture = tigray
+    religion =  orthodox
+    size = 20595
+  }
+  aristocrats = {
+    culture = tigray
+    religion = secularism
+    size = 2288
+  }
+  bureaucrats = {
+    culture = tigray
+    religion =  orthodox
+    size = 644
+  }
+  bureaucrats = {
+    culture = tigray
+    religion = secularism
+    size = 71
+  }
+  capitalists = {
+    culture = tigray
+    religion =  orthodox
+    size = 3224
+  }
+  capitalists = {
+    culture = tigray
+    religion = secularism
+    size = 358
+  }
+  clergymen = {
+    culture = tigray
+    religion =  orthodox
+    size = 12901
+  }
+  clergymen = {
+    culture = tigray
+    religion = secularism
+    size = 1433
+  }
+  clerks = {
+    culture = tigray
+    religion =  orthodox
+    size = 4006
+  }
+  clerks = {
+    culture = tigray
+    religion = secularism
+    size = 445
+  }
+  artisans = {
+    culture = tigray
+    religion =  orthodox
+    size = 3806
+  }
+  artisans = {
+    culture = tigray
+    religion = secularism
+    size = 422
+  }
+  craftsmen = {
+    culture = tigray
+    religion =  orthodox
+    size = 12021
+  }
+  craftsmen = {
+    culture = tigray
+    religion = secularism
+    size = 1335
+  }
+  farmers = {
+    culture = tigray
+    religion =  orthodox
+    size = 568521
+  }
+  farmers = {
+    culture = tigray
+    religion = secularism
+    size = 63169
+  }
 }
 #Antalo - Amhara (3323000/830750 POPS)
 1857 = {
-	clergymen = {
-		culture = amhara
-		religion =  orthodox 
-		size = 14953
-	 } 
-	clergymen = {
-		culture = amhara
-		religion = secularism
-		size = 1661
-	 } 
-	farmers = {
-		culture = amhara
-		religion =  orthodox 
-		size = 732721
-	 } 
-	farmers = {
-		culture = amhara
-		religion = secularism
-		size = 81413
-	 } 
+  clergymen = {
+    culture = amhara
+    religion =  orthodox
+    size = 14953
+  }
+  clergymen = {
+    culture = amhara
+    religion = secularism
+    size = 1661
+  }
+  farmers = {
+    culture = amhara
+    religion =  orthodox
+    size = 732721
+  }
+  farmers = {
+    culture = amhara
+    religion = secularism
+    size = 81413
+  }
 }
 #Awsa - Afar (937000/234250 POPS)
 1858 = {
-	clergymen = {
-		culture = amhara
-		religion =  orthodox 
-		size = 4216
-	 } 
-	clergymen = {
-		culture = amhara
-		religion = secularism
-		size = 468
-	 } 
-	farmers = {
-		culture = amhara
-		religion =  orthodox 
-		size = 6324
-	 } 
-	farmers = {
-		culture = amhara
-		religion = secularism
-		size = 702
-	 } 
-	farmers = {
-		culture = afar
-		religion =  sunni 
-		size = 210825
-	 } 
-	farmers = {
-		culture = black_muslim
-		religion =  sunni 
-		size = 11712
-	 } 
+  clergymen = {
+    culture = amhara
+    religion =  orthodox
+    size = 4216
+  }
+  clergymen = {
+    culture = amhara
+    religion = secularism
+    size = 468
+  }
+  farmers = {
+    culture = amhara
+    religion =  orthodox
+    size = 6324
+  }
+  farmers = {
+    culture = amhara
+    religion = secularism
+    size = 702
+  }
+  farmers = {
+    culture = afar
+    religion =  sunni
+    size = 210825
+  }
+  farmers = {
+    culture = black_muslim
+    religion =  sunni
+    size = 11712
+  }
 }
 #Ankober - Addis Abbaba (2249000/562250 POPS)
 1859 = {
-	officers = {
-		culture = amhara
-		religion =  orthodox 
-		size = 3782
-	 } 
-	officers = {
-		culture = amhara
-		religion = secularism
-		size = 420
-	 } 
-	soldiers = {
-		culture = amhara
-		religion =  orthodox 
-		size = 71873
-	 } 
-	soldiers = {
-		culture = amhara
-		religion = secularism
-		size = 7985
-	 } 
-	aristocrats = {
-		culture = amhara
-		religion =  orthodox 
-		size = 20241
-	 } 
-	aristocrats = {
-		culture = amhara
-		religion = secularism
-		size = 2249
-	 } 
-	bureaucrats = {
-		culture = amhara
-		religion =  orthodox 
-		size = 505
-	 } 
-	bureaucrats = {
-		culture = amhara
-		religion = secularism
-		size = 56
-	 } 
-	capitalists = {
-		culture = amhara
-		religion =  orthodox 
-		size = 2529
-	 } 
-	capitalists = {
-		culture = amhara
-		religion = secularism
-		size = 281
-	 } 
-	clergymen = {
-		culture = amhara
-		religion =  orthodox 
-		size = 10120
-	 } 
-	clergymen = {
-		culture = amhara
-		religion = secularism
-		size = 1124
-	 } 
-	clerks = {
-		culture = amhara
-		religion =  orthodox 
-		size = 2733
-	 } 
-	clerks = {
-		culture = amhara
-		religion = secularism
-		size = 303
-	 } 
-	artisans = {
-		culture = amhara
-		religion =  orthodox 
-		size = 2596
-	 } 
-	artisans = {
-		culture = amhara
-		religion = secularism
-		size = 288
-	 } 
-	craftsmen = {
-		culture = amhara
-		religion =  orthodox 
-		size = 8199
-	 } 
-	craftsmen = {
-		culture = amhara
-		religion = secularism
-		size = 911
-	 } 
-	farmers = {
-		culture = amhara
-		religion =  orthodox 
-		size = 130429
-	 } 
-	farmers = {
-		culture = amhara
-		religion = secularism
-		size = 14492
-	 } 
-	farmers = {
-		culture = oromo
-		religion =  protestant 
-		size = 101205
-	 } 
-	farmers = {
-		culture = oromo
-		religion = secularism
-		size = 11245
-	 } 
-	farmers = {
-		culture = tigray
-		religion =  orthodox 
-		size = 40482
-	 } 
-	farmers = {
-		culture = tigray
-		religion = secularism
-		size = 4498
-	 } 
-	farmers = {
-		culture = african_minor
-		religion =  catholic 
-		size = 111325
-	 } 
-	farmers = {
-		culture = african_minor
-		religion = secularism
-		size = 12369
-	 } 
+  officers = {
+    culture = amhara
+    religion =  orthodox
+    size = 3782
+  }
+  officers = {
+    culture = amhara
+    religion = secularism
+    size = 420
+  }
+  soldiers = {
+    culture = amhara
+    religion =  orthodox
+    size = 71873
+  }
+  soldiers = {
+    culture = amhara
+    religion = secularism
+    size = 7985
+  }
+  aristocrats = {
+    culture = amhara
+    religion =  orthodox
+    size = 20241
+  }
+  aristocrats = {
+    culture = amhara
+    religion = secularism
+    size = 2249
+  }
+  bureaucrats = {
+    culture = amhara
+    religion =  orthodox
+    size = 505
+  }
+  bureaucrats = {
+    culture = amhara
+    religion = secularism
+    size = 56
+  }
+  capitalists = {
+    culture = amhara
+    religion =  orthodox
+    size = 2529
+  }
+  capitalists = {
+    culture = amhara
+    religion = secularism
+    size = 281
+  }
+  clergymen = {
+    culture = amhara
+    religion =  orthodox
+    size = 10120
+  }
+  clergymen = {
+    culture = amhara
+    religion = secularism
+    size = 1124
+  }
+  clerks = {
+    culture = amhara
+    religion =  orthodox
+    size = 2733
+  }
+  clerks = {
+    culture = amhara
+    religion = secularism
+    size = 303
+  }
+  artisans = {
+    culture = amhara
+    religion =  orthodox
+    size = 2596
+  }
+  artisans = {
+    culture = amhara
+    religion = secularism
+    size = 288
+  }
+  craftsmen = {
+    culture = amhara
+    religion =  orthodox
+    size = 8199
+  }
+  craftsmen = {
+    culture = amhara
+    religion = secularism
+    size = 911
+  }
+  farmers = {
+    culture = amhara
+    religion =  orthodox
+    size = 130429
+  }
+  farmers = {
+    culture = amhara
+    religion = secularism
+    size = 14492
+  }
+  farmers = {
+    culture = oromo
+    religion =  protestant
+    size = 101205
+  }
+  farmers = {
+    culture = oromo
+    religion = secularism
+    size = 11245
+  }
+  farmers = {
+    culture = tigray
+    religion =  orthodox
+    size = 40482
+  }
+  farmers = {
+    culture = tigray
+    religion = secularism
+    size = 4498
+  }
+  farmers = {
+    culture = african_minor
+    religion =  catholic
+    size = 111325
+  }
+  farmers = {
+    culture = african_minor
+    religion = secularism
+    size = 12369
+  }
 }
 #Awasa - SNNP (6647000/1661750 POPS)
 1860 = {
-	officers = {
-		culture = african_minor
-		religion =  catholic 
-		size = 1891
-	 } 
-	officers = {
-		culture = african_minor
-		religion = secularism
-		size = 210
-	 } 
-	soldiers = {
-		culture = african_minor
-		religion =  catholic 
-		size = 35948
-	 } 
-	soldiers = {
-		culture = african_minor
-		religion = secularism
-		size = 3994
-	 } 
-	aristocrats = {
-		culture = african_minor
-		religion =  catholic 
-		size = 59823
-	 } 
-	aristocrats = {
-		culture = african_minor
-		religion = secularism
-		size = 6647
-	 } 
-	bureaucrats = {
-		culture = african_minor
-		religion =  catholic 
-		size = 1494
-	 } 
-	bureaucrats = {
-		culture = african_minor
-		religion = secularism
-		size = 166
-	 } 
-	capitalists = {
-		culture = african_minor
-		religion =  catholic 
-		size = 7477
-	 } 
-	capitalists = {
-		culture = african_minor
-		religion = secularism
-		size = 830
-	 } 
-	clergymen = {
-		culture = african_minor
-		religion =  catholic 
-		size = 29911
-	 } 
-	clergymen = {
-		culture = african_minor
-		religion = secularism
-		size = 3323
-	 } 
-	clerks = {
-		culture = african_minor
-		religion =  catholic 
-		size = 9258
-	 } 
-	clerks = {
-		culture = african_minor
-		religion = secularism
-		size = 1028
-	 } 
-	artisans = {
-		culture = african_minor
-		religion =  catholic 
-		size = 8794
-	 } 
-	artisans = {
-		culture = african_minor
-		religion = secularism
-		size = 977
-	 } 
-	craftsmen = {
-		culture = african_minor
-		religion =  catholic 
-		size = 27774
-	 } 
-	craftsmen = {
-		culture = african_minor
-		religion = secularism
-		size = 3086
-	 } 
-	farmers = {
-		culture = african_minor
-		religion =  catholic 
-		size = 729555
-	 } 
-	farmers = {
-		culture = african_minor
-		religion = secularism
-		size = 729555
-	 } 
+  officers = {
+    culture = african_minor
+    religion =  catholic
+    size = 1891
+  }
+  officers = {
+    culture = african_minor
+    religion = secularism
+    size = 210
+  }
+  soldiers = {
+    culture = african_minor
+    religion =  catholic
+    size = 35948
+  }
+  soldiers = {
+    culture = african_minor
+    religion = secularism
+    size = 3994
+  }
+  aristocrats = {
+    culture = african_minor
+    religion =  catholic
+    size = 59823
+  }
+  aristocrats = {
+    culture = african_minor
+    religion = secularism
+    size = 6647
+  }
+  bureaucrats = {
+    culture = african_minor
+    religion =  catholic
+    size = 1494
+  }
+  bureaucrats = {
+    culture = african_minor
+    religion = secularism
+    size = 166
+  }
+  capitalists = {
+    culture = african_minor
+    religion =  catholic
+    size = 7477
+  }
+  capitalists = {
+    culture = african_minor
+    religion = secularism
+    size = 830
+  }
+  clergymen = {
+    culture = african_minor
+    religion =  catholic
+    size = 29911
+  }
+  clergymen = {
+    culture = african_minor
+    religion = secularism
+    size = 3323
+  }
+  clerks = {
+    culture = african_minor
+    religion =  catholic
+    size = 9258
+  }
+  clerks = {
+    culture = african_minor
+    religion = secularism
+    size = 1028
+  }
+  artisans = {
+    culture = african_minor
+    religion =  catholic
+    size = 8794
+  }
+  artisans = {
+    culture = african_minor
+    religion = secularism
+    size = 977
+  }
+  craftsmen = {
+    culture = african_minor
+    religion =  catholic
+    size = 27774
+  }
+  craftsmen = {
+    culture = african_minor
+    religion = secularism
+    size = 3086
+  }
+  farmers = {
+    culture = african_minor
+    religion =  catholic
+    size = 729555
+  }
+  farmers = {
+    culture = african_minor
+    religion = secularism
+    size = 729555
+  }
 }
 #Aselia - Oromia (6647000/1661750 POPS)
 1861 = {
-	clergymen = {
-		culture = oromo
-		religion =  protestant 
-		size = 29911
-	 } 
-	clergymen = {
-		culture = oromo
-		religion = secularism
-		size = 3323
-	 } 
-	farmers = {
-		culture = oromo
-		religion =  protestant 
-		size = 731170
-	 } 
-	farmers = {
-		culture = oromo
-		religion = secularism
-		size = 731170
-	 } 
-	farmers = {
-		culture = african_minor
-		religion =  catholic 
-		size = 149557
-	 } 
-	farmers = {
-		culture = african_minor
-		religion = secularism
-		size = 16617
-	 } 
+  clergymen = {
+    culture = oromo
+    religion =  protestant
+    size = 29911
+  }
+  clergymen = {
+    culture = oromo
+    religion = secularism
+    size = 3323
+  }
+  farmers = {
+    culture = oromo
+    religion =  protestant
+    size = 731170
+  }
+  farmers = {
+    culture = oromo
+    religion = secularism
+    size = 731170
+  }
+  farmers = {
+    culture = african_minor
+    religion =  catholic
+    size = 149557
+  }
+  farmers = {
+    culture = african_minor
+    religion = secularism
+    size = 16617
+  }
 }
 #Bonga - Gambela (203000/50750 POPS)
 1862 = {
-	clergymen = {
-		culture = nuer
-		religion =  animist 
-		size = 913
-	 } 
-	clergymen = {
-		culture = nuer
-		religion = secularism
-		size = 101
-	 } 
-	farmers = {
-		culture = nuer
-		religion =  animist 
-		size = 21924
-	 } 
-	farmers = {
-		culture = nuer
-		religion = secularism
-		size = 2436
-	 } 
-	farmers = {
-		culture = african_minor
-		religion =  catholic 
-		size = 22837
-	 } 
-	farmers = {
-		culture = african_minor
-		religion = secularism
-		size = 2537
-	 } 
+  clergymen = {
+    culture = nuer
+    religion =  animist
+    size = 913
+  }
+  clergymen = {
+    culture = nuer
+    religion = secularism
+    size = 101
+  }
+  farmers = {
+    culture = nuer
+    religion =  animist
+    size = 21924
+  }
+  farmers = {
+    culture = nuer
+    religion = secularism
+    size = 2436
+  }
+  farmers = {
+    culture = african_minor
+    religion =  catholic
+    size = 22837
+  }
+  farmers = {
+    culture = african_minor
+    religion = secularism
+    size = 2537
+  }
 }
 #Asosa - Oromia (6647000/1661750 POPS)
 1863 = {
-	clergymen = {
-		culture = oromo
-		religion =  protestant 
-		size = 29911
-	 } 
-	clergymen = {
-		culture = oromo
-		religion = secularism
-		size = 3323
-	 } 
-	farmers = {
-		culture = oromo
-		religion =  protestant 
-		size = 814257
-	 } 
-	farmers = {
-		culture = oromo
-		religion = secularism
-		size = 814257
-	 } 
+  clergymen = {
+    culture = oromo
+    religion =  protestant
+    size = 29911
+  }
+  clergymen = {
+    culture = oromo
+    religion = secularism
+    size = 3323
+  }
+  farmers = {
+    culture = oromo
+    religion =  protestant
+    size = 814257
+  }
+  farmers = {
+    culture = oromo
+    religion = secularism
+    size = 814257
+  }
 }
 #Negele - SNNP (3351000/837750 POPS)
 1864 = {
-	clergymen = {
-		culture = african_minor
-		religion =  catholic 
-		size = 15079
-	 } 
-	clergymen = {
-		culture = african_minor
-		religion = secularism
-		size = 1675
-	 } 
-	farmers = {
-		culture = african_minor
-		religion =  catholic 
-		size = 738895
-	 } 
-	farmers = {
-		culture = african_minor
-		religion = secularism
-		size = 82099
-	 } 
+  clergymen = {
+    culture = african_minor
+    religion =  catholic
+    size = 15079
+  }
+  clergymen = {
+    culture = african_minor
+    religion = secularism
+    size = 1675
+  }
+  farmers = {
+    culture = african_minor
+    religion =  catholic
+    size = 738895
+  }
+  farmers = {
+    culture = african_minor
+    religion = secularism
+    size = 82099
+  }
 }
 #Harer - Somali (873000/218250 POPS)
 1865 = {
-	soldiers = {
-		culture = somali
-		religion =  sunni 
-		size = 8743
-	 } 
-	aristocrats = {
-		culture = somali
-		religion =  sunni 
-		size = 8730
-	 } 
-	capitalists = {
-		culture = somali
-		religion =  sunni 
-		size = 1091
-	 } 
-	clergymen = {
-		culture = somali
-		religion =  sunni 
-		size = 4365
-	 } 
-	clerks = {
-		culture = somali
-		religion =  sunni 
-		size = 1327
-	 } 
-	artisans = {
-		culture = somali
-		religion =  sunni 
-		size = 1261
-	 } 
-	craftsmen = {
-		culture = somali
-		religion =  sunni 
-		size = 3982
-	 } 
-	farmers = {
-		culture = somali
-		religion =  sunni 
-		size = 188073
-	 } 
+  soldiers = {
+    culture = somali
+    religion =  sunni
+    size = 8743
+  }
+  aristocrats = {
+    culture = somali
+    religion =  sunni
+    size = 8730
+  }
+  capitalists = {
+    culture = somali
+    religion =  sunni
+    size = 1091
+  }
+  clergymen = {
+    culture = somali
+    religion =  sunni
+    size = 4365
+  }
+  clerks = {
+    culture = somali
+    religion =  sunni
+    size = 1327
+  }
+  artisans = {
+    culture = somali
+    religion =  sunni
+    size = 1261
+  }
+  craftsmen = {
+    culture = somali
+    religion =  sunni
+    size = 3982
+  }
+  farmers = {
+    culture = somali
+    religion =  sunni
+    size = 188073
+  }
 }
 #Goba - Somali (664000/166000 POPS)
 1866 = {
-	clergymen = {
-		culture = somali
-		religion =  sunni 
-		size = 3320
-	 } 
-	farmers = {
-		culture = somali
-		religion =  sunni 
-		size = 162680
-	 } 
+  clergymen = {
+    culture = somali
+    religion =  sunni
+    size = 3320
+  }
+  farmers = {
+    culture = somali
+    religion =  sunni
+    size = 162680
+  }
 }
 #Werder - Somali (664000/166000 POPS)
 1867 = {
-	clergymen = {
-		culture = somali
-		religion =  sunni 
-		size = 3320
-	 } 
-	farmers = {
-		culture = somali
-		religion =  sunni 
-		size = 162680
-	 } 
+  clergymen = {
+    culture = somali
+    religion =  sunni
+    size = 3320
+  }
+  farmers = {
+    culture = somali
+    religion =  sunni
+    size = 162680
+  }
 }

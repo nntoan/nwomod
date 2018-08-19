@@ -6,8 +6,8 @@ life_rating = 38
 terrain = semi_desert_hills
 colonial = 2
 1992.1.1 = {
-owner = NAM
-controller = NAM
-add_core = NAM
-colonial = 0
+  owner = NAM
+  controller = NAM
+  add_core = NAM
+  colonial = 0
 }

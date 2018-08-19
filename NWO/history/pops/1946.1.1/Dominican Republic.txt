@@ -1,166 +1,166 @@
 #Santo Domingo - Santo Domingo (2242000/560500 POPS)
 2214 = {
-	officers = {
-		culture = caribbean_spanish
-		religion =  catholic 
-		size = 126
-	 } 
-	officers = {
-		culture = caribbean_spanish
-		religion = secularism
-		size = 4
-	 } 
-	soldiers = {
-		culture = caribbean_spanish
-		religion =  catholic 
-		size = 2411
-	 } 
-	soldiers = {
-		culture = caribbean_spanish
-		religion = secularism
-		size = 87
-	 } 
-	aristocrats = {
-		culture = caribbean_spanish
-		religion =  catholic 
-		size = 21635
-	 } 
-	aristocrats = {
-		culture = caribbean_spanish
-		religion = secularism
-		size = 784
-	 } 
-	bureaucrats = {
-		culture = caribbean_spanish
-		religion =  catholic 
-		size = 540
-	 } 
-	bureaucrats = {
-		culture = caribbean_spanish
-		religion = secularism
-		size = 19
-	 } 
-	capitalists = {
-		culture = caribbean_spanish
-		religion =  catholic 
-		size = 2703
-	 } 
-	capitalists = {
-		culture = caribbean_spanish
-		religion = secularism
-		size = 98
-	 } 
-	clergymen = {
-		culture = caribbean_spanish
-		religion =  catholic 
-		size = 10817
-	 } 
-	clergymen = {
-		culture = caribbean_spanish
-		religion = secularism
-		size = 392
-	 } 
-	clerks = {
-		culture = caribbean_spanish
-		religion =  catholic 
-		size = 6033
-	 } 
-	clerks = {
-		culture = caribbean_spanish
-		religion = secularism
-		size = 218
-	 } 
-	artisans = {
-		culture = caribbean_spanish
-		religion =  catholic 
-		size = 5731
-	 } 
-	artisans = {
-		culture = caribbean_spanish
-		religion = secularism
-		size = 207
-	 } 
-	craftsmen = {
-		culture = caribbean_spanish
-		religion =  catholic 
-		size = 18100
-	 } 
-	craftsmen = {
-		culture = caribbean_spanish
-		religion = secularism
-		size = 656
-	 } 
-	farmers = {
-		culture = caribbean_spanish
-		religion =  catholic 
-		size = 18441
-	 } 
-	farmers = {
-		culture = caribbean_spanish
-		religion = secularism
-		size = 668
-	 } 
-	farmers = {
-		culture = afro_spanish
-		religion =  catholic 
-		size = 59497
-	 } 
-	farmers = {
-		culture = afro_spanish
-		religion = secularism
-		size = 2157
-	 } 
-	farmers = {
-		culture = caribbean_spanish
-		religion =  catholic 
-		size = 394844
-	 } 
-	farmers = {
-		culture = caribbean_spanish
-		religion = secularism
-		size = 14320
-	 } 
+  officers = {
+    culture = caribbean_spanish
+    religion =  catholic
+    size = 126
+  }
+  officers = {
+    culture = caribbean_spanish
+    religion = secularism
+    size = 4
+  }
+  soldiers = {
+    culture = caribbean_spanish
+    religion =  catholic
+    size = 2411
+  }
+  soldiers = {
+    culture = caribbean_spanish
+    religion = secularism
+    size = 87
+  }
+  aristocrats = {
+    culture = caribbean_spanish
+    religion =  catholic
+    size = 21635
+  }
+  aristocrats = {
+    culture = caribbean_spanish
+    religion = secularism
+    size = 784
+  }
+  bureaucrats = {
+    culture = caribbean_spanish
+    religion =  catholic
+    size = 540
+  }
+  bureaucrats = {
+    culture = caribbean_spanish
+    religion = secularism
+    size = 19
+  }
+  capitalists = {
+    culture = caribbean_spanish
+    religion =  catholic
+    size = 2703
+  }
+  capitalists = {
+    culture = caribbean_spanish
+    religion = secularism
+    size = 98
+  }
+  clergymen = {
+    culture = caribbean_spanish
+    religion =  catholic
+    size = 10817
+  }
+  clergymen = {
+    culture = caribbean_spanish
+    religion = secularism
+    size = 392
+  }
+  clerks = {
+    culture = caribbean_spanish
+    religion =  catholic
+    size = 6033
+  }
+  clerks = {
+    culture = caribbean_spanish
+    religion = secularism
+    size = 218
+  }
+  artisans = {
+    culture = caribbean_spanish
+    religion =  catholic
+    size = 5731
+  }
+  artisans = {
+    culture = caribbean_spanish
+    religion = secularism
+    size = 207
+  }
+  craftsmen = {
+    culture = caribbean_spanish
+    religion =  catholic
+    size = 18100
+  }
+  craftsmen = {
+    culture = caribbean_spanish
+    religion = secularism
+    size = 656
+  }
+  farmers = {
+    culture = caribbean_spanish
+    religion =  catholic
+    size = 18441
+  }
+  farmers = {
+    culture = caribbean_spanish
+    religion = secularism
+    size = 668
+  }
+  farmers = {
+    culture = afro_spanish
+    religion =  catholic
+    size = 59497
+  }
+  farmers = {
+    culture = afro_spanish
+    religion = secularism
+    size = 2157
+  }
+  farmers = {
+    culture = caribbean_spanish
+    religion =  catholic
+    size = 394844
+  }
+  farmers = {
+    culture = caribbean_spanish
+    religion = secularism
+    size = 14320
+  }
 }
 #La Vega - La Vega (110000/27500 POPS)
 2216 = {
-	clergymen = {
-		culture = caribbean_spanish
-		religion =  catholic 
-		size = 530
-	 } 
-	clergymen = {
-		culture = caribbean_spanish
-		religion = secularism
-		size = 19
-	 } 
-	farmers = {
-		culture = caribbean_spanish
-		religion =  catholic 
-		size = 3715
-	 } 
-	farmers = {
-		culture = caribbean_spanish
-		religion = secularism
-		size = 134
-	 } 
-	farmers = {
-		culture = afro_spanish
-		religion =  catholic 
-		size = 2919
-	 } 
-	farmers = {
-		culture = afro_spanish
-		religion = secularism
-		size = 105
-	 } 
-	farmers = {
-		culture = caribbean_spanish
-		religion =  catholic 
-		size = 19372
-	 } 
-	farmers = {
-		culture = caribbean_spanish
-		religion = secularism
-		size = 702
-	 } 
+  clergymen = {
+    culture = caribbean_spanish
+    religion =  catholic
+    size = 530
+  }
+  clergymen = {
+    culture = caribbean_spanish
+    religion = secularism
+    size = 19
+  }
+  farmers = {
+    culture = caribbean_spanish
+    religion =  catholic
+    size = 3715
+  }
+  farmers = {
+    culture = caribbean_spanish
+    religion = secularism
+    size = 134
+  }
+  farmers = {
+    culture = afro_spanish
+    religion =  catholic
+    size = 2919
+  }
+  farmers = {
+    culture = afro_spanish
+    religion = secularism
+    size = 105
+  }
+  farmers = {
+    culture = caribbean_spanish
+    religion =  catholic
+    size = 19372
+  }
+  farmers = {
+    culture = caribbean_spanish
+    religion = secularism
+    size = 702
+  }
 }

@@ -1,156 +1,156 @@
 #Trinidad - Trinidad (1193000/298250 POPS)
 2237 = {
-	capitalists = {
-		culture = british
-		religion =  protestant 
-		size = 1371
-	 } 
-	capitalists = {
-		culture = british
-		religion = secularism
-		size = 119
-	 } 
-	officers = {
-		culture = afro_caribbean
-		religion =  protestant 
-		size = 60
-	 } 
-	officers = {
-		culture = afro_caribbean
-		religion = secularism
-		size = 5
-	 } 
-	soldiers = {
-		culture = afro_caribbean
-		religion =  protestant 
-		size = 1167
-	 } 
-	soldiers = {
-		culture = afro_caribbean
-		religion = secularism
-		size = 101
-	 } 
-	aristocrats = {
-		culture = afro_caribbean
-		religion =  protestant 
-		size = 10975
-	 } 
-	aristocrats = {
-		culture = afro_caribbean
-		religion = secularism
-		size = 954
-	 } 
-	bureaucrats = {
-		culture = afro_caribbean
-		religion =  protestant 
-		size = 548
-	 } 
-	bureaucrats = {
-		culture = afro_caribbean
-		religion = secularism
-		size = 47
-	 } 
-	clergymen = {
-		culture = afro_caribbean
-		religion =  protestant 
-		size = 5487
-	 } 
-	clergymen = {
-		culture = afro_caribbean
-		religion = secularism
-		size = 477
-	 } 
-	clerks = {
-		culture = afro_caribbean
-		religion =  protestant 
-		size = 1396
-	 } 
-	clerks = {
-		culture = afro_caribbean
-		religion = secularism
-		size = 121
-	 } 
-	artisans = {
-		culture = afro_caribbean
-		religion =  protestant 
-		size = 1326
-	 } 
-	artisans = {
-		culture = afro_caribbean
-		religion = secularism
-		size = 115
-	 } 
-	craftsmen = {
-		culture = afro_caribbean
-		religion =  protestant 
-		size = 4189
-	 } 
-	craftsmen = {
-		culture = afro_caribbean
-		religion = secularism
-		size = 364
-	 } 
-	farmers = {
-		culture = afro_caribbean
-		religion =  protestant 
-		size = 106828
-	 } 
-	farmers = {
-		culture = afro_caribbean
-		religion = secularism
-		size = 9289
-	 } 
-	farmers = {
-		culture = british
-		religion =  protestant 
-		size = 1920
-	 } 
-	farmers = {
-		culture = british
-		religion = secularism
-		size = 167
-	 } 
-	farmers = {
-		culture = indian
-		religion =  hindu 
-		size = 97133
-	 } 
-	farmers = {
-		culture = indian
-		religion = secularism
-		size = 8446
-	 } 
-	farmers = {
-		culture = caribbean_spanish
-		religion =  catholic 
-		size = 41981
-	 } 
-	farmers = {
-		culture = caribbean_spanish
-		religion = secularism
-		size = 3650
-	 } 
+  capitalists = {
+    culture = british
+    religion =  protestant
+    size = 1371
+  }
+  capitalists = {
+    culture = british
+    religion = secularism
+    size = 119
+  }
+  officers = {
+    culture = afro_caribbean
+    religion =  protestant
+    size = 60
+  }
+  officers = {
+    culture = afro_caribbean
+    religion = secularism
+    size = 5
+  }
+  soldiers = {
+    culture = afro_caribbean
+    religion =  protestant
+    size = 1167
+  }
+  soldiers = {
+    culture = afro_caribbean
+    religion = secularism
+    size = 101
+  }
+  aristocrats = {
+    culture = afro_caribbean
+    religion =  protestant
+    size = 10975
+  }
+  aristocrats = {
+    culture = afro_caribbean
+    religion = secularism
+    size = 954
+  }
+  bureaucrats = {
+    culture = afro_caribbean
+    religion =  protestant
+    size = 548
+  }
+  bureaucrats = {
+    culture = afro_caribbean
+    religion = secularism
+    size = 47
+  }
+  clergymen = {
+    culture = afro_caribbean
+    religion =  protestant
+    size = 5487
+  }
+  clergymen = {
+    culture = afro_caribbean
+    religion = secularism
+    size = 477
+  }
+  clerks = {
+    culture = afro_caribbean
+    religion =  protestant
+    size = 1396
+  }
+  clerks = {
+    culture = afro_caribbean
+    religion = secularism
+    size = 121
+  }
+  artisans = {
+    culture = afro_caribbean
+    religion =  protestant
+    size = 1326
+  }
+  artisans = {
+    culture = afro_caribbean
+    religion = secularism
+    size = 115
+  }
+  craftsmen = {
+    culture = afro_caribbean
+    religion =  protestant
+    size = 4189
+  }
+  craftsmen = {
+    culture = afro_caribbean
+    religion = secularism
+    size = 364
+  }
+  farmers = {
+    culture = afro_caribbean
+    religion =  protestant
+    size = 106828
+  }
+  farmers = {
+    culture = afro_caribbean
+    religion = secularism
+    size = 9289
+  }
+  farmers = {
+    culture = british
+    religion =  protestant
+    size = 1920
+  }
+  farmers = {
+    culture = british
+    religion = secularism
+    size = 167
+  }
+  farmers = {
+    culture = indian
+    religion =  hindu
+    size = 97133
+  }
+  farmers = {
+    culture = indian
+    religion = secularism
+    size = 8446
+  }
+  farmers = {
+    culture = caribbean_spanish
+    religion =  catholic
+    size = 41981
+  }
+  farmers = {
+    culture = caribbean_spanish
+    religion = secularism
+    size = 3650
+  }
 }
 #Tobago - Tobago (61000/15250 POPS)
 2238 = {
-	clergymen = {
-		culture = afro_caribbean
-		religion =  protestant 
-		size = 280
-	 } 
-	clergymen = {
-		culture = afro_caribbean
-		religion = secularism
-		size = 24
-	 } 
-	farmers = {
-		culture = afro_caribbean
-		religion =  protestant 
-		size = 13749
-	 } 
-	farmers = {
-		culture = afro_caribbean
-		religion = secularism
-		size = 1195
-	 } 
+  clergymen = {
+    culture = afro_caribbean
+    religion =  protestant
+    size = 280
+  }
+  clergymen = {
+    culture = afro_caribbean
+    religion = secularism
+    size = 24
+  }
+  farmers = {
+    culture = afro_caribbean
+    religion =  protestant
+    size = 13749
+  }
+  farmers = {
+    culture = afro_caribbean
+    religion = secularism
+    size = 1195
+  }
 }

@@ -1,157 +1,157 @@
 #Ahmedabad - Gujarat (6787000/1696750 POPS)
 1291 = {
-	officers = {
-		culture = indian
-		religion =  hindu 
-		size = 1973
-	 } 
-	officers = {
-		culture = indian
-		religion = secularism
-		size = 45
-	 } 
-	soldiers = {
-		culture = indian
-		religion =  hindu 
-		size = 37514
-	 } 
-	soldiers = {
-		culture = indian
-		religion = secularism
-		size = 863
-	 } 
-	aristocrats = {
-		culture = indian
-		religion =  hindu 
-		size = 66342
-	 } 
-	aristocrats = {
-		culture = indian
-		religion = secularism
-		size = 1527
-	 } 
-	bureaucrats = {
-		culture = indian
-		religion =  hindu 
-		size = 1657
-	 } 
-	bureaucrats = {
-		culture = indian
-		religion = secularism
-		size = 38
-	 } 
-	clergymen = {
-		culture = indian
-		religion =  hindu 
-		size = 33171
-	 } 
-	clergymen = {
-		culture = indian
-		religion = secularism
-		size = 763
-	 } 
-	artisans = {
-		culture = indian
-		religion =  hindu 
-		size = 5745
-	 } 
-	artisans = {
-		culture = indian
-		religion = secularism
-		size = 132
-	 } 
-	farmers = {
-		culture = indian
-		religion =  hindu 
-		size = 1180452
-	 } 
-	farmers = {
-		culture = indian
-		religion = secularism
-		size = 27171
-	 } 
-	farmers = {
-		culture = indian_muslim
-		religion =  sunni 
-		size = 339350
-	 } 
+  officers = {
+    culture = indian
+    religion =  hindu
+    size = 1973
+  }
+  officers = {
+    culture = indian
+    religion = secularism
+    size = 45
+  }
+  soldiers = {
+    culture = indian
+    religion =  hindu
+    size = 37514
+  }
+  soldiers = {
+    culture = indian
+    religion = secularism
+    size = 863
+  }
+  aristocrats = {
+    culture = indian
+    religion =  hindu
+    size = 66342
+  }
+  aristocrats = {
+    culture = indian
+    religion = secularism
+    size = 1527
+  }
+  bureaucrats = {
+    culture = indian
+    religion =  hindu
+    size = 1657
+  }
+  bureaucrats = {
+    culture = indian
+    religion = secularism
+    size = 38
+  }
+  clergymen = {
+    culture = indian
+    religion =  hindu
+    size = 33171
+  }
+  clergymen = {
+    culture = indian
+    religion = secularism
+    size = 763
+  }
+  artisans = {
+    culture = indian
+    religion =  hindu
+    size = 5745
+  }
+  artisans = {
+    culture = indian
+    religion = secularism
+    size = 132
+  }
+  farmers = {
+    culture = indian
+    religion =  hindu
+    size = 1180452
+  }
+  farmers = {
+    culture = indian
+    religion = secularism
+    size = 27171
+  }
+  farmers = {
+    culture = indian_muslim
+    religion =  sunni
+    size = 339350
+  }
 }
 #Rajkot - Gujarat (5251000/1312750 POPS)
 1292 = {
-	clergymen = {
-		culture = indian
-		religion =  hindu 
-		size = 25664
-	 } 
-	clergymen = {
-		culture = indian
-		religion = secularism
-		size = 590
-	 } 
-	farmers = {
-		culture = indian
-		religion =  hindu 
-		size = 1000906
-	 } 
-	farmers = {
-		culture = indian
-		religion = secularism
-		size = 23038
-	 } 
-	farmers = {
-		culture = indian_muslim
-		religion =  sunni 
-		size = 262550
-	 } 
+  clergymen = {
+    culture = indian
+    religion =  hindu
+    size = 25664
+  }
+  clergymen = {
+    culture = indian
+    religion = secularism
+    size = 590
+  }
+  farmers = {
+    culture = indian
+    religion =  hindu
+    size = 1000906
+  }
+  farmers = {
+    culture = indian
+    religion = secularism
+    size = 23038
+  }
+  farmers = {
+    culture = indian_muslim
+    religion =  sunni
+    size = 262550
+  }
 }
 #Mandvi - Gujarat (997000/249250 POPS)
 1293 = {
-	clergymen = {
-		culture = indian
-		religion =  hindu 
-		size = 4872
-	 } 
-	clergymen = {
-		culture = indian
-		religion = secularism
-		size = 112
-	 } 
-	farmers = {
-		culture = indian
-		religion =  hindu 
-		size = 190040
-	 } 
-	farmers = {
-		culture = indian
-		religion = secularism
-		size = 4374
-	 } 
-	farmers = {
-		culture = indian_muslim
-		religion =  sunni 
-		size = 49850
-	 } 
+  clergymen = {
+    culture = indian
+    religion =  hindu
+    size = 4872
+  }
+  clergymen = {
+    culture = indian
+    religion = secularism
+    size = 112
+  }
+  farmers = {
+    culture = indian
+    religion =  hindu
+    size = 190040
+  }
+  farmers = {
+    culture = indian
+    religion = secularism
+    size = 4374
+  }
+  farmers = {
+    culture = indian_muslim
+    religion =  sunni
+    size = 49850
+  }
 }
 #Patan - Gujarat (3095000/773750 POPS)
 1294 = {
-	clergymen = {
-		culture = indian
-		religion =  hindu 
-		size = 15126
-	 } 
-	clergymen = {
-		culture = indian
-		religion = secularism
-		size = 348
-	 } 
-	farmers = {
-		culture = indian
-		religion =  hindu 
-		size = 741213
-	 } 
-	farmers = {
-		culture = indian
-		religion = secularism
-		size = 17061
-	 } 
+  clergymen = {
+    culture = indian
+    religion =  hindu
+    size = 15126
+  }
+  clergymen = {
+    culture = indian
+    religion = secularism
+    size = 348
+  }
+  farmers = {
+    culture = indian
+    religion =  hindu
+    size = 741213
+  }
+  farmers = {
+    culture = indian
+    religion = secularism
+    size = 17061
+  }
 }

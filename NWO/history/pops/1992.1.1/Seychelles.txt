@@ -1,118 +1,118 @@
 #Seychelles - Seychelles (71000/17750 POPS)
 2127 = {
-	officers = {
-		culture = french_african
-		religion =  catholic 
-		size = 9
-	 } 
-	soldiers = {
-		culture = french_african
-		religion =  catholic 
-		size = 176
-	 } 
-	soldiers = {
-		culture = french_african
-		religion = secularism
-		size = 15
-	 } 
-	aristocrats = {
-		culture = french_african
-		religion =  catholic 
-		size = 653
-	 } 
-	aristocrats = {
-		culture = french_african
-		religion = secularism
-		size = 56
-	 } 
-	bureaucrats = {
-		culture = french_african
-		religion =  catholic 
-		size = 32
-	 } 
-	bureaucrats = {
-		culture = french_african
-		religion = secularism
-		size = 2
-	 } 
-	capitalists = {
-		culture = french_african
-		religion =  catholic 
-		size = 80
-	 } 
-	capitalists = {
-		culture = french_african
-		religion = secularism
-		size = 7
-	 } 
-	clergymen = {
-		culture = french_african
-		religion =  catholic 
-		size = 326
-	 } 
-	clergymen = {
-		culture = french_african
-		religion = secularism
-		size = 28
-	 } 
-	clerks = {
-		culture = french_african
-		religion =  catholic 
-		size = 322
-	 } 
-	clerks = {
-		culture = french_african
-		religion = secularism
-		size = 28
-	 } 
-	artisans = {
-		culture = french_african
-		religion =  catholic 
-		size = 306
-	 } 
-	artisans = {
-		culture = french_african
-		religion = secularism
-		size = 26
-	 } 
-	craftsmen = {
-		culture = french_african
-		religion =  catholic 
-		size = 968
-	 } 
-	craftsmen = {
-		culture = french_african
-		religion = secularism
-		size = 84
-	 } 
-	farmers = {
-		culture = french_african
-		religion =  catholic 
-		size = 12962
-	 } 
-	farmers = {
-		culture = french_african
-		religion = secularism
-		size = 1127
-	 } 
-	farmers = {
-		culture = chinese
-		religion =  taoism 
-		size = 162
-	 } 
-	farmers = {
-		culture = chinese
-		religion = secularism
-		size = 14
-	 } 
-	farmers = {
-		culture = indian
-		religion =  hindu 
-		size = 162
-	 } 
-	farmers = {
-		culture = indian
-		religion = secularism
-		size = 14
-	 } 
+  officers = {
+    culture = french_african
+    religion =  catholic
+    size = 9
+  }
+  soldiers = {
+    culture = french_african
+    religion =  catholic
+    size = 176
+  }
+  soldiers = {
+    culture = french_african
+    religion = secularism
+    size = 15
+  }
+  aristocrats = {
+    culture = french_african
+    religion =  catholic
+    size = 653
+  }
+  aristocrats = {
+    culture = french_african
+    religion = secularism
+    size = 56
+  }
+  bureaucrats = {
+    culture = french_african
+    religion =  catholic
+    size = 32
+  }
+  bureaucrats = {
+    culture = french_african
+    religion = secularism
+    size = 2
+  }
+  capitalists = {
+    culture = french_african
+    religion =  catholic
+    size = 80
+  }
+  capitalists = {
+    culture = french_african
+    religion = secularism
+    size = 7
+  }
+  clergymen = {
+    culture = french_african
+    religion =  catholic
+    size = 326
+  }
+  clergymen = {
+    culture = french_african
+    religion = secularism
+    size = 28
+  }
+  clerks = {
+    culture = french_african
+    religion =  catholic
+    size = 322
+  }
+  clerks = {
+    culture = french_african
+    religion = secularism
+    size = 28
+  }
+  artisans = {
+    culture = french_african
+    religion =  catholic
+    size = 306
+  }
+  artisans = {
+    culture = french_african
+    religion = secularism
+    size = 26
+  }
+  craftsmen = {
+    culture = french_african
+    religion =  catholic
+    size = 968
+  }
+  craftsmen = {
+    culture = french_african
+    religion = secularism
+    size = 84
+  }
+  farmers = {
+    culture = french_african
+    religion =  catholic
+    size = 12962
+  }
+  farmers = {
+    culture = french_african
+    religion = secularism
+    size = 1127
+  }
+  farmers = {
+    culture = chinese
+    religion =  taoism
+    size = 162
+  }
+  farmers = {
+    culture = chinese
+    religion = secularism
+    size = 14
+  }
+  farmers = {
+    culture = indian
+    religion =  hindu
+    size = 162
+  }
+  farmers = {
+    culture = indian
+    religion = secularism
+    size = 14
+  }
 }

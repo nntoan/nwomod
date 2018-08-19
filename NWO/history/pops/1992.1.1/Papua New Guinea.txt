@@ -1,238 +1,238 @@
 #New Ireland - New Ireland (145000/36250 POPS)
 1531 = {
-	clergymen = {
-		culture = melanesian
-		religion =  protestant 
-		size = 681
-	 } 
-	clergymen = {
-		culture = melanesian
-		religion = secularism
-		size = 43
-	 } 
-	farmers = {
-		culture = melanesian
-		religion =  protestant 
-		size = 33393
-	 } 
-	farmers = {
-		culture = melanesian
-		religion = secularism
-		size = 2131
-	 } 
+  clergymen = {
+    culture = melanesian
+    religion =  protestant
+    size = 681
+  }
+  clergymen = {
+    culture = melanesian
+    religion = secularism
+    size = 43
+  }
+  farmers = {
+    culture = melanesian
+    religion =  protestant
+    size = 33393
+  }
+  farmers = {
+    culture = melanesian
+    religion = secularism
+    size = 2131
+  }
 }
 #Port Moresby - Port Moresby (366000/91500 POPS)
 2528 = {
-	capitalists = {
-		culture = british
-		religion =  protestant 
-		size = 429
-	 } 
-	capitalists = {
-		culture = british
-		religion = secularism
-		size = 27
-	 } 
-	officers = {
-		culture = papua
-		religion =  protestant 
-		size = 503
-	 } 
-	officers = {
-		culture = papua
-		religion = secularism
-		size = 32
-	 } 
-	soldiers = {
-		culture = papua
-		religion =  protestant 
-		size = 9587
-	 } 
-	soldiers = {
-		culture = papua
-		religion = secularism
-		size = 611
-	 } 
-	aristocrats = {
-		culture = papua
-		religion =  protestant 
-		size = 3440
-	 } 
-	aristocrats = {
-		culture = papua
-		religion = secularism
-		size = 219
-	 } 
-	bureaucrats = {
-		culture = papua
-		religion =  protestant 
-		size = 85
-	 } 
-	bureaucrats = {
-		culture = papua
-		religion = secularism
-		size = 5
-	 } 
-	clergymen = {
-		culture = papua
-		religion =  protestant 
-		size = 1720
-	 } 
-	clergymen = {
-		culture = papua
-		religion = secularism
-		size = 109
-	 } 
-	clerks = {
-		culture = papua
-		religion =  protestant 
-		size = 354
-	 } 
-	clerks = {
-		culture = papua
-		religion = secularism
-		size = 22
-	 } 
-	artisans = {
-		culture = papua
-		religion =  protestant 
-		size = 336
-	 } 
-	artisans = {
-		culture = papua
-		religion = secularism
-		size = 21
-	 } 
-	craftsmen = {
-		culture = papua
-		religion =  protestant 
-		size = 1063
-	 } 
-	craftsmen = {
-		culture = papua
-		religion = secularism
-		size = 67
-	 } 
-	farmers = {
-		culture = papua
-		religion =  protestant 
-		size = 50856
-	 } 
-	farmers = {
-		culture = papua
-		religion = secularism
-		size = 3246
-	 } 
-	farmers = {
-		culture = british
-		religion =  protestant 
-		size = 430
-	 } 
-	farmers = {
-		culture = british
-		religion = secularism
-		size = 27
-	 } 
-	farmers = {
-		culture = melanesian
-		religion =  protestant 
-		size = 17202
-	 } 
-	farmers = {
-		culture = melanesian
-		religion = secularism
-		size = 1098
-	 } 
+  capitalists = {
+    culture = british
+    religion =  protestant
+    size = 429
+  }
+  capitalists = {
+    culture = british
+    religion = secularism
+    size = 27
+  }
+  officers = {
+    culture = papua
+    religion =  protestant
+    size = 503
+  }
+  officers = {
+    culture = papua
+    religion = secularism
+    size = 32
+  }
+  soldiers = {
+    culture = papua
+    religion =  protestant
+    size = 9587
+  }
+  soldiers = {
+    culture = papua
+    religion = secularism
+    size = 611
+  }
+  aristocrats = {
+    culture = papua
+    religion =  protestant
+    size = 3440
+  }
+  aristocrats = {
+    culture = papua
+    religion = secularism
+    size = 219
+  }
+  bureaucrats = {
+    culture = papua
+    religion =  protestant
+    size = 85
+  }
+  bureaucrats = {
+    culture = papua
+    religion = secularism
+    size = 5
+  }
+  clergymen = {
+    culture = papua
+    religion =  protestant
+    size = 1720
+  }
+  clergymen = {
+    culture = papua
+    religion = secularism
+    size = 109
+  }
+  clerks = {
+    culture = papua
+    religion =  protestant
+    size = 354
+  }
+  clerks = {
+    culture = papua
+    religion = secularism
+    size = 22
+  }
+  artisans = {
+    culture = papua
+    religion =  protestant
+    size = 336
+  }
+  artisans = {
+    culture = papua
+    religion = secularism
+    size = 21
+  }
+  craftsmen = {
+    culture = papua
+    religion =  protestant
+    size = 1063
+  }
+  craftsmen = {
+    culture = papua
+    religion = secularism
+    size = 67
+  }
+  farmers = {
+    culture = papua
+    religion =  protestant
+    size = 50856
+  }
+  farmers = {
+    culture = papua
+    religion = secularism
+    size = 3246
+  }
+  farmers = {
+    culture = british
+    religion =  protestant
+    size = 430
+  }
+  farmers = {
+    culture = british
+    religion = secularism
+    size = 27
+  }
+  farmers = {
+    culture = melanesian
+    religion =  protestant
+    size = 17202
+  }
+  farmers = {
+    culture = melanesian
+    religion = secularism
+    size = 1098
+  }
 }
 #Kerema - Kerema (271000/67750 POPS)
 2529 = {
-	clergymen = {
-		culture = papua
-		religion =  protestant 
-		size = 1273
-	 } 
-	clergymen = {
-		culture = papua
-		religion = secularism
-		size = 81
-	 } 
-	farmers = {
-		culture = papua
-		religion =  protestant 
-		size = 62411
-	 } 
-	farmers = {
-		culture = papua
-		religion = secularism
-		size = 3983
-	 } 
+  clergymen = {
+    culture = papua
+    religion =  protestant
+    size = 1273
+  }
+  clergymen = {
+    culture = papua
+    religion = secularism
+    size = 81
+  }
+  farmers = {
+    culture = papua
+    religion =  protestant
+    size = 62411
+  }
+  farmers = {
+    culture = papua
+    religion = secularism
+    size = 3983
+  }
 }
 #Lae - Lae (1477000/369250 POPS)
 2530 = {
-	clergymen = {
-		culture = papua
-		religion =  protestant 
-		size = 6941
-	 } 
-	clergymen = {
-		culture = papua
-		religion = secularism
-		size = 443
-	 } 
-	farmers = {
-		culture = papua
-		religion =  protestant 
-		size = 340153
-	 } 
-	farmers = {
-		culture = papua
-		religion = secularism
-		size = 21711
-	 } 
+  clergymen = {
+    culture = papua
+    religion =  protestant
+    size = 6941
+  }
+  clergymen = {
+    culture = papua
+    religion = secularism
+    size = 443
+  }
+  farmers = {
+    culture = papua
+    religion =  protestant
+    size = 340153
+  }
+  farmers = {
+    culture = papua
+    religion = secularism
+    size = 21711
+  }
 }
 #Madang - Madang (1066000/266500 POPS)
 2531 = {
-	clergymen = {
-		culture = melanesian
-		religion =  protestant 
-		size = 5010
-	 } 
-	clergymen = {
-		culture = melanesian
-		religion = secularism
-		size = 319
-	 } 
-	farmers = {
-		culture = melanesian
-		religion =  protestant 
-		size = 245499
-	 } 
-	farmers = {
-		culture = melanesian
-		religion = secularism
-		size = 15670
-	 } 
+  clergymen = {
+    culture = melanesian
+    religion =  protestant
+    size = 5010
+  }
+  clergymen = {
+    culture = melanesian
+    religion = secularism
+    size = 319
+  }
+  farmers = {
+    culture = melanesian
+    religion =  protestant
+    size = 245499
+  }
+  farmers = {
+    culture = melanesian
+    religion = secularism
+    size = 15670
+  }
 }
 #New Britain - New Britain (355000/88750 POPS)
 2537 = {
-	clergymen = {
-		culture = melanesian
-		religion =  protestant 
-		size = 1668
-	 } 
-	clergymen = {
-		culture = melanesian
-		religion = secularism
-		size = 106
-	 } 
-	farmers = {
-		culture = melanesian
-		religion =  protestant 
-		size = 81756
-	 } 
-	farmers = {
-		culture = melanesian
-		religion = secularism
-		size = 5218
-	 } 
+  clergymen = {
+    culture = melanesian
+    religion =  protestant
+    size = 1668
+  }
+  clergymen = {
+    culture = melanesian
+    religion = secularism
+    size = 106
+  }
+  farmers = {
+    culture = melanesian
+    religion =  protestant
+    size = 81756
+  }
+  farmers = {
+    culture = melanesian
+    religion = secularism
+    size = 5218
+  }
 }

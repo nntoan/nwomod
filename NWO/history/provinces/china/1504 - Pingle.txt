@@ -8,9 +8,9 @@ life_rating = 30
 terrain = deciduous_forest_hills
 colonial = 0
 1992.1.1 = {
-owner = CHI
-controller = CHI
-add_core = GGX
-add_core = CHI
-colonial = 0
+  owner = CHI
+  controller = CHI
+  add_core = GGX
+  add_core = CHI
+  colonial = 0
 }

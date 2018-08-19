@@ -1,408 +1,408 @@
 #Yevensk - Surakarta (4692000/1173000 POPS)
 1073 = {
-	clergymen = {
-		culture = indonesian
-		religion =  sunni 
-		size = 23460
-	 } 
-	farmers = {
-		culture = indonesian
-		religion =  sunni 
-		size = 1149540
-	 } 
+  clergymen = {
+    culture = indonesian
+    religion =  sunni
+    size = 23460
+  }
+  farmers = {
+    culture = indonesian
+    religion =  sunni
+    size = 1149540
+  }
 }
 #Jambi - Jambi (1036000/259000 POPS)
 1398 = {
-	clergymen = {
-		culture = indonesian
-		religion =  sunni 
-		size = 5180
-	 } 
-	farmers = {
-		culture = indonesian
-		religion =  sunni 
-		size = 253820
-	 } 
+  clergymen = {
+    culture = indonesian
+    religion =  sunni
+    size = 5180
+  }
+  farmers = {
+    culture = indonesian
+    religion =  sunni
+    size = 253820
+  }
 }
 #Palembang - South Sumatra (2497000/624250 POPS)
 1399 = {
-	officers = {
-		culture = indonesian
-		religion =  sunni 
-		size = 1595
-	 } 
-	soldiers = {
-		culture = indonesian
-		religion =  sunni 
-		size = 30321
-	 } 
-	aristocrats = {
-		culture = indonesian
-		religion =  sunni 
-		size = 24970
-	 } 
-	clergymen = {
-		culture = indonesian
-		religion =  sunni 
-		size = 12485
-	 } 
-	artisans = {
-		culture = indonesian
-		religion =  sunni 
-		size = 3153
-	 } 
-	farmers = {
-		culture = indonesian
-		religion =  sunni 
-		size = 551102
-	 } 
+  officers = {
+    culture = indonesian
+    religion =  sunni
+    size = 1595
+  }
+  soldiers = {
+    culture = indonesian
+    religion =  sunni
+    size = 30321
+  }
+  aristocrats = {
+    culture = indonesian
+    religion =  sunni
+    size = 24970
+  }
+  clergymen = {
+    culture = indonesian
+    religion =  sunni
+    size = 12485
+  }
+  artisans = {
+    culture = indonesian
+    religion =  sunni
+    size = 3153
+  }
+  farmers = {
+    culture = indonesian
+    religion =  sunni
+    size = 551102
+  }
 }
 #Inderagiri - Riau (797000/199250 POPS)
 1400 = {
-	clergymen = {
-		culture = indonesian
-		religion =  sunni 
-		size = 3985
-	 } 
-	farmers = {
-		culture = indonesian
-		religion =  sunni 
-		size = 195265
-	 } 
+  clergymen = {
+    culture = indonesian
+    religion =  sunni
+    size = 3985
+  }
+  farmers = {
+    culture = indonesian
+    religion =  sunni
+    size = 195265
+  }
 }
 #Siak - Riau (1005000/251250 POPS)
 1401 = {
-	clergymen = {
-		culture = indonesian
-		religion =  sunni 
-		size = 5025
-	 } 
-	farmers = {
-		culture = indonesian
-		religion =  sunni 
-		size = 246225
-	 } 
+  clergymen = {
+    culture = indonesian
+    religion =  sunni
+    size = 5025
+  }
+  farmers = {
+    culture = indonesian
+    religion =  sunni
+    size = 246225
+  }
 }
 #Lampung - Lampung (2550000/637500 POPS)
 1403 = {
-	clergymen = {
-		culture = indonesian
-		religion =  sunni 
-		size = 12750
-	 } 
-	farmers = {
-		culture = indonesian
-		religion =  sunni 
-		size = 624750
-	 } 
+  clergymen = {
+    culture = indonesian
+    religion =  sunni
+    size = 12750
+  }
+  farmers = {
+    culture = indonesian
+    religion =  sunni
+    size = 624750
+  }
 }
 #Palak Pinang - Bangka–Belitung Islands (409000/102250 POPS)
 1404 = {
-	clergymen = {
-		culture = indonesian
-		religion =  sunni 
-		size = 2045
-	 } 
-	farmers = {
-		culture = indonesian
-		religion =  sunni 
-		size = 100205
-	 } 
+  clergymen = {
+    culture = indonesian
+    religion =  sunni
+    size = 2045
+  }
+  farmers = {
+    culture = indonesian
+    religion =  sunni
+    size = 100205
+  }
 }
 #Banda Aceh - Aceh (1506000/376500 POPS)
 1405 = {
-	clergymen = {
-		culture = indonesian
-		religion =  sunni 
-		size = 7530
-	 } 
-	farmers = {
-		culture = indonesian
-		religion =  sunni 
-		size = 30120
-	 } 
-	farmers = {
-		culture = ache
-		religion =  sunni 
-		size = 338850
-	 } 
+  clergymen = {
+    culture = indonesian
+    religion =  sunni
+    size = 7530
+  }
+  farmers = {
+    culture = indonesian
+    religion =  sunni
+    size = 30120
+  }
+  farmers = {
+    culture = ache
+    religion =  sunni
+    size = 338850
+  }
 }
 #Medan - North Sumatra (2796000/699000 POPS)
 1406 = {
-	officers = {
-		culture = indonesian
-		religion =  sunni 
-		size = 2084
-	 } 
-	soldiers = {
-		culture = indonesian
-		religion =  sunni 
-		size = 39610
-	 } 
-	aristocrats = {
-		culture = indonesian
-		religion =  sunni 
-		size = 27960
-	 } 
-	clergymen = {
-		culture = indonesian
-		religion =  sunni 
-		size = 13980
-	 } 
-	artisans = {
-		culture = indonesian
-		religion =  sunni 
-		size = 3499
-	 } 
-	farmers = {
-		culture = indonesian
-		religion =  sunni 
-		size = 611168
-	 } 
+  officers = {
+    culture = indonesian
+    religion =  sunni
+    size = 2084
+  }
+  soldiers = {
+    culture = indonesian
+    religion =  sunni
+    size = 39610
+  }
+  aristocrats = {
+    culture = indonesian
+    religion =  sunni
+    size = 27960
+  }
+  clergymen = {
+    culture = indonesian
+    religion =  sunni
+    size = 13980
+  }
+  artisans = {
+    culture = indonesian
+    religion =  sunni
+    size = 3499
+  }
+  farmers = {
+    culture = indonesian
+    religion =  sunni
+    size = 611168
+  }
 }
 #Tapaktuan - North Sumatra (716000/179000 POPS)
 1407 = {
-	clergymen = {
-		culture = indonesian
-		religion =  sunni 
-		size = 3580
-	 } 
-	farmers = {
-		culture = indonesian
-		religion =  sunni 
-		size = 175420
-	 } 
+  clergymen = {
+    culture = indonesian
+    religion =  sunni
+    size = 3580
+  }
+  farmers = {
+    culture = indonesian
+    religion =  sunni
+    size = 175420
+  }
 }
 #Padang - West Sumatra (1050000/262500 POPS)
 1408 = {
-	clergymen = {
-		culture = indonesian
-		religion =  sunni 
-		size = 5250
-	 } 
-	farmers = {
-		culture = indonesian
-		religion =  sunni 
-		size = 257250
-	 } 
+  clergymen = {
+    culture = indonesian
+    religion =  sunni
+    size = 5250
+  }
+  farmers = {
+    culture = indonesian
+    religion =  sunni
+    size = 257250
+  }
 }
 #Sibolga - North Sumatra (737000/184250 POPS)
 1409 = {
-	clergymen = {
-		culture = indonesian
-		religion =  sunni 
-		size = 3685
-	 } 
-	farmers = {
-		culture = indonesian
-		religion =  sunni 
-		size = 121605
-	 } 
-	farmers = {
-		culture = bataks
-		religion =  protestant 
-		size = 58812
-	 } 
-	farmers = {
-		culture = bataks
-		religion = secularism
-		size = 147
-	 } 
+  clergymen = {
+    culture = indonesian
+    religion =  sunni
+    size = 3685
+  }
+  farmers = {
+    culture = indonesian
+    religion =  sunni
+    size = 121605
+  }
+  farmers = {
+    culture = bataks
+    religion =  protestant
+    size = 58812
+  }
+  farmers = {
+    culture = bataks
+    religion = secularism
+    size = 147
+  }
 }
 #Bencoolen - Bengkulu (574000/143500 POPS)
 1410 = {
-	clergymen = {
-		culture = indonesian
-		religion =  sunni 
-		size = 2870
-	 } 
-	farmers = {
-		culture = indonesian
-		religion =  sunni 
-		size = 140630
-	 } 
+  clergymen = {
+    culture = indonesian
+    religion =  sunni
+    size = 2870
+  }
+  farmers = {
+    culture = indonesian
+    religion =  sunni
+    size = 140630
+  }
 }
 #Gunungsitoli - West Sumatra (670000/167500 POPS)
 1411 = {
-	clergymen = {
-		culture = indonesian
-		religion =  sunni 
-		size = 3350
-	 } 
-	farmers = {
-		culture = indonesian
-		religion =  sunni 
-		size = 164150
-	 } 
+  clergymen = {
+    culture = indonesian
+    religion =  sunni
+    size = 3350
+  }
+  farmers = {
+    culture = indonesian
+    religion =  sunni
+    size = 164150
+  }
 }
 #Bogor - Baten (3563000/890750 POPS)
 1414 = {
-	soldiers = {
-		culture = indonesian
-		religion =  sunni 
-		size = 15142
-	 } 
-	aristocrats = {
-		culture = indonesian
-		religion =  sunni 
-		size = 35630
-	 } 
-	clergymen = {
-		culture = indonesian
-		religion =  sunni 
-		size = 17815
-	 } 
-	artisans = {
-		culture = indonesian
-		religion =  sunni 
-		size = 4657
-	 } 
-	farmers = {
-		culture = indonesian
-		religion =  sunni 
-		size = 815820
-	 } 
+  soldiers = {
+    culture = indonesian
+    religion =  sunni
+    size = 15142
+  }
+  aristocrats = {
+    culture = indonesian
+    religion =  sunni
+    size = 35630
+  }
+  clergymen = {
+    culture = indonesian
+    religion =  sunni
+    size = 17815
+  }
+  artisans = {
+    culture = indonesian
+    religion =  sunni
+    size = 4657
+  }
+  farmers = {
+    culture = indonesian
+    religion =  sunni
+    size = 815820
+  }
 }
 #Cirebon - West Java (4375000/1093750 POPS)
 1415 = {
-	clergymen = {
-		culture = indonesian
-		religion =  sunni 
-		size = 21875
-	 } 
-	farmers = {
-		culture = indonesian
-		religion =  sunni 
-		size = 1071875
-	 } 
+  clergymen = {
+    culture = indonesian
+    religion =  sunni
+    size = 21875
+  }
+  farmers = {
+    culture = indonesian
+    religion =  sunni
+    size = 1071875
+  }
 }
 #Yogyakarta - Yogyakarta (1158000/289500 POPS)
 1416 = {
-	clergymen = {
-		culture = indonesian
-		religion =  sunni 
-		size = 5790
-	 } 
-	farmers = {
-		culture = indonesian
-		religion =  sunni 
-		size = 283710
-	 } 
+  clergymen = {
+    culture = indonesian
+    religion =  sunni
+    size = 5790
+  }
+  farmers = {
+    culture = indonesian
+    religion =  sunni
+    size = 283710
+  }
 }
 #Semarang - Central Java (4820000/1205000 POPS)
 1417 = {
-	officers = {
-		culture = indonesian
-		religion =  sunni 
-		size = 3477
-	 } 
-	soldiers = {
-		culture = indonesian
-		religion =  sunni 
-		size = 66081
-	 } 
-	aristocrats = {
-		culture = indonesian
-		religion =  sunni 
-		size = 48200
-	 } 
-	bureaucrats = {
-		culture = indonesian
-		religion =  sunni 
-		size = 1205
-	 } 
-	clergymen = {
-		culture = indonesian
-		religion =  sunni 
-		size = 24100
-	 } 
-	artisans = {
-		culture = indonesian
-		religion =  sunni 
-		size = 6044
-	 } 
-	farmers = {
-		culture = indonesian
-		religion =  sunni 
-		size = 1055893
-	 } 
+  officers = {
+    culture = indonesian
+    religion =  sunni
+    size = 3477
+  }
+  soldiers = {
+    culture = indonesian
+    religion =  sunni
+    size = 66081
+  }
+  aristocrats = {
+    culture = indonesian
+    religion =  sunni
+    size = 48200
+  }
+  bureaucrats = {
+    culture = indonesian
+    religion =  sunni
+    size = 1205
+  }
+  clergymen = {
+    culture = indonesian
+    religion =  sunni
+    size = 24100
+  }
+  artisans = {
+    culture = indonesian
+    religion =  sunni
+    size = 6044
+  }
+  farmers = {
+    culture = indonesian
+    religion =  sunni
+    size = 1055893
+  }
 }
 #Syasir - Bandung (5027000/1256750 POPS)
 2620 = {
-	officers = {
-		culture = indonesian
-		religion =  sunni 
-		size = 3307
-	 } 
-	soldiers = {
-		culture = indonesian
-		religion =  sunni 
-		size = 62838
-	 } 
-	aristocrats = {
-		culture = indonesian
-		religion =  sunni 
-		size = 50270
-	 } 
-	bureaucrats = {
-		culture = indonesian
-		religion =  sunni 
-		size = 1256
-	 } 
-	capitalists = {
-		culture = indonesian
-		religion =  sunni 
-		size = 6283
-	 } 
-	clergymen = {
-		culture = indonesian
-		religion =  sunni 
-		size = 25135
-	 } 
-	clerks = {
-		culture = indonesian
-		religion =  sunni 
-		size = 6672
-	 } 
-	artisans = {
-		culture = indonesian
-		religion =  sunni 
-		size = 6338
-	 } 
-	craftsmen = {
-		culture = indonesian
-		religion =  sunni 
-		size = 20016
-	 } 
-	farmers = {
-		culture = indonesian
-		religion =  sunni 
-		size = 1074635
-	 } 
+  officers = {
+    culture = indonesian
+    religion =  sunni
+    size = 3307
+  }
+  soldiers = {
+    culture = indonesian
+    religion =  sunni
+    size = 62838
+  }
+  aristocrats = {
+    culture = indonesian
+    religion =  sunni
+    size = 50270
+  }
+  bureaucrats = {
+    culture = indonesian
+    religion =  sunni
+    size = 1256
+  }
+  capitalists = {
+    culture = indonesian
+    religion =  sunni
+    size = 6283
+  }
+  clergymen = {
+    culture = indonesian
+    religion =  sunni
+    size = 25135
+  }
+  clerks = {
+    culture = indonesian
+    religion =  sunni
+    size = 6672
+  }
+  artisans = {
+    culture = indonesian
+    religion =  sunni
+    size = 6338
+  }
+  craftsmen = {
+    culture = indonesian
+    religion =  sunni
+    size = 20016
+  }
+  farmers = {
+    culture = indonesian
+    religion =  sunni
+    size = 1074635
+  }
 }
 #Omsukchan - Tegal (4692000/1173000 POPS)
 2638 = {
-	clergymen = {
-		culture = indonesian
-		religion =  sunni 
-		size = 23460
-	 } 
-	farmers = {
-		culture = indonesian
-		religion =  sunni 
-		size = 1149540
-	 } 
+  clergymen = {
+    culture = indonesian
+    religion =  sunni
+    size = 23460
+  }
+  farmers = {
+    culture = indonesian
+    religion =  sunni
+    size = 1149540
+  }
 }
 #Ziryanka - Bogor (5027000/1256750 POPS)
 2640 = {
-	clergymen = {
-		culture = indonesian
-		religion =  sunni 
-		size = 25135
-	 } 
-	farmers = {
-		culture = indonesian
-		religion =  sunni 
-		size = 1231615
-	 } 
+  clergymen = {
+    culture = indonesian
+    religion =  sunni
+    size = 25135
+  }
+  farmers = {
+    culture = indonesian
+    religion =  sunni
+    size = 1231615
+  }
 }

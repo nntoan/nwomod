@@ -8,10 +8,10 @@ terrain = floodplain_farmland
 railroad = 1
 colonial = 0
 1992.1.1 = {
-owner = USA
-controller = USA
-add_core = USA
-add_core = CSA
-railroad = 2
-colonial = 0
+  owner = USA
+  controller = USA
+  add_core = USA
+  add_core = CSA
+  railroad = 2
+  colonial = 0
 }

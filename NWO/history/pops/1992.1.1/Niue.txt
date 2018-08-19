@@ -1,33 +1,33 @@
 #Niue - Niue (44000/11000 POPS)
 2548 = {
-	clergymen = {
-		culture = polynesian
-		religion =  catholic 
-		size = 72
-	 } 
-	clergymen = {
-		culture = polynesian
-		religion = secularism
-		size = 147
-	 } 
-	farmers = {
-		culture = polynesian
-		religion =  catholic 
-		size = 3121
-	 } 
-	farmers = {
-		culture = polynesian
-		religion = secularism
-		size = 6338
-	 } 
-	farmers = {
-		culture = british
-		religion =  protestant 
-		size = 435
-	 } 
-	farmers = {
-		culture = british
-		religion = secularism
-		size = 884
-	 } 
+  clergymen = {
+    culture = polynesian
+    religion =  catholic
+    size = 72
+  }
+  clergymen = {
+    culture = polynesian
+    religion = secularism
+    size = 147
+  }
+  farmers = {
+    culture = polynesian
+    religion =  catholic
+    size = 3121
+  }
+  farmers = {
+    culture = polynesian
+    religion = secularism
+    size = 6338
+  }
+  farmers = {
+    culture = british
+    religion =  protestant
+    size = 435
+  }
+  farmers = {
+    culture = british
+    religion = secularism
+    size = 884
+  }
 }

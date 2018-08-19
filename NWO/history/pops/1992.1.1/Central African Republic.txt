@@ -1,296 +1,296 @@
 #Bangui - Bangui, Lobayer, Ombella-M'Poko, Kemo (1165000/291250 POPS)
 1965 = {
-	officers = {
-		culture = french_african
-		religion =  catholic 
-		size = 130
-	 } 
-	officers = {
-		culture = french_african
-		religion = secularism
-		size = 1
-	 } 
-	soldiers = {
-		culture = french_african
-		religion =  catholic 
-		size = 2499
-	 } 
-	soldiers = {
-		culture = french_african
-		religion = secularism
-		size = 25
-	 } 
-	aristocrats = {
-		culture = french_african
-		religion =  catholic 
-		size = 11533
-	 } 
-	aristocrats = {
-		culture = french_african
-		religion = secularism
-		size = 116
-	 } 
-	bureaucrats = {
-		culture = french_african
-		religion =  catholic 
-		size = 252
-	 } 
-	bureaucrats = {
-		culture = french_african
-		religion = secularism
-		size = 2
-	 } 
-	bureaucrats = {
-		culture = baya_mandjia
-		religion =  catholic 
-		size = 35
-	 } 
-	capitalists = {
-		culture = baya_mandjia
-		religion =  catholic 
-		size = 1441
-	 } 
-	capitalists = {
-		culture = baya_mandjia
-		religion = secularism
-		size = 14
-	 } 
-	clergymen = {
-		culture = baya_mandjia
-		religion =  catholic 
-		size = 5766
-	 } 
-	clergymen = {
-		culture = baya_mandjia
-		religion = secularism
-		size = 58
-	 } 
-	clerks = {
-		culture = baya_mandjia
-		religion =  catholic 
-		size = 4172
-	 } 
-	clerks = {
-		culture = baya_mandjia
-		religion = secularism
-		size = 42
-	 } 
-	artisans = {
-		culture = baya_mandjia
-		religion =  catholic 
-		size = 3963
-	 } 
-	artisans = {
-		culture = baya_mandjia
-		religion = secularism
-		size = 40
-	 } 
-	craftsmen = {
-		culture = baya_mandjia
-		religion =  catholic 
-		size = 12519
-	 } 
-	craftsmen = {
-		culture = baya_mandjia
-		religion = secularism
-		size = 126
-	 } 
-	farmers = {
-		culture = baya_mandjia
-		religion =  catholic 
-		size = 208536
-	 } 
-	farmers = {
-		culture = baya_mandjia
-		religion = secularism
-		size = 2106
-	 } 
-	farmers = {
-		culture = banda
-		religion =  catholic 
-		size = 37483
-	 } 
-	farmers = {
-		culture = banda
-		religion = secularism
-		size = 378
-	 } 
+  officers = {
+    culture = french_african
+    religion =  catholic
+    size = 130
+  }
+  officers = {
+    culture = french_african
+    religion = secularism
+    size = 1
+  }
+  soldiers = {
+    culture = french_african
+    religion =  catholic
+    size = 2499
+  }
+  soldiers = {
+    culture = french_african
+    religion = secularism
+    size = 25
+  }
+  aristocrats = {
+    culture = french_african
+    religion =  catholic
+    size = 11533
+  }
+  aristocrats = {
+    culture = french_african
+    religion = secularism
+    size = 116
+  }
+  bureaucrats = {
+    culture = french_african
+    religion =  catholic
+    size = 252
+  }
+  bureaucrats = {
+    culture = french_african
+    religion = secularism
+    size = 2
+  }
+  bureaucrats = {
+    culture = baya_mandjia
+    religion =  catholic
+    size = 35
+  }
+  capitalists = {
+    culture = baya_mandjia
+    religion =  catholic
+    size = 1441
+  }
+  capitalists = {
+    culture = baya_mandjia
+    religion = secularism
+    size = 14
+  }
+  clergymen = {
+    culture = baya_mandjia
+    religion =  catholic
+    size = 5766
+  }
+  clergymen = {
+    culture = baya_mandjia
+    religion = secularism
+    size = 58
+  }
+  clerks = {
+    culture = baya_mandjia
+    religion =  catholic
+    size = 4172
+  }
+  clerks = {
+    culture = baya_mandjia
+    religion = secularism
+    size = 42
+  }
+  artisans = {
+    culture = baya_mandjia
+    religion =  catholic
+    size = 3963
+  }
+  artisans = {
+    culture = baya_mandjia
+    religion = secularism
+    size = 40
+  }
+  craftsmen = {
+    culture = baya_mandjia
+    religion =  catholic
+    size = 12519
+  }
+  craftsmen = {
+    culture = baya_mandjia
+    religion = secularism
+    size = 126
+  }
+  farmers = {
+    culture = baya_mandjia
+    religion =  catholic
+    size = 208536
+  }
+  farmers = {
+    culture = baya_mandjia
+    religion = secularism
+    size = 2106
+  }
+  farmers = {
+    culture = banda
+    religion =  catholic
+    size = 37483
+  }
+  farmers = {
+    culture = banda
+    religion = secularism
+    size = 378
+  }
 }
 #Nola - Nana-Mambéré, Mambéré-Kadéï, Sangha-Mbaéré (552000/138000 POPS)
 1966 = {
-	clergymen = {
-		culture = baya_mandjia
-		religion =  catholic 
-		size = 2732
-	 } 
-	clergymen = {
-		culture = baya_mandjia
-		religion = secularism
-		size = 27
-	 } 
-	farmers = {
-		culture = baya_mandjia
-		religion =  catholic 
-		size = 65577
-	 } 
-	farmers = {
-		culture = baya_mandjia
-		religion = secularism
-		size = 662
-	 } 
-	farmers = {
-		culture = mbaka
-		religion =  catholic 
-		size = 30056
-	 } 
-	farmers = {
-		culture = mbaka
-		religion = secularism
-		size = 303
-	 } 
-	farmers = {
-		culture = sara
-		religion =  protestant 
-		size = 38253
-	 } 
-	farmers = {
-		culture = sara
-		religion = secularism
-		size = 386
-	 } 
+  clergymen = {
+    culture = baya_mandjia
+    religion =  catholic
+    size = 2732
+  }
+  clergymen = {
+    culture = baya_mandjia
+    religion = secularism
+    size = 27
+  }
+  farmers = {
+    culture = baya_mandjia
+    religion =  catholic
+    size = 65577
+  }
+  farmers = {
+    culture = baya_mandjia
+    religion = secularism
+    size = 662
+  }
+  farmers = {
+    culture = mbaka
+    religion =  catholic
+    size = 30056
+  }
+  farmers = {
+    culture = mbaka
+    religion = secularism
+    size = 303
+  }
+  farmers = {
+    culture = sara
+    religion =  protestant
+    size = 38253
+  }
+  farmers = {
+    culture = sara
+    religion = secularism
+    size = 386
+  }
 }
 #Bouar - Ouham-Pendé (340000/85000 POPS)
 1967 = {
-	clergymen = {
-		culture = baya_mandjia
-		religion =  catholic 
-		size = 1683
-	 } 
-	clergymen = {
-		culture = baya_mandjia
-		religion = secularism
-		size = 17
-	 } 
-	farmers = {
-		culture = baya_mandjia
-		religion =  catholic 
-		size = 27768
-	 } 
-	farmers = {
-		culture = baya_mandjia
-		religion = secularism
-		size = 280
-	 } 
-	farmers = {
-		culture = black_muslim
-		religion =  sunni 
-		size = 55250
-	 } 
+  clergymen = {
+    culture = baya_mandjia
+    religion =  catholic
+    size = 1683
+  }
+  clergymen = {
+    culture = baya_mandjia
+    religion = secularism
+    size = 17
+  }
+  farmers = {
+    culture = baya_mandjia
+    religion =  catholic
+    size = 27768
+  }
+  farmers = {
+    culture = baya_mandjia
+    religion = secularism
+    size = 280
+  }
+  farmers = {
+    culture = black_muslim
+    religion =  sunni
+    size = 55250
+  }
 }
 #Bossangoa - Ouham (292000/73000 POPS)
 1968 = {
-	clergymen = {
-		culture = baya_mandjia
-		religion =  catholic 
-		size = 1445
-	 } 
-	clergymen = {
-		culture = baya_mandjia
-		religion = secularism
-		size = 14
-	 } 
-	farmers = {
-		culture = baya_mandjia
-		religion =  catholic 
-		size = 33244
-	 } 
-	farmers = {
-		culture = baya_mandjia
-		religion = secularism
-		size = 335
-	 } 
-	farmers = {
-		culture = sara
-		religion =  catholic 
-		size = 37580
-	 } 
-	farmers = {
-		culture = sara
-		religion = secularism
-		size = 379
-	 } 
+  clergymen = {
+    culture = baya_mandjia
+    religion =  catholic
+    size = 1445
+  }
+  clergymen = {
+    culture = baya_mandjia
+    religion = secularism
+    size = 14
+  }
+  farmers = {
+    culture = baya_mandjia
+    religion =  catholic
+    size = 33244
+  }
+  farmers = {
+    culture = baya_mandjia
+    religion = secularism
+    size = 335
+  }
+  farmers = {
+    culture = sara
+    religion =  catholic
+    size = 37580
+  }
+  farmers = {
+    culture = sara
+    religion = secularism
+    size = 379
+  }
 }
 #Zemio - Haute-Kotto, Mbomou, Haut-Mbomou (243000/60750 POPS)
 1969 = {
-	clergymen = {
-		culture = banda
-		religion =  catholic 
-		size = 1202
-	 } 
-	clergymen = {
-		culture = banda
-		religion = secularism
-		size = 12
-	 } 
-	farmers = {
-		culture = banda
-		religion =  catholic 
-		size = 58939
-	 } 
-	farmers = {
-		culture = banda
-		religion = secularism
-		size = 595
-	 } 
+  clergymen = {
+    culture = banda
+    religion =  catholic
+    size = 1202
+  }
+  clergymen = {
+    culture = banda
+    religion = secularism
+    size = 12
+  }
+  farmers = {
+    culture = banda
+    religion =  catholic
+    size = 58939
+  }
+  farmers = {
+    culture = banda
+    religion = secularism
+    size = 595
+  }
 }
 #Bangassou - Ouaka, Basse-Kottto (415000/103750 POPS)
 1970 = {
-	clergymen = {
-		culture = banda
-		religion =  catholic 
-		size = 2054
-	 } 
-	clergymen = {
-		culture = banda
-		religion = secularism
-		size = 20
-	 } 
-	farmers = {
-		culture = banda
-		religion =  catholic 
-		size = 100658
-	 } 
-	farmers = {
-		culture = banda
-		religion = secularism
-		size = 1016
-	 } 
+  clergymen = {
+    culture = banda
+    religion =  catholic
+    size = 2054
+  }
+  clergymen = {
+    culture = banda
+    religion = secularism
+    size = 20
+  }
+  farmers = {
+    culture = banda
+    religion =  catholic
+    size = 100658
+  }
+  farmers = {
+    culture = banda
+    religion = secularism
+    size = 1016
+  }
 }
 #Ndele - Vakaga, Bamingui-Bangoran (74000/18500 POPS)
 1971 = {
-	clergymen = {
-		culture = banda
-		religion =  catholic 
-		size = 366
-	 } 
-	clergymen = {
-		culture = banda
-		religion = secularism
-		size = 3
-	 } 
-	farmers = {
-		culture = banda
-		religion =  catholic 
-		size = 3296
-	 } 
-	farmers = {
-		culture = banda
-		religion = secularism
-		size = 33
-	 } 
-	farmers = {
-		culture = black_muslim
-		religion =  sunni 
-		size = 14800
-	 } 
+  clergymen = {
+    culture = banda
+    religion =  catholic
+    size = 366
+  }
+  clergymen = {
+    culture = banda
+    religion = secularism
+    size = 3
+  }
+  farmers = {
+    culture = banda
+    religion =  catholic
+    size = 3296
+  }
+  farmers = {
+    culture = banda
+    religion = secularism
+    size = 33
+  }
+  farmers = {
+    culture = black_muslim
+    religion =  sunni
+    size = 14800
+  }
 }

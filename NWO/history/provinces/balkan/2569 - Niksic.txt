@@ -8,10 +8,10 @@ life_rating = 23
 terrain = deciduous_forest_mountains
 colonial = 0
 1992.1.1 = {
-owner = YUG
-controller = YUG
-add_core = SER
-add_core = MON
-add_core = YUG
-colonial = 0
+  owner = YUG
+  controller = YUG
+  add_core = SER
+  add_core = MON
+  add_core = YUG
+  colonial = 0
 }

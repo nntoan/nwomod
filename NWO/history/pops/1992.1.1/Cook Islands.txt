@@ -1,116 +1,116 @@
 #Rarotonga - Rarotonga (9000/2250 POPS)
 2545 = {
-	clergymen = {
-		culture = maori
-		religion =  protestant 
-		size = 14
-	 } 
-	clergymen = {
-		culture = maori
-		religion = secularism
-		size = 30
-	 } 
-	farmers = {
-		culture = maori
-		religion =  protestant 
-		size = 727
-	 } 
-	farmers = {
-		culture = maori
-		religion = secularism
-		size = 1477
-	 } 
+  clergymen = {
+    culture = maori
+    religion =  protestant
+    size = 14
+  }
+  clergymen = {
+    culture = maori
+    religion = secularism
+    size = 30
+  }
+  farmers = {
+    culture = maori
+    religion =  protestant
+    size = 727
+  }
+  farmers = {
+    culture = maori
+    religion = secularism
+    size = 1477
+  }
 }
 #Tongareva - Tongareva (9000/2250 POPS)
 2546 = {
-	capitalists = {
-		culture = british
-		religion =  protestant 
-		size = 4
-	 } 
-	capitalists = {
-		culture = british
-		religion = secularism
-		size = 8
-	 } 
-	aristocrats = {
-		culture = british
-		religion =  protestant 
-		size = 25
-	 } 
-	aristocrats = {
-		culture = british
-		religion = secularism
-		size = 52
-	 } 
-	bureaucrats = {
-		culture = british
-		religion =  protestant 
-		size = 2
-	 } 
-	bureaucrats = {
-		culture = british
-		religion = secularism
-		size = 6
-	 } 
-	clergymen = {
-		culture = british
-		religion =  protestant 
-		size = 14
-	 } 
-	clergymen = {
-		culture = british
-		religion = secularism
-		size = 30
-	 } 
-	clerks = {
-		culture = british
-		religion =  protestant 
-		size = 23
-	 } 
-	clerks = {
-		culture = british
-		religion = secularism
-		size = 48
-	 } 
-	artisans = {
-		culture = british
-		religion =  protestant 
-		size = 22
-	 } 
-	artisans = {
-		culture = british
-		religion = secularism
-		size = 45
-	 } 
-	craftsmen = {
-		culture = british
-		religion =  protestant 
-		size = 71
-	 } 
-	craftsmen = {
-		culture = british
-		religion = secularism
-		size = 145
-	 } 
-	farmers = {
-		culture = british
-		religion =  protestant 
-		size = 12
-	 } 
-	farmers = {
-		culture = british
-		religion = secularism
-		size = 25
-	 } 
-	farmers = {
-		culture = maori
-		religion =  protestant 
-		size = 564
-	 } 
-	farmers = {
-		culture = maori
-		religion = secularism
-		size = 1145
-	 } 
+  capitalists = {
+    culture = british
+    religion =  protestant
+    size = 4
+  }
+  capitalists = {
+    culture = british
+    religion = secularism
+    size = 8
+  }
+  aristocrats = {
+    culture = british
+    religion =  protestant
+    size = 25
+  }
+  aristocrats = {
+    culture = british
+    religion = secularism
+    size = 52
+  }
+  bureaucrats = {
+    culture = british
+    religion =  protestant
+    size = 2
+  }
+  bureaucrats = {
+    culture = british
+    religion = secularism
+    size = 6
+  }
+  clergymen = {
+    culture = british
+    religion =  protestant
+    size = 14
+  }
+  clergymen = {
+    culture = british
+    religion = secularism
+    size = 30
+  }
+  clerks = {
+    culture = british
+    religion =  protestant
+    size = 23
+  }
+  clerks = {
+    culture = british
+    religion = secularism
+    size = 48
+  }
+  artisans = {
+    culture = british
+    religion =  protestant
+    size = 22
+  }
+  artisans = {
+    culture = british
+    religion = secularism
+    size = 45
+  }
+  craftsmen = {
+    culture = british
+    religion =  protestant
+    size = 71
+  }
+  craftsmen = {
+    culture = british
+    religion = secularism
+    size = 145
+  }
+  farmers = {
+    culture = british
+    religion =  protestant
+    size = 12
+  }
+  farmers = {
+    culture = british
+    religion = secularism
+    size = 25
+  }
+  farmers = {
+    culture = maori
+    religion =  protestant
+    size = 564
+  }
+  farmers = {
+    culture = maori
+    religion = secularism
+    size = 1145
+  }
 }

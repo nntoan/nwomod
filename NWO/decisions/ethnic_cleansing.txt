@@ -1,48 +1,48 @@
 political_decisions = {
 
-	ethnic_cleansing = {
-			picture = "ethnic_cleansing"
-			alert = no
-			potential = {
-				government = populist_dictatorship
-				NOT = { has_country_flag = ethnic_cleansed }
-			}
+  ethnic_cleansing = {
+    picture = "ethnic_cleansing"
+    alert = no
+    potential = {
+      government = populist_dictatorship
+      NOT = { has_country_flag = ethnic_cleansed }
+    }
 
-			allow = {
-				jingoism = 24
-				wars_of_national_liberation = 1
-				NOT = { badboy = 1 }
-				war = yes
-			}
+    allow = {
+      jingoism = 24
+      wars_of_national_liberation = 1
+      NOT = { badboy = 1 }
+      war = yes
+    }
 
-			effect = {
-				set_country_flag = ethnic_cleansed
-				badboy = 5
-				any_owned = { limit = { controlled_by = THIS } add_province_modifier = {  name = ethnic_cleansing duration = 120 } }
-			}
-			ai_will_do = { 
-				factor = 1
-				modifier = { has_country_flag = ethnic_cleansed factor = 0  } 
-				modifier = {  NOT = { OR = { tag = RWA tag = RSR tag = SRK tag = SER tag = CRO tag = BIH } } factor = 0 } 
-			}
-	}
-	
-	end_ethnic_cleansing = {
-			picture = "ethnic_cleansing"
-			
-			potential = {
-				has_country_flag = ethnic_cleansed
-			}
+    effect = {
+      set_country_flag = ethnic_cleansed
+      badboy = 5
+      any_owned = { limit = { controlled_by = THIS } add_province_modifier = {  name = ethnic_cleansing duration = 120 } }
+    }
+    ai_will_do = {
+      factor = 1
+      modifier = { has_country_flag = ethnic_cleansed factor = 0  }
+      modifier = {  NOT = { OR = { tag = RWA tag = RSR tag = SRK tag = SER tag = CRO tag = BIH } } factor = 0 }
+    }
+  }
 
-			allow = {
-				war = no
-			}
+  end_ethnic_cleansing = {
+    picture = "ethnic_cleansing"
 
-			effect = {
-				badboy = -1
-				clr_country_flag = ethnic_cleansed
-				any_owned = { remove_province_modifier = ethnic_cleansing }
-			}
-			ai_will_do = { factor = 1 }
-	}
+    potential = {
+      has_country_flag = ethnic_cleansed
+    }
+
+    allow = {
+      war = no
+    }
+
+    effect = {
+      badboy = -1
+      clr_country_flag = ethnic_cleansed
+      any_owned = { remove_province_modifier = ethnic_cleansing }
+    }
+    ai_will_do = { factor = 1 }
+  }
 }

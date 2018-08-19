@@ -7,7 +7,7 @@ country_event = {
 
   trigger = {
     tag = ICL
-	year = 1958 NOT = { year = 1959 }
+    year = 1958 NOT = { year = 1959 }
     exists = GBR
     war = no
   }
@@ -16,15 +16,15 @@ country_event = {
 
   option = {
     name = EVT_8007023_A
-	any_pop = { consciousness = 1 }
-	GBR = { country_event = 8007024 } 
-	ai_chance = { factor = 100 }
+    any_pop = { consciousness = 1 }
+    GBR = { country_event = 8007024 }
+    ai_chance = { factor = 100 }
   }
 
   option = {
     name = EVT_8007023_B
-	ai_chance = { factor = 0 }
-	any_pop = { militancy = 1.0 }
+    ai_chance = { factor = 0 }
+    any_pop = { militancy = 1.0 }
   }
 }
 country_event = {
@@ -36,18 +36,18 @@ country_event = {
 
   option = {
     name = EVT_8007024_A
-	relation = { who = ICL value = -50 } 
-	ICL = { country_event = 8007025 } 
-	ai_chance = { factor = 50 }
+    relation = { who = ICL value = -50 }
+    ICL = { country_event = 8007025 }
+    ai_chance = { factor = 50 }
   }
 
   option = {
     name = EVT_8007024_B
-	any_pop = { consciousness = 1 }
-	relation = { who = ICL value = 50 } 
-	prestige = -10
-	ICL = { country_event = 8007026 } 
-	ai_chance = { factor = 50 }
+    any_pop = { consciousness = 1 }
+    relation = { who = ICL value = 50 }
+    prestige = -10
+    ICL = { country_event = 8007026 }
+    ai_chance = { factor = 50 }
   }
 }
 country_event = {
@@ -59,13 +59,13 @@ country_event = {
 
   option = {
     name = EVT_8007025_A
-	ai_chance = { factor = 100 }
+    ai_chance = { factor = 100 }
   }
 
   option = {
     name = EVT_8007025_B
-	any_pop = { consciousness = 1 }
-	ai_chance = { factor = 0 }
+    any_pop = { consciousness = 1 }
+    ai_chance = { factor = 0 }
   }
 }
 country_event = {
@@ -77,8 +77,8 @@ country_event = {
 
   option = {
     name = EVT_8007026_A
-	prestige = 10
-	add_country_modifier = { name = economic_boom duration = 365 }
+    prestige = 10
+    add_country_modifier = { name = economic_boom duration = 365 }
   }
 }
 country_event = {
@@ -90,7 +90,7 @@ country_event = {
 
   trigger = {
     tag = ICL
-	year = 1972 NOT = { year = 1973 }
+    year = 1972 NOT = { year = 1973 }
     exists = GBR
     war = no
   }
@@ -99,15 +99,15 @@ country_event = {
 
   option = {
     name = EVT_8007027_A
-	any_pop = { consciousness = 1 }
-	GBR = { country_event = 8007028 }
-	ai_chance = { factor = 100 }
+    any_pop = { consciousness = 1 }
+    GBR = { country_event = 8007028 }
+    ai_chance = { factor = 100 }
   }
 
   option = {
     name = EVT_8007027_B
-	ai_chance = { factor = 0 }
-	country_event =  8007029 
+    ai_chance = { factor = 0 }
+    country_event =  8007029
   }
 }
 country_event = {
@@ -119,17 +119,17 @@ country_event = {
 
   option = {
     name = EVT_8007028_A
-	relation = { who = ICL value = -50 } 
-	country_event = 8007029 
-	ai_chance = { factor = 50 }
+    relation = { who = ICL value = -50 }
+    country_event = 8007029
+    ai_chance = { factor = 50 }
   }
 
   option = {
     name = EVT_8007028_B
-	any_pop = { consciousness = 1 }
-	relation = { who = ICL value = 50 } 
-	country_event = 8007030 
-	ai_chance = { factor = 50 }
+    any_pop = { consciousness = 1 }
+    relation = { who = ICL value = 50 }
+    country_event = 8007030
+    ai_chance = { factor = 50 }
   }
 }
 country_event = {
@@ -141,7 +141,7 @@ country_event = {
 
   option = {
     name = EVT_8007029_B
-	any_pop = { militancy = 0.5 consciousness = 1 }
+    any_pop = { militancy = 0.5 consciousness = 1 }
   }
 }
 country_event = {
@@ -153,6 +153,6 @@ country_event = {
 
   option = {
     name = EVT_8007030_A
-	add_country_modifier = { name = economic_boom duration = 365 }
+    add_country_modifier = { name = economic_boom duration = 365 }
   }
 }

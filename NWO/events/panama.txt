@@ -8,14 +8,14 @@ country_event = {
   trigger = {
     tag = PNM
     year = 1968 NOT = { year = 1980 }
-	government = democracy
+    government = democracy
   }
 
   mean_time_to_happen = { months = 2 }
 
   option = {
     name = EVT_8011211_A
-	government = presidential_dictatorship country_event = 800050
+    government = presidential_dictatorship country_event = 800050
   }
 }
 country_event = {
@@ -28,23 +28,23 @@ country_event = {
   trigger = {
     tag = PNM
     year = 1989 NOT = { year = 1990 }
-	government = presidential_dictatorship
+    government = presidential_dictatorship
   }
 
   mean_time_to_happen = { months = 2  }
 
   option = {
     name = EVT_8011215_A
-	relation = { who = USA value = -150 } 
-	government = presidential_dictatorship country_event = 800050
-	ai_chance = { factor = 100 }
+    relation = { who = USA value = -150 }
+    government = presidential_dictatorship country_event = 800050
+    ai_chance = { factor = 100 }
   }
 
   option = {
     name = EVT_8011215_B
-	any_pop = { militancy = 2.0 consciousness = 1  }
-	government = democracy country_event = 800054
-	ai_chance = { factor = 0 }
+    any_pop = { militancy = 2.0 consciousness = 1  }
+    government = democracy country_event = 800054
+    ai_chance = { factor = 0 }
   }
 }
 country_event = {
@@ -56,15 +56,15 @@ country_event = {
 
   trigger = {
     tag = PNM
-	year = 1988 NOT = { year = 1990 }
+    year = 1988 NOT = { year = 1990 }
   }
 
   mean_time_to_happen = { months = 5  }
 
   option = {
     name = EVT_8011216_A
-	any_pop = { militancy = 1.0 consciousness = 2  }
-	relation = { who = USA value = -100 } 
+    any_pop = { militancy = 1.0 consciousness = 2  }
+    relation = { who = USA value = -100 }
   }
 }
 country_event = {
@@ -85,14 +85,14 @@ country_event = {
 
   option = {
     name = EVT_8011217_A
-	PNM = { country_event = 8011218 }
-	ai_chance = { factor = 100 }
+    PNM = { country_event = 8011218 }
+    ai_chance = { factor = 100 }
   }
 
   option = {
     name = EVT_8011217_B
-	prestige = -10
-	ai_chance = { factor = 0 }
+    prestige = -10
+    ai_chance = { factor = 0 }
   }
 }
 country_event = {
@@ -104,15 +104,15 @@ country_event = {
 
   option = {
     name = EVT_8011218_A
-	any_pop = { militancy = 2.0 consciousness = 1 }
-	# infamy unsanctioned
-	war = { target = USA attacker_goal = { casus_belli = acquire_core_state state_province_id = 1723 } defender_goal = { casus_belli = make_puppet } }
-	relation = { who = USA value = -150 } 
+    any_pop = { militancy = 2.0 consciousness = 1 }
+    # infamy unsanctioned
+    war = { target = USA attacker_goal = { casus_belli = acquire_core_state state_province_id = 1723 } defender_goal = { casus_belli = make_puppet } }
+    relation = { who = USA value = -150 }
   }
 
   option = {
     name = EVT_8011218_B
-	any_pop = { consciousness = 2 }
-	government = democracy country_event = 800054
+    any_pop = { consciousness = 2 }
+    government = democracy country_event = 800054
   }
 }

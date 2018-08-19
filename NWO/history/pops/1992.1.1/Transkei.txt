@@ -1,23 +1,23 @@
 #Umtata - Umtata (1665000/416250 POPS)
 2100 = {
-	clergymen = {
-		culture = xhosa
-		religion =  protestant 
-		size = 3330
-	 } 
-	clergymen = {
-		culture = xhosa
-		religion = secularism
-		size = 4995
-	 } 
-	farmers = {
-		culture = xhosa
-		religion =  protestant 
-		size = 163170
-	 } 
-	farmers = {
-		culture = xhosa
-		religion = secularism
-		size = 244755
-	 } 
+  clergymen = {
+    culture = xhosa
+    religion =  protestant
+    size = 3330
+  }
+  clergymen = {
+    culture = xhosa
+    religion = secularism
+    size = 4995
+  }
+  farmers = {
+    culture = xhosa
+    religion =  protestant
+    size = 163170
+  }
+  farmers = {
+    culture = xhosa
+    religion = secularism
+    size = 244755
+  }
 }

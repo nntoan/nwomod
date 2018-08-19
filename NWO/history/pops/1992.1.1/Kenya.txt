@@ -1,583 +1,583 @@
 #Nairobi - Nairobi, Central (4565000/1141250 POPS)
 2024 = {
-	officers = {
-		culture = kikuyu
-		religion =  protestant 
-		size = 549
-	 } 
-	officers = {
-		culture = kikuyu
-		religion = secularism
-		size = 16
-	 } 
-	soldiers = {
-		culture = kikuyu
-		religion =  protestant 
-		size = 10436
-	 } 
-	soldiers = {
-		culture = kikuyu
-		religion = secularism
-		size = 322
-	 } 
-	aristocrats = {
-		culture = kikuyu
-		religion =  protestant 
-		size = 44280
-	 } 
-	aristocrats = {
-		culture = kikuyu
-		religion = secularism
-		size = 1369
-	 } 
-	bureaucrats = {
-		culture = kikuyu
-		religion =  protestant 
-		size = 2213
-	 } 
-	bureaucrats = {
-		culture = kikuyu
-		religion = secularism
-		size = 68
-	 } 
-	capitalists = {
-		culture = kikuyu
-		religion =  protestant 
-		size = 5534
-	 } 
-	capitalists = {
-		culture = kikuyu
-		religion = secularism
-		size = 171
-	 } 
-	clergymen = {
-		culture = kikuyu
-		religion =  protestant 
-		size = 22140
-	 } 
-	clergymen = {
-		culture = kikuyu
-		religion = secularism
-		size = 684
-	 } 
-	clerks = {
-		culture = kikuyu
-		religion =  protestant 
-		size = 9816
-	 } 
-	clerks = {
-		culture = kikuyu
-		religion = secularism
-		size = 303
-	 } 
-	artisans = {
-		culture = kikuyu
-		religion =  protestant 
-		size = 9325
-	 } 
-	artisans = {
-		culture = kikuyu
-		religion = secularism
-		size = 288
-	 } 
-	craftsmen = {
-		culture = kikuyu
-		religion =  protestant 
-		size = 29450
-	 } 
-	craftsmen = {
-		culture = kikuyu
-		religion = secularism
-		size = 910
-	 } 
-	farmers = {
-		culture = kikuyu
-		religion =  protestant 
-		size = 951125
-	 } 
-	farmers = {
-		culture = kikuyu
-		religion = secularism
-		size = 29416
-	 } 
-	farmers = {
-		culture = indian
-		religion =  hindu 
-		size = 22140
-	 } 
-	farmers = {
-		culture = indian
-		religion = secularism
-		size = 684
-	 } 
+  officers = {
+    culture = kikuyu
+    religion =  protestant
+    size = 549
+  }
+  officers = {
+    culture = kikuyu
+    religion = secularism
+    size = 16
+  }
+  soldiers = {
+    culture = kikuyu
+    religion =  protestant
+    size = 10436
+  }
+  soldiers = {
+    culture = kikuyu
+    religion = secularism
+    size = 322
+  }
+  aristocrats = {
+    culture = kikuyu
+    religion =  protestant
+    size = 44280
+  }
+  aristocrats = {
+    culture = kikuyu
+    religion = secularism
+    size = 1369
+  }
+  bureaucrats = {
+    culture = kikuyu
+    religion =  protestant
+    size = 2213
+  }
+  bureaucrats = {
+    culture = kikuyu
+    religion = secularism
+    size = 68
+  }
+  capitalists = {
+    culture = kikuyu
+    religion =  protestant
+    size = 5534
+  }
+  capitalists = {
+    culture = kikuyu
+    religion = secularism
+    size = 171
+  }
+  clergymen = {
+    culture = kikuyu
+    religion =  protestant
+    size = 22140
+  }
+  clergymen = {
+    culture = kikuyu
+    religion = secularism
+    size = 684
+  }
+  clerks = {
+    culture = kikuyu
+    religion =  protestant
+    size = 9816
+  }
+  clerks = {
+    culture = kikuyu
+    religion = secularism
+    size = 303
+  }
+  artisans = {
+    culture = kikuyu
+    religion =  protestant
+    size = 9325
+  }
+  artisans = {
+    culture = kikuyu
+    religion = secularism
+    size = 288
+  }
+  craftsmen = {
+    culture = kikuyu
+    religion =  protestant
+    size = 29450
+  }
+  craftsmen = {
+    culture = kikuyu
+    religion = secularism
+    size = 910
+  }
+  farmers = {
+    culture = kikuyu
+    religion =  protestant
+    size = 951125
+  }
+  farmers = {
+    culture = kikuyu
+    religion = secularism
+    size = 29416
+  }
+  farmers = {
+    culture = indian
+    religion =  hindu
+    size = 22140
+  }
+  farmers = {
+    culture = indian
+    religion = secularism
+    size = 684
+  }
 }
 #Marsabit - Eastern (176000/44000 POPS)
 2025 = {
-	clergymen = {
-		culture = meru
-		religion =  protestant 
-		size = 853
-	 } 
-	clergymen = {
-		culture = meru
-		religion = secularism
-		size = 26
-	 } 
-	farmers = {
-		culture = meru
-		religion =  protestant 
-		size = 41826
-	 } 
-	farmers = {
-		culture = meru
-		religion = secularism
-		size = 1293
-	 } 
+  clergymen = {
+    culture = meru
+    religion =  protestant
+    size = 853
+  }
+  clergymen = {
+    culture = meru
+    religion = secularism
+    size = 26
+  }
+  farmers = {
+    culture = meru
+    religion =  protestant
+    size = 41826
+  }
+  farmers = {
+    culture = meru
+    religion = secularism
+    size = 1293
+  }
 }
 #Lodwar - Rift Valley (965000/241250 POPS)
 2026 = {
-	clergymen = {
-		culture = luhya
-		religion =  protestant 
-		size = 4680
-	 } 
-	clergymen = {
-		culture = luhya
-		religion = secularism
-		size = 144
-	 } 
-	farmers = {
-		culture = luhya
-		religion =  protestant 
-		size = 60843
-	 } 
-	farmers = {
-		culture = luhya
-		religion = secularism
-		size = 1881
-	 } 
-	farmers = {
-		culture = kalenjin
-		religion =  protestant 
-		size = 168489
-	 } 
-	farmers = {
-		culture = kalenjin
-		religion = secularism
-		size = 5211
-	 } 
+  clergymen = {
+    culture = luhya
+    religion =  protestant
+    size = 4680
+  }
+  clergymen = {
+    culture = luhya
+    religion = secularism
+    size = 144
+  }
+  farmers = {
+    culture = luhya
+    religion =  protestant
+    size = 60843
+  }
+  farmers = {
+    culture = luhya
+    religion = secularism
+    size = 1881
+  }
+  farmers = {
+    culture = kalenjin
+    religion =  protestant
+    size = 168489
+  }
+  farmers = {
+    culture = kalenjin
+    religion = secularism
+    size = 5211
+  }
 }
 #Nakuru - Rift Valley (5108000/1277000 POPS)
 2027 = {
-	clergymen = {
-		culture = maasai
-		religion =  protestant 
-		size = 24773
-	 } 
-	clergymen = {
-		culture = maasai
-		religion = secularism
-		size = 766
-	 } 
-	farmers = {
-		culture = maasai
-		religion =  protestant 
-		size = 86708
-	 } 
-	farmers = {
-		culture = maasai
-		religion = secularism
-		size = 2681
-	 } 
-	farmers = {
-		culture = kisii
-		religion =  protestant 
-		size = 173416
-	 } 
-	farmers = {
-		culture = kisii
-		religion = secularism
-		size = 5363
-	 } 
-	farmers = {
-		culture = luo
-		religion =  protestant 
-		size = 136255
-	 } 
-	farmers = {
-		culture = luo
-		religion = secularism
-		size = 4214
-	 } 
-	farmers = {
-		culture = kalenjin
-		religion =  protestant 
-		size = 507861
-	 } 
-	farmers = {
-		culture = kalenjin
-		religion = secularism
-		size = 15707
-	 } 
-	farmers = {
-		culture = meru
-		religion =  protestant 
-		size = 309672
-	 } 
-	farmers = {
-		culture = meru
-		religion = secularism
-		size = 9577
-	 } 
+  clergymen = {
+    culture = maasai
+    religion =  protestant
+    size = 24773
+  }
+  clergymen = {
+    culture = maasai
+    religion = secularism
+    size = 766
+  }
+  farmers = {
+    culture = maasai
+    religion =  protestant
+    size = 86708
+  }
+  farmers = {
+    culture = maasai
+    religion = secularism
+    size = 2681
+  }
+  farmers = {
+    culture = kisii
+    religion =  protestant
+    size = 173416
+  }
+  farmers = {
+    culture = kisii
+    religion = secularism
+    size = 5363
+  }
+  farmers = {
+    culture = luo
+    religion =  protestant
+    size = 136255
+  }
+  farmers = {
+    culture = luo
+    religion = secularism
+    size = 4214
+  }
+  farmers = {
+    culture = kalenjin
+    religion =  protestant
+    size = 507861
+  }
+  farmers = {
+    culture = kalenjin
+    religion = secularism
+    size = 15707
+  }
+  farmers = {
+    culture = meru
+    religion =  protestant
+    size = 309672
+  }
+  farmers = {
+    culture = meru
+    religion = secularism
+    size = 9577
+  }
 }
 #Kisumu - Western, Nyanza (2899000/724750 POPS)
 2028 = {
-	officers = {
-		culture = luo
-		religion =  protestant 
-		size = 848
-	 } 
-	officers = {
-		culture = luo
-		religion = secularism
-		size = 26
-	 } 
-	soldiers = {
-		culture = luo
-		religion =  protestant 
-		size = 16136
-	 } 
-	soldiers = {
-		culture = luo
-		religion = secularism
-		size = 499
-	 } 
-	aristocrats = {
-		culture = luo
-		religion =  protestant 
-		size = 28120
-	 } 
-	aristocrats = {
-		culture = luo
-		religion = secularism
-		size = 869
-	 } 
-	bureaucrats = {
-		culture = luo
-		religion =  protestant 
-		size = 1405
-	 } 
-	bureaucrats = {
-		culture = luo
-		religion = secularism
-		size = 43
-	 } 
-	capitalists = {
-		culture = luo
-		religion =  protestant 
-		size = 3514
-	 } 
-	capitalists = {
-		culture = luo
-		religion = secularism
-		size = 108
-	 } 
-	clergymen = {
-		culture = luo
-		religion =  protestant 
-		size = 14060
-	 } 
-	clergymen = {
-		culture = luo
-		religion = secularism
-		size = 434
-	 } 
-	clerks = {
-		culture = luo
-		religion =  protestant 
-		size = 6143
-	 } 
-	clerks = {
-		culture = luo
-		religion = secularism
-		size = 190
-	 } 
-	artisans = {
-		culture = luo
-		religion =  protestant 
-		size = 5836
-	 } 
-	artisans = {
-		culture = luo
-		religion = secularism
-		size = 180
-	 } 
-	craftsmen = {
-		culture = luo
-		religion =  protestant 
-		size = 18432
-	 } 
-	craftsmen = {
-		culture = luo
-		religion = secularism
-		size = 570
-	 } 
-	farmers = {
-		culture = luo
-		religion =  protestant 
-		size = 425726
-	 } 
-	farmers = {
-		culture = luo
-		religion = secularism
-		size = 13166
-	 } 
-	farmers = {
-		culture = kisii
-		religion =  protestant 
-		size = 182781
-	 } 
-	farmers = {
-		culture = kisii
-		religion = secularism
-		size = 5653
-	 } 
+  officers = {
+    culture = luo
+    religion =  protestant
+    size = 848
+  }
+  officers = {
+    culture = luo
+    religion = secularism
+    size = 26
+  }
+  soldiers = {
+    culture = luo
+    religion =  protestant
+    size = 16136
+  }
+  soldiers = {
+    culture = luo
+    religion = secularism
+    size = 499
+  }
+  aristocrats = {
+    culture = luo
+    religion =  protestant
+    size = 28120
+  }
+  aristocrats = {
+    culture = luo
+    religion = secularism
+    size = 869
+  }
+  bureaucrats = {
+    culture = luo
+    religion =  protestant
+    size = 1405
+  }
+  bureaucrats = {
+    culture = luo
+    religion = secularism
+    size = 43
+  }
+  capitalists = {
+    culture = luo
+    religion =  protestant
+    size = 3514
+  }
+  capitalists = {
+    culture = luo
+    religion = secularism
+    size = 108
+  }
+  clergymen = {
+    culture = luo
+    religion =  protestant
+    size = 14060
+  }
+  clergymen = {
+    culture = luo
+    religion = secularism
+    size = 434
+  }
+  clerks = {
+    culture = luo
+    religion =  protestant
+    size = 6143
+  }
+  clerks = {
+    culture = luo
+    religion = secularism
+    size = 190
+  }
+  artisans = {
+    culture = luo
+    religion =  protestant
+    size = 5836
+  }
+  artisans = {
+    culture = luo
+    religion = secularism
+    size = 180
+  }
+  craftsmen = {
+    culture = luo
+    religion =  protestant
+    size = 18432
+  }
+  craftsmen = {
+    culture = luo
+    religion = secularism
+    size = 570
+  }
+  farmers = {
+    culture = luo
+    religion =  protestant
+    size = 425726
+  }
+  farmers = {
+    culture = luo
+    religion = secularism
+    size = 13166
+  }
+  farmers = {
+    culture = kisii
+    religion =  protestant
+    size = 182781
+  }
+  farmers = {
+    culture = kisii
+    religion = secularism
+    size = 5653
+  }
 }
 #Mombasa - Coast (1784000/446000 POPS)
 2029 = {
-	officers = {
-		culture = indian
-		religion =  hindu 
-		size = 119
-	 } 
-	officers = {
-		culture = indian
-		religion = secularism
-		size = 3
-	 } 
-	soldiers = {
-		culture = indian
-		religion =  hindu 
-		size = 2283
-	 } 
-	soldiers = {
-		culture = indian
-		religion = secularism
-		size = 70
-	 } 
-	aristocrats = {
-		culture = indian
-		religion =  hindu 
-		size = 17304
-	 } 
-	aristocrats = {
-		culture = indian
-		religion = secularism
-		size = 535
-	 } 
-	bureaucrats = {
-		culture = indian
-		religion =  hindu 
-		size = 865
-	 } 
-	bureaucrats = {
-		culture = indian
-		religion = secularism
-		size = 26
-	 } 
-	capitalists = {
-		culture = indian
-		religion =  hindu 
-		size = 2163
-	 } 
-	capitalists = {
-		culture = indian
-		religion = secularism
-		size = 66
-	 } 
-	clergymen = {
-		culture = indian
-		religion =  hindu 
-		size = 8652
-	 } 
-	clergymen = {
-		culture = indian
-		religion = secularism
-		size = 267
-	 } 
-	clerks = {
-		culture = indian
-		religion =  hindu 
-		size = 3221
-	 } 
-	clerks = {
-		culture = indian
-		religion = secularism
-		size = 99
-	 } 
-	artisans = {
-		culture = swahili
-		religion =  sunni 
-		size = 3773
-	 } 
-	craftsmen = {
-		culture = swahili
-		religion =  sunni 
-		size = 11917
-	 } 
-	farmers = {
-		culture = swahili
-		religion =  sunni 
-		size = 68399
-	 } 
-	farmers = {
-		culture = kamba
-		religion =  protestant 
-		size = 315812
-	 } 
-	farmers = {
-		culture = kamba
-		religion = secularism
-		size = 9767
-	 } 
+  officers = {
+    culture = indian
+    religion =  hindu
+    size = 119
+  }
+  officers = {
+    culture = indian
+    religion = secularism
+    size = 3
+  }
+  soldiers = {
+    culture = indian
+    religion =  hindu
+    size = 2283
+  }
+  soldiers = {
+    culture = indian
+    religion = secularism
+    size = 70
+  }
+  aristocrats = {
+    culture = indian
+    religion =  hindu
+    size = 17304
+  }
+  aristocrats = {
+    culture = indian
+    religion = secularism
+    size = 535
+  }
+  bureaucrats = {
+    culture = indian
+    religion =  hindu
+    size = 865
+  }
+  bureaucrats = {
+    culture = indian
+    religion = secularism
+    size = 26
+  }
+  capitalists = {
+    culture = indian
+    religion =  hindu
+    size = 2163
+  }
+  capitalists = {
+    culture = indian
+    religion = secularism
+    size = 66
+  }
+  clergymen = {
+    culture = indian
+    religion =  hindu
+    size = 8652
+  }
+  clergymen = {
+    culture = indian
+    religion = secularism
+    size = 267
+  }
+  clerks = {
+    culture = indian
+    religion =  hindu
+    size = 3221
+  }
+  clerks = {
+    culture = indian
+    religion = secularism
+    size = 99
+  }
+  artisans = {
+    culture = swahili
+    religion =  sunni
+    size = 3773
+  }
+  craftsmen = {
+    culture = swahili
+    religion =  sunni
+    size = 11917
+  }
+  farmers = {
+    culture = swahili
+    religion =  sunni
+    size = 68399
+  }
+  farmers = {
+    culture = kamba
+    religion =  protestant
+    size = 315812
+  }
+  farmers = {
+    culture = kamba
+    religion = secularism
+    size = 9767
+  }
 }
 #Lamu - Coast (1578000/394500 POPS)
 2030 = {
-	clergymen = {
-		culture = kikuyu
-		religion =  protestant 
-		size = 7653
-	 } 
-	clergymen = {
-		culture = kikuyu
-		religion = secularism
-		size = 236
-	 } 
-	farmers = {
-		culture = kikuyu
-		religion =  protestant 
-		size = 65053
-	 } 
-	farmers = {
-		culture = kikuyu
-		religion = secularism
-		size = 2011
-	 } 
-	farmers = {
-		culture = meru
-		religion =  protestant 
-		size = 309958
-	 } 
-	farmers = {
-		culture = meru
-		religion = secularism
-		size = 9586
-	 } 
+  clergymen = {
+    culture = kikuyu
+    religion =  protestant
+    size = 7653
+  }
+  clergymen = {
+    culture = kikuyu
+    religion = secularism
+    size = 236
+  }
+  farmers = {
+    culture = kikuyu
+    religion =  protestant
+    size = 65053
+  }
+  farmers = {
+    culture = kikuyu
+    religion = secularism
+    size = 2011
+  }
+  farmers = {
+    culture = meru
+    religion =  protestant
+    size = 309958
+  }
+  farmers = {
+    culture = meru
+    religion = secularism
+    size = 9586
+  }
 }
 #Wajir - North Eastern (1402000/350500 POPS)
 2031 = {
-	clergymen = {
-		culture = somali
-		religion =  sunni 
-		size = 7010
-	 } 
-	farmers = {
-		culture = somali
-		religion =  sunni 
-		size = 108655
-	 } 
-	farmers = {
-		culture = swahili
-		religion =  sunni 
-		size = 234835
-	 } 
+  clergymen = {
+    culture = somali
+    religion =  sunni
+    size = 7010
+  }
+  farmers = {
+    culture = somali
+    religion =  sunni
+    size = 108655
+  }
+  farmers = {
+    culture = swahili
+    religion =  sunni
+    size = 234835
+  }
 }
 #Garissa - Eastern (1746000/436500 POPS)
 2032 = {
-	clergymen = {
-		culture = kikuyu
-		religion =  protestant 
-		size = 8468
-	 } 
-	clergymen = {
-		culture = kikuyu
-		religion = secularism
-		size = 261
-	 } 
-	farmers = {
-		culture = kikuyu
-		religion =  protestant 
-		size = 71978
-	 } 
-	farmers = {
-		culture = kikuyu
-		religion = secularism
-		size = 2226
-	 } 
-	farmers = {
-		culture = kamba
-		religion =  protestant 
-		size = 342958
-	 } 
-	farmers = {
-		culture = kamba
-		religion = secularism
-		size = 10606
-	 } 
+  clergymen = {
+    culture = kikuyu
+    religion =  protestant
+    size = 8468
+  }
+  clergymen = {
+    culture = kikuyu
+    religion = secularism
+    size = 261
+  }
+  farmers = {
+    culture = kikuyu
+    religion =  protestant
+    size = 71978
+  }
+  farmers = {
+    culture = kikuyu
+    religion = secularism
+    size = 2226
+  }
+  farmers = {
+    culture = kamba
+    religion =  protestant
+    size = 342958
+  }
+  farmers = {
+    culture = kamba
+    religion = secularism
+    size = 10606
+  }
 }
 #Voi - Coast (2600000/650000 POPS)
 2033 = {
-	clergymen = {
-		culture = luhya
-		religion =  protestant 
-		size = 12610
-	 } 
-	clergymen = {
-		culture = luhya
-		religion = secularism
-		size = 390
-	 } 
-	farmers = {
-		culture = luhya
-		religion =  protestant 
-		size = 617890
-	 } 
-	farmers = {
-		culture = luhya
-		religion = secularism
-		size = 19110
-	 } 
+  clergymen = {
+    culture = luhya
+    religion =  protestant
+    size = 12610
+  }
+  clergymen = {
+    culture = luhya
+    religion = secularism
+    size = 390
+  }
+  farmers = {
+    culture = luhya
+    religion =  protestant
+    size = 617890
+  }
+  farmers = {
+    culture = luhya
+    religion = secularism
+    size = 19110
+  }
 }
 #Mossurize - Narok (534000/133500 POPS)
 2058 = {
-	clergymen = {
-		culture = maasai
-		religion =  protestant 
-		size = 2589
-	 } 
-	clergymen = {
-		culture = maasai
-		religion = secularism
-		size = 80
-	 } 
-	farmers = {
-		culture = maasai
-		religion =  protestant 
-		size = 89351
-	 } 
-	farmers = {
-		culture = maasai
-		religion = secularism
-		size = 2763
-	 } 
-	farmers = {
-		culture = african_minor
-		religion =  catholic 
-		size = 37553
-	 } 
-	farmers = {
-		culture = african_minor
-		religion = secularism
-		size = 1161
-	 } 
+  clergymen = {
+    culture = maasai
+    religion =  protestant
+    size = 2589
+  }
+  clergymen = {
+    culture = maasai
+    religion = secularism
+    size = 80
+  }
+  farmers = {
+    culture = maasai
+    religion =  protestant
+    size = 89351
+  }
+  farmers = {
+    culture = maasai
+    religion = secularism
+    size = 2763
+  }
+  farmers = {
+    culture = african_minor
+    religion =  catholic
+    size = 37553
+  }
+  farmers = {
+    culture = african_minor
+    religion = secularism
+    size = 1161
+  }
 }

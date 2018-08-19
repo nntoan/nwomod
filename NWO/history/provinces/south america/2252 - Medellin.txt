@@ -6,28 +6,28 @@ life_rating = 36
 terrain = jungle_hills
 colonial = 0
 state_building = {
-	level = 1
-	building = cement_factory
-	upgrade = yes
+  level = 1
+  building = cement_factory
+  upgrade = yes
 }
 1992.1.1 = {
-owner = CLM
-controller = CLM
-add_core = CLM
-colonial = 0
-state_building = {
-	level = 1
-	building = glass_factory
-	upgrade = yes
-}
-state_building = {
-	level = 1
-	building = beverages_factory
-	upgrade = yes
-}
-state_building = {
-	level = 1
-	building = modern_beverages_factory
-	upgrade = yes
-}
+  owner = CLM
+  controller = CLM
+  add_core = CLM
+  colonial = 0
+  state_building = {
+    level = 1
+    building = glass_factory
+    upgrade = yes
+  }
+  state_building = {
+    level = 1
+    building = beverages_factory
+    upgrade = yes
+  }
+  state_building = {
+    level = 1
+    building = modern_beverages_factory
+    upgrade = yes
+  }
 }

@@ -7,40 +7,40 @@ life_rating = 20
 terrain = urban_milan
 colonial = 0
 state_building = {
-	level = 4
-	building = fabric_factory
-	upgrade = yes
+  level = 4
+  building = fabric_factory
+  upgrade = yes
 }
 1992.1.1 = {
-owner = ITA
-controller = ITA
-add_core = ITA
-add_core = FVG
-railroad = 1
-colonial = 0
-state_building = {
-	level = 1
-	building = home_appliance_factory
-	upgrade = yes
-}
-state_building = {
-	level = 1
-	building = clothes_factory
-	upgrade = yes
-}
-state_building = {
-	level = 1
-	building = ships_factory
-	upgrade = yes
-}
-state_building = {
-	level = 1
-	building = trucks_vans_factory
-	upgrade = yes
-}
-state_building = {
-	level = 1
-	building = steel_factory
-	upgrade = yes
-}
+  owner = ITA
+  controller = ITA
+  add_core = ITA
+  add_core = FVG
+  railroad = 1
+  colonial = 0
+  state_building = {
+    level = 1
+    building = home_appliance_factory
+    upgrade = yes
+  }
+  state_building = {
+    level = 1
+    building = clothes_factory
+    upgrade = yes
+  }
+  state_building = {
+    level = 1
+    building = ships_factory
+    upgrade = yes
+  }
+  state_building = {
+    level = 1
+    building = trucks_vans_factory
+    upgrade = yes
+  }
+  state_building = {
+    level = 1
+    building = steel_factory
+    upgrade = yes
+  }
 }

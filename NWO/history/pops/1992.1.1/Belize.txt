@@ -1,68 +1,68 @@
 #Belize - Belize (191000/47750 POPS)
 2190 = {
-	clergymen = {
-		culture = afro_caribbean
-		religion =  protestant 
-		size = 639
-	 } 
-	clergymen = {
-		culture = afro_caribbean
-		religion = secularism
-		size = 315
-	 } 
-	farmers = {
-		culture = afro_caribbean
-		religion =  protestant 
-		size = 6334
-	 } 
-	farmers = {
-		culture = afro_caribbean
-		religion = secularism
-		size = 3119
-	 } 
-	farmers = {
-		culture = chinese
-		religion =  taoism 
-		size = 287
-	 } 
-	farmers = {
-		culture = chinese
-		religion = secularism
-		size = 141
-	 } 
-	farmers = {
-		culture = indian
-		religion =  hindu 
-		size = 735
-	 } 
-	farmers = {
-		culture = indian
-		religion = secularism
-		size = 362
-	 } 
-	farmers = {
-		culture = central_american_spanish
-		religion =  catholic 
-		size = 19675
-	 } 
-	farmers = {
-		culture = central_american_spanish
-		religion = secularism
-		size = 9690
-	 } 
-	farmers = {
-		culture = mayan
-		religion =  catholic 
-		size = 3167
-	 } 
-	farmers = {
-		culture = mayan
-		religion = secularism
-		size = 1559
-	 } 
-	farmers = {
-		culture = mennonites
-		religion =  mennonite 
-		size = 1719
-	 } 
+  clergymen = {
+    culture = afro_caribbean
+    religion =  protestant
+    size = 639
+  }
+  clergymen = {
+    culture = afro_caribbean
+    religion = secularism
+    size = 315
+  }
+  farmers = {
+    culture = afro_caribbean
+    religion =  protestant
+    size = 6334
+  }
+  farmers = {
+    culture = afro_caribbean
+    religion = secularism
+    size = 3119
+  }
+  farmers = {
+    culture = chinese
+    religion =  taoism
+    size = 287
+  }
+  farmers = {
+    culture = chinese
+    religion = secularism
+    size = 141
+  }
+  farmers = {
+    culture = indian
+    religion =  hindu
+    size = 735
+  }
+  farmers = {
+    culture = indian
+    religion = secularism
+    size = 362
+  }
+  farmers = {
+    culture = central_american_spanish
+    religion =  catholic
+    size = 19675
+  }
+  farmers = {
+    culture = central_american_spanish
+    religion = secularism
+    size = 9690
+  }
+  farmers = {
+    culture = mayan
+    religion =  catholic
+    size = 3167
+  }
+  farmers = {
+    culture = mayan
+    religion = secularism
+    size = 1559
+  }
+  farmers = {
+    culture = mennonites
+    religion =  mennonite
+    size = 1719
+  }
 }

@@ -7,25 +7,25 @@ country_event = {
 
   trigger = {
     year = 1944 NOT = { year = 1963 }
-	AUS = { exists = no }
-	NOT = { government = proletarian_dictatorship }
-	owns = 619 # Wien
+    AUS = { exists = no }
+    NOT = { government = proletarian_dictatorship }
+    owns = 619 # Wien
   }
 
   mean_time_to_happen = { months = 3  }
 
   option = {
     name = "EVT_8203000_A"
-	country_event = 8203002
-	any_pop = { consciousness = 2  }
-	ai_chance = { factor = 100 }
+    country_event = 8203002
+    any_pop = { consciousness = 2  }
+    ai_chance = { factor = 100 }
   }
 
   option = {
     name = "EVT_8203000_B"
-	any_pop = { limit = { culture = german } militancy = 5  }
-	badboy = 15 
-	ai_chance = { factor = 0 }
+    any_pop = { limit = { culture = german } militancy = 5  }
+    badboy = 15
+    ai_chance = { factor = 0 }
   }
 }
 country_event = {
@@ -37,24 +37,24 @@ country_event = {
 
   trigger = {
     tag = SUN
-	year = 1944 
-	government = proletarian_dictatorship
-	owns = 619 # Wien
+    year = 1944
+    government = proletarian_dictatorship
+    owns = 619 # Wien
   }
 
   mean_time_to_happen = { months = 1  }
 
   option = {
     name = "EVT_8203001_A"
-	country_event = 8203002
-	ai_chance = { factor = 100 }
+    country_event = 8203002
+    ai_chance = { factor = 100 }
   }
 
   option = {
     name = "EVT_8203001_B"
-	any_pop = { limit = { culture = german } militancy = 4 consciousness = 2 }
-	badboy = 15 
-	ai_chance = { factor = 0 }
+    any_pop = { limit = { culture = german } militancy = 4 consciousness = 2 }
+    badboy = 15
+    ai_chance = { factor = 0 }
   }
 }
 country_event = {
@@ -62,25 +62,25 @@ country_event = {
   title = "EVT_8203002_NAME" # Renner's cabinet
   desc = "EVT_8203002_DESC"
   picture = "nwo2_karl_renner"
-  is_triggered_only = yes 
-  
+  is_triggered_only = yes
+
   mean_time_to_happen = { months = 3  }
 
   option = {
     name = "EVT_8203002_A"
-	release = AUS
-	diplomatic_influence = { who = AUS value = 100 }
-	any_country = { limit = { any_owned_province = { is_core = AUS } NOT = { tag = THIS } } country_event = { id = 8203003 days = 90 } } 
-	ai_chance = { factor = 100 }
+    release = AUS
+    diplomatic_influence = { who = AUS value = 100 }
+    any_country = { limit = { any_owned_province = { is_core = AUS } NOT = { tag = THIS } } country_event = { id = 8203003 days = 90 } }
+    ai_chance = { factor = 100 }
   }
 
   option = {
     name = "EVT_8203002_B"
-	release_vassal = AUS
-	AUS = { country_event = { id = 8203004 days = 180 } } 
-	prestige = -10
-	badboy = 5 
-	ai_chance = { factor = 0 }
+    release_vassal = AUS
+    AUS = { country_event = { id = 8203004 days = 180 } }
+    prestige = -10
+    badboy = 5
+    ai_chance = { factor = 0 }
   }
 }
 country_event = {
@@ -92,18 +92,18 @@ country_event = {
 
   option = {
     name = "EVT_8203003_A"
-	release = AUS
-	diplomatic_influence = { who = AUS value = 100 }
-	AUS = { country_event = 8203010 }
-	ai_chance = { factor = 100 }
+    release = AUS
+    diplomatic_influence = { who = AUS value = 100 }
+    AUS = { country_event = 8203010 }
+    ai_chance = { factor = 100 }
   }
 
   option = {
     name = "EVT_8203003_B"
-	AUS = { country_event = 8203004 } 
-	prestige = -10
-	badboy = 5 
-	ai_chance = { factor = 0 }
+    AUS = { country_event = 8203004 }
+    prestige = -10
+    badboy = 5
+    ai_chance = { factor = 0 }
   }
 }
 country_event = {
@@ -115,8 +115,8 @@ country_event = {
 
   option = {
     name = "EVT_8203004_A"
-	government = proletarian_dictatorship country_event = 800054
-	AUS = { all_core = { add_core = GER } }
+    government = proletarian_dictatorship country_event = 800054
+    AUS = { all_core = { add_core = GER } }
   }
 }
 country_event = {
@@ -128,11 +128,11 @@ country_event = {
 
   option = {
     name = "EVT_8203010_A"
-	set_global_flag = neutral_austria
-	SUN = { military_access = THIS } 
-	GBR = { military_access = THIS } 
-	USA = { military_access = THIS } 
-	FRA = { military_access = THIS } 
+    set_global_flag = neutral_austria
+    SUN = { military_access = THIS }
+    GBR = { military_access = THIS }
+    USA = { military_access = THIS }
+    FRA = { military_access = THIS }
   }
 }
 country_event = {
@@ -144,7 +144,7 @@ country_event = {
 
   trigger = {
     tag = SUN
-	year = 1946 NOT = { year = 1963 }
+    year = 1946 NOT = { year = 1963 }
     has_global_flag = neutral_austria
   }
 
@@ -152,27 +152,27 @@ country_event = {
 
   option = {
     name = "EVT_8203011_A"
-	any_pop = { consciousness = 2 }
-	badboy = 1 
-	relation = { who = AUS value = -100 } 
-	ai_chance = { factor = 30 }
-	AUS = { country_event = 8203012 } 
+    any_pop = { consciousness = 2 }
+    badboy = 1
+    relation = { who = AUS value = -100 }
+    ai_chance = { factor = 30 }
+    AUS = { country_event = 8203012 }
   }
 
   option = {
     name = "EVT_8203011_B"
-	any_pop = { militancy = 1 }
-	badboy = 2 
-	relation = { who = AUS value = -250 } 
-	ai_chance = { factor = 35 }
-	AUS = { country_event = 8203012 } 
+    any_pop = { militancy = 1 }
+    badboy = 2
+    relation = { who = AUS value = -250 }
+    ai_chance = { factor = 35 }
+    AUS = { country_event = 8203012 }
   }
 
   option = {
     name = "EVT_8203011_C"
-	badboy = -1 
-	relation = { who = AUS value = 100 } 
-	ai_chance = { factor = 35 }
+    badboy = -1
+    relation = { who = AUS value = 100 }
+    ai_chance = { factor = 35 }
   }
 }
 country_event = {
@@ -184,8 +184,8 @@ country_event = {
 
   option = {
     name = "EVT_8203012_A"
-	any_pop = { militancy = 1.0 }
-	add_country_modifier = { name = great_depression duration = 365 }
+    any_pop = { militancy = 1.0 }
+    add_country_modifier = { name = great_depression duration = 365 }
   }
 }
 country_event = {
@@ -197,7 +197,7 @@ country_event = {
 
   trigger = {
     tag = SUN
-	year = 1954 NOT = { year = 1963 }
+    year = 1954 NOT = { year = 1963 }
     has_global_flag = neutral_austria
   }
 
@@ -205,19 +205,19 @@ country_event = {
 
   option = {
     name = "EVT_8203014_A"
-	badboy = -10 
-	relation = { who = AUS value = 100 } 
-	relation = { who = USA value = 50 } 
-	release = AUS
-	ai_chance = { factor = 100 }
+    badboy = -10
+    relation = { who = AUS value = 100 }
+    relation = { who = USA value = 50 }
+    release = AUS
+    ai_chance = { factor = 100 }
   }
 
   option = {
     name = "EVT_8203014_B"
-	any_pop = { militancy = 0.5 consciousness = 1 }
-	badboy = 10 
-	overlord = { country_event = 8203015 }
-	ai_chance = { factor = 0 }
+    any_pop = { militancy = 0.5 consciousness = 1 }
+    badboy = 10
+    overlord = { country_event = 8203015 }
+    ai_chance = { factor = 0 }
   }
 }
 country_event = {
@@ -229,8 +229,8 @@ country_event = {
 
   option = {
     name = "EVT_8203015_A"
-	any_pop = { militancy = -0.1 consciousness = 1 }
-	AUS = { country_event = 8203016 }
+    any_pop = { militancy = -0.1 consciousness = 1 }
+    AUS = { country_event = 8203016 }
   }
 }
 country_event = {
@@ -242,9 +242,9 @@ country_event = {
 
   option = {
     name = "EVT_8203016_A"
-	any_pop = { militancy = -2.0 consciousness = -2 }
-	overlord = { release_vassal = THIS } 
-	neutrality = yes
+    any_pop = { militancy = -2.0 consciousness = -2 }
+    overlord = { release_vassal = THIS }
+    neutrality = yes
   }
 }
 country_event = {
@@ -256,14 +256,14 @@ country_event = {
 
   trigger = {
     tag = AUS
-	year = 1954 NOT = { year = 1963 }
-	is_vassal = no
+    year = 1954 NOT = { year = 1963 }
+    is_vassal = no
   }
 
   mean_time_to_happen = { months = 8 }
 
   option = {
     name = "EVT_8203030_A"
-	add_country_modifier = { name = economic_boom duration = 365 }
+    add_country_modifier = { name = economic_boom duration = 365 }
   }
 }

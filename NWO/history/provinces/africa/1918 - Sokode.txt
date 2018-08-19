@@ -6,8 +6,8 @@ life_rating = 37
 terrain = dry_forest_hills
 colonial = 2
 1992.1.1 = {
-owner = TOG
-controller = TOG
-add_core = TOG
-colonial = 0
+  owner = TOG
+  controller = TOG
+  add_core = TOG
+  colonial = 0
 }

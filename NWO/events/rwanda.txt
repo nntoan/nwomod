@@ -7,219 +7,219 @@ country_event = { # Rwanda Independence
 
   trigger = {
     tag = BEL
-	OR = {
-		is_our_vassal = RWA
-		is_our_vassal = BRN
-	}
-	exists = COD
-	war = no
+    OR = {
+      is_our_vassal = RWA
+      is_our_vassal = BRN
+    }
+    exists = COD
+    war = no
   }
 
   mean_time_to_happen = { months = 24  }
 
   option = {
     name = EVT_8003300_A
-	prestige = 20
-	release_vassal = BRN
-	release_vassal = RWA
-	ai_chance = { factor = 100 }
+    prestige = 20
+    release_vassal = BRN
+    release_vassal = RWA
+    ai_chance = { factor = 100 }
   }
 }
 country_event = {
-	id = 1029501
-	title = "EVT_1029501_NAME"
-	desc = "EVT_1029501_DESC"
-	picture = "congo_war" 
-	
-	fire_only_once = yes
-	
-	trigger = {
-		tag = RWA
-		government = provisional_government
-		primary_culture = tutsi
-		year = 1991
-		COD = { NOT = { government = democracy } }
-	}
-	
-	mean_time_to_happen = {
-		months = 1
-	}
-	
-	option = {
-		name = "EVT_1029501_A" 
-		BRN = { country_event = 1029502 } # offer alliance
-		UGA = { country_event = 1029502 } # offer alliance
-		COD = { country_event = 1003301 } # support rebellion
-		trucks_vans = 200
-		treasury = 10000		
-		ai_chance = { factor = 100 }
-	}
-	
-	option = {
-		name = "EVT_1029501_B" # never mind
-		ai_chance = { factor = 0 }
-	}
-	
-}
-country_event = {
-	id = 1029502
-	title = "EVT_1029502_NAME" # Alliance with Rwanda
-	desc = "EVT_1029502_DESC"
-	picture = "congo_war" 
+  id = 1029501
+  title = "EVT_1029501_NAME"
+  desc = "EVT_1029501_DESC"
+  picture = "congo_war"
 
-	is_triggered_only = yes # UGA
-	
-	option = {
-		name = "EVT_1029502_A" # accept
-		relation = { who = RWA value = 100 }
-		relation = { who = COD value = -200 }
-		create_alliance = RWA
-		ai_chance = { factor = 100 }
-	}
-	option = {
-		name = "EVT_1029502_B"
-		prestige = -5
-		ai_chance = { factor = 0 }
-	}
+  fire_only_once = yes
+
+  trigger = {
+    tag = RWA
+    government = provisional_government
+    primary_culture = tutsi
+    year = 1991
+    COD = { NOT = { government = democracy } }
+  }
+
+  mean_time_to_happen = {
+    months = 1
+  }
+
+  option = {
+    name = "EVT_1029501_A"
+    BRN = { country_event = 1029502 } # offer alliance
+    UGA = { country_event = 1029502 } # offer alliance
+    COD = { country_event = 1003301 } # support rebellion
+    trucks_vans = 200
+    treasury = 10000
+    ai_chance = { factor = 100 }
+  }
+
+  option = {
+    name = "EVT_1029501_B" # never mind
+    ai_chance = { factor = 0 }
+  }
+
 }
 country_event = {
-	id = 1029503
-	title = "EVT_1029503_NAME"
-	desc = "EVT_1029503_DESC"
-	picture = "rwanda_habyarimana" 
-	
-	fire_only_once = yes
-	
-	trigger = { 
-		tag = RWA
-		year = 1973
-		NOT = { year = 1990 }
-		NOT = { government = populist_dictatorship }
-	}
-	
-	mean_time_to_happen = {
-		months = 1
-	}
-	
-	option = {
-		name = "EVT_1029503_A"
-		government = populist_dictatorship country_event = 800050
-		ai_chance = { factor = 100 }
-	}
-	
-	option = {
-		name = "EVT_1029503_B" # never mind
-		ai_chance = { factor = 0 }
-	}
-	
+  id = 1029502
+  title = "EVT_1029502_NAME" # Alliance with Rwanda
+  desc = "EVT_1029502_DESC"
+  picture = "congo_war"
+
+  is_triggered_only = yes # UGA
+
+  option = {
+    name = "EVT_1029502_A" # accept
+    relation = { who = RWA value = 100 }
+    relation = { who = COD value = -200 }
+    create_alliance = RWA
+    ai_chance = { factor = 100 }
+  }
+  option = {
+    name = "EVT_1029502_B"
+    prestige = -5
+    ai_chance = { factor = 0 }
+  }
 }
 country_event = {
-	id = 1029504
-	title = "EVT_1029504_NAME"
-	desc = "EVT_1029504_DESC"
-	picture = "rwanda_genocide" 
-	
-	fire_only_once = yes
-	
-	trigger = { 
-		tag = RWA
-		year = 1992
-		NOT = { year = 1996 }
-		government = populist_dictatorship
-	}
-	
-	mean_time_to_happen = {
-		months = 1
-	}
-	
-	option = {
-		name = "EVT_1029504_A"
-		government = provisional_government country_event = 800050
-		primary_culture = tutsi
-		any_pop = {
-			limit = { culture = tutsi }
-			reduce_pop = 0.9
-			}
-		any_pop = {
-			limit = { culture = hutu }
-			reduce_pop = 0.99
-			}
-		ai_chance = { factor = 100 }
-	}
-	
-	option = {
-		name = "EVT_1029504_B" # never mind
-		ai_chance = { factor = 0 }
-	}
-	
+  id = 1029503
+  title = "EVT_1029503_NAME"
+  desc = "EVT_1029503_DESC"
+  picture = "rwanda_habyarimana"
+
+  fire_only_once = yes
+
+  trigger = {
+    tag = RWA
+    year = 1973
+    NOT = { year = 1990 }
+    NOT = { government = populist_dictatorship }
+  }
+
+  mean_time_to_happen = {
+    months = 1
+  }
+
+  option = {
+    name = "EVT_1029503_A"
+    government = populist_dictatorship country_event = 800050
+    ai_chance = { factor = 100 }
+  }
+
+  option = {
+    name = "EVT_1029503_B" # never mind
+    ai_chance = { factor = 0 }
+  }
+
 }
 country_event = {
-	id = 1029505
-	title = "EVT_1029505_NAME"
-	desc = "EVT_1029505_DESC"
-	picture = "election_crowd" 
-	
-	fire_only_once = yes
-	
-	trigger = { 
-		tag = RWA
-		year = 2003
-		government = provisional_government
-		NOT = { government = democracy }
-	}
-	
-	mean_time_to_happen = {
-		months = 1
-	}
-	
-	option = {
-		name = "EVT_1029505_A"
-		government = democracy country_event = 800054
-		add_accepted_culture = hutu
-		ai_chance = { factor = 100 }
-	}
-	
-	option = {
-		name = "EVT_1029504_B" # never mind
-		any_pop = {
-			militancy = 4 consciousness = 2
-			}
-		badboy = 3	
-		ai_chance = { factor = 0 }
-	}
-	
+  id = 1029504
+  title = "EVT_1029504_NAME"
+  desc = "EVT_1029504_DESC"
+  picture = "rwanda_genocide"
+
+  fire_only_once = yes
+
+  trigger = {
+    tag = RWA
+    year = 1992
+    NOT = { year = 1996 }
+    government = populist_dictatorship
+  }
+
+  mean_time_to_happen = {
+    months = 1
+  }
+
+  option = {
+    name = "EVT_1029504_A"
+    government = provisional_government country_event = 800050
+    primary_culture = tutsi
+    any_pop = {
+      limit = { culture = tutsi }
+      reduce_pop = 0.9
+    }
+    any_pop = {
+      limit = { culture = hutu }
+      reduce_pop = 0.99
+    }
+    ai_chance = { factor = 100 }
+  }
+
+  option = {
+    name = "EVT_1029504_B" # never mind
+    ai_chance = { factor = 0 }
+  }
+
+}
+country_event = {
+  id = 1029505
+  title = "EVT_1029505_NAME"
+  desc = "EVT_1029505_DESC"
+  picture = "election_crowd"
+
+  fire_only_once = yes
+
+  trigger = {
+    tag = RWA
+    year = 2003
+    government = provisional_government
+    NOT = { government = democracy }
+  }
+
+  mean_time_to_happen = {
+    months = 1
+  }
+
+  option = {
+    name = "EVT_1029505_A"
+    government = democracy country_event = 800054
+    add_accepted_culture = hutu
+    ai_chance = { factor = 100 }
+  }
+
+  option = {
+    name = "EVT_1029504_B" # never mind
+    any_pop = {
+      militancy = 4 consciousness = 2
+    }
+    badboy = 3
+    ai_chance = { factor = 0 }
+  }
+
 }
 
 country_event = {
-	id = 1029506
-	title = "EVT_1029506_NAME"
-	desc = "EVT_1029506_DESC"
-	picture = "rwanda_independence" 
-	fire_only_once = yes
-	
-	trigger = { 
-		OR = {
-			AND = { tag = BRN government = absolute_monarchy }
-			AND = { tag = RWA government = absolute_monarchy }
-		}
-		NOT = { government = democracy }
-		is_vassal = no
-	}
-	
-	mean_time_to_happen = {
-		months = 1
-	}
-	
-	option = {
-		name = "EVT_1029505_A"
-		government = democracy country_event = 800054
-		primary_culture = hutu
-		ai_chance = { factor = 1 modifier = { tag = RWA factor = 10 } }
-	}
-	option = {
-		name = "EVT_1029505_A"
-		government = hms_government country_event = 800054
-		any_pop = { limit = { culture = hutu } militancy = 8 }
-		ai_chance = { factor = 1 modifier = { tag = BRN factor = 10 } }
-	}
+  id = 1029506
+  title = "EVT_1029506_NAME"
+  desc = "EVT_1029506_DESC"
+  picture = "rwanda_independence"
+  fire_only_once = yes
+
+  trigger = {
+    OR = {
+      AND = { tag = BRN government = absolute_monarchy }
+      AND = { tag = RWA government = absolute_monarchy }
+    }
+    NOT = { government = democracy }
+    is_vassal = no
+  }
+
+  mean_time_to_happen = {
+    months = 1
+  }
+
+  option = {
+    name = "EVT_1029505_A"
+    government = democracy country_event = 800054
+    primary_culture = hutu
+    ai_chance = { factor = 1 modifier = { tag = RWA factor = 10 } }
+  }
+  option = {
+    name = "EVT_1029505_A"
+    government = hms_government country_event = 800054
+    any_pop = { limit = { culture = hutu } militancy = 8 }
+    ai_chance = { factor = 1 modifier = { tag = BRN factor = 10 } }
+  }
 }

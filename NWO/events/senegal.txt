@@ -8,32 +8,32 @@ country_event = { # Independence of Gambia
   trigger = {
     tag = GBR
     year = 1962 NOT = { year = 1990 }
-	owns = 1785 # Banjul
-	NOT = { exists = GAM }
-	OR = { year = 1971 exists = GHA }
-	GHA = { is_vassal = no }
+    owns = 1785 # Banjul
+    NOT = { exists = GAM }
+    OR = { year = 1971 exists = GHA }
+    GHA = { is_vassal = no }
   }
 
   mean_time_to_happen = { months = 2 }
 
   option = {
     name = EVT_8009300_A
-	prestige = 10
-	release = GAM
-	diplomatic_influence = { who = GAM value = 200 } 
-	create_alliance = GAM
-	ai_chance = { factor = 100 }
+    prestige = 10
+    release = GAM
+    diplomatic_influence = { who = GAM value = 200 }
+    create_alliance = GAM
+    ai_chance = { factor = 100 }
   }
-  
+
   option = {
     name = EVT_8009300_B
-	prestige = -10
-	badboy = 1
-	any_pop = { limit = { location = { continent = africa }  } militancy = 8 consciousness = 5.0 }
-	# TODO GAM UDI
-	ai_chance = { factor = 0 }
+    prestige = -10
+    badboy = 1
+    any_pop = { limit = { location = { continent = africa }  } militancy = 8 consciousness = 5.0 }
+    # TODO GAM UDI
+    ai_chance = { factor = 0 }
   }
-  
+
 }
 
 country_event = {
@@ -51,23 +51,23 @@ country_event = {
   mean_time_to_happen = { months = 2 }
 
   option = {
-    name = EVT_8009301_A 
-	prestige = -5
-	any_pop = {
-		limit = {
-			culture = jola
-		}
-		consciousness = 5
-		militancy = 8
-	}
-	ai_chance = { factor = 100 }
+    name = EVT_8009301_A
+    prestige = -5
+    any_pop = {
+      limit = {
+        culture = jola
+      }
+      consciousness = 5
+      militancy = 8
+    }
+    ai_chance = { factor = 100 }
   }
 
   option = {
     name = EVT_8009301_B
-	prestige = 5
-	release = CSM
-	ai_chance = { factor = 0 }
+    prestige = 5
+    release = CSM
+    ai_chance = { factor = 0 }
   }
 }
 
@@ -81,24 +81,24 @@ country_event = {
   trigger = {
     tag = SEN
     year = 2014 NOT = { year = 2015 }
-	NOT = { exists = CSM }
-    any_owned_province = { province_id = 1792 } 
+    NOT = { exists = CSM }
+    any_owned_province = { province_id = 1792 }
   }
 
   mean_time_to_happen = { months = 5 }
 
   option = {
-    name = EVT_8009302_A 
-	prestige = 5
-	any_pop = { militancy = -5.0 consciousness = -3 }
-	ai_chance = { factor = 100 }
+    name = EVT_8009302_A
+    prestige = 5
+    any_pop = { militancy = -5.0 consciousness = -3 }
+    ai_chance = { factor = 100 }
   }
 
   option = {
     name = EVT_8009302_B
-	prestige = -5
-	any_pop = { militancy = 3.0 consciousness = 2 }
-	ai_chance = { factor = 0 }
+    prestige = -5
+    any_pop = { militancy = 3.0 consciousness = 2 }
+    ai_chance = { factor = 0 }
   }
 }
 #Transferred from the Cold War Enhancement mod by settintotrieste
@@ -184,6 +184,6 @@ country_event = {
     add_country_modifier = { name = national_confusion duration = 3650 }
     release_vassal = GAM
     war = { target = GAM attacker_goal = { casus_belli = make_puppet } defender_goal = { casus_belli = become_independent } call_ally = no }
-	ai_chance = { factor = 0.2 }
+    ai_chance = { factor = 0.2 }
   }
 }

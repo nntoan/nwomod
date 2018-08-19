@@ -7,9 +7,9 @@ life_rating = 34
 terrain = hilly_farmland
 colonial = 0
 1992.1.1 = {
-owner = HND
-controller = HND
-add_core = HND
-add_core = NAX
-colonial = 0
+  owner = HND
+  controller = HND
+  add_core = HND
+  add_core = NAX
+  colonial = 0
 }

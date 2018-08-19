@@ -8,10 +8,10 @@ railroad = 1
 colonial = 2
 naval_base = 3
 1992.1.1 = {
-owner = GBR
-controller = GBR
-add_core = GBR
-railroad = 2
-colonial = 0
-naval_base = 4
+  owner = GBR
+  controller = GBR
+  add_core = GBR
+  railroad = 2
+  colonial = 0
+  naval_base = 4
 }

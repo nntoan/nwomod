@@ -1,85 +1,85 @@
 # either group dictatorship
 presidential_dictatorship =
 {
-	conservative = yes
-	big_tent = yes
-	election = yes
-	duration = 90
-	appoint_ruling_party = yes
+  conservative = yes
+  big_tent = yes
+  election = yes
+  duration = 90
+  appoint_ruling_party = yes
 }
 # left_group dictatorship
 proletarian_dictatorship =
 {
-	communist = yes
-	election = no
-	appoint_ruling_party = yes
-	flagType = communist
+  communist = yes
+  election = no
+  appoint_ruling_party = yes
+  flagType = communist
 }
 provisional_government =
 {
-	populist = yes	
-	conservative = yes
-	big_tent = yes
-	communist = yes
-	election = yes 
-	duration = 600
-	appoint_ruling_party = yes
-	flagType = special
+  populist = yes
+  conservative = yes
+  big_tent = yes
+  communist = yes
+  election = yes
+  duration = 600
+  appoint_ruling_party = yes
+  flagType = special
 }
 # rigth_group dictatorship
 theocracy =
 {
-	conservative = yes
-	traditionalist = yes	
-	election = yes
-	duration = 48
-	appoint_ruling_party = yes
-	flagType = theocracy
+  conservative = yes
+  traditionalist = yes
+  election = yes
+  duration = 48
+  appoint_ruling_party = yes
+  flagType = theocracy
 }
 populist_dictatorship =
 {
-	populist = yes	
-	conservative = yes
-	big_tent = yes
-	communist = yes
-	election = yes # will be triggered by a new leader 100080127
-	duration = 600
-	appoint_ruling_party = yes
-	flagType = populist
+  populist = yes
+  conservative = yes
+  big_tent = yes
+  communist = yes
+  election = yes # will be triggered by a new leader 100080127
+  duration = 600
+  appoint_ruling_party = yes
+  flagType = populist
 }
 absolute_monarchy = {
-	conservative = yes
-	big_tent = yes
-	traditionalist = yes
-	election = no
-	appoint_ruling_party = yes
-	flagType = realm
+  conservative = yes
+  big_tent = yes
+  traditionalist = yes
+  election = no
+  appoint_ruling_party = yes
+  flagType = realm
 }
 # democracy
 hms_government = {
-	progressive = yes
-	liberal = yes
-	conservative = yes
-	big_tent = yes
-	socialist = yes
-	communist = yes
-	populist = yes
-	traditionalist = yes
-	election = yes
-	duration = 48
-	appoint_ruling_party = no
-	flagType = realm
+  progressive = yes
+  liberal = yes
+  conservative = yes
+  big_tent = yes
+  socialist = yes
+  communist = yes
+  populist = yes
+  traditionalist = yes
+  election = yes
+  duration = 48
+  appoint_ruling_party = no
+  flagType = realm
 }
 democracy = {
-	progressive = yes
-	liberal = yes
-	conservative = yes
-	big_tent = yes
-	socialist = yes
-	populist = yes
-	communist = yes
-	traditionalist = yes
-	election = yes
-	duration = 48
-	appoint_ruling_party = no
+  progressive = yes
+  liberal = yes
+  conservative = yes
+  big_tent = yes
+  socialist = yes
+  populist = yes
+  communist = yes
+  traditionalist = yes
+  election = yes
+  duration = 48
+  appoint_ruling_party = no
 }

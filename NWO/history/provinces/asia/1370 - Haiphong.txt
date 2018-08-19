@@ -6,8 +6,8 @@ life_rating = 34
 terrain = good_farmland
 colonial = 0
 1992.1.1 = {
-owner = VNM
-controller = VNM
-add_core = VNM
-colonial = 0
+  owner = VNM
+  controller = VNM
+  add_core = VNM
+  colonial = 0
 }

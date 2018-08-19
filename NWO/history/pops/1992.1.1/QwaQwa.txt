@@ -1,23 +1,23 @@
 #Chokurdakh - QwaQwa (287000/71750 POPS)
 2665 = {
-	clergymen = {
-		culture = sotho
-		religion =  protestant 
-		size = 574
-	 } 
-	clergymen = {
-		culture = sotho
-		religion = secularism
-		size = 861
-	 } 
-	farmers = {
-		culture = sotho
-		religion =  protestant 
-		size = 28126
-	 } 
-	farmers = {
-		culture = sotho
-		religion = secularism
-		size = 42189
-	 } 
+  clergymen = {
+    culture = sotho
+    religion =  protestant
+    size = 574
+  }
+  clergymen = {
+    culture = sotho
+    religion = secularism
+    size = 861
+  }
+  farmers = {
+    culture = sotho
+    religion =  protestant
+    size = 28126
+  }
+  farmers = {
+    culture = sotho
+    religion = secularism
+    size = 42189
+  }
 }

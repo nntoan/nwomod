@@ -1,49 +1,49 @@
 #Dalbandin - Dalbandin (120000/30000 POPS)
 1220 = {
-	farmers = {
-		culture = baluchi
-		religion =  sunni 
-		size = 14400
-	 } 
-	farmers = {
-		culture = pashtun
-		religion =  sunni 
-		size = 15000
-	 } 
+  farmers = {
+    culture = baluchi
+    religion =  sunni
+    size = 14400
+  }
+  farmers = {
+    culture = pashtun
+    religion =  sunni
+    size = 15000
+  }
 }
 #Kalat - Kalat (723000/180750 POPS)
 1221 = {
-	soldiers = {
-		culture = baluchi
-		religion =  sunni 
-		size = 2861
-	 } 
-	aristocrats = {
-		culture = baluchi
-		religion =  sunni 
-		size = 7230
-	 } 
-	clergymen = {
-		culture = baluchi
-		religion =  sunni 
-		size = 3615
-	 } 
-	farmers = {
-		culture = baluchi
-		religion =  sunni 
-		size = 166084
-	 } 
+  soldiers = {
+    culture = baluchi
+    religion =  sunni
+    size = 2861
+  }
+  aristocrats = {
+    culture = baluchi
+    religion =  sunni
+    size = 7230
+  }
+  clergymen = {
+    culture = baluchi
+    religion =  sunni
+    size = 3615
+  }
+  farmers = {
+    culture = baluchi
+    religion =  sunni
+    size = 166084
+  }
 }
 #Bela - Bela (361000/90250 POPS)
 1222 = {
-	clergymen = {
-		culture = baluchi
-		religion =  sunni 
-		size = 1805
-	 } 
-	farmers = {
-		culture = baluchi
-		religion =  sunni 
-		size = 88445
-	 } 
+  clergymen = {
+    culture = baluchi
+    religion =  sunni
+    size = 1805
+  }
+  farmers = {
+    culture = baluchi
+    religion =  sunni
+    size = 88445
+  }
 }

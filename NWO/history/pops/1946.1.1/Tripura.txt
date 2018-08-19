@@ -1,48 +1,48 @@
 #Tripura - Tripura (1752000/438000 POPS)
 3280 = {
-	clergymen = {
-		culture = tripuri
-		religion =  hindu 
-		size = 8562
-	 } 
-	clergymen = {
-		culture = tripuri
-		religion = secularism
-		size = 197
-	 } 
-	farmers = {
-		culture = tripuri
-		religion =  hindu 
-		size = 107036
-	 } 
-	farmers = {
-		culture = tripuri
-		religion = secularism
-		size = 2463
-	 } 
-	farmers = {
-		culture = asian_minor
-		religion =  protestant 
-		size = 29970
-	 } 
-	farmers = {
-		culture = asian_minor
-		religion = secularism
-		size = 689
-	 } 
-	farmers = {
-		culture = bengali_hindu
-		religion =  hindu 
-		size = 248323
-	 } 
-	farmers = {
-		culture = bengali_hindu
-		religion = secularism
-		size = 5715
-	 } 
-	farmers = {
-		culture = bengali
-		religion =  sunni 
-		size = 35040
-	 } 
+  clergymen = {
+    culture = tripuri
+    religion =  hindu
+    size = 8562
+  }
+  clergymen = {
+    culture = tripuri
+    religion = secularism
+    size = 197
+  }
+  farmers = {
+    culture = tripuri
+    religion =  hindu
+    size = 107036
+  }
+  farmers = {
+    culture = tripuri
+    religion = secularism
+    size = 2463
+  }
+  farmers = {
+    culture = asian_minor
+    religion =  protestant
+    size = 29970
+  }
+  farmers = {
+    culture = asian_minor
+    religion = secularism
+    size = 689
+  }
+  farmers = {
+    culture = bengali_hindu
+    religion =  hindu
+    size = 248323
+  }
+  farmers = {
+    culture = bengali_hindu
+    religion = secularism
+    size = 5715
+  }
+  farmers = {
+    culture = bengali
+    religion =  sunni
+    size = 35040
+  }
 }

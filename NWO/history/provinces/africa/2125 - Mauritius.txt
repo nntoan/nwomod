@@ -6,8 +6,8 @@ life_rating = 31
 terrain = hilly_farmland
 colonial = 2
 1992.1.1 = {
-owner = MRT
-controller = MRT
-add_core = MRT
-colonial = 0
+  owner = MRT
+  controller = MRT
+  add_core = MRT
+  colonial = 0
 }

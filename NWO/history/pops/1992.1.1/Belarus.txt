@@ -1,582 +1,582 @@
 #Minsk - Minsk (2683000/670750 POPS)
 718 = {
-	capitalists = {
-		culture = jewish
-		religion =  jewish 
-		size = 1609
-	 } 
-	capitalists = {
-		culture = jewish
-		religion = secularism
-		size = 2414
-	 } 
-	officers = {
-		culture = byelorussian
-		religion =  orthodox 
-		size = 10563
-	 } 
-	officers = {
-		culture = byelorussian
-		religion = secularism
-		size = 15845
-	 } 
-	soldiers = {
-		culture = byelorussian
-		religion =  orthodox 
-		size = 145050
-	 } 
-	soldiers = {
-		culture = byelorussian
-		religion = secularism
-		size = 217575
-	 } 
-	soldiers = {
-		culture = jewish
-		religion =  jewish 
-		size = 25220
-	 } 
-	soldiers = {
-		culture = jewish
-		religion = secularism
-		size = 37830
-	 } 
-	soldiers = {
-		culture = russian
-		religion =  orthodox 
-		size = 30441
-	 } 
-	soldiers = {
-		culture = russian
-		religion = secularism
-		size = 45661
-	 } 
-	aristocrats = {
-		culture = russian
-		religion =  orthodox 
-		size = 9390
-	 } 
-	aristocrats = {
-		culture = russian
-		religion = secularism
-		size = 14085
-	 } 
-	bureaucrats = {
-		culture = russian
-		religion =  orthodox 
-		size = 1073
-	 } 
-	bureaucrats = {
-		culture = russian
-		religion = secularism
-		size = 1609
-	 } 
-	clergymen = {
-		culture = russian
-		religion =  orthodox 
-		size = 5366
-	 } 
-	clergymen = {
-		culture = russian
-		religion = secularism
-		size = 8049
-	 } 
-	clerks = {
-		culture = russian
-		religion =  orthodox 
-		size = 1599
-	 } 
-	clerks = {
-		culture = russian
-		religion = secularism
-		size = 2398
-	 } 
-	artisans = {
-		culture = russian
-		religion =  orthodox 
-		size = 1519
-	 } 
-	artisans = {
-		culture = russian
-		religion = secularism
-		size = 2278
-	 } 
-	craftsmen = {
-		culture = russian
-		religion =  orthodox 
-		size = 4798
-	 } 
-	craftsmen = {
-		culture = russian
-		religion = secularism
-		size = 7197
-	 } 
-	farmers = {
-		culture = russian
-		religion =  orthodox 
-		size = 31668
-	 } 
-	farmers = {
-		culture = russian
-		religion = secularism
-		size = 47502
-	 } 
+  capitalists = {
+    culture = jewish
+    religion =  jewish
+    size = 1609
+  }
+  capitalists = {
+    culture = jewish
+    religion = secularism
+    size = 2414
+  }
+  officers = {
+    culture = byelorussian
+    religion =  orthodox
+    size = 10563
+  }
+  officers = {
+    culture = byelorussian
+    religion = secularism
+    size = 15845
+  }
+  soldiers = {
+    culture = byelorussian
+    religion =  orthodox
+    size = 145050
+  }
+  soldiers = {
+    culture = byelorussian
+    religion = secularism
+    size = 217575
+  }
+  soldiers = {
+    culture = jewish
+    religion =  jewish
+    size = 25220
+  }
+  soldiers = {
+    culture = jewish
+    religion = secularism
+    size = 37830
+  }
+  soldiers = {
+    culture = russian
+    religion =  orthodox
+    size = 30441
+  }
+  soldiers = {
+    culture = russian
+    religion = secularism
+    size = 45661
+  }
+  aristocrats = {
+    culture = russian
+    religion =  orthodox
+    size = 9390
+  }
+  aristocrats = {
+    culture = russian
+    religion = secularism
+    size = 14085
+  }
+  bureaucrats = {
+    culture = russian
+    religion =  orthodox
+    size = 1073
+  }
+  bureaucrats = {
+    culture = russian
+    religion = secularism
+    size = 1609
+  }
+  clergymen = {
+    culture = russian
+    religion =  orthodox
+    size = 5366
+  }
+  clergymen = {
+    culture = russian
+    religion = secularism
+    size = 8049
+  }
+  clerks = {
+    culture = russian
+    religion =  orthodox
+    size = 1599
+  }
+  clerks = {
+    culture = russian
+    religion = secularism
+    size = 2398
+  }
+  artisans = {
+    culture = russian
+    religion =  orthodox
+    size = 1519
+  }
+  artisans = {
+    culture = russian
+    religion = secularism
+    size = 2278
+  }
+  craftsmen = {
+    culture = russian
+    religion =  orthodox
+    size = 4798
+  }
+  craftsmen = {
+    culture = russian
+    religion = secularism
+    size = 7197
+  }
+  farmers = {
+    culture = russian
+    religion =  orthodox
+    size = 31668
+  }
+  farmers = {
+    culture = russian
+    religion = secularism
+    size = 47502
+  }
 }
 #Grodno - Grodno (429000/107250 POPS)
 936 = {
-	officers = {
-		culture = byelorussian
-		religion =  orthodox 
-		size = 5630
-	 } 
-	officers = {
-		culture = byelorussian
-		religion = secularism
-		size = 8445
-	 } 
-	soldiers = {
-		culture = byelorussian
-		religion =  orthodox 
-		size = 15820
-	 } 
-	soldiers = {
-		culture = byelorussian
-		religion = secularism
-		size = 23730
-	 } 
-	soldiers = {
-		culture = russian
-		religion =  orthodox 
-		size = 4290
-	 } 
-	soldiers = {
-		culture = russian
-		religion = secularism
-		size = 6435
-	 } 
-	soldiers = {
-		culture = polish
-		religion =  catholic 
-		size = 17160
-	 } 
-	soldiers = {
-		culture = polish
-		religion = secularism
-		size = 25740
-	 } 
+  officers = {
+    culture = byelorussian
+    religion =  orthodox
+    size = 5630
+  }
+  officers = {
+    culture = byelorussian
+    religion = secularism
+    size = 8445
+  }
+  soldiers = {
+    culture = byelorussian
+    religion =  orthodox
+    size = 15820
+  }
+  soldiers = {
+    culture = byelorussian
+    religion = secularism
+    size = 23730
+  }
+  soldiers = {
+    culture = russian
+    religion =  orthodox
+    size = 4290
+  }
+  soldiers = {
+    culture = russian
+    religion = secularism
+    size = 6435
+  }
+  soldiers = {
+    culture = polish
+    religion =  catholic
+    size = 17160
+  }
+  soldiers = {
+    culture = polish
+    religion = secularism
+    size = 25740
+  }
 }
 #Brest - Brest (752000/188000 POPS)
 937 = {
-	clergymen = {
-		culture = byelorussian
-		religion =  orthodox 
-		size = 1504
-	 } 
-	clergymen = {
-		culture = byelorussian
-		religion = secularism
-		size = 2256
-	 } 
-	farmers = {
-		culture = byelorussian
-		religion =  orthodox 
-		size = 32336
-	 } 
-	farmers = {
-		culture = byelorussian
-		religion = secularism
-		size = 48504
-	 } 
-	farmers = {
-		culture = russian
-		religion =  orthodox 
-		size = 24064
-	 } 
-	farmers = {
-		culture = russian
-		religion = secularism
-		size = 36096
-	 } 
-	farmers = {
-		culture = ukrainian
-		religion =  orthodox 
-		size = 17296
-	 } 
-	farmers = {
-		culture = ukrainian
-		religion = secularism
-		size = 25944
-	 } 
+  clergymen = {
+    culture = byelorussian
+    religion =  orthodox
+    size = 1504
+  }
+  clergymen = {
+    culture = byelorussian
+    religion = secularism
+    size = 2256
+  }
+  farmers = {
+    culture = byelorussian
+    religion =  orthodox
+    size = 32336
+  }
+  farmers = {
+    culture = byelorussian
+    religion = secularism
+    size = 48504
+  }
+  farmers = {
+    culture = russian
+    religion =  orthodox
+    size = 24064
+  }
+  farmers = {
+    culture = russian
+    religion = secularism
+    size = 36096
+  }
+  farmers = {
+    culture = ukrainian
+    religion =  orthodox
+    size = 17296
+  }
+  farmers = {
+    culture = ukrainian
+    religion = secularism
+    size = 25944
+  }
 }
 #Lida - Grodno (291000/72750 POPS)
 938 = {
-	clergymen = {
-		culture = byelorussian
-		religion =  orthodox 
-		size = 582
-	 } 
-	clergymen = {
-		culture = byelorussian
-		religion = secularism
-		size = 873
-	 } 
-	farmers = {
-		culture = byelorussian
-		religion =  orthodox 
-		size = 18042
-	 } 
-	farmers = {
-		culture = byelorussian
-		religion = secularism
-		size = 27063
-	 } 
-	farmers = {
-		culture = russian
-		religion =  orthodox 
-		size = 10476
-	 } 
-	farmers = {
-		culture = russian
-		religion = secularism
-		size = 15714
-	 } 
+  clergymen = {
+    culture = byelorussian
+    religion =  orthodox
+    size = 582
+  }
+  clergymen = {
+    culture = byelorussian
+    religion = secularism
+    size = 873
+  }
+  farmers = {
+    culture = byelorussian
+    religion =  orthodox
+    size = 18042
+  }
+  farmers = {
+    culture = byelorussian
+    religion = secularism
+    size = 27063
+  }
+  farmers = {
+    culture = russian
+    religion =  orthodox
+    size = 10476
+  }
+  farmers = {
+    culture = russian
+    religion = secularism
+    size = 15714
+  }
 }
 #Baranovichi - Grodno (429000/107250 POPS)
 939 = {
-	clergymen = {
-		culture = byelorussian
-		religion =  orthodox 
-		size = 858
-	 } 
-	clergymen = {
-		culture = byelorussian
-		religion = secularism
-		size = 1287
-	 } 
-	farmers = {
-		culture = byelorussian
-		religion =  orthodox 
-		size = 17160
-	 } 
-	farmers = {
-		culture = byelorussian
-		religion = secularism
-		size = 25740
-	 } 
-	farmers = {
-		culture = russian
-		religion =  orthodox 
-		size = 9866
-	 } 
-	farmers = {
-		culture = russian
-		religion = secularism
-		size = 14800
-	 } 
-	farmers = {
-		culture = polish
-		religion =  catholic 
-		size = 15014
-	 } 
-	farmers = {
-		culture = polish
-		religion = secularism
-		size = 22522
-	 } 
+  clergymen = {
+    culture = byelorussian
+    religion =  orthodox
+    size = 858
+  }
+  clergymen = {
+    culture = byelorussian
+    religion = secularism
+    size = 1287
+  }
+  farmers = {
+    culture = byelorussian
+    religion =  orthodox
+    size = 17160
+  }
+  farmers = {
+    culture = byelorussian
+    religion = secularism
+    size = 25740
+  }
+  farmers = {
+    culture = russian
+    religion =  orthodox
+    size = 9866
+  }
+  farmers = {
+    culture = russian
+    religion = secularism
+    size = 14800
+  }
+  farmers = {
+    culture = polish
+    religion =  catholic
+    size = 15014
+  }
+  farmers = {
+    culture = polish
+    religion = secularism
+    size = 22522
+  }
 }
 #Pinsk - Brest (751000/187750 POPS)
 940 = {
-	clergymen = {
-		culture = russian
-		religion =  orthodox 
-		size = 1502
-	 } 
-	clergymen = {
-		culture = russian
-		religion = secularism
-		size = 2253
-	 } 
-	farmers = {
-		culture = russian
-		religion =  orthodox 
-		size = 29288
-	 } 
-	farmers = {
-		culture = russian
-		religion = secularism
-		size = 43933
-	 } 
-	farmers = {
-		culture = ukrainian
-		religion =  orthodox 
-		size = 44308
-	 } 
-	farmers = {
-		culture = ukrainian
-		religion = secularism
-		size = 66463
-	 } 
+  clergymen = {
+    culture = russian
+    religion =  orthodox
+    size = 1502
+  }
+  clergymen = {
+    culture = russian
+    religion = secularism
+    size = 2253
+  }
+  farmers = {
+    culture = russian
+    religion =  orthodox
+    size = 29288
+  }
+  farmers = {
+    culture = russian
+    religion = secularism
+    size = 43933
+  }
+  farmers = {
+    culture = ukrainian
+    religion =  orthodox
+    size = 44308
+  }
+  farmers = {
+    culture = ukrainian
+    religion = secularism
+    size = 66463
+  }
 }
 #Slutsk - Minsk (913000/228250 POPS)
 941 = {
-	clergymen = {
-		culture = byelorussian
-		religion =  orthodox 
-		size = 1826
-	 } 
-	clergymen = {
-		culture = byelorussian
-		religion = secularism
-		size = 2739
-	 } 
-	farmers = {
-		culture = byelorussian
-		religion =  orthodox 
-		size = 51128
-	 } 
-	farmers = {
-		culture = byelorussian
-		religion = secularism
-		size = 76692
-	 } 
-	farmers = {
-		culture = russian
-		religion =  orthodox 
-		size = 38346
-	 } 
-	farmers = {
-		culture = russian
-		religion = secularism
-		size = 57519
-	 } 
+  clergymen = {
+    culture = byelorussian
+    religion =  orthodox
+    size = 1826
+  }
+  clergymen = {
+    culture = byelorussian
+    religion = secularism
+    size = 2739
+  }
+  farmers = {
+    culture = byelorussian
+    religion =  orthodox
+    size = 51128
+  }
+  farmers = {
+    culture = byelorussian
+    religion = secularism
+    size = 76692
+  }
+  farmers = {
+    culture = russian
+    religion =  orthodox
+    size = 38346
+  }
+  farmers = {
+    culture = russian
+    religion = secularism
+    size = 57519
+  }
 }
 #Mozyr - Gomel (472000/118000 POPS)
 942 = {
-	clergymen = {
-		culture = byelorussian
-		religion =  orthodox 
-		size = 944
-	 } 
-	clergymen = {
-		culture = byelorussian
-		religion = secularism
-		size = 1416
-	 } 
-	farmers = {
-		culture = byelorussian
-		religion =  orthodox 
-		size = 30680
-	 } 
-	farmers = {
-		culture = byelorussian
-		religion = secularism
-		size = 46020
-	 } 
-	farmers = {
-		culture = russian
-		religion =  orthodox 
-		size = 15576
-	 } 
-	farmers = {
-		culture = russian
-		religion = secularism
-		size = 23364
-	 } 
+  clergymen = {
+    culture = byelorussian
+    religion =  orthodox
+    size = 944
+  }
+  clergymen = {
+    culture = byelorussian
+    religion = secularism
+    size = 1416
+  }
+  farmers = {
+    culture = byelorussian
+    religion =  orthodox
+    size = 30680
+  }
+  farmers = {
+    culture = byelorussian
+    religion = secularism
+    size = 46020
+  }
+  farmers = {
+    culture = russian
+    religion =  orthodox
+    size = 15576
+  }
+  farmers = {
+    culture = russian
+    religion = secularism
+    size = 23364
+  }
 }
 #Orsha - Mogilev (546000/136500 POPS)
 944 = {
-	clergymen = {
-		culture = byelorussian
-		religion =  orthodox 
-		size = 1092
-	 } 
-	clergymen = {
-		culture = byelorussian
-		religion = secularism
-		size = 1638
-	 } 
-	farmers = {
-		culture = byelorussian
-		religion =  orthodox 
-		size = 30576
-	 } 
-	farmers = {
-		culture = byelorussian
-		religion = secularism
-		size = 45864
-	 } 
-	farmers = {
-		culture = russian
-		religion =  orthodox 
-		size = 22932
-	 } 
-	farmers = {
-		culture = russian
-		religion = secularism
-		size = 34398
-	 } 
+  clergymen = {
+    culture = byelorussian
+    religion =  orthodox
+    size = 1092
+  }
+  clergymen = {
+    culture = byelorussian
+    religion = secularism
+    size = 1638
+  }
+  farmers = {
+    culture = byelorussian
+    religion =  orthodox
+    size = 30576
+  }
+  farmers = {
+    culture = byelorussian
+    religion = secularism
+    size = 45864
+  }
+  farmers = {
+    culture = russian
+    religion =  orthodox
+    size = 22932
+  }
+  farmers = {
+    culture = russian
+    religion = secularism
+    size = 34398
+  }
 }
 #Vitebsk - Vitebsk (440000/110000 POPS)
 945 = {
-	clergymen = {
-		culture = byelorussian
-		religion =  orthodox 
-		size = 880
-	 } 
-	clergymen = {
-		culture = byelorussian
-		religion = secularism
-		size = 1320
-	 } 
-	farmers = {
-		culture = byelorussian
-		religion =  orthodox 
-		size = 25520
-	 } 
-	farmers = {
-		culture = byelorussian
-		religion = secularism
-		size = 38280
-	 } 
-	farmers = {
-		culture = russian
-		religion =  orthodox 
-		size = 17600
-	 } 
-	farmers = {
-		culture = russian
-		religion = secularism
-		size = 26400
-	 } 
+  clergymen = {
+    culture = byelorussian
+    religion =  orthodox
+    size = 880
+  }
+  clergymen = {
+    culture = byelorussian
+    religion = secularism
+    size = 1320
+  }
+  farmers = {
+    culture = byelorussian
+    religion =  orthodox
+    size = 25520
+  }
+  farmers = {
+    culture = byelorussian
+    religion = secularism
+    size = 38280
+  }
+  farmers = {
+    culture = russian
+    religion =  orthodox
+    size = 17600
+  }
+  farmers = {
+    culture = russian
+    religion = secularism
+    size = 26400
+  }
 }
 #Polotsk - Vitebsk (440000/110000 POPS)
 946 = {
-	clergymen = {
-		culture = byelorussian
-		religion =  orthodox 
-		size = 880
-	 } 
-	clergymen = {
-		culture = byelorussian
-		religion = secularism
-		size = 1320
-	 } 
-	farmers = {
-		culture = byelorussian
-		religion =  orthodox 
-		size = 23760
-	 } 
-	farmers = {
-		culture = byelorussian
-		religion = secularism
-		size = 35640
-	 } 
-	farmers = {
-		culture = russian
-		religion =  orthodox 
-		size = 19360
-	 } 
-	farmers = {
-		culture = russian
-		religion = secularism
-		size = 29040
-	 } 
+  clergymen = {
+    culture = byelorussian
+    religion =  orthodox
+    size = 880
+  }
+  clergymen = {
+    culture = byelorussian
+    religion = secularism
+    size = 1320
+  }
+  farmers = {
+    culture = byelorussian
+    religion =  orthodox
+    size = 23760
+  }
+  farmers = {
+    culture = byelorussian
+    religion = secularism
+    size = 35640
+  }
+  farmers = {
+    culture = russian
+    religion =  orthodox
+    size = 19360
+  }
+  farmers = {
+    culture = russian
+    religion = secularism
+    size = 29040
+  }
 }
 #Pastavy - Vitebsk (440000/110000 POPS)
 947 = {
-	clergymen = {
-		culture = byelorussian
-		religion =  orthodox 
-		size = 880
-	 } 
-	clergymen = {
-		culture = byelorussian
-		religion = secularism
-		size = 1320
-	 } 
-	farmers = {
-		culture = byelorussian
-		religion =  orthodox 
-		size = 22000
-	 } 
-	farmers = {
-		culture = byelorussian
-		religion = secularism
-		size = 33000
-	 } 
-	farmers = {
-		culture = russian
-		religion =  orthodox 
-		size = 21120
-	 } 
-	farmers = {
-		culture = russian
-		religion = secularism
-		size = 31680
-	 } 
+  clergymen = {
+    culture = byelorussian
+    religion =  orthodox
+    size = 880
+  }
+  clergymen = {
+    culture = byelorussian
+    religion = secularism
+    size = 1320
+  }
+  farmers = {
+    culture = byelorussian
+    religion =  orthodox
+    size = 22000
+  }
+  farmers = {
+    culture = byelorussian
+    religion = secularism
+    size = 33000
+  }
+  farmers = {
+    culture = russian
+    religion =  orthodox
+    size = 21120
+  }
+  farmers = {
+    culture = russian
+    religion = secularism
+    size = 31680
+  }
 }
 #Mogilev - Mogilev (536000/134000 POPS)
 948 = {
-	clergymen = {
-		culture = byelorussian
-		religion =  orthodox 
-		size = 1072
-	 } 
-	clergymen = {
-		culture = byelorussian
-		religion = secularism
-		size = 1608
-	 } 
-	farmers = {
-		culture = byelorussian
-		religion =  orthodox 
-		size = 30016
-	 } 
-	farmers = {
-		culture = byelorussian
-		religion = secularism
-		size = 45024
-	 } 
-	farmers = {
-		culture = russian
-		religion =  orthodox 
-		size = 22512
-	 } 
-	farmers = {
-		culture = russian
-		religion = secularism
-		size = 33768
-	 } 
+  clergymen = {
+    culture = byelorussian
+    religion =  orthodox
+    size = 1072
+  }
+  clergymen = {
+    culture = byelorussian
+    religion = secularism
+    size = 1608
+  }
+  farmers = {
+    culture = byelorussian
+    religion =  orthodox
+    size = 30016
+  }
+  farmers = {
+    culture = byelorussian
+    religion = secularism
+    size = 45024
+  }
+  farmers = {
+    culture = russian
+    religion =  orthodox
+    size = 22512
+  }
+  farmers = {
+    culture = russian
+    religion = secularism
+    size = 33768
+  }
 }
 #Gomel - Gomel (1073000/268250 POPS)
 949 = {
-	clergymen = {
-		culture = byelorussian
-		religion =  orthodox 
-		size = 2146
-	 } 
-	clergymen = {
-		culture = byelorussian
-		religion = secularism
-		size = 3219
-	 } 
-	farmers = {
-		culture = byelorussian
-		religion =  orthodox 
-		size = 69744
-	 } 
-	farmers = {
-		culture = byelorussian
-		religion = secularism
-		size = 104617
-	 } 
-	farmers = {
-		culture = russian
-		religion =  orthodox 
-		size = 35408
-	 } 
-	farmers = {
-		culture = russian
-		religion = secularism
-		size = 53113
-	 } 
+  clergymen = {
+    culture = byelorussian
+    religion =  orthodox
+    size = 2146
+  }
+  clergymen = {
+    culture = byelorussian
+    religion = secularism
+    size = 3219
+  }
+  farmers = {
+    culture = byelorussian
+    religion =  orthodox
+    size = 69744
+  }
+  farmers = {
+    culture = byelorussian
+    religion = secularism
+    size = 104617
+  }
+  farmers = {
+    culture = russian
+    religion =  orthodox
+    size = 35408
+  }
+  farmers = {
+    culture = russian
+    religion = secularism
+    size = 53113
+  }
 }

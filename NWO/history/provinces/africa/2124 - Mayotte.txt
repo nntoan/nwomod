@@ -6,8 +6,8 @@ terrain = seasonal_jungle_mountains
 railroad = 1
 colonial = 2
 1992.1.1 = {
-owner = FRA
-controller = FRA
-railroad = 2
-colonial = 2
+  owner = FRA
+  controller = FRA
+  railroad = 2
+  colonial = 2
 }

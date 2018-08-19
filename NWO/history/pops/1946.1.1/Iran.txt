@@ -1,654 +1,654 @@
 #Rasht - Rasht (606000/151500 POPS)
 1113 = {
-	clergymen = {
-		culture = persian
-		religion =  shiite 
-		size = 3030
-	 } 
-	farmers = {
-		culture = persian
-		religion =  shiite 
-		size = 95445
-	 } 
-	farmers = {
-		culture = azerbaijani
-		religion =  shiite 
-		size = 53025
-	 } 
+  clergymen = {
+    culture = persian
+    religion =  shiite
+    size = 3030
+  }
+  farmers = {
+    culture = persian
+    religion =  shiite
+    size = 95445
+  }
+  farmers = {
+    culture = azerbaijani
+    religion =  shiite
+    size = 53025
+  }
 }
 #Noshehr - Noshehr (366000/91500 POPS)
 1114 = {
-	clergymen = {
-		culture = persian
-		religion =  shiite 
-		size = 1830
-	 } 
-	farmers = {
-		culture = persian
-		religion =  shiite 
-		size = 89670
-	 } 
+  clergymen = {
+    culture = persian
+    religion =  shiite
+    size = 1830
+  }
+  farmers = {
+    culture = persian
+    religion =  shiite
+    size = 89670
+  }
 }
 #Sari - Sari (384000/96000 POPS)
 1115 = {
-	clergymen = {
-		culture = persian
-		religion =  shiite 
-		size = 1920
-	 } 
-	farmers = {
-		culture = persian
-		religion =  shiite 
-		size = 94080
-	 } 
+  clergymen = {
+    culture = persian
+    religion =  shiite
+    size = 1920
+  }
+  farmers = {
+    culture = persian
+    religion =  shiite
+    size = 94080
+  }
 }
 #Gorgan - Gorgan (434000/108500 POPS)
 1116 = {
-	clergymen = {
-		culture = persian
-		religion =  shiite 
-		size = 2170
-	 } 
-	farmers = {
-		culture = persian
-		religion =  shiite 
-		size = 60759
-	 } 
-	farmers = {
-		culture = turkmen
-		religion =  sunni 
-		size = 45570
-	 } 
+  clergymen = {
+    culture = persian
+    religion =  shiite
+    size = 2170
+  }
+  farmers = {
+    culture = persian
+    religion =  shiite
+    size = 60759
+  }
+  farmers = {
+    culture = turkmen
+    religion =  sunni
+    size = 45570
+  }
 }
 #Kermanshah - Kermanshah (475000/118750 POPS)
 1117 = {
-	soldiers = {
-		culture = kurdish
-		religion =  sunni 
-		size = 2353
-	 } 
-	aristocrats = {
-		culture = kurdish
-		religion =  sunni 
-		size = 4750
-	 } 
-	clergymen = {
-		culture = kurdish
-		religion =  sunni 
-		size = 2375
-	 } 
-	artisans = {
-		culture = kurdish
-		religion =  sunni 
-		size = 1403
-	 } 
-	farmers = {
-		culture = kurdish
-		religion =  sunni 
-		size = 107628
-	 } 
+  soldiers = {
+    culture = kurdish
+    religion =  sunni
+    size = 2353
+  }
+  aristocrats = {
+    culture = kurdish
+    religion =  sunni
+    size = 4750
+  }
+  clergymen = {
+    culture = kurdish
+    religion =  sunni
+    size = 2375
+  }
+  artisans = {
+    culture = kurdish
+    religion =  sunni
+    size = 1403
+  }
+  farmers = {
+    culture = kurdish
+    religion =  sunni
+    size = 107628
+  }
 }
 #Sanandaj - Sanandaj (364000/91000 POPS)
 1118 = {
-	clergymen = {
-		culture = persian
-		religion =  shiite 
-		size = 1820
-	 } 
-	farmers = {
-		culture = persian
-		religion =  shiite 
-		size = 7280
-	 } 
-	farmers = {
-		culture = kurdish
-		religion =  sunni 
-		size = 72800
-	 } 
-	farmers = {
-		culture = azerbaijani
-		religion =  shiite 
-		size = 9100
-	 } 
+  clergymen = {
+    culture = persian
+    religion =  shiite
+    size = 1820
+  }
+  farmers = {
+    culture = persian
+    religion =  shiite
+    size = 7280
+  }
+  farmers = {
+    culture = kurdish
+    religion =  sunni
+    size = 72800
+  }
+  farmers = {
+    culture = azerbaijani
+    religion =  shiite
+    size = 9100
+  }
 }
 #Ilam - Ilam (136000/34000 POPS)
 1119 = {
-	farmers = {
-		culture = lur
-		religion =  shiite 
-		size = 29920
-	 } 
-	farmers = {
-		culture = kurdish
-		religion =  sunni 
-		size = 3400
-	 } 
+  farmers = {
+    culture = lur
+    religion =  shiite
+    size = 29920
+  }
+  farmers = {
+    culture = kurdish
+    religion =  sunni
+    size = 3400
+  }
 }
 #Khoramabad - Khoramabad (428000/107000 POPS)
 1120 = {
-	clergymen = {
-		culture = persian
-		religion =  shiite 
-		size = 2140
-	 } 
-	farmers = {
-		culture = lur
-		religion =  shiite 
-		size = 104860
-	 } 
+  clergymen = {
+    culture = persian
+    religion =  shiite
+    size = 2140
+  }
+  farmers = {
+    culture = lur
+    religion =  shiite
+    size = 104860
+  }
 }
 #Tehran - Tehran (3567000/891750 POPS)
 1121 = {
-	soldiers = {
-		culture = persian
-		religion =  shiite 
-		size = 15965
-	 } 
-	aristocrats = {
-		culture = persian
-		religion =  shiite 
-		size = 35670
-	 } 
-	clergymen = {
-		culture = persian
-		religion =  shiite 
-		size = 17835
-	 } 
-	artisans = {
-		culture = persian
-		religion =  shiite 
-		size = 10558
-	 } 
-	farmers = {
-		culture = persian
-		religion =  shiite 
-		size = 462208
-	 } 
-	farmers = {
-		culture = kurdish
-		religion =  sunni 
-		size = 44587
-	 } 
-	farmers = {
-		culture = azerbaijani
-		religion =  shiite 
-		size = 303195
-	 } 
+  soldiers = {
+    culture = persian
+    religion =  shiite
+    size = 15965
+  }
+  aristocrats = {
+    culture = persian
+    religion =  shiite
+    size = 35670
+  }
+  clergymen = {
+    culture = persian
+    religion =  shiite
+    size = 17835
+  }
+  artisans = {
+    culture = persian
+    religion =  shiite
+    size = 10558
+  }
+  farmers = {
+    culture = persian
+    religion =  shiite
+    size = 462208
+  }
+  farmers = {
+    culture = kurdish
+    religion =  sunni
+    size = 44587
+  }
+  farmers = {
+    culture = azerbaijani
+    religion =  shiite
+    size = 303195
+  }
 }
 #Hamadan - Hamadan (429000/107250 POPS)
 1122 = {
-	clergymen = {
-		culture = persian
-		religion =  shiite 
-		size = 2145
-	 } 
-	farmers = {
-		culture = persian
-		religion =  shiite 
-		size = 96525
-	 } 
-	farmers = {
-		culture = kurdish
-		religion =  sunni 
-		size = 8580
-	 } 
+  clergymen = {
+    culture = persian
+    religion =  shiite
+    size = 2145
+  }
+  farmers = {
+    culture = persian
+    religion =  shiite
+    size = 96525
+  }
+  farmers = {
+    culture = kurdish
+    religion =  sunni
+    size = 8580
+  }
 }
 #Zanjan - Zanjan (248000/62000 POPS)
 1123 = {
-	clergymen = {
-		culture = azerbaijani
-		religion =  shiite 
-		size = 1240
-	 } 
-	farmers = {
-		culture = azerbaijani
-		religion =  shiite 
-		size = 60760
-	 } 
+  clergymen = {
+    culture = azerbaijani
+    religion =  shiite
+    size = 1240
+  }
+  farmers = {
+    culture = azerbaijani
+    religion =  shiite
+    size = 60760
+  }
 }
 #Qazvin - Qazvin (293000/73250 POPS)
 1124 = {
-	clergymen = {
-		culture = persian
-		religion =  shiite 
-		size = 1465
-	 } 
-	farmers = {
-		culture = persian
-		religion =  shiite 
-		size = 71785
-	 } 
+  clergymen = {
+    culture = persian
+    religion =  shiite
+    size = 1465
+  }
+  farmers = {
+    culture = persian
+    religion =  shiite
+    size = 71785
+  }
 }
 #Qom - Qom (281000/70250 POPS)
 1125 = {
-	clergymen = {
-		culture = persian
-		religion =  shiite 
-		size = 1405
-	 } 
-	farmers = {
-		culture = persian
-		religion =  shiite 
-		size = 68845
-	 } 
+  clergymen = {
+    culture = persian
+    religion =  shiite
+    size = 1405
+  }
+  farmers = {
+    culture = persian
+    religion =  shiite
+    size = 68845
+  }
 }
 #Semnan - Semnan (154000/38500 POPS)
 1126 = {
-	farmers = {
-		culture = persian
-		religion =  shiite 
-		size = 37730
-	 } 
+  farmers = {
+    culture = persian
+    religion =  shiite
+    size = 37730
+  }
 }
 #Isfahan - Isfahan (977000/244250 POPS)
 1127 = {
-	soldiers = {
-		culture = persian
-		religion =  shiite 
-		size = 8216
-	 } 
-	aristocrats = {
-		culture = persian
-		religion =  shiite 
-		size = 9770
-	 } 
-	clergymen = {
-		culture = persian
-		religion =  shiite 
-		size = 4885
-	 } 
-	artisans = {
-		culture = persian
-		religion =  shiite 
-		size = 2842
-	 } 
-	farmers = {
-		culture = persian
-		religion =  shiite 
-		size = 100000
-	 } 
-	farmers = {
-		culture = lur
-		religion =  shiite 
-		size = 117861
-	 } 
+  soldiers = {
+    culture = persian
+    religion =  shiite
+    size = 8216
+  }
+  aristocrats = {
+    culture = persian
+    religion =  shiite
+    size = 9770
+  }
+  clergymen = {
+    culture = persian
+    religion =  shiite
+    size = 4885
+  }
+  artisans = {
+    culture = persian
+    religion =  shiite
+    size = 2842
+  }
+  farmers = {
+    culture = persian
+    religion =  shiite
+    size = 100000
+  }
+  farmers = {
+    culture = lur
+    religion =  shiite
+    size = 117861
+  }
 }
 #Arak - Arak (345000/86250 POPS)
 1128 = {
-	clergymen = {
-		culture = persian
-		religion =  shiite 
-		size = 1725
-	 } 
-	farmers = {
-		culture = persian
-		religion =  shiite 
-		size = 84525
-	 } 
+  clergymen = {
+    culture = persian
+    religion =  shiite
+    size = 1725
+  }
+  farmers = {
+    culture = persian
+    religion =  shiite
+    size = 84525
+  }
 }
 #Kashan - Kashan (214000/53500 POPS)
 1129 = {
-	clergymen = {
-		culture = persian
-		religion =  shiite 
-		size = 1070
-	 } 
-	farmers = {
-		culture = persian
-		religion =  shiite 
-		size = 52430
-	 } 
+  clergymen = {
+    culture = persian
+    religion =  shiite
+    size = 1070
+  }
+  farmers = {
+    culture = persian
+    religion =  shiite
+    size = 52430
+  }
 }
 #Yazd - Yazd (262000/65500 POPS)
 1130 = {
-	clergymen = {
-		culture = persian
-		religion =  shiite 
-		size = 1310
-	 } 
-	farmers = {
-		culture = persian
-		religion =  shiite 
-		size = 64190
-	 } 
+  clergymen = {
+    culture = persian
+    religion =  shiite
+    size = 1310
+  }
+  farmers = {
+    culture = persian
+    religion =  shiite
+    size = 64190
+  }
 }
 #Ahvaz - Ahvaz (488000/122000 POPS)
 1131 = {
-	clergymen = {
-		culture = persian
-		religion =  shiite 
-		size = 2440
-	 } 
-	farmers = {
-		culture = shia_arab
-		religion =  shiite 
-		size = 107360
-	 } 
-	farmers = {
-		culture = persian
-		religion =  shiite 
-		size = 12200
-	 } 
+  clergymen = {
+    culture = persian
+    religion =  shiite
+    size = 2440
+  }
+  farmers = {
+    culture = shia_arab
+    religion =  shiite
+    size = 107360
+  }
+  farmers = {
+    culture = persian
+    religion =  shiite
+    size = 12200
+  }
 }
 #Abadan - Abadan (573000/143250 POPS)
 1132 = {
-	soldiers = {
-		culture = persian
-		religion =  shiite 
-		size = 3000
-	 } 
-	aristocrats = {
-		culture = persian
-		religion =  shiite 
-		size = 5730
-	 } 
-	clergymen = {
-		culture = persian
-		religion =  shiite 
-		size = 2865
-	 } 
-	artisans = {
-		culture = persian
-		religion =  shiite 
-		size = 1690
-	 } 
-	farmers = {
-		culture = shia_arab
-		religion =  shiite 
-		size = 129664
-	 } 
+  soldiers = {
+    culture = persian
+    religion =  shiite
+    size = 3000
+  }
+  aristocrats = {
+    culture = persian
+    religion =  shiite
+    size = 5730
+  }
+  clergymen = {
+    culture = persian
+    religion =  shiite
+    size = 2865
+  }
+  artisans = {
+    culture = persian
+    religion =  shiite
+    size = 1690
+  }
+  farmers = {
+    culture = shia_arab
+    religion =  shiite
+    size = 129664
+  }
 }
 #Dezful - Dezful (218000/54500 POPS)
 1133 = {
-	clergymen = {
-		culture = persian
-		religion =  shiite 
-		size = 1090
-	 } 
-	farmers = {
-		culture = lur
-		religion =  shiite 
-		size = 27960
-	 } 
-	farmers = {
-		culture = shia_arab
-		religion =  shiite 
-		size = 25450
-	 } 
+  clergymen = {
+    culture = persian
+    religion =  shiite
+    size = 1090
+  }
+  farmers = {
+    culture = lur
+    religion =  shiite
+    size = 27960
+  }
+  farmers = {
+    culture = shia_arab
+    religion =  shiite
+    size = 25450
+  }
 }
 #Dehkord - Dehkord (167000/41750 POPS)
 1134 = {
-	farmers = {
-		culture = lur
-		religion =  shiite 
-		size = 40915
-	 } 
+  farmers = {
+    culture = lur
+    religion =  shiite
+    size = 40915
+  }
 }
 #Shiraz - Shiraz (513000/128250 POPS)
 1135 = {
-	soldiers = {
-		culture = persian
-		religion =  shiite 
-		size = 7909
-	 } 
-	aristocrats = {
-		culture = persian
-		religion =  shiite 
-		size = 5130
-	 } 
-	clergymen = {
-		culture = persian
-		religion =  shiite 
-		size = 2565
-	 } 
-	artisans = {
-		culture = persian
-		religion =  shiite 
-		size = 1447
-	 } 
-	farmers = {
-		culture = persian
-		religion =  shiite 
-		size = 110655
-	 } 
+  soldiers = {
+    culture = persian
+    religion =  shiite
+    size = 7909
+  }
+  aristocrats = {
+    culture = persian
+    religion =  shiite
+    size = 5130
+  }
+  clergymen = {
+    culture = persian
+    religion =  shiite
+    size = 2565
+  }
+  artisans = {
+    culture = persian
+    religion =  shiite
+    size = 1447
+  }
+  farmers = {
+    culture = persian
+    religion =  shiite
+    size = 110655
+  }
 }
 #Bushire - Bushire (252000/63000 POPS)
 1136 = {
-	clergymen = {
-		culture = persian
-		religion =  shiite 
-		size = 3700
-	 } 
-	farmers = {
-		culture = persian
-		religion =  shiite 
-		size = 69560
-	 } 
-	farmers = {
-		culture = shia_arab
-		religion =  shiite 
-		size = 12200
-	 } 
-	farmers = {
-		culture = lur
-		religion =  shiite 
-		size = 52200
-	 } 
+  clergymen = {
+    culture = persian
+    religion =  shiite
+    size = 3700
+  }
+  farmers = {
+    culture = persian
+    religion =  shiite
+    size = 69560
+  }
+  farmers = {
+    culture = shia_arab
+    religion =  shiite
+    size = 12200
+  }
+  farmers = {
+    culture = lur
+    religion =  shiite
+    size = 52200
+  }
 }
 #Yasuj - Yasuj (121000/30250 POPS)
 1137 = {
-	farmers = {
-		culture = persian
-		religion =  shiite 
-		size = 29645
-	 } 
+  farmers = {
+    culture = persian
+    religion =  shiite
+    size = 29645
+  }
 }
 #Kangan - Kangan (488000/122000 POPS)
 1138 = {
-	farmers = {
-		culture = lur
-		religion =  shiite 
-		size = 22200
-	 } 
+  farmers = {
+    culture = lur
+    religion =  shiite
+    size = 22200
+  }
 }
 #Sirjan - Sirjan (229000/57250 POPS)
 1139 = {
-	clergymen = {
-		culture = persian
-		religion =  shiite 
-		size = 1145
-	 } 
-	farmers = {
-		culture = persian
-		religion =  shiite 
-		size = 56105
-	 } 
+  clergymen = {
+    culture = persian
+    religion =  shiite
+    size = 1145
+  }
+  farmers = {
+    culture = persian
+    religion =  shiite
+    size = 56105
+  }
 }
 #Kerman - Kerman (244000/61000 POPS)
 1140 = {
-	clergymen = {
-		culture = persian
-		religion =  shiite 
-		size = 1220
-	 } 
-	farmers = {
-		culture = persian
-		religion =  shiite 
-		size = 59780
-	 } 
+  clergymen = {
+    culture = persian
+    religion =  shiite
+    size = 1220
+  }
+  farmers = {
+    culture = persian
+    religion =  shiite
+    size = 59780
+  }
 }
 #Lengeh - Lengeh (122000/30500 POPS)
 1141 = {
-	farmers = {
-		culture = persian
-		religion =  shiite 
-		size = 23790
-	 } 
-	farmers = {
-		culture = shia_arab
-		religion =  shiite 
-		size = 6100
-	 } 
+  farmers = {
+    culture = persian
+    religion =  shiite
+    size = 23790
+  }
+  farmers = {
+    culture = shia_arab
+    religion =  shiite
+    size = 6100
+  }
 }
 #Bandar Abbas - Bandar Abbas (122000/30500 POPS)
 1142 = {
-	farmers = {
-		culture = persian
-		religion =  shiite 
-		size = 23790
-	 } 
-	farmers = {
-		culture = shia_arab
-		religion =  shiite 
-		size = 6100
-	 } 
+  farmers = {
+    culture = persian
+    religion =  shiite
+    size = 23790
+  }
+  farmers = {
+    culture = shia_arab
+    religion =  shiite
+    size = 6100
+  }
 }
 #Bam - Bam (244000/61000 POPS)
 1143 = {
-	clergymen = {
-		culture = persian
-		religion =  shiite 
-		size = 1220
-	 } 
-	farmers = {
-		culture = persian
-		religion =  shiite 
-		size = 59780
-	 } 
+  clergymen = {
+    culture = persian
+    religion =  shiite
+    size = 1220
+  }
+  farmers = {
+    culture = persian
+    religion =  shiite
+    size = 59780
+  }
 }
 #Zahedan - Zahedan (374000/93500 POPS)
 1144 = {
-	soldiers = {
-		culture = persian
-		religion =  shiite 
-		size = 1729
-	 } 
-	aristocrats = {
-		culture = persian
-		religion =  shiite 
-		size = 3740
-	 } 
-	clergymen = {
-		culture = persian
-		religion =  shiite 
-		size = 1870
-	 } 
-	artisans = {
-		culture = persian
-		religion =  shiite 
-		size = 1106
-	 } 
-	farmers = {
-		culture = persian
-		religion =  shiite 
-		size = 56820
-	 } 
-	farmers = {
-		culture = baluchi
-		religion =  sunni 
-		size = 28050
-	 } 
+  soldiers = {
+    culture = persian
+    religion =  shiite
+    size = 1729
+  }
+  aristocrats = {
+    culture = persian
+    religion =  shiite
+    size = 3740
+  }
+  clergymen = {
+    culture = persian
+    religion =  shiite
+    size = 1870
+  }
+  artisans = {
+    culture = persian
+    religion =  shiite
+    size = 1106
+  }
+  farmers = {
+    culture = persian
+    religion =  shiite
+    size = 56820
+  }
+  farmers = {
+    culture = baluchi
+    religion =  sunni
+    size = 28050
+  }
 }
 #Jask - Jask (141000/35250 POPS)
 1145 = {
-	farmers = {
-		culture = persian
-		religion =  shiite 
-		size = 29257
-	 } 
-	farmers = {
-		culture = shia_arab
-		religion =  shiite 
-		size = 3525
-	 } 
-	farmers = {
-		culture = baluchi
-		religion =  sunni 
-		size = 1762
-	 } 
+  farmers = {
+    culture = persian
+    religion =  shiite
+    size = 29257
+  }
+  farmers = {
+    culture = shia_arab
+    religion =  shiite
+    size = 3525
+  }
+  farmers = {
+    culture = baluchi
+    religion =  sunni
+    size = 1762
+  }
 }
 #Chabahar - Chabahar (244000/61000 POPS)
 1146 = {
-	clergymen = {
-		culture = baluchi
-		religion =  sunni 
-		size = 1220
-	 } 
-	farmers = {
-		culture = baluchi
-		religion =  sunni 
-		size = 59780
-	 } 
+  clergymen = {
+    culture = baluchi
+    religion =  sunni
+    size = 1220
+  }
+  farmers = {
+    culture = baluchi
+    religion =  sunni
+    size = 59780
+  }
 }
 #Mashhad - Mashhad (1220000/305000 POPS)
 1147 = {
-	soldiers = {
-		culture = persian
-		religion =  shiite 
-		size = 6771
-	 } 
-	aristocrats = {
-		culture = persian
-		religion =  shiite 
-		size = 12200
-	 } 
-	clergymen = {
-		culture = persian
-		religion =  shiite 
-		size = 6100
-	 } 
-	artisans = {
-		culture = persian
-		religion =  shiite 
-		size = 3594
-	 } 
-	farmers = {
-		culture = persian
-		religion =  shiite 
-		size = 229924
-	 } 
-	farmers = {
-		culture = turkmen
-		religion =  sunni 
-		size = 45750
-	 } 
+  soldiers = {
+    culture = persian
+    religion =  shiite
+    size = 6771
+  }
+  aristocrats = {
+    culture = persian
+    religion =  shiite
+    size = 12200
+  }
+  clergymen = {
+    culture = persian
+    religion =  shiite
+    size = 6100
+  }
+  artisans = {
+    culture = persian
+    religion =  shiite
+    size = 3594
+  }
+  farmers = {
+    culture = persian
+    religion =  shiite
+    size = 229924
+  }
+  farmers = {
+    culture = turkmen
+    religion =  sunni
+    size = 45750
+  }
 }
 #Birjand - Birjand (161000/40250 POPS)
 1148 = {
-	farmers = {
-		culture = persian
-		religion =  shiite 
-		size = 39445
-	 } 
+  farmers = {
+    culture = persian
+    religion =  shiite
+    size = 39445
+  }
 }
 #Sabzevan - Sabzevan (244000/61000 POPS)
 1149 = {
-	clergymen = {
-		culture = persian
-		religion =  shiite 
-		size = 1220
-	 } 
-	farmers = {
-		culture = persian
-		religion =  shiite 
-		size = 59780
-	 } 
+  clergymen = {
+    culture = persian
+    religion =  shiite
+    size = 1220
+  }
+  farmers = {
+    culture = persian
+    religion =  shiite
+    size = 59780
+  }
 }
 #Bojnurd - Bojnurd (211000/52750 POPS)
 1150 = {
-	clergymen = {
-		culture = persian
-		religion =  shiite 
-		size = 1055
-	 } 
-	farmers = {
-		culture = persian
-		religion =  shiite 
-		size = 27957
-	 } 
-	farmers = {
-		culture = kurdish
-		religion =  sunni 
-		size = 23737
-	 } 
+  clergymen = {
+    culture = persian
+    religion =  shiite
+    size = 1055
+  }
+  farmers = {
+    culture = persian
+    religion =  shiite
+    size = 27957
+  }
+  farmers = {
+    culture = kurdish
+    religion =  sunni
+    size = 23737
+  }
 }

@@ -7,29 +7,29 @@ country_event = { # Bahrain Independence
 
   trigger = {
     tag = GBR
-	year = 1971 NOT = { year = 1990 }
-	is_our_vassal = BHR
+    year = 1971 NOT = { year = 1990 }
+    is_our_vassal = BHR
   }
 
   mean_time_to_happen = { months = 1  }
-  
+
   option = {
     name = EVT_8007701_A
-	prestige = 10
-	release = BHR
-	create_alliance = BHR
-	diplomatic_influence = { who = BHR value = 50 } 
-	ai_chance = { factor = 100 }
+    prestige = 10
+    release = BHR
+    create_alliance = BHR
+    diplomatic_influence = { who = BHR value = 50 }
+    ai_chance = { factor = 100 }
   }
 
   option = {
     name = EVT_8007701_B
-	prestige = -10
-	badboy = 5
-	any_pop = { limit = { culture = sunni_arab } militancy = 7 consciousness = 4 }
-	diplomatic_influence = { who = BHR value = -200 } 
-	# TODO BHR UDI
-	ai_chance = { factor = 0 }
+    prestige = -10
+    badboy = 5
+    any_pop = { limit = { culture = sunni_arab } militancy = 7 consciousness = 4 }
+    diplomatic_influence = { who = BHR value = -200 }
+    # TODO BHR UDI
+    ai_chance = { factor = 0 }
   }
 }
 

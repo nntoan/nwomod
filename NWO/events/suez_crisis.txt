@@ -17,28 +17,28 @@ country_event = {
   trigger = {
     tag = EGY
     year = 1954 NOT = { year = 1963 }
-	government = presidential_dictatorship
-	NOT = { owns = 1755 }
+    government = presidential_dictatorship
+    NOT = { owns = 1755 }
   }
 
   mean_time_to_happen = { months = 2  }
 
   option = {
     name = EVT_8500301_A
-	relation = { who = USA value = -100 } 
-	relation = { who = GBR value = -100 } 
-	relation = { who = SUN value = 100 }
-	GBR = { country_event = 8500302 }
-	1766 = { add_province_modifier = { name = embankment_dam duration = 3500 } }
-	ai_chance = { factor = 100 }
+    relation = { who = USA value = -100 }
+    relation = { who = GBR value = -100 }
+    relation = { who = SUN value = 100 }
+    GBR = { country_event = 8500302 }
+    1766 = { add_province_modifier = { name = embankment_dam duration = 3500 } }
+    ai_chance = { factor = 100 }
   }
 
   option = {
     name = EVT_8500301_B
-	relation = { who = USA value = 100 } 
-	relation = { who = GBR value = 100 } 
-	1766 = { add_province_modifier = { name = embankment_dam duration = 365 } }
-	ai_chance = { factor = 0 }
+    relation = { who = USA value = 100 }
+    relation = { who = GBR value = 100 }
+    1766 = { add_province_modifier = { name = embankment_dam duration = 365 } }
+    ai_chance = { factor = 0 }
   }
 }
 country_event = {
@@ -51,37 +51,37 @@ country_event = {
 
   option = {
     name = EVT_8500302_A
-	money = -1000 
-	relation = { who = USA value = -50 } 
-	1755 = { secede_province = EGY }
-	casus_belli = { target = EGY type = acquire_state months = 12 }
+    money = -1000
+    relation = { who = USA value = -50 }
+    1755 = { secede_province = EGY }
+    casus_belli = { target = EGY type = acquire_state months = 12 }
     war = { target = EGY attacker_goal = { casus_belli = acquire_state state_province_id = 1755 } defender_goal = { casus_belli = status_quo } }
-	badboy = 1 
-	random_country = { limit = { tag = ISR exists = ISR } country_event = 8500304 }
-	ai_chance = { factor = 100 }
+    badboy = 1
+    random_country = { limit = { tag = ISR exists = ISR } country_event = 8500304 }
+    ai_chance = { factor = 100 }
   }
 
   option = {
     name = EVT_8500302_B
-	money = -3000 
-	relation = { who = USA value = -150 } 
-	relation = { who = SUN value = -200 } 
-	relation = { who = EGY value = -200 } 
-	1755 = { secede_province = EGY }
-	casus_belli = { target = EGY type = acquire_state months = 12 }
+    money = -3000
+    relation = { who = USA value = -150 }
+    relation = { who = SUN value = -200 }
+    relation = { who = EGY value = -200 }
+    1755 = { secede_province = EGY }
+    casus_belli = { target = EGY type = acquire_state months = 12 }
     war = { target = EGY attacker_goal = { casus_belli = acquire_state state_province_id = 1755 } defender_goal = { casus_belli = status_quo } }
-	badboy = 3 
-	random_country = { limit = { tag = ISR exists = ISR } country_event = 8500303 }
-	ai_chance = { factor = 0 }
+    badboy = 3
+    random_country = { limit = { tag = ISR exists = ISR } country_event = 8500303 }
+    ai_chance = { factor = 0 }
   }
 
   option = {
     name = EVT_8500302_C
-	relation = { who = EGY value = 100 } 
-	1755 = { secede_province = EGY }
-	any_pop = { militancy = 0.5  consciousness = 1.0 }
-	badboy = -2 
-	ai_chance = { factor = 0 }
+    relation = { who = EGY value = 100 }
+    1755 = { secede_province = EGY }
+    any_pop = { militancy = 0.5  consciousness = 1.0 }
+    badboy = -2
+    ai_chance = { factor = 0 }
   }
 }
 country_event = {
@@ -93,18 +93,18 @@ country_event = {
 
   option = {
     name = EVT_8500303_A
-	set_country_flag = operation_kadesh
-	# infamy illegal operation
-	war = { target = EGY attacker_goal = { casus_belli = acquire_state state_province_id = 1756 } defender_goal = { casus_belli  = status_quo } } 
-	badboy = 5 
-	any_pop = { militancy = -0.5  consciousness = -0.2 }
-	ai_chance = { factor = 100 }
+    set_country_flag = operation_kadesh
+    # infamy illegal operation
+    war = { target = EGY attacker_goal = { casus_belli = acquire_state state_province_id = 1756 } defender_goal = { casus_belli  = status_quo } }
+    badboy = 5
+    any_pop = { militancy = -0.5  consciousness = -0.2 }
+    ai_chance = { factor = 100 }
   }
 
   option = {
     name = EVT_8500303_B
-	any_pop = { militancy = 1.0  consciousness = 1.0 }
-	ai_chance = { factor = 0 }
+    any_pop = { militancy = 1.0  consciousness = 1.0 }
+    ai_chance = { factor = 0 }
   }
 }
 country_event = {
@@ -113,21 +113,21 @@ country_event = {
   desc = EVT_8500304_DESC
   picture = "nwo2_operation_kadesh"
   is_triggered_only = yes
-  
+
   option = {
     name = EVT_8500304_A
-	set_country_flag = operation_kadesh
-	casus_belli = { target = EGY type = acquire_state months = 12 }
-	war = { target = EGY attacker_goal = { casus_belli = acquire_state state_province_id = 1756 } attacker_goal = { casus_belli = acquire_state state_province_id = 920 } defender_goal = { casus_belli  = status_quo } } 
-	badboy = 5 
-	any_pop = { militancy = -0.5  consciousness = 1.0 }
-	ai_chance = { factor = 100 }
+    set_country_flag = operation_kadesh
+    casus_belli = { target = EGY type = acquire_state months = 12 }
+    war = { target = EGY attacker_goal = { casus_belli = acquire_state state_province_id = 1756 } attacker_goal = { casus_belli = acquire_state state_province_id = 920 } defender_goal = { casus_belli  = status_quo } }
+    badboy = 5
+    any_pop = { militancy = -0.5  consciousness = 1.0 }
+    ai_chance = { factor = 100 }
   }
 
   option = {
     name = EVT_8500304_B
-	any_pop = { militancy = 1.0  consciousness = 1.0 }
-	ai_chance = { factor = 0 }
+    any_pop = { militancy = 1.0  consciousness = 1.0 }
+    ai_chance = { factor = 0 }
   }
 }
 country_event = {
@@ -147,7 +147,7 @@ country_event = {
 
   option = {
     name = EVT_8500305_A
-	any_pop = { militancy = -0.5  consciousness = -0.1 }
+    any_pop = { militancy = -0.5  consciousness = -0.1 }
   }
 }
 country_event = {
@@ -167,30 +167,30 @@ country_event = {
 
   option = {
     name = EVT_8500311_A
-	relation = { who = GBR value = -50 } 
-	relation = { who = EGY value = 50 } 
-	prestige = -10
-	ai_chance = { factor = 0 }
+    relation = { who = GBR value = -50 }
+    relation = { who = EGY value = 50 }
+    prestige = -10
+    ai_chance = { factor = 0 }
   }
 
   option = {
     name = EVT_8500311_B
-	relation = { who = GBR value = -50 } 
-	GBR = { country_event = 8500315 }
-	ISR = { country_event = 8500315 }
-	ai_chance = { factor = 0 }
+    relation = { who = GBR value = -50 }
+    GBR = { country_event = 8500315 }
+    ISR = { country_event = 8500315 }
+    ai_chance = { factor = 0 }
   }
 
   option = {
     name = EVT_8500311_C
-	relation = { who = GBR value = -50 } 
-	GBR = { country_event = 8500315 }
-	ISR = { country_event = 8500315 }
-	SUN = {country_event =  8500312 } 
-	ai_chance = { factor = 0 }
+    relation = { who = GBR value = -50 }
+    GBR = { country_event = 8500315 }
+    ISR = { country_event = 8500315 }
+    SUN = {country_event =  8500312 }
+    ai_chance = { factor = 0 }
   }
 
- }
+}
 country_event = {
   id = 8500312
   title = EVT_8500312_NAME
@@ -200,19 +200,19 @@ country_event = {
 
   option = {
     name = EVT_8500312_A
-	relation = { who = EGY value = 150 } 
-	relation = { who = GBR value = -100 } 
-	relation = { who = ISR value = -100 } 
-	GBR = { country_event = 8500313 }
-	EGY = { country_event = 8500316 } 
-	ai_chance = { factor = 100 }
+    relation = { who = EGY value = 150 }
+    relation = { who = GBR value = -100 }
+    relation = { who = ISR value = -100 }
+    GBR = { country_event = 8500313 }
+    EGY = { country_event = 8500316 }
+    ai_chance = { factor = 100 }
   }
 
   option = {
     name = EVT_8500312_B
-	relation = { who = USA value = -10 } 
-	relation = { who = EGY value = -50 } 
-	ai_chance = { factor = 0 }
+    relation = { who = USA value = -10 }
+    relation = { who = EGY value = -50 }
+    ai_chance = { factor = 0 }
   }
 }
 country_event = {
@@ -225,18 +225,18 @@ country_event = {
 
   option = {
     name = EVT_8500313_A
-	relation = { who = EGY value = -100 } 
-	relation = { who = USA value = 10 } 
-	end_war = EGY
-	any_pop = { militancy = 0.7  consciousness = 1.0 }
-	ai_chance = { factor = 100 }
+    relation = { who = EGY value = -100 }
+    relation = { who = USA value = 10 }
+    end_war = EGY
+    any_pop = { militancy = 0.7  consciousness = 1.0 }
+    ai_chance = { factor = 100 }
   }
 
   option = {
     name = EVT_8500313_B
-	relation = { who = USA value = -150 } 
-	SUN = { country_event = 8500314  }
-	ai_chance = { factor = 0 }
+    relation = { who = USA value = -150 }
+    SUN = { country_event = 8500314  }
+    ai_chance = { factor = 0 }
   }
 }
 country_event = {
@@ -248,16 +248,16 @@ country_event = {
 
   option = {
     name = EVT_8500314_A
-	create_alliance = EGY 
-	relation = { who = EGY value = 200 } # who to get Russia involved?
-	any_pop = { militancy = 0.3  consciousness = 0.5 }
-	ai_chance = { factor = 100 }
+    create_alliance = EGY
+    relation = { who = EGY value = 200 } # who to get Russia involved?
+    any_pop = { militancy = 0.3  consciousness = 0.5 }
+    ai_chance = { factor = 100 }
   }
 
   option = {
     name = EVT_8500314_B
-	any_pop = { militancy = 2.5  consciousness = 1.0 }
-	ai_chance = { factor = 0 }
+    any_pop = { militancy = 2.5  consciousness = 1.0 }
+    ai_chance = { factor = 0 }
   }
 }
 country_event = {
@@ -269,7 +269,7 @@ country_event = {
 
   option = {
     name = EVT_8500315_A
-	any_pop = { militancy = -1.0  consciousness = -0.2 }
+    any_pop = { militancy = -1.0  consciousness = -0.2 }
   }
 }
 country_event = {
@@ -281,7 +281,7 @@ country_event = {
 
   option = {
     name = EVT_8500316_A
-	any_pop = { militancy = -0.5  consciousness = -0.1 }
+    any_pop = { militancy = -0.5  consciousness = -0.1 }
   }
 }
 country_event = {
@@ -292,18 +292,18 @@ country_event = {
   fire_only_once = yes
 
   trigger = {
-	tag = EGY 
-	owns = 1756
+    tag = EGY
+    owns = 1756
     ISR = { has_country_flag = operation_kadesh }
-	war = no
+    war = no
   }
 
   mean_time_to_happen = { months = 1  }
 
   option = {
     name = EVT_8500320_A
-	prestige = 10
-	GBR = { country_event = 8005004 }
+    prestige = 10
+    GBR = { country_event = 8005004 }
   }
 
 }
@@ -315,17 +315,17 @@ country_event = {
   fire_only_once = yes
 
   trigger = {
-	tag = EGY 
-	NOT = { owns = 1756 }
+    tag = EGY
+    NOT = { owns = 1756 }
     ISR = { has_country_flag = operation_kadesh }
-	war = no
+    war = no
   }
 
   mean_time_to_happen = { months = 1  }
 
   option = {
     name = EVT_8500323_A
-	any_pop = { militancy = 2.0  consciousness = 1.0 }
+    any_pop = { militancy = 2.0  consciousness = 1.0 }
   }
 }
 country_event = {
@@ -336,17 +336,17 @@ country_event = {
   fire_only_once = yes
 
   trigger = {
-	tag = EGY 
-	GBR = { owns = 1755 }
-	truce_with = GBR
-	war = no
+    tag = EGY
+    GBR = { owns = 1755 }
+    truce_with = GBR
+    war = no
   }
 
   mean_time_to_happen = { months = 1  }
 
   option = {
     name = EVT_8500324_A
-	government = hms_government country_event = 800054 
+    government = hms_government country_event = 800054
   }
 }
 

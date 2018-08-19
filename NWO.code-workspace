@@ -1,0 +1,69 @@
+{
+  "folders": [
+    {
+      "path": "NWO"
+    }
+  ],
+  "settings": {
+    "[paradox]": {
+      "editor.insertSpaces": true,
+      "editor.tabSize": 2,
+      "editor.autoIndent": true,
+    },
+    "editor.formatOnPaste": true,
+    "editor.formatOnSave": true,
+    "editor.tokenColorCustomizations": {
+      "textMateRules": [
+        {
+          "scope": "variable.language",
+          "settings": {
+            "fontStyle": "bold",
+            "foreground": "#407FBF"
+          }
+        },
+        {
+          "scope": "variable.language.description",
+          "settings": {
+            "fontStyle": "",
+            "foreground": "#7A9DB8"
+          }
+        },
+        {
+          "scope": "support",
+          "settings": {
+            "fontStyle": "",
+            "foreground": "#C7444A"
+          }
+        },
+        {
+          "name": "Variable",
+          "scope": "variable",
+          "settings": {
+            "foreground": "#7A9DB8"
+          }
+        },
+        {
+          "name": "Punct Section Block",
+          "scope": "punctuation.section.block",
+          "settings": {
+            "fontStyle": "bold",
+            "foreground": "#89DDFF"
+          }
+        },
+        {
+          "name": "Variable Other",
+          "scope": "variable.other",
+          "settings": {
+            "foreground": "#D0B344"
+          }
+        },
+      ]
+    },
+    "files.exclude": {
+      "gfx": true,
+      "interface": true,
+      "map": true,
+      "music": true
+    },
+  },
+}

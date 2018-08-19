@@ -7,7 +7,7 @@ country_event = {
 
   trigger = {
     tag = BYE
-	election = yes
+    election = yes
     year = 1993
   }
 
@@ -15,16 +15,16 @@ country_event = {
 
   option = {
     name = "EVT_8001701_OPTA"
-	government = provisional_government  country_event = 800054
-	ai_chance = { factor = 100 }
+    government = provisional_government  country_event = 800054
+    ai_chance = { factor = 100 }
   }
 
   option = {
     name = "EVT_8001701_OPTB"
-	any_pop = { militancy = 1.0  consciousness = 2 }
-	add_accepted_culture = russian
-	RUS = { casus_belli = { target = BYE type = install_authoritarian_regime  months = 24 } }
-	ai_chance = { factor = 0 }
+    any_pop = { militancy = 1.0  consciousness = 2 }
+    add_accepted_culture = russian
+    RUS = { casus_belli = { target = BYE type = install_authoritarian_regime  months = 24 } }
+    ai_chance = { factor = 0 }
   }
-  
+
 }

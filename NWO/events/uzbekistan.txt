@@ -5,18 +5,18 @@ country_event = {
   picture = "islam_karimov"
 
   mean_time_to_happen = { months = 12  }
-  
+
   trigger = {
     tag = UZB
-	exists = yes
-	war = no
-	year = 2016
+    exists = yes
+    war = no
+    year = 2016
   }
 
   option = {
     name = EVT_8008100_A
-	any_pop = { militancy = -0.2 consciousness = 0.2 } 
-	ai_chance = { factor = 100 }
+    any_pop = { militancy = -0.2 consciousness = 0.2 }
+    ai_chance = { factor = 100 }
   }
-  
+
 }

@@ -1,768 +1,768 @@
 #Prague - Prague (1635000/408750 POPS)
 625 = {
-	officers = {
-		culture = czech
-		religion =  catholic 
-		size = 457
-	 } 
-	officers = {
-		culture = czech
-		religion = secularism
-		size = 746
-	 } 
-	soldiers = {
-		culture = czech
-		religion =  catholic 
-		size = 8693
-	 } 
-	soldiers = {
-		culture = czech
-		religion = secularism
-		size = 14184
-	 } 
-	aristocrats = {
-		culture = czech
-		religion =  catholic 
-		size = 3882
-	 } 
-	aristocrats = {
-		culture = czech
-		religion = secularism
-		size = 6335
-	 } 
-	bureaucrats = {
-		culture = czech
-		religion =  catholic 
-		size = 931
-	 } 
-	bureaucrats = {
-		culture = czech
-		religion = secularism
-		size = 1520
-	 } 
-	capitalists = {
-		culture = czech
-		religion =  catholic 
-		size = 931
-	 } 
-	capitalists = {
-		culture = czech
-		religion = secularism
-		size = 1520
-	 } 
-	clergymen = {
-		culture = czech
-		religion =  catholic 
-		size = 3106
-	 } 
-	clergymen = {
-		culture = czech
-		religion = secularism
-		size = 5068
-	 } 
-	clerks = {
-		culture = czech
-		religion =  catholic 
-		size = 3495
-	 } 
-	clerks = {
-		culture = czech
-		religion = secularism
-		size = 5703
-	 } 
-	artisans = {
-		culture = czech
-		religion =  catholic 
-		size = 3320
-	 } 
-	artisans = {
-		culture = czech
-		religion = secularism
-		size = 5418
-	 } 
-	craftsmen = {
-		culture = czech
-		religion =  catholic 
-		size = 110486
-	 } 
-	craftsmen = {
-		culture = czech
-		religion = secularism
-		size = 117110
-	 } 
-	farmers = {
-		culture = czech
-		religion =  catholic 
-		size = 96718
-	 } 
-	farmers = {
-		culture = czech
-		religion = secularism
-		size = 157804
-	 } 
-	farmers = {
-		culture = slovak
-		religion =  catholic 
-		size = 3106
-	 } 
-	farmers = {
-		culture = slovak
-		religion = secularism
-		size = 5068
-	 } 
-	farmers = {
-		culture = roma
-		religion =  orthodox 
-		size = 7766
-	 } 
-	farmers = {
-		culture = roma
-		religion = secularism
-		size = 12670
-	 } 
-	farmers = {
-		culture = vietnamese
-		religion =  buddhist 
-		size = 4659
-	 } 
-	farmers = {
-		culture = vietnamese
-		religion = secularism
-		size = 7602
-	 } 
-	farmers = {
-		culture = ukrainian
-		religion =  orthodox 
-		size = 7766
-	 } 
-	farmers = {
-		culture = ukrainian
-		religion = secularism
-		size = 12670
-	 } 
+  officers = {
+    culture = czech
+    religion =  catholic
+    size = 457
+  }
+  officers = {
+    culture = czech
+    religion = secularism
+    size = 746
+  }
+  soldiers = {
+    culture = czech
+    religion =  catholic
+    size = 8693
+  }
+  soldiers = {
+    culture = czech
+    religion = secularism
+    size = 14184
+  }
+  aristocrats = {
+    culture = czech
+    religion =  catholic
+    size = 3882
+  }
+  aristocrats = {
+    culture = czech
+    religion = secularism
+    size = 6335
+  }
+  bureaucrats = {
+    culture = czech
+    religion =  catholic
+    size = 931
+  }
+  bureaucrats = {
+    culture = czech
+    religion = secularism
+    size = 1520
+  }
+  capitalists = {
+    culture = czech
+    religion =  catholic
+    size = 931
+  }
+  capitalists = {
+    culture = czech
+    religion = secularism
+    size = 1520
+  }
+  clergymen = {
+    culture = czech
+    religion =  catholic
+    size = 3106
+  }
+  clergymen = {
+    culture = czech
+    religion = secularism
+    size = 5068
+  }
+  clerks = {
+    culture = czech
+    religion =  catholic
+    size = 3495
+  }
+  clerks = {
+    culture = czech
+    religion = secularism
+    size = 5703
+  }
+  artisans = {
+    culture = czech
+    religion =  catholic
+    size = 3320
+  }
+  artisans = {
+    culture = czech
+    religion = secularism
+    size = 5418
+  }
+  craftsmen = {
+    culture = czech
+    religion =  catholic
+    size = 110486
+  }
+  craftsmen = {
+    culture = czech
+    religion = secularism
+    size = 117110
+  }
+  farmers = {
+    culture = czech
+    religion =  catholic
+    size = 96718
+  }
+  farmers = {
+    culture = czech
+    religion = secularism
+    size = 157804
+  }
+  farmers = {
+    culture = slovak
+    religion =  catholic
+    size = 3106
+  }
+  farmers = {
+    culture = slovak
+    religion = secularism
+    size = 5068
+  }
+  farmers = {
+    culture = roma
+    religion =  orthodox
+    size = 7766
+  }
+  farmers = {
+    culture = roma
+    religion = secularism
+    size = 12670
+  }
+  farmers = {
+    culture = vietnamese
+    religion =  buddhist
+    size = 4659
+  }
+  farmers = {
+    culture = vietnamese
+    religion = secularism
+    size = 7602
+  }
+  farmers = {
+    culture = ukrainian
+    religion =  orthodox
+    size = 7766
+  }
+  farmers = {
+    culture = ukrainian
+    religion = secularism
+    size = 12670
+  }
 }
 #Hradec Kralove - Hradec Kralove (686000/171500 POPS)
 626 = {
-	clergymen = {
-		culture = czech
-		religion =  catholic 
-		size = 1303
-	 } 
-	clergymen = {
-		culture = czech
-		religion = secularism
-		size = 2126
-	 } 
-	farmers = {
-		culture = czech
-		religion =  catholic 
-		size = 63866
-	 } 
-	farmers = {
-		culture = czech
-		religion = secularism
-		size = 104203
-	 } 
+  clergymen = {
+    culture = czech
+    religion =  catholic
+    size = 1303
+  }
+  clergymen = {
+    culture = czech
+    religion = secularism
+    size = 2126
+  }
+  farmers = {
+    culture = czech
+    religion =  catholic
+    size = 63866
+  }
+  farmers = {
+    culture = czech
+    religion = secularism
+    size = 104203
+  }
 }
 #Karlsbad - Karlsbad (198000/49500 POPS)
 627 = {
-	clergymen = {
-		culture = czech
-		religion =  catholic 
-		size = 376
-	 } 
-	clergymen = {
-		culture = czech
-		religion = secularism
-		size = 613
-	 } 
-	farmers = {
-		culture = czech
-		religion =  catholic 
-		size = 35612
-	 } 
-	farmers = {
-		culture = czech
-		religion = secularism
-		size = 55472
-	 } 
-	farmers = {
-		culture = slovak
-		religion =  catholic 
-		size = 2821
-	 } 
-	farmers = {
-		culture = slovak
-		religion = secularism
-		size = 4603
-	 } 
+  clergymen = {
+    culture = czech
+    religion =  catholic
+    size = 376
+  }
+  clergymen = {
+    culture = czech
+    religion = secularism
+    size = 613
+  }
+  farmers = {
+    culture = czech
+    religion =  catholic
+    size = 35612
+  }
+  farmers = {
+    culture = czech
+    religion = secularism
+    size = 55472
+  }
+  farmers = {
+    culture = slovak
+    religion =  catholic
+    size = 2821
+  }
+  farmers = {
+    culture = slovak
+    religion = secularism
+    size = 4603
+  }
 }
 #Aussig - Aussig (815000/203750 POPS)
 628 = {
-	clergymen = {
-		culture = czech
-		religion =  catholic 
-		size = 1548
-	 } 
-	clergymen = {
-		culture = czech
-		religion = secularism
-		size = 2526
-	 } 
-	farmers = {
-		culture = czech
-		religion =  catholic 
-		size = 72005
-	 } 
-	farmers = {
-		culture = czech
-		religion = secularism
-		size = 117481
-	 } 
-	farmers = {
-		culture = slovak
-		religion =  catholic 
-		size = 3871
-	 } 
-	farmers = {
-		culture = slovak
-		religion = secularism
-		size = 6315
-	 } 
+  clergymen = {
+    culture = czech
+    religion =  catholic
+    size = 1548
+  }
+  clergymen = {
+    culture = czech
+    religion = secularism
+    size = 2526
+  }
+  farmers = {
+    culture = czech
+    religion =  catholic
+    size = 72005
+  }
+  farmers = {
+    culture = czech
+    religion = secularism
+    size = 117481
+  }
+  farmers = {
+    culture = slovak
+    religion =  catholic
+    size = 3871
+  }
+  farmers = {
+    culture = slovak
+    religion = secularism
+    size = 6315
+  }
 }
 #Plzen - Plzen (358000/89500 POPS)
 629 = {
-	clergymen = {
-		culture = czech
-		religion =  catholic 
-		size = 680
-	 } 
-	clergymen = {
-		culture = czech
-		religion = secularism
-		size = 1109
-	 } 
-	farmers = {
-		culture = czech
-		religion =  catholic 
-		size = 53329
-	 } 
-	farmers = {
-		culture = czech
-		religion = secularism
-		size = 74380
-	 } 
+  clergymen = {
+    culture = czech
+    religion =  catholic
+    size = 680
+  }
+  clergymen = {
+    culture = czech
+    religion = secularism
+    size = 1109
+  }
+  farmers = {
+    culture = czech
+    religion =  catholic
+    size = 53329
+  }
+  farmers = {
+    culture = czech
+    religion = secularism
+    size = 74380
+  }
 }
 #Budejovice - Budejovice (745000/186250 POPS)
 630 = {
-	clergymen = {
-		culture = czech
-		religion =  catholic 
-		size = 1415
-	 } 
-	clergymen = {
-		culture = czech
-		religion = secularism
-		size = 2309
-	 } 
-	farmers = {
-		culture = czech
-		religion =  catholic 
-		size = 69359
-	 } 
-	farmers = {
-		culture = czech
-		religion = secularism
-		size = 113165
-	 } 
+  clergymen = {
+    culture = czech
+    religion =  catholic
+    size = 1415
+  }
+  clergymen = {
+    culture = czech
+    religion = secularism
+    size = 2309
+  }
+  farmers = {
+    culture = czech
+    religion =  catholic
+    size = 69359
+  }
+  farmers = {
+    culture = czech
+    religion = secularism
+    size = 113165
+  }
 }
 #Brno - Brno (732000/183000 POPS)
 631 = {
-	officers = {
-		culture = czech
-		religion =  catholic 
-		size = 216
-	 } 
-	officers = {
-		culture = czech
-		religion = secularism
-		size = 354
-	 } 
-	soldiers = {
-		culture = czech
-		religion =  catholic 
-		size = 4127
-	 } 
-	soldiers = {
-		culture = czech
-		religion = secularism
-		size = 6735
-	 } 
-	aristocrats = {
-		culture = czech
-		religion =  catholic 
-		size = 1738
-	 } 
-	aristocrats = {
-		culture = czech
-		religion = secularism
-		size = 2836
-	 } 
-	bureaucrats = {
-		culture = czech
-		religion =  catholic 
-		size = 417
-	 } 
-	bureaucrats = {
-		culture = czech
-		religion = secularism
-		size = 680
-	 } 
-	capitalists = {
-		culture = czech
-		religion =  catholic 
-		size = 417
-	 } 
-	capitalists = {
-		culture = czech
-		religion = secularism
-		size = 680
-	 } 
-	clergymen = {
-		culture = czech
-		religion =  catholic 
-		size = 1390
-	 } 
-	clergymen = {
-		culture = czech
-		religion = secularism
-		size = 2269
-	 } 
-	clerks = {
-		culture = czech
-		religion =  catholic 
-		size = 1558
-	 } 
-	clerks = {
-		culture = czech
-		religion = secularism
-		size = 2543
-	 } 
-	artisans = {
-		culture = czech
-		religion =  catholic 
-		size = 1480
-	 } 
-	artisans = {
-		culture = czech
-		religion = secularism
-		size = 2416
-	 } 
-	craftsmen = {
-		culture = czech
-		religion =  catholic 
-		size = 4677
-	 } 
-	craftsmen = {
-		culture = czech
-		religion = secularism
-		size = 107630
-	 } 
-	farmers = {
-		culture = czech
-		religion =  catholic 
-		size = 145865
-	 } 
-	farmers = {
-		culture = czech
-		religion = secularism
-		size = 74832
-	 } 
-	farmers = {
-		culture = roma
-		religion =  orthodox 
-		size = 7649
-	 } 
-	farmers = {
-		culture = roma
-		religion = secularism
-		size = 12480
-	 } 
+  officers = {
+    culture = czech
+    religion =  catholic
+    size = 216
+  }
+  officers = {
+    culture = czech
+    religion = secularism
+    size = 354
+  }
+  soldiers = {
+    culture = czech
+    religion =  catholic
+    size = 4127
+  }
+  soldiers = {
+    culture = czech
+    religion = secularism
+    size = 6735
+  }
+  aristocrats = {
+    culture = czech
+    religion =  catholic
+    size = 1738
+  }
+  aristocrats = {
+    culture = czech
+    religion = secularism
+    size = 2836
+  }
+  bureaucrats = {
+    culture = czech
+    religion =  catholic
+    size = 417
+  }
+  bureaucrats = {
+    culture = czech
+    religion = secularism
+    size = 680
+  }
+  capitalists = {
+    culture = czech
+    religion =  catholic
+    size = 417
+  }
+  capitalists = {
+    culture = czech
+    religion = secularism
+    size = 680
+  }
+  clergymen = {
+    culture = czech
+    religion =  catholic
+    size = 1390
+  }
+  clergymen = {
+    culture = czech
+    religion = secularism
+    size = 2269
+  }
+  clerks = {
+    culture = czech
+    religion =  catholic
+    size = 1558
+  }
+  clerks = {
+    culture = czech
+    religion = secularism
+    size = 2543
+  }
+  artisans = {
+    culture = czech
+    religion =  catholic
+    size = 1480
+  }
+  artisans = {
+    culture = czech
+    religion = secularism
+    size = 2416
+  }
+  craftsmen = {
+    culture = czech
+    religion =  catholic
+    size = 4677
+  }
+  craftsmen = {
+    culture = czech
+    religion = secularism
+    size = 107630
+  }
+  farmers = {
+    culture = czech
+    religion =  catholic
+    size = 145865
+  }
+  farmers = {
+    culture = czech
+    religion = secularism
+    size = 74832
+  }
+  farmers = {
+    culture = roma
+    religion =  orthodox
+    size = 7649
+  }
+  farmers = {
+    culture = roma
+    religion = secularism
+    size = 12480
+  }
 }
 #Olomouc - Olomouc (414000/103500 POPS)
 632 = {
-	clergymen = {
-		culture = czech
-		religion =  catholic 
-		size = 786
-	 } 
-	clergymen = {
-		culture = czech
-		religion = secularism
-		size = 1283
-	 } 
-	farmers = {
-		culture = czech
-		religion =  catholic 
-		size = 88543
-	 } 
-	farmers = {
-		culture = czech
-		religion = secularism
-		size = 62886
-	 } 
+  clergymen = {
+    culture = czech
+    religion =  catholic
+    size = 786
+  }
+  clergymen = {
+    culture = czech
+    religion = secularism
+    size = 1283
+  }
+  farmers = {
+    culture = czech
+    religion =  catholic
+    size = 88543
+  }
+  farmers = {
+    culture = czech
+    religion = secularism
+    size = 62886
+  }
 }
 #Bratislava - Bratislava (754000/188500 POPS)
 633 = {
-	officers = {
-		culture = czech
-		religion =  catholic 
-		size = 351
-	 } 
-	officers = {
-		culture = czech
-		religion = secularism
-		size = 573
-	 } 
-	soldiers = {
-		culture = czech
-		religion =  catholic 
-		size = 3230
-	 } 
-	soldiers = {
-		culture = czech
-		religion = secularism
-		size = 5270
-	 } 
-	soldiers = {
-		culture = slovak
-		religion =  catholic 
-		size = 3451
-	 } 
-	soldiers = {
-		culture = slovak
-		religion = secularism
-		size = 5632
-	 } 
-	aristocrats = {
-		culture = slovak
-		religion =  catholic 
-		size = 1790
-	 } 
-	aristocrats = {
-		culture = slovak
-		religion = secularism
-		size = 2921
-	 } 
-	bureaucrats = {
-		culture = slovak
-		religion =  catholic 
-		size = 429
-	 } 
-	bureaucrats = {
-		culture = slovak
-		religion = secularism
-		size = 701
-	 } 
-	capitalists = {
-		culture = slovak
-		religion =  catholic 
-		size = 429
-	 } 
-	capitalists = {
-		culture = slovak
-		religion = secularism
-		size = 701
-	 } 
-	clergymen = {
-		culture = slovak
-		religion =  catholic 
-		size = 1432
-	 } 
-	clergymen = {
-		culture = slovak
-		religion = secularism
-		size = 2337
-	 } 
-	clerks = {
-		culture = slovak
-		religion =  catholic 
-		size = 1544
-	 } 
-	clerks = {
-		culture = slovak
-		religion = secularism
-		size = 2520
-	 } 
-	artisans = {
-		culture = slovak
-		religion =  catholic 
-		size = 1467
-	 } 
-	artisans = {
-		culture = slovak
-		religion = secularism
-		size = 2393
-	 } 
-	craftsmen = {
-		culture = slovak
-		religion =  catholic 
-		size = 4634
-	 } 
-	craftsmen = {
-		culture = slovak
-		religion = secularism
-		size = 7560
-	 } 
-	farmers = {
-		culture = slovak
-		religion =  catholic 
-		size = 100718
-	 } 
-	farmers = {
-		culture = slovak
-		religion = secularism
-		size = 132752
-	 } 
-	farmers = {
-		culture = roma
-		religion =  orthodox 
-		size = 2148
-	 } 
-	farmers = {
-		culture = roma
-		religion = secularism
-		size = 3506
-	 } 
+  officers = {
+    culture = czech
+    religion =  catholic
+    size = 351
+  }
+  officers = {
+    culture = czech
+    religion = secularism
+    size = 573
+  }
+  soldiers = {
+    culture = czech
+    religion =  catholic
+    size = 3230
+  }
+  soldiers = {
+    culture = czech
+    religion = secularism
+    size = 5270
+  }
+  soldiers = {
+    culture = slovak
+    religion =  catholic
+    size = 3451
+  }
+  soldiers = {
+    culture = slovak
+    religion = secularism
+    size = 5632
+  }
+  aristocrats = {
+    culture = slovak
+    religion =  catholic
+    size = 1790
+  }
+  aristocrats = {
+    culture = slovak
+    religion = secularism
+    size = 2921
+  }
+  bureaucrats = {
+    culture = slovak
+    religion =  catholic
+    size = 429
+  }
+  bureaucrats = {
+    culture = slovak
+    religion = secularism
+    size = 701
+  }
+  capitalists = {
+    culture = slovak
+    religion =  catholic
+    size = 429
+  }
+  capitalists = {
+    culture = slovak
+    religion = secularism
+    size = 701
+  }
+  clergymen = {
+    culture = slovak
+    religion =  catholic
+    size = 1432
+  }
+  clergymen = {
+    culture = slovak
+    religion = secularism
+    size = 2337
+  }
+  clerks = {
+    culture = slovak
+    religion =  catholic
+    size = 1544
+  }
+  clerks = {
+    culture = slovak
+    religion = secularism
+    size = 2520
+  }
+  artisans = {
+    culture = slovak
+    religion =  catholic
+    size = 1467
+  }
+  artisans = {
+    culture = slovak
+    religion = secularism
+    size = 2393
+  }
+  craftsmen = {
+    culture = slovak
+    religion =  catholic
+    size = 4634
+  }
+  craftsmen = {
+    culture = slovak
+    religion = secularism
+    size = 7560
+  }
+  farmers = {
+    culture = slovak
+    religion =  catholic
+    size = 100718
+  }
+  farmers = {
+    culture = slovak
+    religion = secularism
+    size = 132752
+  }
+  farmers = {
+    culture = roma
+    religion =  orthodox
+    size = 2148
+  }
+  farmers = {
+    culture = roma
+    religion = secularism
+    size = 3506
+  }
 }
 #Trencin - Trencin (387000/96750 POPS)
 634 = {
-	clergymen = {
-		culture = slovak
-		religion =  catholic 
-		size = 735
-	 } 
-	clergymen = {
-		culture = slovak
-		religion = secularism
-		size = 1199
-	 } 
-	farmers = {
-		culture = slovak
-		religion =  catholic 
-		size = 86029
-	 } 
-	farmers = {
-		culture = slovak
-		religion = secularism
-		size = 58785
-	 } 
+  clergymen = {
+    culture = slovak
+    religion =  catholic
+    size = 735
+  }
+  clergymen = {
+    culture = slovak
+    religion = secularism
+    size = 1199
+  }
+  farmers = {
+    culture = slovak
+    religion =  catholic
+    size = 86029
+  }
+  farmers = {
+    culture = slovak
+    religion = secularism
+    size = 58785
+  }
 }
 #Nitra - Nitra (449000/112250 POPS)
 635 = {
-	clergymen = {
-		culture = slovak
-		religion =  catholic 
-		size = 853
-	 } 
-	clergymen = {
-		culture = slovak
-		religion = secularism
-		size = 1391
-	 } 
-	farmers = {
-		culture = slovak
-		religion =  catholic 
-		size = 41801
-	 } 
-	farmers = {
-		culture = slovak
-		religion = secularism
-		size = 68203
-	 } 
+  clergymen = {
+    culture = slovak
+    religion =  catholic
+    size = 853
+  }
+  clergymen = {
+    culture = slovak
+    religion = secularism
+    size = 1391
+  }
+  farmers = {
+    culture = slovak
+    religion =  catholic
+    size = 41801
+  }
+  farmers = {
+    culture = slovak
+    religion = secularism
+    size = 68203
+  }
 }
 #Banska Bystrica - Zilina (448000/112000 POPS)
 636 = {
-	clergymen = {
-		culture = slovak
-		religion =  catholic 
-		size = 851
-	 } 
-	clergymen = {
-		culture = slovak
-		religion = secularism
-		size = 1388
-	 } 
-	farmers = {
-		culture = slovak
-		religion =  catholic 
-		size = 91708
-	 } 
-	farmers = {
-		culture = slovak
-		religion = secularism
-		size = 68051
-	 } 
+  clergymen = {
+    culture = slovak
+    religion =  catholic
+    size = 851
+  }
+  clergymen = {
+    culture = slovak
+    religion = secularism
+    size = 1388
+  }
+  farmers = {
+    culture = slovak
+    religion =  catholic
+    size = 91708
+  }
+  farmers = {
+    culture = slovak
+    religion = secularism
+    size = 68051
+  }
 }
 #Kosice - Kosice (1047000/261750 POPS)
 637 = {
-	clergymen = {
-		culture = hungarian
-		religion =  catholic 
-		size = 1989
-	 } 
-	clergymen = {
-		culture = hungarian
-		religion = secularism
-		size = 3245
-	 } 
-	farmers = {
-		culture = hungarian
-		religion =  catholic 
-		size = 20887
-	 } 
-	farmers = {
-		culture = hungarian
-		religion = secularism
-		size = 34079
-	 } 
-	farmers = {
-		culture = slovak
-		religion =  catholic 
-		size = 200732
-	 } 
-	farmers = {
-		culture = slovak
-		religion = secularism
-		size = 81142
-	 } 
-	farmers = {
-		culture = rusyn
-		religion =  orthodox 
-		size = 1989
-	 } 
-	farmers = {
-		culture = rusyn
-		religion = secularism
-		size = 3245
-	 } 
-	farmers = {
-		culture = roma
-		religion =  orthodox 
-		size = 24866
-	 } 
-	farmers = {
-		culture = roma
-		religion = secularism
-		size = 40570
-	 } 
+  clergymen = {
+    culture = hungarian
+    religion =  catholic
+    size = 1989
+  }
+  clergymen = {
+    culture = hungarian
+    religion = secularism
+    size = 3245
+  }
+  farmers = {
+    culture = hungarian
+    religion =  catholic
+    size = 20887
+  }
+  farmers = {
+    culture = hungarian
+    religion = secularism
+    size = 34079
+  }
+  farmers = {
+    culture = slovak
+    religion =  catholic
+    size = 200732
+  }
+  farmers = {
+    culture = slovak
+    religion = secularism
+    size = 81142
+  }
+  farmers = {
+    culture = rusyn
+    religion =  orthodox
+    size = 1989
+  }
+  farmers = {
+    culture = rusyn
+    religion = secularism
+    size = 3245
+  }
+  farmers = {
+    culture = roma
+    religion =  orthodox
+    size = 24866
+  }
+  farmers = {
+    culture = roma
+    religion = secularism
+    size = 40570
+  }
 }
 #Roznava - Banska Bystrica (430000/107500 POPS)
 638 = {
-	clergymen = {
-		culture = hungarian
-		religion =  catholic 
-		size = 817
-	 } 
-	clergymen = {
-		culture = hungarian
-		religion = secularism
-		size = 1333
-	 } 
-	farmers = {
-		culture = hungarian
-		religion =  catholic 
-		size = 4085
-	 } 
-	farmers = {
-		culture = hungarian
-		religion = secularism
-		size = 6665
-	 } 
-	farmers = {
-		culture = slovak
-		religion =  catholic 
-		size = 77778
-	 } 
-	farmers = {
-		culture = slovak
-		religion = secularism
-		size = 45322
-	 } 
-	farmers = {
-		culture = roma
-		religion =  orthodox 
-		size = 8170
-	 } 
-	farmers = {
-		culture = roma
-		religion = secularism
-		size = 13330
-	 } 
+  clergymen = {
+    culture = hungarian
+    religion =  catholic
+    size = 817
+  }
+  clergymen = {
+    culture = hungarian
+    religion = secularism
+    size = 1333
+  }
+  farmers = {
+    culture = hungarian
+    religion =  catholic
+    size = 4085
+  }
+  farmers = {
+    culture = hungarian
+    religion = secularism
+    size = 6665
+  }
+  farmers = {
+    culture = slovak
+    religion =  catholic
+    size = 77778
+  }
+  farmers = {
+    culture = slovak
+    religion = secularism
+    size = 45322
+  }
+  farmers = {
+    culture = roma
+    religion =  orthodox
+    size = 8170
+  }
+  farmers = {
+    culture = roma
+    religion = secularism
+    size = 13330
+  }
 }
 #Troppau - Troppau (820000/205000 POPS)
 688 = {
-	clergymen = {
-		culture = czech
-		religion =  catholic 
-		size = 1558
-	 } 
-	clergymen = {
-		culture = czech
-		religion = secularism
-		size = 2542
-	 } 
-	farmers = {
-		culture = czech
-		religion =  catholic 
-		size = 71668
-	 } 
-	farmers = {
-		culture = czech
-		religion = secularism
-		size = 116932
-	 } 
-	farmers = {
-		culture = polish
-		religion =  catholic 
-		size = 3116
-	 } 
-	farmers = {
-		culture = polish
-		religion = secularism
-		size = 5084
-	 } 
-	farmers = {
-		culture = german
-		religion =  catholic 
-		size = 1558
-	 } 
-	farmers = {
-		culture = german
-		religion = secularism
-		size = 2542
-	 } 
+  clergymen = {
+    culture = czech
+    religion =  catholic
+    size = 1558
+  }
+  clergymen = {
+    culture = czech
+    religion = secularism
+    size = 2542
+  }
+  farmers = {
+    culture = czech
+    religion =  catholic
+    size = 71668
+  }
+  farmers = {
+    culture = czech
+    religion = secularism
+    size = 116932
+  }
+  farmers = {
+    culture = polish
+    religion =  catholic
+    size = 3116
+  }
+  farmers = {
+    culture = polish
+    religion = secularism
+    size = 5084
+  }
+  farmers = {
+    culture = german
+    religion =  catholic
+    size = 1558
+  }
+  farmers = {
+    culture = german
+    religion = secularism
+    size = 2542
+  }
 }
 #Tesin - Tesin (384000/96000 POPS)
 689 = {
-	clergymen = {
-		culture = czech
-		religion =  catholic 
-		size = 729
-	 } 
-	clergymen = {
-		culture = czech
-		religion = secularism
-		size = 1190
-	 } 
-	farmers = {
-		culture = czech
-		religion =  catholic 
-		size = 135750
-	 } 
-	farmers = {
-		culture = czech
-		religion = secularism
-		size = 158329
-	 } 
+  clergymen = {
+    culture = czech
+    religion =  catholic
+    size = 729
+  }
+  clergymen = {
+    culture = czech
+    religion = secularism
+    size = 1190
+  }
+  farmers = {
+    culture = czech
+    religion =  catholic
+    size = 135750
+  }
+  farmers = {
+    culture = czech
+    religion = secularism
+    size = 158329
+  }
 }

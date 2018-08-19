@@ -1,23 +1,23 @@
 #Kular - Venda (264000/66000 POPS)
 2652 = {
-	clergymen = {
-		culture = venda
-		religion =  protestant 
-		size = 528
-	 } 
-	clergymen = {
-		culture = venda
-		religion = secularism
-		size = 792
-	 } 
-	farmers = {
-		culture = venda
-		religion =  protestant 
-		size = 25872
-	 } 
-	farmers = {
-		culture = venda
-		religion = secularism
-		size = 38808
-	 } 
+  clergymen = {
+    culture = venda
+    religion =  protestant
+    size = 528
+  }
+  clergymen = {
+    culture = venda
+    religion = secularism
+    size = 792
+  }
+  farmers = {
+    culture = venda
+    religion =  protestant
+    size = 25872
+  }
+  farmers = {
+    culture = venda
+    religion = secularism
+    size = 38808
+  }
 }

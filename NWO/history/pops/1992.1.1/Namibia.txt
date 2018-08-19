@@ -1,484 +1,484 @@
 #Windhoek - Windhoek (282000/70500 POPS)
 2078 = {
-	officers = {
-		culture = ovambo
-		religion =  protestant 
-		size = 210
-	 } 
-	officers = {
-		culture = ovambo
-		religion = secularism
-		size = 18
-	 } 
-	soldiers = {
-		culture = ovambo
-		religion =  protestant 
-		size = 4004
-	 } 
-	soldiers = {
-		culture = ovambo
-		religion = secularism
-		size = 348
-	 } 
-	aristocrats = {
-		culture = ovambo
-		religion =  protestant 
-		size = 2594
-	 } 
-	aristocrats = {
-		culture = ovambo
-		religion = secularism
-		size = 225
-	 } 
-	bureaucrats = {
-		culture = ovambo
-		religion =  protestant 
-		size = 129
-	 } 
-	bureaucrats = {
-		culture = ovambo
-		religion = secularism
-		size = 11
-	 } 
-	capitalists = {
-		culture = ovambo
-		religion =  protestant 
-		size = 323
-	 } 
-	capitalists = {
-		culture = ovambo
-		religion = secularism
-		size = 28
-	 } 
-	clergymen = {
-		culture = ovambo
-		religion =  protestant 
-		size = 1297
-	 } 
-	clergymen = {
-		culture = ovambo
-		religion = secularism
-		size = 112
-	 } 
-	clerks = {
-		culture = ovambo
-		religion =  protestant 
-		size = 868
-	 } 
-	clerks = {
-		culture = ovambo
-		religion = secularism
-		size = 75
-	 } 
-	artisans = {
-		culture = ovambo
-		religion =  protestant 
-		size = 825
-	 } 
-	artisans = {
-		culture = ovambo
-		religion = secularism
-		size = 71
-	 } 
-	craftsmen = {
-		culture = ovambo
-		religion =  protestant 
-		size = 2606
-	 } 
-	craftsmen = {
-		culture = ovambo
-		religion = secularism
-		size = 226
-	 } 
-	farmers = {
-		culture = ovambo
-		religion =  protestant 
-		size = 2456
-	 } 
-	farmers = {
-		culture = ovambo
-		religion = secularism
-		size = 177
-	 } 
-	farmers = {
-		culture = chinese
-		religion =  taoism 
-		size = 2594
-	 } 
-	farmers = {
-		culture = chinese
-		religion = secularism
-		size = 225
-	 } 
-	farmers = {
-		culture = anglo_african
-		religion =  protestant 
-		size = 5188
-	 } 
-	farmers = {
-		culture = anglo_african
-		religion = secularism
-		size = 451
-	 } 
-	farmers = {
-		culture = afrikaaner
-		religion =  protestant 
-		size = 6486
-	 } 
-	farmers = {
-		culture = afrikaaner
-		religion = secularism
-		size = 564
-	 } 
-	farmers = {
-		culture = german
-		religion =  catholic 
-		size = 10377
-	 } 
-	farmers = {
-		culture = german
-		religion = secularism
-		size = 902
-	 } 
-	farmers = {
-		culture = damara
-		religion =  protestant 
-		size = 12972
-	 } 
-	farmers = {
-		culture = damara
-		religion = secularism
-		size = 1128
-	 } 
-	farmers = {
-		culture = khoisan
-		religion =  animist 
-		size = 11924
-	 } 
-	farmers = {
-		culture = khoisan
-		religion = secularism
-		size = 1073
-	 } 
+  officers = {
+    culture = ovambo
+    religion =  protestant
+    size = 210
+  }
+  officers = {
+    culture = ovambo
+    religion = secularism
+    size = 18
+  }
+  soldiers = {
+    culture = ovambo
+    religion =  protestant
+    size = 4004
+  }
+  soldiers = {
+    culture = ovambo
+    religion = secularism
+    size = 348
+  }
+  aristocrats = {
+    culture = ovambo
+    religion =  protestant
+    size = 2594
+  }
+  aristocrats = {
+    culture = ovambo
+    religion = secularism
+    size = 225
+  }
+  bureaucrats = {
+    culture = ovambo
+    religion =  protestant
+    size = 129
+  }
+  bureaucrats = {
+    culture = ovambo
+    religion = secularism
+    size = 11
+  }
+  capitalists = {
+    culture = ovambo
+    religion =  protestant
+    size = 323
+  }
+  capitalists = {
+    culture = ovambo
+    religion = secularism
+    size = 28
+  }
+  clergymen = {
+    culture = ovambo
+    religion =  protestant
+    size = 1297
+  }
+  clergymen = {
+    culture = ovambo
+    religion = secularism
+    size = 112
+  }
+  clerks = {
+    culture = ovambo
+    religion =  protestant
+    size = 868
+  }
+  clerks = {
+    culture = ovambo
+    religion = secularism
+    size = 75
+  }
+  artisans = {
+    culture = ovambo
+    religion =  protestant
+    size = 825
+  }
+  artisans = {
+    culture = ovambo
+    religion = secularism
+    size = 71
+  }
+  craftsmen = {
+    culture = ovambo
+    religion =  protestant
+    size = 2606
+  }
+  craftsmen = {
+    culture = ovambo
+    religion = secularism
+    size = 226
+  }
+  farmers = {
+    culture = ovambo
+    religion =  protestant
+    size = 2456
+  }
+  farmers = {
+    culture = ovambo
+    religion = secularism
+    size = 177
+  }
+  farmers = {
+    culture = chinese
+    religion =  taoism
+    size = 2594
+  }
+  farmers = {
+    culture = chinese
+    religion = secularism
+    size = 225
+  }
+  farmers = {
+    culture = anglo_african
+    religion =  protestant
+    size = 5188
+  }
+  farmers = {
+    culture = anglo_african
+    religion = secularism
+    size = 451
+  }
+  farmers = {
+    culture = afrikaaner
+    religion =  protestant
+    size = 6486
+  }
+  farmers = {
+    culture = afrikaaner
+    religion = secularism
+    size = 564
+  }
+  farmers = {
+    culture = german
+    religion =  catholic
+    size = 10377
+  }
+  farmers = {
+    culture = german
+    religion = secularism
+    size = 902
+  }
+  farmers = {
+    culture = damara
+    religion =  protestant
+    size = 12972
+  }
+  farmers = {
+    culture = damara
+    religion = secularism
+    size = 1128
+  }
+  farmers = {
+    culture = khoisan
+    religion =  animist
+    size = 11924
+  }
+  farmers = {
+    culture = khoisan
+    religion = secularism
+    size = 1073
+  }
 }
 #Swakopmund - Swakopmund (71000/17750 POPS)
 2079 = {
-	clergymen = {
-		culture = ovambo
-		religion =  protestant 
-		size = 326
-	 } 
-	clergymen = {
-		culture = ovambo
-		religion = secularism
-		size = 28
-	 } 
-	farmers = {
-		culture = ovambo
-		religion =  protestant 
-		size = 10777
-	 } 
-	farmers = {
-		culture = ovambo
-		religion = secularism
-		size = 937
-	 } 
-	farmers = {
-		culture = herero
-		religion =  protestant 
-		size = 5225
-	 } 
-	farmers = {
-		culture = herero
-		religion = secularism
-		size = 454
-	 } 
+  clergymen = {
+    culture = ovambo
+    religion =  protestant
+    size = 326
+  }
+  clergymen = {
+    culture = ovambo
+    religion = secularism
+    size = 28
+  }
+  farmers = {
+    culture = ovambo
+    religion =  protestant
+    size = 10777
+  }
+  farmers = {
+    culture = ovambo
+    religion = secularism
+    size = 937
+  }
+  farmers = {
+    culture = herero
+    religion =  protestant
+    size = 5225
+  }
+  farmers = {
+    culture = herero
+    religion = secularism
+    size = 454
+  }
 }
 #Tsumeb - Tsumeb (258000/64500 POPS)
 2080 = {
-	officers = {
-		culture = ovambo
-		religion =  protestant 
-		size = 385
-	 } 
-	officers = {
-		culture = ovambo
-		religion = secularism
-		size = 33
-	 } 
-	soldiers = {
-		culture = ovambo
-		religion =  protestant 
-		size = 7327
-	 } 
-	soldiers = {
-		culture = ovambo
-		religion = secularism
-		size = 637
-	 } 
-	aristocrats = {
-		culture = ovambo
-		religion =  protestant 
-		size = 2373
-	 } 
-	aristocrats = {
-		culture = ovambo
-		religion = secularism
-		size = 206
-	 } 
-	bureaucrats = {
-		culture = ovambo
-		religion =  protestant 
-		size = 118
-	 } 
-	bureaucrats = {
-		culture = ovambo
-		religion = secularism
-		size = 10
-	 } 
-	capitalists = {
-		culture = ovambo
-		religion =  protestant 
-		size = 296
-	 } 
-	capitalists = {
-		culture = ovambo
-		religion = secularism
-		size = 25
-	 } 
-	clergymen = {
-		culture = ovambo
-		religion =  protestant 
-		size = 1186
-	 } 
-	clergymen = {
-		culture = ovambo
-		religion = secularism
-		size = 103
-	 } 
-	clerks = {
-		culture = ovambo
-		religion =  protestant 
-		size = 739
-	 } 
-	clerks = {
-		culture = ovambo
-		religion = secularism
-		size = 64
-	 } 
-	artisans = {
-		culture = ovambo
-		religion =  protestant 
-		size = 701
-	 } 
-	artisans = {
-		culture = ovambo
-		religion = secularism
-		size = 61
-	 } 
-	craftsmen = {
-		culture = ovambo
-		religion =  protestant 
-		size = 2219
-	 } 
-	craftsmen = {
-		culture = ovambo
-		religion = secularism
-		size = 192
-	 } 
-	farmers = {
-		culture = ovambo
-		religion =  protestant 
-		size = 11353
-	 } 
-	farmers = {
-		culture = ovambo
-		religion = secularism
-		size = 987
-	 } 
-	farmers = {
-		culture = kavango
-		religion =  protestant 
-		size = 32637
-	 } 
-	farmers = {
-		culture = kavango
-		religion = secularism
-		size = 2838
-	 } 
+  officers = {
+    culture = ovambo
+    religion =  protestant
+    size = 385
+  }
+  officers = {
+    culture = ovambo
+    religion = secularism
+    size = 33
+  }
+  soldiers = {
+    culture = ovambo
+    religion =  protestant
+    size = 7327
+  }
+  soldiers = {
+    culture = ovambo
+    religion = secularism
+    size = 637
+  }
+  aristocrats = {
+    culture = ovambo
+    religion =  protestant
+    size = 2373
+  }
+  aristocrats = {
+    culture = ovambo
+    religion = secularism
+    size = 206
+  }
+  bureaucrats = {
+    culture = ovambo
+    religion =  protestant
+    size = 118
+  }
+  bureaucrats = {
+    culture = ovambo
+    religion = secularism
+    size = 10
+  }
+  capitalists = {
+    culture = ovambo
+    religion =  protestant
+    size = 296
+  }
+  capitalists = {
+    culture = ovambo
+    religion = secularism
+    size = 25
+  }
+  clergymen = {
+    culture = ovambo
+    religion =  protestant
+    size = 1186
+  }
+  clergymen = {
+    culture = ovambo
+    religion = secularism
+    size = 103
+  }
+  clerks = {
+    culture = ovambo
+    religion =  protestant
+    size = 739
+  }
+  clerks = {
+    culture = ovambo
+    religion = secularism
+    size = 64
+  }
+  artisans = {
+    culture = ovambo
+    religion =  protestant
+    size = 701
+  }
+  artisans = {
+    culture = ovambo
+    religion = secularism
+    size = 61
+  }
+  craftsmen = {
+    culture = ovambo
+    religion =  protestant
+    size = 2219
+  }
+  craftsmen = {
+    culture = ovambo
+    religion = secularism
+    size = 192
+  }
+  farmers = {
+    culture = ovambo
+    religion =  protestant
+    size = 11353
+  }
+  farmers = {
+    culture = ovambo
+    religion = secularism
+    size = 987
+  }
+  farmers = {
+    culture = kavango
+    religion =  protestant
+    size = 32637
+  }
+  farmers = {
+    culture = kavango
+    religion = secularism
+    size = 2838
+  }
 }
 #Linyati - Linyati (552000/138000 POPS)
 2081 = {
-	clergymen = {
-		culture = ovambo
-		religion =  protestant 
-		size = 2539
-	 } 
-	clergymen = {
-		culture = ovambo
-		religion = secularism
-		size = 220
-	 } 
-	farmers = {
-		culture = ovambo
-		religion =  protestant 
-		size = 107916
-	 } 
-	farmers = {
-		culture = ovambo
-		religion = secularism
-		size = 9384
-	 } 
-	farmers = {
-		culture = lozi
-		religion =  protestant 
-		size = 16504
-	 } 
-	farmers = {
-		culture = lozi
-		religion = secularism
-		size = 1435
-	 } 
+  clergymen = {
+    culture = ovambo
+    religion =  protestant
+    size = 2539
+  }
+  clergymen = {
+    culture = ovambo
+    religion = secularism
+    size = 220
+  }
+  farmers = {
+    culture = ovambo
+    religion =  protestant
+    size = 107916
+  }
+  farmers = {
+    culture = ovambo
+    religion = secularism
+    size = 9384
+  }
+  farmers = {
+    culture = lozi
+    religion =  protestant
+    size = 16504
+  }
+  farmers = {
+    culture = lozi
+    religion = secularism
+    size = 1435
+  }
 }
 #Otjinene - Otjinene (176000/44000 POPS)
 2082 = {
-	clergymen = {
-		culture = ovambo
-		religion =  protestant 
-		size = 809
-	 } 
-	clergymen = {
-		culture = ovambo
-		religion = secularism
-		size = 70
-	 } 
-	farmers = {
-		culture = ovambo
-		religion =  protestant 
-		size = 7286
-	 } 
-	farmers = {
-		culture = ovambo
-		religion = secularism
-		size = 633
-	 } 
-	farmers = {
-		culture = herero
-		religion =  protestant 
-		size = 20240
-	 } 
-	farmers = {
-		culture = herero
-		religion = secularism
-		size = 1760
-	 } 
-	farmers = {
-		culture = nama
-		religion =  protestant 
-		size = 12144
-	 } 
-	farmers = {
-		culture = nama
-		religion = secularism
-		size = 1056
-	 } 
+  clergymen = {
+    culture = ovambo
+    religion =  protestant
+    size = 809
+  }
+  clergymen = {
+    culture = ovambo
+    religion = secularism
+    size = 70
+  }
+  farmers = {
+    culture = ovambo
+    religion =  protestant
+    size = 7286
+  }
+  farmers = {
+    culture = ovambo
+    religion = secularism
+    size = 633
+  }
+  farmers = {
+    culture = herero
+    religion =  protestant
+    size = 20240
+  }
+  farmers = {
+    culture = herero
+    religion = secularism
+    size = 1760
+  }
+  farmers = {
+    culture = nama
+    religion =  protestant
+    size = 12144
+  }
+  farmers = {
+    culture = nama
+    religion = secularism
+    size = 1056
+  }
 }
 #Angra Pequena - Angra Pequena (14000/3500 POPS)
 2084 = {
-	clergymen = {
-		culture = coloured
-		religion =  protestant 
-		size = 64
-	 } 
-	clergymen = {
-		culture = coloured
-		religion = secularism
-		size = 5
-	 } 
-	farmers = {
-		culture = coloured
-		religion =  protestant 
-		size = 3155
-	 } 
-	farmers = {
-		culture = coloured
-		religion = secularism
-		size = 274
-	 } 
+  clergymen = {
+    culture = coloured
+    religion =  protestant
+    size = 64
+  }
+  clergymen = {
+    culture = coloured
+    religion = secularism
+    size = 5
+  }
+  farmers = {
+    culture = coloured
+    religion =  protestant
+    size = 3155
+  }
+  farmers = {
+    culture = coloured
+    religion = secularism
+    size = 274
+  }
 }
 #Nugouses - Nugouses (65000/16250 POPS)
 2085 = {
-	clergymen = {
-		culture = coloured
-		religion =  protestant 
-		size = 299
-	 } 
-	clergymen = {
-		culture = coloured
-		religion = secularism
-		size = 26
-	 } 
-	farmers = {
-		culture = coloured
-		religion =  protestant 
-		size = 7176
-	 } 
-	farmers = {
-		culture = coloured
-		religion = secularism
-		size = 624
-	 } 
-	farmers = {
-		culture = nama
-		religion =  protestant 
-		size = 5980
-	 } 
-	farmers = {
-		culture = nama
-		religion = secularism
-		size = 520
-	 } 
-	farmers = {
-		culture = afrikaaner
-		religion =  protestant 
-		size = 1495
-	 } 
-	farmers = {
-		culture = afrikaaner
-		religion = secularism
-		size = 130
-	 } 
+  clergymen = {
+    culture = coloured
+    religion =  protestant
+    size = 299
+  }
+  clergymen = {
+    culture = coloured
+    religion = secularism
+    size = 26
+  }
+  farmers = {
+    culture = coloured
+    religion =  protestant
+    size = 7176
+  }
+  farmers = {
+    culture = coloured
+    religion = secularism
+    size = 624
+  }
+  farmers = {
+    culture = nama
+    religion =  protestant
+    size = 5980
+  }
+  farmers = {
+    culture = nama
+    religion = secularism
+    size = 520
+  }
+  farmers = {
+    culture = afrikaaner
+    religion =  protestant
+    size = 1495
+  }
+  farmers = {
+    culture = afrikaaner
+    religion = secularism
+    size = 130
+  }
 }
 #Karasburg - Karasburg (49000/12250 POPS)
 2086 = {
-	clergymen = {
-		culture = coloured
-		religion =  protestant 
-		size = 225
-	 } 
-	clergymen = {
-		culture = coloured
-		religion = secularism
-		size = 19
-	 } 
-	farmers = {
-		culture = coloured
-		religion =  protestant 
-		size = 9917
-	 } 
-	farmers = {
-		culture = coloured
-		religion = secularism
-		size = 862
-	 } 
-	farmers = {
-		culture = afrikaaner
-		religion =  protestant 
-		size = 1127
-	 } 
-	farmers = {
-		culture = afrikaaner
-		religion = secularism
-		size = 98
-	 } 
+  clergymen = {
+    culture = coloured
+    religion =  protestant
+    size = 225
+  }
+  clergymen = {
+    culture = coloured
+    religion = secularism
+    size = 19
+  }
+  farmers = {
+    culture = coloured
+    religion =  protestant
+    size = 9917
+  }
+  farmers = {
+    culture = coloured
+    religion = secularism
+    size = 862
+  }
+  farmers = {
+    culture = afrikaaner
+    religion =  protestant
+    size = 1127
+  }
+  farmers = {
+    culture = afrikaaner
+    religion = secularism
+    size = 98
+  }
 }

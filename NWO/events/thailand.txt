@@ -7,15 +7,15 @@ country_event = {
 
   trigger = {
     tag = THI
-	year = 1946 NOT = { year = 1947 }
-	OR = { government = hms_government government = absolute_monarchy }
+    year = 1946 NOT = { year = 1947 }
+    OR = { government = hms_government government = absolute_monarchy }
   }
 
   mean_time_to_happen = { months = 2 }
 
   option = {
     name = EVT_8013402_A
-	define_general = { name = "Rama VIII" personality = energetic background = no_background }
+    define_general = { name = "Rama VIII" personality = energetic background = no_background }
   }
 }
 country_event = {
@@ -27,15 +27,15 @@ country_event = {
 
   trigger = {
     tag = THI
-	year = 1957 NOT = { year = 1958 }
-	OR = { government = hms_government government = absolute_monarchy }
+    year = 1957 NOT = { year = 1958 }
+    OR = { government = hms_government government = absolute_monarchy }
   }
 
   mean_time_to_happen = { months = 1 }
 
   option = {
     name = OK
-	define_general = { name = "Rama IX" personality = energetic background = no_background }
+    define_general = { name = "Rama IX" personality = energetic background = no_background }
   }
 }
 country_event = {
@@ -47,8 +47,8 @@ country_event = {
 
   trigger = {
     tag = THI
-	year = 1959 NOT = { year = 1964 }
-	OR = { government = hms_government government = absolute_monarchy }
+    year = 1959 NOT = { year = 1964 }
+    OR = { government = hms_government government = absolute_monarchy }
   }
 
   mean_time_to_happen = { months = 4 }

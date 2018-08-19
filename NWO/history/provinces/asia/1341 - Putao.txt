@@ -7,9 +7,9 @@ life_rating = 33
 terrain = seasonal_jungle_mountains
 colonial = 2
 1992.1.1 = {
-owner = MMR
-controller = MMR
-add_core = MMR
-add_core = KAC
-colonial = 0
+  owner = MMR
+  controller = MMR
+  add_core = MMR
+  add_core = KAC
+  colonial = 0
 }

@@ -1,303 +1,303 @@
 #Fez - Fez (550000/137500 POPS)
 1680 = {
-	officers = {
-		culture = sunni_arab
-		religion =  sunni 
-		size = 1510
-	 } 
-	soldiers = {
-		culture = sunni_arab
-		religion =  sunni 
-		size = 28692
-	 } 
-	aristocrats = {
-		culture = sunni_arab
-		religion =  sunni 
-		size = 5500
-	 } 
-	clergymen = {
-		culture = sunni_arab
-		religion =  sunni 
-		size = 2750
-	 } 
-	artisans = {
-		culture = sunni_arab
-		religion =  sunni 
-		size = 1104
-	 } 
-	farmers = {
-		culture = sunni_arab
-		religion =  sunni 
-		size = 8432
-	 } 
-	farmers = {
-		culture = jewish
-		religion =  jewish 
-		size = 27087
-	 } 
-	farmers = {
-		culture = jewish
-		religion = secularism
-		size = 412
-	 } 
-	farmers = {
-		culture = berber
-		religion =  sunni 
-		size = 61875
-	 } 
+  officers = {
+    culture = sunni_arab
+    religion =  sunni
+    size = 1510
+  }
+  soldiers = {
+    culture = sunni_arab
+    religion =  sunni
+    size = 28692
+  }
+  aristocrats = {
+    culture = sunni_arab
+    religion =  sunni
+    size = 5500
+  }
+  clergymen = {
+    culture = sunni_arab
+    religion =  sunni
+    size = 2750
+  }
+  artisans = {
+    culture = sunni_arab
+    religion =  sunni
+    size = 1104
+  }
+  farmers = {
+    culture = sunni_arab
+    religion =  sunni
+    size = 8432
+  }
+  farmers = {
+    culture = jewish
+    religion =  jewish
+    size = 27087
+  }
+  farmers = {
+    culture = jewish
+    religion = secularism
+    size = 412
+  }
+  farmers = {
+    culture = berber
+    religion =  sunni
+    size = 61875
+  }
 }
 #Wazzan - Gharb-Chrarda-Béni Hssen (650000/162500 POPS)
 1681 = {
-	clergymen = {
-		culture = sunni_arab
-		religion =  sunni 
-		size = 3250
-	 } 
-	farmers = {
-		culture = sunni_arab
-		religion =  sunni 
-		size = 159250
-	 } 
+  clergymen = {
+    culture = sunni_arab
+    religion =  sunni
+    size = 3250
+  }
+  farmers = {
+    culture = sunni_arab
+    religion =  sunni
+    size = 159250
+  }
 }
 #Meknes - Meknès-Tafilalet (734000/183500 POPS)
 1682 = {
-	clergymen = {
-		culture = sunni_arab
-		religion =  sunni 
-		size = 3670
-	 } 
-	farmers = {
-		culture = sunni_arab
-		religion =  sunni 
-		size = 58720
-	 } 
-	farmers = {
-		culture = berber
-		religion =  sunni 
-		size = 121110
-	 } 
+  clergymen = {
+    culture = sunni_arab
+    religion =  sunni
+    size = 3670
+  }
+  farmers = {
+    culture = sunni_arab
+    religion =  sunni
+    size = 58720
+  }
+  farmers = {
+    culture = berber
+    religion =  sunni
+    size = 121110
+  }
 }
 #Taza - Taza-Al Hoceima-Taounate (316000/79000 POPS)
 1683 = {
-	clergymen = {
-		culture = sunni_arab
-		religion =  sunni 
-		size = 1580
-	 } 
-	farmers = {
-		culture = sunni_arab
-		religion =  sunni 
-		size = 45820
-	 } 
-	farmers = {
-		culture = berber
-		religion =  sunni 
-		size = 31600
-	 } 
+  clergymen = {
+    culture = sunni_arab
+    religion =  sunni
+    size = 1580
+  }
+  farmers = {
+    culture = sunni_arab
+    religion =  sunni
+    size = 45820
+  }
+  farmers = {
+    culture = berber
+    religion =  sunni
+    size = 31600
+  }
 }
 #Wujda - Oriental (664000/166000 POPS)
 1684 = {
-	clergymen = {
-		culture = sunni_arab
-		religion =  sunni 
-		size = 3320
-	 } 
-	farmers = {
-		culture = sunni_arab
-		religion =  sunni 
-		size = 29880
-	 } 
-	farmers = {
-		culture = berber
-		religion =  sunni 
-		size = 132800
-	 } 
+  clergymen = {
+    culture = sunni_arab
+    religion =  sunni
+    size = 3320
+  }
+  farmers = {
+    culture = sunni_arab
+    religion =  sunni
+    size = 29880
+  }
+  farmers = {
+    culture = berber
+    religion =  sunni
+    size = 132800
+  }
 }
 #Rabat - Rabat (659000/164750 POPS)
 1685 = {
-	clergymen = {
-		culture = sunni_arab
-		religion =  sunni 
-		size = 3295
-	 } 
-	farmers = {
-		culture = sunni_arab
-		religion =  sunni 
-		size = 128505
-	 } 
-	farmers = {
-		culture = jewish
-		religion =  jewish 
-		size = 32455
-	 } 
-	farmers = {
-		culture = jewish
-		religion = secularism
-		size = 494
-	 } 
+  clergymen = {
+    culture = sunni_arab
+    religion =  sunni
+    size = 3295
+  }
+  farmers = {
+    culture = sunni_arab
+    religion =  sunni
+    size = 128505
+  }
+  farmers = {
+    culture = jewish
+    religion =  jewish
+    size = 32455
+  }
+  farmers = {
+    culture = jewish
+    religion = secularism
+    size = 494
+  }
 }
 #Marrakesh - Marrakech-Tensift-El Haouz (735000/183750 POPS)
 1690 = {
-	clergymen = {
-		culture = sunni_arab
-		religion =  sunni 
-		size = 3675
-	 } 
-	farmers = {
-		culture = sunni_arab
-		religion =  sunni 
-		size = 180075
-	 } 
+  clergymen = {
+    culture = sunni_arab
+    religion =  sunni
+    size = 3675
+  }
+  farmers = {
+    culture = sunni_arab
+    religion =  sunni
+    size = 180075
+  }
 }
 #Casablanca - Grand Casablanca (1270000/317500 POPS)
 1691 = {
-	officers = {
-		culture = sunni_arab
-		religion =  sunni 
-		size = 1868
-	 } 
-	soldiers = {
-		culture = sunni_arab
-		religion =  sunni 
-		size = 35493
-	 } 
-	aristocrats = {
-		culture = sunni_arab
-		religion =  sunni 
-		size = 12700
-	 } 
-	clergymen = {
-		culture = sunni_arab
-		religion =  sunni 
-		size = 6350
-	 } 
-	artisans = {
-		culture = sunni_arab
-		religion =  sunni 
-		size = 2883
-	 } 
-	farmers = {
-		culture = sunni_arab
-		religion =  sunni 
-		size = 194389
-	 } 
-	farmers = {
-		culture = jewish
-		religion =  jewish 
-		size = 62547
-	 } 
-	farmers = {
-		culture = jewish
-		religion = secularism
-		size = 952
-	 } 
+  officers = {
+    culture = sunni_arab
+    religion =  sunni
+    size = 1868
+  }
+  soldiers = {
+    culture = sunni_arab
+    religion =  sunni
+    size = 35493
+  }
+  aristocrats = {
+    culture = sunni_arab
+    religion =  sunni
+    size = 12700
+  }
+  clergymen = {
+    culture = sunni_arab
+    religion =  sunni
+    size = 6350
+  }
+  artisans = {
+    culture = sunni_arab
+    religion =  sunni
+    size = 2883
+  }
+  farmers = {
+    culture = sunni_arab
+    religion =  sunni
+    size = 194389
+  }
+  farmers = {
+    culture = jewish
+    religion =  jewish
+    size = 62547
+  }
+  farmers = {
+    culture = jewish
+    religion = secularism
+    size = 952
+  }
 }
 #Huribka - Chaouia-Ouardigha (579000/144750 POPS)
 1692 = {
-	clergymen = {
-		culture = sunni_arab
-		religion =  sunni 
-		size = 2895
-	 } 
-	farmers = {
-		culture = sunni_arab
-		religion =  sunni 
-		size = 141855
-	 } 
+  clergymen = {
+    culture = sunni_arab
+    religion =  sunni
+    size = 2895
+  }
+  farmers = {
+    culture = sunni_arab
+    religion =  sunni
+    size = 141855
+  }
 }
 #Sawira - Marrakech-Tensift-El Haouz (34000/8500 POPS)
 1693 = {
-	farmers = {
-		culture = sunni_arab
-		religion =  sunni 
-		size = 8330
-	 } 
+  farmers = {
+    culture = sunni_arab
+    religion =  sunni
+    size = 8330
+  }
 }
 #Agadir - Souss-Massa-Drâa (1084000/271000 POPS)
 1694 = {
-	clergymen = {
-		culture = sunni_arab
-		religion =  sunni 
-		size = 5420
-	 } 
-	farmers = {
-		culture = sunni_arab
-		religion =  sunni 
-		size = 37940
-	 } 
-	farmers = {
-		culture = berber
-		religion =  sunni 
-		size = 227640
-	 } 
+  clergymen = {
+    culture = sunni_arab
+    religion =  sunni
+    size = 5420
+  }
+  farmers = {
+    culture = sunni_arab
+    religion =  sunni
+    size = 37940
+  }
+  farmers = {
+    culture = berber
+    religion =  sunni
+    size = 227640
+  }
 }
 #Tarfaya - Guelmim-Es Semara (139000/34750 POPS)
 1696 = {
-	farmers = {
-		culture = sunni_arab
-		religion =  sunni 
-		size = 34055
-	 } 
+  farmers = {
+    culture = sunni_arab
+    religion =  sunni
+    size = 34055
+  }
 }
 #Figuig - Figuig (6000/1500 POPS)
 1697 = {
-	clergymen = {
-		culture = sunni_arab
-		religion =  sunni 
-		size = 30
-	 } 
-	farmers = {
-		culture = sunni_arab
-		religion =  sunni 
-		size = 1470
-	 } 
+  clergymen = {
+    culture = sunni_arab
+    religion =  sunni
+    size = 30
+  }
+  farmers = {
+    culture = sunni_arab
+    religion =  sunni
+    size = 1470
+  }
 }
 #Rashidia - Meknès-Tafilalet (14000/3500 POPS)
 1698 = {
-	clergymen = {
-		culture = sunni_arab
-		religion =  sunni 
-		size = 70
-	 } 
-	farmers = {
-		culture = sunni_arab
-		religion =  sunni 
-		size = 280
-	 } 
-	farmers = {
-		culture = berber
-		religion =  sunni 
-		size = 3150
-	 } 
+  clergymen = {
+    culture = sunni_arab
+    religion =  sunni
+    size = 70
+  }
+  farmers = {
+    culture = sunni_arab
+    religion =  sunni
+    size = 280
+  }
+  farmers = {
+    culture = berber
+    religion =  sunni
+    size = 3150
+  }
 }
 #Warzazat - Warzazat (21000/5250 POPS)
 1699 = {
-	clergymen = {
-		culture = sunni_arab
-		religion =  sunni 
-		size = 105
-	 } 
-	farmers = {
-		culture = sunni_arab
-		religion =  sunni 
-		size = 420
-	 } 
-	farmers = {
-		culture = berber
-		religion =  sunni 
-		size = 4725
-	 } 
+  clergymen = {
+    culture = sunni_arab
+    religion =  sunni
+    size = 105
+  }
+  farmers = {
+    culture = sunni_arab
+    religion =  sunni
+    size = 420
+  }
+  farmers = {
+    culture = berber
+    religion =  sunni
+    size = 4725
+  }
 }
 #Safi - Doukkala-Abda (694000/173500 POPS)
 2563 = {
-	clergymen = {
-		culture = sunni_arab
-		religion =  sunni 
-		size = 3470
-	 } 
-	farmers = {
-		culture = sunni_arab
-		religion =  sunni 
-		size = 170030
-	 } 
+  clergymen = {
+    culture = sunni_arab
+    religion =  sunni
+    size = 3470
+  }
+  farmers = {
+    culture = sunni_arab
+    religion =  sunni
+    size = 170030
+  }
 }

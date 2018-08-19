@@ -16,8 +16,8 @@ country_event = {
 	election = yes
 	issue_group = trade_policy
 	is_triggered_only = yes
-	
-	
+
+
 	option = {
 		name = "EVTOPTA14000"
 		any_pop = {
@@ -31,7 +31,7 @@ country_event = {
 			}
 		}
 	}
-	
+
 	option = {
 		name = "EVTOPTB14000"
 		any_pop = {
@@ -45,7 +45,7 @@ country_event = {
 			}
 		}
 	}
-	
+
 	option = {
 		name = "EVTOPTC14000"
 		random_list = {
@@ -67,7 +67,7 @@ country_event = {
 			}
 		}
 	}
-	
+
 	option = {
 		name = "EVTOPTD14000"
 		any_pop = {
@@ -81,7 +81,7 @@ country_event = {
 			}
 		}
 	}
-	
+
 	option = {
 		name = "EVTOPTE14000"
 		any_pop = {
@@ -96,17 +96,17 @@ country_event = {
 		}
 	}
 }
-	
+
 # A Heated Debate: Economic Policy
 country_event = {
 	id = 14010
 	title = "EVTNAME14010"
 	desc = "EVTDESC14010"
-	
+
 	election = yes
 	issue_group = economic_policy
 	is_triggered_only = yes
-	
+
 	option = {
 		name = "EVTOPTA14010"
 		any_pop = {
@@ -120,7 +120,7 @@ country_event = {
 			}
 		}
 	}
-	
+
 	option = {
 		name = "EVTOPTB14010"
 		any_pop = {
@@ -134,7 +134,7 @@ country_event = {
 			}
 		}
 	}
-	
+
 	option = {
 		name = "EVTOPTC14010"
 		any_pop = {
@@ -148,7 +148,7 @@ country_event = {
 			}
 		}
 	}
-	
+
 	option = {
 		name = "EVTOPTD14010"
 		any_pop = {
@@ -163,17 +163,17 @@ country_event = {
 		}
 	}
 }
-	
+
 # A Heated Debate: Religious Policy
 country_event = {
 	id = 14020
 	title = "EVTNAME14020"
 	desc = "EVTDESC14020"
-	
+
 	election = yes
 	issue_group = religious_policy
 	is_triggered_only = yes
-	
+
 	option = {
 		name = "EVTOPTA14020"
 		any_pop = {
@@ -187,7 +187,7 @@ country_event = {
 			}
 		}
 	}
-	
+
 	option = {
 		name = "EVTOPTB14020"
 		any_pop = {
@@ -201,7 +201,7 @@ country_event = {
 			}
 		}
 	}
-	
+
 	option = {
 		name = "EVTOPTD14020"
 		any_pop = {
@@ -226,7 +226,7 @@ country_event = {
 	election = yes
 	issue_group = citizenship_policy
 	is_triggered_only = yes
-	
+
 	option = {
 		name = "EVTOPTA14030"
 		any_pop = {
@@ -240,7 +240,7 @@ country_event = {
 			}
 		}
 	}
-	
+
 	option = {
 		name = "EVTOPTB14030"
 		any_pop = {
@@ -254,7 +254,7 @@ country_event = {
 			}
 		}
 	}
-	
+
 	option = {
 		name = "EVTOPTC14030"
 		any_pop = {
@@ -269,17 +269,17 @@ country_event = {
 		}
 	}
 }
-	
+
 # Patriots vs. Pacifists: Debating the War Policy Issue in $PROVINCENAME$
 country_event = {
 	id = 14040
 	title = "EVTNAME14040"
 	desc = "EVTDESC14040"
-	
+
 	election = yes
 	issue_group = war_policy
 	is_triggered_only = yes
-	
+
 	option = {
 		name = "EVTOPTA14040"
 		any_pop = {
@@ -293,7 +293,7 @@ country_event = {
 			}
 		}
 	}
-	
+
 	option = {
 		name = "EVTOPTB14040"
 		any_pop = {
@@ -307,7 +307,7 @@ country_event = {
 			}
 		}
 	}
-	
+
 	option = {
 		name = "EVTOPTD14040"
 		any_pop = {
@@ -328,11 +328,11 @@ country_event = {
 	id = 14050
 	title = "EVTNAME14050"
 	desc = "EVTDESC14050"
-	
+
 	election = yes
 	issue_group = trade_policy
 	is_triggered_only = yes
-	
+
 	option = {
 		name = "EVTOPTA14050"
 		any_pop = {
@@ -346,7 +346,7 @@ country_event = {
 			}
 		}
 	}
-	
+
 	option = {
 		name = "EVTOPTB14050"
 		any_pop = {
@@ -360,7 +360,7 @@ country_event = {
 			}
 		}
 	}
-	
+
 	option = {
 		name = "EVTOPTC14050"
 		any_pop = {
@@ -370,7 +370,7 @@ country_event = {
 			}
 		}
 	}
-	
+
 	option = {
 		name = "EVTOPTD14050"
 		any_pop = {
@@ -380,7 +380,7 @@ country_event = {
 			}
 		}
 	}
-	
+
 	option = {
 		name = "EVTOPTE14050"
 		any_pop = {
@@ -397,11 +397,11 @@ country_event = {
 	id = 14060
 	title = "EVTNAME14060"
 	desc = "EVTDESC14060"
-	
+
 	election = yes
 	issue_group = trade_policy
 	is_triggered_only = yes
-	
+
 	option = {
 		name = "EVTOPTA14060"
 		any_pop = {
@@ -415,7 +415,7 @@ country_event = {
 			}
 		}
 	}
-	
+
 	option = {
 		name = "EVTOPTB14060"
 		any_pop = {
@@ -429,7 +429,7 @@ country_event = {
 			}
 		}
 	}
-		
+
 	option = {
 		name = "EVTOPTC14060"
 		any_pop = {
@@ -439,7 +439,7 @@ country_event = {
 			}
 		}
 	}
-	
+
 	option = {
 		name = "EVTOPTD14060"
 		any_pop = {
@@ -449,7 +449,7 @@ country_event = {
 			}
 		}
 	}
-	
+
 	option = {
 		name = "EVTOPTE14060"
 		any_pop = {
@@ -460,17 +460,17 @@ country_event = {
 		}
 	}
 }
-	
+
 #Monopoly
 country_event = {
 	id = 14070
 	title = "EVTNAME14070"
 	desc = "EVTDESC14070"
-	
+
 	election = yes
 	issue_group = economic_policy
 	is_triggered_only = yes
-	
+
 	option = {
 		name = "EVTOPTA14070"
 		any_pop = {
@@ -484,7 +484,7 @@ country_event = {
 			}
 		}
 	}
-	
+
 	option = {
 		name = "EVTOPTB14070"
 		any_pop = {
@@ -498,7 +498,7 @@ country_event = {
 			}
 		}
 	}
-		
+
 	option = {
 		name = "EVTOPTC14070"
 		any_pop = {
@@ -508,7 +508,7 @@ country_event = {
 			}
 		}
 	}
-	
+
 	option = {
 		name = "EVTOPTD14070"
 		any_pop = {
@@ -518,7 +518,7 @@ country_event = {
 			}
 		}
 	}
-	
+
 	option = {
 		name = "EVTOPTE14070"
 		any_pop = {
@@ -535,11 +535,11 @@ country_event = {
 	id = 14080
 	title = "EVTNAME14080"
 	desc = "EVTDESC14080"
-	
+
 	election = yes
 	issue_group = economic_policy
 	is_triggered_only = yes
-	
+
 	option = {
 		name = "EVTOPTA14080"
 		any_pop = {
@@ -553,7 +553,7 @@ country_event = {
 			}
 		}
 	}
-	
+
 	option = {
 		name = "EVTOPTB14080"
 		any_pop = {
@@ -567,7 +567,7 @@ country_event = {
 			}
 		}
 	}
-		
+
 	option = {
 		name = "EVTOPTC14080"
 		any_pop = {
@@ -577,7 +577,7 @@ country_event = {
 			}
 		}
 	}
-	
+
 	option = {
 		name = "EVTOPTD14080"
 		any_pop = {
@@ -587,7 +587,7 @@ country_event = {
 			}
 		}
 	}
-	
+
 	option = {
 		name = "EVTOPTE14080"
 		any_pop = {
@@ -604,11 +604,11 @@ country_event = {
 	id = 14090
 	title = "EVTNAME14090"
 	desc = "EVTDESC14090"
-	
+
 	election = yes
 	issue_group = economic_policy
 	is_triggered_only = yes
-	
+
 	option = {
 		name = "EVTOPTA14090"
 		any_pop = {
@@ -622,7 +622,7 @@ country_event = {
 			}
 		}
 	}
-	
+
 	option = {
 		name = "EVTOPTB14090"
 		any_pop = {
@@ -636,7 +636,7 @@ country_event = {
 			}
 		}
 	}
-		
+
 	option = {
 		name = "EVTOPTC14090"
 		any_pop = {
@@ -646,7 +646,7 @@ country_event = {
 			}
 		}
 	}
-	
+
 	option = {
 		name = "EVTOPTD14090"
 		any_pop = {
@@ -656,7 +656,7 @@ country_event = {
 			}
 		}
 	}
-	
+
 	option = {
 		name = "EVTOPTE14090"
 		any_pop = {
@@ -673,11 +673,11 @@ country_event = {
 	id = 14100
 	title = "EVTNAME14100"
 	desc = "EVTDESC14100"
-	
+
 	election = yes
 	issue_group = economic_policy
 	is_triggered_only = yes
-	
+
 	option = {
 		name = "EVTOPTA14100"
 		any_pop = {
@@ -691,7 +691,7 @@ country_event = {
 			}
 		}
 	}
-	
+
 	option = {
 		name = "EVTOPTB14100"
 		any_pop = {
@@ -705,7 +705,7 @@ country_event = {
 			}
 		}
 	}
-		
+
 	option = {
 		name = "EVTOPTC14100"
 		any_pop = {
@@ -715,7 +715,7 @@ country_event = {
 			}
 		}
 	}
-	
+
 	option = {
 		name = "EVTOPTD14100"
 		any_pop = {
@@ -725,7 +725,7 @@ country_event = {
 			}
 		}
 	}
-	
+
 	option = {
 		name = "EVTOPTE14100"
 		any_pop = {
@@ -736,17 +736,17 @@ country_event = {
 		}
 	}
 }
-	
+
 #Religious Umbrage
 country_event = {
 	id = 14110
 	title = "EVTNAME14110"
 	desc = "EVTDESC14110"
-	
+
 	election = yes
 	issue_group = religious_policy
 	is_triggered_only = yes
-	
+
 	option = {
 		name = "EVTOPTA14110"
 		any_pop = {
@@ -760,7 +760,7 @@ country_event = {
 			}
 		}
 	}
-	
+
 	option = {
 		name = "EVTOPTB14110"
 		any_pop = {
@@ -774,7 +774,7 @@ country_event = {
 			}
 		}
 	}
-		
+
 	option = {
 		name = "EVTOPTC14110"
 		any_pop = {
@@ -784,7 +784,7 @@ country_event = {
 			}
 		}
 	}
-	
+
 	option = {
 		name = "EVTOPTD14110"
 		any_pop = {
@@ -794,7 +794,7 @@ country_event = {
 			}
 		}
 	}
-	
+
 	option = {
 		name = "EVTOPTE14110"
 		any_pop = {
@@ -811,11 +811,11 @@ country_event = {
 	id = 14120
 	title = "EVTNAME14120"
 	desc = "EVTDESC14120"
-	
+
 	election = yes
 	issue_group = religious_policy
 	is_triggered_only = yes
-	
+
 	option = {
 		name = "EVTOPTA14120"
 		any_pop = {
@@ -829,7 +829,7 @@ country_event = {
 			}
 		}
 	}
-	
+
 	option = {
 		name = "EVTOPTC14120"
 		any_pop = {
@@ -847,11 +847,11 @@ country_event = {
 	id = 14130
 	title = "EVTNAME14130"
 	desc = "EVTDESC14130"
-	
+
 	election = yes
 	issue_group = religious_policy
 	is_triggered_only = yes
-	
+
 	option = {
 		name = "EVTOPTA14130"
 		any_pop = {
@@ -865,7 +865,7 @@ country_event = {
 			}
 		}
 	}
-	
+
 	option = {
 		name = "EVTOPTD14130"
 		any_pop = {
@@ -875,7 +875,7 @@ country_event = {
 			}
 		}
 	}
-	
+
 }
 
 #A Holy Place
@@ -883,11 +883,11 @@ country_event = {
 	id = 14140
 	title = "EVTNAME14140"
 	desc = "EVTDESC14140"
-	
+
 	election = yes
 	issue_group = religious_policy
 	is_triggered_only = yes
-	
+
 	option = {
 		name = "EVTOPTA14140"
 		any_pop = {
@@ -901,7 +901,7 @@ country_event = {
 			}
 		}
 	}
-	
+
 	option = {
 		name = "EVTOPTB14140"
 		any_pop = {
@@ -915,7 +915,7 @@ country_event = {
 			}
 		}
 	}
-		
+
 	option = {
 		name = "EVTOPTC14140"
 		any_pop = {
@@ -925,7 +925,7 @@ country_event = {
 			}
 		}
 	}
-	
+
 	option = {
 		name = "EVTOPTD14140"
 		any_pop = {
@@ -935,7 +935,7 @@ country_event = {
 			}
 		}
 	}
-	
+
 	option = {
 		name = "EVTOPTE14140"
 		any_pop = {
@@ -952,11 +952,11 @@ country_event = {
 	id = 14150
 	title = "EVTNAME14150"
 	desc = "EVTDESC14150"
-	
+
 	election = yes
 	issue_group = citizenship_policy
 	is_triggered_only = yes
-	
+
 	option = {
 		name = "EVTOPTA14150"
 		any_pop = {
@@ -970,7 +970,7 @@ country_event = {
 			}
 		}
 	}
-	
+
 	option = {
 		name = "EVTOPTB14150"
 		any_pop = {
@@ -984,7 +984,7 @@ country_event = {
 			}
 		}
 	}
-		
+
 	option = {
 		name = "EVTOPTC14150"
 		any_pop = {
@@ -994,7 +994,7 @@ country_event = {
 			}
 		}
 	}
-	
+
 	option = {
 		name = "EVTOPTD14150"
 		any_pop = {
@@ -1004,7 +1004,7 @@ country_event = {
 			}
 		}
 	}
-	
+
 	option = {
 		name = "EVTOPTE14150"
 		any_pop = {
@@ -1015,17 +1015,17 @@ country_event = {
 		}
 	}
 }
-	
+
 #A Difficult Situation
 country_event = {
 	id = 14160
 	title = "EVTNAME14160"
 	desc = "EVTDESC14160"
-	
+
 	election = yes
 	issue_group = citizenship_policy
 	is_triggered_only = yes
-	
+
 	option = {
 		name = "EVTOPTA14160"
 		any_pop = {
@@ -1039,7 +1039,7 @@ country_event = {
 			}
 		}
 	}
-	
+
 	option = {
 		name = "EVTOPTB14160"
 		any_pop = {
@@ -1053,7 +1053,7 @@ country_event = {
 			}
 		}
 	}
-		
+
 	option = {
 		name = "EVTOPTC14160"
 		any_pop = {
@@ -1063,7 +1063,7 @@ country_event = {
 			}
 		}
 	}
-	
+
 	option = {
 		name = "EVTOPTD14160"
 		any_pop = {
@@ -1073,7 +1073,7 @@ country_event = {
 			}
 		}
 	}
-	
+
 	option = {
 		name = "EVTOPTE14160"
 		any_pop = {
@@ -1090,11 +1090,11 @@ country_event = {
 	id = 14170
 	title = "EVTNAME14170"
 	desc = "EVTDESC14170"
-	
+
 	election = yes
 	issue_group = citizenship_policy
 	is_triggered_only = yes
-	
+
 	option = {
 		name = "EVTOPTA14170"
 		any_pop = {
@@ -1108,7 +1108,7 @@ country_event = {
 			}
 		}
 	}
-	
+
 	option = {
 		name = "EVTOPTB14170"
 		any_pop = {
@@ -1132,7 +1132,7 @@ country_event = {
 			}
 		}
 	}
-	
+
 	option = {
 		name = "EVTOPTD14170"
 		any_pop = {
@@ -1142,7 +1142,7 @@ country_event = {
 			}
 		}
 	}
-	
+
 	option = {
 		name = "EVTOPTE14170"
 		any_pop = {
@@ -1159,11 +1159,11 @@ country_event = {
 	id = 14180
 	title = "EVTNAME14180"
 	desc = "EVTDESC14180"
-	
+
 	election = yes
 	issue_group = war_policy
 	is_triggered_only = yes
-	
+
 	option = {
 		name = "EVTOPTA14180"
 		any_pop = {
@@ -1177,7 +1177,7 @@ country_event = {
 			}
 		}
 	}
-	
+
 	option = {
 		name = "EVTOPTB14180"
 		any_pop = {
@@ -1191,7 +1191,7 @@ country_event = {
 			}
 		}
 	}
-		
+
 	option = {
 		name = "EVTOPTC14180"
 		any_pop = {
@@ -1201,7 +1201,7 @@ country_event = {
 			}
 		}
 	}
-	
+
 	option = {
 		name = "EVTOPTD14180"
 		any_pop = {
@@ -1211,7 +1211,7 @@ country_event = {
 			}
 		}
 	}
-	
+
 	option = {
 		name = "EVTOPTE14180"
 		any_pop = {
@@ -1232,7 +1232,7 @@ country_event = {
 	election = yes
 	issue_group = war_policy
 	is_triggered_only = yes
-	
+
 	option = {
 		name = "EVTOPTA14190"
 		any_pop = {
@@ -1246,7 +1246,7 @@ country_event = {
 			}
 		}
 	}
-	
+
 	option = {
 		name = "EVTOPTB14190"
 		any_pop = {
@@ -1260,7 +1260,7 @@ country_event = {
 			}
 		}
 	}
-		
+
 	option = {
 		name = "EVTOPTC14190"
 		any_pop = {
@@ -1270,7 +1270,7 @@ country_event = {
 			}
 		}
 	}
-	
+
 	option = {
 		name = "EVTOPTD14190"
 		any_pop = {
@@ -1280,7 +1280,7 @@ country_event = {
 			}
 		}
 	}
-	
+
 	option = {
 		name = "EVTOPTE14190"
 		any_pop = {
@@ -1297,11 +1297,11 @@ country_event = {
 	id = 14200
 	title = "EVTNAME14200"
 	desc = "EVTDESC14200"
-	
+
 	election = yes
 	issue_group = war_policy
 	is_triggered_only = yes
-	
+
 	option = {
 		name = "EVTOPTA14200"
 		any_pop = {
@@ -1315,7 +1315,7 @@ country_event = {
 			}
 		}
 	}
-	
+
 	option = {
 		name = "EVTOPTB14200"
 		any_pop = {
@@ -1329,7 +1329,7 @@ country_event = {
 			}
 		}
 	}
-		
+
 	option = {
 		name = "EVTOPTC14200"
 		any_pop = {
@@ -1339,7 +1339,7 @@ country_event = {
 			}
 		}
 	}
-	
+
 }
 
 #Words or Violence
@@ -1347,11 +1347,11 @@ country_event = {
 	id = 14210
 	title = "EVTNAME14210"
 	desc = "EVTDESC14210"
-	
+
 	election = yes
 	issue_group = war_policy
 	is_triggered_only = yes
-	
+
 	option = {
 		name = "EVTOPTA14210"
 		any_pop = {
@@ -1365,7 +1365,7 @@ country_event = {
 			}
 		}
 	}
-	
+
 	option = {
 		name = "EVTOPTB14210"
 		any_pop = {
@@ -1379,7 +1379,7 @@ country_event = {
 			}
 		}
 	}
-		
+
 	option = {
 		name = "EVTOPTC14210"
 		any_pop = {
@@ -1389,7 +1389,7 @@ country_event = {
 			}
 		}
 	}
-	
+
 	option = {
 		name = "EVTOPTD14210"
 		any_pop = {
@@ -1399,7 +1399,7 @@ country_event = {
 			}
 		}
 	}
-	
+
 	option = {
 		name = "EVTOPTE14210"
 		any_pop = {
@@ -1425,7 +1425,7 @@ country_event = {
 	title = EVTNAME98300
 	desc = EVTDESC98300
 	picture = "election_crowd"
-	
+
 	trigger = {
 		election = yes
 		war = yes
@@ -1433,7 +1433,7 @@ country_event = {
 			has_country_flag = election_initialized
 		}
 	}
-	
+
 	mean_time_to_happen = {
 		days = 15
 		modifier = {
@@ -1486,7 +1486,7 @@ country_event = {
 			}
 		}
 	}
-	
+
 	option = {
 		name = "EVTOPTA98300 We must maintain stability even in a time of war."
 		set_country_flag = election_initialized
@@ -1497,7 +1497,7 @@ country_event = {
 		}
 		add_country_modifier = {
 			name = election_cooldown
-			duration = 10 
+			duration = 10
 		}
 		random_owned = {
 			owner = {
@@ -1562,7 +1562,7 @@ country_event = {
 	title = EVTNAME98301
 	desc = EVTDESC98301
 	picture = "violent_elections"
-	
+
 	trigger = {
 		election = yes
 		OR = {
@@ -1572,12 +1572,12 @@ country_event = {
 				NOT = { unemployment_subsidies = citizen_salary }
 			}
 			war_exhaustion = 20
-		}	
+		}
 		NOT = {
 			has_country_flag = election_initialized
 		}
 	}
-	
+
 	mean_time_to_happen = {
 		days = 15
 		modifier = {
@@ -1652,9 +1652,9 @@ country_event = {
 			average_militancy = 8
 		}
 	}
-	
+
 	option = {
-		name = EVTOPTA98301 
+		name = EVTOPTA98301
 		set_country_flag = election_initialized
 		random_owned = {
 			limit = {
@@ -1679,10 +1679,10 @@ country_event = {
 		}
 		add_country_modifier = {
 			name = election_cooldown
-			duration = 10 
+			duration = 10
 		}
 		any_pop = {
-			limit = { 
+			limit = {
 				location = { is_colonial = no }
 			}
 			militancy = 2
@@ -1697,7 +1697,7 @@ country_event = {
 	title = "EVTNAME98302"
 	desc = "EVTDESC98302"
 	picture = "demonstration"
-	
+
 	trigger = {
 		election = yes
 		OR = {
@@ -1712,7 +1712,7 @@ country_event = {
 			has_country_flag = election_initialized
 		}
 	}
-	
+
 	mean_time_to_happen = {
 		days = 15
 		modifier = {
@@ -1779,13 +1779,13 @@ country_event = {
 			average_militancy = 5
 		}
 	}
-	
+
 	option = {
 		name = "EVTOPTA98305"
 		set_country_flag = election_initialized
 		add_country_modifier = {
 			name = election_cooldown
-			duration = 10 
+			duration = 10
 		}
 		any_owned = {
 			limit = {
@@ -1815,7 +1815,7 @@ country_event = {
 	title = "EVTNAME98303"
 	desc = "EVTDESC98303"
 	picture = "election"
-	
+
 	trigger = {
 		election = yes
 		any_owned_province = {
@@ -1838,7 +1838,7 @@ country_event = {
 			has_country_flag = election_initialized
 		}
 	}
-	
+
 	mean_time_to_happen = {
 		days = 15
 		modifier = {
@@ -1881,13 +1881,13 @@ country_event = {
 			average_consciousness = 8
 		}
 	}
-	
+
 	option = {
 		name = "EVTOPTA98305"
 		set_country_flag = election_initialized
 		add_country_modifier = {
 			name = election_cooldown
-			duration = 10 
+			duration = 10
 		}
 		any_owned = {
 			limit = {
@@ -1940,7 +1940,7 @@ country_event = {
 	title = "EVTNAME98304"
 	desc = "EVTDESC98304"
 	picture = "election"
-	
+
 	trigger = {
 		election = yes
 		any_owned_province = {
@@ -1991,7 +1991,7 @@ country_event = {
 			}
 		}
 	}
-	
+
 	mean_time_to_happen = {
 		days = 15
 		modifier = {
@@ -2038,13 +2038,13 @@ country_event = {
 			average_consciousness = 8
 		}
 	}
-	
+
 	option = {
 		name = "EVTOPTA98305"
 		set_country_flag = election_initialized
 		add_country_modifier = {
 			name = election_cooldown
-			duration = 10 
+			duration = 10
 		}
 		any_owned = {
 			limit = {
@@ -2159,7 +2159,7 @@ country_event = {
 	title = "EVTNAME98305"
 	desc = "EVTDESC98305"
 	picture = "chartists"
-	
+
 	trigger = {
 		election = yes
 		war = no
@@ -2173,17 +2173,17 @@ country_event = {
 			has_country_flag = election_initialized
 		}
 	}
-	
+
 	mean_time_to_happen = {
 		days = 15
 	}
-	
+
 	option = {
 		name = "EVTOPTA98305"
 		set_country_flag = election_initialized
 		add_country_modifier = {
 			name = election_cooldown
-			duration = 10 
+			duration = 10
 		}
 		any_pop = {
 			limit = {
@@ -2206,20 +2206,20 @@ country_event = {
 	title = "EVTNAME98310"
 	desc = "EVTDESC98310"
 	picture = "election_win"
-	
+
 	trigger = {
 		election = no
 		has_country_flag = election_initialized
-		OR = { 
+		OR = {
 			ruling_party_ideology = big_tent
 			ruling_party_ideology = conservative
 		}
 	}
-	
+
 	mean_time_to_happen = {
 		days = 1
 	}
-	
+
 	option = {
 		name = "EVTOPTA98311"
 		clr_country_flag = election_initialized
@@ -2500,17 +2500,17 @@ country_event = {
 	title = "EVTNAME98311"
 	desc = "EVTDESC98311"
 	picture = "election_win"
-	
+
 	trigger = {
 		election = no
 		has_country_flag = election_initialized
 		ruling_party_ideology = socialist
 	}
-	
+
 	mean_time_to_happen = {
 		days = 1
 	}
-	
+
 	option = {
 		name = "EVTOPTA98311"
 		clr_country_flag = election_initialized
@@ -2687,17 +2687,17 @@ country_event = {
 	title = "EVTNAME98312"
 	desc = "EVTDESC98312"
 	picture = "election_win"
-	
+
 	trigger = {
 		election = no
 		has_country_flag = election_initialized
 		ruling_party_ideology = liberal
 	}
-	
+
 	mean_time_to_happen = {
 		days = 1
 	}
-	
+
 	option = {
 		name = "EVTOPTA98312"
 		clr_country_flag = election_initialized
@@ -2876,7 +2876,7 @@ country_event = {
 	title = "EVTNAME98313"
 	desc = "EVTDESC98313"
 	picture = "election_win"
-	
+
 	trigger = {
 		election = no
 		has_country_flag = election_initialized
@@ -2885,11 +2885,11 @@ country_event = {
 			government = hms_government
 		}
 	}
-	
+
 	mean_time_to_happen = {
 		days = 1
 	}
-	
+
 	option = {
 		name = "EVTOPTA98313"
 		clr_country_flag = election_initialized
@@ -3066,17 +3066,17 @@ country_event = {
 	title = "EVTNAME98314"
 	desc = "EVTDESC98314"
 	picture = "election_win"
-	
+
 	trigger = {
 		election = no
 		has_country_flag = election_initialized
 		ruling_party_ideology = traditionalist
 	}
-	
+
 	mean_time_to_happen = {
 		days = 1
 	}
-	
+
 	option = {
 		name = "EVTOPTA98314"
 		clr_country_flag = election_initialized
@@ -3249,17 +3249,17 @@ country_event = {
 	title = "EVTNAME98315"
 	desc = "EVTDESC98315"
 	picture = "election_win"
-	
+
 	trigger = {
 		election = no
 		has_country_flag = election_initialized
 		ruling_party_ideology = populist
 	}
-	
+
 	mean_time_to_happen = {
 		days = 1
 	}
-	
+
 	option = {
 		name = "EVTOPTA98315"
 		clr_country_flag = election_initialized
@@ -3438,17 +3438,17 @@ country_event = {
 	title = "EVTNAME98317"
 	desc = "EVTDESC98317"
 	picture = "election_win"
-	
+
 	trigger = {
 		election = no
 		has_country_flag = election_initialized
 		ruling_party_ideology = progressive
 	}
-	
+
 	mean_time_to_happen = {
 		days = 1
 	}
-	
+
 	option = {
 		name = "EVTOPTA98317"
 		clr_country_flag = election_initialized
@@ -3630,7 +3630,7 @@ country_event = {
 	id = 140001
 	title = "EVTNAME140001"
 	desc = "EVTDESC140001"
-	
+
 	election = yes
 	issue_group = war_policy
 	is_triggered_only = yes
@@ -3648,7 +3648,7 @@ country_event = {
 			consciousness = 2
 		}
 	}
-	
+
 	option = {
 		name = "EVTOPTB140001"
 		any_pop = {
@@ -3690,7 +3690,7 @@ country_event = {
 			}
 		}
 	}
-	
+
 	option = {	#Added by GAGA
 		name = "EVTOPTD140001"
 		random_list = {
@@ -3727,7 +3727,7 @@ country_event = {
 	id = 140101
 	title = "EVTNAME140101"
 	desc = "EVTDESC140101"
-	
+
 	election = yes
 	issue_group = war_policy
 	is_triggered_only = yes
@@ -3746,7 +3746,7 @@ country_event = {
 			militancy = 4
 		}
 	}
-		
+
 	option = {	#Added by GAGA
 		name = "EVTOPTD140101"
 		soldiers = {
@@ -3798,7 +3798,7 @@ country_event = {
 			}
 		}
 	}
-	
+
 	option = {
 		name = "EVTOPTB140101"
 		any_pop = {
@@ -3821,7 +3821,7 @@ country_event = {
 	id = 140201
 	title = "EVTNAME140201"
 	desc = "EVTDESC140201"
-	
+
 	election = yes
 	issue_group = war_policy
 	is_triggered_only = yes
@@ -3841,7 +3841,7 @@ country_event = {
 			militancy = 2
 		}
 	}
-	
+
 	option = {
 		name = "EVTOPTB140201"
 		farmers = {
@@ -3866,7 +3866,7 @@ country_event = {
 			militancy = 2
 		}
 	}
-	
+
 	option = { #Added by GAGA
 		name = "EVTOPTC140201"
 		random_list = {
@@ -3919,7 +3919,7 @@ country_event = {
 			}
 		}
 	}
-	
+
 	option = { #Added by GAGA
 		name = "EVTOPTD140201"
 		any_pop = {
@@ -3959,7 +3959,7 @@ country_event = {
 	id = 140301
 	title = "EVTNAME140301"
 	desc = "EVTDESC140301"
-	
+
 	election = yes
 	is_triggered_only = yes
 	issue_group = war_policy
@@ -3984,7 +3984,7 @@ country_event = {
 			}
 		}
 	}
-	
+
 	option = {
 		name = "EVTOPTB140301"
 		soldiers = {
@@ -4016,7 +4016,7 @@ country_event = {
 			militancy = 1
 		}
 	}
-	
+
 	option = { #Added by GAGA
 		name = "EVTOPTD140301"
 		rich_strata = {
@@ -4026,7 +4026,7 @@ country_event = {
 			militancy = -1
 			consciousness = -1
 		}
-		
+
 		any_pop = {
 			dominant_issue = {
 				factor = 0.10
@@ -4065,7 +4065,7 @@ country_event = {
 			}
 		}
 	}
-	
+
 	option = { #Added by GAGA
 		name = "EVTOPTD140401"
 		labourers = {
@@ -4073,12 +4073,12 @@ country_event = {
 			consciousness = 2
 		}
 	}
-	
+
 	option = { #Added by GAGA
 		name = "EVTOPTA140401"
 		labourers = {
 			militancy = 1
-		 }
+		}
 		rich_strata = {
 			dominant_issue = {
 				factor = 0.35
@@ -4086,7 +4086,7 @@ country_event = {
 			}
 		}
 	}
-	
+
 	option = {
 		name = "EVTOPTB140401"
 		poor_strata = {
@@ -4112,7 +4112,7 @@ country_event = {
 	id = 140501
 	title = "EVTNAME140501"
 	desc = "EVTDESC140501"
-	
+
 	election = yes
 	is_triggered_only = yes
 	issue_group = economic_policy
@@ -4139,7 +4139,7 @@ country_event = {
 			}
 		}
 	}
-	
+
 	option = { #Added by GAGA
 		name = "EVTOPTD140501"
 		clergymen = {
@@ -4153,7 +4153,7 @@ country_event = {
 			}
 		}
 	}
-	
+
 	option = {
 		name = "EVTOPTB140501"
 		artisans = {
@@ -4201,7 +4201,7 @@ country_event = {
 	id = 140601
 	title = "EVTNAME140601"
 	desc = "EVTDESC140601"
-	
+
 	election = yes
 	is_triggered_only = yes
 	issue_group = economic_policy
@@ -4238,7 +4238,7 @@ country_event = {
 	}
 
 	option = { #Added by GAGA
-		name = "EVTOPTC140601" 
+		name = "EVTOPTC140601"
 		capitalists = {
 			militancy = -1
 		}
@@ -4250,7 +4250,7 @@ country_event = {
 			}
 		}
 	}
-		
+
 	option = {
 		name = "EVTOPTB140601"
 		capitalists = {
@@ -4276,7 +4276,7 @@ country_event = {
 			}
 		}
 	}
-	
+
 	option = { #Added by GAGA
 		name = "EVTOPTD140601"
 		capitalists = {
@@ -4301,7 +4301,7 @@ country_event = {
 	id = 140701
 	title = "EVTNAME140701"
 	desc = "EVTDESC140701"
-	
+
 	election = yes
 	issue_group = religious_policy
 	is_triggered_only = yes
@@ -4374,7 +4374,7 @@ country_event = {
 					consciousness = 2
 				}
 			}
-			
+
 			25 = {
 				clergymen = {
 					militancy = 1
@@ -4411,7 +4411,7 @@ country_event = {
 						factor = 2
 					}
 				}
-			}			
+			}
 		}
 	}
 	option = {
@@ -4430,7 +4430,7 @@ country_event = {
 			scaled_militancy = {
 				issue = secularized
 				factor = 2
-			}	
+			}
 			scaled_consciousness = {
 				issue = secularized
 				factor = 2
@@ -4454,28 +4454,28 @@ country_event = {
 	id = 140801
 	title = "EVTNAME140801"
 	desc = "EVTDESC140801"
-	
+
 	election = yes
 	issue_group = religious_policy
 	is_triggered_only = yes
 	trigger = {
 		is_colonial = no
-		any_owned_province = { 
+		any_owned_province = {
 			is_state_religion = yes
 		}
-		any_owned_province = { 
+		any_owned_province = {
 			is_state_religion = no
 		}
 	}
 	option = {
 		name = "EVTOPTA140801"
-		any_pop = { 
+		any_pop = {
 			limit = {
 				is_state_religion = no
 			}
 			militancy = 4
 		}
-		any_pop = { 
+		any_pop = {
 			limit = {
 				is_state_religion = yes
 			}
@@ -4487,13 +4487,13 @@ country_event = {
 	}
 	option = {
 		name = "EVTOPTC140801"
-		any_pop = { 
+		any_pop = {
 			limit = {
 				is_state_religion = no
 			}
 			militancy = 2
 		}
-		any_pop = { 
+		any_pop = {
 			limit = {
 				is_state_religion = yes
 			}
@@ -4522,7 +4522,7 @@ country_event = {
 			}
 		}
 	}
-	
+
 	option = { #Added by GAGA
 		name = "EVTOPTD140801"
 		any_pop = {
@@ -4537,7 +4537,7 @@ country_event = {
 				factor = 2
 			}
 		}
-		any_pop = { 
+		any_pop = {
 			limit = {
 				is_state_religion = no
 			}
@@ -4553,16 +4553,16 @@ country_event = {
 	id = 140901
 	title = "EVTNAME140901"
 	desc = "EVTDESC140901"
-	
+
 	election = yes
 	issue_group = religious_policy
 	is_triggered_only = yes
 	trigger = {
 		is_colonial = no
-		any_owned_province = { 
+		any_owned_province = {
 			is_state_religion = no
 		}
-		any_owned_province = { 
+		any_owned_province = {
 			is_state_religion = yes
 		}
 	}
@@ -4648,7 +4648,7 @@ country_event = {
 	id = 141001
 	title = "EVTNAME141001"
 	desc = "EVTDESC141001"
-	
+
 	election = yes
 	issue_group = citizenship_policy
 	is_triggered_only = yes
@@ -4724,22 +4724,22 @@ country_event = {
 	}
 	option = { #Added by GAGA
 		name = "EVTOPTD141001"
-		
+
 		any_pop = {
 			consciousness = 1
 		}
-		
+
 		random_list = {
 			50 = {
 				any_pop = {
-					militancy = 1					
+					militancy = 1
 					dominant_issue = {
 						factor = 0.20
 						value = limited_citizenship
 					}
 				}
 			}
-			
+
 			25 = {
 				any_pop = {
 					limit = {
@@ -4764,7 +4764,7 @@ country_event = {
 					consciousness = 2
 				}
 			}
-			
+
 			25 = {
 				any_pop = {
 					limit = {
@@ -4781,7 +4781,7 @@ country_event = {
 						is_accepted_culture = no
 					}
 					militancy = -1
-					consciousness = 2				
+					consciousness = 2
 					dominant_issue = {
 						factor = 0.30
 						value = full_citizenship
@@ -4797,7 +4797,7 @@ country_event = {
 	id = 141101
 	title = "EVTNAME141101"
 	desc = "EVTDESC141101"
-	
+
 	election = yes
 	issue_group = citizenship_policy
 	is_triggered_only = yes
@@ -4914,7 +4914,7 @@ country_event = {
 	id = 141201
 	title = "EVTNAME141201"
 	desc = "EVTDESC141201"
-	
+
 	election = yes
 	issue_group = citizenship_policy
 	is_triggered_only = yes
@@ -4994,7 +4994,7 @@ country_event = {
 				value = populist
 				factor = 0.10
 			}
-			
+
 			dominant_issue = {
 				factor = 0.30
 				value = residency
@@ -5031,8 +5031,8 @@ country_event = {
 			}
 			militancy = 1
 			consciousness = 2
-		 }
-			
+		}
+
 		any_pop = {
 			scaled_militancy = {
 				issue = full_citizenship
@@ -5062,7 +5062,7 @@ country_event = {
 	id = 141301
 	title = "EVTNAME141301"
 	desc = "EVTDESC141301"
-	
+
 	election = yes
 	issue_group = trade_policy
 	is_triggered_only = yes
@@ -5145,7 +5145,7 @@ country_event = {
 	id = 141401
 	title = "EVTNAME141401"
 	desc = "EVTDESC141401"
-	
+
 	election = yes
 	is_triggered_only = yes
 	issue_group = trade_policy
@@ -5242,14 +5242,14 @@ country_event = {
 	title = "EVTNAME999000"
 	desc = "EVTDESC999000"
 	picture = "debate"
-	
+
 	trigger = {
 		has_country_flag = election_initialized
 		election = yes
 		number_of_states = 3
 		not = { has_country_modifier = election_cooldown }
 	}
-	
+
 	mean_time_to_happen = {
 		months = 1
 		modifier = {
@@ -5257,16 +5257,16 @@ country_event = {
 			has_country_flag = trade_policy_debate
 		}
 	}
-	
-	immediate = { 
+
+	immediate = {
 		set_country_flag = trade_policy_debate
 	}
-	
+
 	option = {
 		name = "EVTOPTA999000"
 		add_country_modifier = {
 			name = election_cooldown
-			duration = 30 
+			duration = 30
 		}
 		any_pop = {
 			limit = {
@@ -5282,13 +5282,13 @@ country_event = {
 			}
 		}
 	}
-	
+
 	option = {
 		name = "EVTOPTB999000"
 		add_country_modifier = {
 			name = election_cooldown
-			duration = 30 
-		} 
+			duration = 30
+		}
 		any_pop = {
 			limit = {
 				location = { is_colonial = no }
@@ -5303,13 +5303,13 @@ country_event = {
 			}
 		}
 	}
-	
+
 	option = {
 		name = "EVTOPTC999000"
 		add_country_modifier = {
 			name = election_cooldown
-			duration = 30 
-		} 
+			duration = 30
+		}
 		any_pop = {
 			limit = {
 				location = { is_colonial = no }
@@ -5326,20 +5326,20 @@ country_event = {
 	}
 }
 
-# 999001 - Economy Policy Debate 
+# 999001 - Economy Policy Debate
 country_event = {
 	id = 999001
 	title = "EVTNAME999001"
 	desc = "EVTDESC999001"
 	picture = "debate"
-	
+
 	trigger = {
 		has_country_flag = election_initialized
 		election = yes
 		number_of_states = 3
 		not = { has_country_modifier = election_cooldown }
 	}
-	
+
 	mean_time_to_happen = {
 		months = 1
 		modifier = {
@@ -5347,17 +5347,17 @@ country_event = {
 			has_country_flag = economic_policy_debate
 		}
 	}
-	
+
 	immediate = {
 		set_country_flag = economic_policy_debate
 	}
-	
+
 	option = {
 		name = "EVTOPTA999001"
 		add_country_modifier = {
 			name = election_cooldown
-			duration = 30 
-		} 
+			duration = 30
+		}
 		any_pop = {
 			limit = {
 				location = { is_colonial = no }
@@ -5380,13 +5380,13 @@ country_event = {
 			}
 		}
 	}
-	
+
 	option = {
 		name = "EVTOPTB999001"
 		add_country_modifier = {
 			name = election_cooldown
-			duration = 30 
-		} 
+			duration = 30
+		}
 		any_pop = {
 			limit = {
 				location = { is_colonial = no }
@@ -5409,13 +5409,13 @@ country_event = {
 			}
 		}
 	}
-	
+
 	option = {
 		name = "EVTOPTC999001"
 		add_country_modifier = {
 			name = election_cooldown
-			duration = 30 
-		} 
+			duration = 30
+		}
 		any_pop = {
 			limit = {
 				location = { is_colonial = no }
@@ -5438,13 +5438,13 @@ country_event = {
 			}
 		}
 	}
-	
+
 	option = {
 		name = "EVTOPTD999001"
 		add_country_modifier = {
 			name = election_cooldown
-			duration = 30 
-		} 
+			duration = 30
+		}
 		any_pop = {
 			limit = {
 				location = { is_colonial = no }
@@ -5469,20 +5469,20 @@ country_event = {
 	}
 }
 
-# 999002 - Religious Policy Debate   
+# 999002 - Religious Policy Debate
 country_event = {
 	id = 999002
 	title = "EVTNAME999002"
 	desc = "EVTDESC999002"
 	picture = "debate"
-	
+
 	trigger = {
 		has_country_flag = election_initialized
 		number_of_states = 3
 		election = yes
 		not = { has_country_modifier = election_cooldown }
 	}
-	
+
 	mean_time_to_happen = {
 		months = 1
 		modifier = {
@@ -5490,17 +5490,17 @@ country_event = {
 			has_country_flag = religious_policy_debate
 		}
 	}
-	
+
 	immediate = {
 		set_country_flag = religious_policy_debate
 	}
-	
+
 	option = {
 		name = "EVTOPTA999002"
 		add_country_modifier = {
 			name = election_cooldown
-			duration = 30 
-		} 
+			duration = 30
+		}
 		any_pop = {
 			limit = {
 				location = { is_colonial = no }
@@ -5519,13 +5519,13 @@ country_event = {
 			}
 		}
 	}
-	
+
 	option = {
 		name = "EVTOPTB999002"
 		add_country_modifier = {
 			name = election_cooldown
-			duration = 30 
-		} 
+			duration = 30
+		}
 		any_pop = {
 			limit = {
 				location = { is_colonial = no }
@@ -5544,13 +5544,13 @@ country_event = {
 			}
 		}
 	}
-	
+
 	option = {
 		name = "EVTOPTC999002"
 		add_country_modifier = {
 			name = election_cooldown
-			duration = 30 
-		} 
+			duration = 30
+		}
 		any_pop = {
 			limit = {
 				location = { is_colonial = no }
@@ -5569,13 +5569,13 @@ country_event = {
 			}
 		}
 	}
-	
+
 	option = {
 		name = "EVTOPTD999002"
 		add_country_modifier = {
 			name = election_cooldown
-			duration = 30 
-		} 
+			duration = 30
+		}
 		any_pop = {
 			limit = {
 				location = { is_colonial = no }
@@ -5596,20 +5596,20 @@ country_event = {
 	}
 }
 
-# 999003 - Citizenship Policy Debate 
+# 999003 - Citizenship Policy Debate
 country_event = {
 	id = 999003
 	title = "EVTNAME999003"
 	desc = "EVTDESC999003"
 	picture = "debate"
-	
+
 	trigger = {
 		has_country_flag = election_initialized
 		number_of_states = 3
 		election = yes
 		not = { has_country_modifier = election_cooldown }
 	}
-	
+
 	mean_time_to_happen = {
 		months = 1
 		modifier = {
@@ -5624,17 +5624,17 @@ country_event = {
 			}
 		}
 	}
-	
+
 	immediate = {
 		set_country_flag = citizenship_policy_debate
 	}
-	
+
 	option = {
 		name = "EVTOPTA999003"
 		add_country_modifier = {
 			name = election_cooldown
-			duration = 30 
-		} 
+			duration = 30
+		}
 		any_pop = {
 			limit = {
 				location = { is_colonial = no }
@@ -5653,13 +5653,13 @@ country_event = {
 			}
 		}
 	}
-	
+
 	option = {
 		name = "EVTOPTB999003"
 		add_country_modifier = {
 			name = election_cooldown
-			duration = 30 
-		} 
+			duration = 30
+		}
 		any_pop = {
 			limit = {
 				location = { is_colonial = no }
@@ -5678,13 +5678,13 @@ country_event = {
 			}
 		}
 	}
-	
+
 	option = {
 		name = "EVTOPTC999003"
 		add_country_modifier = {
 			name = election_cooldown
-			duration = 30 
-		} 
+			duration = 30
+		}
 		any_pop = {
 			limit = {
 				location = { is_colonial = no }
@@ -5705,20 +5705,20 @@ country_event = {
 	}
 }
 
-# 999004 - War Policy Debate   
+# 999004 - War Policy Debate
 country_event = {
 	id = 999004
 	title = "EVTNAME999004"
 	desc = "EVTDESC999004"
 	picture = "debate"
-	
+
 	trigger = {
 		has_country_flag = election_initialized
 		number_of_states = 3
 		election = yes
 		not = { has_country_modifier = election_cooldown }
 	}
-	
+
 	mean_time_to_happen = {
 		months = 1
 		modifier = {
@@ -5730,17 +5730,17 @@ country_event = {
 			war = yes
 		}
 	}
-	
+
 	immediate = {
 		set_country_flag = war_policy_debate
 	}
-	
+
 	option = {
 		name = "EVTOPTA999004"
 		add_country_modifier = {
 			name = election_cooldown
-			duration = 30 
-		} 
+			duration = 30
+		}
 		any_pop = {
 			limit = {
 				location = { is_colonial = no }
@@ -5759,13 +5759,13 @@ country_event = {
 			}
 		}
 	}
-	
+
 	option = {
 		name = "EVTOPTB999004"
 		add_country_modifier = {
 			name = election_cooldown
-			duration = 30 
-		} 
+			duration = 30
+		}
 		any_pop = {
 			limit = {
 				location = { is_colonial = no }
@@ -5784,13 +5784,13 @@ country_event = {
 			}
 		}
 	}
-	
+
 	option = {
 		name = "EVTOPTD999004"
 		add_country_modifier = {
 			name = election_cooldown
-			duration = 30 
-		} 
+			duration = 30
+		}
 		any_pop = {
 			limit = {
 				location = { is_colonial = no }
@@ -5817,13 +5817,13 @@ country_event = {
 	title = "EVTNAME999010"
 	desc = "EVTDESC999010"
 	picture = "voting"
-	
+
 	trigger = {
 		has_country_flag = election_initialized
 		election = yes
 		not = { has_country_modifier = election_cooldown }
 	}
-	
+
 	mean_time_to_happen = {
 		months = 1
 		modifier = {
@@ -5831,17 +5831,17 @@ country_event = {
 			has_country_flag = parties_campaign
 		}
 	}
-	
+
 	immediate = {
 		set_country_flag = parties_campaign
 	}
-	
+
 	option = {
 		name = "EVTOPTA999010"
 		add_country_modifier = {
 			name = election_cooldown
-			duration = 30 
-		} 
+			duration = 30
+		}
 		any_pop = {
 			limit = {
 				country = { tag = USA }
@@ -5882,13 +5882,13 @@ country_event = {
 			}
 		}
 	}
-	
+
 	option = {
 		name = "EVTOPTB999010"
 		add_country_modifier = {
 			name = election_cooldown
-			duration = 30 
-		} 
+			duration = 30
+		}
 		any_pop = {
 			limit = {
 				location = { is_colonial = no }
@@ -5914,13 +5914,13 @@ country_event = {
 			}
 		}
 	}
-	
+
 	option = {
 		name = "EVTOPTC999010"
 		add_country_modifier = {
 			name = election_cooldown
-			duration = 30 
-		} 
+			duration = 30
+		}
 		any_pop = {
 			limit = {
 				location = { is_colonial = no }
@@ -5946,13 +5946,13 @@ country_event = {
 			}
 		}
 	}
-	
+
 	option = {
 		name = "EVTOPTE999010"
 		add_country_modifier = {
 			name = election_cooldown
-			duration = 30 
-		} 
+			duration = 30
+		}
 		any_pop = {
 			limit = {
 				location = { is_colonial = no }
@@ -5983,8 +5983,8 @@ country_event = {
 		name = "EVTOPTF999010"
 		add_country_modifier = {
 			name = election_cooldown
-			duration = 30 
-		} 
+			duration = 30
+		}
 		any_pop = {
 			limit = {
 				location = { is_colonial = no }
@@ -6010,13 +6010,13 @@ country_event = {
 			}
 		}
 	}
-	
+
 	option = {
 		name = "EVTOPTD999010"
 		add_country_modifier = {
 			name = election_cooldown
-			duration = 30 
-		} 
+			duration = 30
+		}
 		plurality = 1
 		ai_chance = {
 			factor = 25
@@ -6030,16 +6030,16 @@ country_event = {
 	title = "EVTNAME999022"
 	desc = "EVTDESC999022"
 	picture = "violent_elections"
-	
+
 	trigger = {
 		has_country_flag = election_initialized
 		election = yes
 		not = { has_country_modifier = election_cooldown }
 		has_country_modifier = violent_elections
 	}
-	
+
 	mean_time_to_happen = {
-		months = 2 
+		months = 2
 		modifier = {
 			factor = 2
 			has_country_flag = election_riots
@@ -6048,78 +6048,78 @@ country_event = {
 			factor = 1.5
 			not = { average_militancy = 1 }
 		}
-		
+
 		modifier = {
 			factor = 1.5
 			not = { average_militancy = 0.5 }
 		}
-				
+
 		modifier = {
 			factor = 1.5
 			not = { average_consciousness = 5 }
 		}
-		
+
 		modifier = {
 			factor = 1.5
 			not = { unemployment = 0.1 }
 		}
-		
+
 		modifier = {
 			factor = 0.8
 			war_exhaustion = 1
 		}
-		
+
 		modifier = {
 			factor = 0.8
 			war_exhaustion = 3
 		}
-		
+
 		modifier = {
 			factor = 0.8
 			war_exhaustion = 5
 		}
-		
+
 		modifier = {
 			factor = 0.8
 			unemployment = 0.2
 		}
-		
+
 		modifier = {
 			factor = 0.8
 			unemployment = 0.3
 		}
-		
+
 		modifier = {
 			factor = 0.8
 			average_militancy = 3
 		}
-		
+
 		modifier = {
 			factor = 0.8
 			average_consciousness = 8
 		}
-		
+
 		modifier = {
 			factor = 0.5
 			average_militancy = 5
 		}
-		
+
 		modifier = {
 			factor = 0.25
 			average_militancy = 8
 		}
 	}
-	
+
 	immediate = {
 		set_country_flag = election_riots
 	}
-	
+
 	option = {
 		name = "EVTOPTA999022"
 		add_country_modifier = {
 			name = election_cooldown
-			duration = 30 
-		} 
+			duration = 30
+		}
 		capital_scope = {
 			any_pop = {
 				reduce_pop = 0.998
@@ -6136,32 +6136,32 @@ country_event = {
 			consciousness = 2
 		}
 	}
-	
+
 	option = {
 		name = "EVTOPTB999022"
 		add_country_modifier = {
 			name = election_cooldown
-			duration = 30 
-		} 
+			duration = 30
+		}
 		any_pop = {
 			limit = {
 				location = {
 					is_colonial = no
 				}
-			} 
+			}
 			militancy = 2
 			consciousness = 1
 		}
 	}
 }
 
-# 999030 - Surge Of Socialism	
+# 999030 - Surge Of Socialism
 country_event = {
 	id = 999030
 	title = "EVTNAME999030"
 	desc = "EVTDESC999030"
 	picture = "Socialism"
-	
+
 	trigger = {
 		has_country_flag = election_initialized
 		election = yes
@@ -6170,7 +6170,7 @@ country_event = {
 		NOT = { has_country_modifier = election_cooldown }
 		is_ideology_enabled = socialist
 	}
-	
+
 	mean_time_to_happen = {
 		months = 12
 		modifier = {
@@ -6185,63 +6185,63 @@ country_event = {
 			factor = 1.2
 			not = { average_militancy = 1 }
 		}
-		
+
 		modifier = {
 			factor = 1.2
 			not = { average_militancy = 0.5 }
 		}
-				
+
 		modifier = {
 			factor = 1.5
 			not = { average_consciousness = 5 }
 		}
-		
+
 		modifier = {
 			factor = 1.5
 			not = { unemployment = 0.1 }
 		}
-		
+
 		modifier = {
 			factor = 0.8
 			unemployment = 0.2
 		}
-		
+
 		modifier = {
 			factor = 0.8
 			unemployment = 0.3
 		}
-		
+
 		modifier = {
 			factor = 0.9
 			social_reform_want = 0.05
 		}
-		
+
 		modifier = {
 			factor = 0.8
 			social_reform_want = 0.1
 		}
-		
+
 		modifier = {
 			factor = 0.8
 			social_reform_want = 0.2
 		}
-		
+
 		modifier = {
 			factor = 0.8
 			social_reform_want = 0.3
 		}
 	}
-	
+
 	immediate = {
 		set_country_flag = socialist_surge
 	}
-	
+
 	option = {
 		name = "EVTOPTA999030"
 		add_country_modifier = {
 			name = election_cooldown
-			duration = 30 
-		} 
+			duration = 30
+		}
 		poor_strata = {
 			limit = {
 				location = { is_colonial = no }
@@ -6258,13 +6258,13 @@ country_event = {
 	}
 }
 
-# 999031 - Surge Of Communism	
+# 999031 - Surge Of Communism
 country_event = {
 	id = 999031
 	title = "EVTNAME999031"
 	desc = "EVTDESC999031"
 	picture = "communism"
-	
+
 	trigger = {
 		has_country_flag = election_initialized
 		election = yes
@@ -6276,7 +6276,7 @@ country_event = {
 		NOT = { has_country_modifier = election_cooldown }
 		is_ideology_enabled = communist
 	}
-	
+
 	mean_time_to_happen = {
 		months = 12
 		modifier = {
@@ -6291,53 +6291,53 @@ country_event = {
 			factor = 2
 			has_country_flag = communist_surge
 		}
-		
+
 		modifier = {
 			factor = 0.9
 			invention = the_police_state
 		}
-		
+
 		modifier = {
 			factor = 0.8
 			unemployment = 0.2
 		}
-		
+
 		modifier = {
 			factor = 0.8
 			unemployment = 0.3
 		}
-		
+
 		modifier = {
 			factor = 0.9
 			social_reform_want = 0.05
 		}
-		
+
 		modifier = {
 			factor = 0.8
 			social_reform_want = 0.1
 		}
-		
+
 		modifier = {
 			factor = 0.8
 			social_reform_want = 0.2
 		}
-		
+
 		modifier = {
 			factor = 0.8
 			social_reform_want = 0.3
 		}
 	}
-	
+
 	immediate = {
-		set_country_flag = communist_surge 
+		set_country_flag = communist_surge
 	}
-	
+
 	option = {
 		name = "EVTOPTA999031"
 		add_country_modifier = {
 			name = election_cooldown
-			duration = 30 
-		} 
+			duration = 30
+		}
 		poor_strata = {
 			limit = {
 				location = { is_colonial = no }
@@ -6354,13 +6354,13 @@ country_event = {
 	}
 }
 
-# 999032 - Surge Of Populism	
+# 999032 - Surge Of Populism
 country_event = {
 	id = 999032
 	title = "EVTNAME999032"
 	desc = "EVTDESC999032"
 	picture = "Populism"
-	
+
 	trigger = {
 		has_country_flag = election_initialized
 		election = yes
@@ -6369,12 +6369,12 @@ country_event = {
 		NOT = { has_country_modifier = election_cooldown }
 		is_ideology_enabled = populist
 	}
-	
+
 	mean_time_to_happen = {
 		months = 2
 		modifier = {
 			factor = 0.1
-			OR = { 
+			OR = {
 				pop_majority_religion = sunni
 				pop_majority_religion = shiite
 			}
@@ -6395,62 +6395,62 @@ country_event = {
 			factor = 1.2
 			not = { average_militancy = 1 }
 		}
-		
+
 		modifier = {
 			factor = 1.2
 			not = { average_militancy = 0.5 }
 		}
-				
+
 		modifier = {
 			factor = 1.5
 			not = { average_consciousness = 5 }
 		}
-		
+
 		modifier = {
 			factor = 1.5
 			not = { unemployment = 0.1 }
 		}
-		
+
 		modifier = {
 			factor = 0.8
 			unemployment = 0.2
 		}
-		
+
 		modifier = {
 			factor = 0.8
 			unemployment = 0.3
 		}
-		
+
 		modifier = {
 			factor = 0.75
 			any_neighbor_country = {
-				any_owned_province = { 
-					is_core = THIS 
+				any_owned_province = {
+					is_core = THIS
 				}
 			}
 		}
-		
+
 		modifier = {
 			factor = 0.75
 			any_neighbor_country = {
-				any_owned_province = { 
-					is_core = THIS 
+				any_owned_province = {
+					is_core = THIS
 					owner = { war_with = THIS }
 				}
 			}
 		}
 	}
-	
+
 	immediate = {
 		set_country_flag = populist_surge
 	}
-	
+
 	option = {
 		name = "EVTOPTA999031"
 		add_country_modifier = {
 			name = election_cooldown
-			duration = 30 
-		} 
+			duration = 30
+		}
 		any_pop = {
 			limit = {
 				location = { is_colonial = no }
@@ -6468,13 +6468,13 @@ country_event = {
 	}
 }
 
-# 999033 - Surge Of Liberalism	
+# 999033 - Surge Of Liberalism
 country_event = {
 	id = 999033
 	title = "EVTNAME999033"
 	desc = "EVTDESC999033"
 	picture = "Finepeople"
-	
+
 	trigger = {
 		has_country_flag = election_initialized
 		election = yes
@@ -6483,7 +6483,7 @@ country_event = {
 		NOT = { ruling_party_ideology = liberal }
 		NOT = { has_country_modifier = election_cooldown }
 	}
-	
+
 	mean_time_to_happen = {
 		months = 2
 		modifier = {
@@ -6502,42 +6502,42 @@ country_event = {
 			factor = 1.2
 			not = { average_militancy = 1 }
 		}
-		
+
 		modifier = {
 			factor = 1.2
 			not = { average_militancy = 0.5 }
 		}
-				
+
 		modifier = {
 			factor = 1.5
 			not = { average_consciousness = 5 }
 		}
-		
+
 		modifier = {
 			factor = 1.1
 			not = { unemployment = 0.05 }
 		}
-		
+
 		modifier = {
 			factor = 0.9
 			invention = individualism
 		}
-		
+
 		modifier = {
 			factor = 0.9
 			invention = social_conscience
 		}
-		
+
 		modifier = {
 			factor = 0.8
 			unemployment = 0.1
 		}
-		
+
 		modifier = {
 			factor = 1.2
 			unemployment = 0.3
 		}
-				
+
 		modifier = {
 			factor = 0.75
 			or = {
@@ -6546,16 +6546,16 @@ country_event = {
 			}
 		}
 	}
-	
+
 	immediate = {
-		set_country_flag = liberal_surge 
+		set_country_flag = liberal_surge
 	}
-	
+
 	option = {
 		name = "EVTOPTA999031"
 		add_country_modifier = {
 			name = election_cooldown
-			duration = 30 
+			duration = 30
 		}
 		any_pop = {
 			limit = {
@@ -6580,7 +6580,7 @@ country_event = {
 	title = "EVTNAME999035"
 	desc = "EVTDESC999035"
 	picture = "banquet"
-	
+
 	trigger = {
 		has_country_flag = election_initialized
 		election = yes
@@ -6596,7 +6596,7 @@ country_event = {
 		NOT = { average_militancy = 2 }
 		is_ideology_enabled = progressive
 	}
-	
+
 	mean_time_to_happen = {
 		months = 2
 		modifier = {
@@ -6636,16 +6636,16 @@ country_event = {
 			unemployment = 0.3
 		}
 	}
-	
+
 	immediate = {
-		set_country_flag = progressive_surge 
+		set_country_flag = progressive_surge
 	}
-	
+
 	option = {
 		name = "EVTOPTA999031"
 		add_country_modifier = {
 			name = election_cooldown
-			duration = 30 
+			duration = 30
 		}
 		any_pop = {
 			limit = {
@@ -6670,7 +6670,7 @@ country_event = {
 	title = "EVTNAME999036"
 	desc = "EVTDESC999036"
 	picture = "islamist"
-	
+
 	trigger = {
 		has_country_flag = election_initialized
 		election = yes
@@ -6684,13 +6684,13 @@ country_event = {
 		NOT = { has_country_flag = traditionalist_surge }
 		NOT = { is_ideology_enabled = traditionalist }
 	}
-	
+
 	mean_time_to_happen = {
 		months = 2
 		modifier = {
 			factor = 0.1
-			NOT = { 
-				OR = { 
+			NOT = {
+				OR = {
 					pop_majority_religion = sunni
 					pop_majority_religion = shiite
 				}
@@ -6708,42 +6708,42 @@ country_event = {
 			factor = 1.2
 			not = { average_militancy = 1 }
 		}
-		
+
 		modifier = {
 			factor = 1.2
 			not = { average_militancy = 0.5 }
 		}
-				
+
 		modifier = {
 			factor = 1.5
 			not = { average_consciousness = 5 }
 		}
-		
+
 		modifier = {
 			factor = 1.1
 			not = { unemployment = 0.05 }
 		}
-		
+
 		modifier = {
 			factor = 1.5
 			invention = individualism
 		}
-		
+
 		modifier = {
 			factor = 1.5
 			invention = social_conscience
 		}
 	}
-	
+
 	immediate = {
 		set_country_flag = traditionalist_surge
 	}
-	
+
 	option = {
 		name = "EVTOPTA999031"
 		add_country_modifier = {
 			name = election_cooldown
-			duration = 30 
+			duration = 30
 		}
 		rich_strata = {
 			limit = {
@@ -6786,7 +6786,7 @@ country_event = {
 	title = "EVTNAME999037"
 	desc = "EVTDESC999037"
 	picture = "Conservatism"
-	
+
 	trigger = {
 		has_country_flag = election_initialized
 		election = yes
@@ -6794,7 +6794,7 @@ country_event = {
 		NOT = { ruling_party_ideology = conservative ruling_party_ideology = big_tent }
 		NOT = { has_country_modifier = election_cooldown }
 	}
-	
+
 	mean_time_to_happen = {
 		months = 2
 		modifier = {
@@ -6813,42 +6813,42 @@ country_event = {
 			factor = 1.2
 			not = { average_militancy = 1 }
 		}
-		
+
 		modifier = {
 			factor = 1.2
 			not = { average_militancy = 0.5 }
 		}
-				
+
 		modifier = {
 			factor = 1.5
 			not = { average_consciousness = 5 }
 		}
-		
+
 		modifier = {
 			factor = 1.1
 			not = { unemployment = 0.05 }
 		}
-		
+
 		modifier = {
 			factor = 1.5
 			invention = individualism
 		}
-		
+
 		modifier = {
 			factor = 1.5
 			invention = social_conscience
 		}
-		
+
 		modifier = {
 			factor = 0.8
 			unemployment = 0.1
 		}
-		
+
 		modifier = {
 			factor = 0.8
 			unemployment = 0.3
 		}
-				
+
 		modifier = {
 			factor = 1.5
 			or = {
@@ -6857,16 +6857,16 @@ country_event = {
 			}
 		}
 	}
-	
+
 	immediate = {
 		set_country_flag = conservative_surge
 	}
-	
+
 	option = {
 		name = "EVTOPTA999031"
 		add_country_modifier = {
 			name = election_cooldown
-			duration = 30 
+			duration = 30
 		}
 		any_pop = {
 			limit = {
@@ -6899,20 +6899,20 @@ country_event = {
 	}
 }
 
-# 999040 - Voting Rights Discussion	WWV		
+# 999040 - Voting Rights Discussion	WWV
 country_event = {
 	id = 999040
 	title = "EVTNAME999040"
 	desc = "EVTDESC999040"
 	picture = "voting"
-	
+
 	trigger = {
 		has_country_flag = election_initialized
 		election = yes
 		not = { has_country_modifier = election_cooldown }
 		vote_franschise = registered_voting
 	}
-	
+
 	mean_time_to_happen = {
 		months = 2
 		modifier = {
@@ -6923,74 +6923,74 @@ country_event = {
 			factor = 1.2
 			not = { political_reform_want = 0.05 }
 		}
-		
+
 		modifier = {
 			factor = 1.2
 			not = { average_militancy = 0.5 }
 		}
-				
+
 		modifier = {
 			factor = 1.5
 			not = { average_consciousness = 5 }
 		}
-		
+
 		modifier = {
 			factor = 0.8
 			political_reform_want = 0.1
 		}
-		
+
 		modifier = {
 			factor = 0.8
 			political_reform_want = 0.15
 		}
-		
+
 		modifier = {
 			factor = 0.8
 			political_reform_want = 0.2
 		}
-		
+
 		modifier = {
 			factor = 0.9
 			average_militancy = 1
 		}
-		
+
 		modifier = {
 			factor = 0.8
 			average_militancy = 2
 		}
-		
+
 		modifier = {
 			factor = 0.8
 			average_militancy = 4
 		}
-				
+
 		modifier = {
 			factor = 0.8
 			average_consciousness = 6
 		}
-		
+
 		modifier = {
 			factor = 0.8
 			average_consciousness = 8
 		}
 	}
-	
+
 	immediate = {
 		set_country_flag = election_voting_rights
 	}
-	
+
 	option = {
 		name = "EVTOPTA999040"
 		add_country_modifier = {
 			name = election_cooldown
-			duration = 30 
-		}		
+			duration = 30
+		}
 		rich_strata = {
 			limit = {
 				location = { is_colonial = no }
 			}
 			militancy = 2
-		}	
+		}
 		middle_strata = {
 			limit = {
 				location = { is_colonial = no }
@@ -7002,13 +7002,13 @@ country_event = {
 			}
 		}
 	}
-	
+
 	option = {
 		name = "EVTOPTB999040"
 		add_country_modifier = {
 			name = election_cooldown
-			duration = 30 
-		}		
+			duration = 30
+		}
 		rich_strata = {
 			limit = {
 				location = { is_colonial = no }
@@ -7028,92 +7028,92 @@ country_event = {
 	}
 }
 
-# 999041 - Voting Rights Discussion	WV		
+# 999041 - Voting Rights Discussion	WV
 country_event = {
 	id = 999041
 	title = "EVTNAME999040"
 	desc = "EVTDESC999041"
 	picture = "voting"
-	
+
 	trigger = {
 		has_country_flag = election_initialized
 		election = yes
 		not = { has_country_modifier = election_cooldown }
 		vote_franschise = universal_weighted_voting
 	}
-	
+
 	mean_time_to_happen = {
 		months = 2
 		modifier = {
 			factor = 2
 			has_country_flag = election_voting_rights
-		}		
+		}
 		modifier = {
 			factor = 1.2
 			not = { political_reform_want = 0.05 }
 		}
-		
+
 		modifier = {
 			factor = 1.2
 			not = { average_militancy = 0.5 }
 		}
-				
+
 		modifier = {
 			factor = 1.5
 			not = { average_consciousness = 5 }
 		}
-		
+
 		modifier = {
 			factor = 0.8
 			political_reform_want = 0.1
 		}
-		
+
 		modifier = {
 			factor = 0.8
 			political_reform_want = 0.15
 		}
-		
+
 		modifier = {
 			factor = 0.8
 			political_reform_want = 0.2
 		}
-		
+
 		modifier = {
 			factor = 0.9
 			average_militancy = 1
 		}
-		
+
 		modifier = {
 			factor = 0.8
 			average_militancy = 2
 		}
-		
+
 		modifier = {
 			factor = 0.8
 			average_militancy = 4
 		}
-				
+
 		modifier = {
 			factor = 0.8
 			average_consciousness = 6
 		}
-		
+
 		modifier = {
 			factor = 0.8
 			average_consciousness = 8
 		}
 	}
-	
+
 	immediate = {
 		set_country_flag = election_voting_rights
 	}
-	
+
 	option = {
 		name = "EVTOPTA999041"
 		add_country_modifier = {
 			name = election_cooldown
-			duration = 30 
-		}		
+			duration = 30
+		}
 		rich_strata = {
 			limit = {
 				location = { is_colonial = no }
@@ -7124,20 +7124,20 @@ country_event = {
 			limit = {
 				location = { is_colonial = no }
 			}
-			consciousness = 2	
+			consciousness = 2
 			dominant_issue = {
 				factor = 0.05
 				value = universal_weighted_voting
 			}
 		}
 	}
-	
+
 	option = {
 		name = "EVTOPTB999041"
 		add_country_modifier = {
 			name = election_cooldown
-			duration = 30 
-		}		
+			duration = 30
+		}
 		rich_strata = {
 			limit = {
 				location = { is_colonial = no }
@@ -7157,92 +7157,92 @@ country_event = {
 	}
 }
 
-# 999042 - Voting Rights Discussion	UWV	
+# 999042 - Voting Rights Discussion	UWV
 country_event = {
 	id = 999042
 	title = "EVTNAME999040"
 	desc = "EVTDESC999042"
 	picture = "voting"
-	
+
 	trigger = {
 		has_country_flag = election_initialized
 		election = yes
 		not = { has_country_modifier = election_cooldown }
 		vote_franschise = universal_weighted_voting
 	}
-	
+
 	mean_time_to_happen = {
 		months = 2
 		modifier = {
 			factor = 2
 			has_country_flag = election_voting_rights
-		}		
+		}
 		modifier = {
 			factor = 1.2
 			not = { political_reform_want = 0.05 }
 		}
-		
+
 		modifier = {
 			factor = 1.2
 			not = { average_militancy = 0.5 }
 		}
-				
+
 		modifier = {
 			factor = 1.5
 			not = { average_consciousness = 5 }
 		}
-		
+
 		modifier = {
 			factor = 0.8
 			political_reform_want = 0.1
 		}
-		
+
 		modifier = {
 			factor = 0.8
 			political_reform_want = 0.15
 		}
-		
+
 		modifier = {
 			factor = 0.8
 			political_reform_want = 0.2
 		}
-		
+
 		modifier = {
 			factor = 0.9
 			average_militancy = 1
 		}
-		
+
 		modifier = {
 			factor = 0.8
 			average_militancy = 2
 		}
-		
+
 		modifier = {
 			factor = 0.8
 			average_militancy = 4
 		}
-				
+
 		modifier = {
 			factor = 0.8
 			average_consciousness = 6
 		}
-		
+
 		modifier = {
 			factor = 0.8
 			average_consciousness = 8
 		}
 	}
-	
+
 	immediate = {
 		set_country_flag = election_voting_rights
 	}
-	
+
 	option = {
 		name = "EVTOPTA999042"
 		add_country_modifier = {
 			name = election_cooldown
-			duration = 30 
-		}		
+			duration = 30
+		}
 		rich_strata = {
 			limit = {
 				location = { is_colonial = no }
@@ -7266,13 +7266,13 @@ country_event = {
 			}
 		}
 	}
-	
+
 	option = {
 		name = "EVTOPTB999042"
 		add_country_modifier = {
 			name = election_cooldown
-			duration = 30 
-		}		
+			duration = 30
+		}
 		rich_strata = {
 			limit = {
 				location = { is_colonial = no }
@@ -7302,104 +7302,104 @@ country_event = {
 	}
 }
 
-# 999043 - Voting Rights Discussion	UV	
+# 999043 - Voting Rights Discussion	UV
 country_event = {
 	id = 999043
 	title = "EVTNAME999040"
 	desc = "EVTDESC999043"
 	picture = "voting"
-	
+
 	trigger = {
 		has_country_flag = election_initialized
 		election = yes
 		not = { has_country_modifier = election_cooldown }
 		vote_franschise = universal_weighted_voting
 	}
-	
+
 	mean_time_to_happen = {
 		months = 2
 		modifier = {
 			factor = 2
 			has_country_flag = election_voting_rights
-		}		
+		}
 		modifier = {
 			factor = 1.2
 			not = { political_reform_want = 0.05 }
 		}
-		
+
 		modifier = {
 			factor = 1.2
 			not = { average_militancy = 0.5 }
 		}
-				
+
 		modifier = {
 			factor = 1.5
 			not = { average_consciousness = 5 }
 		}
-		
+
 		modifier = {
 			factor = 0.8
 			political_reform_want = 0.1
 		}
-		
+
 		modifier = {
 			factor = 0.8
 			political_reform_want = 0.15
 		}
-		
+
 		modifier = {
 			factor = 0.8
 			political_reform_want = 0.2
 		}
-		
+
 		modifier = {
 			factor = 0.9
 			average_militancy = 1
 		}
-		
+
 		modifier = {
 			factor = 0.8
 			average_militancy = 2
 		}
-		
+
 		modifier = {
 			factor = 0.8
 			average_militancy = 4
 		}
-				
+
 		modifier = {
 			factor = 0.8
 			average_consciousness = 6
 		}
-		
+
 		modifier = {
 			factor = 0.8
 			average_consciousness = 8
 		}
 	}
-	
+
 	immediate = {
 		set_country_flag = election_voting_rights
 	}
-	
+
 	option = {
 		name = "EVTOPTA999043"
 		add_country_modifier = {
 			name = election_cooldown
-			duration = 30 
-		}		
+			duration = 30
+		}
 		rich_strata = {
 			limit = {
 				location = { is_colonial = no }
 			}
 			militancy = 2
-		}		
+		}
 		middle_strata = {
 			limit = {
 				location = { is_colonial = no }
 			}
 			militancy = 1
-		}		
+		}
 		poor_strata = {
 			limit = {
 				location = { is_colonial = no }
@@ -7411,13 +7411,13 @@ country_event = {
 			}
 		}
 	}
-	
+
 	option = {
 		name = "EVTOPTB999043"
 		add_country_modifier = {
 			name = election_cooldown
-			duration = 30 
-		}		
+			duration = 30
+		}
 		rich_strata = {
 			limit = {
 				location = { is_colonial = no }
@@ -7427,7 +7427,7 @@ country_event = {
 				factor = 0.05
 				value = universal_weighted_voting
 			}
-		}		
+		}
 		middle_strata = {
 			limit = {
 				location = { is_colonial = no }
@@ -7437,7 +7437,7 @@ country_event = {
 				factor = 0.025
 				value = universal_weighted_voting
 			}
-		}		
+		}
 		poor_strata = {
 			limit = {
 				location = { is_colonial = no }
@@ -7453,14 +7453,14 @@ country_event = {
 	title = "EVTNAME999044"
 	desc = "EVTDESC999044"
 	picture = "Harassment"
-	
+
 	trigger = {
 		has_country_flag = election_initialized
 		election = yes
 		not = { has_country_modifier = election_cooldown }
 		political_parties = parties_only_nominated
 	}
-	
+
 	mean_time_to_happen = {
 		months = 2
 		modifier = {
@@ -7471,131 +7471,131 @@ country_event = {
 			factor = 1.2
 			not = { political_reform_want = 0.05 }
 		}
-		
+
 		modifier = {
 			factor = 1.2
 			not = { average_militancy = 0.5 }
 		}
-				
+
 		modifier = {
 			factor = 1.5
 			not = { average_consciousness = 5 }
 		}
-		
+
 		modifier = {
 			factor = 0.8
 			political_reform_want = 0.1
 		}
-		
+
 		modifier = {
 			factor = 0.8
 			political_reform_want = 0.15
 		}
-		
+
 		modifier = {
 			factor = 0.8
 			political_reform_want = 0.2
 		}
-		
+
 		modifier = {
 			factor = 0.9
 			average_militancy = 1
 		}
-		
+
 		modifier = {
 			factor = 0.8
 			average_militancy = 2
 		}
-		
+
 		modifier = {
 			factor = 0.8
 			average_militancy = 4
 		}
-				
+
 		modifier = {
 			factor = 0.8
 			average_consciousness = 6
 		}
-		
+
 		modifier = {
 			factor = 0.8
 			average_consciousness = 8
 		}
 	}
-	
+
 	immediate = {
 		set_country_flag = election_political_parties
 	}
-	
+
 	option = {
 		name = "EVTOPTA999044"
 		add_country_modifier = {
 			name = election_cooldown
-			duration = 30 
+			duration = 30
 		}
-		any_pop = { 
+		any_pop = {
 			limit = {
 				location = { is_colonial = no }
-				NOT = { OR = { religion = sunni religion = shiite } } 
+				NOT = { OR = { religion = sunni religion = shiite } }
 			}
-			scaled_militancy = { 
-				factor = 3 
-				ideology = populist 
-			}				
-			scaled_consciousness = { 
+			scaled_militancy = {
 				factor = 3
-				ideology = populist 
+				ideology = populist
 			}
-		}		
-		any_pop = { 
+			scaled_consciousness = {
+				factor = 3
+				ideology = populist
+			}
+		}
+		any_pop = {
 			limit = {
 				location = { is_colonial = no }
-				OR = { religion = sunni religion = shiite } 
+				OR = { religion = sunni religion = shiite }
 			}
-			scaled_militancy = { 
-				factor = 3 
+			scaled_militancy = {
+				factor = 3
 				ideology = traditionalist
-			}				
-			scaled_consciousness = { 
-				factor = 3
-				ideology = traditionalist 
 			}
-		}		
-		any_pop = { 
+			scaled_consciousness = {
+				factor = 3
+				ideology = traditionalist
+			}
+		}
+		any_pop = {
 			limit = {
 				location = { is_colonial = no }
-			}		
+			}
 			dominant_issue = {
 				factor = 0.1
 				value = parties_allowed
 			}
 		}
 	}
-	
+
 	option = {
 		name = "EVTOPTB999044"
 		add_country_modifier = {
 			name = election_cooldown
-			duration = 30 
+			duration = 30
 		}
 		any_pop = {
 			limit = {
 				location = { is_colonial = no }
-			}		
-			scaled_militancy = { 
+			}
+			scaled_militancy = {
 				factor = 3
-				ideology = liberal 
-			}	
-			
-			scaled_consciousness = { 
+				ideology = liberal
+			}
+
+			scaled_consciousness = {
 				factor = 3
-				ideology = liberal 
+				ideology = liberal
 			}
 		}
-		any_pop = { 
+		any_pop = {
 			limit = {
 				location = { is_colonial = no }
-			}		
+			}
 			dominant_issue = {
 				factor = 0.025
 				value = parties_only_nominated
@@ -7610,97 +7610,97 @@ country_event = {
 	title = "EVTNAME999045"
 	desc = "EVTDESC999045"
 	picture = "treaty"
-	
+
 	trigger = {
 		has_country_flag = election_initialized
 		election = yes
 		not = { has_country_modifier = election_cooldown }
 		political_parties = parties_allowed
 	}
-	
+
 	mean_time_to_happen = {
 		months = 2
 		modifier = {
 			factor = 2
 			has_country_flag = election_political_parties
-		}		
+		}
 		modifier = {
 			factor = 1.2
 			not = { political_reform_want = 0.05 }
 		}
-		
+
 		modifier = {
 			factor = 1.2
 			not = { average_militancy = 0.5 }
 		}
-				
+
 		modifier = {
 			factor = 1.5
 			not = { average_consciousness = 5 }
 		}
-		
+
 		modifier = {
 			factor = 0.8
 			political_reform_want = 0.1
 		}
-		
+
 		modifier = {
 			factor = 0.8
 			political_reform_want = 0.15
 		}
-		
+
 		modifier = {
 			factor = 0.8
 			political_reform_want = 0.2
 		}
-		
+
 		modifier = {
 			factor = 0.9
 			average_militancy = 1
 		}
-		
+
 		modifier = {
 			factor = 0.8
 			average_militancy = 2
 		}
-		
+
 		modifier = {
 			factor = 0.8
 			average_militancy = 4
 		}
-				
+
 		modifier = {
 			factor = 0.8
 			average_consciousness = 6
 		}
-		
+
 		modifier = {
 			factor = 0.8
 			average_consciousness = 8
 		}
 	}
-	
+
 	immediate = {
 		set_country_flag = election_political_parties
 	}
-	
+
 	option = {
 		name = "EVTOPTA999045"
 		add_country_modifier = {
 			name = election_cooldown
-			duration = 30 
+			duration = 30
 		}
 		any_pop = {
 			limit = {
 				location = { is_colonial = no }
 				NOT = { OR = { religion = sunni religion = shiite }  }
-			}		
-			scaled_militancy = { 
+			}
+			scaled_militancy = {
 				factor = 3
-				ideology = populist 
-			}	
-			
-			scaled_consciousness = { 
+				ideology = populist
+			}
+
+			scaled_consciousness = {
 				factor = 3
 				ideology = populist
 			}
@@ -7708,53 +7708,53 @@ country_event = {
 		any_pop = {
 			limit = {
 				location = { is_colonial = no }
-				OR = { religion = sunni religion = shiite } 
-			}		
-			scaled_militancy = { 
+				OR = { religion = sunni religion = shiite }
+			}
+			scaled_militancy = {
 				factor = 3
 				ideology = traditionalist
-			}	
-			
-			scaled_consciousness = { 
+			}
+
+			scaled_consciousness = {
 				factor = 3
 				ideology = traditionalist
 			}
 		}
-		any_pop = { 
+		any_pop = {
 			limit = {
 				location = { is_colonial = no }
-			}		
+			}
 			dominant_issue = {
 				factor = 0.05
 				value = parties_promote_democratic
 			}
 		}
 	}
-	
+
 	option = {
 		name = "EVTOPTB999045"
 		add_country_modifier = {
 			name = election_cooldown
-			duration = 30 
+			duration = 30
 		}
 		any_pop = {
 			limit = {
 				location = { is_colonial = no }
-			}		
-			scaled_militancy = { 
+			}
+			scaled_militancy = {
 				factor = 3
-				ideology = liberal 
-			}	
-			
-			scaled_consciousness = { 
+				ideology = liberal
+			}
+
+			scaled_consciousness = {
 				factor = 3
-				ideology = liberal 
+				ideology = liberal
 			}
 		}
-		any_pop = { 
+		any_pop = {
 			limit = {
 				location = { is_colonial = no }
-			}		
+			}
 			dominant_issue = {
 				factor = 0.025
 				value = parties_allowed
@@ -7769,97 +7769,97 @@ country_event = {
 	title = "EVTNAME999046"
 	desc = "EVTDESC999046"
 	picture = "voting"
-	
+
 	trigger = {
 		has_country_flag = election_initialized
 		election = yes
 		not = { has_country_modifier = election_cooldown }
 		political_parties = parties_promote_democratic
 	}
-	
+
 	mean_time_to_happen = {
 		months = 2
 		modifier = {
 			factor = 2
 			has_country_flag = election_political_parties
-		}		
+		}
 		modifier = {
 			factor = 1.2
 			not = { political_reform_want = 0.05 }
 		}
-		
+
 		modifier = {
 			factor = 1.2
 			not = { average_militancy = 0.5 }
 		}
-				
+
 		modifier = {
 			factor = 1.5
 			not = { average_consciousness = 5 }
 		}
-		
+
 		modifier = {
 			factor = 0.8
 			political_reform_want = 0.1
 		}
-		
+
 		modifier = {
 			factor = 0.8
 			political_reform_want = 0.15
 		}
-		
+
 		modifier = {
 			factor = 0.8
 			political_reform_want = 0.2
 		}
-		
+
 		modifier = {
 			factor = 0.9
 			average_militancy = 1
 		}
-		
+
 		modifier = {
 			factor = 0.8
 			average_militancy = 2
 		}
-		
+
 		modifier = {
 			factor = 0.8
 			average_militancy = 4
 		}
-				
+
 		modifier = {
 			factor = 0.8
 			average_consciousness = 6
 		}
-		
+
 		modifier = {
 			factor = 0.8
 			average_consciousness = 8
 		}
 	}
-	
+
 	immediate = {
 		set_country_flag = election_political_parties
 	}
-	
+
 	option = {
 		name = "EVTOPTA999046"
 		add_country_modifier = {
 			name = election_cooldown
-			duration = 30 
+			duration = 30
 		}
 		any_pop = {
 			limit = {
 				location = { is_colonial = no }
 				NOT = { OR = { religion = sunni religion = shiite }  }
-			}		
-			scaled_militancy = { 
+			}
+			scaled_militancy = {
 				factor = 3
 				ideology = populist
-			}	
-			
-			scaled_consciousness = { 
+			}
+
+			scaled_consciousness = {
 				factor = 3
 				ideology = populist
 			}
@@ -7867,53 +7867,53 @@ country_event = {
 		any_pop = {
 			limit = {
 				location = { is_colonial = no }
-				OR = { religion = sunni religion = shiite } 
+				OR = { religion = sunni religion = shiite }
 			}
-			scaled_militancy = { 
+			scaled_militancy = {
 				factor = 3
 				ideology = traditionalist
-			}	
-			
-			scaled_consciousness = { 
+			}
+
+			scaled_consciousness = {
 				factor = 3
 				ideology = traditionalist
 			}
 		}
-		any_pop = { 
+		any_pop = {
 			limit = {
 				location = { is_colonial = no }
-			}		
+			}
 			dominant_issue = {
 				factor = 0.05
 				value = parties_restrict_non_democratic
 			}
 		}
 	}
-	
+
 	option = {
 		name = "EVTOPTB999046"
 		add_country_modifier = {
 			name = election_cooldown
-			duration = 30 
+			duration = 30
 		}
 		any_pop = {
 			limit = {
 				location = { is_colonial = no }
-			}		
-			scaled_militancy = { 
+			}
+			scaled_militancy = {
 				factor = 3
-				ideology = liberal 
-			}	
-			
-			scaled_consciousness = { 
+				ideology = liberal
+			}
+
+			scaled_consciousness = {
 				factor = 3
-				ideology = liberal 
+				ideology = liberal
 			}
 		}
-		any_pop = { 
+		any_pop = {
 			limit = {
 				location = { is_colonial = no }
-			}		
+			}
 			dominant_issue = {
 				factor = 0.025
 				value = parties_promote_democratic
@@ -7928,7 +7928,7 @@ country_event = {
 	title = "EVTNAME999049"
 	desc = "EVTDESC999049"
 	picture = "unemployment"
-	
+
 	trigger = {
 		has_country_flag = election_initialized
 		election = yes
@@ -7936,7 +7936,7 @@ country_event = {
 		unemployment = 0.1
 		is_ideology_enabled = socialist
 	}
-	
+
 	mean_time_to_happen = {
 		months = 1
 		modifier = {
@@ -7947,88 +7947,88 @@ country_event = {
 			factor = 1.2
 			is_ideology_enabled = populist
 		}
-		
+
 		modifier = {
 			factor = 1.2
 			is_ideology_enabled = traditionalist
 		}
-		
+
 		modifier = {
 			factor = 1.2
 			not = { average_militancy = 0.5 }
 		}
-				
+
 		modifier = {
 			factor = 1.5
 			not = { average_consciousness = 5 }
 		}
-		
+
 		modifier = {
 			factor = 0.8
 			unemployment = 0.15
 		}
-		
+
 		modifier = {
 			factor = 0.8
 			unemployment = 0.2
 		}
-		
+
 		modifier = {
 			factor = 0.8
 			unemployment = 0.25
 		}
-		
+
 		modifier = {
 			factor = 0.8
 			unemployment = 0.3
 		}
-		
+
 		modifier = {
 			factor = 0.8
 			unemployment = 0.4
 		}
-		
+
 		modifier = {
 			factor = 0.8
 			unemployment = 0.5
 		}
-		
+
 		modifier = {
 			factor = 0.9
 			average_militancy = 1
 		}
-		
+
 		modifier = {
 			factor = 0.8
 			average_militancy = 2
 		}
-		
+
 		modifier = {
 			factor = 0.8
 			average_militancy = 4
 		}
-				
+
 		modifier = {
 			factor = 0.8
 			average_consciousness = 6
 		}
-		
+
 		modifier = {
 			factor = 0.8
 			average_consciousness = 8
 		}
-		
+
 	}
-	
+
 	immediate = {
-		set_country_flag = election_unemployment 
+		set_country_flag = election_unemployment
 	}
-	
+
 	option = {
 		name = "EVTOPTA999049"
 		add_country_modifier = {
 			name = election_cooldown
-			duration = 30 
+			duration = 30
 		}
 		any_pop = {
 			limit = {
@@ -8039,18 +8039,18 @@ country_event = {
 				value = liberal
 				factor = 0.05
 			}
-			scaled_consciousness = { 
+			scaled_consciousness = {
 				factor = 3
-				ideology = liberal 
+				ideology = liberal
 			}
 		}
 	}
-	
+
 	option = {
 		name = "EVTOPTB999049"
 		add_country_modifier = {
 			name = election_cooldown
-			duration = 30 
+			duration = 30
 		}
 		any_pop = {
 			limit = {
@@ -8060,10 +8060,10 @@ country_event = {
 			ideology = {
 				value = socialist
 				factor = 0.05
-			}		
-			scaled_consciousness = { 
+			}
+			scaled_consciousness = {
 				factor = 3
-				ideology = socialist 
+				ideology = socialist
 			}
 		}
 	}
@@ -8072,7 +8072,7 @@ country_event = {
 		name = "EVTOPTC999049"
 		add_country_modifier = {
 			name = election_cooldown
-			duration = 30 
+			duration = 30
 		}
 		any_pop = {
 			limit = {
@@ -8115,95 +8115,95 @@ country_event = {
 	title = "EVTNAME999049"
 	desc = "EVTDESC999050"
 	picture = "unemployment"
-	
+
 	trigger = {
 		has_country_flag = election_initialized
 		election = yes
 		not = { has_country_modifier = election_cooldown }
 		unemployment = 0.1
 	}
-	
+
 	mean_time_to_happen = {
 		months = 1
 		modifier = {
 			factor = 3
 			has_country_flag = election_unemployment
-		}		
+		}
 		modifier = {
 			factor = 1.2
 			not = { average_militancy = 0.5 }
 		}
-				
+
 		modifier = {
 			factor = 1.5
 			not = { average_consciousness = 5 }
 		}
-		
+
 		modifier = {
 			factor = 0.8
 			unemployment = 0.15
 		}
-		
+
 		modifier = {
 			factor = 0.8
 			unemployment = 0.2
 		}
-		
+
 		modifier = {
 			factor = 0.8
 			unemployment = 0.25
 		}
-		
+
 		modifier = {
 			factor = 0.8
 			unemployment = 0.3
 		}
-		
+
 		modifier = {
 			factor = 0.8
 			unemployment = 0.4
 		}
-		
+
 		modifier = {
 			factor = 0.8
 			unemployment = 0.5
 		}
-		
+
 		modifier = {
 			factor = 0.9
 			average_militancy = 1
 		}
-		
+
 		modifier = {
 			factor = 0.8
 			average_militancy = 2
 		}
-		
+
 		modifier = {
 			factor = 0.8
 			average_militancy = 4
 		}
-				
+
 		modifier = {
 			factor = 0.8
 			average_consciousness = 6
 		}
-		
+
 		modifier = {
 			factor = 0.8
 			average_consciousness = 8
 		}
 	}
-	
+
 	immediate = {
 		set_country_flag = election_unemployment
 	}
-	
+
 	option = {
 		name = "EVTOPTA999050"
 		add_country_modifier = {
 			name = election_cooldown
-			duration = 30 
+			duration = 30
 		}
 		any_pop = {
 			limit = {
@@ -8213,19 +8213,19 @@ country_event = {
 			ideology = {
 				value = progressive
 				factor = 0.05
-			}		
-			scaled_consciousness = { 
+			}
+			scaled_consciousness = {
 				factor = 3
-				ideology = progressive 
+				ideology = progressive
 			}
 		}
 	}
-	
+
 	option = {
 		name = "EVTOPTB999050"
 		add_country_modifier = {
 			name = election_cooldown
-			duration = 30 
+			duration = 30
 		}
 		any_pop = {
 			limit = {
@@ -8236,8 +8236,8 @@ country_event = {
 			ideology = {
 				value = populist
 				factor = 0.05
-			}		
-			scaled_consciousness = { 
+			}
+			scaled_consciousness = {
 				factor = 3
 				ideology = populist
 			}
@@ -8251,8 +8251,8 @@ country_event = {
 			ideology = {
 				value = traditionalist
 				factor = 0.05
-			}		
-			scaled_consciousness = { 
+			}
+			scaled_consciousness = {
 				factor = 3
 				ideology = traditionalist
 			}
@@ -8263,7 +8263,7 @@ country_event = {
 		name = "EVTOPTC999050"
 		add_country_modifier = {
 			name = election_cooldown
-			duration = 30 
+			duration = 30
 		}
 		any_pop = {
 			limit = {
@@ -8273,16 +8273,16 @@ country_event = {
 			ideology = {
 				value = socialist
 				factor = 0.05
-			}		
-			scaled_consciousness = { 
-				factor = 3
-				ideology = socialist 
 			}
-			scaled_militancy = { 
+			scaled_consciousness = {
+				factor = 3
+				ideology = socialist
+			}
+			scaled_militancy = {
 				factor = 3
 				ideology = populist
 			}
-			scaled_militancy = { 
+			scaled_militancy = {
 				factor = 3
 				ideology = traditionalist
 			}
@@ -8293,7 +8293,7 @@ country_event = {
 		name = "EVTOPTC999049"
 		add_country_modifier = {
 			name = election_cooldown
-			duration = 30 
+			duration = 30
 		}
 		any_pop = {
 			limit = {
@@ -8319,7 +8319,7 @@ country_event = {
 	title = "EVTNAME999055"
 	desc = "EVTDESC999055"
 	picture = "ChildLabor2"
-	
+
 	trigger = {
 		has_country_flag = election_initialized
 		election = yes
@@ -8332,74 +8332,74 @@ country_event = {
 		socialist = 10
 		literacy = 0.5
 	}
-	
+
 	mean_time_to_happen = {
 		months = 1
 		modifier = {
 			factor = 1.2
 			not = { social_reform_want = 0.05 }
 		}
-		
+
 		modifier = {
 			factor = 1.2
 			not = { average_militancy = 0.5 }
 		}
-				
+
 		modifier = {
 			factor = 1.5
 			not = { average_consciousness = 5 }
 		}
-		
+
 		modifier = {
 			factor = 0.8
 			social_reform_want = 0.1
 		}
-		
+
 		modifier = {
 			factor = 0.8
 			social_reform_want = 0.15
 		}
-		
+
 		modifier = {
 			factor = 0.8
 			social_reform_want = 0.2
 		}
-		
+
 		modifier = {
 			factor = 0.9
 			average_militancy = 1
 		}
-		
+
 		modifier = {
 			factor = 0.8
 			average_militancy = 2
 		}
-		
+
 		modifier = {
 			factor = 0.8
 			average_militancy = 4
 		}
-				
+
 		modifier = {
 			factor = 0.8
 			average_consciousness = 6
 		}
-		
+
 		modifier = {
 			factor = 0.8
 			average_consciousness = 8
 		}
 	}
-	
+
 	immediate = {
 		set_country_flag = election_child_labor
 	}
-	
+
 	option = {
 		name = "EVTOPTA999055"
 		add_country_modifier = {
 			name = election_cooldown
-			duration = 30 
+			duration = 30
 		}
 		any_pop = {
 			limit = {
@@ -8440,19 +8440,19 @@ country_event = {
 		poor_strata = {
 			limit = {
 				location = { is_colonial = no }
-			}		
-			scaled_militancy = { 
+			}
+			scaled_militancy = {
 				factor = 3
 				ideology = socialist
 			}
 		}
 	}
-	
+
 	option = {
 		name = "EVTOPTB999055"
 		add_country_modifier = {
 			name = election_cooldown
-			duration = 30 
+			duration = 30
 		}
 		random_owned = {
 			limit = {
@@ -8468,7 +8468,7 @@ country_event = {
 						factor = 0.10
 						value = limited_child_care
 					}
-					scaled_consciousness = { 
+					scaled_consciousness = {
 						factor = 3
 						ideology = socialist
 					}
@@ -8489,7 +8489,7 @@ country_event = {
 						factor = 0.10
 						value = supported_child_care
 					}
-					scaled_consciousness = { 
+					scaled_consciousness = {
 						factor = 3
 						ideology = socialist
 					}
@@ -8509,7 +8509,7 @@ country_event = {
 			limit = {
 				location = { is_colonial = no }
 			}
-			scaled_militancy = { 
+			scaled_militancy = {
 				factor = 3
 				ideology = populist
 			}
@@ -8523,7 +8523,7 @@ country_event = {
 	title = "EVTNAME999056"
 	desc = "EVTDESC999056"
 	picture = "demonstration"
-	
+
 	trigger = {
 		has_country_flag = election_initialized
 		election = yes
@@ -8548,75 +8548,75 @@ country_event = {
 		}
 		literacy = 0.5
 	}
-	
+
 	mean_time_to_happen = {
-		months = 2	
+		months = 2
 		modifier = {
 			factor = 1.2
 			not = { political_reform_want = 0.05 }
 		}
-		
+
 		modifier = {
 			factor = 1.2
 			not = { average_militancy = 0.5 }
 		}
-				
+
 		modifier = {
 			factor = 1.5
 			not = { average_consciousness = 5 }
 		}
-		
+
 		modifier = {
 			factor = 0.8
 			political_reform_want = 0.1
 		}
-		
+
 		modifier = {
 			factor = 0.8
 			political_reform_want = 0.15
 		}
-		
+
 		modifier = {
 			factor = 0.8
 			political_reform_want = 0.2
 		}
-		
+
 		modifier = {
 			factor = 0.9
 			average_militancy = 1
 		}
-		
+
 		modifier = {
 			factor = 0.8
 			average_militancy = 2
 		}
-		
+
 		modifier = {
 			factor = 0.8
 			average_militancy = 4
 		}
-				
+
 		modifier = {
 			factor = 0.8
 			average_consciousness = 6
 		}
-		
+
 		modifier = {
 			factor = 0.8
 			average_consciousness = 8
 		}
 	}
-	
+
 	immediate = {
 		set_country_flag = election_minorities
 	}
-	
+
 	option = {
 		name = "EVTOPTA999056"
 		add_country_modifier = {
 			name = election_cooldown
-			duration = 30 
-		} 
+			duration = 30
+		}
 		any_pop = {
 			limit = {
 				location = { is_colonial = no }
@@ -8669,7 +8669,7 @@ country_event = {
 						value = liberal
 						factor = 0.05
 					}
-					scaled_militancy = { 
+					scaled_militancy = {
 						factor = 3
 						ideology = liberal
 					}
@@ -8691,7 +8691,7 @@ country_event = {
 						value = liberal
 						factor = 0.05
 					}
-					scaled_militancy = { 
+					scaled_militancy = {
 						factor = 3
 						ideology = liberal
 					}
@@ -8699,13 +8699,13 @@ country_event = {
 			}
 		}
 	}
-	
+
 	option = {
 		name = "EVTOPTB999056"
 		add_country_modifier = {
 			name = election_cooldown
-			duration = 30 
-		} 
+			duration = 30
+		}
 		random_owned = {
 			limit = {
 				owner = { immigration_policy = quota_immigration }
@@ -8723,7 +8723,7 @@ country_event = {
 						factor = 0.10
 						value = gender_equal
 					}
-					scaled_consciousness = { 
+					scaled_consciousness = {
 						factor = 3
 						ideology = liberal
 					}
@@ -8747,7 +8747,7 @@ country_event = {
 						factor = 0.10
 						value = naturalization
 					}
-					scaled_consciousness = { 
+					scaled_consciousness = {
 						factor = 3
 						ideology = liberal
 					}
@@ -8782,7 +8782,7 @@ country_event = {
 				is_primary_culture = yes
 				NOT = { OR = { religion = sunni religion = shiite } }
 			}
-			scaled_militancy = { 
+			scaled_militancy = {
 				factor = 3
 				ideology = populist
 			}
@@ -8793,7 +8793,7 @@ country_event = {
 				is_primary_culture = yes
 				OR = { religion = sunni religion = shiite }
 			}
-			scaled_militancy = { 
+			scaled_militancy = {
 				factor = 3
 				ideology = traditionalist
 			}
@@ -8807,7 +8807,7 @@ country_event = {
 	title = "EVTNAME999057"
 	desc = "EVTDESC999057"
 	picture = "demonstration"
-	
+
 	trigger = {
 		has_country_flag = election_initialized
 		election = yes
@@ -8828,74 +8828,74 @@ country_event = {
 		}
 		literacy = 0.5
 	}
-	
+
 	mean_time_to_happen = {
 		months = 2
 		modifier = {
 			factor = 1.2
 			not = { political_reform_want = 0.05 }
 		}
-		
+
 		modifier = {
 			factor = 1.2
 			not = { average_militancy = 0.5 }
 		}
-				
+
 		modifier = {
 			factor = 1.5
 			not = { average_consciousness = 5 }
 		}
-		
+
 		modifier = {
 			factor = 0.8
 			political_reform_want = 0.1
 		}
-		
+
 		modifier = {
 			factor = 0.8
 			political_reform_want = 0.15
 		}
-		
+
 		modifier = {
 			factor = 0.8
 			political_reform_want = 0.2
 		}
-		
+
 		modifier = {
 			factor = 0.9
 			average_militancy = 1
 		}
-		
+
 		modifier = {
 			factor = 0.8
 			average_militancy = 2
 		}
-		
+
 		modifier = {
 			factor = 0.8
 			average_militancy = 4
 		}
-				
+
 		modifier = {
 			factor = 0.8
 			average_consciousness = 6
 		}
-		
+
 		modifier = {
 			factor = 0.8
 			average_consciousness = 8
 		}
 	}
-	
+
 	immediate = {
-		set_country_flag = election_immigration 
+		set_country_flag = election_immigration
 	}
-	
+
 	option = {
 		name = "EVTOPTA999057"
 		add_country_modifier = {
 			name = election_cooldown
-			duration = 30 
+			duration = 30
 		}
 		any_pop = {
 			limit = {
@@ -8944,18 +8944,18 @@ country_event = {
 				value = liberal
 				factor = 0.05
 			}
-			scaled_militancy = { 
+			scaled_militancy = {
 				factor = 3
 				ideology = liberal
 			}
 		}
 	}
-	
+
 	option = {
 		name = "EVTOPTB999057"
 		add_country_modifier = {
 			name = election_cooldown
-			duration = 30 
+			duration = 30
 		}
 		random_owned = {
 			limit = {
@@ -8974,7 +8974,7 @@ country_event = {
 						factor = 0.10
 						value = open_immigration
 					}
-					scaled_consciousness = { 
+					scaled_consciousness = {
 						factor = 3
 						ideology = liberal
 					}
@@ -8998,7 +8998,7 @@ country_event = {
 						factor = 0.10
 						value = naturalization
 					}
-					scaled_consciousness = { 
+					scaled_consciousness = {
 						factor = 3
 						ideology = liberal
 					}
@@ -9022,7 +9022,7 @@ country_event = {
 				is_primary_culture = yes
 				NOT = { OR = { religion = sunni religion = shiite } }
 			}
-			scaled_militancy = { 
+			scaled_militancy = {
 				factor = 3
 				ideology = populist
 			}
@@ -9031,7 +9031,7 @@ country_event = {
 			limit = {
 				location = { is_colonial = no }
 				is_primary_culture = yes
-				OR = { religion = sunni religion = shiite } 
+				OR = { religion = sunni religion = shiite }
 			}
 			ideology = {
 				value = traditionalist
@@ -9044,7 +9044,7 @@ country_event = {
 				is_primary_culture = yes
 				OR = { religion = sunni religion = shiite }
 			}
-			scaled_militancy = { 
+			scaled_militancy = {
 				factor = 3
 				ideology = traditionalist
 			}
@@ -9058,14 +9058,14 @@ country_event = {
 	title = "EVTNAME999060"
 	desc = "EVTDESC999060"
 	picture = "Revolution"
-	
+
 	trigger = {
 		has_country_flag = election_initialized
 		election = yes
 		war = yes
 		NOT = { has_country_modifier = election_cooldown }
 	}
-	
+
 	mean_time_to_happen = {
 		months = 1
 		modifier = {
@@ -9122,12 +9122,12 @@ country_event = {
 	immediate = {
 		set_country_flag = election_war
 	}
-	
+
 	option = {
 		name = "EVTOPTA999061"
 		add_country_modifier = {
 			name = election_cooldown
-			duration = 30 
+			duration = 30
 		}
 		war_exhaustion = -10
 		any_pop = {
@@ -9141,12 +9141,12 @@ country_event = {
 			}
 		}
 	}
-	
+
 	option = {
 		name = "EVTOPTA999060"
 		add_country_modifier = {
 			name = election_cooldown
-			duration = 30 
+			duration = 30
 		}
 		any_pop = {
 			limit = {
@@ -9159,12 +9159,12 @@ country_event = {
 			}
 		}
 	}
-	
+
 	option = {
 		name = "EVTOPTB999061"
 		add_country_modifier = {
 			name = election_cooldown
-			duration = 30 
+			duration = 30
 		}
 		war_exhaustion = 10
 		any_pop = {
@@ -9189,7 +9189,7 @@ country_event = {
 	title = "EVTNAME999061"
 	desc = "EVTDESC999061"
 	picture = "Revolution"
-	
+
 	trigger = {
 		has_country_flag = election_initialized
 		election = yes
@@ -9208,7 +9208,7 @@ country_event = {
 			num_of_revolts = 1
 		}
 	}
-	
+
 	mean_time_to_happen = {
 		months = 2
 		modifier = {
@@ -9236,12 +9236,12 @@ country_event = {
 	immediate = {
 		set_country_flag = election_war
 	}
-	
+
 	option = {
 		name = "EVTOPTA999061"
 		add_country_modifier = {
 			name = election_cooldown
-			duration = 30 
+			duration = 30
 		}
 		badboy = 2
 		war_exhaustion = -10
@@ -9275,12 +9275,12 @@ country_event = {
 			}
 		}
 	}
-	
+
 	option = {
 		name = "EVTOPTB999061"
 		add_country_modifier = {
 			name = election_cooldown
-			duration = 30 
+			duration = 30
 		}
 		war_exhaustion = 5
 		add_country_modifier = {

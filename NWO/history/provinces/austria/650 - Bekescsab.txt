@@ -6,9 +6,9 @@ life_rating = 18
 terrain = temperate_grassland
 colonial = 0
 1992.1.1 = {
-owner = HUN
-controller = HUN
-add_core = HUN
-railroad = 1
-colonial = 0
+  owner = HUN
+  controller = HUN
+  add_core = HUN
+  railroad = 1
+  colonial = 0
 }

@@ -1,222 +1,222 @@
 #Massenya - Massenya (973000/243250 POPS)
 1818 = {
-	officers = {
-		culture = french_african
-		religion =  catholic 
-		size = 3162
-	 } 
-	officers = {
-		culture = french_african
-		religion = secularism
-		size = 238
-	 } 
-	soldiers = {
-		culture = french_african
-		religion =  catholic 
-		size = 30770
-	 } 
-	soldiers = {
-		culture = french_african
-		religion = secularism
-		size = 2316
-	 } 
-	soldiers = {
-		culture = kanem_bornou
-		religion =  sunni 
-		size = 17026
-	 } 
-	soldiers = {
-		culture = black_muslim
-		religion =  sunni 
-		size = 14497
-	 } 
-	aristocrats = {
-		culture = black_muslim
-		religion =  sunni 
-		size = 9730
-	 } 
-	capitalists = {
-		culture = black_muslim
-		religion =  sunni 
-		size = 1216
-	 } 
-	clergymen = {
-		culture = black_muslim
-		religion =  sunni 
-		size = 4865
-	 } 
-	clerks = {
-		culture = black_muslim
-		religion =  sunni 
-		size = 1427
-	 } 
-	artisans = {
-		culture = black_muslim
-		religion =  sunni 
-		size = 1355
-	 } 
-	craftsmen = {
-		culture = black_muslim
-		religion =  sunni 
-		size = 4281
-	 } 
-	farmers = {
-		culture = black_muslim
-		religion =  sunni 
-		size = 152121
-	 } 
+  officers = {
+    culture = french_african
+    religion =  catholic
+    size = 3162
+  }
+  officers = {
+    culture = french_african
+    religion = secularism
+    size = 238
+  }
+  soldiers = {
+    culture = french_african
+    religion =  catholic
+    size = 30770
+  }
+  soldiers = {
+    culture = french_african
+    religion = secularism
+    size = 2316
+  }
+  soldiers = {
+    culture = kanem_bornou
+    religion =  sunni
+    size = 17026
+  }
+  soldiers = {
+    culture = black_muslim
+    religion =  sunni
+    size = 14497
+  }
+  aristocrats = {
+    culture = black_muslim
+    religion =  sunni
+    size = 9730
+  }
+  capitalists = {
+    culture = black_muslim
+    religion =  sunni
+    size = 1216
+  }
+  clergymen = {
+    culture = black_muslim
+    religion =  sunni
+    size = 4865
+  }
+  clerks = {
+    culture = black_muslim
+    religion =  sunni
+    size = 1427
+  }
+  artisans = {
+    culture = black_muslim
+    religion =  sunni
+    size = 1355
+  }
+  craftsmen = {
+    culture = black_muslim
+    religion =  sunni
+    size = 4281
+  }
+  farmers = {
+    culture = black_muslim
+    religion =  sunni
+    size = 152121
+  }
 }
 #Moundou - Moundou, Doba, Pala (1155000/288750 POPS)
 1819 = {
-	clergymen = {
-		culture = african_minor
-		religion =  catholic 
-		size = 5370
-	 } 
-	clergymen = {
-		culture = african_minor
-		religion = secularism
-		size = 404
-	 } 
-	farmers = {
-		culture = african_minor
-		religion =  catholic 
-		size = 150381
-	 } 
-	farmers = {
-		culture = african_minor
-		religion = secularism
-		size = 11319
-	 } 
-	farmers = {
-		culture = sara
-		religion =  catholic
-		size = 112785
-	 } 
-	farmers = {
-		culture = sara
-		religion = secularism
-		size = 8489
-	 } 
+  clergymen = {
+    culture = african_minor
+    religion =  catholic
+    size = 5370
+  }
+  clergymen = {
+    culture = african_minor
+    religion = secularism
+    size = 404
+  }
+  farmers = {
+    culture = african_minor
+    religion =  catholic
+    size = 150381
+  }
+  farmers = {
+    culture = african_minor
+    religion = secularism
+    size = 11319
+  }
+  farmers = {
+    culture = sara
+    religion =  catholic
+    size = 112785
+  }
+  farmers = {
+    culture = sara
+    religion = secularism
+    size = 8489
+  }
 }
 #Bongor - Kourma, Bongor,Lai (1180000/295000 POPS)
 1820 = {
-	clergymen = {
-		culture = sara
-		religion =  catholic 
-		size = 5487
-	 } 
-	clergymen = {
-		culture = sara
-		religion = secularism
-		size = 413
-	 } 
-	farmers = {
-		culture = sara
-		religion =  catholic
-		size = 257888
-	 } 
-	farmers = {
-		culture = sara
-		religion = secularism
-		size = 19411
-	 } 
-	farmers = {
-		culture = fula
-		religion =  sunni 
-		size = 11800
-	 } 
+  clergymen = {
+    culture = sara
+    religion =  catholic
+    size = 5487
+  }
+  clergymen = {
+    culture = sara
+    religion = secularism
+    size = 413
+  }
+  farmers = {
+    culture = sara
+    religion =  catholic
+    size = 257888
+  }
+  farmers = {
+    culture = sara
+    religion = secularism
+    size = 19411
+  }
+  farmers = {
+    culture = fula
+    religion =  sunni
+    size = 11800
+  }
 }
 #Abeche - Abeche (937000/234250 POPS)
 1821 = {
-	clergymen = {
-		culture = sunni_arab
-		religion =  sunni 
-		size = 4685
-	 } 
-	farmers = {
-		culture = sunni_arab
-		religion =  sunni 
-		size = 81987
-	 } 
-	farmers = {
-		culture = hadjarai
-		religion =  sunni 
-		size = 126495
-	 } 
-	farmers = {
-		culture = black_muslim
-		religion =  sunni 
-		size = 21082
-	 } 
+  clergymen = {
+    culture = sunni_arab
+    religion =  sunni
+    size = 4685
+  }
+  farmers = {
+    culture = sunni_arab
+    religion =  sunni
+    size = 81987
+  }
+  farmers = {
+    culture = hadjarai
+    religion =  sunni
+    size = 126495
+  }
+  farmers = {
+    culture = black_muslim
+    religion =  sunni
+    size = 21082
+  }
 }
 #Am Timan - Ati, Biltine, Koumra (513000/128250 POPS)
 1822 = {
-	clergymen = {
-		culture = black_muslim
-		religion =  sunni 
-		size = 2565
-	 } 
-	farmers = {
-		culture = black_muslim
-		religion =  sunni 
-		size = 112860
-	 } 
-	farmers = {
-		culture = sunni_arab
-		religion =  sunni 
-		size = 12825
-	 } 
+  clergymen = {
+    culture = black_muslim
+    religion =  sunni
+    size = 2565
+  }
+  farmers = {
+    culture = black_muslim
+    religion =  sunni
+    size = 112860
+  }
+  farmers = {
+    culture = sunni_arab
+    religion =  sunni
+    size = 12825
+  }
 }
 #Mongo - Mongo (458000/114500 POPS)
 1823 = {
-	clergymen = {
-		culture = black_muslim
-		religion =  sunni 
-		size = 2290
-	 } 
-	farmers = {
-		culture = black_muslim
-		religion =  sunni 
-		size = 32060
-	 } 
-	farmers = {
-		culture = sunni_arab
-		religion =  sunni 
-		size = 80150
-	 } 
+  clergymen = {
+    culture = black_muslim
+    religion =  sunni
+    size = 2290
+  }
+  farmers = {
+    culture = black_muslim
+    religion =  sunni
+    size = 32060
+  }
+  farmers = {
+    culture = sunni_arab
+    religion =  sunni
+    size = 80150
+  }
 }
 #Mao - Mao, Bol (455000/113750 POPS)
 1824 = {
-	clergymen = {
-		culture = kanem_bornou
-		religion =  sunni 
-		size = 2274
-	 } 
-	farmers = {
-		culture = kanem_bornou
-		religion =  sunni 
-		size = 111474
-	 } 
+  clergymen = {
+    culture = kanem_bornou
+    religion =  sunni
+    size = 2274
+  }
+  farmers = {
+    culture = kanem_bornou
+    religion =  sunni
+    size = 111474
+  }
 }
 #Zouar - Bardai, Borkou (67000/16750 POPS)
 1825 = {
-	farmers = {
-		culture = toubou
-		religion =  sunni 
-		size = 16415
-	 } 
+  farmers = {
+    culture = toubou
+    religion =  sunni
+    size = 16415
+  }
 }
 #Faya - Fada (97000/24250 POPS)
 1826 = {
-	farmers = {
-		culture = toubou
-		religion =  sunni 
-		size = 11640
-	 } 
-	farmers = {
-		culture = zaghawa
-		religion =  sunni 
-		size = 12125
-	 } 
+  farmers = {
+    culture = toubou
+    religion =  sunni
+    size = 11640
+  }
+  farmers = {
+    culture = zaghawa
+    religion =  sunni
+    size = 12125
+  }
 }

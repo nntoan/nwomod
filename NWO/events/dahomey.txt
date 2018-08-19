@@ -7,17 +7,17 @@ country_event = {
 
   trigger = {
     tag = FRA
-	year = 1960 NOT = { year = 1972 }
-	is_our_vassal = BEN
+    year = 1960 NOT = { year = 1972 }
+    is_our_vassal = BEN
   }
 
   mean_time_to_happen = { months = 2 }
 
   option = {
     name = "EVT_8001512_A"
-	diplomatic_influence = { who = BEN value = 200 }
-	release_vassal = BEN 
-	prestige = 4
+    diplomatic_influence = { who = BEN value = 200 }
+    release_vassal = BEN
+    prestige = 4
   }
 }
 country_event = {
@@ -29,15 +29,15 @@ country_event = {
 
   trigger = {
     tag = BEN
-	is_vassal = no
-	year = 1934 NOT = { year = 1974 }
+    is_vassal = no
+    year = 1934 NOT = { year = 1974 }
   }
 
   mean_time_to_happen = { months = 12 }
 
   option = {
     name = EVT_8001513_A
-	government = presidential_dictatorship country_event = 800050
+    government = presidential_dictatorship country_event = 800050
   }
 }
 country_event = {
@@ -49,21 +49,21 @@ country_event = {
 
   trigger = {
     tag = BEN
-	is_vassal = no
-	year = 1954 NOT = { year = 1990 }
+    is_vassal = no
+    year = 1954 NOT = { year = 1990 }
   }
 
   mean_time_to_happen = { months = 12 }
 
   option = {
     name = EVT_8001520_A
-	government = proletarian_dictatorship country_event = 800052
-	ai_chance = { factor = 100 }
+    government = proletarian_dictatorship country_event = 800052
+    ai_chance = { factor = 100 }
   }
 
   option = {
     name = EVT_8001520_B
-	any_pop = { militancy = 2 consciousness = 2 }
-	ai_chance = { factor = 0 }
+    any_pop = { militancy = 2 consciousness = 2 }
+    ai_chance = { factor = 0 }
   }
 }

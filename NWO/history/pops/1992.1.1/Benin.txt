@@ -1,207 +1,207 @@
 #Cotonou - Mono, Atlantique, Olateau, Oueme, Littoral (2069000/517250 POPS)
 1919 = {
-	officers = {
-		culture = french_african
-		religion =  catholic 
-		size = 247
-	 } 
-	officers = {
-		culture = french_african
-		religion = secularism
-		size = 15
-	 } 
-	soldiers = {
-		culture = french_african
-		religion =  catholic 
-		size = 4702
-	 } 
-	soldiers = {
-		culture = french_african
-		religion = secularism
-		size = 300
-	 } 
-	aristocrats = {
-		culture = french_african
-		religion =  catholic 
-		size = 4774
-	 } 
-	aristocrats = {
-		culture = french_african
-		religion = secularism
-		size = 304
-	 } 
-	aristocrats = {
-		culture = yoruba
-		religion =  protestant 
-		size = 14674
-	 } 
-	aristocrats = {
-		culture = yoruba
-		religion = secularism
-		size = 936
-	 } 
-	bureaucrats = {
-		culture = yoruba
-		religion =  protestant 
-		size = 485
-	 } 
-	bureaucrats = {
-		culture = yoruba
-		religion = secularism
-		size = 31
-	 } 
-	capitalists = {
-		culture = yoruba
-		religion =  protestant 
-		size = 2430
-	 } 
-	capitalists = {
-		culture = yoruba
-		religion = secularism
-		size = 155
-	 } 
-	clergymen = {
-		culture = yoruba
-		religion =  protestant 
-		size = 9724
-	 } 
-	clergymen = {
-		culture = yoruba
-		religion = secularism
-		size = 620
-	 } 
-	clerks = {
-		culture = yoruba
-		religion =  protestant 
-		size = 8072
-	 } 
-	clerks = {
-		culture = yoruba
-		religion = secularism
-		size = 515
-	 } 
-	artisans = {
-		culture = yoruba
-		religion =  protestant 
-		size = 7668
-	 } 
-	artisans = {
-		culture = yoruba
-		religion = secularism
-		size = 489
-	 } 
-	craftsmen = {
-		culture = yoruba
-		religion =  protestant 
-		size = 20150
-	 } 
-	craftsmen = {
-		culture = yoruba
-		religion = secularism
-		size = 1286
-	 } 
-	craftsmen = {
-		culture = fon
-		religion = animist 
-		size = 4068
-	 } 
-	craftsmen = {
-		culture = fon
-		religion = secularism
-		size = 259
-	 } 
-	farmers = {
-		culture = fon
-		religion =  animist 
-		size = 239039
-	 } 
-	farmers = {
-		culture = fon
-		religion = secularism
-		size = 15257
-	 } 
-	farmers = {
-		culture = ewe
-		religion =  catholic 
-		size = 170174
-	 } 
-	farmers = {
-		culture = ewe
-		religion = secularism
-		size = 10862
-	 } 
+  officers = {
+    culture = french_african
+    religion =  catholic
+    size = 247
+  }
+  officers = {
+    culture = french_african
+    religion = secularism
+    size = 15
+  }
+  soldiers = {
+    culture = french_african
+    religion =  catholic
+    size = 4702
+  }
+  soldiers = {
+    culture = french_african
+    religion = secularism
+    size = 300
+  }
+  aristocrats = {
+    culture = french_african
+    religion =  catholic
+    size = 4774
+  }
+  aristocrats = {
+    culture = french_african
+    religion = secularism
+    size = 304
+  }
+  aristocrats = {
+    culture = yoruba
+    religion =  protestant
+    size = 14674
+  }
+  aristocrats = {
+    culture = yoruba
+    religion = secularism
+    size = 936
+  }
+  bureaucrats = {
+    culture = yoruba
+    religion =  protestant
+    size = 485
+  }
+  bureaucrats = {
+    culture = yoruba
+    religion = secularism
+    size = 31
+  }
+  capitalists = {
+    culture = yoruba
+    religion =  protestant
+    size = 2430
+  }
+  capitalists = {
+    culture = yoruba
+    religion = secularism
+    size = 155
+  }
+  clergymen = {
+    culture = yoruba
+    religion =  protestant
+    size = 9724
+  }
+  clergymen = {
+    culture = yoruba
+    religion = secularism
+    size = 620
+  }
+  clerks = {
+    culture = yoruba
+    religion =  protestant
+    size = 8072
+  }
+  clerks = {
+    culture = yoruba
+    religion = secularism
+    size = 515
+  }
+  artisans = {
+    culture = yoruba
+    religion =  protestant
+    size = 7668
+  }
+  artisans = {
+    culture = yoruba
+    religion = secularism
+    size = 489
+  }
+  craftsmen = {
+    culture = yoruba
+    religion =  protestant
+    size = 20150
+  }
+  craftsmen = {
+    culture = yoruba
+    religion = secularism
+    size = 1286
+  }
+  craftsmen = {
+    culture = fon
+    religion = animist
+    size = 4068
+  }
+  craftsmen = {
+    culture = fon
+    religion = secularism
+    size = 259
+  }
+  farmers = {
+    culture = fon
+    religion =  animist
+    size = 239039
+  }
+  farmers = {
+    culture = fon
+    religion = secularism
+    size = 15257
+  }
+  farmers = {
+    culture = ewe
+    religion =  catholic
+    size = 170174
+  }
+  farmers = {
+    culture = ewe
+    religion = secularism
+    size = 10862
+  }
 }
 #Abomey - Collines, Zou, Kuoffo (1093000/273250 POPS)
 1920 = {
-	clergymen = {
-		culture = fon
-		religion =  animist 
-		size = 5137
-	 } 
-	clergymen = {
-		culture = fon
-		religion = secularism
-		size = 327
-	 } 
-	farmers = {
-		culture = fon
-		religion =  animist 
-		size = 184935
-	 } 
-	farmers = {
-		culture = fon
-		religion = secularism
-		size = 11804
-	 } 
-	farmers = {
-		culture = yoruba
-		religion =  protestant 
-		size = 66782
-	 } 
-	farmers = {
-		culture = yoruba
-		religion = secularism
-		size = 4262
-	 } 
+  clergymen = {
+    culture = fon
+    religion =  animist
+    size = 5137
+  }
+  clergymen = {
+    culture = fon
+    religion = secularism
+    size = 327
+  }
+  farmers = {
+    culture = fon
+    religion =  animist
+    size = 184935
+  }
+  farmers = {
+    culture = fon
+    religion = secularism
+    size = 11804
+  }
+  farmers = {
+    culture = yoruba
+    religion =  protestant
+    size = 66782
+  }
+  farmers = {
+    culture = yoruba
+    religion = secularism
+    size = 4262
+  }
 }
 #Nikki - Alibori,Borgou (944000/236000 POPS)
 1921 = {
-	clergymen = {
-		culture = black_muslim
-		religion =  sunni 
-		size = 4720
-	 } 
-	farmers = {
-		culture = black_muslim
-		religion =  sunni 
-		size = 54280
-	 } 
-	farmers = {
-		culture = african_minor
-		religion =  catholic 
-		size = 88736
-	 } 
-	farmers = {
-		culture = african_minor
-		religion = secularism
-		size = 5664
-	 } 
-	farmers = {
-		culture = fula
-		religion =  sunni 
-		size = 82600
-	 } 
+  clergymen = {
+    culture = black_muslim
+    religion =  sunni
+    size = 4720
+  }
+  farmers = {
+    culture = black_muslim
+    religion =  sunni
+    size = 54280
+  }
+  farmers = {
+    culture = african_minor
+    religion =  catholic
+    size = 88736
+  }
+  farmers = {
+    culture = african_minor
+    religion = secularism
+    size = 5664
+  }
+  farmers = {
+    culture = fula
+    religion =  sunni
+    size = 82600
+  }
 }
 #Jugu - Atakira, Donga (597000/149250 POPS)
 1922 = {
-	clergymen = {
-		culture = black_muslim
-		religion =  sunni 
-		size = 2985
-	 } 
-	farmers = {
-		culture = black_muslim
-		religion =  sunni 
-		size = 146265
-	 } 
+  clergymen = {
+    culture = black_muslim
+    religion =  sunni
+    size = 2985
+  }
+  farmers = {
+    culture = black_muslim
+    religion =  sunni
+    size = 146265
+  }
 }

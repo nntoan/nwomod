@@ -1,489 +1,489 @@
 #Dar Es Salaam - Dar Es Salaam (3089000/772250 POPS)
 2036 = {
-	officers = {
-		culture = swahili
-		religion =  sunni 
-		size = 2427
-	 } 
-	soldiers = {
-		culture = swahili
-		religion =  sunni 
-		size = 46128
-	 } 
-	aristocrats = {
-		culture = swahili
-		religion =  sunni 
-		size = 30890
-	 } 
-	capitalists = {
-		culture = swahili
-		religion =  sunni 
-		size = 3861
-	 } 
-	clergymen = {
-		culture = swahili
-		religion =  sunni 
-		size = 15445
-	 } 
-	clerks = {
-		culture = swahili
-		religion =  sunni 
-		size = 7219
-	 } 
-	artisans = {
-		culture = swahili
-		religion =  sunni 
-		size = 6858
-	 } 
-	craftsmen = {
-		culture = swahili
-		religion =  sunni 
-		size = 21657
-	 } 
-	farmers = {
-		culture = swahili
-		religion =  sunni 
-		size = 328093
-	 } 
-	farmers = {
-		culture = indian
-		religion =  hindu 
-		size = 29345
-	 } 
-	farmers = {
-		culture = indian
-		religion = secularism
-		size = 1544
-	 } 
-	farmers = {
-		culture = ibad_arab
-		religion =  ibad 
-		size = 29345
-	 } 
-	farmers = {
-		culture = ibad_arab
-		religion = secularism
-		size = 1544
-	 } 
-	farmers = {
-		culture = black_muslim
-		religion =  sunni 
-		size = 247120
-	 } 
+  officers = {
+    culture = swahili
+    religion =  sunni
+    size = 2427
+  }
+  soldiers = {
+    culture = swahili
+    religion =  sunni
+    size = 46128
+  }
+  aristocrats = {
+    culture = swahili
+    religion =  sunni
+    size = 30890
+  }
+  capitalists = {
+    culture = swahili
+    religion =  sunni
+    size = 3861
+  }
+  clergymen = {
+    culture = swahili
+    religion =  sunni
+    size = 15445
+  }
+  clerks = {
+    culture = swahili
+    religion =  sunni
+    size = 7219
+  }
+  artisans = {
+    culture = swahili
+    religion =  sunni
+    size = 6858
+  }
+  craftsmen = {
+    culture = swahili
+    religion =  sunni
+    size = 21657
+  }
+  farmers = {
+    culture = swahili
+    religion =  sunni
+    size = 328093
+  }
+  farmers = {
+    culture = indian
+    religion =  hindu
+    size = 29345
+  }
+  farmers = {
+    culture = indian
+    religion = secularism
+    size = 1544
+  }
+  farmers = {
+    culture = ibad_arab
+    religion =  ibad
+    size = 29345
+  }
+  farmers = {
+    culture = ibad_arab
+    religion = secularism
+    size = 1544
+  }
+  farmers = {
+    culture = black_muslim
+    religion =  sunni
+    size = 247120
+  }
 }
 #Tanga - Tanga (2084000/521000 POPS)
 2037 = {
-	clergymen = {
-		culture = swahili
-		religion =  sunni 
-		size = 10420
-	 } 
-	farmers = {
-		culture = swahili
-		religion =  sunni 
-		size = 302180
-	 } 
-	farmers = {
-		culture = black_muslim
-		religion =  sunni 
-		size = 208400
-	 } 
+  clergymen = {
+    culture = swahili
+    religion =  sunni
+    size = 10420
+  }
+  farmers = {
+    culture = swahili
+    religion =  sunni
+    size = 302180
+  }
+  farmers = {
+    culture = black_muslim
+    religion =  sunni
+    size = 208400
+  }
 }
 #Kilwa - Kilwa (718000/179500 POPS)
 2038 = {
-	clergymen = {
-		culture = swahili
-		religion =  sunni 
-		size = 3590
-	 } 
-	farmers = {
-		culture = swahili
-		religion =  sunni 
-		size = 175910
-	 } 
+  clergymen = {
+    culture = swahili
+    religion =  sunni
+    size = 3590
+  }
+  farmers = {
+    culture = swahili
+    religion =  sunni
+    size = 175910
+  }
 }
 #Lindi - Lindi (488000/122000 POPS)
 2039 = {
-	clergymen = {
-		culture = makonde
-		religion =  sunni 
-		size = 2430
-	 } 
-	farmers = {
-		culture = makonde
-		religion =  sunni 
-		size = 119560
-	 } 
+  clergymen = {
+    culture = makonde
+    religion =  sunni
+    size = 2430
+  }
+  farmers = {
+    culture = makonde
+    religion =  sunni
+    size = 119560
+  }
 }
 #Songea - Songea (397000/99250 POPS)
 2040 = {
-	clergymen = {
-		culture = yao
-		religion =  catholic 
-		size = 1984
-	 } 
-	clergymen = {
-		culture = yao
-		religion = secularism
-		size = 99
-	 } 
-	farmers = {
-		culture = yao
-		religion =  catholic 
-		size = 55578
-	 } 
-	farmers = {
-		culture = african_minor
-		religion =  catholic 
-		size = 39600
-	 } 
-	farmers = {
-		culture = african_minor
-		religion = secularism
-		size = 2084
-	 } 
+  clergymen = {
+    culture = yao
+    religion =  catholic
+    size = 1984
+  }
+  clergymen = {
+    culture = yao
+    religion = secularism
+    size = 99
+  }
+  farmers = {
+    culture = yao
+    religion =  catholic
+    size = 55578
+  }
+  farmers = {
+    culture = african_minor
+    religion =  catholic
+    size = 39600
+  }
+  farmers = {
+    culture = african_minor
+    religion = secularism
+    size = 2084
+  }
 }
 #Masasi - Masasi (778000/194500 POPS)
 2041 = {
-	clergymen = {
-		culture = yao
-		religion =  sunni 
-		size = 3889
-	 } 
-	farmers = {
-		culture = yao
-		religion =  sunni 
-		size = 64184
-	 } 
-	farmers = {
-		culture = makonde
-		religion =  sunni 
-		size = 126424
-	 } 
+  clergymen = {
+    culture = yao
+    religion =  sunni
+    size = 3889
+  }
+  farmers = {
+    culture = yao
+    religion =  sunni
+    size = 64184
+  }
+  farmers = {
+    culture = makonde
+    religion =  sunni
+    size = 126424
+  }
 }
 #Iringa - Iringa (2063000/515750 POPS)
 2042 = {
-	clergymen = {
-		culture = african_minor
-		religion =  catholic 
-		size = 9799
-	 } 
-	clergymen = {
-		culture = african_minor
-		religion = secularism
-		size = 515
-	 } 
-	farmers = {
-		culture = african_minor
-		religion =  catholic 
-		size = 480163
-	 } 
-	farmers = {
-		culture = african_minor
-		religion = secularism
-		size = 25271
-	 } 
+  clergymen = {
+    culture = african_minor
+    religion =  catholic
+    size = 9799
+  }
+  clergymen = {
+    culture = african_minor
+    religion = secularism
+    size = 515
+  }
+  farmers = {
+    culture = african_minor
+    religion =  catholic
+    size = 480163
+  }
+  farmers = {
+    culture = african_minor
+    religion = secularism
+    size = 25271
+  }
 }
 #Tabora - Tabora (2070000/517500 POPS)
 2043 = {
-	clergymen = {
-		culture = nyamwezi
-		religion = animist 
-		size = 9832
-	 } 
-	clergymen = {
-		culture = nyamwezi
-		religion = secularism
-		size = 517
-	 } 
-	farmers = {
-		culture = nyamwezi
-		religion =  animist 
-		size = 368718
-	 } 
-	farmers = {
-		culture = nyamwezi
-		religion = secularism
-		size = 19406
-	 } 
-	farmers = {
-		culture = sukuma
-		religion =  protestant 
-		size = 49162
-	 } 
-	farmers = {
-		culture = sukuma
-		religion = secularism
-		size = 2587
-	 } 
-	farmers = {
-		culture = african_minor
-		religion =  catholic 
-		size = 63911
-	 } 
-	farmers = {
-		culture = african_minor
-		religion = secularism
-		size = 3363
-	 } 
+  clergymen = {
+    culture = nyamwezi
+    religion = animist
+    size = 9832
+  }
+  clergymen = {
+    culture = nyamwezi
+    religion = secularism
+    size = 517
+  }
+  farmers = {
+    culture = nyamwezi
+    religion =  animist
+    size = 368718
+  }
+  farmers = {
+    culture = nyamwezi
+    religion = secularism
+    size = 19406
+  }
+  farmers = {
+    culture = sukuma
+    religion =  protestant
+    size = 49162
+  }
+  farmers = {
+    culture = sukuma
+    religion = secularism
+    size = 2587
+  }
+  farmers = {
+    culture = african_minor
+    religion =  catholic
+    size = 63911
+  }
+  farmers = {
+    culture = african_minor
+    religion = secularism
+    size = 3363
+  }
 }
 #Mwanza - Mwanza (6706000/1676500 POPS)
 2044 = {
-	officers = {
-		culture = nyamwezi
-		religion =  animist 
-		size = 1448
-	 } 
-	officers = {
-		culture = nyamwezi
-		religion = secularism
-		size = 76
-	 } 
-	soldiers = {
-		culture = nyamwezi
-		religion =  animist 
-		size = 27538
-	 } 
-	soldiers = {
-		culture = nyamwezi
-		religion = secularism
-		size = 1449
-	 } 
-	aristocrats = {
-		culture = nyamwezi
-		religion =  animist 
-		size = 2866
-	 } 
-	aristocrats = {
-		culture = nyamwezi
-		religion = secularism
-		size = 150
-	 } 
-	aristocrats = {
-		culture = sukuma
-		religion =  protestant 
-		size = 60840
-	 } 
-	aristocrats = {
-		culture = sukuma
-		religion = secularism
-		size = 3202
-	 } 
-	bureaucrats = {
-		culture = sukuma
-		religion =  protestant 
-		size = 1592
-	 } 
-	bureaucrats = {
-		culture = sukuma
-		religion = secularism
-		size = 83
-	 } 
-	capitalists = {
-		culture = sukuma
-		religion =  protestant 
-		size = 7962
-	 } 
-	capitalists = {
-		culture = sukuma
-		religion = secularism
-		size = 419
-	 } 
-	clergymen = {
-		culture = sukuma
-		religion =  protestant 
-		size = 31853
-	 } 
-	clergymen = {
-		culture = sukuma
-		religion = secularism
-		size = 1676
-	 } 
-	clerks = {
-		culture = sukuma
-		religion =  protestant 
-		size = 15597
-	 } 
-	clerks = {
-		culture = sukuma
-		religion = secularism
-		size = 820
-	 } 
-	artisans = {
-		culture = sukuma
-		religion =  protestant 
-		size = 14817
-	 } 
-	artisans = {
-		culture = sukuma
-		religion = secularism
-		size = 779
-	 } 
-	craftsmen = {
-		culture = sukuma
-		religion =  protestant 
-		size = 46793
-	 } 
-	craftsmen = {
-		culture = sukuma
-		religion = secularism
-		size = 2462
-	 } 
-	farmers = {
-		culture = sukuma
-		religion =  protestant 
-		size = 1094683
-	 } 
-	farmers = {
-		culture = sukuma
-		religion = secularism
-		size = 57614
-	 } 
-	farmers = {
-		culture = african_minor
-		religion =  catholic 
-		size = 95560
-	 } 
-	farmers = {
-		culture = african_minor
-		religion = secularism
-		size = 5029
-	 } 
-	farmers = {
-		culture = luo
-		religion =  protestant 
-		size = 191121
-	 } 
-	farmers = {
-		culture = luo
-		religion = secularism
-		size = 10059
-	 } 
+  officers = {
+    culture = nyamwezi
+    religion =  animist
+    size = 1448
+  }
+  officers = {
+    culture = nyamwezi
+    religion = secularism
+    size = 76
+  }
+  soldiers = {
+    culture = nyamwezi
+    religion =  animist
+    size = 27538
+  }
+  soldiers = {
+    culture = nyamwezi
+    religion = secularism
+    size = 1449
+  }
+  aristocrats = {
+    culture = nyamwezi
+    religion =  animist
+    size = 2866
+  }
+  aristocrats = {
+    culture = nyamwezi
+    religion = secularism
+    size = 150
+  }
+  aristocrats = {
+    culture = sukuma
+    religion =  protestant
+    size = 60840
+  }
+  aristocrats = {
+    culture = sukuma
+    religion = secularism
+    size = 3202
+  }
+  bureaucrats = {
+    culture = sukuma
+    religion =  protestant
+    size = 1592
+  }
+  bureaucrats = {
+    culture = sukuma
+    religion = secularism
+    size = 83
+  }
+  capitalists = {
+    culture = sukuma
+    religion =  protestant
+    size = 7962
+  }
+  capitalists = {
+    culture = sukuma
+    religion = secularism
+    size = 419
+  }
+  clergymen = {
+    culture = sukuma
+    religion =  protestant
+    size = 31853
+  }
+  clergymen = {
+    culture = sukuma
+    religion = secularism
+    size = 1676
+  }
+  clerks = {
+    culture = sukuma
+    religion =  protestant
+    size = 15597
+  }
+  clerks = {
+    culture = sukuma
+    religion = secularism
+    size = 820
+  }
+  artisans = {
+    culture = sukuma
+    religion =  protestant
+    size = 14817
+  }
+  artisans = {
+    culture = sukuma
+    religion = secularism
+    size = 779
+  }
+  craftsmen = {
+    culture = sukuma
+    religion =  protestant
+    size = 46793
+  }
+  craftsmen = {
+    culture = sukuma
+    religion = secularism
+    size = 2462
+  }
+  farmers = {
+    culture = sukuma
+    religion =  protestant
+    size = 1094683
+  }
+  farmers = {
+    culture = sukuma
+    religion = secularism
+    size = 57614
+  }
+  farmers = {
+    culture = african_minor
+    religion =  catholic
+    size = 95560
+  }
+  farmers = {
+    culture = african_minor
+    religion = secularism
+    size = 5029
+  }
+  farmers = {
+    culture = luo
+    religion =  protestant
+    size = 191121
+  }
+  farmers = {
+    culture = luo
+    religion = secularism
+    size = 10059
+  }
 }
 #Morogoro - Morogoro (2964000/741000 POPS)
 2045 = {
-	clergymen = {
-		culture = african_minor
-		religion =  catholic 
-		size = 14079
-	 } 
-	clergymen = {
-		culture = african_minor
-		religion = secularism
-		size = 741
-	 } 
-	farmers = {
-		culture = african_minor
-		religion =  catholic 
-		size = 56316
-	 } 
-	farmers = {
-		culture = african_minor
-		religion = secularism
-		size = 2964
-	 } 
-	farmers = {
-		culture = black_muslim
-		religion =  sunni 
-		size = 666900
-	 } 
+  clergymen = {
+    culture = african_minor
+    religion =  catholic
+    size = 14079
+  }
+  clergymen = {
+    culture = african_minor
+    religion = secularism
+    size = 741
+  }
+  farmers = {
+    culture = african_minor
+    religion =  catholic
+    size = 56316
+  }
+  farmers = {
+    culture = african_minor
+    religion = secularism
+    size = 2964
+  }
+  farmers = {
+    culture = black_muslim
+    religion =  sunni
+    size = 666900
+  }
 }
 #Ujiji - Ujiji (2089000/522250 POPS)
 2046 = {
-	clergymen = {
-		culture = african_minor
-		religion =  catholic 
-		size = 9922
-	 } 
-	clergymen = {
-		culture = african_minor
-		religion = secularism
-		size = 522
-	 } 
-	farmers = {
-		culture = african_minor
-		religion =  catholic 
-		size = 486214
-	 } 
-	farmers = {
-		culture = african_minor
-		religion = secularism
-		size = 25590
-	 } 
+  clergymen = {
+    culture = african_minor
+    religion =  catholic
+    size = 9922
+  }
+  clergymen = {
+    culture = african_minor
+    religion = secularism
+    size = 522
+  }
+  farmers = {
+    culture = african_minor
+    religion =  catholic
+    size = 486214
+  }
+  farmers = {
+    culture = african_minor
+    religion = secularism
+    size = 25590
+  }
 }
 #Arusha - Arusha (1763000/440750 POPS)
 2047 = {
-	clergymen = {
-		culture = maasai
-		religion =  protestant 
-		size = 8374
-	 } 
-	clergymen = {
-		culture = maasai
-		religion = secularism
-		size = 440
-	 } 
-	farmers = {
-		culture = maasai
-		religion =  protestant 
-		size = 113051
-	 } 
-	farmers = {
-		culture = maasai
-		religion = secularism
-		size = 5950
-	 } 
-	farmers = {
-		culture = african_minor
-		religion =  catholic 
-		size = 175859
-	 } 
-	farmers = {
-		culture = african_minor
-		religion = secularism
-		size = 9255
-	 } 
-	farmers = {
-		culture = black_muslim
-		religion =  sunni 
-		size = 127817
-	 } 
+  clergymen = {
+    culture = maasai
+    religion =  protestant
+    size = 8374
+  }
+  clergymen = {
+    culture = maasai
+    religion = secularism
+    size = 440
+  }
+  farmers = {
+    culture = maasai
+    religion =  protestant
+    size = 113051
+  }
+  farmers = {
+    culture = maasai
+    religion = secularism
+    size = 5950
+  }
+  farmers = {
+    culture = african_minor
+    religion =  catholic
+    size = 175859
+  }
+  farmers = {
+    culture = african_minor
+    religion = secularism
+    size = 9255
+  }
+  farmers = {
+    culture = black_muslim
+    religion =  sunni
+    size = 127817
+  }
 }
 #Zanzibar - Zanzibar (1303000/325750 POPS)
 2048 = {
-	soldiers = {
-		culture = swahili
-		religion =  sunni 
-		size = 3909
-	 } 
-	aristocrats = {
-		culture = swahili
-		religion =  sunni 
-		size = 13030
-	 } 
-	clergymen = {
-		culture = swahili
-		religion =  sunni 
-		size = 6515
-	 } 
-	artisans = {
-		culture = swahili
-		religion =  sunni 
-		size = 3040
-	 } 
-	farmers = {
-		culture = swahili
-		religion =  sunni 
-		size = 281666
-	 } 
-	farmers = {
-		culture = ibad_arab
-		religion =  ibad 
-		size = 15472
-	 } 
-	farmers = {
-		culture = ibad_arab
-		religion = secularism
-		size = 814
-	 } 
+  soldiers = {
+    culture = swahili
+    religion =  sunni
+    size = 3909
+  }
+  aristocrats = {
+    culture = swahili
+    religion =  sunni
+    size = 13030
+  }
+  clergymen = {
+    culture = swahili
+    religion =  sunni
+    size = 6515
+  }
+  artisans = {
+    culture = swahili
+    religion =  sunni
+    size = 3040
+  }
+  farmers = {
+    culture = swahili
+    religion =  sunni
+    size = 281666
+  }
+  farmers = {
+    culture = ibad_arab
+    religion =  ibad
+    size = 15472
+  }
+  farmers = {
+    culture = ibad_arab
+    religion = secularism
+    size = 814
+  }
 }

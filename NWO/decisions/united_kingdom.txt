@@ -1,48 +1,48 @@
 political_decisions = {
 
-	expulsion_of_chagos_islanders = {
-		picture = "chagos_islander"
-		potential = {
-			tag = GBR
-			year = 1971 NOT = { year = 1990 }
-            owns = 2128
-			NOT = { has_country_flag = chagos_islander }
-		}
+  expulsion_of_chagos_islanders = {
+    picture = "chagos_islander"
+    potential = {
+      tag = GBR
+      year = 1971 NOT = { year = 1990 }
+      owns = 2128
+      NOT = { has_country_flag = chagos_islander }
+    }
 
-		ai_will_do = { factor = 1 }
+    ai_will_do = { factor = 1 }
 
-		allow = {
-			war = no
-		}
+    allow = {
+      war = no
+    }
 
-		effect = {
-			relation = { who = USA value = 200 } 
-			set_country_flag = chagos_islander
-			any_pop = { limit = { location = { province_id = 2128 } NOT = { is_primary_culture = yes } } move_pop = 2125 } # Diego Garcia -> Mauritius
-			any_pop = { limit = { location = { province_id = 2128 } NOT = { is_primary_culture = yes } } move_pop = 2127 } # Diego Garcia -> Seychelles
-		}
-	}
+    effect = {
+      relation = { who = USA value = 200 }
+      set_country_flag = chagos_islander
+      any_pop = { limit = { location = { province_id = 2128 } NOT = { is_primary_culture = yes } } move_pop = 2125 } # Diego Garcia -> Mauritius
+      any_pop = { limit = { location = { province_id = 2128 } NOT = { is_primary_culture = yes } } move_pop = 2127 } # Diego Garcia -> Seychelles
+    }
+  }
 
-	end_the_uk = {
-		picture = "end_the_uk"
-		potential = {
-			tag = GBR
-			OR = { exists = SCO NOT = { owns = 271 } } # Glasgow
-			OR = { exists = NIR NOT = { owns = 254 } } # Belfast
-		}
+  end_the_uk = {
+    picture = "end_the_uk"
+    potential = {
+      tag = GBR
+      OR = { exists = SCO NOT = { owns = 271 } } # Glasgow
+      OR = { exists = NIR NOT = { owns = 254 } } # Belfast
+    }
 
-		ai_will_do = { factor = 1 }
-		
-		allow = {
-		}
+    ai_will_do = { factor = 1 }
 
-		effect = {
-			prestige = 10
-			all_core = { 
-				remove_core = GBR
-			}
-			change_tag = ENL
-		}
-		
-	}
+    allow = {
+    }
+
+    effect = {
+      prestige = 10
+      all_core = {
+        remove_core = GBR
+      }
+      change_tag = ENL
+    }
+
+  }
 }

@@ -1,288 +1,288 @@
 #Muscat - Muscat (502000/125500 POPS)
 1166 = {
-	officers = {
-		culture = ibad_arab
-		religion =  ibad 
-		size = 3343
-	 } 
-	officers = {
-		culture = ibad_arab
-		religion = secularism
-		size = 68
-	 } 
-	soldiers = {
-		culture = ibad_arab
-		religion =  ibad 
-		size = 31093
-	 } 
-	soldiers = {
-		culture = ibad_arab
-		religion = secularism
-		size = 634
-	 } 
-	soldiers = {
-		culture = indian
-		religion =  hindu 
-		size = 32443
-	 } 
-	soldiers = {
-		culture = indian
-		religion = secularism
-		size = 662
-	 } 
-	aristocrats = {
-		culture = indian
-		religion =  hindu 
-		size = 4919
-	 } 
-	aristocrats = {
-		culture = indian
-		religion = secularism
-		size = 100
-	 } 
-	bureaucrats = {
-		culture = indian
-		religion =  hindu 
-		size = 245
-	 } 
-	bureaucrats = {
-		culture = indian
-		religion = secularism
-		size = 5
-	 } 
-	capitalists = {
-		culture = indian
-		religion =  hindu 
-		size = 614
-	 } 
-	capitalists = {
-		culture = indian
-		religion = secularism
-		size = 12
-	 } 
-	clergymen = {
-		culture = indian
-		religion =  hindu 
-		size = 2459
-	 } 
-	clergymen = {
-		culture = indian
-		religion = secularism
-		size = 50
-	 } 
-	clerks = {
-		culture = indian
-		religion =  hindu 
-		size = 1536
-	 } 
-	clerks = {
-		culture = indian
-		religion = secularism
-		size = 31
-	 } 
-	artisans = {
-		culture = indian
-		religion =  hindu 
-		size = 826
-	 } 
-	artisans = {
-		culture = indian
-		religion = secularism
-		size = 16
-	 } 
-	artisans = {
-		culture = filipino
-		religion =  catholic 
-		size = 633
-	 } 
-	artisans = {
-		culture = filipino
-		religion = secularism
-		size = 12
-	 } 
-	craftsmen = {
-		culture = filipino
-		religion =  catholic 
-		size = 4609
-	 } 
-	craftsmen = {
-		culture = filipino
-		religion = secularism
-		size = 94
-	 } 
-	farmers = {
-		culture = filipino
-		religion =  catholic 
-		size = 2136
-	 } 
-	farmers = {
-		culture = filipino
-		religion = secularism
-		size = 43
-	 } 
-	farmers = {
-		culture = sunni_arab
-		religion =  sunni 
-		size = 20080
-	 } 
-	farmers = {
-		culture = baluchi
-		religion =  sunni 
-		size = 6275
-	 } 
-	farmers = {
-		culture = bengali
-		religion =  sunni 
-		size = 12550
-	 } 
+  officers = {
+    culture = ibad_arab
+    religion =  ibad
+    size = 3343
+  }
+  officers = {
+    culture = ibad_arab
+    religion = secularism
+    size = 68
+  }
+  soldiers = {
+    culture = ibad_arab
+    religion =  ibad
+    size = 31093
+  }
+  soldiers = {
+    culture = ibad_arab
+    religion = secularism
+    size = 634
+  }
+  soldiers = {
+    culture = indian
+    religion =  hindu
+    size = 32443
+  }
+  soldiers = {
+    culture = indian
+    religion = secularism
+    size = 662
+  }
+  aristocrats = {
+    culture = indian
+    religion =  hindu
+    size = 4919
+  }
+  aristocrats = {
+    culture = indian
+    religion = secularism
+    size = 100
+  }
+  bureaucrats = {
+    culture = indian
+    religion =  hindu
+    size = 245
+  }
+  bureaucrats = {
+    culture = indian
+    religion = secularism
+    size = 5
+  }
+  capitalists = {
+    culture = indian
+    religion =  hindu
+    size = 614
+  }
+  capitalists = {
+    culture = indian
+    religion = secularism
+    size = 12
+  }
+  clergymen = {
+    culture = indian
+    religion =  hindu
+    size = 2459
+  }
+  clergymen = {
+    culture = indian
+    religion = secularism
+    size = 50
+  }
+  clerks = {
+    culture = indian
+    religion =  hindu
+    size = 1536
+  }
+  clerks = {
+    culture = indian
+    religion = secularism
+    size = 31
+  }
+  artisans = {
+    culture = indian
+    religion =  hindu
+    size = 826
+  }
+  artisans = {
+    culture = indian
+    religion = secularism
+    size = 16
+  }
+  artisans = {
+    culture = filipino
+    religion =  catholic
+    size = 633
+  }
+  artisans = {
+    culture = filipino
+    religion = secularism
+    size = 12
+  }
+  craftsmen = {
+    culture = filipino
+    religion =  catholic
+    size = 4609
+  }
+  craftsmen = {
+    culture = filipino
+    religion = secularism
+    size = 94
+  }
+  farmers = {
+    culture = filipino
+    religion =  catholic
+    size = 2136
+  }
+  farmers = {
+    culture = filipino
+    religion = secularism
+    size = 43
+  }
+  farmers = {
+    culture = sunni_arab
+    religion =  sunni
+    size = 20080
+  }
+  farmers = {
+    culture = baluchi
+    religion =  sunni
+    size = 6275
+  }
+  farmers = {
+    culture = bengali
+    religion =  sunni
+    size = 12550
+  }
 }
 #Suhar - Suhar (567000/141750 POPS)
 1169 = {
-	clergymen = {
-		culture = ibad_arab
-		religion =  ibad 
-		size = 2778
-	 } 
-	clergymen = {
-		culture = ibad_arab
-		religion = secularism
-		size = 56
-	 } 
-	farmers = {
-		culture = ibad_arab
-		religion =  ibad 
-		size = 36117
-	 } 
-	farmers = {
-		culture = ibad_arab
-		religion = secularism
-		size = 737
-	 } 
-	farmers = {
-		culture = indian
-		religion =  hindu 
-		size = 48619
-	 } 
-	farmers = {
-		culture = indian
-		religion = secularism
-		size = 992
-	 } 
-	farmers = {
-		culture = filipino
-		religion =  catholic 
-		size = 8334
-	 } 
-	farmers = {
-		culture = filipino
-		religion = secularism
-		size = 170
-	 } 
-	farmers = {
-		culture = sunni_arab
-		religion =  sunni 
-		size = 22680
-	 } 
-	farmers = {
-		culture = baluchi
-		religion =  sunni 
-		size = 7087
-	 } 
-	farmers = {
-		culture = bengali
-		religion =  sunni 
-		size = 14175
-	 } 
+  clergymen = {
+    culture = ibad_arab
+    religion =  ibad
+    size = 2778
+  }
+  clergymen = {
+    culture = ibad_arab
+    religion = secularism
+    size = 56
+  }
+  farmers = {
+    culture = ibad_arab
+    religion =  ibad
+    size = 36117
+  }
+  farmers = {
+    culture = ibad_arab
+    religion = secularism
+    size = 737
+  }
+  farmers = {
+    culture = indian
+    religion =  hindu
+    size = 48619
+  }
+  farmers = {
+    culture = indian
+    religion = secularism
+    size = 992
+  }
+  farmers = {
+    culture = filipino
+    religion =  catholic
+    size = 8334
+  }
+  farmers = {
+    culture = filipino
+    religion = secularism
+    size = 170
+  }
+  farmers = {
+    culture = sunni_arab
+    religion =  sunni
+    size = 22680
+  }
+  farmers = {
+    culture = baluchi
+    religion =  sunni
+    size = 7087
+  }
+  farmers = {
+    culture = bengali
+    religion =  sunni
+    size = 14175
+  }
 }
 #Nizwa - Nizwa (309000/77250 POPS)
 1170 = {
-	clergymen = {
-		culture = ibad_arab
-		religion =  ibad 
-		size = 1514
-	 } 
-	clergymen = {
-		culture = ibad_arab
-		religion = secularism
-		size = 30
-	 } 
-	farmers = {
-		culture = ibad_arab
-		religion =  ibad 
-		size = 74190
-	 } 
-	farmers = {
-		culture = ibad_arab
-		religion = secularism
-		size = 1514
-	 } 
+  clergymen = {
+    culture = ibad_arab
+    religion =  ibad
+    size = 1514
+  }
+  clergymen = {
+    culture = ibad_arab
+    religion = secularism
+    size = 30
+  }
+  farmers = {
+    culture = ibad_arab
+    religion =  ibad
+    size = 74190
+  }
+  farmers = {
+    culture = ibad_arab
+    religion = secularism
+    size = 1514
+  }
 }
 #Sur - Sur (226000/56500 POPS)
 1171 = {
-	clergymen = {
-		culture = ibad_arab
-		religion =  ibad 
-		size = 1107
-	 } 
-	clergymen = {
-		culture = ibad_arab
-		religion = secularism
-		size = 22
-	 } 
-	farmers = {
-		culture = ibad_arab
-		religion =  ibad 
-		size = 54262
-	 } 
-	farmers = {
-		culture = ibad_arab
-		religion = secularism
-		size = 1107
-	 } 
+  clergymen = {
+    culture = ibad_arab
+    religion =  ibad
+    size = 1107
+  }
+  clergymen = {
+    culture = ibad_arab
+    religion = secularism
+    size = 22
+  }
+  farmers = {
+    culture = ibad_arab
+    religion =  ibad
+    size = 54262
+  }
+  farmers = {
+    culture = ibad_arab
+    religion = secularism
+    size = 1107
+  }
 }
 #Duqm - Duqm (27000/6750 POPS)
 1172 = {
-	clergymen = {
-		culture = ibad_arab
-		religion =  ibad 
-		size = 132
-	 } 
-	clergymen = {
-		culture = ibad_arab
-		religion = secularism
-		size = 2
-	 } 
-	farmers = {
-		culture = ibad_arab
-		religion =  ibad 
-		size = 6482
-	 } 
-	farmers = {
-		culture = ibad_arab
-		religion = secularism
-		size = 132
-	 } 
+  clergymen = {
+    culture = ibad_arab
+    religion =  ibad
+    size = 132
+  }
+  clergymen = {
+    culture = ibad_arab
+    religion = secularism
+    size = 2
+  }
+  farmers = {
+    culture = ibad_arab
+    religion =  ibad
+    size = 6482
+  }
+  farmers = {
+    culture = ibad_arab
+    religion = secularism
+    size = 132
+  }
 }
 #Salalah - Salalah (161000/40250 POPS)
 1174 = {
-	clergymen = {
-		culture = ibad_arab
-		religion =  ibad 
-		size = 788
-	 } 
-	clergymen = {
-		culture = ibad_arab
-		religion = secularism
-		size = 16
-	 } 
-	farmers = {
-		culture = ibad_arab
-		religion =  ibad 
-		size = 38656
-	 } 
-	farmers = {
-		culture = ibad_arab
-		religion = secularism
-		size = 788
-	 } 
+  clergymen = {
+    culture = ibad_arab
+    religion =  ibad
+    size = 788
+  }
+  clergymen = {
+    culture = ibad_arab
+    religion = secularism
+    size = 16
+  }
+  farmers = {
+    culture = ibad_arab
+    religion =  ibad
+    size = 38656
+  }
+  farmers = {
+    culture = ibad_arab
+    religion = secularism
+    size = 788
+  }
 }

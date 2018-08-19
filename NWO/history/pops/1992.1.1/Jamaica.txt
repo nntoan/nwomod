@@ -1,133 +1,133 @@
 #Jamaica - Jamaica (2347000/586750 POPS)
 2217 = {
-	capitalists = {
-		culture = british
-		religion =  protestant 
-		size = 2082
-	 } 
-	capitalists = {
-		culture = british
-		religion = secularism
-		size = 850
-	 } 
-	officers = {
-		culture = anglo_african
-		religion =  protestant 
-		size = 41
-	 } 
-	officers = {
-		culture = anglo_african
-		religion = secularism
-		size = 17
-	 } 
-	soldiers = {
-		culture = anglo_african
-		religion =  protestant 
-		size = 797
-	 } 
-	soldiers = {
-		culture = anglo_african
-		religion = secularism
-		size = 325
-	 } 
-	aristocrats = {
-		culture = anglo_african
-		religion =  protestant 
-		size = 16663
-	 } 
-	aristocrats = {
-		culture = anglo_african
-		religion = secularism
-		size = 6806
-	 } 
-	bureaucrats = {
-		culture = anglo_african
-		religion =  protestant 
-		size = 832
-	 } 
-	bureaucrats = {
-		culture = anglo_african
-		religion = secularism
-		size = 340
-	 } 
-	clergymen = {
-		culture = anglo_african
-		religion =  protestant 
-		size = 8331
-	 } 
-	clergymen = {
-		culture = anglo_african
-		religion = secularism
-		size = 3403
-	 } 
-	clerks = {
-		culture = anglo_african
-		religion =  protestant 
-		size = 8067
-	 } 
-	clerks = {
-		culture = anglo_african
-		religion = secularism
-		size = 3295
-	 } 
-	artisans = {
-		culture = anglo_african
-		religion =  protestant 
-		size = 7664
-	 } 
-	artisans = {
-		culture = anglo_african
-		religion = secularism
-		size = 3130
-	 } 
-	craftsmen = {
-		culture = anglo_african
-		religion =  protestant 
-		size = 24204
-	 } 
-	craftsmen = {
-		culture = anglo_african
-		religion = secularism
-		size = 9886
-	 } 
-	farmers = {
-		culture = anglo_african
-		religion =  protestant 
-		size = 317076
-	 } 
-	farmers = {
-		culture = anglo_african
-		religion = secularism
-		size = 129510
-	 } 
-	farmers = {
-		culture = british
-		religion =  protestant 
-		size = 2083
-	 } 
-	farmers = {
-		culture = british
-		religion = secularism
-		size = 850
-	 } 
-	farmers = {
-		culture = indian
-		religion =  hindu 
-		size = 3332
-	 } 
-	farmers = {
-		culture = indian
-		religion = secularism
-		size = 1361
-	 } 
-	farmers = {
-		culture = caribbean_spanish
-		religion =  catholic 
-		size = 25411
-	 } 
-	farmers = {
-		culture = caribbean_spanish
-		religion = secularism
-		size = 10379
-	 } 
+  capitalists = {
+    culture = british
+    religion =  protestant
+    size = 2082
+  }
+  capitalists = {
+    culture = british
+    religion = secularism
+    size = 850
+  }
+  officers = {
+    culture = anglo_african
+    religion =  protestant
+    size = 41
+  }
+  officers = {
+    culture = anglo_african
+    religion = secularism
+    size = 17
+  }
+  soldiers = {
+    culture = anglo_african
+    religion =  protestant
+    size = 797
+  }
+  soldiers = {
+    culture = anglo_african
+    religion = secularism
+    size = 325
+  }
+  aristocrats = {
+    culture = anglo_african
+    religion =  protestant
+    size = 16663
+  }
+  aristocrats = {
+    culture = anglo_african
+    religion = secularism
+    size = 6806
+  }
+  bureaucrats = {
+    culture = anglo_african
+    religion =  protestant
+    size = 832
+  }
+  bureaucrats = {
+    culture = anglo_african
+    religion = secularism
+    size = 340
+  }
+  clergymen = {
+    culture = anglo_african
+    religion =  protestant
+    size = 8331
+  }
+  clergymen = {
+    culture = anglo_african
+    religion = secularism
+    size = 3403
+  }
+  clerks = {
+    culture = anglo_african
+    religion =  protestant
+    size = 8067
+  }
+  clerks = {
+    culture = anglo_african
+    religion = secularism
+    size = 3295
+  }
+  artisans = {
+    culture = anglo_african
+    religion =  protestant
+    size = 7664
+  }
+  artisans = {
+    culture = anglo_african
+    religion = secularism
+    size = 3130
+  }
+  craftsmen = {
+    culture = anglo_african
+    religion =  protestant
+    size = 24204
+  }
+  craftsmen = {
+    culture = anglo_african
+    religion = secularism
+    size = 9886
+  }
+  farmers = {
+    culture = anglo_african
+    religion =  protestant
+    size = 317076
+  }
+  farmers = {
+    culture = anglo_african
+    religion = secularism
+    size = 129510
+  }
+  farmers = {
+    culture = british
+    religion =  protestant
+    size = 2083
+  }
+  farmers = {
+    culture = british
+    religion = secularism
+    size = 850
+  }
+  farmers = {
+    culture = indian
+    religion =  hindu
+    size = 3332
+  }
+  farmers = {
+    culture = indian
+    religion = secularism
+    size = 1361
+  }
+  farmers = {
+    culture = caribbean_spanish
+    religion =  catholic
+    size = 25411
+  }
+  farmers = {
+    culture = caribbean_spanish
+    religion = secularism
+    size = 10379
+  }
 }

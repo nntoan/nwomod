@@ -1,174 +1,174 @@
 #Maribor - Maribor (1070000/267500 POPS)
 767 = {
-	clergymen = {
-		culture = slovene
-		religion =  catholic 
-		size = 2621
-	 } 
-	clergymen = {
-		culture = slovene
-		religion = secularism
-		size = 2728
-	 } 
-	farmers = {
-		culture = slovene
-		religion =  catholic 
-		size = 128453
-	 } 
-	farmers = {
-		culture = slovene
-		religion = secularism
-		size = 133696
-	 } 
+  clergymen = {
+    culture = slovene
+    religion =  catholic
+    size = 2621
+  }
+  clergymen = {
+    culture = slovene
+    religion = secularism
+    size = 2728
+  }
+  farmers = {
+    culture = slovene
+    religion =  catholic
+    size = 128453
+  }
+  farmers = {
+    culture = slovene
+    religion = secularism
+    size = 133696
+  }
 }
 #Ljubljana - Ljubljana (816000/204000 POPS)
 768 = {
-	officers = {
-		culture = slovene
-		religion =  catholic 
-		size = 245
-	 } 
-	officers = {
-		culture = slovene
-		religion = secularism
-		size = 255
-	 } 
-	soldiers = {
-		culture = slovene
-		religion =  catholic 
-		size = 4666
-	 } 
-	soldiers = {
-		culture = slovene
-		religion = secularism
-		size = 4856
-	 } 
-	aristocrats = {
-		culture = slovene
-		religion =  catholic 
-		size = 2499
-	 } 
-	aristocrats = {
-		culture = slovene
-		religion = secularism
-		size = 2601
-	 } 
-	bureaucrats = {
-		culture = slovene
-		religion =  catholic 
-		size = 599
-	 } 
-	bureaucrats = {
-		culture = slovene
-		religion = secularism
-		size = 624
-	 } 
-	capitalists = {
-		culture = slovene
-		religion =  catholic 
-		size = 599
-	 } 
-	capitalists = {
-		culture = slovene
-		religion = secularism
-		size = 624
-	 } 
-	clergymen = {
-		culture = slovene
-		religion =  catholic 
-		size = 1999
-	 } 
-	clergymen = {
-		culture = slovene
-		religion = secularism
-		size = 2080
-	 } 
-	clerks = {
-		culture = slovene
-		religion =  catholic 
-		size = 1788
-	 } 
-	clerks = {
-		culture = slovene
-		religion = secularism
-		size = 1862
-	 } 
-	artisans = {
-		culture = slovene
-		religion =  catholic 
-		size = 1699
-	 } 
-	artisans = {
-		culture = slovene
-		religion = secularism
-		size = 1768
-	 } 
-	craftsmen = {
-		culture = slovene
-		religion =  catholic 
-		size = 5366
-	 } 
-	craftsmen = {
-		culture = slovene
-		religion = secularism
-		size = 5586
-	 } 
-	farmers = {
-		culture = slovene
-		religion =  catholic 
-		size = 67500
-	 } 
-	farmers = {
-		culture = slovene
-		religion = secularism
-		size = 70255
-	 } 
-	farmers = {
-		culture = serb
-		religion =  orthodox 
-		size = 4998
-	 } 
-	farmers = {
-		culture = serb
-		religion = secularism
-		size = 5202
-	 } 
-	farmers = {
-		culture = croat
-		religion =  catholic 
-		size = 4998
-	 } 
-	farmers = {
-		culture = croat
-		religion = secularism
-		size = 5202
-	 } 
-	farmers = {
-		culture = bosniak
-		religion =  sunni 
-		size = 6120
-	 } 
+  officers = {
+    culture = slovene
+    religion =  catholic
+    size = 245
+  }
+  officers = {
+    culture = slovene
+    religion = secularism
+    size = 255
+  }
+  soldiers = {
+    culture = slovene
+    religion =  catholic
+    size = 4666
+  }
+  soldiers = {
+    culture = slovene
+    religion = secularism
+    size = 4856
+  }
+  aristocrats = {
+    culture = slovene
+    religion =  catholic
+    size = 2499
+  }
+  aristocrats = {
+    culture = slovene
+    religion = secularism
+    size = 2601
+  }
+  bureaucrats = {
+    culture = slovene
+    religion =  catholic
+    size = 599
+  }
+  bureaucrats = {
+    culture = slovene
+    religion = secularism
+    size = 624
+  }
+  capitalists = {
+    culture = slovene
+    religion =  catholic
+    size = 599
+  }
+  capitalists = {
+    culture = slovene
+    religion = secularism
+    size = 624
+  }
+  clergymen = {
+    culture = slovene
+    religion =  catholic
+    size = 1999
+  }
+  clergymen = {
+    culture = slovene
+    religion = secularism
+    size = 2080
+  }
+  clerks = {
+    culture = slovene
+    religion =  catholic
+    size = 1788
+  }
+  clerks = {
+    culture = slovene
+    religion = secularism
+    size = 1862
+  }
+  artisans = {
+    culture = slovene
+    religion =  catholic
+    size = 1699
+  }
+  artisans = {
+    culture = slovene
+    religion = secularism
+    size = 1768
+  }
+  craftsmen = {
+    culture = slovene
+    religion =  catholic
+    size = 5366
+  }
+  craftsmen = {
+    culture = slovene
+    religion = secularism
+    size = 5586
+  }
+  farmers = {
+    culture = slovene
+    religion =  catholic
+    size = 67500
+  }
+  farmers = {
+    culture = slovene
+    religion = secularism
+    size = 70255
+  }
+  farmers = {
+    culture = serb
+    religion =  orthodox
+    size = 4998
+  }
+  farmers = {
+    culture = serb
+    religion = secularism
+    size = 5202
+  }
+  farmers = {
+    culture = croat
+    religion =  catholic
+    size = 4998
+  }
+  farmers = {
+    culture = croat
+    religion = secularism
+    size = 5202
+  }
+  farmers = {
+    culture = bosniak
+    religion =  sunni
+    size = 6120
+  }
 }
 #Postojna - Postojna (104000/26000 POPS)
 769 = {
-	clergymen = {
-		culture = slovene
-		religion =  catholic 
-		size = 254
-	 } 
-	clergymen = {
-		culture = slovene
-		religion = secularism
-		size = 265
-	 } 
-	farmers = {
-		culture = slovene
-		religion =  catholic 
-		size = 12485
-	 } 
-	farmers = {
-		culture = slovene
-		religion = secularism
-		size = 12994
-	 } 
+  clergymen = {
+    culture = slovene
+    religion =  catholic
+    size = 254
+  }
+  clergymen = {
+    culture = slovene
+    religion = secularism
+    size = 265
+  }
+  farmers = {
+    culture = slovene
+    religion =  catholic
+    size = 12485
+  }
+  farmers = {
+    culture = slovene
+    religion = secularism
+    size = 12994
+  }
 }

@@ -7,17 +7,17 @@ country_event = { # United Nations Security Council Resolution 7
 
   trigger = {
     tag = SPA
-	year = 1946 NOT = { year = 1990 }
-	government = provisional_government
+    year = 1946 NOT = { year = 1990 }
+    government = provisional_government
   }
 
   mean_time_to_happen = { months = 4 }
 
   option = {
     name = EVT_8014302_A # We are all alone
-	add_country_modifier = { name = boycott_fascism duration = -1 }
+    add_country_modifier = { name = boycott_fascism duration = -1 }
   }
-  
+
 }
 
 country_event = {
@@ -29,28 +29,28 @@ country_event = {
 
   trigger = {
     tag = SPA
-	owns = 1955 NOT = { year = 1990 }
-	NOT = { exists = EQG }
-	OR = { exists = CMR exists = GAB }
+    owns = 1955 NOT = { year = 1990 }
+    NOT = { exists = EQG }
+    OR = { exists = CMR exists = GAB }
   }
 
   mean_time_to_happen = { months = 48 }
 
   option = {
     name = EVT_8014302_A
-	release = EQG
-	badboy = -10
-	prestige = 10
-	ai_chance = { factor = 100 }
+    release = EQG
+    badboy = -10
+    prestige = 10
+    ai_chance = { factor = 100 }
   }
   option = {
     name = EVT_8014302_B
-	badboy = 2
-	prestige = -20
-	ai_chance = { factor = 0 }
+    badboy = 2
+    prestige = -20
+    ai_chance = { factor = 0 }
   }
 
-  
+
 }
 country_event = {
   id = 8014304
@@ -62,7 +62,7 @@ country_event = {
   trigger = {
     tag = SPA
     year = 1975 NOT = { year = 1990 }
-	government = provisional_government
+    government = provisional_government
   }
 
   mean_time_to_happen = { months = 6 }
@@ -81,25 +81,25 @@ country_event = {
   trigger = {
     tag = SPA
     year = 1978 NOT = { year = 1990 }
-	government = provisional_government
+    government = provisional_government
   }
 
   mean_time_to_happen = { months = 2 }
 
   option = {
     name = EVT_8014312_A
-	any_pop = { militancy = -1.0  consciousness = 3.0 }
-	government = democracy country_event = 800054
-	badboy = -50
-	remove_country_modifier = boycott_fascism
-	release = EQG
-	ai_chance = { factor = 100 }
+    any_pop = { militancy = -1.0  consciousness = 3.0 }
+    government = democracy country_event = 800054
+    badboy = -50
+    remove_country_modifier = boycott_fascism
+    release = EQG
+    ai_chance = { factor = 100 }
   }
   option = {
     name = EVT_8014312_B
-	prestige = -20
-	any_pop = { militancy = 2.0  consciousness = 4.0 }
-	ai_chance = { factor = 0 }
+    prestige = -20
+    any_pop = { militancy = 2.0  consciousness = 4.0 }
+    ai_chance = { factor = 0 }
   }
 }
 country_event = {
@@ -111,16 +111,16 @@ country_event = {
 
   trigger = {
     tag = SPA
-	has_country_modifier = boycott_fascism
-	NOT = { government = provisional_government }
+    has_country_modifier = boycott_fascism
+    NOT = { government = provisional_government }
   }
 
   mean_time_to_happen = { months = 10 }
 
   option = {
     name = EVT_8014312_A
-	badboy = -50
-	remove_country_modifier = boycott_fascism
-	ai_chance = { factor = 100 }
+    badboy = -50
+    remove_country_modifier = boycott_fascism
+    ai_chance = { factor = 100 }
   }
 }

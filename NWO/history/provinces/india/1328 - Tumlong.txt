@@ -6,8 +6,8 @@ life_rating = 34
 terrain = conifer_forest_mountains
 colonial = 0
 1992.1.1 = {
-owner = HND
-controller = HND
-add_core = SIK
-colonial = 2
+  owner = HND
+  controller = HND
+  add_core = SIK
+  colonial = 2
 }

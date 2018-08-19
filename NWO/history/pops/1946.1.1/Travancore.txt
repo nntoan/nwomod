@@ -1,154 +1,154 @@
 #Calicut - Calicut (5653000/1413250 POPS)
 1317 = {
-	clergymen = {
-		culture = malayalam
-		religion =  hindu 
-		size = 27629
-	 } 
-	clergymen = {
-		culture = malayalam
-		religion = secularism
-		size = 635
-	 } 
-	farmers = {
-		culture = malayalam
-		religion =  hindu 
-		size = 842685
-	 } 
-	farmers = {
-		culture = malayalam
-		religion = secularism
-		size = 19396
-	 } 
-	farmers = {
-		culture = indian_muslim
-		religion =  sunni 
-		size = 522902
-	 } 
+  clergymen = {
+    culture = malayalam
+    religion =  hindu
+    size = 27629
+  }
+  clergymen = {
+    culture = malayalam
+    religion = secularism
+    size = 635
+  }
+  farmers = {
+    culture = malayalam
+    religion =  hindu
+    size = 842685
+  }
+  farmers = {
+    culture = malayalam
+    religion = secularism
+    size = 19396
+  }
+  farmers = {
+    culture = indian_muslim
+    religion =  sunni
+    size = 522902
+  }
 }
 #Cochin - Cochin (7451000/1862750 POPS)
 1318 = {
-	clergymen = {
-		culture = malayalam
-		religion =  hindu 
-		size = 36416
-	 } 
-	clergymen = {
-		culture = malayalam
-		religion = secularism
-		size = 838
-	 } 
-	farmers = {
-		culture = malayalam
-		religion =  hindu 
-		size = 1147127
-	 } 
-	farmers = {
-		culture = malayalam
-		religion = secularism
-		size = 26404
-	 } 
-	farmers = {
-		culture = christian_malayalam
-		religion =  orthodox 
-		size = 455209
-	 } 
-	farmers = {
-		culture = christian_malayalam
-		religion = secularism
-		size = 10477
-	 } 
-	farmers = {
-		culture = indian_muslim
-		religion =  sunni 
-		size = 186275
-	 } 
+  clergymen = {
+    culture = malayalam
+    religion =  hindu
+    size = 36416
+  }
+  clergymen = {
+    culture = malayalam
+    religion = secularism
+    size = 838
+  }
+  farmers = {
+    culture = malayalam
+    religion =  hindu
+    size = 1147127
+  }
+  farmers = {
+    culture = malayalam
+    religion = secularism
+    size = 26404
+  }
+  farmers = {
+    culture = christian_malayalam
+    religion =  orthodox
+    size = 455209
+  }
+  farmers = {
+    culture = christian_malayalam
+    religion = secularism
+    size = 10477
+  }
+  farmers = {
+    culture = indian_muslim
+    religion =  sunni
+    size = 186275
+  }
 }
 #Trivandrum - Trivandrum (2833000/708250 POPS)
 1319 = {
-	officers = {
-		culture = malayalam
-		religion =  hindu 
-		size = 2036
-	 } 
-	officers = {
-		culture = malayalam
-		religion = secularism
-		size = 46
-	 } 
-	soldiers = {
-		culture = malayalam
-		religion =  hindu 
-		size = 38687
-	 } 
-	soldiers = {
-		culture = malayalam
-		religion = secularism
-		size = 890
-	 } 
-	aristocrats = {
-		culture = malayalam
-		religion =  hindu 
-		size = 27692
-	 } 
-	aristocrats = {
-		culture = malayalam
-		religion = secularism
-		size = 637
-	 } 
-	bureaucrats = {
-		culture = malayalam
-		religion =  hindu 
-		size = 692
-	 } 
-	bureaucrats = {
-		culture = malayalam
-		religion = secularism
-		size = 15
-	 } 
-	clergymen = {
-		culture = malayalam
-		religion =  hindu 
-		size = 13846
-	 } 
-	clergymen = {
-		culture = malayalam
-		religion = secularism
-		size = 318
-	 } 
-	artisans = {
-		culture = malayalam
-		religion =  hindu 
-		size = 2311
-	 } 
-	artisans = {
-		culture = malayalam
-		religion = secularism
-		size = 53
-	 } 
-	farmers = {
-		culture = malayalam
-		religion =  hindu 
-		size = 53196
-	 } 
-	farmers = {
-		culture = malayalam
-		religion = secularism
-		size = 1224
-	 } 
-	farmers = {
-		culture = christian_malayalam
-		religion =  orthodox 
-		size = 297694
-	 } 
-	farmers = {
-		culture = christian_malayalam
-		religion = secularism
-		size = 6852
-	 } 
-	farmers = {
-		culture = indian_muslim
-		religion =  sunni 
-		size = 262052
-	 } 
+  officers = {
+    culture = malayalam
+    religion =  hindu
+    size = 2036
+  }
+  officers = {
+    culture = malayalam
+    religion = secularism
+    size = 46
+  }
+  soldiers = {
+    culture = malayalam
+    religion =  hindu
+    size = 38687
+  }
+  soldiers = {
+    culture = malayalam
+    religion = secularism
+    size = 890
+  }
+  aristocrats = {
+    culture = malayalam
+    religion =  hindu
+    size = 27692
+  }
+  aristocrats = {
+    culture = malayalam
+    religion = secularism
+    size = 637
+  }
+  bureaucrats = {
+    culture = malayalam
+    religion =  hindu
+    size = 692
+  }
+  bureaucrats = {
+    culture = malayalam
+    religion = secularism
+    size = 15
+  }
+  clergymen = {
+    culture = malayalam
+    religion =  hindu
+    size = 13846
+  }
+  clergymen = {
+    culture = malayalam
+    religion = secularism
+    size = 318
+  }
+  artisans = {
+    culture = malayalam
+    religion =  hindu
+    size = 2311
+  }
+  artisans = {
+    culture = malayalam
+    religion = secularism
+    size = 53
+  }
+  farmers = {
+    culture = malayalam
+    religion =  hindu
+    size = 53196
+  }
+  farmers = {
+    culture = malayalam
+    religion = secularism
+    size = 1224
+  }
+  farmers = {
+    culture = christian_malayalam
+    religion =  orthodox
+    size = 297694
+  }
+  farmers = {
+    culture = christian_malayalam
+    religion = secularism
+    size = 6852
+  }
+  farmers = {
+    culture = indian_muslim
+    religion =  sunni
+    size = 262052
+  }
 }

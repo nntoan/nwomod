@@ -1,103 +1,103 @@
 #Saipan - Saipan (53000/13250 POPS)
 2521 = {
-	aristocrats = {
-		culture = polynesian
-		religion =  catholic 
-		size = 169
-	 } 
-	aristocrats = {
-		culture = polynesian
-		religion = secularism
-		size = 95
-	 } 
-	bureaucrats = {
-		culture = polynesian
-		religion =  catholic 
-		size = 50
-	 } 
-	bureaucrats = {
-		culture = polynesian
-		religion = secularism
-		size = 28
-	 } 
-	capitalists = {
-		culture = polynesian
-		religion =  catholic 
-		size = 50
-	 } 
-	capitalists = {
-		culture = polynesian
-		religion = secularism
-		size = 28
-	 } 
-	clergymen = {
-		culture = polynesian
-		religion =  catholic 
-		size = 339
-	 } 
-	clergymen = {
-		culture = polynesian
-		religion = secularism
-		size = 190
-	 } 
-	clerks = {
-		culture = polynesian
-		religion =  catholic 
-		size = 291
-	 } 
-	clerks = {
-		culture = polynesian
-		religion = secularism
-		size = 163
-	 } 
-	artisans = {
-		culture = polynesian
-		religion =  catholic 
-		size = 247
-	 } 
-	artisans = {
-		culture = polynesian
-		religion = secularism
-		size = 138
-	 } 
-	craftsmen = {
-		culture = polynesian
-		religion =  catholic 
-		size = 887
-	 } 
-	craftsmen = {
-		culture = polynesian
-		religion = secularism
-		size = 499
-	 } 
-	farmers = {
-		culture = polynesian
-		religion =  catholic 
-		size = 2034
-	 } 
-	farmers = {
-		culture = polynesian
-		religion = secularism
-		size = 1144
-	 } 
-	farmers = {
-		culture = chinese
-		religion =  taoism 
-		size = 1950
-	 } 
-	farmers = {
-		culture = chinese
-		religion = secularism
-		size = 1096
-	 } 
-	farmers = {
-		culture = filipino
-		religion =  catholic 
-		size = 2458
-	 } 
-	farmers = {
-		culture = filipino
-		religion = secularism
-		size = 1383
-	 } 
+  aristocrats = {
+    culture = polynesian
+    religion =  catholic
+    size = 169
+  }
+  aristocrats = {
+    culture = polynesian
+    religion = secularism
+    size = 95
+  }
+  bureaucrats = {
+    culture = polynesian
+    religion =  catholic
+    size = 50
+  }
+  bureaucrats = {
+    culture = polynesian
+    religion = secularism
+    size = 28
+  }
+  capitalists = {
+    culture = polynesian
+    religion =  catholic
+    size = 50
+  }
+  capitalists = {
+    culture = polynesian
+    religion = secularism
+    size = 28
+  }
+  clergymen = {
+    culture = polynesian
+    religion =  catholic
+    size = 339
+  }
+  clergymen = {
+    culture = polynesian
+    religion = secularism
+    size = 190
+  }
+  clerks = {
+    culture = polynesian
+    religion =  catholic
+    size = 291
+  }
+  clerks = {
+    culture = polynesian
+    religion = secularism
+    size = 163
+  }
+  artisans = {
+    culture = polynesian
+    religion =  catholic
+    size = 247
+  }
+  artisans = {
+    culture = polynesian
+    religion = secularism
+    size = 138
+  }
+  craftsmen = {
+    culture = polynesian
+    religion =  catholic
+    size = 887
+  }
+  craftsmen = {
+    culture = polynesian
+    religion = secularism
+    size = 499
+  }
+  farmers = {
+    culture = polynesian
+    religion =  catholic
+    size = 2034
+  }
+  farmers = {
+    culture = polynesian
+    religion = secularism
+    size = 1144
+  }
+  farmers = {
+    culture = chinese
+    religion =  taoism
+    size = 1950
+  }
+  farmers = {
+    culture = chinese
+    religion = secularism
+    size = 1096
+  }
+  farmers = {
+    culture = filipino
+    religion =  catholic
+    size = 2458
+  }
+  farmers = {
+    culture = filipino
+    religion = secularism
+    size = 1383
+  }
 }

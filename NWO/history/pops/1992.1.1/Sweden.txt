@@ -1,852 +1,852 @@
 #Gavle - Gavle (265000/66250 POPS)
 317 = {
-	clergymen = {
-		culture = swedish
-		religion =  protestant 
-		size = 318
-	 } 
-	clergymen = {
-		culture = swedish
-		religion = secularism
-		size = 2332
-	 } 
-	farmers = {
-		culture = swedish
-		religion =  protestant 
-		size = 7632
-	 } 
-	farmers = {
-		culture = swedish
-		religion = secularism
-		size = 55968
-	 } 
+  clergymen = {
+    culture = swedish
+    religion =  protestant
+    size = 318
+  }
+  clergymen = {
+    culture = swedish
+    religion = secularism
+    size = 2332
+  }
+  farmers = {
+    culture = swedish
+    religion =  protestant
+    size = 7632
+  }
+  farmers = {
+    culture = swedish
+    religion = secularism
+    size = 55968
+  }
 }
 #Sundsvall - Sundsvall (232000/58000 POPS)
 318 = {
-	clergymen = {
-		culture = swedish
-		religion =  protestant 
-		size = 278
-	 } 
-	clergymen = {
-		culture = swedish
-		religion = secularism
-		size = 2041
-	 } 
-	farmers = {
-		culture = swedish
-		religion =  protestant 
-		size = 6681
-	 } 
-	farmers = {
-		culture = swedish
-		religion = secularism
-		size = 48998
-	 } 
+  clergymen = {
+    culture = swedish
+    religion =  protestant
+    size = 278
+  }
+  clergymen = {
+    culture = swedish
+    religion = secularism
+    size = 2041
+  }
+  farmers = {
+    culture = swedish
+    religion =  protestant
+    size = 6681
+  }
+  farmers = {
+    culture = swedish
+    religion = secularism
+    size = 48998
+  }
 }
 #Ostersund - Ostersund (120000/30000 POPS)
 319 = {
-	clergymen = {
-		culture = swedish
-		religion =  protestant 
-		size = 144
-	 } 
-	clergymen = {
-		culture = swedish
-		religion = secularism
-		size = 1056
-	 } 
-	farmers = {
-		culture = swedish
-		religion =  protestant 
-		size = 3456
-	 } 
-	farmers = {
-		culture = swedish
-		religion = secularism
-		size = 25344
-	 } 
+  clergymen = {
+    culture = swedish
+    religion =  protestant
+    size = 144
+  }
+  clergymen = {
+    culture = swedish
+    religion = secularism
+    size = 1056
+  }
+  farmers = {
+    culture = swedish
+    religion =  protestant
+    size = 3456
+  }
+  farmers = {
+    culture = swedish
+    religion = secularism
+    size = 25344
+  }
 }
 #Umea - Umea (250000/62500 POPS)
 320 = {
-	clergymen = {
-		culture = swedish
-		religion =  protestant 
-		size = 300
-	 } 
-	clergymen = {
-		culture = swedish
-		religion = secularism
-		size = 2200
-	 } 
-	farmers = {
-		culture = swedish
-		religion =  protestant 
-		size = 7200
-	 } 
-	farmers = {
-		culture = swedish
-		religion = secularism
-		size = 52800
-	 } 
+  clergymen = {
+    culture = swedish
+    religion =  protestant
+    size = 300
+  }
+  clergymen = {
+    culture = swedish
+    religion = secularism
+    size = 2200
+  }
+  farmers = {
+    culture = swedish
+    religion =  protestant
+    size = 7200
+  }
+  farmers = {
+    culture = swedish
+    religion = secularism
+    size = 52800
+  }
 }
 #Lulea - Lulea (238000/59500 POPS)
 321 = {
-	clergymen = {
-		culture = swedish
-		religion =  protestant 
-		size = 285
-	 } 
-	clergymen = {
-		culture = swedish
-		religion = secularism
-		size = 2094
-	 } 
-	farmers = {
-		culture = swedish
-		religion =  protestant 
-		size = 6354
-	 } 
-	farmers = {
-		culture = swedish
-		religion = secularism
-		size = 46600
-	 } 
-	farmers = {
-		culture = sami
-		religion =  protestant 
-		size = 499
-	 } 
-	farmers = {
-		culture = sami
-		religion = secularism
-		size = 3665
-	 } 
+  clergymen = {
+    culture = swedish
+    religion =  protestant
+    size = 285
+  }
+  clergymen = {
+    culture = swedish
+    religion = secularism
+    size = 2094
+  }
+  farmers = {
+    culture = swedish
+    religion =  protestant
+    size = 6354
+  }
+  farmers = {
+    culture = swedish
+    religion = secularism
+    size = 46600
+  }
+  farmers = {
+    culture = sami
+    religion =  protestant
+    size = 499
+  }
+  farmers = {
+    culture = sami
+    religion = secularism
+    size = 3665
+  }
 }
 #Stockholm - Stockholm (2338000/584500 POPS)
 322 = {
-	officers = {
-		culture = swedish
-		religion =  protestant 
-		size = 565
-	 } 
-	officers = {
-		culture = swedish
-		religion = secularism
-		size = 4148
-	 } 
-	soldiers = {
-		culture = swedish
-		religion =  protestant 
-		size = 10748
-	 } 
-	soldiers = {
-		culture = swedish
-		religion = secularism
-		size = 78825
-	 } 
-	aristocrats = {
-		culture = swedish
-		religion =  protestant 
-		size = 1402
-	 } 
-	aristocrats = {
-		culture = swedish
-		religion = secularism
-		size = 10287
-	 } 
-	bureaucrats = {
-		culture = swedish
-		religion =  protestant 
-		size = 420
-	 } 
-	bureaucrats = {
-		culture = swedish
-		religion = secularism
-		size = 3086
-	 } 
-	capitalists = {
-		culture = swedish
-		religion =  protestant 
-		size = 420
-	 } 
-	capitalists = {
-		culture = swedish
-		religion = secularism
-		size = 3086
-	 } 
-	clergymen = {
-		culture = swedish
-		religion =  protestant 
-		size = 2805
-	 } 
-	clergymen = {
-		culture = swedish
-		religion = secularism
-		size = 20574
-	 } 
-	clerks = {
-		culture = swedish
-		religion =  protestant 
-		size = 1860
-	 } 
-	clerks = {
-		culture = swedish
-		religion = secularism
-		size = 13642
-	 } 
-	artisans = {
-		culture = swedish
-		religion =  protestant 
-		size = 1581
-	 } 
-	artisans = {
-		culture = swedish
-		religion = secularism
-		size = 11596
-	 } 
-	craftsmen = {
-		culture = swedish
-		religion =  protestant 
-		size = 5674
-	 } 
-	craftsmen = {
-		culture = swedish
-		religion = secularism
-		size = 41610
-	 } 
-	farmers = {
-		culture = swedish
-		religion =  protestant 
-		size = 29930
-	 } 
-	farmers = {
-		culture = swedish
-		religion = secularism
-		size = 219486
-	 } 
-	farmers = {
-		culture = sunni_arab
-		religion =  sunni 
-		size = 17535
-	 } 
-	farmers = {
-		culture = christian_arab
-		religion =  orthodox 
-		size = 1402
-	 } 
-	farmers = {
-		culture = christian_arab
-		religion = secularism
-		size = 10287
-	 } 
-	farmers = {
-		culture = somali
-		religion =  sunni 
-		size = 11690
-	 } 
-	farmers = {
-		culture = kurdish
-		religion =  sunni 
-		size = 17535
-	 } 
-	farmers = {
-		culture = finnish
-		religion =  protestant 
-		size = 2805
-	 } 
-	farmers = {
-		culture = finnish
-		religion = secularism
-		size = 20574
-	 } 
-	farmers = {
-		culture = bosniak
-		religion =  sunni 
-		size = 17535
-	 } 
-	farmers = {
-		culture = polish
-		religion =  catholic 
-		size = 1402
-	 } 
-	farmers = {
-		culture = polish
-		religion = secularism
-		size = 10287
-	 } 
-	farmers = {
-		culture = persian
-		religion =  shiite 
-		size = 11690
-	 } 
+  officers = {
+    culture = swedish
+    religion =  protestant
+    size = 565
+  }
+  officers = {
+    culture = swedish
+    religion = secularism
+    size = 4148
+  }
+  soldiers = {
+    culture = swedish
+    religion =  protestant
+    size = 10748
+  }
+  soldiers = {
+    culture = swedish
+    religion = secularism
+    size = 78825
+  }
+  aristocrats = {
+    culture = swedish
+    religion =  protestant
+    size = 1402
+  }
+  aristocrats = {
+    culture = swedish
+    religion = secularism
+    size = 10287
+  }
+  bureaucrats = {
+    culture = swedish
+    religion =  protestant
+    size = 420
+  }
+  bureaucrats = {
+    culture = swedish
+    religion = secularism
+    size = 3086
+  }
+  capitalists = {
+    culture = swedish
+    religion =  protestant
+    size = 420
+  }
+  capitalists = {
+    culture = swedish
+    religion = secularism
+    size = 3086
+  }
+  clergymen = {
+    culture = swedish
+    religion =  protestant
+    size = 2805
+  }
+  clergymen = {
+    culture = swedish
+    religion = secularism
+    size = 20574
+  }
+  clerks = {
+    culture = swedish
+    religion =  protestant
+    size = 1860
+  }
+  clerks = {
+    culture = swedish
+    religion = secularism
+    size = 13642
+  }
+  artisans = {
+    culture = swedish
+    religion =  protestant
+    size = 1581
+  }
+  artisans = {
+    culture = swedish
+    religion = secularism
+    size = 11596
+  }
+  craftsmen = {
+    culture = swedish
+    religion =  protestant
+    size = 5674
+  }
+  craftsmen = {
+    culture = swedish
+    religion = secularism
+    size = 41610
+  }
+  farmers = {
+    culture = swedish
+    religion =  protestant
+    size = 29930
+  }
+  farmers = {
+    culture = swedish
+    religion = secularism
+    size = 219486
+  }
+  farmers = {
+    culture = sunni_arab
+    religion =  sunni
+    size = 17535
+  }
+  farmers = {
+    culture = christian_arab
+    religion =  orthodox
+    size = 1402
+  }
+  farmers = {
+    culture = christian_arab
+    religion = secularism
+    size = 10287
+  }
+  farmers = {
+    culture = somali
+    religion =  sunni
+    size = 11690
+  }
+  farmers = {
+    culture = kurdish
+    religion =  sunni
+    size = 17535
+  }
+  farmers = {
+    culture = finnish
+    religion =  protestant
+    size = 2805
+  }
+  farmers = {
+    culture = finnish
+    religion = secularism
+    size = 20574
+  }
+  farmers = {
+    culture = bosniak
+    religion =  sunni
+    size = 17535
+  }
+  farmers = {
+    culture = polish
+    religion =  catholic
+    size = 1402
+  }
+  farmers = {
+    culture = polish
+    religion = secularism
+    size = 10287
+  }
+  farmers = {
+    culture = persian
+    religion =  shiite
+    size = 11690
+  }
 }
 #Falun - Falun (265000/66250 POPS)
 323 = {
-	clergymen = {
-		culture = swedish
-		religion =  protestant 
-		size = 318
-	 } 
-	clergymen = {
-		culture = swedish
-		religion = secularism
-		size = 2332
-	 } 
-	farmers = {
-		culture = swedish
-		religion =  protestant 
-		size = 7632
-	 } 
-	farmers = {
-		culture = swedish
-		religion = secularism
-		size = 55968
-	 } 
+  clergymen = {
+    culture = swedish
+    religion =  protestant
+    size = 318
+  }
+  clergymen = {
+    culture = swedish
+    religion = secularism
+    size = 2332
+  }
+  farmers = {
+    culture = swedish
+    religion =  protestant
+    size = 7632
+  }
+  farmers = {
+    culture = swedish
+    religion = secularism
+    size = 55968
+  }
 }
 #Uppsala - Uppsala (330000/82500 POPS)
 324 = {
-	clergymen = {
-		culture = swedish
-		religion =  protestant 
-		size = 396
-	 } 
-	clergymen = {
-		culture = swedish
-		religion = secularism
-		size = 2904
-	 } 
-	farmers = {
-		culture = swedish
-		religion =  protestant 
-		size = 9504
-	 } 
-	farmers = {
-		culture = swedish
-		religion = secularism
-		size = 69696
-	 } 
+  clergymen = {
+    culture = swedish
+    religion =  protestant
+    size = 396
+  }
+  clergymen = {
+    culture = swedish
+    religion = secularism
+    size = 2904
+  }
+  farmers = {
+    culture = swedish
+    religion =  protestant
+    size = 9504
+  }
+  farmers = {
+    culture = swedish
+    religion = secularism
+    size = 69696
+  }
 }
 #Norrkoping - Norrkoping (418000/104500 POPS)
 325 = {
-	clergymen = {
-		culture = swedish
-		religion =  protestant 
-		size = 501
-	 } 
-	clergymen = {
-		culture = swedish
-		religion = secularism
-		size = 3678
-	 } 
-	farmers = {
-		culture = swedish
-		religion =  protestant 
-		size = 12038
-	 } 
-	farmers = {
-		culture = swedish
-		religion = secularism
-		size = 88281
-	 } 
+  clergymen = {
+    culture = swedish
+    religion =  protestant
+    size = 501
+  }
+  clergymen = {
+    culture = swedish
+    religion = secularism
+    size = 3678
+  }
+  farmers = {
+    culture = swedish
+    religion =  protestant
+    size = 12038
+  }
+  farmers = {
+    culture = swedish
+    religion = secularism
+    size = 88281
+  }
 }
 #Vasteras - Vasteras (232000/58000 POPS)
 326 = {
-	clergymen = {
-		culture = swedish
-		religion =  protestant 
-		size = 278
-	 } 
-	clergymen = {
-		culture = swedish
-		religion = secularism
-		size = 2041
-	 } 
-	farmers = {
-		culture = swedish
-		religion =  protestant 
-		size = 6681
-	 } 
-	farmers = {
-		culture = swedish
-		religion = secularism
-		size = 48998
-	 } 
+  clergymen = {
+    culture = swedish
+    religion =  protestant
+    size = 278
+  }
+  clergymen = {
+    culture = swedish
+    religion = secularism
+    size = 2041
+  }
+  farmers = {
+    culture = swedish
+    religion =  protestant
+    size = 6681
+  }
+  farmers = {
+    culture = swedish
+    religion = secularism
+    size = 48998
+  }
 }
 #Orebro - Orebro (273000/68250 POPS)
 327 = {
-	clergymen = {
-		culture = swedish
-		religion =  protestant 
-		size = 327
-	 } 
-	clergymen = {
-		culture = swedish
-		religion = secularism
-		size = 2402
-	 } 
-	farmers = {
-		culture = swedish
-		religion =  protestant 
-		size = 7862
-	 } 
-	farmers = {
-		culture = swedish
-		religion = secularism
-		size = 57657
-	 } 
+  clergymen = {
+    culture = swedish
+    religion =  protestant
+    size = 327
+  }
+  clergymen = {
+    culture = swedish
+    religion = secularism
+    size = 2402
+  }
+  farmers = {
+    culture = swedish
+    religion =  protestant
+    size = 7862
+  }
+  farmers = {
+    culture = swedish
+    religion = secularism
+    size = 57657
+  }
 }
 #Karlstad - Karlstad (261000/65250 POPS)
 328 = {
-	clergymen = {
-		culture = swedish
-		religion =  protestant 
-		size = 313
-	 } 
-	clergymen = {
-		culture = swedish
-		religion = secularism
-		size = 2296
-	 } 
-	farmers = {
-		culture = swedish
-		religion =  protestant 
-		size = 7516
-	 } 
-	farmers = {
-		culture = swedish
-		religion = secularism
-		size = 55123
-	 } 
+  clergymen = {
+    culture = swedish
+    religion =  protestant
+    size = 313
+  }
+  clergymen = {
+    culture = swedish
+    religion = secularism
+    size = 2296
+  }
+  farmers = {
+    culture = swedish
+    religion =  protestant
+    size = 7516
+  }
+  farmers = {
+    culture = swedish
+    religion = secularism
+    size = 55123
+  }
 }
 #Gothenburg - Gothenburg (1366000/341500 POPS)
 329 = {
-	officers = {
-		culture = swedish
-		religion =  protestant 
-		size = 283
-	 } 
-	officers = {
-		culture = swedish
-		religion = secularism
-		size = 2076
-	 } 
-	soldiers = {
-		culture = swedish
-		religion =  protestant 
-		size = 5382
-	 } 
-	soldiers = {
-		culture = swedish
-		religion = secularism
-		size = 39475
-	 } 
-	aristocrats = {
-		culture = swedish
-		religion =  protestant 
-		size = 819
-	 } 
-	aristocrats = {
-		culture = swedish
-		religion = secularism
-		size = 6010
-	 } 
-	bureaucrats = {
-		culture = swedish
-		religion =  protestant 
-		size = 245
-	 } 
-	bureaucrats = {
-		culture = swedish
-		religion = secularism
-		size = 1803
-	 } 
-	capitalists = {
-		culture = swedish
-		religion =  protestant 
-		size = 245
-	 } 
-	capitalists = {
-		culture = swedish
-		religion = secularism
-		size = 1803
-	 } 
-	clergymen = {
-		culture = swedish
-		religion =  protestant 
-		size = 1639
-	 } 
-	clergymen = {
-		culture = swedish
-		religion = secularism
-		size = 12020
-	 } 
-	clerks = {
-		culture = swedish
-		religion =  protestant 
-		size = 1116
-	 } 
-	clerks = {
-		culture = swedish
-		religion = secularism
-		size = 8190
-	 } 
-	artisans = {
-		culture = swedish
-		religion =  protestant 
-		size = 949
-	 } 
-	artisans = {
-		culture = swedish
-		religion = secularism
-		size = 6960
-	 } 
-	craftsmen = {
-		culture = swedish
-		religion =  protestant 
-		size = 3406
-	 } 
-	craftsmen = {
-		culture = swedish
-		religion = secularism
-		size = 24979
-	 } 
-	farmers = {
-		culture = swedish
-		religion =  protestant 
-		size = 18285
-	 } 
-	farmers = {
-		culture = swedish
-		religion = secularism
-		size = 134090
-	 } 
-	farmers = {
-		culture = sunni_arab
-		religion =  sunni 
-		size = 10245
-	 } 
-	farmers = {
-		culture = christian_arab
-		religion =  orthodox 
-		size = 819
-	 } 
-	farmers = {
-		culture = christian_arab
-		religion = secularism
-		size = 6010
-	 } 
-	farmers = {
-		culture = somali
-		religion =  sunni 
-		size = 6830
-	 } 
-	farmers = {
-		culture = kurdish
-		religion =  sunni 
-		size = 10245
-	 } 
-	farmers = {
-		culture = finnish
-		religion =  protestant 
-		size = 1639
-	 } 
-	farmers = {
-		culture = finnish
-		religion = secularism
-		size = 12020
-	 } 
-	farmers = {
-		culture = bosniak
-		religion =  sunni 
-		size = 10245
-	 } 
-	farmers = {
-		culture = polish
-		religion =  catholic 
-		size = 819
-	 } 
-	farmers = {
-		culture = polish
-		religion = secularism
-		size = 6010
-	 } 
-	farmers = {
-		culture = persian
-		religion =  shiite 
-		size = 6830
-	 } 
+  officers = {
+    culture = swedish
+    religion =  protestant
+    size = 283
+  }
+  officers = {
+    culture = swedish
+    religion = secularism
+    size = 2076
+  }
+  soldiers = {
+    culture = swedish
+    religion =  protestant
+    size = 5382
+  }
+  soldiers = {
+    culture = swedish
+    religion = secularism
+    size = 39475
+  }
+  aristocrats = {
+    culture = swedish
+    religion =  protestant
+    size = 819
+  }
+  aristocrats = {
+    culture = swedish
+    religion = secularism
+    size = 6010
+  }
+  bureaucrats = {
+    culture = swedish
+    religion =  protestant
+    size = 245
+  }
+  bureaucrats = {
+    culture = swedish
+    religion = secularism
+    size = 1803
+  }
+  capitalists = {
+    culture = swedish
+    religion =  protestant
+    size = 245
+  }
+  capitalists = {
+    culture = swedish
+    religion = secularism
+    size = 1803
+  }
+  clergymen = {
+    culture = swedish
+    religion =  protestant
+    size = 1639
+  }
+  clergymen = {
+    culture = swedish
+    religion = secularism
+    size = 12020
+  }
+  clerks = {
+    culture = swedish
+    religion =  protestant
+    size = 1116
+  }
+  clerks = {
+    culture = swedish
+    religion = secularism
+    size = 8190
+  }
+  artisans = {
+    culture = swedish
+    religion =  protestant
+    size = 949
+  }
+  artisans = {
+    culture = swedish
+    religion = secularism
+    size = 6960
+  }
+  craftsmen = {
+    culture = swedish
+    religion =  protestant
+    size = 3406
+  }
+  craftsmen = {
+    culture = swedish
+    religion = secularism
+    size = 24979
+  }
+  farmers = {
+    culture = swedish
+    religion =  protestant
+    size = 18285
+  }
+  farmers = {
+    culture = swedish
+    religion = secularism
+    size = 134090
+  }
+  farmers = {
+    culture = sunni_arab
+    religion =  sunni
+    size = 10245
+  }
+  farmers = {
+    culture = christian_arab
+    religion =  orthodox
+    size = 819
+  }
+  farmers = {
+    culture = christian_arab
+    religion = secularism
+    size = 6010
+  }
+  farmers = {
+    culture = somali
+    religion =  sunni
+    size = 6830
+  }
+  farmers = {
+    culture = kurdish
+    religion =  sunni
+    size = 10245
+  }
+  farmers = {
+    culture = finnish
+    religion =  protestant
+    size = 1639
+  }
+  farmers = {
+    culture = finnish
+    religion = secularism
+    size = 12020
+  }
+  farmers = {
+    culture = bosniak
+    religion =  sunni
+    size = 10245
+  }
+  farmers = {
+    culture = polish
+    religion =  catholic
+    size = 819
+  }
+  farmers = {
+    culture = polish
+    religion = secularism
+    size = 6010
+  }
+  farmers = {
+    culture = persian
+    religion =  shiite
+    size = 6830
+  }
 }
 #Boras - Boras (181000/45250 POPS)
 330 = {
-	clergymen = {
-		culture = swedish
-		religion =  protestant 
-		size = 217
-	 } 
-	clergymen = {
-		culture = swedish
-		religion = secularism
-		size = 1592
-	 } 
-	farmers = {
-		culture = swedish
-		religion =  protestant 
-		size = 5212
-	 } 
-	farmers = {
-		culture = swedish
-		religion = secularism
-		size = 38227
-	 } 
+  clergymen = {
+    culture = swedish
+    religion =  protestant
+    size = 217
+  }
+  clergymen = {
+    culture = swedish
+    religion = secularism
+    size = 1592
+  }
+  farmers = {
+    culture = swedish
+    religion =  protestant
+    size = 5212
+  }
+  farmers = {
+    culture = swedish
+    religion = secularism
+    size = 38227
+  }
 }
 #Gotland - Gotland (54000/13500 POPS)
 331 = {
-	clergymen = {
-		culture = swedish
-		religion =  protestant 
-		size = 64
-	 } 
-	clergymen = {
-		culture = swedish
-		religion = secularism
-		size = 475
-	 } 
-	farmers = {
-		culture = swedish
-		religion =  protestant 
-		size = 1555
-	 } 
-	farmers = {
-		culture = swedish
-		religion = secularism
-		size = 11404
-	 } 
+  clergymen = {
+    culture = swedish
+    religion =  protestant
+    size = 64
+  }
+  clergymen = {
+    culture = swedish
+    religion = secularism
+    size = 475
+  }
+  farmers = {
+    culture = swedish
+    religion =  protestant
+    size = 1555
+  }
+  farmers = {
+    culture = swedish
+    religion = secularism
+    size = 11404
+  }
 }
 #Kalmar - Kalmar (223000/55750 POPS)
 332 = {
-	clergymen = {
-		culture = swedish
-		religion =  protestant 
-		size = 267
-	 } 
-	clergymen = {
-		culture = swedish
-		religion = secularism
-		size = 1962
-	 } 
-	farmers = {
-		culture = swedish
-		religion =  protestant 
-		size = 6422
-	 } 
-	farmers = {
-		culture = swedish
-		religion = secularism
-		size = 47097
-	 } 
+  clergymen = {
+    culture = swedish
+    religion =  protestant
+    size = 267
+  }
+  clergymen = {
+    culture = swedish
+    religion = secularism
+    size = 1962
+  }
+  farmers = {
+    culture = swedish
+    religion =  protestant
+    size = 6422
+  }
+  farmers = {
+    culture = swedish
+    religion = secularism
+    size = 47097
+  }
 }
 #Vaxjo - Vaxjo (179000/44750 POPS)
 333 = {
-	clergymen = {
-		culture = swedish
-		religion =  protestant 
-		size = 214
-	 } 
-	clergymen = {
-		culture = swedish
-		religion = secularism
-		size = 1575
-	 } 
-	farmers = {
-		culture = swedish
-		religion =  protestant 
-		size = 5155
-	 } 
-	farmers = {
-		culture = swedish
-		religion = secularism
-		size = 37804
-	 } 
+  clergymen = {
+    culture = swedish
+    religion =  protestant
+    size = 214
+  }
+  clergymen = {
+    culture = swedish
+    religion = secularism
+    size = 1575
+  }
+  farmers = {
+    culture = swedish
+    religion =  protestant
+    size = 5155
+  }
+  farmers = {
+    culture = swedish
+    religion = secularism
+    size = 37804
+  }
 }
 #Malmo - Malmo (1221000/305250 POPS)
 334 = {
-	officers = {
-		culture = swedish
-		religion =  protestant 
-		size = 159
-	 } 
-	officers = {
-		culture = swedish
-		religion = secularism
-		size = 1167
-	 } 
-	soldiers = {
-		culture = swedish
-		religion =  protestant 
-		size = 3027
-	 } 
-	soldiers = {
-		culture = swedish
-		religion = secularism
-		size = 22201
-	 } 
-	aristocrats = {
-		culture = swedish
-		religion =  protestant 
-		size = 732
-	 } 
-	aristocrats = {
-		culture = swedish
-		religion = secularism
-		size = 5372
-	 } 
-	bureaucrats = {
-		culture = swedish
-		religion =  protestant 
-		size = 219
-	 } 
-	bureaucrats = {
-		culture = swedish
-		religion = secularism
-		size = 1611
-	 } 
-	capitalists = {
-		culture = swedish
-		religion =  protestant 
-		size = 219
-	 } 
-	capitalists = {
-		culture = swedish
-		religion = secularism
-		size = 1611
-	 } 
-	clergymen = {
-		culture = swedish
-		religion =  protestant 
-		size = 1465
-	 } 
-	clergymen = {
-		culture = swedish
-		religion = secularism
-		size = 10744
-	 } 
-	clerks = {
-		culture = swedish
-		religion =  protestant 
-		size = 1057
-	 } 
-	clerks = {
-		culture = swedish
-		religion = secularism
-		size = 7756
-	 } 
-	artisans = {
-		culture = swedish
-		religion =  protestant 
-		size = 898
-	 } 
-	artisans = {
-		culture = swedish
-		religion = secularism
-		size = 6592
-	 } 
-	craftsmen = {
-		culture = swedish
-		religion =  protestant 
-		size = 3225
-	 } 
-	craftsmen = {
-		culture = swedish
-		religion = secularism
-		size = 23656
-	 } 
-	farmers = {
-		culture = swedish
-		religion =  protestant 
-		size = 17931
-	 } 
-	farmers = {
-		culture = swedish
-		religion = secularism
-		size = 131495
-	 } 
-	farmers = {
-		culture = sunni_arab
-		religion =  sunni 
-		size = 9157
-	 } 
-	farmers = {
-		culture = christian_arab
-		religion =  orthodox 
-		size = 732
-	 } 
-	farmers = {
-		culture = christian_arab
-		religion = secularism
-		size = 5372
-	 } 
-	farmers = {
-		culture = somali
-		religion =  sunni 
-		size = 6105
-	 } 
-	farmers = {
-		culture = kurdish
-		religion =  sunni 
-		size = 9157
-	 } 
-	farmers = {
-		culture = finnish
-		religion =  protestant 
-		size = 1465
-	 } 
-	farmers = {
-		culture = finnish
-		religion = secularism
-		size = 10744
-	 } 
-	farmers = {
-		culture = bosniak
-		religion =  sunni 
-		size = 9157
-	 } 
-	farmers = {
-		culture = polish
-		religion =  catholic 
-		size = 732
-	 } 
-	farmers = {
-		culture = polish
-		religion = secularism
-		size = 5372
-	 } 
-	farmers = {
-		culture = persian
-		religion =  shiite 
-		size = 6105
-	 } 
+  officers = {
+    culture = swedish
+    religion =  protestant
+    size = 159
+  }
+  officers = {
+    culture = swedish
+    religion = secularism
+    size = 1167
+  }
+  soldiers = {
+    culture = swedish
+    religion =  protestant
+    size = 3027
+  }
+  soldiers = {
+    culture = swedish
+    religion = secularism
+    size = 22201
+  }
+  aristocrats = {
+    culture = swedish
+    religion =  protestant
+    size = 732
+  }
+  aristocrats = {
+    culture = swedish
+    religion = secularism
+    size = 5372
+  }
+  bureaucrats = {
+    culture = swedish
+    religion =  protestant
+    size = 219
+  }
+  bureaucrats = {
+    culture = swedish
+    religion = secularism
+    size = 1611
+  }
+  capitalists = {
+    culture = swedish
+    religion =  protestant
+    size = 219
+  }
+  capitalists = {
+    culture = swedish
+    religion = secularism
+    size = 1611
+  }
+  clergymen = {
+    culture = swedish
+    religion =  protestant
+    size = 1465
+  }
+  clergymen = {
+    culture = swedish
+    religion = secularism
+    size = 10744
+  }
+  clerks = {
+    culture = swedish
+    religion =  protestant
+    size = 1057
+  }
+  clerks = {
+    culture = swedish
+    religion = secularism
+    size = 7756
+  }
+  artisans = {
+    culture = swedish
+    religion =  protestant
+    size = 898
+  }
+  artisans = {
+    culture = swedish
+    religion = secularism
+    size = 6592
+  }
+  craftsmen = {
+    culture = swedish
+    religion =  protestant
+    size = 3225
+  }
+  craftsmen = {
+    culture = swedish
+    religion = secularism
+    size = 23656
+  }
+  farmers = {
+    culture = swedish
+    religion =  protestant
+    size = 17931
+  }
+  farmers = {
+    culture = swedish
+    religion = secularism
+    size = 131495
+  }
+  farmers = {
+    culture = sunni_arab
+    religion =  sunni
+    size = 9157
+  }
+  farmers = {
+    culture = christian_arab
+    religion =  orthodox
+    size = 732
+  }
+  farmers = {
+    culture = christian_arab
+    religion = secularism
+    size = 5372
+  }
+  farmers = {
+    culture = somali
+    religion =  sunni
+    size = 6105
+  }
+  farmers = {
+    culture = kurdish
+    religion =  sunni
+    size = 9157
+  }
+  farmers = {
+    culture = finnish
+    religion =  protestant
+    size = 1465
+  }
+  farmers = {
+    culture = finnish
+    religion = secularism
+    size = 10744
+  }
+  farmers = {
+    culture = bosniak
+    religion =  sunni
+    size = 9157
+  }
+  farmers = {
+    culture = polish
+    religion =  catholic
+    size = 732
+  }
+  farmers = {
+    culture = polish
+    religion = secularism
+    size = 5372
+  }
+  farmers = {
+    culture = persian
+    religion =  shiite
+    size = 6105
+  }
 }
 #Karlskrona - Karlskrona (145000/36250 POPS)
 335 = {
-	clergymen = {
-		culture = swedish
-		religion =  protestant 
-		size = 174
-	 } 
-	clergymen = {
-		culture = swedish
-		religion = secularism
-		size = 1276
-	 } 
-	farmers = {
-		culture = swedish
-		religion =  protestant 
-		size = 4176
-	 } 
-	farmers = {
-		culture = swedish
-		religion = secularism
-		size = 30624
-	 } 
+  clergymen = {
+    culture = swedish
+    religion =  protestant
+    size = 174
+  }
+  clergymen = {
+    culture = swedish
+    religion = secularism
+    size = 1276
+  }
+  farmers = {
+    culture = swedish
+    religion =  protestant
+    size = 4176
+  }
+  farmers = {
+    culture = swedish
+    religion = secularism
+    size = 30624
+  }
 }

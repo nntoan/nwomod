@@ -6,13 +6,13 @@ life_rating = 37
 terrain = desert_hills
 colonial = 0
 1992.1.1 = {
-owner = PEU
-controller = PEU
-add_core = PEU
-colonial = 0
-state_building = {
-	level = 1
-	building = glass_factory
-	upgrade = yes
-}
+  owner = PEU
+  controller = PEU
+  add_core = PEU
+  colonial = 0
+  state_building = {
+    level = 1
+    building = glass_factory
+    upgrade = yes
+  }
 }

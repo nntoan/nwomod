@@ -7,31 +7,31 @@ life_rating = 30
 terrain = seasonal_jungle_hills
 colonial = 0
 state_building = {
-	level = 1
-	building = home_appliance_factory
-	upgrade = yes
+  level = 1
+  building = home_appliance_factory
+  upgrade = yes
 }
 1992.1.1 = {
-owner = KMT
-controller = KMT
-add_core = KMT
-add_core = CHI
-add_core = TAI
-railroad = 1
-colonial = 0
-state_building = {
-	level = 3
-	building = glass_factory
-	upgrade = yes
-}
-state_building = {
-	level = 3
-	building = instruments_factory
-	upgrade = yes
-}
-state_building = {
-	level = 3
-	building =telephones_factory
-	upgrade = yes
-}
+  owner = KMT
+  controller = KMT
+  add_core = KMT
+  add_core = CHI
+  add_core = TAI
+  railroad = 1
+  colonial = 0
+  state_building = {
+    level = 3
+    building = glass_factory
+    upgrade = yes
+  }
+  state_building = {
+    level = 3
+    building = instruments_factory
+    upgrade = yes
+  }
+  state_building = {
+    level = 3
+    building =telephones_factory
+    upgrade = yes
+  }
 }

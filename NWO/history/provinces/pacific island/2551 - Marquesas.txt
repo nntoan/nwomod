@@ -6,9 +6,9 @@ life_rating = 39
 terrain = jungle
 colonial = 2
 1992.1.1 = {
-owner = FRA
-controller = FRA
-add_core = POY
-railroad = 2
-colonial = 2
+  owner = FRA
+  controller = FRA
+  add_core = POY
+  railroad = 2
+  colonial = 2
 }

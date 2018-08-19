@@ -1,259 +1,259 @@
 graphical_culture = MiddleEasternGC
 color = { 64 224 208 }
 party = {
-		name = "Conservative Party"
-		citizenship_policy = limited_citizenship
-		economic_policy = interventionism
-		ideology = conservative
-		religious_policy = secularized
-		trade_policy = free_trade
-		war_policy = pro_military
-		start_date = 1945.1.1
-		end_date = 1957.1.1
+  name = "Conservative Party"
+  citizenship_policy = limited_citizenship
+  economic_policy = interventionism
+  ideology = conservative
+  religious_policy = secularized
+  trade_policy = free_trade
+  war_policy = pro_military
+  start_date = 1945.1.1
+  end_date = 1957.1.1
 }
 party = {
-		name = "United Somali Party"
-		citizenship_policy = limited_citizenship
-		economic_policy = interventionism
-		ideology = conservative
-		religious_policy = secularized
-		trade_policy = free_trade
-		war_policy = pro_military
-		start_date = 1957.1.1
-		end_date = 1969.10.21
+  name = "United Somali Party"
+  citizenship_policy = limited_citizenship
+  economic_policy = interventionism
+  ideology = conservative
+  religious_policy = secularized
+  trade_policy = free_trade
+  war_policy = pro_military
+  start_date = 1957.1.1
+  end_date = 1969.10.21
 }
 party = {
-		name = "Conservative Party"
-		citizenship_policy = limited_citizenship
-		economic_policy = interventionism
-		ideology = conservative
-		religious_policy = secularized
-		trade_policy = free_trade
-		war_policy = pro_military
-		start_date = 1945.1.1
-		end_date = 1957.1.1
+  name = "Conservative Party"
+  citizenship_policy = limited_citizenship
+  economic_policy = interventionism
+  ideology = conservative
+  religious_policy = secularized
+  trade_policy = free_trade
+  war_policy = pro_military
+  start_date = 1945.1.1
+  end_date = 1957.1.1
 }
 party = {
-		name = "Somaliland National Society"
-		citizenship_policy = full_citizenship
-		economic_policy = laissez_faire
-		ideology = liberal
-		religious_policy = secularized
-		trade_policy = free_trade
-		war_policy = pacifism
-		start_date = 1836.1.1
-		end_date = 1948.1.1
+  name = "Somaliland National Society"
+  citizenship_policy = full_citizenship
+  economic_policy = laissez_faire
+  ideology = liberal
+  religious_policy = secularized
+  trade_policy = free_trade
+  war_policy = pacifism
+  start_date = 1836.1.1
+  end_date = 1948.1.1
 }
 party = {
-		name = "Somali National League"
-		citizenship_policy = full_citizenship
-		economic_policy = laissez_faire
-		ideology = liberal
-		religious_policy = secularized
-		trade_policy = free_trade
-		war_policy = pacifism
-		start_date = 1848.1.1
-		end_date = 1969.10.21
+  name = "Somali National League"
+  citizenship_policy = full_citizenship
+  economic_policy = laissez_faire
+  ideology = liberal
+  religious_policy = secularized
+  trade_policy = free_trade
+  war_policy = pacifism
+  start_date = 1848.1.1
+  end_date = 1969.10.21
 }
 party = {
-		name = "Liberal Party"
-		citizenship_policy = full_citizenship
-		economic_policy = laissez_faire
-		ideology = liberal
-		religious_policy = secularized
-		trade_policy = free_trade
-		war_policy = pacifism
-		start_date = 1969.10.21
-		end_date = 2001.6.1
+  name = "Liberal Party"
+  citizenship_policy = full_citizenship
+  economic_policy = laissez_faire
+  ideology = liberal
+  religious_policy = secularized
+  trade_policy = free_trade
+  war_policy = pacifism
+  start_date = 1969.10.21
+  end_date = 2001.6.1
 }
 party = {
-		name = "United Peoples' Democratic Party"
-		citizenship_policy = full_citizenship
-		economic_policy = laissez_faire
-		ideology = liberal
-		religious_policy = secularized
-		trade_policy = free_trade
-		war_policy = pacifism
-		start_date = 2001.6.1
-		end_date = 2011.1.1
+  name = "United Peoples' Democratic Party"
+  citizenship_policy = full_citizenship
+  economic_policy = laissez_faire
+  ideology = liberal
+  religious_policy = secularized
+  trade_policy = free_trade
+  war_policy = pacifism
+  start_date = 2001.6.1
+  end_date = 2011.1.1
 }
 party = {
-		name = "Waddani"
-		citizenship_policy = full_citizenship
-		economic_policy = laissez_faire
-		ideology = liberal
-		religious_policy = secularized
-		trade_policy = free_trade
-		war_policy = pacifism
-		start_date = 2012.1.1
-		end_date = 2300.1.1
+  name = "Waddani"
+  citizenship_policy = full_citizenship
+  economic_policy = laissez_faire
+  ideology = liberal
+  religious_policy = secularized
+  trade_policy = free_trade
+  war_policy = pacifism
+  start_date = 2012.1.1
+  end_date = 2300.1.1
 }
 party = {
-		name = "Somali National Movement (Pro-Egal Faction)"
-		citizenship_policy = full_citizenship
-		economic_policy = laissez_faire
-		ideology = liberal
-		religious_policy = secularized
-		trade_policy = free_trade
-		war_policy = pacifism
-		start_date = 1991.1.5
-		end_date = 1996.1.1
+  name = "Somali National Movement (Pro-Egal Faction)"
+  citizenship_policy = full_citizenship
+  economic_policy = laissez_faire
+  ideology = liberal
+  religious_policy = secularized
+  trade_policy = free_trade
+  war_policy = pacifism
+  start_date = 1991.1.5
+  end_date = 1996.1.1
 }
 party = {
-		name = "Socialist Party"
-		citizenship_policy = limited_citizenship
-		economic_policy = state_capitalism
-		ideology = socialist
-		religious_policy = pro_atheism
-		trade_policy = protectionism
-		war_policy = pacifism
-		start_date = 1836.1.1
-		end_date = 2001.1.1
+  name = "Socialist Party"
+  citizenship_policy = limited_citizenship
+  economic_policy = state_capitalism
+  ideology = socialist
+  religious_policy = pro_atheism
+  trade_policy = protectionism
+  war_policy = pacifism
+  start_date = 1836.1.1
+  end_date = 2001.1.1
 }
 party = {
-		name = "For Justice and Development Party"
-		citizenship_policy = limited_citizenship
-		economic_policy = state_capitalism
-		ideology = socialist
-		religious_policy = pro_atheism
-		trade_policy = protectionism
-		war_policy = pacifism
-		start_date = 2001.1.1
-		end_date = 2300.1.1
+  name = "For Justice and Development Party"
+  citizenship_policy = limited_citizenship
+  economic_policy = state_capitalism
+  ideology = socialist
+  religious_policy = pro_atheism
+  trade_policy = protectionism
+  war_policy = pacifism
+  start_date = 2001.1.1
+  end_date = 2300.1.1
 }
 party = {
-		name = "Peace, Unity, and Development Party"
-		citizenship_policy = limited_citizenship
-		economic_policy = state_capitalism
-		ideology = socialist
-		religious_policy = pro_atheism
-		trade_policy = protectionism
-		war_policy = pacifism
-		start_date = 2002.1.1
-		end_date = 2300.1.1
+  name = "Peace, Unity, and Development Party"
+  citizenship_policy = limited_citizenship
+  economic_policy = state_capitalism
+  ideology = socialist
+  religious_policy = pro_atheism
+  trade_policy = protectionism
+  war_policy = pacifism
+  start_date = 2002.1.1
+  end_date = 2300.1.1
 }
 party = {
-		name = "Progressive Party"
-		citizenship_policy = full_citizenship
-		economic_policy = interventionism
-		ideology = progressive
-		religious_policy = pro_atheism
-		trade_policy = protectionism
-		war_policy = pacifism
-		start_date = 1836.1.1
-		end_date = 2300.1.1
+  name = "Progressive Party"
+  citizenship_policy = full_citizenship
+  economic_policy = interventionism
+  ideology = progressive
+  religious_policy = pro_atheism
+  trade_policy = protectionism
+  war_policy = pacifism
+  start_date = 1836.1.1
+  end_date = 2300.1.1
 }
 party = {
-		name = "Populist Party"
-		citizenship_policy = residency
-		economic_policy = state_capitalism
-		ideology = populist
-		religious_policy = secularized
-		trade_policy = protectionism
-		war_policy = jingoism
-		start_date = 1836.1.1
-		end_date = 2300.1.1
+  name = "Populist Party"
+  citizenship_policy = residency
+  economic_policy = state_capitalism
+  ideology = populist
+  religious_policy = secularized
+  trade_policy = protectionism
+  war_policy = jingoism
+  start_date = 1836.1.1
+  end_date = 2300.1.1
 }
 party = {
-		name = "Traditionalist Party"
-		citizenship_policy = residency
-		economic_policy = state_capitalism
-		ideology = traditionalist
-		religious_policy = moralism
-		trade_policy = protectionism
-		war_policy = pro_military
-		start_date = 1836.1.1
-		end_date = 2300.1.1
+  name = "Traditionalist Party"
+  citizenship_policy = residency
+  economic_policy = state_capitalism
+  ideology = traditionalist
+  religious_policy = moralism
+  trade_policy = protectionism
+  war_policy = pro_military
+  start_date = 1836.1.1
+  end_date = 2300.1.1
 }
 party = {
-		name = "Communist Party"
-		citizenship_policy = full_citizenship
-		economic_policy = planned_economy
-		ideology = communist
-		religious_policy = pro_atheism
-		trade_policy = protectionism
-		war_policy = pacifism
-		start_date = 1836.1.1
-		end_date = 2300.1.1
+  name = "Communist Party"
+  citizenship_policy = full_citizenship
+  economic_policy = planned_economy
+  ideology = communist
+  religious_policy = pro_atheism
+  trade_policy = protectionism
+  war_policy = pacifism
+  start_date = 1836.1.1
+  end_date = 2300.1.1
 }
 party = {
-		name = "Somali Youth League"
-		citizenship_policy = full_citizenship
-		economic_policy = planned_economy
-		ideology = nationalist
-		religious_policy = secularized
-		trade_policy = protectionism
-		war_policy = pro_military
-		start_date = 1943.1.1
-		end_date = 1969.10.21
+  name = "Somali Youth League"
+  citizenship_policy = full_citizenship
+  economic_policy = planned_economy
+  ideology = nationalist
+  religious_policy = secularized
+  trade_policy = protectionism
+  war_policy = pro_military
+  start_date = 1943.1.1
+  end_date = 1969.10.21
 }
 party = {
-		name = "National United Front"
-		citizenship_policy = full_citizenship
-		economic_policy = planned_economy
-		ideology = nationalist
-		religious_policy = secularized
-		trade_policy = protectionism
-		war_policy = pro_military
-		start_date = 1959.1.1
-		end_date = 1969.10.21
+  name = "National United Front"
+  citizenship_policy = full_citizenship
+  economic_policy = planned_economy
+  ideology = nationalist
+  religious_policy = secularized
+  trade_policy = protectionism
+  war_policy = pro_military
+  start_date = 1959.1.1
+  end_date = 1969.10.21
 }
 party = {
-		name = "Somali National Movement"
-		citizenship_policy = full_citizenship
-		economic_policy = planned_economy
-		ideology = nationalist
-		religious_policy = secularized
-		trade_policy = protectionism
-		war_policy = pro_military
-		start_date = 1981.4.1
-		end_date = 1991.5.1
+  name = "Somali National Movement"
+  citizenship_policy = full_citizenship
+  economic_policy = planned_economy
+  ideology = nationalist
+  religious_policy = secularized
+  trade_policy = protectionism
+  war_policy = pro_military
+  start_date = 1981.4.1
+  end_date = 1991.5.1
 }
 party = {
-		name = "Somali Nationalists"
-		citizenship_policy = full_citizenship
-		economic_policy = planned_economy
-		ideology = nationalist
-		religious_policy = secularized
-		trade_policy = protectionism
-		war_policy = pro_military
-		start_date = 1969.10.21
-		end_date = 1981.5.1
+  name = "Somali Nationalists"
+  citizenship_policy = full_citizenship
+  economic_policy = planned_economy
+  ideology = nationalist
+  religious_policy = secularized
+  trade_policy = protectionism
+  war_policy = pro_military
+  start_date = 1969.10.21
+  end_date = 1981.5.1
 }
 party = {
-		name = "Somali National Movement (Anti-Egal Faction)"
-		citizenship_policy = full_citizenship
-		economic_policy = planned_economy
-		ideology = nationalist
-		religious_policy = secularized
-		trade_policy = protectionism
-		war_policy = pro_military
-		start_date = 1991.1.5
-		end_date = 1996.1.1
+  name = "Somali National Movement (Anti-Egal Faction)"
+  citizenship_policy = full_citizenship
+  economic_policy = planned_economy
+  ideology = nationalist
+  religious_policy = secularized
+  trade_policy = protectionism
+  war_policy = pro_military
+  start_date = 1991.1.5
+  end_date = 1996.1.1
 }
 unit_names = {
-	transportship = {
-	}
-	modern_frigate = {
-		Alif Amin Anwar Ayham Bahir Dhakwan Falah Faraj Fawzan Ghanim Ghassan Hanbal Haris Hashim Iqbal Jal Junayd Kadar Kazim Khalis Khulus Luay Mashhur Muflih Mulham Munahid Nabhan Nawfal Nazim Numan Ramiz Sharaf Siddiq Tawfiq Yasir Zayn Zubayr
-	}
-	cruiser = {
-		"Abd al-Aziz" "Abd al-Hadi" "Abd al-Haqq" "Abd al-Jalil" "Abd al-Latif" "Abd al-Hafiz" "Abd al-Hakim" "Abd al-Nasir" "Abd al-Quddus" "Abd al-Rahim" "Abd al-Malik" "Abd al-Rashid" "Abd al-Rahman" "Abd al-Sami" "Abd al-Wadud" "Abd al-Wahhab"
-	}
-	modern_cruiser = {
-		"Muhammad Ali" Ibrahim Ismail Said "Salah al-Din" "Baybars Abu al-Futuh" "Qalawun al-Salihi" Barquq Barsbay Qaitbay "Qansuh al-Ghawri" "Al-Nil al-Kabir"
-	}
-	frigate = {
-		Akram Atif Ayman Bahir Fadil Fath Firas Fawwaz Ghalib Hakim Humam Jabbar Jawhar Kamal Khalid Masud Mamun Majid Mufid Mukhtar Muntasir Qudamat Rashad Sa'ad Tahir Thabit Wafiq Yusuf Zahir Zafir
-	}
-	modern_destroyer = {
-		"Ala al-Din" "Husam al-Din" "Izz al-Din" "Jalal al-Din" "Khayr al-Din" "Majid al-Din" "Nasir al-Din" "Nur al-Din" "Safi al-Din" "Siraj al-Din"
-	}
-	destroyer = {
-		"Al-Qahira" "Al-Iskandariyya" Dumyat Mansura Tanta "Al-Uqsur" "Al-Suyut" Aswan "Al-Fayyum" Khartum Qusayr Suways Minya
-	}
-	submarine = {
-		"Badr al-Din" "Diya al-Din" "Baha al-Din" "Imad al-Din" "Jamal al-Din" "Lutf al-Din" "Najm al-Din" "Sayf al-Din"
-	}
+  transportship = {
+  }
+  modern_frigate = {
+    Alif Amin Anwar Ayham Bahir Dhakwan Falah Faraj Fawzan Ghanim Ghassan Hanbal Haris Hashim Iqbal Jal Junayd Kadar Kazim Khalis Khulus Luay Mashhur Muflih Mulham Munahid Nabhan Nawfal Nazim Numan Ramiz Sharaf Siddiq Tawfiq Yasir Zayn Zubayr
+  }
+  cruiser = {
+    "Abd al-Aziz" "Abd al-Hadi" "Abd al-Haqq" "Abd al-Jalil" "Abd al-Latif" "Abd al-Hafiz" "Abd al-Hakim" "Abd al-Nasir" "Abd al-Quddus" "Abd al-Rahim" "Abd al-Malik" "Abd al-Rashid" "Abd al-Rahman" "Abd al-Sami" "Abd al-Wadud" "Abd al-Wahhab"
+  }
+  modern_cruiser = {
+    "Muhammad Ali" Ibrahim Ismail Said "Salah al-Din" "Baybars Abu al-Futuh" "Qalawun al-Salihi" Barquq Barsbay Qaitbay "Qansuh al-Ghawri" "Al-Nil al-Kabir"
+  }
+  frigate = {
+    Akram Atif Ayman Bahir Fadil Fath Firas Fawwaz Ghalib Hakim Humam Jabbar Jawhar Kamal Khalid Masud Mamun Majid Mufid Mukhtar Muntasir Qudamat Rashad Sa'ad Tahir Thabit Wafiq Yusuf Zahir Zafir
+  }
+  modern_destroyer = {
+    "Ala al-Din" "Husam al-Din" "Izz al-Din" "Jalal al-Din" "Khayr al-Din" "Majid al-Din" "Nasir al-Din" "Nur al-Din" "Safi al-Din" "Siraj al-Din"
+  }
+  destroyer = {
+    "Al-Qahira" "Al-Iskandariyya" Dumyat Mansura Tanta "Al-Uqsur" "Al-Suyut" Aswan "Al-Fayyum" Khartum Qusayr Suways Minya
+  }
+  submarine = {
+    "Badr al-Din" "Diya al-Din" "Baha al-Din" "Imad al-Din" "Jamal al-Din" "Lutf al-Din" "Najm al-Din" "Sayf al-Din"
+  }
 
 }

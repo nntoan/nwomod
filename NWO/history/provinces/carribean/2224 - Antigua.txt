@@ -6,9 +6,9 @@ life_rating = 39
 terrain = jungle_farmland
 colonial = 2
 1992.1.1 = {
-owner = AAB
-controller = AAB
-add_core = AAB
-railroad = 1
-colonial = 0
+  owner = AAB
+  controller = AAB
+  add_core = AAB
+  railroad = 1
+  colonial = 0
 }

@@ -1,327 +1,327 @@
 #Biloka - Biloka (112000/28000 POPS)
 1979 = {
-	clergymen = {
-		culture = anglo_african
-		religion =  protestant 
-		size = 498
-	 } 
-	clergymen = {
-		culture = anglo_african
-		religion = secularism
-		size = 61
-	 } 
-	farmers = {
-		culture = anglo_african
-		religion =  protestant 
-		size = 16696
-	 } 
-	farmers = {
-		culture = anglo_african
-		religion = secularism
-		size = 2063
-	 } 
-	farmers = {
-		culture = native_american_minor
-		religion =  catholic 
-		size = 7725
-	 } 
-	farmers = {
-		culture = native_american_minor
-		religion = secularism
-		size = 954
-	 } 
+  clergymen = {
+    culture = anglo_african
+    religion =  protestant
+    size = 498
+  }
+  clergymen = {
+    culture = anglo_african
+    religion = secularism
+    size = 61
+  }
+  farmers = {
+    culture = anglo_african
+    religion =  protestant
+    size = 16696
+  }
+  farmers = {
+    culture = anglo_african
+    religion = secularism
+    size = 2063
+  }
+  farmers = {
+    culture = native_american_minor
+    religion =  catholic
+    size = 7725
+  }
+  farmers = {
+    culture = native_american_minor
+    religion = secularism
+    size = 954
+  }
 }
 #Georgetown - Georgetown (529000/132250 POPS)
 2239 = {
-	capitalists = {
-		culture = british
-		religion =  protestant 
-		size = 588
-	 } 
-	capitalists = {
-		culture = british
-		religion = secularism
-		size = 72
-	 } 
-	officers = {
-		culture = anglo_african
-		religion =  protestant 
-		size = 48
-	 } 
-	officers = {
-		culture = anglo_african
-		religion = secularism
-		size = 5
-	 } 
-	soldiers = {
-		culture = anglo_african
-		religion =  protestant 
-		size = 922
-	 } 
-	soldiers = {
-		culture = anglo_african
-		religion = secularism
-		size = 114
-	 } 
-	aristocrats = {
-		culture = anglo_african
-		religion =  protestant 
-		size = 4708
-	 } 
-	aristocrats = {
-		culture = anglo_african
-		religion = secularism
-		size = 581
-	 } 
-	bureaucrats = {
-		culture = anglo_african
-		religion =  protestant 
-		size = 117
-	 } 
-	bureaucrats = {
-		culture = anglo_african
-		religion = secularism
-		size = 14
-	 } 
-	clergymen = {
-		culture = anglo_african
-		religion =  protestant 
-		size = 2354
-	 } 
-	clergymen = {
-		culture = anglo_african
-		religion = secularism
-		size = 290
-	 } 
-	clerks = {
-		culture = anglo_african
-		religion =  protestant 
-		size = 1237
-	 } 
-	clerks = {
-		culture = anglo_african
-		religion = secularism
-		size = 153
-	 } 
-	artisans = {
-		culture = anglo_african
-		religion =  protestant 
-		size = 1176
-	 } 
-	artisans = {
-		culture = anglo_african
-		religion = secularism
-		size = 145
-	 } 
-	craftsmen = {
-		culture = anglo_african
-		religion =  protestant 
-		size = 3714
-	 } 
-	craftsmen = {
-		culture = anglo_african
-		religion = secularism
-		size = 459
-	 } 
-	farmers = {
-		culture = anglo_african
-		religion =  protestant 
-		size = 1020
-	 } 
-	farmers = {
-		culture = anglo_african
-		religion = secularism
-		size = 126
-	 } 
-	farmers = {
-		culture = british
-		religion =  protestant 
-		size = 588
-	 } 
-	farmers = {
-		culture = british
-		religion = secularism
-		size = 72
-	 } 
-	farmers = {
-		culture = indian
-		religion =  hindu 
-		size = 52965
-	 } 
-	farmers = {
-		culture = indian
-		religion = secularism
-		size = 6546
-	 } 
-	farmers = {
-		culture = brazilian
-		religion =  catholic 
-		size = 36487
-	 } 
-	farmers = {
-		culture = brazilian
-		religion = secularism
-		size = 4509
-	 } 
-	farmers = {
-		culture = indian_muslim
-		religion =  sunni 
-		size = 13225
-	 } 
+  capitalists = {
+    culture = british
+    religion =  protestant
+    size = 588
+  }
+  capitalists = {
+    culture = british
+    religion = secularism
+    size = 72
+  }
+  officers = {
+    culture = anglo_african
+    religion =  protestant
+    size = 48
+  }
+  officers = {
+    culture = anglo_african
+    religion = secularism
+    size = 5
+  }
+  soldiers = {
+    culture = anglo_african
+    religion =  protestant
+    size = 922
+  }
+  soldiers = {
+    culture = anglo_african
+    religion = secularism
+    size = 114
+  }
+  aristocrats = {
+    culture = anglo_african
+    religion =  protestant
+    size = 4708
+  }
+  aristocrats = {
+    culture = anglo_african
+    religion = secularism
+    size = 581
+  }
+  bureaucrats = {
+    culture = anglo_african
+    religion =  protestant
+    size = 117
+  }
+  bureaucrats = {
+    culture = anglo_african
+    religion = secularism
+    size = 14
+  }
+  clergymen = {
+    culture = anglo_african
+    religion =  protestant
+    size = 2354
+  }
+  clergymen = {
+    culture = anglo_african
+    religion = secularism
+    size = 290
+  }
+  clerks = {
+    culture = anglo_african
+    religion =  protestant
+    size = 1237
+  }
+  clerks = {
+    culture = anglo_african
+    religion = secularism
+    size = 153
+  }
+  artisans = {
+    culture = anglo_african
+    religion =  protestant
+    size = 1176
+  }
+  artisans = {
+    culture = anglo_african
+    religion = secularism
+    size = 145
+  }
+  craftsmen = {
+    culture = anglo_african
+    religion =  protestant
+    size = 3714
+  }
+  craftsmen = {
+    culture = anglo_african
+    religion = secularism
+    size = 459
+  }
+  farmers = {
+    culture = anglo_african
+    religion =  protestant
+    size = 1020
+  }
+  farmers = {
+    culture = anglo_african
+    religion = secularism
+    size = 126
+  }
+  farmers = {
+    culture = british
+    religion =  protestant
+    size = 588
+  }
+  farmers = {
+    culture = british
+    religion = secularism
+    size = 72
+  }
+  farmers = {
+    culture = indian
+    religion =  hindu
+    size = 52965
+  }
+  farmers = {
+    culture = indian
+    religion = secularism
+    size = 6546
+  }
+  farmers = {
+    culture = brazilian
+    religion =  catholic
+    size = 36487
+  }
+  farmers = {
+    culture = brazilian
+    religion = secularism
+    size = 4509
+  }
+  farmers = {
+    culture = indian_muslim
+    religion =  sunni
+    size = 13225
+  }
 }
 #Mahdia - Mahdia (55000/13750 POPS)
 2242 = {
-	clergymen = {
-		culture = anglo_african
-		religion =  protestant 
-		size = 244
-	 } 
-	clergymen = {
-		culture = anglo_african
-		religion = secularism
-		size = 30
-	 } 
-	farmers = {
-		culture = anglo_african
-		religion =  protestant 
-		size = 4405
-	 } 
-	farmers = {
-		culture = anglo_african
-		religion = secularism
-		size = 544
-	 } 
-	farmers = {
-		culture = native_american_minor
-		religion =  catholic 
-		size = 7587
-	 } 
-	farmers = {
-		culture = native_american_minor
-		religion = secularism
-		size = 937
-	 } 
+  clergymen = {
+    culture = anglo_african
+    religion =  protestant
+    size = 244
+  }
+  clergymen = {
+    culture = anglo_african
+    religion = secularism
+    size = 30
+  }
+  farmers = {
+    culture = anglo_african
+    religion =  protestant
+    size = 4405
+  }
+  farmers = {
+    culture = anglo_african
+    religion = secularism
+    size = 544
+  }
+  farmers = {
+    culture = native_american_minor
+    religion =  catholic
+    size = 7587
+  }
+  farmers = {
+    culture = native_american_minor
+    religion = secularism
+    size = 937
+  }
 }
 #Essequibo - Essequibo (74000/18500 POPS)
 2243 = {
-	officers = {
-		culture = anglo_african
-		religion =  protestant 
-		size = 8
-	 } 
-	officers = {
-		culture = anglo_african
-		religion = secularism
-		size = 1
-	 } 
-	soldiers = {
-		culture = anglo_african
-		religion =  protestant 
-		size = 185
-	 } 
-	soldiers = {
-		culture = anglo_african
-		religion = secularism
-		size = 22
-	 } 
-	aristocrats = {
-		culture = anglo_african
-		religion =  protestant 
-		size = 658
-	 } 
-	aristocrats = {
-		culture = anglo_african
-		religion = secularism
-		size = 81
-	 } 
-	bureaucrats = {
-		culture = anglo_african
-		religion =  protestant 
-		size = 16
-	 } 
-	bureaucrats = {
-		culture = anglo_african
-		religion = secularism
-		size = 1
-	 } 
-	capitalists = {
-		culture = anglo_african
-		religion =  protestant 
-		size = 81
-	 } 
-	capitalists = {
-		culture = anglo_african
-		religion = secularism
-		size = 10
-	 } 
-	clergymen = {
-		culture = anglo_african
-		religion =  protestant 
-		size = 329
-	 } 
-	clergymen = {
-		culture = anglo_african
-		religion = secularism
-		size = 40
-	 } 
-	clerks = {
-		culture = anglo_african
-		religion =  protestant 
-		size = 172
-	 } 
-	clerks = {
-		culture = anglo_african
-		religion = secularism
-		size = 21
-	 } 
-	artisans = {
-		culture = anglo_african
-		religion =  protestant 
-		size = 163
-	 } 
-	artisans = {
-		culture = anglo_african
-		religion = secularism
-		size = 20
-	 } 
-	craftsmen = {
-		culture = anglo_african
-		religion =  protestant 
-		size = 517
-	 } 
-	craftsmen = {
-		culture = anglo_african
-		religion = secularism
-		size = 64
-	 } 
-	farmers = {
-		culture = anglo_african
-		religion =  protestant 
-		size = 10543
-	 } 
-	farmers = {
-		culture = anglo_african
-		religion = secularism
-		size = 1303
-	 } 
-	farmers = {
-		culture = indian
-		religion =  hindu 
-		size = 823
-	 } 
-	farmers = {
-		culture = indian
-		religion = secularism
-		size = 101
-	 } 
-	farmers = {
-		culture = brazilian
-		religion =  catholic 
-		size = 2963
-	 } 
-	farmers = {
-		culture = brazilian
-		religion = secularism
-		size = 366
-	 } 
+  officers = {
+    culture = anglo_african
+    religion =  protestant
+    size = 8
+  }
+  officers = {
+    culture = anglo_african
+    religion = secularism
+    size = 1
+  }
+  soldiers = {
+    culture = anglo_african
+    religion =  protestant
+    size = 185
+  }
+  soldiers = {
+    culture = anglo_african
+    religion = secularism
+    size = 22
+  }
+  aristocrats = {
+    culture = anglo_african
+    religion =  protestant
+    size = 658
+  }
+  aristocrats = {
+    culture = anglo_african
+    religion = secularism
+    size = 81
+  }
+  bureaucrats = {
+    culture = anglo_african
+    religion =  protestant
+    size = 16
+  }
+  bureaucrats = {
+    culture = anglo_african
+    religion = secularism
+    size = 1
+  }
+  capitalists = {
+    culture = anglo_african
+    religion =  protestant
+    size = 81
+  }
+  capitalists = {
+    culture = anglo_african
+    religion = secularism
+    size = 10
+  }
+  clergymen = {
+    culture = anglo_african
+    religion =  protestant
+    size = 329
+  }
+  clergymen = {
+    culture = anglo_african
+    religion = secularism
+    size = 40
+  }
+  clerks = {
+    culture = anglo_african
+    religion =  protestant
+    size = 172
+  }
+  clerks = {
+    culture = anglo_african
+    religion = secularism
+    size = 21
+  }
+  artisans = {
+    culture = anglo_african
+    religion =  protestant
+    size = 163
+  }
+  artisans = {
+    culture = anglo_african
+    religion = secularism
+    size = 20
+  }
+  craftsmen = {
+    culture = anglo_african
+    religion =  protestant
+    size = 517
+  }
+  craftsmen = {
+    culture = anglo_african
+    religion = secularism
+    size = 64
+  }
+  farmers = {
+    culture = anglo_african
+    religion =  protestant
+    size = 10543
+  }
+  farmers = {
+    culture = anglo_african
+    religion = secularism
+    size = 1303
+  }
+  farmers = {
+    culture = indian
+    religion =  hindu
+    size = 823
+  }
+  farmers = {
+    culture = indian
+    religion = secularism
+    size = 101
+  }
+  farmers = {
+    culture = brazilian
+    religion =  catholic
+    size = 2963
+  }
+  farmers = {
+    culture = brazilian
+    religion = secularism
+    size = 366
+  }
 }

@@ -7,25 +7,25 @@ life_rating = 38
 terrain = urban_karachi
 colonial = 2
 1992.1.1 = {
-owner = PAK
-controller = PAK
-add_core = PAK
-add_core = SIN
-colonial = 0
-naval_base = 1
-state_building = {
-	level = 1
-	building = fabric_factory
-	upgrade = yes
-}
-state_building = {
-	level = 1
-	building = wool_fabric_factory
-	upgrade = yes
-}
-state_building = {
-	level = 1
-	building = clothes_factory
-	upgrade = yes
-}
+  owner = PAK
+  controller = PAK
+  add_core = PAK
+  add_core = SIN
+  colonial = 0
+  naval_base = 1
+  state_building = {
+    level = 1
+    building = fabric_factory
+    upgrade = yes
+  }
+  state_building = {
+    level = 1
+    building = wool_fabric_factory
+    upgrade = yes
+  }
+  state_building = {
+    level = 1
+    building = clothes_factory
+    upgrade = yes
+  }
 }

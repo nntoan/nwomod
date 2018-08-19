@@ -1,113 +1,113 @@
 #Kigali - Kigali (6998000/1749500 POPS)
 2034 = {
-	officers = {
-		culture = hutu
-		religion =  catholic 
-		size = 518
-	 } 
-	officers = {
-		culture = hutu
-		religion = secularism
-		size = 27
-	 } 
-	soldiers = {
-		culture = hutu
-		religion =  catholic 
-		size = 9869
-	 } 
-	soldiers = {
-		culture = hutu
-		religion = secularism
-		size = 519
-	 } 
-	aristocrats = {
-		culture = hutu
-		religion =  catholic 
-		size = 66481
-	 } 
-	aristocrats = {
-		culture = hutu
-		religion = secularism
-		size = 3499
-	 } 
-	bureaucrats = {
-		culture = hutu
-		religion =  catholic 
-		size = 1661
-	 } 
-	bureaucrats = {
-		culture = hutu
-		religion = secularism
-		size = 87
-	 } 
-	capitalists = {
-		culture = hutu
-		religion =  catholic 
-		size = 8309
-	 } 
-	capitalists = {
-		culture = hutu
-		religion = secularism
-		size = 437
-	 } 
-	clergymen = {
-		culture = hutu
-		religion =  catholic 
-		size = 33240
-	 } 
-	clergymen = {
-		culture = hutu
-		religion = secularism
-		size = 1749
-	 } 
-	clerks = {
-		culture = hutu
-		religion =  catholic 
-		size = 11785
-	 } 
-	clerks = {
-		culture = hutu
-		religion = secularism
-		size = 620
-	 } 
-	artisans = {
-		culture = hutu
-		religion =  catholic 
-		size = 11195
-	 } 
-	artisans = {
-		culture = hutu
-		religion = secularism
-		size = 589
-	 } 
-	craftsmen = {
-		culture = hutu
-		religion =  catholic 
-		size = 35357
-	 } 
-	craftsmen = {
-		culture = hutu
-		religion = secularism
-		size = 1860
-	 } 
-	farmers = {
-		culture = hutu
-		religion =  catholic 
-		size = 1217681
-	 } 
-	farmers = {
-		culture = hutu
-		religion = secularism
-		size = 64088
-	 } 
-	farmers = {
-		culture = tutsi
-		religion =  catholic 
-		size = 265924
-	 } 
-	farmers = {
-		culture = tutsi
-		religion = secularism
-		size = 13996
-	 } 
+  officers = {
+    culture = hutu
+    religion =  catholic
+    size = 518
+  }
+  officers = {
+    culture = hutu
+    religion = secularism
+    size = 27
+  }
+  soldiers = {
+    culture = hutu
+    religion =  catholic
+    size = 9869
+  }
+  soldiers = {
+    culture = hutu
+    religion = secularism
+    size = 519
+  }
+  aristocrats = {
+    culture = hutu
+    religion =  catholic
+    size = 66481
+  }
+  aristocrats = {
+    culture = hutu
+    religion = secularism
+    size = 3499
+  }
+  bureaucrats = {
+    culture = hutu
+    religion =  catholic
+    size = 1661
+  }
+  bureaucrats = {
+    culture = hutu
+    religion = secularism
+    size = 87
+  }
+  capitalists = {
+    culture = hutu
+    religion =  catholic
+    size = 8309
+  }
+  capitalists = {
+    culture = hutu
+    religion = secularism
+    size = 437
+  }
+  clergymen = {
+    culture = hutu
+    religion =  catholic
+    size = 33240
+  }
+  clergymen = {
+    culture = hutu
+    religion = secularism
+    size = 1749
+  }
+  clerks = {
+    culture = hutu
+    religion =  catholic
+    size = 11785
+  }
+  clerks = {
+    culture = hutu
+    religion = secularism
+    size = 620
+  }
+  artisans = {
+    culture = hutu
+    religion =  catholic
+    size = 11195
+  }
+  artisans = {
+    culture = hutu
+    religion = secularism
+    size = 589
+  }
+  craftsmen = {
+    culture = hutu
+    religion =  catholic
+    size = 35357
+  }
+  craftsmen = {
+    culture = hutu
+    religion = secularism
+    size = 1860
+  }
+  farmers = {
+    culture = hutu
+    religion =  catholic
+    size = 1217681
+  }
+  farmers = {
+    culture = hutu
+    religion = secularism
+    size = 64088
+  }
+  farmers = {
+    culture = tutsi
+    religion =  catholic
+    size = 265924
+  }
+  farmers = {
+    culture = tutsi
+    religion = secularism
+    size = 13996
+  }
 }

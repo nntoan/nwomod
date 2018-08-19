@@ -7,7 +7,7 @@ country_event = {
 
   trigger = {
     tag = NKO
-	government = proletarian_dictatorship
+    government = proletarian_dictatorship
     year = 1970 NOT = { year = 1980 }
     NOT = { alliance_with = SUN alliance_with  = CHI }
   }
@@ -16,7 +16,7 @@ country_event = {
 
   option = {
     name = EVT_8011903_A
-	add_country_modifier = { name = may_day duration = 3500 }
+    add_country_modifier = { name = may_day duration = 3500 }
   }
 }
 country_event = {
@@ -28,16 +28,16 @@ country_event = {
 
   trigger = {
     tag = NKO
-	government = proletarian_dictatorship
-    year = 1994 
+    government = proletarian_dictatorship
+    year = 1994
   }
 
   mean_time_to_happen = { months = 6 }
 
   option = {
     name = EVT_8011904_A
-	any_pop = { consciousness = -2.0 }
-	add_country_modifier = { name = famine duration = 3500 }
+    any_pop = { consciousness = -2.0 }
+    add_country_modifier = { name = famine duration = 3500 }
   }
 }
 country_event = {
@@ -50,14 +50,14 @@ country_event = {
   trigger = {
     OR = { tag = KOR tag = SKO }
     year = 1960 NOT = { year = 1990 }
-	government = democracy
+    government = democracy
   }
 
   mean_time_to_happen = { months = 2 }
 
   option = {
     name = EVT_8008106_A
-	any_pop = { militancy = 1.0  consciousness = 2 }
+    any_pop = { militancy = 1.0  consciousness = 2 }
   }
 }
 country_event = {
@@ -77,8 +77,8 @@ country_event = {
 
   option = {
     name = EVT_8008107_A
-	government = presidential_dictatorship country_event = 800050
-	ruling_party_ideology = conservative
+    government = presidential_dictatorship country_event = 800050
+    ruling_party_ideology = conservative
     define_general = { name = "Yun Bo-seon" personality = energetic background = no_background }
   }
 }
@@ -91,16 +91,16 @@ country_event = {
 
   trigger = {
     OR = { tag = KOR tag = SKO }
-	government = presidential_dictatorship
+    government = presidential_dictatorship
     year = 1974 NOT = { year = 1980 }
-	has_country_flag = fourth_republic
+    has_country_flag = fourth_republic
   }
 
   mean_time_to_happen = { months = 1  }
 
   option = {
     name = EVT_8008112_A
-	government = democracy country_event = 800054
+    government = democracy country_event = 800054
   }
 }
 country_event = {
@@ -113,14 +113,14 @@ country_event = {
   trigger = {
     OR = { tag = KOR tag = SKO }
     year = 1980 NOT = { year = 1982 }
-	government = democracy
+    government = democracy
   }
 
   mean_time_to_happen = { months = 1  }
 
   option = {
     name = EVT_8008113_A
-	government = presidential_dictatorship country_event = 800050
+    government = presidential_dictatorship country_event = 800050
   }
 }
 country_event = {
@@ -133,15 +133,15 @@ country_event = {
   trigger = {
     OR = { tag = KOR tag = SKO }
     year = 1972 NOT = { year = 1978 }
-	government = presidential_dictatorship
+    government = presidential_dictatorship
   }
 
   mean_time_to_happen = { months = 5 }
 
   option = {
     name = EVT_8008122_A
-	any_pop = { limit = { NOT = { pop_majority_ideology = conservative } } militancy = -1.0  consciousness = -2 }
-	set_country_flag = fourth_republic
+    any_pop = { limit = { NOT = { pop_majority_ideology = conservative } } militancy = -1.0  consciousness = -2 }
+    set_country_flag = fourth_republic
   }
 }
 country_event = {
@@ -154,15 +154,15 @@ country_event = {
   trigger = {
     OR = { tag = KOR tag = SKO }
     year = 1987 NOT = { year = 1990 }
-	government = presidential_dictatorship 
+    government = presidential_dictatorship
   }
 
   mean_time_to_happen = { months = 4 }
 
   option = {
     name = EVT_8008123_A
-	any_pop = { militancy = -1.0  consciousness = 1 }
-	government = democracy country_event = 800054
+    any_pop = { militancy = -1.0  consciousness = 1 }
+    government = democracy country_event = 800054
   }
 }
 
@@ -176,24 +176,24 @@ country_event = { # Choi Soon-sil gate
   trigger = {
     OR = { tag = KOR tag = SKO }
     year = 2016
-	government = democracy 
-	ruling_party_ideology = conservative
+    government = democracy
+    ruling_party_ideology = conservative
   }
 
   mean_time_to_happen = { months = 4 }
 
   option = {
     name = EVT_8008124_A
-	any_pop = { militancy = -1.0  consciousness = 0.1 }
-	any_pop = { limit = { pop_majority_ideology = conservative } ideology = {factor = 0.5 value = liberal } }
-	ai_chance = { factor = 0.95 }
+    any_pop = { militancy = -1.0  consciousness = 0.1 }
+    any_pop = { limit = { pop_majority_ideology = conservative } ideology = {factor = 0.5 value = liberal } }
+    ai_chance = { factor = 0.95 }
   }
 
   option = {
     name = EVT_8008124_B
-	any_pop = { militancy = 0.5  consciousness = 0.3 }
-	any_pop = { limit = { pop_majority_ideology = conservative } ideology = {factor = 0.5 value = liberal } } 
-	ai_chance = { factor = 0.05 }
+    any_pop = { militancy = 0.5  consciousness = 0.3 }
+    any_pop = { limit = { pop_majority_ideology = conservative } ideology = {factor = 0.5 value = liberal } }
+    ai_chance = { factor = 0.05 }
   }
-  
+
 }

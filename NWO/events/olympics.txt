@@ -9,43 +9,43 @@ country_event = { # Olympics Bid
 
   option = {
     name = EVT_16000_A
-	treasury = -10000
-	random_pop = { limit ={ type = capitalists } money = 10000 }
-	random_country = { # some one else over bid us
-		limit = { has_country_flag = olympic_bid has_global_flag = olympic_bid_10000 } 
-		clr_country_flag = olympic_bid
-	}
-	set_global_flag = olympic_bid_10000 
-	ai_chance = { factor = 100 }
+    treasury = -10000
+    random_pop = { limit ={ type = capitalists } money = 10000 }
+    random_country = { # some one else over bid us
+      limit = { has_country_flag = olympic_bid has_global_flag = olympic_bid_10000 }
+      clr_country_flag = olympic_bid
+    }
+    set_global_flag = olympic_bid_10000
+    ai_chance = { factor = 100 }
   }
 
   option = {
     name = EVT_16000_B
-	treasury = -20000
-	random_pop = { limit ={ type = capitalists } money = 20000 }
-	random_country = { # some one else over bid us
-		limit = { has_country_flag = olympic_bid has_global_flag = olympic_bid_20000 } 
-		clr_country_flag = olympic_bid
-	}
-	set_global_flag = olympic_bid_20000 
-	ai_chance = { factor = 0 }
+    treasury = -20000
+    random_pop = { limit ={ type = capitalists } money = 20000 }
+    random_country = { # some one else over bid us
+      limit = { has_country_flag = olympic_bid has_global_flag = olympic_bid_20000 }
+      clr_country_flag = olympic_bid
+    }
+    set_global_flag = olympic_bid_20000
+    ai_chance = { factor = 0 }
   }
 
-    option = {
+  option = {
     name = EVT_16000_C
-	set_country_flag = olympic_bid_100000
-	treasury = -100000
-	random_pop = { limit ={ type = capitalists } money = 20000 }
-	random_pop = { limit ={ type = capitalists } money = 20000 }
-	random_pop = { limit ={ type = capitalists } money = 20000 }
-	random_pop = { limit ={ type = capitalists } money = 20000 }
-	random_pop = { limit ={ type = capitalists } money = 20000 }
-	random_country = { # some one else over bid us
-		limit = { has_country_flag = olympic_bid has_global_flag = olympic_bid_20000 } 
-		clr_country_flag = olympic_bid
-	}
-	set_global_flag = olympic_bid_100000 
-	ai_chance = { factor = 0 }
+    set_country_flag = olympic_bid_100000
+    treasury = -100000
+    random_pop = { limit ={ type = capitalists } money = 20000 }
+    random_pop = { limit ={ type = capitalists } money = 20000 }
+    random_pop = { limit ={ type = capitalists } money = 20000 }
+    random_pop = { limit ={ type = capitalists } money = 20000 }
+    random_pop = { limit ={ type = capitalists } money = 20000 }
+    random_country = { # some one else over bid us
+      limit = { has_country_flag = olympic_bid has_global_flag = olympic_bid_20000 }
+      clr_country_flag = olympic_bid
+    }
+    set_global_flag = olympic_bid_100000
+    ai_chance = { factor = 0 }
   }
 
 }
@@ -59,43 +59,43 @@ country_event = { # Winter Olympics Bid
 
   option = {
     name = EVT_16000_A
-	treasury = -10000
-	random_pop = { limit ={ type = capitalists } money = 10000 }
-	random_country = { # some one else over bid us
-		limit = { has_country_flag = winter_olympics_bid has_global_flag = winter_olympic_bid_10000 } 
-		clr_country_flag = winter_olympics_bid
-	}
-	set_global_flag = winter_olympic_bid_10000 
-	ai_chance = { factor = 100 }
+    treasury = -10000
+    random_pop = { limit ={ type = capitalists } money = 10000 }
+    random_country = { # some one else over bid us
+      limit = { has_country_flag = winter_olympics_bid has_global_flag = winter_olympic_bid_10000 }
+      clr_country_flag = winter_olympics_bid
+    }
+    set_global_flag = winter_olympic_bid_10000
+    ai_chance = { factor = 100 }
   }
 
   option = {
     name = EVT_16000_B
-	treasury = -20000
-	random_pop = { limit ={ type = capitalists } money = 20000 }
-	random_country = { # some one else over bid us
-		limit = { has_country_flag = winter_olympics_bid has_global_flag = winter_olympic_bid_20000 } 
-		clr_country_flag = winter_olympics_bid
-	}
-	set_global_flag = winter_olympic_bid_20000 
-	ai_chance = { factor = 0 }
+    treasury = -20000
+    random_pop = { limit ={ type = capitalists } money = 20000 }
+    random_country = { # some one else over bid us
+      limit = { has_country_flag = winter_olympics_bid has_global_flag = winter_olympic_bid_20000 }
+      clr_country_flag = winter_olympics_bid
+    }
+    set_global_flag = winter_olympic_bid_20000
+    ai_chance = { factor = 0 }
   }
 
-    option = {
+  option = {
     name = EVT_16000_C
-	set_country_flag = olympic_bid_100000
-	treasury = -100000
-	random_pop = { limit ={ type = capitalists } money = 20000 }
-	random_pop = { limit ={ type = capitalists } money = 20000 }
-	random_pop = { limit ={ type = capitalists } money = 20000 }
-	random_pop = { limit ={ type = capitalists } money = 20000 }
-	random_pop = { limit ={ type = capitalists } money = 20000 }
-	random_country = { # some one else over bid us
-		limit = { has_country_flag = winter_olympics_bid has_global_flag = winter_olympic_bid_100000 } 
-		clr_country_flag = winter_olympics_bid
-	}
-	set_global_flag = winter_olympic_bid_100000 
-	ai_chance = { factor = 0 }
+    set_country_flag = olympic_bid_100000
+    treasury = -100000
+    random_pop = { limit ={ type = capitalists } money = 20000 }
+    random_pop = { limit ={ type = capitalists } money = 20000 }
+    random_pop = { limit ={ type = capitalists } money = 20000 }
+    random_pop = { limit ={ type = capitalists } money = 20000 }
+    random_pop = { limit ={ type = capitalists } money = 20000 }
+    random_country = { # some one else over bid us
+      limit = { has_country_flag = winter_olympics_bid has_global_flag = winter_olympic_bid_100000 }
+      clr_country_flag = winter_olympics_bid
+    }
+    set_global_flag = winter_olympic_bid_100000
+    ai_chance = { factor = 0 }
   }
 
 }
@@ -107,26 +107,26 @@ country_event = { # Olympics
   picture = "olympics"
 
   trigger = {
-	year = 1948
-	has_country_flag = olympics_bid
+    year = 1948
+    has_country_flag = olympics_bid
   }
-  
+
   mean_time_to_happen = {
-	months = 48
-	modifier = { factor = 0.15 NOT = { year = 1949 } } # first olympics after 1946 was 1948
+    months = 48
+    modifier = { factor = 0.15 NOT = { year = 1949 } } # first olympics after 1946 was 1948
   }
 
   immediate = {  }
-  
+
   option = {
     name = EVT_16002_A
-	set_country_flag = arranged_olympics_games
-	clr_country_flag = olympics_bid 
-	clr_global_flag = olympic_bid_10000 
-	clr_global_flag = olympic_bid_20000 
-	clr_global_flag = olympic_bid_100000		
-	any_pop = { militancy = -0.1 consciousness = 0.1 }
-	prestige = 20
+    set_country_flag = arranged_olympics_games
+    clr_country_flag = olympics_bid
+    clr_global_flag = olympic_bid_10000
+    clr_global_flag = olympic_bid_20000
+    clr_global_flag = olympic_bid_100000
+    any_pop = { militancy = -0.1 consciousness = 0.1 }
+    prestige = 20
   }
 
 }
@@ -138,26 +138,26 @@ country_event = { # Winter Olympics
   picture = "winter_olympics"
 
   trigger = {
-	year = 1948
-	exists = yes
-	has_country_flag = winter_olympics_bid
+    year = 1948
+    exists = yes
+    has_country_flag = winter_olympics_bid
   }
-  
+
   mean_time_to_happen = {
-	months = 48
-	modifier = { factor = 0.15 NOT = { year = 1949 } } # first olympics after 1946 was 1948
-	modifier = { factor = 0.5 year = 1992 NOT = { year = 1994 } } # 1992 winter and summer olympics aranged separat 2:nd year
+    months = 48
+    modifier = { factor = 0.15 NOT = { year = 1949 } } # first olympics after 1946 was 1948
+    modifier = { factor = 0.5 year = 1992 NOT = { year = 1994 } } # 1992 winter and summer olympics aranged separat 2:nd year
   }
-  
+
   option = {
     name = EVT_16002_A
-	set_country_flag = arranged_winter_olympics_games
-	clr_country_flag = winter_olympics_bid 
-	clr_global_flag = winter_olympic_bid_10000 
-	clr_global_flag = winter_olympic_bid_20000 
-	clr_global_flag = winter_olympic_bid_100000		
-	any_pop = { militancy = -0.1 consciousness = 0.1 }
-	prestige = 10
+    set_country_flag = arranged_winter_olympics_games
+    clr_country_flag = winter_olympics_bid
+    clr_global_flag = winter_olympic_bid_10000
+    clr_global_flag = winter_olympic_bid_20000
+    clr_global_flag = winter_olympic_bid_100000
+    any_pop = { militancy = -0.1 consciousness = 0.1 }
+    prestige = 10
   }
 
 }

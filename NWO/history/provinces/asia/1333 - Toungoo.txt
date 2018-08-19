@@ -7,9 +7,9 @@ life_rating = 33
 terrain = dry_forest_hills
 colonial = 2
 1992.1.1 = {
-owner = MMR
-controller = MMR
-add_core = MMR
-add_core = KAY
-colonial = 0
+  owner = MMR
+  controller = MMR
+  add_core = MMR
+  add_core = KAY
+  colonial = 0
 }

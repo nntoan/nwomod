@@ -1,497 +1,497 @@
 #Douala - Littoral (1708000/427000 POPS)
 1956 = {
-	clergymen = {
-		culture = french_african
-		religion =  catholic 
-		size = 8027
-	 } 
-	clergymen = {
-		culture = french_african
-		religion = secularism
-		size = 512
-	 } 
-	farmers = {
-		culture = french_african
-		religion =  catholic 
-		size = 313076
-	 } 
-	farmers = {
-		culture = french_african
-		religion = secularism
-		size = 19983
-	 } 
-	farmers = {
-		culture = african_minor
-		religion =  catholic 
-		size = 80276
-	 } 
-	farmers = {
-		culture = african_minor
-		religion = secularism
-		size = 5124
-	 } 
+  clergymen = {
+    culture = french_african
+    religion =  catholic
+    size = 8027
+  }
+  clergymen = {
+    culture = french_african
+    religion = secularism
+    size = 512
+  }
+  farmers = {
+    culture = french_african
+    religion =  catholic
+    size = 313076
+  }
+  farmers = {
+    culture = french_african
+    religion = secularism
+    size = 19983
+  }
+  farmers = {
+    culture = african_minor
+    religion =  catholic
+    size = 80276
+  }
+  farmers = {
+    culture = african_minor
+    religion = secularism
+    size = 5124
+  }
 }
 #Buea - Southwest (895000/223750 POPS)
 1957 = {
-	officers = {
-		culture = anglo_african
-		religion =  protestant 
-		size = 1886
-	 } 
-	officers = {
-		culture = anglo_african
-		religion = secularism
-		size = 120
-	 } 
-	soldiers = {
-		culture = anglo_african
-		religion =  protestant 
-		size = 35861
-	 } 
-	soldiers = {
-		culture = anglo_african
-		religion = secularism
-		size = 2289
-	 } 
-	aristocrats = {
-		culture = anglo_african
-		religion =  protestant 
-		size = 8413
-	 } 
-	aristocrats = {
-		culture = anglo_african
-		religion = secularism
-		size = 537
-	 } 
-	bureaucrats = {
-		culture = anglo_african
-		religion =  protestant 
-		size = 209
-	 } 
-	bureaucrats = {
-		culture = anglo_african
-		religion = secularism
-		size = 13
-	 } 
-	capitalists = {
-		culture = anglo_african
-		religion =  protestant 
-		size = 1050
-	 } 
-	capitalists = {
-		culture = anglo_african
-		religion = secularism
-		size = 67
-	 } 
-	clergymen = {
-		culture = anglo_african
-		religion =  protestant 
-		size = 4206
-	 } 
-	clergymen = {
-		culture = anglo_african
-		religion = secularism
-		size = 268
-	 } 
-	clerks = {
-		culture = anglo_african
-		religion =  protestant 
-		size = 3358
-	 } 
-	clerks = {
-		culture = anglo_african
-		religion = secularism
-		size = 214
-	 } 
-	artisans = {
-		culture = anglo_african
-		religion =  protestant 
-		size = 3190
-	 } 
-	artisans = {
-		culture = anglo_african
-		religion = secularism
-		size = 203
-	 } 
-	craftsmen = {
-		culture = anglo_african
-		religion =  protestant 
-		size = 10076
-	 } 
-	craftsmen = {
-		culture = anglo_african
-		religion = secularism
-		size = 643
-	 } 
-	farmers = {
-		culture = anglo_african
-		religion =  protestant 
-		size = 100006
-	 } 
-	farmers = {
-		culture = anglo_african
-		religion = secularism
-		size = 6383
-	 } 
-	farmers = {
-		culture = african_minor
-		religion =  catholic 
-		size = 42065
-	 } 
-	farmers = {
-		culture = african_minor
-		religion = secularism
-		size = 2685
-	 } 
+  officers = {
+    culture = anglo_african
+    religion =  protestant
+    size = 1886
+  }
+  officers = {
+    culture = anglo_african
+    religion = secularism
+    size = 120
+  }
+  soldiers = {
+    culture = anglo_african
+    religion =  protestant
+    size = 35861
+  }
+  soldiers = {
+    culture = anglo_african
+    religion = secularism
+    size = 2289
+  }
+  aristocrats = {
+    culture = anglo_african
+    religion =  protestant
+    size = 8413
+  }
+  aristocrats = {
+    culture = anglo_african
+    religion = secularism
+    size = 537
+  }
+  bureaucrats = {
+    culture = anglo_african
+    religion =  protestant
+    size = 209
+  }
+  bureaucrats = {
+    culture = anglo_african
+    religion = secularism
+    size = 13
+  }
+  capitalists = {
+    culture = anglo_african
+    religion =  protestant
+    size = 1050
+  }
+  capitalists = {
+    culture = anglo_african
+    religion = secularism
+    size = 67
+  }
+  clergymen = {
+    culture = anglo_african
+    religion =  protestant
+    size = 4206
+  }
+  clergymen = {
+    culture = anglo_african
+    religion = secularism
+    size = 268
+  }
+  clerks = {
+    culture = anglo_african
+    religion =  protestant
+    size = 3358
+  }
+  clerks = {
+    culture = anglo_african
+    religion = secularism
+    size = 214
+  }
+  artisans = {
+    culture = anglo_african
+    religion =  protestant
+    size = 3190
+  }
+  artisans = {
+    culture = anglo_african
+    religion = secularism
+    size = 203
+  }
+  craftsmen = {
+    culture = anglo_african
+    religion =  protestant
+    size = 10076
+  }
+  craftsmen = {
+    culture = anglo_african
+    religion = secularism
+    size = 643
+  }
+  farmers = {
+    culture = anglo_african
+    religion =  protestant
+    size = 100006
+  }
+  farmers = {
+    culture = anglo_african
+    religion = secularism
+    size = 6383
+  }
+  farmers = {
+    culture = african_minor
+    religion =  catholic
+    size = 42065
+  }
+  farmers = {
+    culture = african_minor
+    religion = secularism
+    size = 2685
+  }
 }
 #Kribi - West (1170000/292500 POPS)
 1958 = {
-	clergymen = {
-		culture = french_african
-		religion =  catholic 
-		size = 5499
-	 } 
-	clergymen = {
-		culture = french_african
-		religion = secularism
-		size = 351
-	 } 
-	farmers = {
-		culture = french_african
-		religion =  catholic 
-		size = 49491
-	 } 
-	farmers = {
-		culture = french_african
-		religion = secularism
-		size = 3159
-	 } 
-	farmers = {
-		culture = african_minor
-		religion =  catholic 
-		size = 219960
-	 } 
-	farmers = {
-		culture = african_minor
-		religion = secularism
-		size = 14040
-	 } 
+  clergymen = {
+    culture = french_african
+    religion =  catholic
+    size = 5499
+  }
+  clergymen = {
+    culture = french_african
+    religion = secularism
+    size = 351
+  }
+  farmers = {
+    culture = french_african
+    religion =  catholic
+    size = 49491
+  }
+  farmers = {
+    culture = french_african
+    religion = secularism
+    size = 3159
+  }
+  farmers = {
+    culture = african_minor
+    religion =  catholic
+    size = 219960
+  }
+  farmers = {
+    culture = african_minor
+    religion = secularism
+    size = 14040
+  }
 }
 #Yaounde - South (431000/107750 POPS)
 1959 = {
-	officers = {
-		culture = french_african
-		religion =  catholic 
-		size = 3552
-	 } 
-	officers = {
-		culture = french_african
-		religion = secularism
-		size = 226
-	 } 
-	soldiers = {
-		culture = french_african
-		religion =  catholic 
-		size = 16704
-	 } 
-	soldiers = {
-		culture = french_african
-		religion = secularism
-		size = 1066
-	 } 
-	soldiers = {
-		culture = african_minor
-		religion =  catholic 
-		size = 50802
-	 } 
-	soldiers = {
-		culture = african_minor
-		religion = secularism
-		size = 3242
-	 } 
-	aristocrats = {
-		culture = african_minor
-		religion =  catholic 
-		size = 4051
-	 } 
-	aristocrats = {
-		culture = african_minor
-		religion = secularism
-		size = 258
-	 } 
-	bureaucrats = {
-		culture = african_minor
-		religion =  catholic 
-		size = 100
-	 } 
-	bureaucrats = {
-		culture = african_minor
-		religion = secularism
-		size = 6
-	 } 
-	capitalists = {
-		culture = african_minor
-		religion =  catholic 
-		size = 505
-	 } 
-	capitalists = {
-		culture = african_minor
-		religion = secularism
-		size = 32
-	 } 
-	clergymen = {
-		culture = african_minor
-		religion =  catholic 
-		size = 2025
-	 } 
-	clergymen = {
-		culture = african_minor
-		religion = secularism
-		size = 129
-	 } 
-	clerks = {
-		culture = african_minor
-		religion =  catholic 
-		size = 587
-	 } 
-	clerks = {
-		culture = african_minor
-		religion = secularism
-		size = 37
-	 } 
-	artisans = {
-		culture = african_minor
-		religion =  catholic 
-		size = 558
-	 } 
-	artisans = {
-		culture = african_minor
-		religion = secularism
-		size = 35
-	 } 
-	craftsmen = {
-		culture = african_minor
-		religion =  catholic 
-		size = 1764
-	 } 
-	craftsmen = {
-		culture = african_minor
-		religion = secularism
-		size = 112
-	 } 
-	farmers = {
-		culture = african_minor
-		religion =  catholic 
-		size = 20632
-	 } 
-	farmers = {
-		culture = african_minor
-		religion = secularism
-		size = 1316
-	 } 
+  officers = {
+    culture = french_african
+    religion =  catholic
+    size = 3552
+  }
+  officers = {
+    culture = french_african
+    religion = secularism
+    size = 226
+  }
+  soldiers = {
+    culture = french_african
+    religion =  catholic
+    size = 16704
+  }
+  soldiers = {
+    culture = french_african
+    religion = secularism
+    size = 1066
+  }
+  soldiers = {
+    culture = african_minor
+    religion =  catholic
+    size = 50802
+  }
+  soldiers = {
+    culture = african_minor
+    religion = secularism
+    size = 3242
+  }
+  aristocrats = {
+    culture = african_minor
+    religion =  catholic
+    size = 4051
+  }
+  aristocrats = {
+    culture = african_minor
+    religion = secularism
+    size = 258
+  }
+  bureaucrats = {
+    culture = african_minor
+    religion =  catholic
+    size = 100
+  }
+  bureaucrats = {
+    culture = african_minor
+    religion = secularism
+    size = 6
+  }
+  capitalists = {
+    culture = african_minor
+    religion =  catholic
+    size = 505
+  }
+  capitalists = {
+    culture = african_minor
+    religion = secularism
+    size = 32
+  }
+  clergymen = {
+    culture = african_minor
+    religion =  catholic
+    size = 2025
+  }
+  clergymen = {
+    culture = african_minor
+    religion = secularism
+    size = 129
+  }
+  clerks = {
+    culture = african_minor
+    religion =  catholic
+    size = 587
+  }
+  clerks = {
+    culture = african_minor
+    religion = secularism
+    size = 37
+  }
+  artisans = {
+    culture = african_minor
+    religion =  catholic
+    size = 558
+  }
+  artisans = {
+    culture = african_minor
+    religion = secularism
+    size = 35
+  }
+  craftsmen = {
+    culture = african_minor
+    religion =  catholic
+    size = 1764
+  }
+  craftsmen = {
+    culture = african_minor
+    religion = secularism
+    size = 112
+  }
+  farmers = {
+    culture = african_minor
+    religion =  catholic
+    size = 20632
+  }
+  farmers = {
+    culture = african_minor
+    religion = secularism
+    size = 1316
+  }
 }
 #Bafoussam - Center (2108000/527000 POPS)
 1960 = {
-	clergymen = {
-		culture = french_african
-		religion =  catholic 
-		size = 9907
-	 } 
-	clergymen = {
-		culture = french_african
-		religion = secularism
-		size = 632
-	 } 
-	farmers = {
-		culture = french_african
-		religion =  catholic 
-		size = 371535
-	 } 
-	farmers = {
-		culture = french_african
-		religion = secularism
-		size = 23715
-	 } 
-	farmers = {
-		culture = african_minor
-		religion =  catholic 
-		size = 113937
-	 } 
-	farmers = {
-		culture = african_minor
-		religion = secularism
-		size = 7272
-	 } 
+  clergymen = {
+    culture = french_african
+    religion =  catholic
+    size = 9907
+  }
+  clergymen = {
+    culture = french_african
+    religion = secularism
+    size = 632
+  }
+  farmers = {
+    culture = french_african
+    religion =  catholic
+    size = 371535
+  }
+  farmers = {
+    culture = french_african
+    religion = secularism
+    size = 23715
+  }
+  farmers = {
+    culture = african_minor
+    religion =  catholic
+    size = 113937
+  }
+  farmers = {
+    culture = african_minor
+    religion = secularism
+    size = 7272
+  }
 }
 #Bamenda - Northwest (1176000/294000 POPS)
 1961 = {
-	clergymen = {
-		culture = anglo_african
-		religion =  protestant 
-		size = 5527
-	 } 
-	clergymen = {
-		culture = anglo_african
-		religion = secularism
-		size = 352
-	 } 
-	farmers = {
-		culture = anglo_african
-		religion =  protestant 
-		size = 49744
-	 } 
-	farmers = {
-		culture = anglo_african
-		religion = secularism
-		size = 3175
-	 } 
-	farmers = {
-		culture = african_minor
-		religion =  catholic 
-		size = 221088
-	 } 
-	farmers = {
-		culture = african_minor
-		religion = secularism
-		size = 14112
-	 } 
+  clergymen = {
+    culture = anglo_african
+    religion =  protestant
+    size = 5527
+  }
+  clergymen = {
+    culture = anglo_african
+    religion = secularism
+    size = 352
+  }
+  farmers = {
+    culture = anglo_african
+    religion =  protestant
+    size = 49744
+  }
+  farmers = {
+    culture = anglo_african
+    religion = secularism
+    size = 3175
+  }
+  farmers = {
+    culture = african_minor
+    religion =  catholic
+    size = 221088
+  }
+  farmers = {
+    culture = african_minor
+    religion = secularism
+    size = 14112
+  }
 }
 #Bertoua - East (524000/131000 POPS)
 1962 = {
-	clergymen = {
-		culture = african_minor
-		religion =  catholic 
-		size = 2462
-	 } 
-	clergymen = {
-		culture = african_minor
-		religion = secularism
-		size = 157
-	 } 
-	farmers = {
-		culture = african_minor
-		religion =  catholic 
-		size = 120677
-	 } 
-	farmers = {
-		culture = african_minor
-		religion = secularism
-		size = 7702
-	 } 
+  clergymen = {
+    culture = african_minor
+    religion =  catholic
+    size = 2462
+  }
+  clergymen = {
+    culture = african_minor
+    religion = secularism
+    size = 157
+  }
+  farmers = {
+    culture = african_minor
+    religion =  catholic
+    size = 120677
+  }
+  farmers = {
+    culture = african_minor
+    religion = secularism
+    size = 7702
+  }
 }
 #Ngaoundere - Andamawa (601000/150250 POPS)
 1963 = {
-	officers = {
-		culture = black_muslim
-		religion =  sunni 
-		size = 5797
-	 } 
-	soldiers = {
-		culture = black_muslim
-		religion =  sunni 
-		size = 110158
-	 } 
-	aristocrats = {
-		culture = black_muslim
-		religion =  sunni 
-		size = 1240
-	 } 
-	aristocrats = {
-		culture = african_minor
-		religion =  catholic 
-		size = 4483
-	 } 
-	aristocrats = {
-		culture = african_minor
-		religion = secularism
-		size = 286
-	 } 
-	bureaucrats = {
-		culture = african_minor
-		religion =  catholic 
-		size = 141
-	 } 
-	bureaucrats = {
-		culture = african_minor
-		religion = secularism
-		size = 9
-	 } 
-	capitalists = {
-		culture = african_minor
-		religion =  catholic 
-		size = 705
-	 } 
-	capitalists = {
-		culture = african_minor
-		religion = secularism
-		size = 45
-	 } 
-	clergymen = {
-		culture = african_minor
-		religion =  catholic 
-		size = 2824
-	 } 
-	clergymen = {
-		culture = african_minor
-		religion = secularism
-		size = 180
-	 } 
-	clerks = {
-		culture = african_minor
-		religion =  catholic 
-		size = 626
-	 } 
-	clerks = {
-		culture = african_minor
-		religion = secularism
-		size = 40
-	 } 
-	artisans = {
-		culture = african_minor
-		religion =  catholic 
-		size = 595
-	 } 
-	artisans = {
-		culture = african_minor
-		religion = secularism
-		size = 38
-	 } 
-	craftsmen = {
-		culture = african_minor
-		religion =  catholic 
-		size = 1881
-	 } 
-	craftsmen = {
-		culture = african_minor
-		religion = secularism
-		size = 120
-	 } 
-	farmers = {
-		culture = african_minor
-		religion =  catholic 
-		size = 19811
-	 } 
-	farmers = {
-		culture = african_minor
-		religion = secularism
-		size = 1264
-	 } 
+  officers = {
+    culture = black_muslim
+    religion =  sunni
+    size = 5797
+  }
+  soldiers = {
+    culture = black_muslim
+    religion =  sunni
+    size = 110158
+  }
+  aristocrats = {
+    culture = black_muslim
+    religion =  sunni
+    size = 1240
+  }
+  aristocrats = {
+    culture = african_minor
+    religion =  catholic
+    size = 4483
+  }
+  aristocrats = {
+    culture = african_minor
+    religion = secularism
+    size = 286
+  }
+  bureaucrats = {
+    culture = african_minor
+    religion =  catholic
+    size = 141
+  }
+  bureaucrats = {
+    culture = african_minor
+    religion = secularism
+    size = 9
+  }
+  capitalists = {
+    culture = african_minor
+    religion =  catholic
+    size = 705
+  }
+  capitalists = {
+    culture = african_minor
+    religion = secularism
+    size = 45
+  }
+  clergymen = {
+    culture = african_minor
+    religion =  catholic
+    size = 2824
+  }
+  clergymen = {
+    culture = african_minor
+    religion = secularism
+    size = 180
+  }
+  clerks = {
+    culture = african_minor
+    religion =  catholic
+    size = 626
+  }
+  clerks = {
+    culture = african_minor
+    religion = secularism
+    size = 40
+  }
+  artisans = {
+    culture = african_minor
+    religion =  catholic
+    size = 595
+  }
+  artisans = {
+    culture = african_minor
+    religion = secularism
+    size = 38
+  }
+  craftsmen = {
+    culture = african_minor
+    religion =  catholic
+    size = 1881
+  }
+  craftsmen = {
+    culture = african_minor
+    religion = secularism
+    size = 120
+  }
+  farmers = {
+    culture = african_minor
+    religion =  catholic
+    size = 19811
+  }
+  farmers = {
+    culture = african_minor
+    religion = secularism
+    size = 1264
+  }
 }
 #Maroua - North, Far North (3265000/816250 POPS)
 1964 = {
-	clergymen = {
-		culture = fula
-		religion =  sunni 
-		size = 16325
-	 } 
-	farmers = {
-		culture = fula
-		religion =  sunni 
-		size = 391800
-	 } 
-	farmers = {
-		culture = black_muslim
-		religion =  sunni 
-		size = 408125
-	 } 
+  clergymen = {
+    culture = fula
+    religion =  sunni
+    size = 16325
+  }
+  farmers = {
+    culture = fula
+    religion =  sunni
+    size = 391800
+  }
+  farmers = {
+    culture = black_muslim
+    religion =  sunni
+    size = 408125
+  }
 }

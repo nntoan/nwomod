@@ -8,16 +8,16 @@ country_event = {
   trigger = {
     tag = BOL
     year = 1946
-	NOT = { year = 1947 }
-	government = democracy
+    NOT = { year = 1947 }
+    government = democracy
   }
 
   mean_time_to_happen = { months = 1 }
 
   option = {
     name = "OK"
-	government = presidential_dictatorship  country_event = 800050
-	define_general = { name = "Enrique Hertzog" personality = energetic background = no_background }
+    government = presidential_dictatorship  country_event = 800050
+    define_general = { name = "Enrique Hertzog" personality = energetic background = no_background }
   }
 }
 country_event = {
@@ -30,16 +30,16 @@ country_event = {
   trigger = {
     tag = BOL
     year = 1949
-	NOT = { year = 1950 }
-	government = presidential_dictatorship
+    NOT = { year = 1950 }
+    government = presidential_dictatorship
   }
 
   mean_time_to_happen = { months = 1 }
 
   option = {
     name = "OK"
-	government = democracy  country_event = 800054
-	election = yes
+    government = democracy  country_event = 800054
+    election = yes
   }
 }
 country_event = {
@@ -52,24 +52,24 @@ country_event = {
   trigger = {
     tag = BOL
     year = 1950
-	NOT = { year = 1951 }
+    NOT = { year = 1951 }
   }
 
   mean_time_to_happen = { months = 2 }
 
   option = {
     name = "EVT_8001804_A"
-	government = presidential_dictatorship  country_event = 800050
-	any_pop = { militancy = 1.0  consciousness = 2 }
-	define_general = { name = "Toro Ruilova" personality = energetic background = no_background }
-	random_state = { any_pop = { dominant_issue = { value = parties_allowed factor = 0.30 } } }
-	ai_chance = { factor = 100 }
+    government = presidential_dictatorship  country_event = 800050
+    any_pop = { militancy = 1.0  consciousness = 2 }
+    define_general = { name = "Toro Ruilova" personality = energetic background = no_background }
+    random_state = { any_pop = { dominant_issue = { value = parties_allowed factor = 0.30 } } }
+    ai_chance = { factor = 100 }
   }
 
   option = {
     name = "EVT_8001804_B"
-	ai_chance = { factor = 0 }
-	random_state = { any_pop = { dominant_issue = { value = planned_economy factor = 0.35 } } }
+    ai_chance = { factor = 0 }
+    random_state = { any_pop = { dominant_issue = { value = planned_economy factor = 0.35 } } }
   }
 }
 country_event = {
@@ -82,7 +82,7 @@ country_event = {
   trigger = {
     tag = BOL
     year = 1951
-	NOT = { year = 1955 }
+    NOT = { year = 1955 }
     NOT = { government = democracy }
   }
 
@@ -90,12 +90,12 @@ country_event = {
 
   option = {
     name = "EVT_8001805_A"
-	government = democracy  country_event = 800054
-	random_state = { any_pop = { dominant_issue = { value = parties_allowed factor = 0.01 } } }
-	random_state = { any_pop = { dominant_issue = { value = planned_economy factor = 0.05 } } }
-	any_pop = { militancy = -1.0  consciousness = -1 }
-	define_general = { name = "J.J. Torres" personality = energetic background = no_background }
-	random_state = { any_pop = { dominant_issue = { value = full_citizenship factor = 0.1 } } }
+    government = democracy  country_event = 800054
+    random_state = { any_pop = { dominant_issue = { value = parties_allowed factor = 0.01 } } }
+    random_state = { any_pop = { dominant_issue = { value = planned_economy factor = 0.05 } } }
+    any_pop = { militancy = -1.0  consciousness = -1 }
+    define_general = { name = "J.J. Torres" personality = energetic background = no_background }
+    random_state = { any_pop = { dominant_issue = { value = full_citizenship factor = 0.1 } } }
   }
 }
 country_event = {
@@ -108,7 +108,7 @@ country_event = {
   trigger = {
     tag = BOL
     year = 1970
-	NOT = { year = 1971 }
+    NOT = { year = 1971 }
     government = democracy
   }
 
@@ -128,7 +128,7 @@ country_event = {
   trigger = {
     tag = BOL
     year = 1971
-	NOT = { year = 1977 }
+    NOT = { year = 1977 }
     government = democracy
   }
 
@@ -136,9 +136,9 @@ country_event = {
 
   option = {
     name = EVT_8001813_A
-	any_pop = { militancy = 1.0  consciousness = 2 }
-	government = presidential_dictatorship  country_event = 800050
-	define_general = { name = "Hugo Banzer" personality = energetic background = no_background }
+    any_pop = { militancy = 1.0  consciousness = 2 }
+    government = presidential_dictatorship  country_event = 800050
+    define_general = { name = "Hugo Banzer" personality = energetic background = no_background }
   }
 }
 country_event = {
@@ -151,15 +151,15 @@ country_event = {
   trigger = {
     tag = BOL
     year = 1977
-	NOT = { year = 1978 }
-	government = presidential_dictatorship
+    NOT = { year = 1978 }
+    government = presidential_dictatorship
   }
 
   mean_time_to_happen = { months = 1 }
 
   option = {
     name = EVT_8001814_A
-	government = democracy  country_event = 800054
+    government = democracy  country_event = 800054
   }
 }
 country_event = {
@@ -172,8 +172,8 @@ country_event = {
   trigger = {
     tag = BOL
     year = 1978
-	NOT = { year = 1979 }
-	government = democracy
+    NOT = { year = 1979 }
+    government = democracy
   }
 
   mean_time_to_happen = { months = 1 }
@@ -182,7 +182,7 @@ country_event = {
     name = EVT_8001815_A
   }
 }
-country_event = { 
+country_event = {
   id = 8001816
   title = EVT_8001816_NAME
   desc = EVT_8001816_DESC
@@ -192,26 +192,26 @@ country_event = {
   trigger = {
     tag = BOL
     year = 1980
-	NOT = { year = 1981 }
-	government = democracy
+    NOT = { year = 1981 }
+    government = democracy
   }
 
   mean_time_to_happen = { months = 2 }
 
   option = {
     name = EVT_8001816_A
-	ai_chance = { factor = 0 }
+    ai_chance = { factor = 0 }
   }
 
   option = {
     name = EVT_8001816_B
-	government = presidential_dictatorship  country_event = 800050
-	any_pop = { militancy = 1.5  consciousness = 2 }
-	ai_chance = { factor = 100 }
+    government = presidential_dictatorship  country_event = 800050
+    any_pop = { militancy = 1.5  consciousness = 2 }
+    ai_chance = { factor = 100 }
   }
 }
 
-country_event = { 
+country_event = {
   id = 8001817
   title = EVT_8001817_NAME # 2008 unrest in Bolivia
   desc = EVT_8001817_DESC
@@ -221,20 +221,20 @@ country_event = {
   trigger = {
     tag = BOL
     year = 2008
-	government = democracy
+    government = democracy
   }
 
   mean_time_to_happen = { months = 2 }
 
   option = {
     name = EVT_8001817_A
-	release_vassal = MEL
-	ai_chance = { factor = 10 }
+    release_vassal = MEL
+    ai_chance = { factor = 10 }
   }
 
   option = {
     name = EVT_8001817_B
-	any_pop = { militancy = 0.5  consciousness = 0.2 }
-	ai_chance = { factor = 90 }
+    any_pop = { militancy = 0.5  consciousness = 0.2 }
+    ai_chance = { factor = 90 }
   }
 }

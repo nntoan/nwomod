@@ -6,8 +6,8 @@ life_rating = 36
 terrain = desert
 colonial = 2
 1992.1.1 = {
-owner = MAU
-controller = MAU
-add_core = MAU
-colonial = 0
+  owner = MAU
+  controller = MAU
+  add_core = MAU
+  colonial = 0
 }

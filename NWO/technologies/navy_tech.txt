@@ -1,1031 +1,1031 @@
 division_of_labor = {
-	area = "work_practices_tech"
-	year = 1850
-	cost = 400
+  area = "work_practices_tech"
+  year = 1850
+  cost = 400
 
-	activate_building = clothes_factory 
-	ai_chance = {
-		factor = 1
-	}
+  activate_building = clothes_factory
+  ai_chance = {
+    factor = 1
+  }
 }
 factory_system = {
-	area = "work_practices_tech"
-	year = 1870
-	cost = 2400
-	
-	factory_input = -0.01
-	factory_cost = -0.1 
-	ai_chance = {
-		factor = 1
-	}
+  area = "work_practices_tech"
+  year = 1870
+  cost = 2400
+
+  factory_input = -0.01
+  factory_cost = -0.1
+  ai_chance = {
+    factor = 1
+  }
 }
 interchangeable_parts = {
-	area = "work_practices_tech"
-	year = 1890
-	cost = 4400
+  area = "work_practices_tech"
+  year = 1890
+  cost = 4400
 
-	factory_input = -0.01
-	factory_cost = -0.1 
-	ai_chance = {
-		factor = 1
-	}
+  factory_input = -0.01
+  factory_cost = -0.1
+  ai_chance = {
+    factor = 1
+  }
 }
 scientific_management = {
-	area = "work_practices_tech"
-	year = 1890
-	cost = 4400
+  area = "work_practices_tech"
+  year = 1890
+  cost = 4400
 
-	factory_input = -0.01
-	factory_cost = -0.1 
-	ai_chance = {
-		factor = 1
-	}
+  factory_input = -0.01
+  factory_cost = -0.1
+  ai_chance = {
+    factor = 1
+  }
 }
 standardization = {
-	area = "work_practices_tech"
-	year = 1920
-	cost = 7400
+  area = "work_practices_tech"
+  year = 1920
+  cost = 7400
 
-	activate_building = luxury_clothes_factory 
-	ai_chance = {
-		factor = 1
-	}
+  activate_building = luxury_clothes_factory
+  ai_chance = {
+    factor = 1
+  }
 }
 fordism = {
-	area = "work_practices_tech"
-	year = 1930
-	cost = 8400
+  area = "work_practices_tech"
+  year = 1930
+  cost = 8400
 
-	factory_input = -0.01
-	factory_cost = -0.1 
-	ai_chance = {
-		factor = 1
-	}
+  factory_input = -0.01
+  factory_cost = -0.1
+  ai_chance = {
+    factor = 1
+  }
 }
 rationalized_factory_layout = {
-	area = "work_practices_tech"
-	year = 1940
-	cost = 9400
+  area = "work_practices_tech"
+  year = 1940
+  cost = 9400
 
-	factory_input = -0.01
-	factory_cost = -0.1 
-	ai_chance = {
-		factor = 1
-	}
+  factory_input = -0.01
+  factory_cost = -0.1
+  ai_chance = {
+    factor = 1
+  }
 }
 late_fordism = {
-	area = "work_practices_tech"
-	year = 1950
-	cost = 10400
+  area = "work_practices_tech"
+  year = 1950
+  cost = 10400
 
-	factory_input = -0.01
-	factory_cost = -0.1 
-	ai_chance = {
-		factor = 1
-	}
+  factory_input = -0.01
+  factory_cost = -0.1
+  ai_chance = {
+    factor = 1
+  }
 }
 continuous_production = {
-	area = "work_practices_tech"
-	year = 1960
-	cost = 11400
+  area = "work_practices_tech"
+  year = 1960
+  cost = 11400
 
-	factory_input = -0.01
-	factory_cost = -0.1 
-	ai_chance = {
-		factor = 1
-	}
+  factory_input = -0.01
+  factory_cost = -0.1
+  ai_chance = {
+    factor = 1
+  }
 }
 toyotism = {
-	area = "work_practices_tech"
-	year = 1970
-	cost = 12400
+  area = "work_practices_tech"
+  year = 1970
+  cost = 12400
 
-	factory_input = -0.01
-	factory_cost = -0.1 
-	ai_chance = {
-		factor = 1
-	}
+  factory_input = -0.01
+  factory_cost = -0.1
+  ai_chance = {
+    factor = 1
+  }
 }
 vanguard_method = {
-	area = "work_practices_tech"
-	year = 1970
-	cost = 12400
+  area = "work_practices_tech"
+  year = 1970
+  cost = 12400
 
-	factory_input = -0.01
-	factory_cost = -0.1 
-	ai_chance = {
-		factor = 1
-	}
+  factory_input = -0.01
+  factory_cost = -0.1
+  ai_chance = {
+    factor = 1
+  }
 }
 post_fordism = {
-	area = "work_practices_tech"
-	year = 1980
-	cost = 13400
+  area = "work_practices_tech"
+  year = 1980
+  cost = 13400
 
-	factory_input = -0.01
-	factory_cost = -0.1 
-	ai_chance = {
-		factor = 1
-	}
+  factory_input = -0.01
+  factory_cost = -0.1
+  ai_chance = {
+    factor = 1
+  }
 }
 lean_manufacturing = {
-	area = "work_practices_tech"
-	year = 1990
-	cost = 14400
+  area = "work_practices_tech"
+  year = 1990
+  cost = 14400
 
-	factory_input = -0.01
-	factory_cost = -0.1 
-	ai_chance = {
-		factor = 1
-	}
+  factory_input = -0.01
+  factory_cost = -0.1
+  ai_chance = {
+    factor = 1
+  }
 }
 offshore_software_development = {
-	area = "work_practices_tech"
-	year = 2000
-	cost = 15400
+  area = "work_practices_tech"
+  year = 2000
+  cost = 15400
 
-	factory_input = -0.01
-	factory_cost = -0.1 
-	ai_chance = {
-		factor = 1
-	}
+  factory_input = -0.01
+  factory_cost = -0.1
+  ai_chance = {
+    factor = 1
+  }
 }
 modern_workforce_management = {
-	area = "work_practices_tech"
-	year = 2010
-	cost = 16400
+  area = "work_practices_tech"
+  year = 2010
+  cost = 16400
 
-	factory_input = -0.01
-	factory_cost = -0.1 
-	ai_chance = {
-		factor = 1
-	}
+  factory_input = -0.01
+  factory_cost = -0.1
+  ai_chance = {
+    factor = 1
+  }
 }
 open_office = {
-	area = "work_practices_tech"
-	year = 2020
-	cost = 17400
+  area = "work_practices_tech"
+  year = 2020
+  cost = 17400
 
-	factory_input = -0.01
-	factory_cost = -0.1 
-	ai_chance = {
-		factor = 1
-	}
+  factory_input = -0.01
+  factory_cost = -0.1
+  ai_chance = {
+    factor = 1
+  }
 }
 robotization_industry = {
-	area = "work_practices_tech"
-	year = 2035
-	cost = 18900
+  area = "work_practices_tech"
+  year = 2035
+  cost = 18900
 
-	factory_input = -0.01
-	factory_cost = -0.1 
-	ai_chance = {
-		factor = 1
-	}
+  factory_input = -0.01
+  factory_cost = -0.1
+  ai_chance = {
+    factor = 1
+  }
 }
 survillance_units = {
-	area = "work_practices_tech"
-	year = 2050
-	cost = 20400
+  area = "work_practices_tech"
+  year = 2050
+  cost = 20400
 
-	factory_input = -0.01
-	factory_cost = -0.1 
-	ai_chance = {
-		factor = 1
-	}
+  factory_input = -0.01
+  factory_cost = -0.1
+  ai_chance = {
+    factor = 1
+  }
 }
 service_revolution = {
-	area = "work_practices_tech"
-	year = 2070
-	cost = 22400
+  area = "work_practices_tech"
+  year = 2070
+  cost = 22400
 
-	factory_input = -0.01
-	factory_cost = -0.1 
-	ai_chance = {
-		factor = 1
-	}
+  factory_input = -0.01
+  factory_cost = -0.1
+  ai_chance = {
+    factor = 1
+  }
 }
 deep_controll_center = {
-	area = "work_practices_tech"
-	year = 2100
-	cost = 25400
+  area = "work_practices_tech"
+  year = 2100
+  cost = 25400
 
-	factory_input = -0.01
-	factory_cost = -0.1 
-	ai_chance = {
-		factor = 1
-	}
+  factory_input = -0.01
+  factory_cost = -0.1
+  ai_chance = {
+    factor = 1
+  }
 }
 beaux_arts_architecture = {
-	area = "architecture_tech"
-	year = 1870
-	cost = 2400
+  area = "architecture_tech"
+  year = 1870
+  cost = 2400
 
-	prestige = 0.05
-	ai_chance = {
-		factor = 1
-	}
+  prestige = 0.05
+  ai_chance = {
+    factor = 1
+  }
 }
 suspension_bridge = {
-	area = "architecture_tech"
-	year = 1900
-	cost = 5400
+  area = "architecture_tech"
+  year = 1900
+  cost = 5400
 
-	prestige = 0.05
-	ai_chance = {
-		factor = 1
-	}
+  prestige = 0.05
+  ai_chance = {
+    factor = 1
+  }
 }
 art_nouveau = {
-	area = "architecture_tech"
-	year = 1900
-	cost = 5400
+  area = "architecture_tech"
+  year = 1900
+  cost = 5400
 
-	prestige = 0.05
-	ai_chance = {
-		factor = 1
-	}
+  prestige = 0.05
+  ai_chance = {
+    factor = 1
+  }
 }
 skyscraper = {
-	area = "architecture_tech"
-	year = 1910
-	cost = 6400
+  area = "architecture_tech"
+  year = 1910
+  cost = 6400
 
-	prestige = 0.05
-	ai_chance = {
-		factor = 1
-	}
+  prestige = 0.05
+  ai_chance = {
+    factor = 1
+  }
 }
 expressionism = {
-	area = "architecture_tech"
-	year = 1930
-	cost = 8400
+  area = "architecture_tech"
+  year = 1930
+  cost = 8400
 
-	prestige = 0.05
-	ai_chance = {
-		factor = 1
-	}
+  prestige = 0.05
+  ai_chance = {
+    factor = 1
+  }
 }
 art_deco = {
-	area = "architecture_tech"
-	year = 1930
-	cost = 8400
+  area = "architecture_tech"
+  year = 1930
+  cost = 8400
 
-	prestige = 0.05
-	ai_chance = {
-		factor = 1
-	}
+  prestige = 0.05
+  ai_chance = {
+    factor = 1
+  }
 }
 postwar_modernism = {
-	area = "architecture_tech"
-	year = 1950
-	cost = 10400
+  area = "architecture_tech"
+  year = 1950
+  cost = 10400
 
-	prestige = 0.05
-	ai_chance = {
-		factor = 1
-	}
+  prestige = 0.05
+  ai_chance = {
+    factor = 1
+  }
 }
 modern_cable_stayed_bridge = {
-	area = "architecture_tech"
-	year = 1955
-	cost = 10900
+  area = "architecture_tech"
+  year = 1955
+  cost = 10900
 
-	prestige = 0.05
-	ai_chance = {
-		factor = 1
-	}
+  prestige = 0.05
+  ai_chance = {
+    factor = 1
+  }
 }
 international_style = {
-	area = "architecture_tech"
-	year = 1965
-	cost = 11900
+  area = "architecture_tech"
+  year = 1965
+  cost = 11900
 
-	prestige = 0.05
-	ai_chance = {
-		factor = 1
-	}
+  prestige = 0.05
+  ai_chance = {
+    factor = 1
+  }
 }
 modern_dam = {
-	area = "architecture_tech"
-	year = 1970
-	cost = 12400
+  area = "architecture_tech"
+  year = 1970
+  cost = 12400
 
-	prestige = 0.05
-	ai_chance = {
-		factor = 1
-	}
+  prestige = 0.05
+  ai_chance = {
+    factor = 1
+  }
 }
 postmodern_architecture = {
-	area = "architecture_tech"
-	year = 1980
-	cost = 13400
+  area = "architecture_tech"
+  year = 1980
+  cost = 13400
 
-	prestige = 0.05
-	ai_chance = {
-		factor = 1
-	}
+  prestige = 0.05
+  ai_chance = {
+    factor = 1
+  }
 }
 neo_historism = {
-	area = "architecture_tech"
-	year = 1990
-	cost = 14400
+  area = "architecture_tech"
+  year = 1990
+  cost = 14400
 
-	prestige = 0.05
-	ai_chance = {
-		factor = 1
-	}
+  prestige = 0.05
+  ai_chance = {
+    factor = 1
+  }
 }
 hydraulic_engineering = {
-	area = "architecture_tech"
-	year = 1990
-	cost = 14400
+  area = "architecture_tech"
+  year = 1990
+  cost = 14400
 
-	prestige = 0.05
-	ai_chance = {
-		factor = 1
-	}
+  prestige = 0.05
+  ai_chance = {
+    factor = 1
+  }
 }
 high_tech_architecture = {
-	area = "architecture_tech"
-	year = 2000
-	cost = 15400
+  area = "architecture_tech"
+  year = 2000
+  cost = 15400
 
-	prestige = 0.05
-	ai_chance = {
-		factor = 1
-	}
+  prestige = 0.05
+  ai_chance = {
+    factor = 1
+  }
 }
 contemporary_architecture = {
-	area = "architecture_tech"
-	year = 2010
-	cost = 16400
+  area = "architecture_tech"
+  year = 2010
+  cost = 16400
 
-	prestige = 0.05
-	ai_chance = {
-		factor = 1
-	}
+  prestige = 0.05
+  ai_chance = {
+    factor = 1
+  }
 }
 new_urbanism = {
-	area = "architecture_tech"
-	year = 2020
-	cost = 17400
+  area = "architecture_tech"
+  year = 2020
+  cost = 17400
 
-	prestige = 0.05
-	ai_chance = {
-		factor = 1
-	}
+  prestige = 0.05
+  ai_chance = {
+    factor = 1
+  }
 }
 sustainable_architecture = {
-	area = "architecture_tech"
-	year = 2040
-	cost = 19400
+  area = "architecture_tech"
+  year = 2040
+  cost = 19400
 
-	prestige = 0.05
-	ai_chance = {
-		factor = 1
-	}
+  prestige = 0.05
+  ai_chance = {
+    factor = 1
+  }
 }
 eco_cities = {
-	area = "architecture_tech"
-	year = 2060
-	cost = 21400
+  area = "architecture_tech"
+  year = 2060
+  cost = 21400
 
-	prestige = 0.05
-	ai_chance = {
-		factor = 1
-	}
+  prestige = 0.05
+  ai_chance = {
+    factor = 1
+  }
 }
 urban_renewal = {
-	area = "architecture_tech"
-	year = 2080
-	cost = 23400
+  area = "architecture_tech"
+  year = 2080
+  cost = 23400
 
-	prestige = 0.05
-	ai_chance = {
-		factor = 1
-	}
+  prestige = 0.05
+  ai_chance = {
+    factor = 1
+  }
 }
 ai_city = {
-	area = "architecture_tech"
-	year = 2100
-	cost = 25400
+  area = "architecture_tech"
+  year = 2100
+  cost = 25400
 
-	prestige = 0.05
-	ai_chance = {
-		factor = 1
-	}
+  prestige = 0.05
+  ai_chance = {
+    factor = 1
+  }
 }
 macadam = {
-	area = "infrastructure_tech"
-	year = 1850
-	cost = 400
+  area = "infrastructure_tech"
+  year = 1850
+  cost = 400
 
-	activate_building = railroad
-	ai_chance = {
-		factor = 1
-	}
+  activate_building = railroad
+  ai_chance = {
+    factor = 1
+  }
 }
 steel_rails = {
-	area = "infrastructure_tech"
-	year = 1870
-	cost = 2400
+  area = "infrastructure_tech"
+  year = 1870
+  cost = 2400
 
-	max_railroad = 1
-	ai_chance = {
-		factor = 1
-	}
+  max_railroad = 1
+  ai_chance = {
+    factor = 1
+  }
 }
 steam_locomotive = {
-	area = "infrastructure_tech"
-	year = 1870
-	cost = 2400
+  area = "infrastructure_tech"
+  year = 1870
+  cost = 2400
 
-	mine_rgo_eff = 0.1
-	farm_rgo_eff = 0.1
-	ai_chance = {
-		factor = 1
-	}
+  mine_rgo_eff = 0.1
+  farm_rgo_eff = 0.1
+  ai_chance = {
+    factor = 1
+  }
 }
 trams = {
-	area = "infrastructure_tech"
-	year = 1900
-	cost = 5400
+  area = "infrastructure_tech"
+  year = 1900
+  cost = 5400
 
-	max_railroad = 1
-	ai_chance = {
-		factor = 1
-	}
+  max_railroad = 1
+  ai_chance = {
+    factor = 1
+  }
 }
 underground_rail = {
-	area = "infrastructure_tech"
-	year = 1910
-	cost = 6400
+  area = "infrastructure_tech"
+  year = 1910
+  cost = 6400
 
-	mine_rgo_eff = 0.1
-	farm_rgo_eff = 0.1
-	ai_chance = {
-		factor = 1
-	}
+  mine_rgo_eff = 0.1
+  farm_rgo_eff = 0.1
+  ai_chance = {
+    factor = 1
+  }
 }
 motorways = {
-	area = "infrastructure_tech"
-	year = 1920
-	cost = 7400
+  area = "infrastructure_tech"
+  year = 1920
+  cost = 7400
 
-	max_railroad = 1
-	ai_chance = {
-		factor = 1
-	}
+  max_railroad = 1
+  ai_chance = {
+    factor = 1
+  }
 }
 early_highway = {
-	area = "infrastructure_tech"
-	year = 1930
-	cost = 8400
+  area = "infrastructure_tech"
+  year = 1930
+  cost = 8400
 
-	max_railroad = 1
-	ai_chance = {
-		factor = 1
-	}
+  max_railroad = 1
+  ai_chance = {
+    factor = 1
+  }
 }
 diesel_locomotive = {
-	area = "infrastructure_tech"
-	year = 1930
-	cost = 8400
+  area = "infrastructure_tech"
+  year = 1930
+  cost = 8400
 
-	mine_rgo_eff = 0.1
-	farm_rgo_eff = 0.1
-	ai_chance = {
-		factor = 1
-	}
+  mine_rgo_eff = 0.1
+  farm_rgo_eff = 0.1
+  ai_chance = {
+    factor = 1
+  }
 }
 interstate_highway_system = {
-	area = "infrastructure_tech"
-	year = 1950
-	cost = 10400
+  area = "infrastructure_tech"
+  year = 1950
+  cost = 10400
 
-	max_railroad = 1
-	ai_chance = {
-		factor = 1
-	}
+  max_railroad = 1
+  ai_chance = {
+    factor = 1
+  }
 }
 early_satellites = {
-	area = "infrastructure_tech"
-	year = 1950
-	cost = 10400
+  area = "infrastructure_tech"
+  year = 1950
+  cost = 10400
 
-	mine_rgo_eff = 0.1
-	farm_rgo_eff = 0.1
-	ai_chance = {
-		factor = 1
-	}
+  mine_rgo_eff = 0.1
+  farm_rgo_eff = 0.1
+  ai_chance = {
+    factor = 1
+  }
 }
 early_high_speed_rail = {
-	area = "infrastructure_tech"
-	year = 1960
-	cost = 11400
+  area = "infrastructure_tech"
+  year = 1960
+  cost = 11400
 
-	mine_rgo_eff = 0.1
-	farm_rgo_eff = 0.1
-	ai_chance = {
-		factor = 1
-	}
+  mine_rgo_eff = 0.1
+  farm_rgo_eff = 0.1
+  ai_chance = {
+    factor = 1
+  }
 }
 communications_satellite = {
-	area = "infrastructure_tech"
-	year = 1963
-	cost = 11700
+  area = "infrastructure_tech"
+  year = 1963
+  cost = 11700
 
-	mine_rgo_eff = 0.1
-	farm_rgo_eff = 0.1
-	ai_chance = {
-		factor = 1
-	}
+  mine_rgo_eff = 0.1
+  farm_rgo_eff = 0.1
+  ai_chance = {
+    factor = 1
+  }
 }
 rapid_transit = {
-	area = "infrastructure_tech"
-	year = 1970
-	cost = 12400
+  area = "infrastructure_tech"
+  year = 1970
+  cost = 12400
 
-	mine_rgo_eff = 0.1
-	farm_rgo_eff = 0.1
-	ai_chance = {
-		factor = 1
-	}
+  mine_rgo_eff = 0.1
+  farm_rgo_eff = 0.1
+  ai_chance = {
+    factor = 1
+  }
 }
 early_backbone = {
-	area = "infrastructure_tech"
-	year = 1970
-	cost = 12400
+  area = "infrastructure_tech"
+  year = 1970
+  cost = 12400
 
-	influence = 0.1
-	ai_chance = {
-		factor = 1
-	}
+  influence = 0.1
+  ai_chance = {
+    factor = 1
+  }
 }
 modern_backbone = {
-	area = "infrastructure_tech"
-	year = 1990
-	cost = 14400
+  area = "infrastructure_tech"
+  year = 1990
+  cost = 14400
 
-	influence = 0.1
-	ai_chance = {
-		factor = 1
-	}
+  influence = 0.1
+  ai_chance = {
+    factor = 1
+  }
 }
 high_speed_rail = {
-	area = "infrastructure_tech"
-	year = 2000
-	cost = 15400
+  area = "infrastructure_tech"
+  year = 2000
+  cost = 15400
 
-	influence = 0.1
-	ai_chance = {
-		factor = 1
-	}
+  influence = 0.1
+  ai_chance = {
+    factor = 1
+  }
 }
 dynamic_infrastructure = {
-	area = "infrastructure_tech"
-	year = 2020
-	cost = 17400
+  area = "infrastructure_tech"
+  year = 2020
+  cost = 17400
 
-	influence = 0.1
-	ai_chance = {
-		factor = 1
-	}
+  influence = 0.1
+  ai_chance = {
+    factor = 1
+  }
 }
 industrial_data_centers = {
-	area = "infrastructure_tech"
-	year = 2040
-	cost = 19400
+  area = "infrastructure_tech"
+  year = 2040
+  cost = 19400
 
-	influence = 0.1
-	ai_chance = {
-		factor = 1
-	}
+  influence = 0.1
+  ai_chance = {
+    factor = 1
+  }
 }
 future_backbone = {
-	area = "infrastructure_tech"
-	year = 2060
-	cost = 21400
+  area = "infrastructure_tech"
+  year = 2060
+  cost = 21400
 
-	influence = 0.1
-	ai_chance = {
-		factor = 1
-	}
+  influence = 0.1
+  ai_chance = {
+    factor = 1
+  }
 }
 future_data_centers = {
-	area = "infrastructure_tech"
-	year = 2070
-	cost = 22400
+  area = "infrastructure_tech"
+  year = 2070
+  cost = 22400
 
-	influence = 0.1
-	ai_chance = {
-		factor = 1
-	}
+  influence = 0.1
+  ai_chance = {
+    factor = 1
+  }
 }
 telegraphy = {
-	area = "communication_tech"
-	year = 1870
-	cost = 2400
+  area = "communication_tech"
+  year = 1870
+  cost = 2400
 
-	increase_research = 0.50
-	ai_chance = {
-		factor = 1
-	}
+  increase_research = 0.50
+  ai_chance = {
+    factor = 1
+  }
 }
 telegraph_cables = {
-	area = "communication_tech"
-	year = 1870
-	cost = 2400
+  area = "communication_tech"
+  year = 1870
+  cost = 2400
 
-	increase_research = 0.50
-	ai_chance = {
-		factor = 1
-	}
+  increase_research = 0.50
+  ai_chance = {
+    factor = 1
+  }
 }
 telephone = {
-	area = "communication_tech"
-	year = 1878
-	cost = 3200
+  area = "communication_tech"
+  year = 1878
+  cost = 3200
 
-	increase_research = 0.50
-	ai_chance = {
-		factor = 1
-	}
+  increase_research = 0.50
+  ai_chance = {
+    factor = 1
+  }
 }
 radio = {
-	area = "communication_tech"
-	year = 1900
-	cost = 5400
+  area = "communication_tech"
+  year = 1900
+  cost = 5400
 
-	increase_research = 0.50
-	ai_chance = {
-		factor = 1
-	}
+  increase_research = 0.50
+  ai_chance = {
+    factor = 1
+  }
 }
 teleprinters = {
-	area = "communication_tech"
-	year = 1910
-	cost = 6400
+  area = "communication_tech"
+  year = 1910
+  cost = 6400
 
-	increase_research = 0.50
-	ai_chance = {
-		factor = 1
-	}
+  increase_research = 0.50
+  ai_chance = {
+    factor = 1
+  }
 }
 radio_broadcasting = {
-	area = "communication_tech"
-	year = 1919
-	cost = 7300
+  area = "communication_tech"
+  year = 1919
+  cost = 7300
 
-	increase_research = 0.50
-	ai_chance = {
-		factor = 1
-	}
+  increase_research = 0.50
+  ai_chance = {
+    factor = 1
+  }
 }
 microwave_transmission = {
-	area = "communication_tech"
-	year = 1931
-	cost = 8500
+  area = "communication_tech"
+  year = 1931
+  cost = 8500
 
-	increase_research = 0.50
-	ai_chance = {
-		factor = 1
-	}
+  increase_research = 0.50
+  ai_chance = {
+    factor = 1
+  }
 }
 television_broadcasting = {
-	area = "communication_tech"
-	year = 1940
-	cost = 9400
+  area = "communication_tech"
+  year = 1940
+  cost = 9400
 
-	increase_research = 0.50
-	ai_chance = {
-		factor = 1
-	}
+  increase_research = 0.50
+  ai_chance = {
+    factor = 1
+  }
 }
 color_television = {
-	area = "communication_tech"
-	year = 1960
-	cost = 11400
+  area = "communication_tech"
+  year = 1960
+  cost = 11400
 
-	increase_research = 0.50
-	ai_chance = {
-		factor = 1
-	}
+  increase_research = 0.50
+  ai_chance = {
+    factor = 1
+  }
 }
 mobile_phones_1g = {
-	area = "communication_tech"
-	year = 1970
-	cost = 12400
+  area = "communication_tech"
+  year = 1970
+  cost = 12400
 
-	increase_research = 0.50
-	ai_chance = {
-		factor = 1
-	}
+  increase_research = 0.50
+  ai_chance = {
+    factor = 1
+  }
 }
 internet = {
-	area = "communication_tech"
-	year = 1980
-	cost = 13400
+  area = "communication_tech"
+  year = 1980
+  cost = 13400
 
-	increase_research = 0.50
-	ai_chance = {
-		factor = 1
-	}
+  increase_research = 0.50
+  ai_chance = {
+    factor = 1
+  }
 }
 fiber_optics = {
-	area = "communication_tech"
-	year = 1980
-	cost = 13400
+  area = "communication_tech"
+  year = 1980
+  cost = 13400
 
-	increase_research = 0.50
-	ai_chance = {
-		factor = 1
-	}
+  increase_research = 0.50
+  ai_chance = {
+    factor = 1
+  }
 }
 mobile_phones_2g = {
-	area = "communication_tech"
-	year = 1990
-	cost = 14400
+  area = "communication_tech"
+  year = 1990
+  cost = 14400
 
-	increase_research = 0.50
-	ai_chance = {
-		factor = 1
-	}
+  increase_research = 0.50
+  ai_chance = {
+    factor = 1
+  }
 
 }
 mobile_broadband = {
-	area = "communication_tech"
-	year = 2010
-	cost = 16400
+  area = "communication_tech"
+  year = 2010
+  cost = 16400
 
-	increase_research = 0.50
-	ai_chance = {
-		factor = 1
-	}
+  increase_research = 0.50
+  ai_chance = {
+    factor = 1
+  }
 }
 native_ip_networks = {
-	area = "communication_tech"
-	year = 2020
-	cost = 17400
+  area = "communication_tech"
+  year = 2020
+  cost = 17400
 
-	increase_research = 0.50
-	ai_chance = {
-		factor = 1
-	}
+  increase_research = 0.50
+  ai_chance = {
+    factor = 1
+  }
 
 }
 internet_of_things = {
-	area = "communication_tech"
-	year = 2020
-	cost = 17400
+  area = "communication_tech"
+  year = 2020
+  cost = 17400
 
-	increase_research = 0.50
-	ai_chance = {
-		factor = 1
-	}
+  increase_research = 0.50
+  ai_chance = {
+    factor = 1
+  }
 }
 rfid = {
-	area = "communication_tech"
-	year = 2040
-	cost = 19400
+  area = "communication_tech"
+  year = 2040
+  cost = 19400
 
-	increase_research = 0.50
-	ai_chance = {
-		factor = 1
-	}
+  increase_research = 0.50
+  ai_chance = {
+    factor = 1
+  }
 
 }
 immersive_virtual_reality = {
-	area = "communication_tech"
-	year = 2055
-	cost = 20900
+  area = "communication_tech"
+  year = 2055
+  cost = 20900
 
-	increase_research = 0.50
-	ai_chance = {
-		factor = 1
-	}
+  increase_research = 0.50
+  ai_chance = {
+    factor = 1
+  }
 }
 argumented_reality = {
-	area = "communication_tech"
-	year = 2070
-	cost = 22400
+  area = "communication_tech"
+  year = 2070
+  cost = 22400
 
-	increase_research = 0.50
-	ai_chance = {
-		factor = 1
-	}
+  increase_research = 0.50
+  ai_chance = {
+    factor = 1
+  }
 
 }
 exocortex = {
-	area = "communication_tech"
-	year = 2090
-	cost = 24400
+  area = "communication_tech"
+  year = 2090
+  cost = 24400
 
-	increase_research = 0.50
-	ai_chance = {
-		factor = 1
-	}
+  increase_research = 0.50
+  ai_chance = {
+    factor = 1
+  }
 }
 line_shaft = {
-	area = "energy_efficiency_tech"
-	year = 1870
-	cost = 2400
+  area = "energy_efficiency_tech"
+  year = 1870
+  cost = 2400
 
-	factory_throughput = 0.1
-	ai_chance = {
-		factor = 1
-	}
+  factory_throughput = 0.1
+  ai_chance = {
+    factor = 1
+  }
 
 }
 kraft_process = {
-	area = "energy_efficiency_tech"
-	year = 1879
-	cost = 3300
+  area = "energy_efficiency_tech"
+  year = 1879
+  cost = 3300
 
-	factory_throughput = 0.1
-	ai_chance = {
-		factor = 1
-	}
+  factory_throughput = 0.1
+  ai_chance = {
+    factor = 1
+  }
 }
 steam_turbine = {
-	area = "energy_efficiency_tech"
-	year = 1884
-	cost = 3800
+  area = "energy_efficiency_tech"
+  year = 1884
+  cost = 3800
 
-	factory_throughput = 0.1
-	ai_chance = {
-		factor = 1
-	}
+  factory_throughput = 0.1
+  ai_chance = {
+    factor = 1
+  }
 
 }
 anti_friction_bearings = {
-	area = "energy_efficiency_tech"
-	year = 1890
-	cost = 4400
+  area = "energy_efficiency_tech"
+  year = 1890
+  cost = 4400
 
-	factory_throughput = 0.1
-	ai_chance = {
-		factor = 1
-	}
+  factory_throughput = 0.1
+  ai_chance = {
+    factor = 1
+  }
 }
 hydraulic_power_network = {
-	area = "energy_efficiency_tech"
-	year = 1893
-	cost = 4700
+  area = "energy_efficiency_tech"
+  year = 1893
+  cost = 4700
 
-	factory_throughput = 0.1
-	ai_chance = {
-		factor = 1
-	}
+  factory_throughput = 0.1
+  ai_chance = {
+    factor = 1
+  }
 }
 electric_copper_motor = {
-	area = "energy_efficiency_tech"
-	year = 1910
-	cost = 6400
+  area = "energy_efficiency_tech"
+  year = 1910
+  cost = 6400
 
-	factory_throughput = 0.1
-	ai_chance = {
-		factor = 1
-	}
+  factory_throughput = 0.1
+  ai_chance = {
+    factor = 1
+  }
 }
 evaporators = {
-	area = "energy_efficiency_tech"
-	year = 1928
-	cost = 8200
+  area = "energy_efficiency_tech"
+  year = 1928
+  cost = 8200
 
-	factory_throughput = 0.1
-	ai_chance = {
-		factor = 1
-	}
+  factory_throughput = 0.1
+  ai_chance = {
+    factor = 1
+  }
 }
 recovery_boiler = {
-	area = "energy_efficiency_tech"
-	year = 1930
-	cost = 8400
+  area = "energy_efficiency_tech"
+  year = 1930
+  cost = 8400
 
-	factory_throughput = 0.1
-	ai_chance = {
-		factor = 1
-	}
+  factory_throughput = 0.1
+  ai_chance = {
+    factor = 1
+  }
 }
 gas_turbine = {
-	area = "energy_efficiency_tech"
-	year = 1934
-	cost = 8800
+  area = "energy_efficiency_tech"
+  year = 1934
+  cost = 8800
 
-	factory_throughput = 0.1
-	ai_chance = {
-		factor = 1
-	}
+  factory_throughput = 0.1
+  ai_chance = {
+    factor = 1
+  }
 }
 starter_motor = {
-	area = "energy_efficiency_tech"
-	year = 1949
-	cost = 10300
+  area = "energy_efficiency_tech"
+  year = 1949
+  cost = 10300
 
-	factory_throughput = 0.1
-	ai_chance = {
-		factor = 1
-	}
+  factory_throughput = 0.1
+  ai_chance = {
+    factor = 1
+  }
 }
 electric_aluminium_motor = {
-	area = "energy_efficiency_tech"
-	year = 1949
-	cost = 10300
+  area = "energy_efficiency_tech"
+  year = 1949
+  cost = 10300
 
-	factory_throughput = 0.1
-	ai_chance = {
-		factor = 1
-	}
+  factory_throughput = 0.1
+  ai_chance = {
+    factor = 1
+  }
 }
 power_inverter = {
-	area = "energy_efficiency_tech"
-	year = 1955
-	cost = 10900
+  area = "energy_efficiency_tech"
+  year = 1955
+  cost = 10900
 
-	factory_throughput = 0.1
-	ai_chance = {
-		factor = 1
-	}
+  factory_throughput = 0.1
+  ai_chance = {
+    factor = 1
+  }
 }
 electric_ball_bearing_motor = {
-	area = "energy_efficiency_tech"
-	year = 1955
-	cost = 10900
+  area = "energy_efficiency_tech"
+  year = 1955
+  cost = 10900
 
-	factory_throughput = 0.1
-	ai_chance = {
-		factor = 1
-	}
+  factory_throughput = 0.1
+  ai_chance = {
+    factor = 1
+  }
 }
 electric_motor_insulation = {
-	area = "energy_efficiency_tech"
-	year = 1960
-	cost = 12400
+  area = "energy_efficiency_tech"
+  year = 1960
+  cost = 12400
 
-	factory_throughput = 0.1
-	ai_chance = {
-		factor = 1
-	}
+  factory_throughput = 0.1
+  ai_chance = {
+    factor = 1
+  }
 }
 heat_exchanger = {
-	area = "energy_efficiency_tech"
-	year = 1970
-	cost = 12400
+  area = "energy_efficiency_tech"
+  year = 1970
+  cost = 12400
 
-	factory_throughput = 0.1
-	ai_chance = {
-		factor = 1
-	}
+  factory_throughput = 0.1
+  ai_chance = {
+    factor = 1
+  }
 }
 electric_motor_steel_frame = {
-	area = "energy_efficiency_tech"
-	year = 1980
-	cost = 13400
+  area = "energy_efficiency_tech"
+  year = 1980
+  cost = 13400
 
-	factory_throughput = 0.1
-	ai_chance = {
-		factor = 1
-	}
+  factory_throughput = 0.1
+  ai_chance = {
+    factor = 1
+  }
 }
 cogeneration = {
-	area = "energy_efficiency_tech"
-	year = 1990
-	cost = 14400
+  area = "energy_efficiency_tech"
+  year = 1990
+  cost = 14400
 
-	factory_throughput = 0.1
-	ai_chance = {
-		factor = 1
-	}
+  factory_throughput = 0.1
+  ai_chance = {
+    factor = 1
+  }
 }
 electric_motor_aluminium_frame = {
-	area = "energy_efficiency_tech"
-	year = 2000
-	cost = 15400
+  area = "energy_efficiency_tech"
+  year = 2000
+  cost = 15400
 
-	factory_throughput = 0.1
-	ai_chance = {
-		factor = 1
-	}
+  factory_throughput = 0.1
+  ai_chance = {
+    factor = 1
+  }
 }
 electric_car = {
-	area = "energy_efficiency_tech"
-	year = 2020
-	cost = 17400
+  area = "energy_efficiency_tech"
+  year = 2020
+  cost = 17400
 
-	factory_throughput = 0.1
-	ai_chance = {
-		factor = 1
-	}
+  factory_throughput = 0.1
+  ai_chance = {
+    factor = 1
+  }
 }
 smart_grid = {
-	area = "energy_efficiency_tech"
-	year = 2030
-	cost = 18400
+  area = "energy_efficiency_tech"
+  year = 2030
+  cost = 18400
 
-	factory_throughput = 0.1
-	ai_chance = {
-		factor = 1
-	}
+  factory_throughput = 0.1
+  ai_chance = {
+    factor = 1
+  }
 }

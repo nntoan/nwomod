@@ -6,8 +6,8 @@ life_rating = 21
 terrain = marsh
 colonial = 0
 1992.1.1 = {
-owner = BYE
-controller = BYE
-add_core = BYE
-colonial = 0
+  owner = BYE
+  controller = BYE
+  add_core = BYE
+  colonial = 0
 }

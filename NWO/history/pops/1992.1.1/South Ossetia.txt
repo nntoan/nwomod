@@ -1,133 +1,133 @@
 #Pasanauri - Pasanauri (120000/30000 POPS)
 1091 = {
-	officers = {
-		culture = ossetian
-		religion =  orthodox 
-		size = 12
-	 } 
-	officers = {
-		culture = ossetian
-		religion = secularism
-		size = 2
-	 } 
-	soldiers = {
-		culture = ossetian
-		religion =  orthodox 
-		size = 242
-	 } 
-	soldiers = {
-		culture = ossetian
-		religion = secularism
-		size = 42
-	 } 
-	aristocrats = {
-		culture = ossetian
-		religion =  orthodox 
-		size = 892
-	 } 
-	aristocrats = {
-		culture = ossetian
-		religion = secularism
-		size = 157
-	 } 
-	bureaucrats = {
-		culture = ossetian
-		religion =  orthodox 
-		size = 102
-	 } 
-	bureaucrats = {
-		culture = ossetian
-		religion = secularism
-		size = 18
-	 } 
-	capitalists = {
-		culture = ossetian
-		religion =  orthodox 
-		size = 153
-	 } 
-	capitalists = {
-		culture = ossetian
-		religion = secularism
-		size = 27
-	 } 
-	clergymen = {
-		culture = ossetian
-		religion =  orthodox 
-		size = 510
-	 } 
-	clergymen = {
-		culture = ossetian
-		religion = secularism
-		size = 90
-	 } 
-	clerks = {
-		culture = ossetian
-		religion =  orthodox 
-		size = 498
-	 } 
-	clerks = {
-		culture = ossetian
-		religion = secularism
-		size = 87
-	 } 
-	artisans = {
-		culture = ossetian
-		religion =  orthodox 
-		size = 473
-	 } 
-	artisans = {
-		culture = ossetian
-		religion = secularism
-		size = 83
-	 } 
-	craftsmen = {
-		culture = ossetian
-		religion =  orthodox 
-		size = 1495
-	 } 
-	craftsmen = {
-		culture = ossetian
-		religion = secularism
-		size = 263
-	 } 
-	farmers = {
-		culture = ossetian
-		religion =  orthodox 
-		size = 12705
-	 } 
-	farmers = {
-		culture = ossetian
-		religion = secularism
-		size = 2242
-	 } 
-	farmers = {
-		culture = georgian
-		religion =  orthodox 
-		size = 7395
-	 } 
-	farmers = {
-		culture = georgian
-		religion = secularism
-		size = 1305
-	 } 
-	farmers = {
-		culture = russian
-		religion =  orthodox 
-		size = 765
-	 } 
-	farmers = {
-		culture = russian
-		religion = secularism
-		size = 135
-	 } 
-	farmers = {
-		culture = armenian
-		religion =  orthodox 
-		size = 255
-	 } 
-	farmers = {
-		culture = armenian
-		religion = secularism
-		size = 45
-	 } 
+  officers = {
+    culture = ossetian
+    religion =  orthodox
+    size = 12
+  }
+  officers = {
+    culture = ossetian
+    religion = secularism
+    size = 2
+  }
+  soldiers = {
+    culture = ossetian
+    religion =  orthodox
+    size = 242
+  }
+  soldiers = {
+    culture = ossetian
+    religion = secularism
+    size = 42
+  }
+  aristocrats = {
+    culture = ossetian
+    religion =  orthodox
+    size = 892
+  }
+  aristocrats = {
+    culture = ossetian
+    religion = secularism
+    size = 157
+  }
+  bureaucrats = {
+    culture = ossetian
+    religion =  orthodox
+    size = 102
+  }
+  bureaucrats = {
+    culture = ossetian
+    religion = secularism
+    size = 18
+  }
+  capitalists = {
+    culture = ossetian
+    religion =  orthodox
+    size = 153
+  }
+  capitalists = {
+    culture = ossetian
+    religion = secularism
+    size = 27
+  }
+  clergymen = {
+    culture = ossetian
+    religion =  orthodox
+    size = 510
+  }
+  clergymen = {
+    culture = ossetian
+    religion = secularism
+    size = 90
+  }
+  clerks = {
+    culture = ossetian
+    religion =  orthodox
+    size = 498
+  }
+  clerks = {
+    culture = ossetian
+    religion = secularism
+    size = 87
+  }
+  artisans = {
+    culture = ossetian
+    religion =  orthodox
+    size = 473
+  }
+  artisans = {
+    culture = ossetian
+    religion = secularism
+    size = 83
+  }
+  craftsmen = {
+    culture = ossetian
+    religion =  orthodox
+    size = 1495
+  }
+  craftsmen = {
+    culture = ossetian
+    religion = secularism
+    size = 263
+  }
+  farmers = {
+    culture = ossetian
+    religion =  orthodox
+    size = 12705
+  }
+  farmers = {
+    culture = ossetian
+    religion = secularism
+    size = 2242
+  }
+  farmers = {
+    culture = georgian
+    religion =  orthodox
+    size = 7395
+  }
+  farmers = {
+    culture = georgian
+    religion = secularism
+    size = 1305
+  }
+  farmers = {
+    culture = russian
+    religion =  orthodox
+    size = 765
+  }
+  farmers = {
+    culture = russian
+    religion = secularism
+    size = 135
+  }
+  farmers = {
+    culture = armenian
+    religion =  orthodox
+    size = 255
+  }
+  farmers = {
+    culture = armenian
+    religion = secularism
+    size = 45
+  }
 }

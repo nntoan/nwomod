@@ -1,88 +1,88 @@
 #Doha - Doha (25000/6250 POPS)
 1165 = {
-	aristocrats = {
-		culture = sunni_arab
-		religion =  sunni 
-		size = 247
-	 } 
-	aristocrats = {
-		culture = sunni_arab
-		religion = secularism
-		size = 2
-	 } 
-	bureaucrats = {
-		culture = sunni_arab
-		religion =  sunni 
-		size = 5
-	 } 
-	clergymen = {
-		culture = sunni_arab
-		religion =  sunni 
-		size = 123
-	 } 
-	clergymen = {
-		culture = sunni_arab
-		religion = secularism
-		size = 1
-	 } 
-	artisans = {
-		culture = sunni_arab
-		religion =  sunni 
-		size = 186
-	 } 
-	artisans = {
-		culture = sunni_arab
-		religion = secularism
-		size = 1
-	 } 
-	farmers = {
-		culture = sunni_arab
-		religion =  sunni 
-		size = 1911
-	 } 
-	farmers = {
-		culture = sunni_arab
-		religion = secularism
-		size = 19
-	 } 
-	farmers = {
-		culture = indian
-		religion =  hindu 
-		size = 1113
-	 } 
-	farmers = {
-		culture = indian
-		religion = secularism
-		size = 11
-	 } 
-	farmers = {
-		culture = indian_muslim
-		religion =  sunni 
-		size = 1113
-	 } 
-	farmers = {
-		culture = indian_muslim
-		religion = secularism
-		size = 11
-	 } 
-	farmers = {
-		culture = bengali
-		religion =  sunni 
-		size = 618
-	 } 
-	farmers = {
-		culture = bengali
-		religion = secularism
-		size = 6
-	 } 
-	farmers = {
-		culture = filipino
-		religion =  catholic 
-		size = 247
-	 } 
-	farmers = {
-		culture = filipino
-		religion = secularism
-		size = 2
-	 } 
+  aristocrats = {
+    culture = sunni_arab
+    religion =  sunni
+    size = 247
+  }
+  aristocrats = {
+    culture = sunni_arab
+    religion = secularism
+    size = 2
+  }
+  bureaucrats = {
+    culture = sunni_arab
+    religion =  sunni
+    size = 5
+  }
+  clergymen = {
+    culture = sunni_arab
+    religion =  sunni
+    size = 123
+  }
+  clergymen = {
+    culture = sunni_arab
+    religion = secularism
+    size = 1
+  }
+  artisans = {
+    culture = sunni_arab
+    religion =  sunni
+    size = 186
+  }
+  artisans = {
+    culture = sunni_arab
+    religion = secularism
+    size = 1
+  }
+  farmers = {
+    culture = sunni_arab
+    religion =  sunni
+    size = 1911
+  }
+  farmers = {
+    culture = sunni_arab
+    religion = secularism
+    size = 19
+  }
+  farmers = {
+    culture = indian
+    religion =  hindu
+    size = 1113
+  }
+  farmers = {
+    culture = indian
+    religion = secularism
+    size = 11
+  }
+  farmers = {
+    culture = indian_muslim
+    religion =  sunni
+    size = 1113
+  }
+  farmers = {
+    culture = indian_muslim
+    religion = secularism
+    size = 11
+  }
+  farmers = {
+    culture = bengali
+    religion =  sunni
+    size = 618
+  }
+  farmers = {
+    culture = bengali
+    religion = secularism
+    size = 6
+  }
+  farmers = {
+    culture = filipino
+    religion =  catholic
+    size = 247
+  }
+  farmers = {
+    culture = filipino
+    religion = secularism
+    size = 2
+  }
 }

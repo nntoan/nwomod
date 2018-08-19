@@ -7,8 +7,8 @@ life_rating = 30
 terrain = good_farmland
 colonial = 2
 1992.1.1 = {
-owner = CHI
-controller = CHI
-add_core = CHI
-colonial = 2
+  owner = CHI
+  controller = CHI
+  add_core = CHI
+  colonial = 2
 }

@@ -7,8 +7,8 @@ country_event = { # Cyprus Emergency
 
   trigger = {
     tag = GBR
-	owns = 855 # Nicosia
-	NOT = { exists = CYP }
+    owns = 855 # Nicosia
+    NOT = { exists = CYP }
     year = 1955 NOT = {year = 1990 }
   }
 
@@ -16,9 +16,9 @@ country_event = { # Cyprus Emergency
 
   option = {
     name = EVT_8004100_A
-	release = CYP
-	casus_belli = { target = CYP type = conquest }
-	war = { target = CYP attacker_goal = { casus_belli = conquest } defender_goal = { casus_belli = status_quo } }
+    release = CYP
+    casus_belli = { target = CYP type = conquest }
+    war = { target = CYP attacker_goal = { casus_belli = conquest } defender_goal = { casus_belli = status_quo } }
   }
 
 }
@@ -33,30 +33,30 @@ country_event = { # Cyprus Independence
   trigger = {
     tag = GBR
     year = 1960 NOT = { year = 1990 }
-	war = no
-	owns = 855 # Nicosia
+    war = no
+    owns = 855 # Nicosia
   }
 
   mean_time_to_happen = { months = 2 }
 
   option = {
     name = EVT_8004101_A
-	prestige = 10
-	release = CYP
-	diplomatic_influence = { who = CYP value = -100 } 
-	GRE = { create_alliance = CYP }
-	ai_chance = { factor = 100 }
+    prestige = 10
+    release = CYP
+    diplomatic_influence = { who = CYP value = -100 }
+    GRE = { create_alliance = CYP }
+    ai_chance = { factor = 100 }
   }
 
   option = {
     name = EVT_8004101_B
-	prestige = -10
-	release = CYP
-	casus_belli = { target = CYP type = conquest months = 12 }
-	war = { target = CYP attacker_goal = { casus_belli = conquest } defender_goal = { casus_belli = status_quo } }
-	ai_chance = { factor = 0 }
+    prestige = -10
+    release = CYP
+    casus_belli = { target = CYP type = conquest months = 12 }
+    war = { target = CYP attacker_goal = { casus_belli = conquest } defender_goal = { casus_belli = status_quo } }
+    ai_chance = { factor = 0 }
   }
-  
+
 }
 
 country_event = {
@@ -69,14 +69,14 @@ country_event = {
   option = {
     name = EVT_8004103_A
     define_general = { name = "Makarios" personality = energetic background = no_background }
-	ai_chance = { factor = 100 }
+    ai_chance = { factor = 100 }
   }
 
   option = {
     name = EVT_8004103_C
-	any_pop = { militancy = 2.0 consciousness = 1 }
+    any_pop = { militancy = 2.0 consciousness = 1 }
     define_general = { name = "Sampson" personality = energetic background = no_background }
-	ai_chance = { factor = 0 }
+    ai_chance = { factor = 0 }
   }
 }
 country_event = {
@@ -88,8 +88,8 @@ country_event = {
 
   trigger = {
     tag = CYP
-	war = no
-	exists = TUR
+    war = no
+    exists = TUR
     year = 1974 NOT = {year = 1990 }
   }
 
@@ -97,17 +97,17 @@ country_event = {
 
   option = { # Carry out the coup
     name = EVT_8004110_A
-	TUR = { country_event = 8004111 } 
-	ai_chance = { factor = 100 }
-	government = populist_dictatorship country_event = 800050
-	country_event = 8004103
+    TUR = { country_event = 8004111 }
+    ai_chance = { factor = 100 }
+    government = populist_dictatorship country_event = 800050
+    country_event = 8004103
   }
 
   option = {
     name = EVT_8004110_B
-	any_pop = { militancy = 5.0 consciousness = 2 }
-	prestige = -10
-	ai_chance = { factor = 0 }
+    any_pop = { militancy = 5.0 consciousness = 2 }
+    prestige = -10
+    ai_chance = { factor = 0 }
   }
 }
 country_event = {
@@ -119,18 +119,18 @@ country_event = {
 
   option = {
     name = EVT_8004111_A
-	relation = { who = GRE value = -150 } 
-	relation = { who = CYP value = -200 } 
-	# infamy unsanctioned
-	war = { target = CYP  attacker_goal = { casus_belli = liberate_country country = NCY } defender_goal = { casus_belli = status_quo } }
-	random_state = { any_pop = { dominant_issue = { value = jingoism factor = 0.55 } } }
-	ai_chance = { factor = 100 }
+    relation = { who = GRE value = -150 }
+    relation = { who = CYP value = -200 }
+    # infamy unsanctioned
+    war = { target = CYP  attacker_goal = { casus_belli = liberate_country country = NCY } defender_goal = { casus_belli = status_quo } }
+    random_state = { any_pop = { dominant_issue = { value = jingoism factor = 0.55 } } }
+    ai_chance = { factor = 100 }
   }
 
   option = {
     name = EVT_8004111_B
-	any_pop = { militancy = 1.0 consciousness = 1 }
-	ai_chance = { factor = 0 }
+    any_pop = { militancy = 1.0 consciousness = 1 }
+    ai_chance = { factor = 0 }
   }
 }
 country_event = {
@@ -144,16 +144,16 @@ country_event = {
     tag = TUR
     year = 1975 NOT = { year = 1990 }
     exists = NCY
-	CYP = { government = populist_dictatorship }
-	war = no
+    CYP = { government = populist_dictatorship }
+    war = no
   }
 
   mean_time_to_happen = { months = 1  }
 
   option = {
     name = EVT_8004112_A
-	relation = { who = GRE value = -150 } 
-	relation = { who = CYP value = -250 } 
+    relation = { who = GRE value = -150 }
+    relation = { who = CYP value = -250 }
   }
 
 }
@@ -168,24 +168,24 @@ country_event = {
     tag = CYP
     year = 1975 NOT = { year = 1990 }
     exists = GRE
-	war = no
-	government = democracy
-	owns = 857 # Famagusta
+    war = no
+    government = democracy
+    owns = 857 # Famagusta
   }
 
   mean_time_to_happen = { months = 1  }
 
   option = {
     name = EVT_8004113_A
-	relation = { who = GRE value = 150 } 
-	GRE = { country_event = 8004114 }
-	ai_chance = { factor = 100 }
+    relation = { who = GRE value = 150 }
+    GRE = { country_event = 8004114 }
+    ai_chance = { factor = 100 }
   }
 
   option = {
     name = EVT_8004113_B
-	any_pop = { militancy = 1.0 consciousness = 1 }
-	ai_chance = { factor = 0 }
+    any_pop = { militancy = 1.0 consciousness = 1 }
+    ai_chance = { factor = 0 }
   }
 }
 country_event = {
@@ -197,14 +197,14 @@ country_event = {
 
   option = {
     name = EVT_8004114_A
-	inherit = CYP 
-	ai_chance = { factor = 100 }
+    inherit = CYP
+    ai_chance = { factor = 100 }
   }
 
   option = {
     name = EVT_8004114_B
-	relation = { who = CYP value = -150 } 
-	any_pop = { militancy = 0.7 consciousness = 1 }
-	ai_chance = { factor = 0 }
+    relation = { who = CYP value = -150 }
+    any_pop = { militancy = 0.7 consciousness = 1 }
+    ai_chance = { factor = 0 }
   }
 }

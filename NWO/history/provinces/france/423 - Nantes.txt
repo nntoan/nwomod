@@ -7,20 +7,20 @@ life_rating = 22
 terrain = good_farmland
 colonial = 0
 state_building = {
-	level = 1
-	building = petrochemicals_factory
-	upgrade = yes
+  level = 1
+  building = petrochemicals_factory
+  upgrade = yes
 }
 1992.1.1 = {
-owner = FRA
-controller = FRA
-add_core = BRI
-add_core = FRA
-railroad = 1
-colonial = 0
-state_building = {
-	level = 1
-	building = heating_electricity_factory
-	upgrade = yes
-}
+  owner = FRA
+  controller = FRA
+  add_core = BRI
+  add_core = FRA
+  railroad = 1
+  colonial = 0
+  state_building = {
+    level = 1
+    building = heating_electricity_factory
+    upgrade = yes
+  }
 }

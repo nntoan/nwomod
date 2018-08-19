@@ -1,119 +1,119 @@
 # replace_path vic2 bug force "P"olitical.txt as name
 political_decisions = {
 
-	five_year_plan = {
-			picture = "five_year_plan"
-			potential = {
-				year = 1950
-				government = proletarian_dictatorship
-				NOT = { tag = JAP }
-				NOT = { has_country_modifier = five_year_plan }
-			}
+  five_year_plan = {
+    picture = "five_year_plan"
+    potential = {
+      year = 1950
+      government = proletarian_dictatorship
+      NOT = { tag = JAP }
+      NOT = { has_country_modifier = five_year_plan }
+    }
 
-			allow = {
-				government = proletarian_dictatorship
-				compulsory_primary_education = 1
-				war = no
-			}
+    allow = {
+      government = proletarian_dictatorship
+      compulsory_primary_education = 1
+      war = no
+    }
 
-			effect = {
-				prestige = 5
-				add_country_modifier = { name = five_year_plan duration = 1825 }
-			}
-			ai_will_do = { factor = 1 }
-	}
+    effect = {
+      prestige = 5
+      add_country_modifier = { name = five_year_plan duration = 1825 }
+    }
+    ai_will_do = { factor = 1 }
+  }
 
-	leave_soi = {
-		alert = no
-		picture = leave_soi
-		potential = {
-			part_of_sphere = yes
-			OR = { ai = no sphere_owner = { NOT = { relation = { who = THIS value = -160 } } } }
-		}
-		allow = {
-			is_secondary_power = yes
-			has_recently_lost_war = no
-			sphere_owner = { NOT = { relation = { who = THIS value = -100 } } }
-		}
-		effect = { 
-			sphere_owner = { country_event = { id = 13201 days = 0 } }
-		}
-		
-		ai_will_do = {
-			factor = 1
-		}
-	}
-	
-	nationalize = {
-		alert = no
-		picture = nationalize
-		potential = {
-			can_nationalize = yes 
-		}
-		allow = {
-			#NOT = { part_of_sphere = yes }
-			#ruling_party_ideology = communist
-			NOT = { has_country_modifier = pending_nationalize }
-			government = proletarian_dictatorship
-		}
-		effect = {
-			nationalize = yes
-			country_event = 96086 
-		}
-		
-		ai_will_do = {
-			factor = 0
-		}
-	}
-	
-	newly_industrialized_country = {
-		picture = "newly_industrialized_country"
-		alert = no
-		potential = {
-			nationalvalue = nv_development
-		}
-		
-		allow = {
-			technicolor = 1
-			cars = 1
-			calculators = 1
-			reinforced_concrete = 1
-			synthetic_rubber = 1
-			fordism = 1
-			early_highway = 1
-			microwave_transmission = 1
-			recovery_boiler = 1
-		}
-		effect = {
-			prestige = 20
-			country_event = 18590
-		}
-		ai_will_do = {
-			factor = 1
-		}
-	}
-	
-	social_credit_system = {
-		picture = "social_credit_system"
-		potential = {
-			NOT = { government = democracy }
-			NOT = { government = hms_government }
-			is_secondary_power = yes
-			comprehensive_school = 1
-		}
-		
-		allow = {
-			international_science = 1
-			is_greater_power = yes
-		}
-		effect = {
-			prestige = -5
-			add_country_modifier = { name = social_credit_system duration = -1 }
-		}
-		ai_will_do = {
-			factor = 1
-		}
-	
-	}
+  leave_soi = {
+    alert = no
+    picture = leave_soi
+    potential = {
+      part_of_sphere = yes
+      OR = { ai = no sphere_owner = { NOT = { relation = { who = THIS value = -160 } } } }
+    }
+    allow = {
+      is_secondary_power = yes
+      has_recently_lost_war = no
+      sphere_owner = { NOT = { relation = { who = THIS value = -100 } } }
+    }
+    effect = {
+      sphere_owner = { country_event = { id = 13201 days = 0 } }
+    }
+
+    ai_will_do = {
+      factor = 1
+    }
+  }
+
+  nationalize = {
+    alert = no
+    picture = nationalize
+    potential = {
+      can_nationalize = yes
+    }
+    allow = {
+      #NOT = { part_of_sphere = yes }
+      #ruling_party_ideology = communist
+      NOT = { has_country_modifier = pending_nationalize }
+      government = proletarian_dictatorship
+    }
+    effect = {
+      nationalize = yes
+      country_event = 96086
+    }
+
+    ai_will_do = {
+      factor = 0
+    }
+  }
+
+  newly_industrialized_country = {
+    picture = "newly_industrialized_country"
+    alert = no
+    potential = {
+      nationalvalue = nv_development
+    }
+
+    allow = {
+      technicolor = 1
+      cars = 1
+      calculators = 1
+      reinforced_concrete = 1
+      synthetic_rubber = 1
+      fordism = 1
+      early_highway = 1
+      microwave_transmission = 1
+      recovery_boiler = 1
+    }
+    effect = {
+      prestige = 20
+      country_event = 18590
+    }
+    ai_will_do = {
+      factor = 1
+    }
+  }
+
+  social_credit_system = {
+    picture = "social_credit_system"
+    potential = {
+      NOT = { government = democracy }
+      NOT = { government = hms_government }
+      is_secondary_power = yes
+      comprehensive_school = 1
+    }
+
+    allow = {
+      international_science = 1
+      is_greater_power = yes
+    }
+    effect = {
+      prestige = -5
+      add_country_modifier = { name = social_credit_system duration = -1 }
+    }
+    ai_will_do = {
+      factor = 1
+    }
+
+  }
 
 }

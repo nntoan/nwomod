@@ -1,23 +1,23 @@
 #Pokrovsk - Ciskei (568000/142000 POPS)
 2672 = {
-	clergymen = {
-		culture = xhosa
-		religion =  protestant 
-		size = 1136
-	 } 
-	clergymen = {
-		culture = xhosa
-		religion = secularism
-		size = 1704
-	 } 
-	farmers = {
-		culture = xhosa
-		religion =  protestant 
-		size = 55664
-	 } 
-	farmers = {
-		culture = xhosa
-		religion = secularism
-		size = 83496
-	 } 
+  clergymen = {
+    culture = xhosa
+    religion =  protestant
+    size = 1136
+  }
+  clergymen = {
+    culture = xhosa
+    religion = secularism
+    size = 1704
+  }
+  farmers = {
+    culture = xhosa
+    religion =  protestant
+    size = 55664
+  }
+  farmers = {
+    culture = xhosa
+    religion = secularism
+    size = 83496
+  }
 }

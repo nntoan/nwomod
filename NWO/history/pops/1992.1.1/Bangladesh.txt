@@ -1,428 +1,428 @@
 #Bryanka - Sylhet (7284000/1821000 POPS)
 1070 = {
-	clergymen = {
-		culture = bengali
-		religion =  sunni 
-		size = 36420
-	 } 
-	farmers = {
-		culture = bengali
-		religion =  sunni 
-		size = 815808
-	 } 
-	farmers = {
-		culture = bengali
-		religion = secularism
-		size = 815808
-	 } 
-	farmers = {
-		culture = bengali_hindu
-		religion =  hindu 
-		size = 288446
-	 } 
-	farmers = {
-		culture = bengali_hindu
-		religion = secularism
-		size = 39333
-	 } 
+  clergymen = {
+    culture = bengali
+    religion =  sunni
+    size = 36420
+  }
+  farmers = {
+    culture = bengali
+    religion =  sunni
+    size = 815808
+  }
+  farmers = {
+    culture = bengali
+    religion = secularism
+    size = 815808
+  }
+  farmers = {
+    culture = bengali_hindu
+    religion =  hindu
+    size = 288446
+  }
+  farmers = {
+    culture = bengali_hindu
+    religion = secularism
+    size = 39333
+  }
 }
 #Dacca - Dhaka, Sylhet (15541000/3885250 POPS)
 1254 = {
-	clergymen = {
-		culture = bengali
-		religion =  sunni 
-		size = 77705
-	 } 
-	farmers = {
-		culture = bengali
-		religion =  sunni 
-		size = 1914651
-	 } 
-	farmers = {
-		culture = bengali
-		religion = secularism
-		size = 1914651
-	 } 
-	farmers = {
-		culture = bengali_hindu
-		religion =  hindu 
-		size = 341902
-	 } 
-	farmers = {
-		culture = bengali_hindu
-		religion = secularism
-		size = 46623
-	 } 
+  clergymen = {
+    culture = bengali
+    religion =  sunni
+    size = 77705
+  }
+  farmers = {
+    culture = bengali
+    religion =  sunni
+    size = 1914651
+  }
+  farmers = {
+    culture = bengali
+    religion = secularism
+    size = 1914651
+  }
+  farmers = {
+    culture = bengali_hindu
+    religion =  hindu
+    size = 341902
+  }
+  farmers = {
+    culture = bengali_hindu
+    religion = secularism
+    size = 46623
+  }
 }
 #Rajshahi - Rajshahi, Rangpur (16223000/4055750 POPS)
 1255 = {
-	clergymen = {
-		culture = bengali
-		religion =  sunni 
-		size = 81115
-	 } 
-	farmers = {
-		culture = bengali
-		religion =  sunni 
-		size = 1771551
-	 } 
-	farmers = {
-		culture = bengali
-		religion = secularism
-		size = 1771551
-	 } 
-	farmers = {
-		culture = bengali_hindu
-		religion =  hindu 
-		size = 713812
-	 } 
-	farmers = {
-		culture = bengali_hindu
-		religion = secularism
-		size = 97338
-	 } 
+  clergymen = {
+    culture = bengali
+    religion =  sunni
+    size = 81115
+  }
+  farmers = {
+    culture = bengali
+    religion =  sunni
+    size = 1771551
+  }
+  farmers = {
+    culture = bengali
+    religion = secularism
+    size = 1771551
+  }
+  farmers = {
+    culture = bengali_hindu
+    religion =  hindu
+    size = 713812
+  }
+  farmers = {
+    culture = bengali_hindu
+    religion = secularism
+    size = 97338
+  }
 }
 #Jessore - Khulna, Barisal (11664000/2916000 POPS)
 1256 = {
-	clergymen = {
-		culture = bengali
-		religion =  sunni 
-		size = 58320
-	 } 
-	farmers = {
-		culture = bengali
-		religion =  sunni 
-		size = 1192060
-	 } 
-	farmers = {
-		culture = bengali
-		religion = secularism
-		size = 1192060
-	 } 
-	farmers = {
-		culture = bengali_hindu
-		religion =  hindu 
-		size = 641520
-	 } 
-	farmers = {
-		culture = bengali_hindu
-		religion = secularism
-		size = 87480
-	 } 
+  clergymen = {
+    culture = bengali
+    religion =  sunni
+    size = 58320
+  }
+  farmers = {
+    culture = bengali
+    religion =  sunni
+    size = 1192060
+  }
+  farmers = {
+    culture = bengali
+    religion = secularism
+    size = 1192060
+  }
+  farmers = {
+    culture = bengali_hindu
+    religion =  hindu
+    size = 641520
+  }
+  farmers = {
+    culture = bengali_hindu
+    religion = secularism
+    size = 87480
+  }
 }
 #Chittagong - Chittagong (12383000/3095750 POPS)
 1257 = {
-	officers = {
-		culture = bengali
-		religion =  sunni 
-		size = 2319
-	 } 
-	soldiers = {
-		culture = bengali
-		religion =  sunni 
-		size = 44061
-	 } 
-	aristocrats = {
-		culture = bengali
-		religion =  sunni 
-		size = 123830
-	 } 
-	bureaucrats = {
-		culture = bengali
-		religion =  sunni 
-		size = 3095
-	 } 
-	capitalists = {
-		culture = bengali
-		religion =  sunni 
-		size = 15478
-	 } 
-	clergymen = {
-		culture = bengali
-		religion =  sunni 
-		size = 61915
-	 } 
-	clerks = {
-		culture = bengali
-		religion =  sunni 
-		size = 32354
-	 } 
-	artisans = {
-		culture = bengali
-		religion =  sunni 
-		size = 30736
-	 } 
-	craftsmen = {
-		culture = bengali
-		religion =  sunni 
-		size = 97063
-	 } 
-	farmers = {
-		culture = bengali
-		religion =  sunni 
-		size = 1468871
-	 } 
-	farmers = {
-		culture = bengali
-		religion = secularism
-		size = 1468871
-	 } 
-	farmers = {
-		culture = bengali_hindu
-		religion =  hindu 
-		size = 54485
-	 } 
-	farmers = {
-		culture = bengali_hindu
-		religion = secularism
-		size = 7429
-	 } 
+  officers = {
+    culture = bengali
+    religion =  sunni
+    size = 2319
+  }
+  soldiers = {
+    culture = bengali
+    religion =  sunni
+    size = 44061
+  }
+  aristocrats = {
+    culture = bengali
+    religion =  sunni
+    size = 123830
+  }
+  bureaucrats = {
+    culture = bengali
+    religion =  sunni
+    size = 3095
+  }
+  capitalists = {
+    culture = bengali
+    religion =  sunni
+    size = 15478
+  }
+  clergymen = {
+    culture = bengali
+    religion =  sunni
+    size = 61915
+  }
+  clerks = {
+    culture = bengali
+    religion =  sunni
+    size = 32354
+  }
+  artisans = {
+    culture = bengali
+    religion =  sunni
+    size = 30736
+  }
+  craftsmen = {
+    culture = bengali
+    religion =  sunni
+    size = 97063
+  }
+  farmers = {
+    culture = bengali
+    religion =  sunni
+    size = 1468871
+  }
+  farmers = {
+    culture = bengali
+    religion = secularism
+    size = 1468871
+  }
+  farmers = {
+    culture = bengali_hindu
+    religion =  hindu
+    size = 54485
+  }
+  farmers = {
+    culture = bengali_hindu
+    religion = secularism
+    size = 7429
+  }
 }
 #Novo Mariinsk - Narayanganj (13112000/3278000 POPS)
 2637 = {
-	clergymen = {
-		culture = bengali
-		religion =  sunni 
-		size = 65560
-	 } 
-	farmers = {
-		culture = bengali
-		religion =  sunni 
-		size = 1615398
-	 } 
-	farmers = {
-		culture = bengali
-		religion = secularism
-		size = 1615398
-	 } 
-	farmers = {
-		culture = bengali_hindu
-		religion =  hindu 
-		size = 288464
-	 } 
-	farmers = {
-		culture = bengali_hindu
-		religion = secularism
-		size = 39336
-	 } 
+  clergymen = {
+    culture = bengali
+    religion =  sunni
+    size = 65560
+  }
+  farmers = {
+    culture = bengali
+    religion =  sunni
+    size = 1615398
+  }
+  farmers = {
+    culture = bengali
+    religion = secularism
+    size = 1615398
+  }
+  farmers = {
+    culture = bengali_hindu
+    religion =  hindu
+    size = 288464
+  }
+  farmers = {
+    culture = bengali_hindu
+    religion = secularism
+    size = 39336
+  }
 }
 #Svetlogorsk - Khulna (5827000/1456750 POPS)
 2657 = {
-	officers = {
-		culture = bengali
-		religion =  sunni 
-		size = 2182
-	 } 
-	soldiers = {
-		culture = bengali
-		religion =  sunni 
-		size = 41467
-	 } 
-	aristocrats = {
-		culture = bengali
-		religion =  sunni 
-		size = 58270
-	 } 
-	bureaucrats = {
-		culture = bengali
-		religion =  sunni 
-		size = 1456
-	 } 
-	capitalists = {
-		culture = bengali
-		religion =  sunni 
-		size = 7283
-	 } 
-	clergymen = {
-		culture = bengali
-		religion =  sunni 
-		size = 29135
-	 } 
-	clerks = {
-		culture = bengali
-		religion =  sunni 
-		size = 14993
-	 } 
-	artisans = {
-		culture = bengali
-		religion =  sunni 
-		size = 14243
-	 } 
-	craftsmen = {
-		culture = bengali
-		religion =  sunni 
-		size = 44980
-	 } 
-	farmers = {
-		culture = bengali
-		religion =  sunni 
-		size = 878553
-	 } 
-	farmers = {
-		culture = bengali_hindu
-		religion =  hindu 
-		size = 320484
-	 } 
-	farmers = {
-		culture = bengali_hindu
-		religion = secularism
-		size = 43702
-	 } 
+  officers = {
+    culture = bengali
+    religion =  sunni
+    size = 2182
+  }
+  soldiers = {
+    culture = bengali
+    religion =  sunni
+    size = 41467
+  }
+  aristocrats = {
+    culture = bengali
+    religion =  sunni
+    size = 58270
+  }
+  bureaucrats = {
+    culture = bengali
+    religion =  sunni
+    size = 1456
+  }
+  capitalists = {
+    culture = bengali
+    religion =  sunni
+    size = 7283
+  }
+  clergymen = {
+    culture = bengali
+    religion =  sunni
+    size = 29135
+  }
+  clerks = {
+    culture = bengali
+    religion =  sunni
+    size = 14993
+  }
+  artisans = {
+    culture = bengali
+    religion =  sunni
+    size = 14243
+  }
+  craftsmen = {
+    culture = bengali
+    religion =  sunni
+    size = 44980
+  }
+  farmers = {
+    culture = bengali
+    religion =  sunni
+    size = 878553
+  }
+  farmers = {
+    culture = bengali_hindu
+    religion =  hindu
+    size = 320484
+  }
+  farmers = {
+    culture = bengali_hindu
+    religion = secularism
+    size = 43702
+  }
 }
 #Gheta - Comilla (7284000/1821000 POPS)
 2658 = {
-	clergymen = {
-		culture = bengali
-		religion =  sunni 
-		size = 36420
-	 } 
-	farmers = {
-		culture = bengali
-		religion =  sunni 
-		size = 978969
-	 } 
-	farmers = {
-		culture = bengali
-		religion = secularism
-		size = 978969
-	 } 
-	farmers = {
-		culture = bengali_hindu
-		religion =  hindu 
-		size = 32049
-	 } 
-	farmers = {
-		culture = bengali_hindu
-		religion = secularism
-		size = 4370
-	 } 
+  clergymen = {
+    culture = bengali
+    religion =  sunni
+    size = 36420
+  }
+  farmers = {
+    culture = bengali
+    religion =  sunni
+    size = 978969
+  }
+  farmers = {
+    culture = bengali
+    religion = secularism
+    size = 978969
+  }
+  farmers = {
+    culture = bengali_hindu
+    religion =  hindu
+    size = 32049
+  }
+  farmers = {
+    culture = bengali_hindu
+    religion = secularism
+    size = 4370
+  }
 }
 #Pevek - Mymensingh (13112000/3278000 POPS)
 2666 = {
-	officers = {
-		culture = bengali
-		religion =  sunni 
-		size = 8955
-	 } 
-	soldiers = {
-		culture = bengali
-		religion =  sunni 
-		size = 170155
-	 } 
-	aristocrats = {
-		culture = bengali
-		religion =  sunni 
-		size = 131120
-	 } 
-	bureaucrats = {
-		culture = bengali
-		religion =  sunni 
-		size = 3278
-	 } 
-	capitalists = {
-		culture = bengali
-		religion =  sunni 
-		size = 16390
-	 } 
-	clergymen = {
-		culture = bengali
-		religion =  sunni 
-		size = 65560
-	 } 
-	clerks = {
-		culture = bengali
-		religion =  sunni 
-		size = 32879
-	 } 
-	artisans = {
-		culture = bengali
-		religion =  sunni 
-		size = 31235
-	 } 
-	craftsmen = {
-		culture = bengali
-		religion =  sunni 
-		size = 98639
-	 } 
-	farmers = {
-		culture = bengali
-		religion =  sunni 
-		size = 1339513
-	 } 
-	farmers = {
-		culture = bengali
-		religion = secularism
-		size = 1339513
-	 } 
-	farmers = {
-		culture = bengali_hindu
-		religion =  hindu 
-		size = 288464
-	 } 
-	farmers = {
-		culture = bengali_hindu
-		religion = secularism
-		size = 39336
-	 } 
+  officers = {
+    culture = bengali
+    religion =  sunni
+    size = 8955
+  }
+  soldiers = {
+    culture = bengali
+    religion =  sunni
+    size = 170155
+  }
+  aristocrats = {
+    culture = bengali
+    religion =  sunni
+    size = 131120
+  }
+  bureaucrats = {
+    culture = bengali
+    religion =  sunni
+    size = 3278
+  }
+  capitalists = {
+    culture = bengali
+    religion =  sunni
+    size = 16390
+  }
+  clergymen = {
+    culture = bengali
+    religion =  sunni
+    size = 65560
+  }
+  clerks = {
+    culture = bengali
+    religion =  sunni
+    size = 32879
+  }
+  artisans = {
+    culture = bengali
+    religion =  sunni
+    size = 31235
+  }
+  craftsmen = {
+    culture = bengali
+    religion =  sunni
+    size = 98639
+  }
+  farmers = {
+    culture = bengali
+    religion =  sunni
+    size = 1339513
+  }
+  farmers = {
+    culture = bengali
+    religion = secularism
+    size = 1339513
+  }
+  farmers = {
+    culture = bengali_hindu
+    religion =  hindu
+    size = 288464
+  }
+  farmers = {
+    culture = bengali_hindu
+    religion = secularism
+    size = 39336
+  }
 }
 #Dudinka - Chittagong Hill Tracts (1036000/259000 POPS)
 2680 = {
-	clergymen = {
-		culture = bengali
-		religion =  sunni 
-		size = 5180
-	 } 
-	farmers = {
-		culture = bengali
-		religion =  sunni 
-		size = 101010
-	 } 
-	farmers = {
-		culture = asian_minor
-		religion =  protestant 
-		size = 125356
-	 } 
-	farmers = {
-		culture = asian_minor
-		religion = secularism
-		size = 17094
-	 } 
-	farmers = {
-		culture = bengali_hindu
-		religion =  hindu 
-		size = 4558
-	 } 
-	farmers = {
-		culture = bengali_hindu
-		religion = secularism
-		size = 621
-	 } 
+  clergymen = {
+    culture = bengali
+    religion =  sunni
+    size = 5180
+  }
+  farmers = {
+    culture = bengali
+    religion =  sunni
+    size = 101010
+  }
+  farmers = {
+    culture = asian_minor
+    religion =  protestant
+    size = 125356
+  }
+  farmers = {
+    culture = asian_minor
+    religion = secularism
+    size = 17094
+  }
+  farmers = {
+    culture = bengali_hindu
+    religion =  hindu
+    size = 4558
+  }
+  farmers = {
+    culture = bengali_hindu
+    religion = secularism
+    size = 621
+  }
 }
 #Kostino - Rangpur (8741000/2185250 POPS)
 2692 = {
-	clergymen = {
-		culture = bengali
-		religion =  sunni 
-		size = 43705
-	 } 
-	farmers = {
-		culture = bengali
-		religion =  sunni 
-		size = 954517
-	 } 
-	farmers = {
-		culture = bengali
-		religion = secularism
-		size = 954517
-	 } 
-	farmers = {
-		culture = bengali_hindu
-		religion =  hindu 
-		size = 384604
-	 } 
-	farmers = {
-		culture = bengali_hindu
-		religion = secularism
-		size = 52446
-	 } 
+  clergymen = {
+    culture = bengali
+    religion =  sunni
+    size = 43705
+  }
+  farmers = {
+    culture = bengali
+    religion =  sunni
+    size = 954517
+  }
+  farmers = {
+    culture = bengali
+    religion = secularism
+    size = 954517
+  }
+  farmers = {
+    culture = bengali_hindu
+    religion =  hindu
+    size = 384604
+  }
+  farmers = {
+    culture = bengali_hindu
+    religion = secularism
+    size = 52446
+  }
 }

@@ -1,23 +1,23 @@
 #Honuu - KwaNdbele (339000/84750 POPS)
 2643 = {
-	clergymen = {
-		culture = nguni
-		religion =  protestant 
-		size = 678
-	 } 
-	clergymen = {
-		culture = nguni
-		religion = secularism
-		size = 1017
-	 } 
-	farmers = {
-		culture = nguni
-		religion =  protestant 
-		size = 33222
-	 } 
-	farmers = {
-		culture = nguni
-		religion = secularism
-		size = 49833
-	 } 
+  clergymen = {
+    culture = nguni
+    religion =  protestant
+    size = 678
+  }
+  clergymen = {
+    culture = nguni
+    religion = secularism
+    size = 1017
+  }
+  farmers = {
+    culture = nguni
+    religion =  protestant
+    size = 33222
+  }
+  farmers = {
+    culture = nguni
+    religion = secularism
+    size = 49833
+  }
 }

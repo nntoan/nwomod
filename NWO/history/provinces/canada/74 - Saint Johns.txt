@@ -9,16 +9,16 @@ railroad = 1
 colonial = 2
 naval_base = 3
 1992.1.1 = {
-owner = CAN
-controller = CAN
-add_core = CAN
-add_core = NFL
-railroad = 1
-colonial = 0
-naval_base = 3
-state_building = {
-	level = 1
-	building = home_appliance_factory
-	upgrade = yes
-}
+  owner = CAN
+  controller = CAN
+  add_core = CAN
+  add_core = NFL
+  railroad = 1
+  colonial = 0
+  naval_base = 3
+  state_building = {
+    level = 1
+    building = home_appliance_factory
+    upgrade = yes
+  }
 }

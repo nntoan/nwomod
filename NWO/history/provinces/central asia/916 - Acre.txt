@@ -7,10 +7,10 @@ life_rating = 36
 terrain = hilly_farmland
 colonial = 2
 1992.1.1 = {
-owner = ISR
-controller = ISR
-add_core = ISR
-add_core = PAL
-railroad = 1
-colonial = 0
+  owner = ISR
+  controller = ISR
+  add_core = ISR
+  add_core = PAL
+  railroad = 1
+  colonial = 0
 }

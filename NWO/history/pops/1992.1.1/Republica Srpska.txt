@@ -1,166 +1,166 @@
 #Banja Luka - Banja Luka (943000/235750 POPS)
 785 = {
-	officers = {
-		culture = serb
-		religion =  orthodox 
-		size = 140
-	 } 
-	officers = {
-		culture = serb
-		religion = secularism
-		size = 85
-	 } 
-	soldiers = {
-		culture = serb
-		religion =  orthodox 
-		size = 2669
-	 } 
-	soldiers = {
-		culture = serb
-		religion = secularism
-		size = 1636
-	 } 
-	aristocrats = {
-		culture = serb
-		religion =  orthodox 
-		size = 5846
-	 } 
-	aristocrats = {
-		culture = serb
-		religion = secularism
-		size = 3583
-	 } 
-	bureaucrats = {
-		culture = serb
-		religion =  orthodox 
-		size = 292
-	 } 
-	bureaucrats = {
-		culture = serb
-		religion = secularism
-		size = 178
-	 } 
-	capitalists = {
-		culture = serb
-		religion =  orthodox 
-		size = 730
-	 } 
-	capitalists = {
-		culture = serb
-		religion = secularism
-		size = 447
-	 } 
-	clergymen = {
-		culture = serb
-		religion =  orthodox 
-		size = 2923
-	 } 
-	clergymen = {
-		culture = serb
-		religion = secularism
-		size = 1791
-	 } 
-	clerks = {
-		culture = serb
-		religion =  orthodox 
-		size = 2583
-	 } 
-	clerks = {
-		culture = serb
-		religion = secularism
-		size = 1583
-	 } 
-	artisans = {
-		culture = serb
-		religion =  orthodox 
-		size = 2454
-	 } 
-	artisans = {
-		culture = serb
-		religion = secularism
-		size = 1504
-	 } 
-	craftsmen = {
-		culture = serb
-		religion =  orthodox 
-		size = 7751
-	 } 
-	craftsmen = {
-		culture = serb
-		religion = secularism
-		size = 4751
-	 } 
-	farmers = {
-		culture = serb
-		religion =  orthodox 
-		size = 76923
-	 } 
-	farmers = {
-		culture = serb
-		religion = secularism
-		size = 47146
-	 } 
-	farmers = {
-		culture = bosniak
-		religion =  sunni 
-		size = 40077
-	 } 
-	farmers = {
-		culture = croat
-		religion =  catholic 
-		size = 14616
-	 } 
-	farmers = {
-		culture = croat
-		religion = secularism
-		size = 8958
-	 } 
-	farmers = {
-		culture = yugoslav
-		religion =  orthodox 
-		size = 4384
-	 } 
-	farmers = {
-		culture = yugoslav
-		religion = secularism
-		size = 2687
-	 } 
+  officers = {
+    culture = serb
+    religion =  orthodox
+    size = 140
+  }
+  officers = {
+    culture = serb
+    religion = secularism
+    size = 85
+  }
+  soldiers = {
+    culture = serb
+    religion =  orthodox
+    size = 2669
+  }
+  soldiers = {
+    culture = serb
+    religion = secularism
+    size = 1636
+  }
+  aristocrats = {
+    culture = serb
+    religion =  orthodox
+    size = 5846
+  }
+  aristocrats = {
+    culture = serb
+    religion = secularism
+    size = 3583
+  }
+  bureaucrats = {
+    culture = serb
+    religion =  orthodox
+    size = 292
+  }
+  bureaucrats = {
+    culture = serb
+    religion = secularism
+    size = 178
+  }
+  capitalists = {
+    culture = serb
+    religion =  orthodox
+    size = 730
+  }
+  capitalists = {
+    culture = serb
+    religion = secularism
+    size = 447
+  }
+  clergymen = {
+    culture = serb
+    religion =  orthodox
+    size = 2923
+  }
+  clergymen = {
+    culture = serb
+    religion = secularism
+    size = 1791
+  }
+  clerks = {
+    culture = serb
+    religion =  orthodox
+    size = 2583
+  }
+  clerks = {
+    culture = serb
+    religion = secularism
+    size = 1583
+  }
+  artisans = {
+    culture = serb
+    religion =  orthodox
+    size = 2454
+  }
+  artisans = {
+    culture = serb
+    religion = secularism
+    size = 1504
+  }
+  craftsmen = {
+    culture = serb
+    religion =  orthodox
+    size = 7751
+  }
+  craftsmen = {
+    culture = serb
+    religion = secularism
+    size = 4751
+  }
+  farmers = {
+    culture = serb
+    religion =  orthodox
+    size = 76923
+  }
+  farmers = {
+    culture = serb
+    religion = secularism
+    size = 47146
+  }
+  farmers = {
+    culture = bosniak
+    religion =  sunni
+    size = 40077
+  }
+  farmers = {
+    culture = croat
+    religion =  catholic
+    size = 14616
+  }
+  farmers = {
+    culture = croat
+    religion = secularism
+    size = 8958
+  }
+  farmers = {
+    culture = yugoslav
+    religion =  orthodox
+    size = 4384
+  }
+  farmers = {
+    culture = yugoslav
+    religion = secularism
+    size = 2687
+  }
 }
 #Foca - Foca, Vlasenica, Goražde (844000/211000 POPS)
 787 = {
-	clergymen = {
-		culture = serb
-		religion =  orthodox 
-		size = 2616
-	 } 
-	clergymen = {
-		culture = serb
-		religion = secularism
-		size = 1603
-	 } 
-	farmers = {
-		culture = serb
-		religion =  orthodox 
-		size = 49711
-	 } 
-	farmers = {
-		culture = serb
-		religion = secularism
-		size = 30468
-	 } 
-	farmers = {
-		culture = bosniak
-		religion =  sunni 
-		size = 107610
-	 } 
-	farmers = {
-		culture = yugoslav
-		religion =  orthodox 
-		size = 11773
-	 } 
-	farmers = {
-		culture = yugoslav
-		religion = secularism
-		size = 7216
-	 } 
+  clergymen = {
+    culture = serb
+    religion =  orthodox
+    size = 2616
+  }
+  clergymen = {
+    culture = serb
+    religion = secularism
+    size = 1603
+  }
+  farmers = {
+    culture = serb
+    religion =  orthodox
+    size = 49711
+  }
+  farmers = {
+    culture = serb
+    religion = secularism
+    size = 30468
+  }
+  farmers = {
+    culture = bosniak
+    religion =  sunni
+    size = 107610
+  }
+  farmers = {
+    culture = yugoslav
+    religion =  orthodox
+    size = 11773
+  }
+  farmers = {
+    culture = yugoslav
+    religion = secularism
+    size = 7216
+  }
 }

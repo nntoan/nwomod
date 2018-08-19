@@ -6,13 +6,13 @@ life_rating = 33
 terrain = marsh
 colonial = 2
 1992.1.1 = {
-owner = MOZ
-controller = MOZ
-add_core = MOZ
-colonial = 0
-state_building = {
-	level = 1
-	building = turbines_factory
-	upgrade = yes
-}
+  owner = MOZ
+  controller = MOZ
+  add_core = MOZ
+  colonial = 0
+  state_building = {
+    level = 1
+    building = turbines_factory
+    upgrade = yes
+  }
 }

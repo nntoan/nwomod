@@ -10,28 +10,28 @@ country_event = {
     NOT = { year = 1990 }
     NOT = { YUG = { war_with = ITA } }
     war = no
-	TRE = { owns = 736 }
-	is_our_vassal = TRE # USA
+    TRE = { owns = 736 }
+    is_our_vassal = TRE # USA
   }
 
   mean_time_to_happen = { months = 2  }
 
   option = {
     name = EVT_8020300_A
-	TRE = { country_event = 8020299 }
-	badboy = -5 
-	relation = { who = YUG value = 100 } 
-	relation = { who = SUN value = 25 } 
-	ai_chance = { factor = 100 }
+    TRE = { country_event = 8020299 }
+    badboy = -5
+    relation = { who = YUG value = 100 }
+    relation = { who = SUN value = 25 }
+    ai_chance = { factor = 100 }
   }
 
   option = {
     name = EVT_8020300_B
-	any_pop = { militancy = 0.3  consciousness = 1.0 }
-	badboy = 10 
-	relation = { who = YUG value = -150 } 
-	relation = { who = SUN value = -50 } 
-	ai_chance = { factor = 0 }
+    any_pop = { militancy = 0.3  consciousness = 1.0 }
+    badboy = 10
+    relation = { who = YUG value = -150 }
+    relation = { who = SUN value = -50 }
+    ai_chance = { factor = 0 }
   }
 }
 country_event = {
@@ -39,12 +39,12 @@ country_event = {
   title = EVT_8020300_NAME
   desc = EVT_8020300_DESC
   picture = "nwo2_free_city_of_trieste"
-  is_triggered_only = yes 
-  
-  option = { 
-		name = EVT_8020300_A
-		government = democracy
-		primary_culture = italian
+  is_triggered_only = yes
+
+  option = {
+    name = EVT_8020300_A
+    government = democracy
+    primary_culture = italian
   }
 }
 
@@ -62,28 +62,28 @@ country_event = {
     exists = TRE
     USA = { is_our_vassal = TRE }
     TRE = { ai = yes }
-	TRE = { is_vassal = yes } 
+    TRE = { is_vassal = yes }
   }
 
   mean_time_to_happen = { months = 9  }
 
   option = {
     name = EVT_8020301_A
-	USA = { country_event = 8020302 } 
-	badboy = -5 
-	relation = { who = ITA value = 100 } 
-	relation = { who = USA value = 25 } 
-	ai_chance = { factor = 100 }
+    USA = { country_event = 8020302 }
+    badboy = -5
+    relation = { who = ITA value = 100 }
+    relation = { who = USA value = 25 }
+    ai_chance = { factor = 100 }
   }
 
   option = {
     name = EVT_8020301_B
-	USA = { country_event = 8020303 }
-	any_pop = { militancy = 0.3  consciousness = 1.0 }
-	badboy = 5 
-	relation = { who = ITA value = -150 } 
-	relation = { who = USA value = -50 } 
-	ai_chance = { factor = 0 }
+    USA = { country_event = 8020303 }
+    any_pop = { militancy = 0.3  consciousness = 1.0 }
+    badboy = 5
+    relation = { who = ITA value = -150 }
+    relation = { who = USA value = -50 }
+    ai_chance = { factor = 0 }
   }
 }
 country_event = {
@@ -96,18 +96,18 @@ country_event = {
 
   option = {
     name = EVT_8020302_A
-	ITA = { country_event = 8020305 }
-	relation = { who = ITA value = 100 } 
-	any_pop = { militancy = -0.2  consciousness = -0.1 }
-	ai_chance = { factor = 100 }
+    ITA = { country_event = 8020305 }
+    relation = { who = ITA value = 100 }
+    any_pop = { militancy = -0.2  consciousness = -0.1 }
+    ai_chance = { factor = 100 }
   }
   option = {
     name = EVT_8020302_B
-	relation = { who = ITA value = -100 } 
-	any_pop = { militancy = 0.2  consciousness = 1.0 }
-	ai_chance = { factor = 0 }
+    relation = { who = ITA value = -100 }
+    any_pop = { militancy = 0.2  consciousness = 1.0 }
+    ai_chance = { factor = 0 }
   }
-  
+
 }
 country_event = {
   id = 8020303
@@ -119,16 +119,16 @@ country_event = {
 
   option = {
     name = EVT_8020303_A
-	any_pop = { militancy = 0.3  consciousness = 1.0 }
+    any_pop = { militancy = 0.3  consciousness = 1.0 }
   }
 
   option = {
     name = EVT_8020303_B
-	YUG = { country_event = 8020304 }
-	any_pop = { militancy = 0.5  consciousness = 0.5 }
-	relation = { who = YUG value = 100 } 
-	relation = { who = ITA value = -100 } 
-	relation = { who = SUN value = 25 } 
+    YUG = { country_event = 8020304 }
+    any_pop = { militancy = 0.5  consciousness = 0.5 }
+    relation = { who = YUG value = 100 }
+    relation = { who = ITA value = -100 }
+    relation = { who = SUN value = 25 }
   }
 }
 country_event = {
@@ -141,9 +141,9 @@ country_event = {
 
   option = {
     name = EVT_8020304_A
-	inherit = TRE 
-	736 = { add_core = SLO }
-	any_owned = { remove_core = TRE }
+    inherit = TRE
+    736 = { add_core = SLO }
+    any_owned = { remove_core = TRE }
   }
 }
 
@@ -157,6 +157,6 @@ country_event = {
 
   option = {
     name = EVT_8020302_A
-	inherit = TRE
+    inherit = TRE
   }
 }

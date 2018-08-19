@@ -8,10 +8,10 @@ terrain = hilly_farmland
 railroad = 1
 colonial = 0
 1992.1.1 = {
-owner = GBR
-controller = GBR
-add_core = GBR
-add_core = IOM
-railroad = 2
-colonial = 0
+  owner = GBR
+  controller = GBR
+  add_core = GBR
+  add_core = IOM
+  railroad = 2
+  colonial = 0
 }

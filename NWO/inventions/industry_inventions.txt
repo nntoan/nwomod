@@ -1,1789 +1,1789 @@
 coal_transport_delivery = {
-	limit = {
-		photography = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-		factory_goods_output = {
-			cement = 0.0500
-		}
-	}
+  limit = {
+    photography = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+    factory_goods_output = {
+      cement = 0.0500
+    }
+  }
 }
 thermal_power_station = {
-	limit = {
-		photography = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-		factory_goods_output = {
-			machine_parts = 0.0500
-		}
-	}
+  limit = {
+    photography = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+    factory_goods_output = {
+      machine_parts = 0.0500
+    }
+  }
 }
 gas_turbine_plants = {
-	limit = {
-		photography = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-		factory_throughput = 0.0500
-	}
+  limit = {
+    photography = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+    factory_throughput = 0.0500
+  }
 }
 reciprocating_engines = {
-	limit = {
-		photography = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-		rgo_output = 0.0500
-		factory_throughput = 0.0500
-	}
+  limit = {
+    photography = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+    rgo_output = 0.0500
+    factory_throughput = 0.0500
+  }
 }
 drilling_rig = {
-	limit = {
-		modern_medicine = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-		rgo_goods_output = {
-			petroleum = 0.1000
-		}
-		rgo_size = {
-			petroleum = 0.1000
-		}
-	}
+  limit = {
+    modern_medicine = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+    rgo_goods_output = {
+      petroleum = 0.1000
+    }
+    rgo_size = {
+      petroleum = 0.1000
+    }
+  }
 }
 drill_completion = {
-	limit = {
-		modern_medicine = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-		rgo_goods_output = {
-			petroleum = 0.1000
-		}
-		rgo_size = {
-			petroleum = 0.1000
-		}
-	}
+  limit = {
+    modern_medicine = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+    rgo_goods_output = {
+      petroleum = 0.1000
+    }
+    rgo_size = {
+      petroleum = 0.1000
+    }
+  }
 }
 water_injectors = {
-	limit = {
-		modern_medicine = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-		rgo_goods_output = {
-			petroleum = 0.1000
-		}
-		rgo_size = {
-			petroleum = 0.1000
-		}
-	}
+  limit = {
+    modern_medicine = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+    rgo_goods_output = {
+      petroleum = 0.1000
+    }
+    rgo_size = {
+      petroleum = 0.1000
+    }
+  }
 }
 radioactive_waste_handling = {
-	limit = {
-		motion_picture = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-		factory_throughput = 0.0500
-	}
+  limit = {
+    motion_picture = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+    factory_throughput = 0.0500
+  }
 }
 reprocessing_depleted_uranium = {
-	limit = {
-		motion_picture = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-		factory_throughput = 0.0500
-	}
+  limit = {
+    motion_picture = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+    factory_throughput = 0.0500
+  }
 }
 lng_carrier = {
-	limit = {
-		penicillin = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-		rgo_output = 0.0500
-		factory_throughput = 0.0500
-	}
+  limit = {
+    penicillin = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+    rgo_output = 0.0500
+    factory_throughput = 0.0500
+  }
 }
 lng_storag_tank = {
-	limit = {
-		penicillin = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-		rgo_goods_output = {
-			petroleum = 0.1000
-		}
-		rgo_size = {
-			petroleum = 0.1000
-		}
-	}
+  limit = {
+    penicillin = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+    rgo_goods_output = {
+      petroleum = 0.1000
+    }
+    rgo_size = {
+      petroleum = 0.1000
+    }
+  }
 }
 apci_technology = {
-	limit = {
-		penicillin = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-		rgo_goods_output = {
-			petroleum = 0.1000
-		}
-		rgo_size = {
-			petroleum = 0.1000
-		}
-	}
+  limit = {
+    penicillin = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+    rgo_goods_output = {
+      petroleum = 0.1000
+    }
+    rgo_size = {
+      petroleum = 0.1000
+    }
+  }
 }
 deepwater_drilling = {
-	limit = {
-		molecular_biology = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-		rgo_goods_output = {
-			petroleum = 0.1000
-		}
-		rgo_size = {
-			petroleum = 0.1000
-		}
-	}
+  limit = {
+    molecular_biology = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+    rgo_goods_output = {
+      petroleum = 0.1000
+    }
+    rgo_size = {
+      petroleum = 0.1000
+    }
+  }
 }
 offshore_platform = {
-	limit = {
-		molecular_biology = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-		rgo_goods_output = {
-			petroleum = 0.1000
-		}
-		rgo_size = {
-			petroleum = 0.1000
-		}
-	}
+  limit = {
+    molecular_biology = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+    rgo_goods_output = {
+      petroleum = 0.1000
+    }
+    rgo_size = {
+      petroleum = 0.1000
+    }
+  }
 }
 oil_sands = {
-	limit = {
-		molecular_biology = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-		rgo_goods_output = {
-			petroleum = 0.1000
-		}
-		rgo_size = {
-			petroleum = 0.1000
-		}
-	}
+  limit = {
+    molecular_biology = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+    rgo_goods_output = {
+      petroleum = 0.1000
+    }
+    rgo_size = {
+      petroleum = 0.1000
+    }
+  }
 }
 horizontal_drilling = {
-	limit = {
-		clinical_pharmacology = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-		rgo_goods_output = {
-			petroleum = 0.1000
-		}
-		rgo_size = {
-			petroleum = 0.1000
-		}
-	}
+  limit = {
+    clinical_pharmacology = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+    rgo_goods_output = {
+      petroleum = 0.1000
+    }
+    rgo_size = {
+      petroleum = 0.1000
+    }
+  }
 }
 fracturing_fluids = {
-	limit = {
-		clinical_pharmacology = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-		rgo_goods_output = {
-			petroleum = 0.1000
-		}
-		rgo_size = {
-			petroleum = 0.1000
-		}
-	}
+  limit = {
+    clinical_pharmacology = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+    rgo_goods_output = {
+      petroleum = 0.1000
+    }
+    rgo_size = {
+      petroleum = 0.1000
+    }
+  }
 }
 microseismic_monitoring = {
-	limit = {
-		clinical_pharmacology = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-		rgo_goods_output = {
-			petroleum = 0.1000
-		}
-		rgo_size = {
-			petroleum = 0.1000
-		}
-	}
+  limit = {
+    clinical_pharmacology = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+    rgo_goods_output = {
+      petroleum = 0.1000
+    }
+    rgo_size = {
+      petroleum = 0.1000
+    }
+  }
 }
 solar_power = {
-	limit = {
-		digital_photography = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-		rgo_goods_output = {
-			coal = 0.1000
-		}
-		rgo_size = {
-			coal = 0.1000
-		}
-	}
+  limit = {
+    digital_photography = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+    rgo_goods_output = {
+      coal = 0.1000
+    }
+    rgo_size = {
+      coal = 0.1000
+    }
+  }
 }
 wind_power = {
-	limit = {
-		digital_photography = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-		rgo_goods_output = {
-			coal = 0.1000
-		}
-		rgo_size = {
-			coal = 0.1000
-		}
-	}
+  limit = {
+    digital_photography = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+    rgo_goods_output = {
+      coal = 0.1000
+    }
+    rgo_size = {
+      coal = 0.1000
+    }
+  }
 }
 biofuels = {
-	limit = {
-		digital_photography = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-		rgo_goods_output = {
-			coal = 0.1000
-		}
-		rgo_size = {
-			coal = 0.1000
-		}
-	}
+  limit = {
+    digital_photography = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+    rgo_goods_output = {
+      coal = 0.1000
+    }
+    rgo_size = {
+      coal = 0.1000
+    }
+  }
 }
 geothermal = {
-	limit = {
-		digital_photography = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-		rgo_goods_output = {
-			coal = 0.1000
-		}
-		rgo_size = {
-			coal = 0.1000
-		}
-	}
+  limit = {
+    digital_photography = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+    rgo_goods_output = {
+      coal = 0.1000
+    }
+    rgo_size = {
+      coal = 0.1000
+    }
+  }
 }
 electrical_grid_access = {
-	limit = {
-		genetic_engineering = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-		factory_goods_output = {
-			heating_electricity = 0.0500
-		}
-	}
+  limit = {
+    genetic_engineering = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+    factory_goods_output = {
+      heating_electricity = 0.0500
+    }
+  }
 }
 energy_storage = {
-	limit = {
-		genetic_engineering = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-		factory_goods_output = {
-			heating_electricity = 0.0500
-		}
-	}
+  limit = {
+    genetic_engineering = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+    factory_goods_output = {
+      heating_electricity = 0.0500
+    }
+  }
 }
 breeder_reactor = {
-	limit = {
-		genetic_engineering = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-		factory_goods_output = {
-			heating_electricity = 0.0500
-		}
-	}
+  limit = {
+    genetic_engineering = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+    factory_goods_output = {
+      heating_electricity = 0.0500
+    }
+  }
 }
 integral_fast_reactor = {
-	limit = {
-		genetic_engineering = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-		factory_goods_output = {
-			heating_electricity = 0.0500
-		}
-	}
+  limit = {
+    genetic_engineering = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+    factory_goods_output = {
+      heating_electricity = 0.0500
+    }
+  }
 }
 nanogenerator = {
-	limit = {
-		nanomedicine = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-		factory_goods_output = {
-			heating_electricity = 0.0500
-		}
-	}
+  limit = {
+    nanomedicine = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+    factory_goods_output = {
+      heating_electricity = 0.0500
+    }
+  }
 }
 piezoelectric_nanofibers = {
-	limit = {
-		nanomedicine = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-		factory_goods_output = {
-			heating_electricity = 0.0500
-		}
-	}
+  limit = {
+    nanomedicine = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+    factory_goods_output = {
+      heating_electricity = 0.0500
+    }
+  }
 }
 microturbine_technology = {
-	limit = {
-		nanomedicine = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-		factory_goods_output = {
-			heating_electricity = 0.0500
-		}
-	}
+  limit = {
+    nanomedicine = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+    factory_goods_output = {
+      heating_electricity = 0.0500
+    }
+  }
 }
 radio_navigation = {
-	limit = {
-		electric_generator = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-		factory_goods_output = {
-			machine_parts = 0.0500
-		}
-	}
+  limit = {
+    electric_generator = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+    factory_goods_output = {
+      machine_parts = 0.0500
+    }
+  }
 }
 radar = {
-	limit = {
-		electric_generator = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-		factory_goods_output = {
-			machine_parts = 0.0500
-		}
-	}
+  limit = {
+    electric_generator = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+    factory_goods_output = {
+      machine_parts = 0.0500
+    }
+  }
 }
 radio_broadcasting = {
-	limit = {
-		electric_generator = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-		factory_goods_output = {
-			electric_gear = 0.0500
-		}
-	}
+  limit = {
+    electric_generator = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+    factory_goods_output = {
+      electric_gear = 0.0500
+    }
+  }
 }
 digital_radio = {
-	limit = {
-		electric_generator = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-		factory_goods_output = {
-			telecommunications = 0.0500
-		}
-	}
+  limit = {
+    electric_generator = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+    factory_goods_output = {
+      telecommunications = 0.0500
+    }
+  }
 }
 electronic_television = {
-	limit = {
-		electrical_machines = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-		factory_goods_output = {
-			electric_gear = 0.0500
-		}
-	}
+  limit = {
+    electrical_machines = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+    factory_goods_output = {
+      electric_gear = 0.0500
+    }
+  }
 }
 color_television = {
-	limit = {
-		electrical_machines = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-		factory_goods_output = {
-			telecommunications = 0.0500
-		}
-	}
+  limit = {
+    electrical_machines = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+    factory_goods_output = {
+      telecommunications = 0.0500
+    }
+  }
 }
 digital_television = {
-	limit = {
-		electrical_machines = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-		factory_goods_output = {
-			telecommunications = 0.0500
-		}
-	}
+  limit = {
+    electrical_machines = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+    factory_goods_output = {
+      telecommunications = 0.0500
+    }
+  }
 }
 vacuum_tubes = {
-	limit = {
-		electrical_machines = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-		factory_goods_output = {
-			integrated_circuits = 0.0500
-		}
-	}
+  limit = {
+    electrical_machines = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+    factory_goods_output = {
+      integrated_circuits = 0.0500
+    }
+  }
 }
 semiconductor_device_fabrication = {
-	limit = {
-		electrical_machines = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-		factory_goods_output = {
-			integrated_circuits = 0.0500
-		}
-	}
+  limit = {
+    electrical_machines = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+    factory_goods_output = {
+      integrated_circuits = 0.0500
+    }
+  }
 }
 integrated_circuit = {
-	limit = {
-		machine_industry = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-		factory_goods_output = {
-			integrated_circuits = 0.0500
-		}
-	}
+  limit = {
+    machine_industry = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+    factory_goods_output = {
+      integrated_circuits = 0.0500
+    }
+  }
 }
 bit_design = {
-	limit = {
-		machine_industry = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-		factory_goods_output = {
-			integrated_circuits = 0.0500
-		}
-	}
+  limit = {
+    machine_industry = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+    factory_goods_output = {
+      integrated_circuits = 0.0500
+    }
+  }
 }
 multi_core_design = {
-	limit = {
-		machine_industry = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-		factory_goods_output = {
-			integrated_circuits = 0.0500
-		}
-	}
+  limit = {
+    machine_industry = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+    factory_goods_output = {
+      integrated_circuits = 0.0500
+    }
+  }
 }
 transistor_transistor_logic = {
-	limit = {
-		trucks = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-		factory_goods_output = {
-			integrated_circuits = 0.0500
-		}
-	}
+  limit = {
+    trucks = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+    factory_goods_output = {
+      integrated_circuits = 0.0500
+    }
+  }
 }
 commodore64 = {
-	limit = {
-		trucks = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-		factory_goods_output = {
-			computers = 0.0500
-		}
-	}
+  limit = {
+    trucks = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+    factory_goods_output = {
+      computers = 0.0500
+    }
+  }
 }
 programmable_device = {
-	limit = {
-		trucks = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-		factory_goods_output = {
-			telecommunications = 0.0500
-		}
-	}
+  limit = {
+    trucks = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+    factory_goods_output = {
+      telecommunications = 0.0500
+    }
+  }
 }
 apple = {
-	limit = {
-		circuit_breakers = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-		factory_goods_output = {
-			telecommunications = 0.0500
-		}
-	}
+  limit = {
+    circuit_breakers = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+    factory_goods_output = {
+      telecommunications = 0.0500
+    }
+  }
 }
 ibm_pc = {
-	limit = {
-		circuit_breakers = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-		factory_goods_output = {
-			telecommunications = 0.0500
-		}
-	}
+  limit = {
+    circuit_breakers = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+    factory_goods_output = {
+      telecommunications = 0.0500
+    }
+  }
 }
 smartphones = {
-	limit = {
-		color_tvs = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-		factory_goods_output = {
-			telephones = 0.0500
-		}
-	}
+  limit = {
+    color_tvs = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+    factory_goods_output = {
+      telephones = 0.0500
+    }
+  }
 }
 pads = {
-	limit = {
-		color_tvs = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-		factory_goods_output = {
-			telephones = 0.0500
-		}
-	}
+  limit = {
+    color_tvs = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+    factory_goods_output = {
+      telephones = 0.0500
+    }
+  }
 }
 applications_stores = {
-	limit = {
-		color_tvs = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-		factory_goods_output = {
-			telephones = 0.0500
-		}
-	}
+  limit = {
+    color_tvs = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+    factory_goods_output = {
+      telephones = 0.0500
+    }
+  }
 }
 virtualization = {
-	limit = {
-		platform_sharing = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-		factory_goods_output = {
-			telephones = 0.0500
-		}
-	}
+  limit = {
+    platform_sharing = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+    factory_goods_output = {
+      telephones = 0.0500
+    }
+  }
 }
 grid_computing = {
-	limit = {
-		platform_sharing = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-		factory_goods_output = {
-			integrated_circuits = 0.0500
-		}
-	}
+  limit = {
+    platform_sharing = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+    factory_goods_output = {
+      integrated_circuits = 0.0500
+    }
+  }
 }
 utility_computing = {
-	limit = {
-		platform_sharing = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-		factory_goods_output = {
-			telecommunications = 0.0500
-		}
-	}
+  limit = {
+    platform_sharing = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+    factory_goods_output = {
+      telecommunications = 0.0500
+    }
+  }
 }
 search_optimization = {
-	limit = {
-		led = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-		factory_goods_output = {
-			telephones = 0.0500
-		}
-		factory_goods_output = {
-			computers = 0.0500
-		}
-	}
+  limit = {
+    led = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+    factory_goods_output = {
+      telephones = 0.0500
+    }
+    factory_goods_output = {
+      computers = 0.0500
+    }
+  }
 }
 statistical_learning_methods = {
-	limit = {
-		led = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-		factory_goods_output = {
-			telephones = 0.0500
-		}
-		factory_goods_output = {
-			computers = 0.0500
-		}
-	}
+  limit = {
+    led = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+    factory_goods_output = {
+      telephones = 0.0500
+    }
+    factory_goods_output = {
+      computers = 0.0500
+    }
+  }
 }
 uncertain_reasoning = {
-	limit = {
-		led = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-		factory_goods_output = {
-			telephones = 0.0500
-		}
-		factory_goods_output = {
-			computers = 0.0500
-		}
-	}
+  limit = {
+    led = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+    factory_goods_output = {
+      telephones = 0.0500
+    }
+    factory_goods_output = {
+      computers = 0.0500
+    }
+  }
 }
 quantum_complexity_theory = {
-	limit = {
-		GPGPU = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-		factory_goods_output = {
-			telephones = 0.0500
-		}
-	}
+  limit = {
+    GPGPU = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+    factory_goods_output = {
+      telephones = 0.0500
+    }
+  }
 }
 quantum_gate = {
-	limit = {
-		GPGPU = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-		factory_goods_output = {
-			telephones = 0.0500
-		}
-	}
+  limit = {
+    GPGPU = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+    factory_goods_output = {
+      telephones = 0.0500
+    }
+  }
 }
 confined_animal_feeding_operations = {
-	limit = {
-		toys_mass_market = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-		factory_goods_output = {
-			telephones = 0.0500
-		}
-	}
+  limit = {
+    toys_mass_market = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+    factory_goods_output = {
+      telephones = 0.0500
+    }
+  }
 }
 managed_intensive_rotational_grazing = {
-	limit = {
-		toys_mass_market = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-		rgo_goods_output = {
-			cattle = 1
-		}
-	}
+  limit = {
+    toys_mass_market = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+    rgo_goods_output = {
+      cattle = 1
+    }
+  }
 }
 intensive_crop_farming = {
-	limit = {
-		toys_mass_market = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-		rgo_goods_output = {
-			cattle = 1
-		}
-	}
+  limit = {
+    toys_mass_market = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+    rgo_goods_output = {
+      cattle = 1
+    }
+  }
 }
 intensive_rice_crop_farming = {
-	limit = {
-		toys_mass_market = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-		rgo_goods_output = {
-			grain = 1
-		}
-	}
+  limit = {
+    toys_mass_market = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+    rgo_goods_output = {
+      grain = 1
+    }
+  }
 }
 intensive_fruit_crop_farming = {
-	limit = {
-		toys_mass_market = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-		rgo_goods_output = {
-			fruit = 1
-		}
-	}
+  limit = {
+    toys_mass_market = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+    rgo_goods_output = {
+      fruit = 1
+    }
+  }
 }
 intensive_oil_seeds_crop_farming = {
-	limit = {
-		toys_mass_market = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-		rgo_goods_output = {
-			grain = 1
-		}
-	}
+  limit = {
+    toys_mass_market = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+    rgo_goods_output = {
+      grain = 1
+    }
+  }
 }
 automated_ore_sorting = {
-	limit = {
-		calculators = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-		mine_rgo_eff = 0.0100
-	}
+  limit = {
+    calculators = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+    mine_rgo_eff = 0.0100
+  }
 }
 magnetic_separation = {
-	limit = {
-		calculators = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-		mine_rgo_eff = 0.0100
-	}
+  limit = {
+    calculators = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+    mine_rgo_eff = 0.0100
+  }
 }
 froth_flotation = {
-	limit = {
-		calculators = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-		mine_rgo_eff = 0.0100
-	}
+  limit = {
+    calculators = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+    mine_rgo_eff = 0.0100
+  }
 }
 heavy_machinery = {
-	limit = {
-		electronic_circuit = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-		rgo_goods_output = {
-			coal = 0.1000
-		}
-		rgo_size = {
-			coal = 0.1000
-		}
-	}
+  limit = {
+    electronic_circuit = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+    rgo_goods_output = {
+      coal = 0.1000
+    }
+    rgo_size = {
+      coal = 0.1000
+    }
+  }
 }
 underground_mining = {
-	limit = {
-		electronic_circuit = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-		rgo_goods_output = {
-			coal = 0.1000
-		}
-		rgo_size = {
-			coal = 0.0100
-		}
-	}
+  limit = {
+    electronic_circuit = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+    rgo_goods_output = {
+      coal = 0.1000
+    }
+    rgo_size = {
+      coal = 0.0100
+    }
+  }
 }
 surface_mining = {
-	limit = {
-		electronic_circuit = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-		rgo_goods_output = {
-			coal = 0.1000
-		}
-		rgo_size = {
-			coal = 0.0100
-		}
-	}
+  limit = {
+    electronic_circuit = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+    rgo_goods_output = {
+      coal = 0.1000
+    }
+    rgo_size = {
+      coal = 0.0100
+    }
+  }
 }
 shrinkage_stoping = {
-	limit = {
-		stored_program_computer = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-		rgo_goods_output = {
-			coal = 0.1000
-		}
-		rgo_size = {
-			coal = 0.1000
-		}
-	}
+  limit = {
+    stored_program_computer = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+    rgo_goods_output = {
+      coal = 0.1000
+    }
+    rgo_size = {
+      coal = 0.1000
+    }
+  }
 }
 ground_support = {
-	limit = {
-		stored_program_computer = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-		rgo_goods_output = {
-			coal = 0.1000
-		}
-		rgo_size = {
-			coal = 0.0100
-		}
-	}
+  limit = {
+    stored_program_computer = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+    rgo_goods_output = {
+      coal = 0.1000
+    }
+    rgo_size = {
+      coal = 0.0100
+    }
+  }
 }
 bulk_mining_methods = {
-	limit = {
-		stored_program_computer = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-		mine_rgo_eff = 0.1000
-	}
+  limit = {
+    stored_program_computer = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+    mine_rgo_eff = 0.1000
+  }
 }
 modern_irrigation_projects = {
-	limit = {
-		magnetic_storage = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-		farm_rgo_eff = 0.1000
-	}
+  limit = {
+    magnetic_storage = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+    farm_rgo_eff = 0.1000
+  }
 }
 pesticides = {
-	limit = {
-		magnetic_storage = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-		farm_rgo_eff = 0.1000
-	}
+  limit = {
+    magnetic_storage = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+    farm_rgo_eff = 0.1000
+  }
 }
 synthetic_nitrogen_fertilizer = {
-	limit = {
-		magnetic_storage = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-		farm_rgo_eff = 0.1000
-	}
+  limit = {
+    magnetic_storage = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+    farm_rgo_eff = 0.1000
+  }
 }
 integrated_pest_management = {
-	limit = {
-		computer_peripherals = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-		farm_rgo_eff = 0.1000
-	}
+  limit = {
+    computer_peripherals = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+    farm_rgo_eff = 0.1000
+  }
 }
 selective_breeding = {
-	limit = {
-		computer_peripherals = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-		farm_rgo_eff = 0.1000
-	}
+  limit = {
+    computer_peripherals = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+    farm_rgo_eff = 0.1000
+  }
 }
 mine_automation_software = {
-	limit = {
-		personal_computer = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-		factory_goods_throughput = {
-			fertilizers = 0.0500
-		}
-	}
+  limit = {
+    personal_computer = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+    factory_goods_throughput = {
+      fertilizers = 0.0500
+    }
+  }
 }
 mining_equipment_automation = {
-	limit = {
-		personal_computer = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-		factory_goods_throughput = {
-			steel = 0.0500
-		}
-	}
+  limit = {
+    personal_computer = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+    factory_goods_throughput = {
+      steel = 0.0500
+    }
+  }
 }
 transgenic_plants = {
-	limit = {
-		tablet_computer = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-		rgo_goods_output = {
-			grain = 1
-		}
-	}
+  limit = {
+    tablet_computer = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+    rgo_goods_output = {
+      grain = 1
+    }
+  }
 }
 genetically_modified_crops = {
-	limit = {
-		tablet_computer = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-		farm_rgo_eff = 0.1000
-	}
+  limit = {
+    tablet_computer = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+    farm_rgo_eff = 0.1000
+  }
 }
 genetically_modified_food = {
-	limit = {
-		tablet_computer = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-		farm_rgo_eff = 0.1000
-	}
+  limit = {
+    tablet_computer = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+    farm_rgo_eff = 0.1000
+  }
 }
 system_of_rice_intensification = {
-	limit = {
-		cloud_computing = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-		rgo_goods_output = {
-			grain = 1
-		}
-	}
+  limit = {
+    cloud_computing = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+    rgo_goods_output = {
+      grain = 1
+    }
+  }
 }
 marker_assisted_selection = {
-	limit = {
-		cloud_computing = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-		farm_rgo_eff = 0.1000
-	}
+  limit = {
+    cloud_computing = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+    farm_rgo_eff = 0.1000
+  }
 }
 agroecology = {
-	limit = {
-		cloud_computing = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-		farm_rgo_eff = 0.1000
-	}
+  limit = {
+    cloud_computing = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+    farm_rgo_eff = 0.1000
+  }
 }
 landfill_mining = {
-	limit = {
-		artificial_intelligence = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-		mine_rgo_eff = 0.1000
-	}
+  limit = {
+    artificial_intelligence = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+    mine_rgo_eff = 0.1000
+  }
 }
 curbside_collection = {
-	limit = {
-		artificial_intelligence = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-		mine_rgo_eff = 0.1000
-	}
+  limit = {
+    artificial_intelligence = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+    mine_rgo_eff = 0.1000
+  }
 }
 recycling_industrial_waste = {
-	limit = {
-		artificial_intelligence = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-		mine_rgo_eff = 0.1000
-	}
+  limit = {
+    artificial_intelligence = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+    mine_rgo_eff = 0.1000
+  }
 }
 ewaste_recycling = {
-	limit = {
-		artificial_intelligence = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-		mine_rgo_eff = 0.1000
-	}
+  limit = {
+    artificial_intelligence = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+    mine_rgo_eff = 0.1000
+  }
 }
 asphalt_paving = {
-	limit = {
-		break_bulk_cargo = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-		rgo_throughput = 0.0100
-	}
+  limit = {
+    break_bulk_cargo = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+    rgo_throughput = 0.0100
+  }
 }
 concrete_paving = {
-	limit = {
-		break_bulk_cargo = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-		rgo_throughput = 0.0100
-	}
+  limit = {
+    break_bulk_cargo = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+    rgo_throughput = 0.0100
+  }
 }
 classic_car = {
-	limit = {
-		processed_aluminium = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-		rgo_throughput = 0.0100
-	}
+  limit = {
+    processed_aluminium = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+    rgo_throughput = 0.0100
+  }
 }
 autobahn = {
-	limit = {
-		processed_aluminium = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-		rgo_throughput = 0.0100
-	}
+  limit = {
+    processed_aluminium = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+    rgo_throughput = 0.0100
+  }
 }
 shinkansen = {
-	limit = {
-		continuous_track = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-		rgo_throughput = 0.0100
-	}
+  limit = {
+    continuous_track = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+    rgo_throughput = 0.0100
+  }
 }
 high_speed_rail_network = {
-	limit = {
-		continuous_track = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-		rgo_throughput = 0.0100
-	}
+  limit = {
+    continuous_track = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+    rgo_throughput = 0.0100
+  }
 }
 highway_construction = {
-	limit = {
-		reinforced_concrete = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-		rgo_throughput = 0.0100
-	}
+  limit = {
+    reinforced_concrete = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+    rgo_throughput = 0.0100
+  }
 }
 international_highways = {
-	limit = {
-		reinforced_concrete = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-		rgo_throughput = 0.0100
-	}
+  limit = {
+    reinforced_concrete = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+    rgo_throughput = 0.0100
+  }
 }
 collapsed_backbone = {
-	limit = {
-		prestressed_concrete = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-		factory_throughput = 0.0100
-	}
+  limit = {
+    prestressed_concrete = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+    factory_throughput = 0.0100
+  }
 }
 parallel_backbone = {
-	limit = {
-		prestressed_concrete = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-		factory_throughput = 0.0100
-	}
+  limit = {
+    prestressed_concrete = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+    factory_throughput = 0.0100
+  }
 }
 serial_backbone = {
-	limit = {
-		prestressed_concrete = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-		factory_throughput = 0.0100
-	}
+  limit = {
+    prestressed_concrete = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+    factory_throughput = 0.0100
+  }
 }
 tier_one_providers = {
-	limit = {
-		basic_oxygen_steelmaking = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-		factory_throughput = 0.0100
-	}
+  limit = {
+    basic_oxygen_steelmaking = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+    factory_throughput = 0.0100
+  }
 }
 fiber_optics = {
-	limit = {
-		basic_oxygen_steelmaking = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-		factory_throughput = 0.0100
-	}
+  limit = {
+    basic_oxygen_steelmaking = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+    factory_throughput = 0.0100
+  }
 }
 routing = {
-	limit = {
-		basic_oxygen_steelmaking = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-		factory_throughput = 0.0100
-	}
+  limit = {
+    basic_oxygen_steelmaking = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+    factory_throughput = 0.0100
+  }
 }
 switching = {
-	limit = {
-		basic_oxygen_steelmaking = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-		factory_throughput = 0.0100
-	}
+  limit = {
+    basic_oxygen_steelmaking = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+    factory_throughput = 0.0100
+  }
 }
 frequency_reuse = {
-	limit = {
-		bulk_materials_handling = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-		factory_throughput = 0.0100
-	}
+  limit = {
+    bulk_materials_handling = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+    factory_throughput = 0.0100
+  }
 }
 cellular_radio = {
-	limit = {
-		bulk_materials_handling = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-		factory_throughput = 0.0100
-	}
+  limit = {
+    bulk_materials_handling = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+    factory_throughput = 0.0100
+  }
 }
 mobile_phone_network = {
-	limit = {
-		bulk_materials_handling = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-		factory_throughput = 0.0100
-	}
+  limit = {
+    bulk_materials_handling = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+    factory_throughput = 0.0100
+  }
 }
 directional_antennas = {
-	limit = {
-		bulk_materials_handling = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-		factory_throughput = 0.0100
-	}
+  limit = {
+    bulk_materials_handling = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+    factory_throughput = 0.0100
+  }
 }
 peering_agreements = {
-	limit = {
-		continuous_track = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-		factory_throughput = 0.0100
-	}
+  limit = {
+    continuous_track = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+    factory_throughput = 0.0100
+  }
 }
 transit_agreements = {
-	limit = {
-		continuous_track = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-		factory_throughput = 0.0100
-	}
+  limit = {
+    continuous_track = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+    factory_throughput = 0.0100
+  }
 }
 city_wide_wifi = {
-	limit = {
-		intermodal_freight_transport = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-		factory_throughput = 0.0100
-	}
+  limit = {
+    intermodal_freight_transport = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+    factory_throughput = 0.0100
+  }
 }
 long_range_wifi = {
-	limit = {
-		intermodal_freight_transport = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-		factory_throughput = 0.0100
-	}
+  limit = {
+    intermodal_freight_transport = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+    factory_throughput = 0.0100
+  }
 }
 high_avialability_architecture = {
-	limit = {
-		industrial_printing = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-		factory_throughput = 0.0100
-	}
+  limit = {
+    industrial_printing = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+    factory_throughput = 0.0100
+  }
 }
 automation = {
-	limit = {
-		industrial_printing = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-		factory_throughput = 0.0100
-	}
+  limit = {
+    industrial_printing = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+    factory_throughput = 0.0100
+  }
 }
 electric_grid = {
-	limit = {
-		petrochemical_industry = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-		factory_throughput = 0.0100
-	}
+  limit = {
+    petrochemical_industry = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+    factory_throughput = 0.0100
+  }
 }
 spinning = {
-	limit = {
-		petrochemical_industry = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-		factory_throughput = 0.0100
-	}
+  limit = {
+    petrochemical_industry = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+    factory_throughput = 0.0100
+  }
 }
 circuits = {
-	limit = {
-		petrochemical_industry = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-		factory_goods_output = {
-			integrated_circuits = 0.0500
-		}
-	}
+  limit = {
+    petrochemical_industry = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+    factory_goods_output = {
+      integrated_circuits = 0.0500
+    }
+  }
 }
 electric_power = {
-	limit = {
-		petrochemical_industry = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-		factory_goods_output = {
-			heating_electricity = 0.0500
-		}
-	}
+  limit = {
+    petrochemical_industry = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+    factory_goods_output = {
+      heating_electricity = 0.0500
+    }
+  }
 }
 synthetic_polymers = {
-	limit = {
-		petrochemical_industry = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-		factory_goods_output = {
-			plastics = 0.0500
-		}
-	}
+  limit = {
+    petrochemical_industry = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+    factory_goods_output = {
+      plastics = 0.0500
+    }
+  }
 }
 petroleum_coke = {
-	limit = {
-		vulcanization = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-		factory_goods_output = {
-			plastics = 0.0500
-		}
-	}
+  limit = {
+    vulcanization = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+    factory_goods_output = {
+      plastics = 0.0500
+    }
+  }
 }
 lubricants = {
-	limit = {
-		vulcanization = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-		factory_goods_output = {
-			clothes = 0.0500
-		}
-	}
+  limit = {
+    vulcanization = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+    factory_goods_output = {
+      clothes = 0.0500
+    }
+  }
 }
 thermoplastics = {
-	limit = {
-		polystyrene = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-		rgo_output = 0.0500
-		factory_throughput = 0.0500
-	}
+  limit = {
+    polystyrene = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+    rgo_output = 0.0500
+    factory_throughput = 0.0500
+  }
 }
 polystyrene = {
-	limit = {
-		polystyrene = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-		factory_goods_output = {
-			instruments = 0.0500
-		}
-	}
+  limit = {
+    polystyrene = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+    factory_goods_output = {
+      instruments = 0.0500
+    }
+  }
 }
 nylon = {
-	limit = {
-		polystyrene = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-		factory_goods_output = {
-			fabric = 0.1000
-		}
-	}
+  limit = {
+    polystyrene = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+    factory_goods_output = {
+      fabric = 0.1000
+    }
+  }
 }
 pharmacologic_industry = {
-	limit = {
-		synthetic_rubber = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-		land_attrition = -0.0500
-		soldier_to_pop_loss = 0.0100
-	}
+  limit = {
+    synthetic_rubber = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+    land_attrition = -0.0500
+    soldier_to_pop_loss = 0.0100
+  }
 }
 vaccination = {
-	limit = {
-		synthetic_rubber = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-		land_attrition = -0.0500
-		soldier_to_pop_loss = 0.0100
-	}
+  limit = {
+    synthetic_rubber = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+    land_attrition = -0.0500
+    soldier_to_pop_loss = 0.0100
+  }
 }
 polymerase_chain_reaction = {
-	limit = {
-		styropor = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-		land_attrition = -0.0100
-		soldier_to_pop_loss = 0.0100
-	}
+  limit = {
+    styropor = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+    land_attrition = -0.0100
+    soldier_to_pop_loss = 0.0100
+  }
 }
 gel_electrophoresis = {
-	limit = {
-		foams = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-		land_attrition = -0.0100
-	}
+  limit = {
+    foams = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+    land_attrition = -0.0100
+  }
 }
 blotting = {
-	limit = {
-		styropor = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-		increase_research = 0.0100
-	}
+  limit = {
+    styropor = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+    increase_research = 0.0100
+  }
 }
 darwinism = {
-	limit = {
-		styropor = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-		education_efficiency = 0.5000
-	}
+  limit = {
+    styropor = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+    education_efficiency = 0.5000
+  }
 }
 social_darwinism = {
-	limit = {
-		styropor = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-		war_exhaustion = -0.0500
-	}
+  limit = {
+    styropor = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+    war_exhaustion = -0.0500
+  }
 }
 insulin = {
-	limit = {
-		polyurethanes = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-		increase_research = 0.0100
-	}
+  limit = {
+    polyurethanes = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+    increase_research = 0.0100
+  }
 }
 white_biotechnology = {
-	limit = {
-		polyurethanes = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-		increase_research = 0.0100
-	}
+  limit = {
+    polyurethanes = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+    increase_research = 0.0100
+  }
 }
 combat_clinical_pharmacology = {
-	limit = {
-		foams = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-		land_attrition = -0.0500
-		soldier_to_pop_loss = 0.0100
-	}
+  limit = {
+    foams = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+    land_attrition = -0.0500
+    soldier_to_pop_loss = 0.0100
+  }
 }
 aerial_bacteria_and_antiseptic_principle = {
-	limit = {
-		foams = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-		land_attrition = -0.0500
-		soldier_to_pop_loss = 0.0100
-	}
+  limit = {
+    foams = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+    land_attrition = -0.0500
+    soldier_to_pop_loss = 0.0100
+  }
 }
 sequencing = {
-	limit = {
-		polyester_film_stock = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-		increase_research = 0.0100
-	}
+  limit = {
+    polyester_film_stock = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+    increase_research = 0.0100
+  }
 }
 sequence_assembly = {
-	limit = {
-		polyester_film_stock = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-		increase_research = 0.0100
-	}
+  limit = {
+    polyester_film_stock = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+    increase_research = 0.0100
+  }
 }
 wheat_reduced_height_genes = {
-	limit = {
-		silicon_carbide = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-		factory_goods_output = {
-			grain = 0.1000
-		}
-	}
+  limit = {
+    silicon_carbide = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+    factory_goods_output = {
+      grain = 0.1000
+    }
+  }
 }
 rice_semidwarf_gene = {
-	limit = {
-		silicon_carbide = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-		farm_rgo_eff = 0.1000
-	}
+  limit = {
+    silicon_carbide = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+    farm_rgo_eff = 0.1000
+  }
 }
 clinical_reasoning = {
-	limit = {
-		carbon_fiber = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-		increase_research = 0.0100
-	}
+  limit = {
+    carbon_fiber = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+    increase_research = 0.0100
+  }
 }
 tailor_treatments = {
-	limit = {
-		carbon_fiber = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-		increase_research = 0.0100
-	}
+  limit = {
+    carbon_fiber = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+    increase_research = 0.0100
+  }
 }
 forensic_pathology = {
-	limit = {
-		carbon_fiber = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-		increase_research = 0.0100
-	}
+  limit = {
+    carbon_fiber = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+    increase_research = 0.0100
+  }
 }

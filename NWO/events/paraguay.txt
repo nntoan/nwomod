@@ -7,15 +7,15 @@ country_event = {
 
   trigger = {
     tag = PRG
-	year = 1954 NOT = { year = 1990 }
-	government = democracy
+    year = 1954 NOT = { year = 1990 }
+    government = democracy
   }
 
   mean_time_to_happen = { months = 8 }
 
   option = {
     name = EVT_8011304_A
-	government = presidential_dictatorship country_event = 800050
+    government = presidential_dictatorship country_event = 800050
   }
 }
 country_event = {
@@ -27,16 +27,16 @@ country_event = {
 
   trigger = {
     tag = PRG
-	year = 1958 NOT = { year = 1988 }
-	government = presidential_dictatorship
+    year = 1958 NOT = { year = 1988 }
+    government = presidential_dictatorship
   }
 
   mean_time_to_happen = { months = 4 }
 
   option = {
     name = EVT_8011305_A
-	any_pop = { militancy = 1.0 consciousness = 2 }
-	random_state = { any_pop = { dominant_issue = { value = full_citizenship factor = 0.6 } } }
+    any_pop = { militancy = 1.0 consciousness = 2 }
+    random_state = { any_pop = { dominant_issue = { value = full_citizenship factor = 0.6 } } }
   }
 }
 country_event = {
@@ -48,14 +48,14 @@ country_event = {
 
   trigger = {
     tag = PRG
-	year = 1989 NOT = { year = 1990 }
+    year = 1989 NOT = { year = 1990 }
   }
 
   mean_time_to_happen = { months = 1 }
 
   option = {
     name = EVT_8011306_A
-	government = democracy country_event = 800054
-	any_pop = { militancy = -3.0 consciousness = -2 }
+    government = democracy country_event = 800054
+    any_pop = { militancy = -3.0 consciousness = -2 }
   }
 }

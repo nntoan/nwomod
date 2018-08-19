@@ -9,14 +9,14 @@ country_event = {
     tag = BHU
     year = 1952 NOT = { year = 1990 }
     OR = {
-		government = hms_government
-		government = absolute_monarchy
+      government = hms_government
+      government = absolute_monarchy
     }
   }
   mean_time_to_happen = { months = 12 }
 
   option = {
     name = "OK"
-	any_pop = { militancy = -1.0  consciousness = -1 }
+    any_pop = { militancy = -1.0  consciousness = -1 }
   }
 }

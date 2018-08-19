@@ -8,30 +8,30 @@ country_event = { # Federation of Rhodesia and Nyasaland
   trigger = {
     tag = GBR
     year = 1953 NOT = { year = 1990 }
-    OR = { 
-		AND = { is_our_vassal = RHO exists = RHO }
-		AND = { owns = 2068 NOT = { exists = RHO } } # Harare
-	}
-	owns = 2067 # Lilongwe
-	owns = 2012 # Lusaka
-	war = no
+    OR = {
+      AND = { is_our_vassal = RHO exists = RHO }
+      AND = { owns = 2068 NOT = { exists = RHO } } # Harare
+    }
+    owns = 2067 # Lilongwe
+    owns = 2012 # Lusaka
+    war = no
   }
 
   mean_time_to_happen = { months = 2 }
 
   option = {
     name = EVT_8012200_A
-	prestige = 10
-	badboy = -2
-	release_vassal = RHO
-	any_owned = { limit = { OR = { is_core = MLW is_core = ZAM } } secede_province = RHO }
-	RHO = { country_event = 8012201 }
-	ai_chance = { factor = 100 }
+    prestige = 10
+    badboy = -2
+    release_vassal = RHO
+    any_owned = { limit = { OR = { is_core = MLW is_core = ZAM } } secede_province = RHO }
+    RHO = { country_event = 8012201 }
+    ai_chance = { factor = 100 }
   }
   option = {
     name = EVT_8012200_B
-	prestige = -5
-	ai_chance = { factor = 0 }
+    prestige = -5
+    ai_chance = { factor = 0 }
   }
 }
 country_event = { # Federation of Rhodesia and Nyasaland
@@ -43,85 +43,85 @@ country_event = { # Federation of Rhodesia and Nyasaland
 
   option = {
     name = EVT_8012200_A
-	prestige = 10
-	badboy = -2
-	release_vassal = ZAM
-	release_vassal = MLW
-	random_country = { limit = { tag = MLW vassal_of = RHO } government = hms_government country_event = 800054 primary_culture = british }
-	random_country = { limit = { tag = ZAM vassal_of = RHO } government = hms_government country_event = 800054 primary_culture = british }
+    prestige = 10
+    badboy = -2
+    release_vassal = ZAM
+    release_vassal = MLW
+    random_country = { limit = { tag = MLW vassal_of = RHO } government = hms_government country_event = 800054 primary_culture = british }
+    random_country = { limit = { tag = ZAM vassal_of = RHO } government = hms_government country_event = 800054 primary_culture = british }
   }
 }
 country_event = {
-	id = 8012210
-	title = EVT_8012210_NAME # Independence of Zambia and Malawi
-	desc = EVT_8012210_DESC
-	picture = "independence_zambia" 
-	
-	fire_only_once = yes
-	
-	trigger = {
-		tag = GBR
-		owns = 2067 # Lilongwe
-		owns = 2012 # Lusaka
-		year = 1963 NOT = { year = 1990 }
-		exists = TAN
-	}
-	
-	mean_time_to_happen = { months = 3 }
-	
-    option = {
-	  name = EVT_8012210_A
-	  prestige = 10
-	  release = ZAM
-	  release = MLW
-	  diplomatic_influence = { who = ZAM value = 100 } 
-	  diplomatic_influence = { who = MLW value = 100 } 
-  	  ai_chance = { factor = 100 }
-    }
-  
+  id = 8012210
+  title = EVT_8012210_NAME # Independence of Zambia and Malawi
+  desc = EVT_8012210_DESC
+  picture = "independence_zambia"
+
+  fire_only_once = yes
+
+  trigger = {
+    tag = GBR
+    owns = 2067 # Lilongwe
+    owns = 2012 # Lusaka
+    year = 1963 NOT = { year = 1990 }
+    exists = TAN
+  }
+
+  mean_time_to_happen = { months = 3 }
+
   option = {
-	name = EVT_8012210_B
-	prestige = -10
-	any_pop = { limit = { location = { OR = { is_core = ZAM is_core = MLW } } } militancy = 8 consciousness = 5  }
-	# TODO ZAM and MLW UDI
-	ai_chance = { factor = 0 }
-  }	
+    name = EVT_8012210_A
+    prestige = 10
+    release = ZAM
+    release = MLW
+    diplomatic_influence = { who = ZAM value = 100 }
+    diplomatic_influence = { who = MLW value = 100 }
+    ai_chance = { factor = 100 }
+  }
+
+  option = {
+    name = EVT_8012210_B
+    prestige = -10
+    any_pop = { limit = { location = { OR = { is_core = ZAM is_core = MLW } } } militancy = 8 consciousness = 5  }
+    # TODO ZAM and MLW UDI
+    ai_chance = { factor = 0 }
+  }
 }
 country_event = {
-	id = 8012211
-	title = EVT_8012210_NAME # Independence of Zambia and Malawi
-	desc = EVT_8012210_DESC
-	picture = "independence_zambia" 
-	
-	fire_only_once = yes
-	
-	trigger = {
-		tag = GBR
-		OR = { 
-			AND = { exists = ZAM ZAM = { vassal_of = RHO } }
-			AND = { exists = MLW MLW = { vassal_of = RHO } }
-		}
-		exists = RHO
-		#is_our_vassal = RHO
-		year = 1963 NOT = { year = 1990 }
-	}
-	
-	mean_time_to_happen = { months = 3 }
+  id = 8012211
+  title = EVT_8012210_NAME # Independence of Zambia and Malawi
+  desc = EVT_8012210_DESC
+  picture = "independence_zambia"
 
-    option = {
-	  name = EVT_8012210_A
-	  RHO = { country_event = 8012212 }
-	  prestige = 5
-  	  ai_chance = { factor = 100 }
+  fire_only_once = yes
+
+  trigger = {
+    tag = GBR
+    OR = {
+      AND = { exists = ZAM ZAM = { vassal_of = RHO } }
+      AND = { exists = MLW MLW = { vassal_of = RHO } }
     }
-    option = {
-	  name = EVT_8012210_B
-	  prestige = -10
-	  any_pop = { limit = { location = { OR = { is_core = ZAM is_core = MLW } } } militancy = 8 consciousness = 5 }
-	  random_country = { limit = { is_vassal = yes tag = ZAM } release_vassal = ZAM ZAM = { government = democracy country_event = 800054 } add_casus_belli = { target = RHO type = make_puppet } primary_culture = anglo_african }
-	  random_country = { limit = { is_vassal = yes tag = MLW } release_vassal = MLW MLW = { government = democracy country_event = 800054 } add_casus_belli = { target = RHO type = make_puppet } primary_culture = chewa }
-	  ai_chance = { factor = 0 }
-    }	
+    exists = RHO
+    #is_our_vassal = RHO
+    year = 1963 NOT = { year = 1990 }
+  }
+
+  mean_time_to_happen = { months = 3 }
+
+  option = {
+    name = EVT_8012210_A
+    RHO = { country_event = 8012212 }
+    prestige = 5
+    ai_chance = { factor = 100 }
+  }
+  option = {
+    name = EVT_8012210_B
+    prestige = -10
+    any_pop = { limit = { location = { OR = { is_core = ZAM is_core = MLW } } } militancy = 8 consciousness = 5 }
+    random_country = { limit = { is_vassal = yes tag = ZAM } release_vassal = ZAM ZAM = { government = democracy country_event = 800054 } add_casus_belli = { target = RHO type = make_puppet } primary_culture = anglo_african }
+    random_country = { limit = { is_vassal = yes tag = MLW } release_vassal = MLW MLW = { government = democracy country_event = 800054 } add_casus_belli = { target = RHO type = make_puppet } primary_culture = chewa }
+    ai_chance = { factor = 0 }
+  }
 }
 country_event = { # Unilateral Declaration of Independence
   id = 8012212
@@ -132,35 +132,35 @@ country_event = { # Unilateral Declaration of Independence
 
   option = {
     name = EVT_8012212_A
-	any_pop = { militancy = 0.5 consciousness = 1 }
-	random_country = { limit = { is_vassal = yes tag = ZAM } release_vassal = ZAM ZAM = { government = democracy country_event = 800054 } primary_culture = anglo_african }
-	random_country = { limit = { is_vassal = yes tag = MLW } release_vassal = MLW MLW = { government = democracy country_event = 800054 } primary_culture = chewa }
-	overlord = { release_vassal = THIS country_event = 8012213 } 
-	badboy = 5
-	government = populist_dictatorship country_event = 800050 
-	ai_chance = { factor = 100 }
+    any_pop = { militancy = 0.5 consciousness = 1 }
+    random_country = { limit = { is_vassal = yes tag = ZAM } release_vassal = ZAM ZAM = { government = democracy country_event = 800054 } primary_culture = anglo_african }
+    random_country = { limit = { is_vassal = yes tag = MLW } release_vassal = MLW MLW = { government = democracy country_event = 800054 } primary_culture = chewa }
+    overlord = { release_vassal = THIS country_event = 8012213 }
+    badboy = 5
+    government = populist_dictatorship country_event = 800050
+    ai_chance = { factor = 100 }
   }
   option = {
     name = EVT_8012212_B
-	any_pop = { militancy = 0.5 consciousness = 1 }
-	random_country = { limit = { is_vassal = yes tag = MLW } release_vassal = MLW MLW = { government = democracy country_event = 800054 } primary_culture = chewa }
-	overlord = { release_vassal = THIS country_event = 8012213 } 
-	badboy = 20
-	government = populist_dictatorship country_event = 800050
-	ai_chance = { factor = 0 }
-  }  
+    any_pop = { militancy = 0.5 consciousness = 1 }
+    random_country = { limit = { is_vassal = yes tag = MLW } release_vassal = MLW MLW = { government = democracy country_event = 800054 } primary_culture = chewa }
+    overlord = { release_vassal = THIS country_event = 8012213 }
+    badboy = 20
+    government = populist_dictatorship country_event = 800050
+    ai_chance = { factor = 0 }
+  }
   option = {
     name = EVT_8012212_C
-	any_pop = { militancy = 0.5 }
-	random_country = { limit = { is_vassal = yes tag = ZAM } release_vassal = ZAM ZAM = { government = democracy country_event = 800054 } primary_culture = anglo_african }
-	random_country = { limit = { is_vassal = yes tag = MLW } release_vassal = MLW MLW = { government = democracy country_event = 800054 } primary_culture = chewa }
-	overlord = { release_vassal = THIS country_event = 8012213 } 
-	government = democracy country_event = 800054
-	primary_culture = shona
-	change_tag = ZIM
-	ai_chance = { factor = 0 }
+    any_pop = { militancy = 0.5 }
+    random_country = { limit = { is_vassal = yes tag = ZAM } release_vassal = ZAM ZAM = { government = democracy country_event = 800054 } primary_culture = anglo_african }
+    random_country = { limit = { is_vassal = yes tag = MLW } release_vassal = MLW MLW = { government = democracy country_event = 800054 } primary_culture = chewa }
+    overlord = { release_vassal = THIS country_event = 8012213 }
+    government = democracy country_event = 800054
+    primary_culture = shona
+    change_tag = ZIM
+    ai_chance = { factor = 0 }
   }
-  
+
 }
 country_event = {
   id = 8012213
@@ -171,21 +171,21 @@ country_event = {
 
   option = {
     name = EVT_8012213_A
-	casus_belli = { target = RHO type = install_democracy months = 24 }
-	random_country = { 
-		limit = { tag = THIS ZAM = { vassal_of = RHO } } 
-		casus_belli = { target = RHO type = release_puppet months = 12 }
-		war = { target = RHO attacker_goal = { casus_belli = release_puppet country = ZAM } defender_goal = { casus_belli = status_quo }  } 
-	}
-	ai_chance = { factor = 0 }
+    casus_belli = { target = RHO type = install_democracy months = 24 }
+    random_country = {
+      limit = { tag = THIS ZAM = { vassal_of = RHO } }
+      casus_belli = { target = RHO type = release_puppet months = 12 }
+      war = { target = RHO attacker_goal = { casus_belli = release_puppet country = ZAM } defender_goal = { casus_belli = status_quo }  }
+    }
+    ai_chance = { factor = 0 }
   }
   option = {
     name = EVT_8012213_A
-	prestige = -10
-	casus_belli = { target = RHO type = install_democracy months = 24 }
-	ai_chance = {factor = 100 }
-}  
-  
+    prestige = -10
+    casus_belli = { target = RHO type = install_democracy months = 24 }
+    ai_chance = {factor = 100 }
+  }
+
 }
 
 country_event = {
@@ -198,24 +198,24 @@ country_event = {
   trigger = {
     tag = RHO
     year = 1978
-	NOT = { year = 1990 }
+    NOT = { year = 1990 }
   }
 
   mean_time_to_happen = { months = 3 }
 
   option = {
     name = EVT_8012214_A
-	government = democracy country_event = 800054
-	primary_culture = shona
-	change_tag = ZIM
-	any_owned = { remove_core = RHO }
-	release = ZAM
-	ai_chance = { factor = 100 }
+    government = democracy country_event = 800054
+    primary_culture = shona
+    change_tag = ZIM
+    any_owned = { remove_core = RHO }
+    release = ZAM
+    ai_chance = { factor = 100 }
   }
 
   option = {
     name = EVT_8012214_B
-	any_pop = { militancy = 3.0 consciousness = 4 }
-	ai_chance = { factor = 0 }
+    any_pop = { militancy = 3.0 consciousness = 4 }
+    ai_chance = { factor = 0 }
   }
 }

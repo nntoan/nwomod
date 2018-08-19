@@ -1,123 +1,123 @@
 #Bahrain - Bahrain (506000/126500 POPS)
 1162 = {
-	capitalists = {
-		culture = british
-		religion =  protestant 
-		size = 568
-	 } 
-	capitalists = {
-		culture = british
-		religion = secularism
-		size = 63
-	 } 
-	soldiers = {
-		culture = sunni_arab
-		religion =  sunni 
-		size = 5777
-	 } 
-	aristocrats = {
-		culture = sunni_arab
-		religion =  sunni 
-		size = 5060
-	 } 
-	clergymen = {
-		culture = sunni_arab
-		religion =  sunni 
-		size = 2530
-	 } 
-	clerks = {
-		culture = sunni_arab
-		religion =  sunni 
-		size = 3986
-	 } 
-	artisans = {
-		culture = sunni_arab
-		religion =  sunni 
-		size = 2330
-	 } 
-	artisans = {
-		culture = british
-		religion =  protestant 
-		size = 569
-	 } 
-	artisans = {
-		culture = british
-		religion = secularism
-		size = 63
-	 } 
-	artisans = {
-		culture = chinese
-		religion =  taoism 
-		size = 740
-	 } 
-	artisans = {
-		culture = chinese
-		religion = secularism
-		size = 82
-	 } 
-	craftsmen = {
-		culture = chinese
-		religion =  taoism 
-		size = 397
-	 } 
-	craftsmen = {
-		culture = chinese
-		religion = secularism
-		size = 44
-	 } 
-	craftsmen = {
-		culture = indian
-		religion =  hindu 
-		size = 10364
-	 } 
-	craftsmen = {
-		culture = indian
-		religion = secularism
-		size = 1151
-	 } 
-	farmers = {
-		culture = indian
-		religion =  hindu 
-		size = 1020
-	 } 
-	farmers = {
-		culture = indian
-		religion = secularism
-		size = 113
-	 } 
-	farmers = {
-		culture = shia_arab
-		religion =  shiite 
-		size = 44275
-	 } 
-	farmers = {
-		culture = christian_arab
-		religion =  orthodox 
-		size = 1138
-	 } 
-	farmers = {
-		culture = christian_arab
-		religion = secularism
-		size = 126
-	 } 
-	farmers = {
-		culture = filipino
-		religion =  catholic 
-		size = 7969
-	 } 
-	farmers = {
-		culture = filipino
-		religion = secularism
-		size = 885
-	 } 
-	farmers = {
-		culture = indian_muslim
-		religion =  sunni 
-		size = 25300
-	 } 
-	farmers = {
-		culture = bengali
-		religion =  sunni 
-		size = 11385
-	 } 
+  capitalists = {
+    culture = british
+    religion =  protestant
+    size = 568
+  }
+  capitalists = {
+    culture = british
+    religion = secularism
+    size = 63
+  }
+  soldiers = {
+    culture = sunni_arab
+    religion =  sunni
+    size = 5777
+  }
+  aristocrats = {
+    culture = sunni_arab
+    religion =  sunni
+    size = 5060
+  }
+  clergymen = {
+    culture = sunni_arab
+    religion =  sunni
+    size = 2530
+  }
+  clerks = {
+    culture = sunni_arab
+    religion =  sunni
+    size = 3986
+  }
+  artisans = {
+    culture = sunni_arab
+    religion =  sunni
+    size = 2330
+  }
+  artisans = {
+    culture = british
+    religion =  protestant
+    size = 569
+  }
+  artisans = {
+    culture = british
+    religion = secularism
+    size = 63
+  }
+  artisans = {
+    culture = chinese
+    religion =  taoism
+    size = 740
+  }
+  artisans = {
+    culture = chinese
+    religion = secularism
+    size = 82
+  }
+  craftsmen = {
+    culture = chinese
+    religion =  taoism
+    size = 397
+  }
+  craftsmen = {
+    culture = chinese
+    religion = secularism
+    size = 44
+  }
+  craftsmen = {
+    culture = indian
+    religion =  hindu
+    size = 10364
+  }
+  craftsmen = {
+    culture = indian
+    religion = secularism
+    size = 1151
+  }
+  farmers = {
+    culture = indian
+    religion =  hindu
+    size = 1020
+  }
+  farmers = {
+    culture = indian
+    religion = secularism
+    size = 113
+  }
+  farmers = {
+    culture = shia_arab
+    religion =  shiite
+    size = 44275
+  }
+  farmers = {
+    culture = christian_arab
+    religion =  orthodox
+    size = 1138
+  }
+  farmers = {
+    culture = christian_arab
+    religion = secularism
+    size = 126
+  }
+  farmers = {
+    culture = filipino
+    religion =  catholic
+    size = 7969
+  }
+  farmers = {
+    culture = filipino
+    religion = secularism
+    size = 885
+  }
+  farmers = {
+    culture = indian_muslim
+    religion =  sunni
+    size = 25300
+  }
+  farmers = {
+    culture = bengali
+    religion =  sunni
+    size = 11385
+  }
 }

@@ -14,8 +14,8 @@ country_event = {
 
   option = {
     name = EVT_8007223_A
-	any_pop = { militancy = 0.5  consciousness = 1 }
-	country_event = 8007272
+    any_pop = { militancy = 0.5  consciousness = 1 }
+    country_event = 8007272
   }
 }
 country_event = { # Army of India
@@ -34,7 +34,7 @@ country_event = { # Army of India
 
   option = {
     name = OK
-	any_pop = { militancy = 0.5  consciousness = 1 }
+    any_pop = { militancy = 0.5  consciousness = 1 }
   }
 }
 country_event = {
@@ -46,9 +46,9 @@ country_event = {
 
   trigger = {
     tag = HND
-	war = no
-	exists = HYD
-	NOT = { is_our_vassal = HYD }
+    war = no
+    exists = HYD
+    NOT = { is_our_vassal = HYD }
     year = 1947 NOT = { year = 1990 }
   }
 
@@ -56,18 +56,18 @@ country_event = {
 
   option = {
     name = EVT_8007229_A
-	any_pop = { militancy = 1.0 }
-	badboy = 5
-	casus_belli = {target = HYD type = annex_core_country months = 12 }
-	war = { target = HYD attacker_goal = { casus_belli = annex_core_country } defender_goal = { casus_belli = status_quo } }
-	ai_chance = { factor = 100 }
+    any_pop = { militancy = 1.0 }
+    badboy = 5
+    casus_belli = {target = HYD type = annex_core_country months = 12 }
+    war = { target = HYD attacker_goal = { casus_belli = annex_core_country } defender_goal = { casus_belli = status_quo } }
+    ai_chance = { factor = 100 }
   }
 
   option = {
     name = EVT_8007229_B
-	any_pop = { militancy = 1.0 consciousness = 2 }
-	set_country_flag = princely_states 
-	ai_chance = { factor = 0 }
+    any_pop = { militancy = 1.0 consciousness = 2 }
+    set_country_flag = princely_states
+    ai_chance = { factor = 0 }
   }
 }
 country_event = {
@@ -79,23 +79,23 @@ country_event = {
 
   trigger = {
     tag = JAK
-	is_vassal = no
-	exists = HND
-	NOT = { exists = PAK }
+    is_vassal = no
+    exists = HND
+    NOT = { exists = PAK }
   }
 
   mean_time_to_happen = { months = 1  }
 
   option = {
     name = EVT_8007231_A
-	HND = { country_event =  { id = 8007232 days = 60 }  }
-	ai_chance = { factor = 0 }
+    HND = { country_event =  { id = 8007232 days = 60 }  }
+    ai_chance = { factor = 0 }
   }
 
   option = {
     name = EVT_8007231_C
-	HND = { country_event = { id = 8007236 days = 120 } } 
-	ai_chance = { factor = 0 }
+    HND = { country_event = { id = 8007236 days = 120 } }
+    ai_chance = { factor = 0 }
   }
 }
 country_event = {
@@ -107,31 +107,31 @@ country_event = {
 
   trigger = {
     tag = JAK
-	exists = JAK
-	is_vassal = no
-	exists = HND
-	exists = PAK
+    exists = JAK
+    is_vassal = no
+    exists = HND
+    exists = PAK
   }
 
   mean_time_to_happen = { months = 5  }
 
   option = {
     name = EVT_8007231_A
-	HND = { country_event =  { id = 8007232 days = 60 }  }
-	ai_chance = { factor = 0 }
+    HND = { country_event =  { id = 8007232 days = 60 }  }
+    ai_chance = { factor = 0 }
   }
 
   option = {
     name = EVT_8007231_B
-	PAK = { country_event = { id = 8007234 days = 60 }  } 
-	ai_chance = { factor = 100 }
+    PAK = { country_event = { id = 8007234 days = 60 }  }
+    ai_chance = { factor = 100 }
   }
 
   option = {
     name = EVT_8007231_C
-	HND = { country_event = { id = 8007236 days = 120 } } 
-	PAK = { country_event = { id = 8007237 days = 60 } }
-	ai_chance = { factor = 0 }
+    HND = { country_event = { id = 8007236 days = 120 } }
+    PAK = { country_event = { id = 8007237 days = 60 } }
+    ai_chance = { factor = 0 }
   }
 }
 country_event = {
@@ -143,8 +143,8 @@ country_event = {
 
   option = {
     name = EVT_8007232_A
-	inherit = JAK 
-	random_country = { limit = { tag = PAK exists = PAK } country_event = 8007233 }
+    inherit = JAK
+    random_country = { limit = { tag = PAK exists = PAK } country_event = 8007233 }
   }
 }
 country_event = {
@@ -156,15 +156,15 @@ country_event = {
 
   option = {
     name = EVT_8007233_A
-	casus_belli = {target = HND type = acquire_core_state months = 12 }
-	war = { target = HND attacker_goal = { casus_belli = acquire_core_state state_province_id = 1225 } attacker_goal = { casus_belli = acquire_core_state state_province_id = 3281 } } 
-	ai_chance = { factor = 100 }
+    casus_belli = {target = HND type = acquire_core_state months = 12 }
+    war = { target = HND attacker_goal = { casus_belli = acquire_core_state state_province_id = 1225 } attacker_goal = { casus_belli = acquire_core_state state_province_id = 3281 } }
+    ai_chance = { factor = 100 }
   }
 
   option = {
     name = EVT_8007233_B
-	any_pop = { militancy = 0.5  consciousness = 1 }
-	ai_chance = { factor = 0 }
+    any_pop = { militancy = 0.5  consciousness = 1 }
+    ai_chance = { factor = 0 }
   }
 }
 country_event = {
@@ -176,8 +176,8 @@ country_event = {
 
   option = {
     name = EVT_8007234_A
-	inherit = JAK 
-	HND = { country_event = 8007235 }
+    inherit = JAK
+    HND = { country_event = 8007235 }
   }
 }
 country_event = {
@@ -186,18 +186,18 @@ country_event = {
   desc = EVT_8007235_DESC
   picture = "nwo2_first_kashmir_war"
   is_triggered_only = yes # HND
-  
+
   option = {
     name = EVT_8007235_A
-	casus_belli = {target = PAK type = acquire_core_state months = 12 }
-	war = { target = PAK attacker_goal = { casus_belli = acquire_core_state state_province_id = 1224 } attacker_goal = { casus_belli = acquire_core_state state_province_id = 3281 } } 
-	ai_chance = { factor = 100 }
+    casus_belli = {target = PAK type = acquire_core_state months = 12 }
+    war = { target = PAK attacker_goal = { casus_belli = acquire_core_state state_province_id = 1224 } attacker_goal = { casus_belli = acquire_core_state state_province_id = 3281 } }
+    ai_chance = { factor = 100 }
   }
 
   option = {
     name = EVT_8007235_B
-	any_pop = { militancy = 0.5  consciousness = 1 }
-	ai_chance = { factor = 0 }
+    any_pop = { militancy = 0.5  consciousness = 1 }
+    ai_chance = { factor = 0 }
   }
 }
 country_event = {
@@ -209,15 +209,15 @@ country_event = {
 
   option = {
     name = EVT_8007236_A
-	casus_belli = {target = JAK type = annex_core_country months = 12 }
-	war = { target = JAK attacker_goal = { casus_belli = annex_core_country } defender_goal = { casus_belli = status_quo } } 
-	ai_chance = { factor = 100 }
+    casus_belli = {target = JAK type = annex_core_country months = 12 }
+    war = { target = JAK attacker_goal = { casus_belli = annex_core_country } defender_goal = { casus_belli = status_quo } }
+    ai_chance = { factor = 100 }
   }
 
   option = {
     name = EVT_8007236_B
     any_pop = { militancy = 0.5  consciousness = 1 }
-	ai_chance = { factor = 0 }
+    ai_chance = { factor = 0 }
   }
 }
 country_event = {
@@ -229,15 +229,15 @@ country_event = {
 
   option = {
     name = EVT_8007237_A
-	casus_belli = {target = JAK type = annex_core_country months = 12 }
-	war = { target = JAK attacker_goal = { casus_belli = annex_core_country } defender_goal = { casus_belli = status_quo } } 
-	ai_chance = { factor = 100 }
+    casus_belli = {target = JAK type = annex_core_country months = 12 }
+    war = { target = JAK attacker_goal = { casus_belli = annex_core_country } defender_goal = { casus_belli = status_quo } }
+    ai_chance = { factor = 100 }
   }
 
   option = {
     name = EVT_8007237_B
-	any_pop = { militancy = 0.5  consciousness = 1 }
-	ai_chance = { factor = 0 }
+    any_pop = { militancy = 0.5  consciousness = 1 }
+    ai_chance = { factor = 0 }
   }
 }
 country_event = {
@@ -249,24 +249,24 @@ country_event = {
 
   trigger = {
     tag = HND
-	NOT = { truce_with = PAK }
+    NOT = { truce_with = PAK }
     PAK = { owns = 1224 war = no }
-	war = no
+    war = no
   }
 
   mean_time_to_happen = { months = 1  }
-  
+
   option = {
     name = EVT_8007238_A
-	casus_belli = {target = PAK type = acquire_core_state months = 12 }
-	war = { target = PAK attacker_goal = { casus_belli = acquire_core_state state_province_id = 1224 } } 
-	ai_chance = { factor = 100 }
+    casus_belli = {target = PAK type = acquire_core_state months = 12 }
+    war = { target = PAK attacker_goal = { casus_belli = acquire_core_state state_province_id = 1224 } }
+    ai_chance = { factor = 100 }
   }
 
   option = {
     name = EVT_8007238_B
-	any_pop = { militancy = 0.5  consciousness = 1 }
-	ai_chance = { factor = 0 }
+    any_pop = { militancy = 0.5  consciousness = 1 }
+    ai_chance = { factor = 0 }
   }
 }
 country_event = {
@@ -275,31 +275,31 @@ country_event = {
   desc = EVT_8007239_DESC
   picture = "nwo2_first_kashmir_war"
   fire_only_once = yes
-  
+
   trigger = {
     tag = PAK
     HND = { owns = 1225 war = no }
-	NOT = { truce_with = HND }
-	war = no
+    NOT = { truce_with = HND }
+    war = no
   }
 
   mean_time_to_happen = { months = 1  }
 
   option = {
     name = EVT_8007239_A
-	casus_belli = {target = HND type = acquire_core_state months = 12 }
-	war = { target = HND attacker_goal = { casus_belli = acquire_core_state state_province_id = 1225 } } 
-	ai_chance = { factor = 100 }
+    casus_belli = {target = HND type = acquire_core_state months = 12 }
+    war = { target = HND attacker_goal = { casus_belli = acquire_core_state state_province_id = 1225 } }
+    ai_chance = { factor = 100 }
   }
 
   option = {
     name = EVT_8007239_B
-	any_pop = { militancy = 0.5  consciousness = 1 }
-	ai_chance = { factor = 0 }
+    any_pop = { militancy = 0.5  consciousness = 1 }
+    ai_chance = { factor = 0 }
   }
 }
 country_event = {
-  id = 8007240 
+  id = 8007240
   title = EVT_8007240_NAME
   desc = EVT_8007240_DESC
   picture = "nwo2_first_kashmir_war"
@@ -308,16 +308,16 @@ country_event = {
   trigger = {
     OR = { tag = PAK tag = HND }
     year = 1948 NOT = { year = 1960 }
-	war = no
-	owns = 1224
-	owns = 1225
+    war = no
+    owns = 1224
+    owns = 1225
   }
 
   mean_time_to_happen = { months = 1  }
 
   option = {
     name = EVT_8007240_A
-	prestige = 10
+    prestige = 10
   }
 }
 country_event = {
@@ -330,14 +330,14 @@ country_event = {
   trigger = {
     OR = { tag = PAK tag = HND }
     year = 1948 NOT = { year = 1960 }
-	war = no
-	NOT = { owns = 1225 } 
-	NOT = { owns = 1224 } 
+    war = no
+    NOT = { owns = 1225 }
+    NOT = { owns = 1224 }
   }
 
   option = {
     name = EVT_8007241_A
-	prestige = -10
+    prestige = -10
   }
 }
 country_event = {
@@ -350,17 +350,17 @@ country_event = {
   trigger = {
     OR = { tag = PAK tag = HND }
     year = 1948 NOT = { year = 1960 }
-	war = no
-	owns = 1224 
-	NOT = { owns = 1225 }
+    war = no
+    owns = 1224
+    NOT = { owns = 1225 }
   }
 
   mean_time_to_happen = { months = 1  }
 
   option = {
     name = EVT_8007242_A
-	prestige = 20
-	PAK = { country_event = 8007243 }
+    prestige = 20
+    PAK = { country_event = 8007243 }
   }
 }
 country_event = {
@@ -372,8 +372,8 @@ country_event = {
 
   option = {
     name = EVT_8007243_A
-	prestige = -20
-	
+    prestige = -20
+
   }
 }
 country_event = {
@@ -386,8 +386,8 @@ country_event = {
   trigger = {
     tag = HND  # and PAK
     year = 1950 NOT = { year = 1960 }
-	war = no
-	NOT = { HND = { war_with = PAK } }
+    war = no
+    NOT = { HND = { war_with = PAK } }
     exists = JAK
   }
 
@@ -395,7 +395,7 @@ country_event = {
 
   option = {
     name = EVT_8007244_A
-	country_event = 8007274
+    country_event = 8007274
   }
 }
 country_event = {
@@ -410,23 +410,23 @@ country_event = {
     year = 1963
     NOT = { HND = { alliance_with = POR } }
     NOT = { owns = 1303 }
-	POR = { owns = 1303 }
+    POR = { owns = 1303 }
   }
-  
+
   mean_time_to_happen = { months = 1  }
 
   option = {
     name = EVT_8007250_A
-	money = -200 
-	badboy = 5 
-	POR = { country_event = 8007251 } 
-	ai_chance = { factor = 100 }
+    money = -200
+    badboy = 5
+    POR = { country_event = 8007251 }
+    ai_chance = { factor = 100 }
   }
 
   option = {
     name = EVT_8007250_B
-    relation = { who = POR value = 100 } 
-	ai_chance = { factor = 0 }
+    relation = { who = POR value = 100 }
+    ai_chance = { factor = 0 }
   }
 }
 country_event = {
@@ -438,17 +438,17 @@ country_event = {
 
   option = {
     name = EVT_8007251_A
-	any_pop = { militancy = 0.5  consciousness = 1 }
-	1303 = { secede_province = HND } 
-	HND = { country_event = 8007252 }
-	ai_chance = { factor = 100 }
+    any_pop = { militancy = 0.5  consciousness = 1 }
+    1303 = { secede_province = HND }
+    HND = { country_event = 8007252 }
+    ai_chance = { factor = 100 }
   }
 
   option = {
     name = EVT_8007251_B
-	any_pop = {consciousness = 2 }
-	HND = { country_event = 8007253 }
-	ai_chance = { factor = 0 }
+    any_pop = {consciousness = 2 }
+    HND = { country_event = 8007253 }
+    ai_chance = { factor = 0 }
   }
 }
 country_event = {
@@ -460,8 +460,8 @@ country_event = {
 
   option = {
     name = EVT_8007252_A
-	any_pop = { consciousness = 2 }
-	prestige = 10
+    any_pop = { consciousness = 2 }
+    prestige = 10
   }
 }
 country_event = {
@@ -473,7 +473,7 @@ country_event = {
 
   option = {
     name = EVT_8007253_A
-	any_pop = { consciousness = 2 }
+    any_pop = { consciousness = 2 }
   }
 }
 country_event = {
@@ -485,20 +485,20 @@ country_event = {
   trigger = {
     OR = { tag = RAJ tag = HND tag = PAK tag = BNG }
     NOT = { has_global_flag = autumn_of_nations }
-	NOT = { year = 1990 }
+    NOT = { year = 1990 }
     exists = yes
   }
-  
+
   mean_time_to_happen = { months = 12 }
-  
+
   option = {
     name = EVT_8007254_A
-	add_country_modifier = { name = colonial_heritage duration = 7000 }
-	add_country_modifier = { name = corruption duration = 3500 }
+    add_country_modifier = { name = colonial_heritage duration = 7000 }
+    add_country_modifier = { name = corruption duration = 3500 }
   }
   option = {
     name = EVT_8007254_B
-	add_country_modifier = { name = colonial_heritage duration = 14000 }
+    add_country_modifier = { name = colonial_heritage duration = 14000 }
   }
 }
 country_event = {
@@ -513,7 +513,7 @@ country_event = {
     year = 1965 NOT = { year = 1966 }
     NOT = { relation = { who = HND value = 100 } }
     exists = HND
-	NOT = { OR = { owns = 1224 owns = 1225 } } 
+    NOT = { OR = { owns = 1224 owns = 1225 } }
     war = no
   }
 
@@ -521,29 +521,29 @@ country_event = {
 
   option = {
     name = EVT_8007260_A
-	random_country = { 
-		limit = { owns = 1224 NOT = { owns = 1225 } } 
-		THIS = { 
-			war = { target = HND attacker_goal = { casus_belli = acquire_core_state state_province_id = 1224 } defender_goal = { casus_belli = status_quo } } 
-			set_country_flag = second_kashmir_war_all
-		}
-	}
-	random_country = { 
-		limit = { owns = 1224 NOT = { owns = 1225 } } 
-		THIS = { 
-			war = { target = HND attacker_goal = { casus_belli = acquire_core_state state_province_id = 1225 } defender_goal = { casus_belli = status_quo } } 
-			set_country_flag = second_kashmir_war_girgit
-		}
-	}
-	any_pop = { militancy = -1.0 consciousness = -2 }
-	USA = { country_event = 8015858 }
-	ai_chance = { factor = 100 }
+    random_country = {
+      limit = { owns = 1224 NOT = { owns = 1225 } }
+      THIS = {
+        war = { target = HND attacker_goal = { casus_belli = acquire_core_state state_province_id = 1224 } defender_goal = { casus_belli = status_quo } }
+        set_country_flag = second_kashmir_war_all
+      }
+    }
+    random_country = {
+      limit = { owns = 1224 NOT = { owns = 1225 } }
+      THIS = {
+        war = { target = HND attacker_goal = { casus_belli = acquire_core_state state_province_id = 1225 } defender_goal = { casus_belli = status_quo } }
+        set_country_flag = second_kashmir_war_girgit
+      }
+    }
+    any_pop = { militancy = -1.0 consciousness = -2 }
+    USA = { country_event = 8015858 }
+    ai_chance = { factor = 100 }
   }
 
   option = {
     name = EVT_8007260_B
-	prestige = -10
-	ai_chance = { factor = 0 }
+    prestige = -10
+    ai_chance = { factor = 0 }
   }
 }
 country_event = {
@@ -555,7 +555,7 @@ country_event = {
 
   trigger = {
     tag = PAK
-	exists = PAK
+    exists = PAK
     year = 1965 NOT = { year = 1966 }
     war_with = HND
   }
@@ -564,15 +564,15 @@ country_event = {
 
   option = {
     name = EVT_8007261_A
-	HND = { country_event = 8007262 }
-	any_pop = { consciousness = 2 }
-	ai_chance = { factor = 100 }
+    HND = { country_event = 8007262 }
+    any_pop = { consciousness = 2 }
+    ai_chance = { factor = 100 }
   }
 
   option = {
     name = EVT_8007261_B
-	any_pop = { militancy = 1.0 }
-	ai_chance = { factor = 0 }
+    any_pop = { militancy = 1.0 }
+    ai_chance = { factor = 0 }
   }
 }
 country_event = {
@@ -584,21 +584,21 @@ country_event = {
 
   option = {
     name = EVT_8007262_A
-	end_war = PAK
-	any_pop = { consciousness = 2 }
-	ai_chance = { factor = 100 }
+    end_war = PAK
+    any_pop = { consciousness = 2 }
+    ai_chance = { factor = 100 }
   }
 
   option = {
     name = EVT_8007262_B
-	any_pop = { militancy = 0.5  consciousness = 1 }
-	badboy = 5 
-	relation = { who = USA value = -150 } 
-	relation = { who = GBR value = -150 } 
-	relation = { who = FRA value = -150 } 
-	relation = { who = CHI value = -150 } 
-	relation = { who = SUN value = -150 } 
-	ai_chance = { factor = 0 }
+    any_pop = { militancy = 0.5  consciousness = 1 }
+    badboy = 5
+    relation = { who = USA value = -150 }
+    relation = { who = GBR value = -150 }
+    relation = { who = FRA value = -150 }
+    relation = { who = CHI value = -150 }
+    relation = { who = SUN value = -150 }
+    ai_chance = { factor = 0 }
   }
 }
 country_event = {
@@ -612,18 +612,18 @@ country_event = {
     tag = PAK
     year = 1966 NOT = { year = 1970 }
     NOT = { war_with = HND }
-	OR = { 
-		AND = { has_country_flag = second_kashmir_war_girgit owns = 1225 } 
-		AND = { has_country_flag = second_kashmir_war_all owns = 1224 } 
-	}
+    OR = {
+      AND = { has_country_flag = second_kashmir_war_girgit owns = 1225 }
+      AND = { has_country_flag = second_kashmir_war_all owns = 1224 }
+    }
   }
 
   mean_time_to_happen = { months = 1  }
 
   option = {
     name = EVT_8007263_A
-	any_pop = { militancy = -1.5 consciousness = -1 }
-	HND = { country_event = 8007264 }
+    any_pop = { militancy = -1.5 consciousness = -1 }
+    HND = { country_event = 8007264 }
   }
 }
 country_event = {
@@ -635,8 +635,8 @@ country_event = {
 
   option = {
     name = EVT_8007264_A
-	any_pop = { militancy = 1.5 consciousness = 2 }
-	prestige = -50
+    any_pop = { militancy = 1.5 consciousness = 2 }
+    prestige = -50
   }
 }
 country_event = {
@@ -647,20 +647,20 @@ country_event = {
   fire_only_once = yes
 
   trigger = {
-	tag = HND
+    tag = HND
     year = 1966 NOT = { year = 1970 }
     NOT = { war_with = PAK }
-	OR = { 
-		AND = { PAK = { has_country_flag = second_kashmir_war_girgit } NOT = { owns = 1225 } } 
-		AND = { PAK = { has_country_flag = second_kashmir_war_all } NOT = { owns = 1224 } } 
-	}
+    OR = {
+      AND = { PAK = { has_country_flag = second_kashmir_war_girgit } NOT = { owns = 1225 } }
+      AND = { PAK = { has_country_flag = second_kashmir_war_all } NOT = { owns = 1224 } }
+    }
   }
 
   mean_time_to_happen = { months = 1  }
 
   option = {
     name = EVT_8007265_A
-	PAK = { country_event =  8007263 }
+    PAK = { country_event =  8007263 }
   }
 }
 country_event = {
@@ -674,20 +674,20 @@ country_event = {
     tag = HND
     year = 1966 NOT = { year = 1970 }
     NOT = { war_with = PAK }
-	owns = 1224
-	owns = 1225
-	OR = { 
-		PAK = { has_country_flag = second_kashmir_war_girgit }
-		PAK = { has_country_flag = second_kashmir_war_all }
-	}
+    owns = 1224
+    owns = 1225
+    OR = {
+      PAK = { has_country_flag = second_kashmir_war_girgit }
+      PAK = { has_country_flag = second_kashmir_war_all }
+    }
   }
-  
+
   mean_time_to_happen = { months = 1  }
 
   option = {
     name = EVT_8007266_A
-	PAK = { country_event = 8007267 }
-	prestige = 10
+    PAK = { country_event = 8007267 }
+    prestige = 10
   }
 }
 country_event = {
@@ -696,10 +696,10 @@ country_event = {
   desc = EVT_8007267_DESC
   picture = "nwo2_second_kashmir_war"
   is_triggered_only = yes # PAK
-  
+
   option = {
     name = EVT_8007267_A
-	prestige = -10
+    prestige = -10
   }
 }
 country_event = {
@@ -719,9 +719,9 @@ country_event = {
 
   option = {
     name = EVT_8007270_A
-	any_pop = { consciousness = 2 }
-	1252 = { any_pop = { dominant_issue = { value = planned_economy factor = 0.5 } } }
-	# TODO seed for the Naxalite rebellion 
+    any_pop = { consciousness = 2 }
+    1252 = { any_pop = { dominant_issue = { value = planned_economy factor = 0.5 } } }
+    # TODO seed for the Naxalite rebellion
   }
 }
 country_event = {
@@ -734,7 +734,7 @@ country_event = {
   trigger = {
     tag = HND
     year = 1975 NOT = { year = 1976 }
-	government = democracy
+    government = democracy
     war = no
   }
 
@@ -742,12 +742,12 @@ country_event = {
 
   option = {
     name = EVT_8007271_A
-	election = yes
+    election = yes
   }
 
   option = {
     name = EVT_8007271_B
-	any_pop = { militancy = 0.5  consciousness = 1 }
+    any_pop = { militancy = 0.5  consciousness = 1 }
   }
 }
 country_event = {
@@ -761,7 +761,7 @@ country_event = {
 
   option = {
     name = EVT_8007272_A
-	any_pop = { limit = { culture = sikh } militancy = 5.0 consciousness = 2 } 
+    any_pop = { limit = { culture = sikh } militancy = 5.0 consciousness = 2 }
   }
 }
 country_event = {
@@ -781,8 +781,8 @@ country_event = {
 
   option = {
     name = EVT_8007273_A
-	any_pop = { consciousness = 2 }
-	add_country_modifier = { name = central_planning_inflexibility2 duration = 3500 }
+    any_pop = { consciousness = 2 }
+    add_country_modifier = { name = central_planning_inflexibility2 duration = 3500 }
   }
 }
 country_event = {
@@ -794,7 +794,7 @@ country_event = {
 
   option = {
     name = EVT_8007274_A
-	add_country_modifier = { name = military_man duration = 365 }
+    add_country_modifier = { name = military_man duration = 365 }
   }
 }
 country_event = {
@@ -806,10 +806,10 @@ country_event = {
 
   option = {
     name = EVT_8007275_A
-	relation = { who = SUN value = 75 } 
-	relation = { who = CHI value = -25 } 
-	relation = { who = PAK value = -25 } 
-	relation = { who = USA value = -25 } 
+    relation = { who = SUN value = 75 }
+    relation = { who = CHI value = -25 }
+    relation = { who = PAK value = -25 }
+    relation = { who = USA value = -25 }
   }
 }
 country_event = {
@@ -821,8 +821,8 @@ country_event = {
 
   option = {
     name = EVT_8007276_A
-	relation = { who = SUN value = -50 } 
-	relation = { who = USA value = 100 } 
+    relation = { who = SUN value = -50 }
+    relation = { who = USA value = 100 }
   }
 }
 country_event = {
@@ -841,7 +841,7 @@ country_event = {
 
   option = {
     name = OK
-	define_general = { name = "Rajendra Prasad" personality = energetic background = no_background }
+    define_general = { name = "Rajendra Prasad" personality = energetic background = no_background }
   }
 }
 
@@ -859,17 +859,17 @@ country_event = {
     tag = HND
     NOT = { government = proletarian_dictatorship }
     year = 1967
-	owns = 2654 # Munger
-	owns = 1287 # Warangal
+    owns = 2654 # Munger
+    owns = 1287 # Warangal
   }
   mean_time_to_happen = { months = 1  }
 
   option = {
     name = EVT_8007280_A
-	# EVT_8007280_A;This is not good
-	2654 = { add_core = NAX }
-	1287 = { add_core = NAX }
-	set_country_flag = naxalite_insurgency
+    # EVT_8007280_A;This is not good
+    2654 = { add_core = NAX }
+    1287 = { add_core = NAX }
+    set_country_flag = naxalite_insurgency
   }
 }
 
@@ -884,21 +884,21 @@ province_event = {
   trigger = {
     year = 1970
     owned_by = HND
-	owner = { has_country_flag = naxalite_insurgency
-	NOT = { government = proletarian_dictatorship }
-	}
-	any_neighbor_province = { is_core = NAX }
-	is_capital = no 
-	is_core = HND
-	OR = { state_id = 1283 state_id = 1305 state_id = 1279 state_id = 1262 state_id = 1249 state_id = 1247 state_id = 1245 state_id = 1253 state_id = 1252 }
+    owner = { has_country_flag = naxalite_insurgency
+      NOT = { government = proletarian_dictatorship }
+    }
+    any_neighbor_province = { is_core = NAX }
+    is_capital = no
+    is_core = HND
+    OR = { state_id = 1283 state_id = 1305 state_id = 1279 state_id = 1262 state_id = 1249 state_id = 1247 state_id = 1245 state_id = 1253 state_id = 1252 }
   }
 
   mean_time_to_happen = { months = 1200 } # TODO timer based on millitancy
 
   option = {
     name = EVT_8007281_A
-	# EVT_8007281_A;More trouble is ahead
-	add_core = NAX
+    # EVT_8007281_A;More trouble is ahead
+    add_core = NAX
   }
 
 }
@@ -916,18 +916,18 @@ country_event = {
     tag = HND
     NOT = { government = proletarian_dictatorship }
     year = 2010
-	war = no
+    war = no
   }
   mean_time_to_happen = { months = 1  }
 
   option = {
     name = EVT_8007282_A
-	# EVT_8007282_A;This is a full scale war!
-	release = NAX
-	NAX = { government = proletarian_dictatorship country_event = 800052 }
-	casus_belli = {target = NAX type = civil_war months = 12 }
-	war = { target = NAX attacker_goal = { casus_belli = civil_war } defender_goal = { casus_belli = status_quo } }
-	clr_country_flag = naxalite_insurgency
+    # EVT_8007282_A;This is a full scale war!
+    release = NAX
+    NAX = { government = proletarian_dictatorship country_event = 800052 }
+    casus_belli = {target = NAX type = civil_war months = 12 }
+    war = { target = NAX attacker_goal = { casus_belli = civil_war } defender_goal = { casus_belli = status_quo } }
+    clr_country_flag = naxalite_insurgency
   }
 }
 

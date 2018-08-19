@@ -8,10 +8,10 @@ railroad = 1
 colonial = 0
 naval_base = 3
 1992.1.1 = {
-owner = CAN
-controller = CAN
-add_core = CAN
-railroad = 1
-colonial = 0
-naval_base = 3
+  owner = CAN
+  controller = CAN
+  add_core = CAN
+  railroad = 1
+  colonial = 0
+  naval_base = 3
 }

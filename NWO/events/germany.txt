@@ -7,8 +7,8 @@ country_event = {
 
   trigger = {
     tag = GER
-	exists = GER
-	government = democracy
+    exists = GER
+    government = democracy
     year = 1949 NOT = {year = 1964}
   }
 
@@ -16,11 +16,11 @@ country_event = {
 
   option = {
     name = "EVT_8004505_A"
-	prestige = 60
+    prestige = 60
   }
   option = {
     name = "EVT_8004505_B"
-	prestige = -10
+    prestige = -10
   }
 }
 country_event = {
@@ -39,7 +39,7 @@ country_event = {
 
   option = {
     name = "EVT_8004506_A"
-	prestige = -10
+    prestige = -10
   }
 }
 country_event = {
@@ -58,7 +58,7 @@ country_event = {
 
   option = {
     name = EVT_8004514_A
-	add_country_modifier = { name = ruling_party_scandal duration = 1000 }
+    add_country_modifier = { name = ruling_party_scandal duration = 1000 }
   }
 }
 country_event = {
@@ -72,7 +72,7 @@ country_event = {
     tag = GER
     year = 1962 NOT = { year = 1963 }
     exists = DDR
-    
+
     war = no
   }
 
@@ -80,7 +80,7 @@ country_event = {
 
   option = {
     name = EVT_8004522_A
-	add_country_modifier = { name = ruling_party_scandal duration = 1000 }
+    add_country_modifier = { name = ruling_party_scandal duration = 1000 }
   }
 }
 country_event = {
@@ -94,7 +94,7 @@ country_event = {
     tag = GER
     year = 1963
     exists = DDR
-    
+
     war = no
   }
 
@@ -102,14 +102,14 @@ country_event = {
 
   option = {
     name = EVT_8004523_A
-	any_pop = { consciousness = 1 }
-	ai_chance= { factor = 195 }
+    any_pop = { consciousness = 1 }
+    ai_chance= { factor = 195 }
   }
 
   option = {
     name = EVT_8004523_B
-	country_event = 8004524
-	ai_chance= { factor = 5 }
+    country_event = 8004524
+    ai_chance= { factor = 5 }
   }
 }
 country_event = {
@@ -121,15 +121,15 @@ country_event = {
 
   option = {
     name = EVT_8004524_A
-	any_pop = { consciousness = 1 }
-	country_event = 8004525 
-	ai_chance = { factor = 60 }
+    any_pop = { consciousness = 1 }
+    country_event = 8004525
+    ai_chance = { factor = 60 }
   }
 
   option = {
     name = EVT_8004524_B
-	any_pop = { militancy = 0.5 consciousness = 1 } 
-	ai_chance = { factor = 40 }
+    any_pop = { militancy = 0.5 consciousness = 1 }
+    ai_chance = { factor = 40 }
   }
 }
 country_event = {
@@ -142,25 +142,25 @@ country_event = {
 
   option = {
     name = EVT_8004525_A
-	any_pop = { consciousness = 2 }
-	relation = { who = SUN value = -50 } 
-	relation = { who = DDR value = -50 } 
-	ai_chance = { factor = 100 }
+    any_pop = { consciousness = 2 }
+    relation = { who = SUN value = -50 }
+    relation = { who = DDR value = -50 }
+    ai_chance = { factor = 100 }
   }
 
   option = {
     name = EVT_8004525_B
-	any_pop = { militancy = 0.5 }
-	relation = { who = SUN value = 25 } 
-	relation = { who = DDR value = 25 } 
-	ai_chance = { factor = 0 }
+    any_pop = { militancy = 0.5 }
+    relation = { who = SUN value = 25 }
+    relation = { who = DDR value = 25 }
+    ai_chance = { factor = 0 }
   }
 
   option = {
     name = EVT_8004525_C
-	any_pop = { militancy = 1.5 }
-	war = SUN 
-	ai_chance = { factor = 0 }
+    any_pop = { militancy = 1.5 }
+    war = SUN
+    ai_chance = { factor = 0 }
   }
 }
 country_event = {
@@ -174,21 +174,21 @@ country_event = {
     tag = GER
     year = 1963 NOT = { year = 1971 }
     exists = DDR
-    
+
   }
   immediate = { set_global_flag = event_fired_8004526 }
   mean_time_to_happen = { months = 6  }
 
   option = {
     name = EVT_8004526_A
-	any_pop = { consciousness = 2 }
-	relation = { who = DDR value = 100 } 
-	relation = { who = SUN value = 20 } 
+    any_pop = { consciousness = 2 }
+    relation = { who = DDR value = 100 }
+    relation = { who = SUN value = 20 }
   }
 
   option = {
     name = EVT_8004526_B
-	relation = { who = DDR value = -5 } 
+    relation = { who = DDR value = -5 }
   }
 }
 country_event = {
@@ -203,25 +203,25 @@ country_event = {
     year = 1971
     has_global_flag = event_fired_8004526
     exists = POL
-    
+
   }
 
   mean_time_to_happen = { months = 6  }
 
   option = {
     name = EVT_8004527_A
-	any_pop = { consciousness = 1 }
-	badboy = -10 
-	ai_chance = { factor = 100 }
+    any_pop = { consciousness = 1 }
+    badboy = -10
+    ai_chance = { factor = 100 }
   }
 
   option = {
     name = EVT_8004527_B
-	relation = { who = DDR value = -5 } 
-	relation = { who = POL value = -200 } 
-	badboy = 2
-	set_country_flag = reject_oder_neisse 
-	ai_chance = { factor = 0 }
+    relation = { who = DDR value = -5 }
+    relation = { who = POL value = -200 }
+    badboy = 2
+    set_country_flag = reject_oder_neisse
+    ai_chance = { factor = 0 }
   }
 }
 
@@ -234,22 +234,22 @@ country_event = {
 
   option = {
     name = EVT_8004311_A
-	all_core = { add_core = GER }
-	government = democracy country_event = 800054 
-	USA = { country_event = 8004321 } 
-	FRA = { country_event = 8004321 } 
-	SUN = { country_event = 8004321 } 
-	GBR = { country_event = 8004321 } 
-	GER = { country_event = { id = 8004325 days = 30 } } # reunification
-	ai_chance = { factor = 100 }
+    all_core = { add_core = GER }
+    government = democracy country_event = 800054
+    USA = { country_event = 8004321 }
+    FRA = { country_event = 8004321 }
+    SUN = { country_event = 8004321 }
+    GBR = { country_event = 8004321 }
+    GER = { country_event = { id = 8004325 days = 30 } } # reunification
+    ai_chance = { factor = 100 }
   }
 
   option = {
     name = EVT_8004311_B
-	any_pop = { consciousness = 1 }
-	any_owned = { add_core = GER }
-	government = democracy country_event = 800054 
-	ai_chance = { factor = 0 }
+    any_pop = { consciousness = 1 }
+    any_owned = { add_core = GER }
+    government = democracy country_event = 800054
+    ai_chance = { factor = 0 }
   }
 }
 country_event = { # Stasi
@@ -262,15 +262,15 @@ country_event = { # Stasi
   trigger = {
     tag = DDR
     year = 1950
-	NOT = { year = 1952 }
+    NOT = { year = 1952 }
   }
 
   mean_time_to_happen = { months = 2  }
 
   option = {
     name = EVT_8004312_A
-	random_state = { any_pop = { dominant_issue = { value = full_citizenship factor = 0.65 } } }
-	SUN  = { country_event = 8225000 } 
+    random_state = { any_pop = { dominant_issue = { value = full_citizenship factor = 0.65 } } }
+    SUN  = { country_event = 8225000 }
   }
 }
 country_event = { # East German Uprising of 1953
@@ -290,24 +290,24 @@ country_event = { # East German Uprising of 1953
 
   option = {
     name = EVT_8004313_A
-	any_pop = { militancy = 0.8 consciousness = 1 }
-	add_country_modifier = { name = central_planning_inflexibility2 duration = 600 }
-	ai_chance = { factor = 70 }
+    any_pop = { militancy = 0.8 consciousness = 1 }
+    add_country_modifier = { name = central_planning_inflexibility2 duration = 600 }
+    ai_chance = { factor = 70 }
   }
 
   option = {
     name = EVT_8004313_B
-	any_pop = { consciousness = 2 }
-	add_country_modifier = { name = central_planning_inflexibility2 duration = 300 }
-	ai_chance = { factor = 20 }
+    any_pop = { consciousness = 2 }
+    add_country_modifier = { name = central_planning_inflexibility2 duration = 300 }
+    ai_chance = { factor = 20 }
   }
 
   option = {
     name = EVT_8004313_C
-	any_pop = { militancy = 1.6 }
-	SUN  = { country_event = 8225001 } 
-	add_country_modifier = { name = central_planning_inflexibility2 duration = 30 }
-	ai_chance = { factor = 10 }
+    any_pop = { militancy = 1.6 }
+    SUN  = { country_event = 8225001 }
+    add_country_modifier = { name = central_planning_inflexibility2 duration = 30 }
+    ai_chance = { factor = 10 }
   }
 }
 country_event = { # Construction of the Berlin Wall;
@@ -319,10 +319,10 @@ country_event = { # Construction of the Berlin Wall;
 
   trigger = {
     tag = DDR
-	OR = { 
-		year = 1961
-		has_global_flag = berlin_wall
-	}
+    OR = {
+      year = 1961
+      has_global_flag = berlin_wall
+    }
     exists = GER
   }
   immediate = { set_global_flag = berlin_wall } # used in # Fall of the Berlin Wall
@@ -331,8 +331,8 @@ country_event = { # Construction of the Berlin Wall;
 
   option = {
     name = EVT_8004314_A
-	random_state = { any_pop = { dominant_issue = { value = full_citizenship factor = 0.6 } } }
-	SUN  = { country_event = 8225000 } 
+    random_state = { any_pop = { dominant_issue = { value = full_citizenship factor = 0.6 } } }
+    SUN  = { country_event = 8225000 }
   }
 }
 country_event = {
@@ -352,8 +352,8 @@ country_event = {
 
   option = {
     name = "EVT_8004315_A"
-	add_country_modifier = { name = five_year_plan duration = 365 }
-	money = 1000 
+    add_country_modifier = { name = five_year_plan duration = 365 }
+    money = 1000
   }
 }
 country_event = {
@@ -364,10 +364,10 @@ country_event = {
   fire_only_once = yes
 
   trigger = {
-	OR = { tag = DDR tag = POL }
-	vassal_of = SUN
+    OR = { tag = DDR tag = POL }
+    vassal_of = SUN
     year = 1952
-	NOT = { year = 1952 }
+    NOT = { year = 1952 }
     exists = POL
   }
 
@@ -375,10 +375,10 @@ country_event = {
 
   option = {
     name = "EVT_8004316_A"
-	relation = { who = SUN value = 50 } 
-	set_country_flag = treaty_of_zgorzelec
-	badboy = -10 
-	# TODO add DDR event where they refuse to sign
+    relation = { who = SUN value = 50 }
+    set_country_flag = treaty_of_zgorzelec
+    badboy = -10
+    # TODO add DDR event where they refuse to sign
   }
 }
 country_event = { # Brain drain flight_to_west_germany
@@ -390,19 +390,19 @@ country_event = { # Brain drain flight_to_west_germany
 
   trigger = {
     tag = DDR
-	year = 1952
+    year = 1952
     NOT = { year = 1963 }
     NOT = { has_global_flag = berlin_wall }
     exists = GER
-    any_owned_province = { province_id = 155 }  
+    any_owned_province = { province_id = 155 }
   }
 
   mean_time_to_happen = { months = 24  }
 
   option = {
     name = EVT_8004317_A
-	any_pop = { militancy = 1.0 consciousness = 1 }
-	add_country_modifier = { name = baby_bust duration = 16000 }
+    any_pop = { militancy = 1.0 consciousness = 1 }
+    add_country_modifier = { name = baby_bust duration = 16000 }
   }
 }
 country_event = {
@@ -415,7 +415,7 @@ country_event = {
   trigger = {
     tag = DDR
     year = 1944
-	NOT = { year = 1964 }
+    NOT = { year = 1964 }
     has_global_flag = divided_berlin
   }
 
@@ -425,7 +425,7 @@ country_event = {
 
   option = {
     name = EVT_8004318_A
-	prestige = 5
+    prestige = 5
   }
 }
 country_event = {
@@ -438,7 +438,7 @@ country_event = {
   trigger = {
     tag = DDR
     year = 1944
-	NOT = { year = 1964 }
+    NOT = { year = 1964 }
     NOT = { has_global_flag = divided_berlin }
     has_global_flag = event_fired_8004318
   }
@@ -457,31 +457,31 @@ country_event = { # Fall of the Berlin Wall
 
   trigger = {
     tag = DDR
-	exists = DDR
+    exists = DDR
     exists = GER
     has_global_flag = autumn_of_nations
-	OR = { vassal_of = SUN is_vassal = no }
-	war = no
+    OR = { vassal_of = SUN is_vassal = no }
+    war = no
   }
 
   mean_time_to_happen = { months = 10 }
 
   option = {
     name = EVT_8004320_A
-	any_pop = { militancy = -2.0 }
-	relation = { who = GER value = 200 } 
-	overlord = { country_event = 8014250 } 
-	country_event = { id = 8004311 days = 30 }
-	ai_chance = { factor = 100 }
+    any_pop = { militancy = -2.0 }
+    relation = { who = GER value = 200 }
+    overlord = { country_event = 8014250 }
+    country_event = { id = 8004311 days = 30 }
+    ai_chance = { factor = 100 }
   }
 
   option = {
     name = EVT_8004320_B
-	any_pop = { militancy = 5.0 consciousness = 4 }
-	any_pop = { dominant_issue = { value = full_citizenship factor = 0.2 } }
-	relation = { who = GER value = -50 } 
-	overlord = { country_event = 8014250 } 
-	ai_chance = { factor = 0 }
+    any_pop = { militancy = 5.0 consciousness = 4 }
+    any_pop = { dominant_issue = { value = full_citizenship factor = 0.2 } }
+    relation = { who = GER value = -50 }
+    overlord = { country_event = 8014250 }
+    ai_chance = { factor = 0 }
   }
 }
 country_event = { # Reunification of Germany
@@ -493,17 +493,17 @@ country_event = { # Reunification of Germany
 
   option = {
     name = EVT_8004321_A
-	any_pop = { consciousness = 2 }
-	relation = { who = GER value = 50 } 
-	ai_chance = { factor = 100 }
+    any_pop = { consciousness = 2 }
+    relation = { who = GER value = 50 }
+    ai_chance = { factor = 100 }
   }
 
   option = {
     name = EVT_8004321_B
-	ai_chance = { factor = 0 }
-	any_pop = { consciousness = 1 }
-	relation = { who = GER value = -100 } 
-	casus_belli = { target = GER type = liberate_country months = 24 }
+    ai_chance = { factor = 0 }
+    any_pop = { consciousness = 1 }
+    relation = { who = GER value = -100 }
+    casus_belli = { target = GER type = liberate_country months = 24 }
   }
 }
 country_event = { # Reunification of Germany
@@ -515,17 +515,17 @@ country_event = { # Reunification of Germany
 
   option = {
     name = EVT_8004325_A
-	any_pop = { militancy = -2.0 }
-	diplomatic_influence = { who = DDR value = 200 }
-	create_vassal = DDR
-	ai_chance = { factor = 100 }
+    any_pop = { militancy = -2.0 }
+    diplomatic_influence = { who = DDR value = 200 }
+    create_vassal = DDR
+    ai_chance = { factor = 100 }
   }
 
   option = {
     name = EVT_8004325_B
-	any_pop = { militancy = 5.0 }
-	any_pop = { consciousness = 1 }
-	ai_chance = { factor = 0 }
+    any_pop = { militancy = 5.0 }
+    any_pop = { consciousness = 1 }
+    ai_chance = { factor = 0 }
   }
 }
 country_event = { # Reparations Agreement between Israel and West Germany
@@ -536,16 +536,16 @@ country_event = { # Reparations Agreement between Israel and West Germany
   is_triggered_only = yes # ISR
   option = {
     name = EVT_8004326_A
-	prestige = 2
-	money = -300000
-	ISR = { country_event = 8007721 } 
-	ai_chance = { factor = 100 }
+    prestige = 2
+    money = -300000
+    ISR = { country_event = 8007721 }
+    ai_chance = { factor = 100 }
   }
 
   option = {
     name = EVT_8004326_B
-	prestige = -10
-	badboy = 10
-	ai_chance = { factor = 0 }
+    prestige = -10
+    badboy = 10
+    ai_chance = { factor = 0 }
   }
 }

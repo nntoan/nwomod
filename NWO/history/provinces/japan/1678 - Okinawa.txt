@@ -8,17 +8,17 @@ terrain = hilly_farmland
 railroad = 1
 colonial = 2
 1992.1.1 = {
-owner = JAP
-controller = JAP
-add_core = JAP
-add_core = RYK
-add_core = CHI
-railroad = 2
-colonial = 0
-naval_base = 4
-state_building = {
-	level = 1
-	building = home_appliance_factory
-	upgrade = yes
-}
+  owner = JAP
+  controller = JAP
+  add_core = JAP
+  add_core = RYK
+  add_core = CHI
+  railroad = 2
+  colonial = 0
+  naval_base = 4
+  state_building = {
+    level = 1
+    building = home_appliance_factory
+    upgrade = yes
+  }
 }

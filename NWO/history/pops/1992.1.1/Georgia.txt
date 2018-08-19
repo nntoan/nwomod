@@ -1,310 +1,310 @@
 #Tblisi - Tblisi (3058000/764500 POPS)
 1090 = {
-	officers = {
-		culture = georgian
-		religion =  orthodox 
-		size = 1300
-	 } 
-	officers = {
-		culture = georgian
-		religion = secularism
-		size = 229
-	 } 
-	soldiers = {
-		culture = georgian
-		religion =  orthodox 
-		size = 24723
-	 } 
-	soldiers = {
-		culture = georgian
-		religion = secularism
-		size = 4363
-	 } 
-	aristocrats = {
-		culture = georgian
-		religion =  orthodox 
-		size = 22743
-	 } 
-	aristocrats = {
-		culture = georgian
-		religion = secularism
-		size = 4013
-	 } 
-	bureaucrats = {
-		culture = georgian
-		religion =  orthodox 
-		size = 2599
-	 } 
-	bureaucrats = {
-		culture = georgian
-		religion = secularism
-		size = 458
-	 } 
-	capitalists = {
-		culture = georgian
-		religion =  orthodox 
-		size = 3898
-	 } 
-	capitalists = {
-		culture = georgian
-		religion = secularism
-		size = 688
-	 } 
-	clergymen = {
-		culture = georgian
-		religion =  orthodox 
-		size = 12996
-	 } 
-	clergymen = {
-		culture = georgian
-		religion = secularism
-		size = 2293
-	 } 
-	clerks = {
-		culture = georgian
-		religion =  orthodox 
-		size = 12318
-	 } 
-	clerks = {
-		culture = georgian
-		religion = secularism
-		size = 2173
-	 } 
-	artisans = {
-		culture = georgian
-		religion =  orthodox 
-		size = 11701
-	 } 
-	artisans = {
-		culture = georgian
-		religion = secularism
-		size = 2065
-	 } 
-	craftsmen = {
-		culture = georgian
-		religion =  orthodox 
-		size = 36954
-	 } 
-	craftsmen = {
-		culture = georgian
-		religion = secularism
-		size = 6521
-	 } 
-	farmers = {
-		culture = georgian
-		religion =  orthodox 
-		size = 403619
-	 } 
-	farmers = {
-		culture = georgian
-		religion = secularism
-		size = 71226
-	 } 
-	farmers = {
-		culture = azerbaijani
-		religion =  shiite 
-		size = 91740
-	 } 
-	farmers = {
-		culture = russian
-		religion =  orthodox 
-		size = 19494
-	 } 
-	farmers = {
-		culture = russian
-		religion = secularism
-		size = 3440
-	 } 
-	farmers = {
-		culture = armenian
-		religion =  orthodox 
-		size = 19494
-	 } 
-	farmers = {
-		culture = armenian
-		religion = secularism
-		size = 3440
-	 } 
+  officers = {
+    culture = georgian
+    religion =  orthodox
+    size = 1300
+  }
+  officers = {
+    culture = georgian
+    religion = secularism
+    size = 229
+  }
+  soldiers = {
+    culture = georgian
+    religion =  orthodox
+    size = 24723
+  }
+  soldiers = {
+    culture = georgian
+    religion = secularism
+    size = 4363
+  }
+  aristocrats = {
+    culture = georgian
+    religion =  orthodox
+    size = 22743
+  }
+  aristocrats = {
+    culture = georgian
+    religion = secularism
+    size = 4013
+  }
+  bureaucrats = {
+    culture = georgian
+    religion =  orthodox
+    size = 2599
+  }
+  bureaucrats = {
+    culture = georgian
+    religion = secularism
+    size = 458
+  }
+  capitalists = {
+    culture = georgian
+    religion =  orthodox
+    size = 3898
+  }
+  capitalists = {
+    culture = georgian
+    religion = secularism
+    size = 688
+  }
+  clergymen = {
+    culture = georgian
+    religion =  orthodox
+    size = 12996
+  }
+  clergymen = {
+    culture = georgian
+    religion = secularism
+    size = 2293
+  }
+  clerks = {
+    culture = georgian
+    religion =  orthodox
+    size = 12318
+  }
+  clerks = {
+    culture = georgian
+    religion = secularism
+    size = 2173
+  }
+  artisans = {
+    culture = georgian
+    religion =  orthodox
+    size = 11701
+  }
+  artisans = {
+    culture = georgian
+    religion = secularism
+    size = 2065
+  }
+  craftsmen = {
+    culture = georgian
+    religion =  orthodox
+    size = 36954
+  }
+  craftsmen = {
+    culture = georgian
+    religion = secularism
+    size = 6521
+  }
+  farmers = {
+    culture = georgian
+    religion =  orthodox
+    size = 403619
+  }
+  farmers = {
+    culture = georgian
+    religion = secularism
+    size = 71226
+  }
+  farmers = {
+    culture = azerbaijani
+    religion =  shiite
+    size = 91740
+  }
+  farmers = {
+    culture = russian
+    religion =  orthodox
+    size = 19494
+  }
+  farmers = {
+    culture = russian
+    religion = secularism
+    size = 3440
+  }
+  farmers = {
+    culture = armenian
+    religion =  orthodox
+    size = 19494
+  }
+  farmers = {
+    culture = armenian
+    religion = secularism
+    size = 3440
+  }
 }
 #Kutaisi - Kutaisi (912000/228000 POPS)
 1092 = {
-	clergymen = {
-		culture = georgian
-		religion =  orthodox 
-		size = 3876
-	 } 
-	clergymen = {
-		culture = georgian
-		religion = secularism
-		size = 684
-	 } 
-	farmers = {
-		culture = georgian
-		religion =  orthodox 
-		size = 189924
-	 } 
-	farmers = {
-		culture = georgian
-		religion = secularism
-		size = 33516
-	 } 
+  clergymen = {
+    culture = georgian
+    religion =  orthodox
+    size = 3876
+  }
+  clergymen = {
+    culture = georgian
+    religion = secularism
+    size = 684
+  }
+  farmers = {
+    culture = georgian
+    religion =  orthodox
+    size = 189924
+  }
+  farmers = {
+    culture = georgian
+    religion = secularism
+    size = 33516
+  }
 }
 #Akihaltsikle - Akihaltsikle (252000/63000 POPS)
 1093 = {
-	clergymen = {
-		culture = georgian
-		religion =  orthodox 
-		size = 1071
-	 } 
-	clergymen = {
-		culture = georgian
-		religion = secularism
-		size = 189
-	 } 
-	farmers = {
-		culture = georgian
-		religion =  orthodox 
-		size = 1606
-	 } 
-	farmers = {
-		culture = georgian
-		religion = secularism
-		size = 283
-	 } 
-	farmers = {
-		culture = armenian
-		religion =  orthodox 
-		size = 50872
-	 } 
-	farmers = {
-		culture = armenian
-		religion = secularism
-		size = 8977
-	 } 
+  clergymen = {
+    culture = georgian
+    religion =  orthodox
+    size = 1071
+  }
+  clergymen = {
+    culture = georgian
+    religion = secularism
+    size = 189
+  }
+  farmers = {
+    culture = georgian
+    religion =  orthodox
+    size = 1606
+  }
+  farmers = {
+    culture = georgian
+    religion = secularism
+    size = 283
+  }
+  farmers = {
+    culture = armenian
+    religion =  orthodox
+    size = 50872
+  }
+  farmers = {
+    culture = armenian
+    religion = secularism
+    size = 8977
+  }
 }
 #Poti - Poti (745000/186250 POPS)
 1094 = {
-	clergymen = {
-		culture = georgian
-		religion =  orthodox 
-		size = 3166
-	 } 
-	clergymen = {
-		culture = georgian
-		religion = secularism
-		size = 558
-	 } 
-	farmers = {
-		culture = georgian
-		religion =  orthodox 
-		size = 155146
-	 } 
-	farmers = {
-		culture = georgian
-		religion = secularism
-		size = 27378
-	 } 
+  clergymen = {
+    culture = georgian
+    religion =  orthodox
+    size = 3166
+  }
+  clergymen = {
+    culture = georgian
+    religion = secularism
+    size = 558
+  }
+  farmers = {
+    culture = georgian
+    religion =  orthodox
+    size = 155146
+  }
+  farmers = {
+    culture = georgian
+    religion = secularism
+    size = 27378
+  }
 }
 #Batum - Batum (456000/114000 POPS)
 1096 = {
-	officers = {
-		culture = georgian
-		religion =  orthodox 
-		size = 118
-	 } 
-	officers = {
-		culture = georgian
-		religion = secularism
-		size = 20
-	 } 
-	soldiers = {
-		culture = georgian
-		religion =  orthodox 
-		size = 2248
-	 } 
-	soldiers = {
-		culture = georgian
-		religion = secularism
-		size = 396
-	 } 
-	aristocrats = {
-		culture = georgian
-		religion =  orthodox 
-		size = 3391
-	 } 
-	aristocrats = {
-		culture = georgian
-		religion = secularism
-		size = 598
-	 } 
-	bureaucrats = {
-		culture = georgian
-		religion =  orthodox 
-		size = 387
-	 } 
-	bureaucrats = {
-		culture = georgian
-		religion = secularism
-		size = 68
-	 } 
-	capitalists = {
-		culture = georgian
-		religion =  orthodox 
-		size = 581
-	 } 
-	capitalists = {
-		culture = georgian
-		religion = secularism
-		size = 102
-	 } 
-	clergymen = {
-		culture = georgian
-		religion =  orthodox 
-		size = 1938
-	 } 
-	clergymen = {
-		culture = georgian
-		religion = secularism
-		size = 342
-	 } 
-	clerks = {
-		culture = georgian
-		religion =  orthodox 
-		size = 1866
-	 } 
-	clerks = {
-		culture = georgian
-		religion = secularism
-		size = 329
-	 } 
-	artisans = {
-		culture = georgian
-		religion =  orthodox 
-		size = 1773
-	 } 
-	artisans = {
-		culture = georgian
-		religion = secularism
-		size = 312
-	 } 
-	craftsmen = {
-		culture = georgian
-		religion =  orthodox 
-		size = 5599
-	 } 
-	craftsmen = {
-		culture = georgian
-		religion = secularism
-		size = 988
-	 } 
-	farmers = {
-		culture = georgian
-		religion =  orthodox 
-		size = 78995
-	 } 
-	farmers = {
-		culture = georgian
-		religion = secularism
-		size = 13940
-	 } 
+  officers = {
+    culture = georgian
+    religion =  orthodox
+    size = 118
+  }
+  officers = {
+    culture = georgian
+    religion = secularism
+    size = 20
+  }
+  soldiers = {
+    culture = georgian
+    religion =  orthodox
+    size = 2248
+  }
+  soldiers = {
+    culture = georgian
+    religion = secularism
+    size = 396
+  }
+  aristocrats = {
+    culture = georgian
+    religion =  orthodox
+    size = 3391
+  }
+  aristocrats = {
+    culture = georgian
+    religion = secularism
+    size = 598
+  }
+  bureaucrats = {
+    culture = georgian
+    religion =  orthodox
+    size = 387
+  }
+  bureaucrats = {
+    culture = georgian
+    religion = secularism
+    size = 68
+  }
+  capitalists = {
+    culture = georgian
+    religion =  orthodox
+    size = 581
+  }
+  capitalists = {
+    culture = georgian
+    religion = secularism
+    size = 102
+  }
+  clergymen = {
+    culture = georgian
+    religion =  orthodox
+    size = 1938
+  }
+  clergymen = {
+    culture = georgian
+    religion = secularism
+    size = 342
+  }
+  clerks = {
+    culture = georgian
+    religion =  orthodox
+    size = 1866
+  }
+  clerks = {
+    culture = georgian
+    religion = secularism
+    size = 329
+  }
+  artisans = {
+    culture = georgian
+    religion =  orthodox
+    size = 1773
+  }
+  artisans = {
+    culture = georgian
+    religion = secularism
+    size = 312
+  }
+  craftsmen = {
+    culture = georgian
+    religion =  orthodox
+    size = 5599
+  }
+  craftsmen = {
+    culture = georgian
+    religion = secularism
+    size = 988
+  }
+  farmers = {
+    culture = georgian
+    religion =  orthodox
+    size = 78995
+  }
+  farmers = {
+    culture = georgian
+    religion = secularism
+    size = 13940
+  }
 }

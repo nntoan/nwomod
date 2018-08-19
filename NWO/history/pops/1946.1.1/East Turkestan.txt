@@ -1,104 +1,104 @@
 #Ili - Bortala, Karamay, Shihezi (362000/90500 POPS)
 1595 = {
-	officers = {
-		culture = uighur
-		religion =  sunni 
-		size = 1712
-	 } 
-	soldiers = {
-		culture = uighur
-		religion =  sunni 
-		size = 32545
-	 } 
-	aristocrats = {
-		culture = uighur
-		religion =  sunni 
-		size = 3620
-	 } 
-	clergymen = {
-		culture = uighur
-		religion =  sunni 
-		size = 1810
-	 } 
-	farmers = {
-		culture = uighur
-		religion =  sunni 
-		size = 45925
-	 } 
-	farmers = {
-		culture = chinese
-		religion =  taoism 
-		size = 3597
-	 } 
-	farmers = {
-		culture = chinese
-		religion = secularism
-		size = 927
-	 } 
+  officers = {
+    culture = uighur
+    religion =  sunni
+    size = 1712
+  }
+  soldiers = {
+    culture = uighur
+    religion =  sunni
+    size = 32545
+  }
+  aristocrats = {
+    culture = uighur
+    religion =  sunni
+    size = 3620
+  }
+  clergymen = {
+    culture = uighur
+    religion =  sunni
+    size = 1810
+  }
+  farmers = {
+    culture = uighur
+    religion =  sunni
+    size = 45925
+  }
+  farmers = {
+    culture = chinese
+    religion =  taoism
+    size = 3597
+  }
+  farmers = {
+    culture = chinese
+    religion = secularism
+    size = 927
+  }
 }
 #Tulta - Altay, Tarbagatay, Ill (618000/154500 POPS)
 1596 = {
-	clergymen = {
-		culture = uighur
-		religion =  sunni 
-		size = 3090
-	 } 
-	farmers = {
-		culture = uighur
-		religion =  sunni 
-		size = 55620
-	 } 
-	farmers = {
-		culture = chinese
-		religion =  taoism 
-		size = 6141
-	 } 
-	farmers = {
-		culture = chinese
-		religion = secularism
-		size = 1583
-	 } 
-	farmers = {
-		culture = kazak
-		religion =  sunni 
-		size = 69525
-	 } 
-	farmers = {
-		culture = mongol
-		religion =  buddhist 
-		size = 2456
-	 } 
-	farmers = {
-		culture = mongol
-		religion = secularism
-		size = 633
-	 } 
-	farmers = {
-		culture = hui
-		religion =  sunni 
-		size = 15450
-	 } 
+  clergymen = {
+    culture = uighur
+    religion =  sunni
+    size = 3090
+  }
+  farmers = {
+    culture = uighur
+    religion =  sunni
+    size = 55620
+  }
+  farmers = {
+    culture = chinese
+    religion =  taoism
+    size = 6141
+  }
+  farmers = {
+    culture = chinese
+    religion = secularism
+    size = 1583
+  }
+  farmers = {
+    culture = kazak
+    religion =  sunni
+    size = 69525
+  }
+  farmers = {
+    culture = mongol
+    religion =  buddhist
+    size = 2456
+  }
+  farmers = {
+    culture = mongol
+    religion = secularism
+    size = 633
+  }
+  farmers = {
+    culture = hui
+    religion =  sunni
+    size = 15450
+  }
 }
 #Aksu - Aksu,Aral (1058000/264500 POPS)
 1597 = {
-	clergymen = {
-		culture = uighur
-		religion =  sunni 
-		size = 5290
-	 } 
-	farmers = {
-		culture = uighur
-		religion =  sunni 
-		size = 253920
-	 } 
-	farmers = {
-		culture = chinese
-		religion =  taoism 
-		size = 4205
-	 } 
-	farmers = {
-		culture = chinese
-		religion = secularism
-		size = 1084
-	 } 
+  clergymen = {
+    culture = uighur
+    religion =  sunni
+    size = 5290
+  }
+  farmers = {
+    culture = uighur
+    religion =  sunni
+    size = 253920
+  }
+  farmers = {
+    culture = chinese
+    religion =  taoism
+    size = 4205
+  }
+  farmers = {
+    culture = chinese
+    religion = secularism
+    size = 1084
+  }
 }

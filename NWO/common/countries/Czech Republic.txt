@@ -1,119 +1,119 @@
 graphical_culture = EuropeanGC
 color = { 161 139 40 }
 party = {
-		name = "party_conservative_0_CZE"
-		citizenship_policy = limited_citizenship
-		economic_policy = interventionism
-		ideology = conservative
-		religious_policy = secularized
-		trade_policy = free_trade
-		war_policy = pro_military
-		start_date = 1836.1.1
-		end_date = 2300.1.1
+  name = "party_conservative_0_CZE"
+  citizenship_policy = limited_citizenship
+  economic_policy = interventionism
+  ideology = conservative
+  religious_policy = secularized
+  trade_policy = free_trade
+  war_policy = pro_military
+  start_date = 1836.1.1
+  end_date = 2300.1.1
 }
 party = {
-		name = "party_liberal_0_CZE"
-		citizenship_policy = full_citizenship
-		economic_policy = laissez_faire
-		ideology = liberal
-		religious_policy = secularized
-		trade_policy = free_trade
-		war_policy = pacifism
-		start_date = 1836.1.1
-		end_date = 2300.1.1
+  name = "party_liberal_0_CZE"
+  citizenship_policy = full_citizenship
+  economic_policy = laissez_faire
+  ideology = liberal
+  religious_policy = secularized
+  trade_policy = free_trade
+  war_policy = pacifism
+  start_date = 1836.1.1
+  end_date = 2300.1.1
 }
 party = {
-		name = "party_socialist_0_CZE"
-		citizenship_policy = limited_citizenship
-		economic_policy = state_capitalism
-		ideology = socialist
-		religious_policy = pro_atheism
-		trade_policy = protectionism
-		war_policy = pacifism
-		start_date = 1836.1.1
-		end_date = 2300.1.1
+  name = "party_socialist_0_CZE"
+  citizenship_policy = limited_citizenship
+  economic_policy = state_capitalism
+  ideology = socialist
+  religious_policy = pro_atheism
+  trade_policy = protectionism
+  war_policy = pacifism
+  start_date = 1836.1.1
+  end_date = 2300.1.1
 }
 party = {
-		name = "party_progressive_0_CZE"
-		citizenship_policy = full_citizenship
-		economic_policy = interventionism
-		ideology = progressive
-		religious_policy = pro_atheism
-		trade_policy = protectionism
-		war_policy = pacifism
-		start_date = 1836.1.1
-		end_date = 2300.1.1
+  name = "party_progressive_0_CZE"
+  citizenship_policy = full_citizenship
+  economic_policy = interventionism
+  ideology = progressive
+  religious_policy = pro_atheism
+  trade_policy = protectionism
+  war_policy = pacifism
+  start_date = 1836.1.1
+  end_date = 2300.1.1
 }
 party = {
-		name = "party_populist_0_CZE"
-		citizenship_policy = residency
-		economic_policy = state_capitalism
-		ideology = populist
-		religious_policy = secularized
-		trade_policy = protectionism
-		war_policy = jingoism
-		start_date = 1836.1.1
-		end_date = 2300.1.1
+  name = "party_populist_0_CZE"
+  citizenship_policy = residency
+  economic_policy = state_capitalism
+  ideology = populist
+  religious_policy = secularized
+  trade_policy = protectionism
+  war_policy = jingoism
+  start_date = 1836.1.1
+  end_date = 2300.1.1
 }
 party = {
-		name = "party_traditionalist_0_CZE"
-		citizenship_policy = residency
-		economic_policy = state_capitalism
-		ideology = traditionalist
-		religious_policy = moralism
-		trade_policy = protectionism
-		war_policy = pro_military
-		start_date = 1836.1.1
-		end_date = 2300.1.1
+  name = "party_traditionalist_0_CZE"
+  citizenship_policy = residency
+  economic_policy = state_capitalism
+  ideology = traditionalist
+  religious_policy = moralism
+  trade_policy = protectionism
+  war_policy = pro_military
+  start_date = 1836.1.1
+  end_date = 2300.1.1
 }
 party = {
-		name = "party_communist_0_CZE"
-		citizenship_policy = full_citizenship
-		economic_policy = planned_economy
-		ideology = communist
-		religious_policy = pro_atheism
-		trade_policy = protectionism
-		war_policy = pro_military
-		start_date = 1836.1.1
-		end_date = 2300.1.1
+  name = "party_communist_0_CZE"
+  citizenship_policy = full_citizenship
+  economic_policy = planned_economy
+  ideology = communist
+  religious_policy = pro_atheism
+  trade_policy = protectionism
+  war_policy = pro_military
+  start_date = 1836.1.1
+  end_date = 2300.1.1
 }
 party = {
-		name = "party_nationalist"
-		citizenship_policy = full_citizenship
-		economic_policy = planned_economy
-		ideology = nationalist
-		religious_policy = secularized
-		trade_policy = protectionism
-		war_policy = pro_military
-		start_date = 1836.1.1
-		end_date = 2300.1.1
+  name = "party_nationalist"
+  citizenship_policy = full_citizenship
+  economic_policy = planned_economy
+  ideology = nationalist
+  religious_policy = secularized
+  trade_policy = protectionism
+  war_policy = pro_military
+  start_date = 1836.1.1
+  end_date = 2300.1.1
 }
 unit_names = {
-	carrier = {
-		"Jan Hus" "Karel IV" "Prokop Veliký" "Jan Žižka" "Josef Ressel" 
-	}
-	transportship = {
-	}
-	modern_frigate = {
-		"Pražský hrad" Vyšehrad Zbraslav Kolodeje Chvaly 
-	}
-	cruiser = {
-		Jizera Metuje Morava Svratka Olza
-	}
-	modern_cruiser = {
-		"Jan Hus" "Karel IV" "Prokop Veliký" "Jan Žižka" "Josef Ressel" 
-	}
-	frigate = {
-		"Jan Dismas Zelenka" "Šimon Brixi" "František Tuma" "Antonín Kraft" "František Xaver Dušek" 
-	}
-	modern_destroyer = {
-		Praha Brno Ostrava Plzen Liberec
-	}
-	destroyer = {
-		Milešovka Lovos Hazmburk Koštálov "Ceské Stredohorí" 
-	}
-	submarine = {
-		"Petr Brandl" "Václav Hollar" "Jan Jahn" "Jan Kupecký" "Karel Škréta" 
-	}
+  carrier = {
+    "Jan Hus" "Karel IV" "Prokop Velikï¿½" "Jan ï¿½iï¿½ka" "Josef Ressel"
+  }
+  transportship = {
+  }
+  modern_frigate = {
+    "Praï¿½skï¿½ hrad" Vyï¿½ehrad Zbraslav Kolodeje Chvaly
+  }
+  cruiser = {
+    Jizera Metuje Morava Svratka Olza
+  }
+  modern_cruiser = {
+    "Jan Hus" "Karel IV" "Prokop Velikï¿½" "Jan ï¿½iï¿½ka" "Josef Ressel"
+  }
+  frigate = {
+    "Jan Dismas Zelenka" "ï¿½imon Brixi" "Frantiï¿½ek Tuma" "Antonï¿½n Kraft" "Frantiï¿½ek Xaver Duï¿½ek"
+  }
+  modern_destroyer = {
+    Praha Brno Ostrava Plzen Liberec
+  }
+  destroyer = {
+    Mileï¿½ovka Lovos Hazmburk Koï¿½tï¿½lov "Ceskï¿½ Stredohorï¿½"
+  }
+  submarine = {
+    "Petr Brandl" "Vï¿½clav Hollar" "Jan Jahn" "Jan Kupeckï¿½" "Karel ï¿½krï¿½ta"
+  }
 
 }

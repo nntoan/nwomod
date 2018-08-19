@@ -6,8 +6,8 @@ life_rating = 36
 terrain = jungle
 colonial = 2
 1992.1.1 = {
-owner = MIC
-controller = MIC
-add_core = MIC
-colonial = 0
+  owner = MIC
+  controller = MIC
+  add_core = MIC
+  colonial = 0
 }

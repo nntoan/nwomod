@@ -1,124 +1,124 @@
 #Freetown - Freetown (2084000/521000 POPS)
 1884 = {
-	officers = {
-		culture = anglo_african
-		religion =  protestant 
-		size = 330
-	 } 
-	officers = {
-		culture = anglo_african
-		religion = secularism
-		size = 3
-	 } 
-	soldiers = {
-		culture = anglo_african
-		religion =  protestant 
-		size = 6297
-	 } 
-	soldiers = {
-		culture = anglo_african
-		religion = secularism
-		size = 63
-	 } 
-	aristocrats = {
-		culture = anglo_african
-		religion =  protestant 
-		size = 14003
-	 } 
-	aristocrats = {
-		culture = anglo_african
-		religion = secularism
-		size = 141
-	 } 
-	aristocrats = {
-		culture = temne
-		religion =  sunni 
-		size = 6695
-	 } 
-	capitalists = {
-		culture = temne
-		religion =  sunni 
-		size = 2605
-	 } 
-	clergymen = {
-		culture = temne
-		religion =  sunni 
-		size = 10420
-	 } 
-	clerks = {
-		culture = temne
-		religion =  sunni 
-		size = 7532
-	 } 
-	artisans = {
-		culture = temne
-		religion =  sunni 
-		size = 7155
-	 } 
-	craftsmen = {
-		culture = temne
-		religion =  sunni 
-		size = 22596
-	 } 
-	farmers = {
-		culture = temne
-		religion =  sunni 
-		size = 312386
-	 } 
-	farmers = {
-		culture = african_minor
-		religion =  catholic 
-		size = 128947
-	 } 
-	farmers = {
-		culture = african_minor
-		religion = secularism
-		size = 1302
-	 } 
+  officers = {
+    culture = anglo_african
+    religion =  protestant
+    size = 330
+  }
+  officers = {
+    culture = anglo_african
+    religion = secularism
+    size = 3
+  }
+  soldiers = {
+    culture = anglo_african
+    religion =  protestant
+    size = 6297
+  }
+  soldiers = {
+    culture = anglo_african
+    religion = secularism
+    size = 63
+  }
+  aristocrats = {
+    culture = anglo_african
+    religion =  protestant
+    size = 14003
+  }
+  aristocrats = {
+    culture = anglo_african
+    religion = secularism
+    size = 141
+  }
+  aristocrats = {
+    culture = temne
+    religion =  sunni
+    size = 6695
+  }
+  capitalists = {
+    culture = temne
+    religion =  sunni
+    size = 2605
+  }
+  clergymen = {
+    culture = temne
+    religion =  sunni
+    size = 10420
+  }
+  clerks = {
+    culture = temne
+    religion =  sunni
+    size = 7532
+  }
+  artisans = {
+    culture = temne
+    religion =  sunni
+    size = 7155
+  }
+  craftsmen = {
+    culture = temne
+    religion =  sunni
+    size = 22596
+  }
+  farmers = {
+    culture = temne
+    religion =  sunni
+    size = 312386
+  }
+  farmers = {
+    culture = african_minor
+    religion =  catholic
+    size = 128947
+  }
+  farmers = {
+    culture = african_minor
+    religion = secularism
+    size = 1302
+  }
 }
 #Falaba - Falaba (1267000/316750 POPS)
 1885 = {
-	clergymen = {
-		culture = african_minor
-		religion =  catholic 
-		size = 6271
-	 } 
-	clergymen = {
-		culture = african_minor
-		religion = secularism
-		size = 63
-	 } 
-	farmers = {
-		culture = african_minor
-		religion =  catholic 
-		size = 125433
-	 } 
-	farmers = {
-		culture = african_minor
-		religion = secularism
-		size = 1267
-	 } 
-	farmers = {
-		culture = mende
-		religion =  sunni 
-		size = 183715
-	 } 
+  clergymen = {
+    culture = african_minor
+    religion =  catholic
+    size = 6271
+  }
+  clergymen = {
+    culture = african_minor
+    religion = secularism
+    size = 63
+  }
+  farmers = {
+    culture = african_minor
+    religion =  catholic
+    size = 125433
+  }
+  farmers = {
+    culture = african_minor
+    religion = secularism
+    size = 1267
+  }
+  farmers = {
+    culture = mende
+    religion =  sunni
+    size = 183715
+  }
 }
 #Bo - Bo (876000/219000 POPS)
 1886 = {
-	clergymen = {
-		culture = mende
-		religion =  sunni 
-		size = 4380
-	 } 
-	farmers = {
-		culture = mende
-		religion =  sunni 
-		size = 140160
-	 } 
-	farmers = {
-		culture = black_muslim
-		religion =  sunni 
-		size = 74460
-	 } 
+  clergymen = {
+    culture = mende
+    religion =  sunni
+    size = 4380
+  }
+  farmers = {
+    culture = mende
+    religion =  sunni
+    size = 140160
+  }
+  farmers = {
+    culture = black_muslim
+    religion =  sunni
+    size = 74460
+  }
 }

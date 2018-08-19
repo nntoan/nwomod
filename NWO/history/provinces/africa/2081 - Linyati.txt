@@ -7,9 +7,9 @@ life_rating = 38
 terrain = dry_grassland
 colonial = 2
 1992.1.1 = {
-owner = NAM
-controller = NAM
-add_core = NAM
-add_core = ECA
-colonial = 0
+  owner = NAM
+  controller = NAM
+  add_core = NAM
+  add_core = ECA
+  colonial = 0
 }

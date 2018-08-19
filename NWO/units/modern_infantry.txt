@@ -1,40 +1,40 @@
 #======= Modern =========
 modern_infantry = {
-	icon = 11
-	
-	type = land
-	sprite = Infantry
-	active = no
-	unit_type = infantry
-	floating_flag = no
-	primary_culture = yes
-	#Core Abilities
-	priority = 5
-	max_strength = 3
-	default_organisation = 20
-	maximum_speed = 4.00
-	weighted_value = 1.0
+  icon = 11
 
-	build_time = 90
-	# 0.5B
-	build_cost = {
-		clothes = 10
-		trucks_vans = 20
-		specialized_machinery = 20
-	}
-	
-	supply_consumption = 1.0
-	supply_cost = {
-		trucks_vans = 0.08
-		specialized_machinery = 0.08
-	}
+  type = land
+  sprite = Infantry
+  active = no
+  unit_type = infantry
+  floating_flag = no
+  primary_culture = yes
+  #Core Abilities
+  priority = 5
+  max_strength = 3
+  default_organisation = 20
+  maximum_speed = 4.00
+  weighted_value = 1.0
 
-	#Land Abilties
-	reconnaissance = 1
-	attack = 4
-	#siege = 1
-	defence = 4
-	discipline = 1
-	support = 0.0
-	maneuver = 1
+  build_time = 90
+  # 0.5B
+  build_cost = {
+    clothes = 10
+    trucks_vans = 20
+    specialized_machinery = 20
+  }
+
+  supply_consumption = 1.0
+  supply_cost = {
+    trucks_vans = 0.08
+    specialized_machinery = 0.08
+  }
+
+  #Land Abilties
+  reconnaissance = 1
+  attack = 4
+  #siege = 1
+  defence = 4
+  discipline = 1
+  support = 0.0
+  maneuver = 1
 }

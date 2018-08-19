@@ -6,18 +6,18 @@ life_rating = 21
 terrain = forested_farmland
 colonial = 0
 state_building = {
-	level = 1
-	building = fertilizers_factory
-	upgrade = yes
+  level = 1
+  building = fertilizers_factory
+  upgrade = yes
 }
 1992.1.1 = {
-owner = BYE
-controller = BYE
-add_core = BYE
-colonial = 0
-state_building = {
-	level = 1
-	building = fabric_factory
-	upgrade = yes
-}
+  owner = BYE
+  controller = BYE
+  add_core = BYE
+  colonial = 0
+  state_building = {
+    level = 1
+    building = fabric_factory
+    upgrade = yes
+  }
 }

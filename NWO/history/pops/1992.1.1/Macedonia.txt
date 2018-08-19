@@ -1,166 +1,166 @@
 #Skopje - Skopje (1445000/361250 POPS)
 806 = {
-	officers = {
-		culture = bulgarian
-		religion =  orthodox 
-		size = 200
-	 } 
-	officers = {
-		culture = bulgarian
-		religion = secularism
-		size = 59
-	 } 
-	soldiers = {
-		culture = bulgarian
-		religion =  orthodox 
-		size = 3813
-	 } 
-	soldiers = {
-		culture = bulgarian
-		religion = secularism
-		size = 1139
-	 } 
-	aristocrats = {
-		culture = bulgarian
-		religion =  orthodox 
-		size = 11126
-	 } 
-	aristocrats = {
-		culture = bulgarian
-		religion = secularism
-		size = 3323
-	 } 
-	bureaucrats = {
-		culture = bulgarian
-		religion =  orthodox 
-		size = 555
-	 } 
-	bureaucrats = {
-		culture = bulgarian
-		religion = secularism
-		size = 166
-	 } 
-	capitalists = {
-		culture = bulgarian
-		religion =  orthodox 
-		size = 1390
-	 } 
-	capitalists = {
-		culture = bulgarian
-		religion = secularism
-		size = 415
-	 } 
-	clergymen = {
-		culture = bulgarian
-		religion =  orthodox 
-		size = 5563
-	 } 
-	clergymen = {
-		culture = bulgarian
-		religion = secularism
-		size = 1661
-	 } 
-	clerks = {
-		culture = bulgarian
-		religion =  orthodox 
-		size = 6066
-	 } 
-	clerks = {
-		culture = bulgarian
-		religion = secularism
-		size = 1812
-	 } 
-	artisans = {
-		culture = bulgarian
-		religion =  orthodox 
-		size = 5763
-	 } 
-	artisans = {
-		culture = bulgarian
-		religion = secularism
-		size = 1721
-	 } 
-	craftsmen = {
-		culture = bulgarian
-		religion =  orthodox 
-		size = 18200
-	 } 
-	craftsmen = {
-		culture = bulgarian
-		religion = secularism
-		size = 5436
-	 } 
-	farmers = {
-		culture = bulgarian
-		religion =  orthodox 
-		size = 125342
-	 } 
-	farmers = {
-		culture = bulgarian
-		religion = secularism
-		size = 37440
-	 } 
-	farmers = {
-		culture = serb
-		religion =  orthodox 
-		size = 5563
-	 } 
-	farmers = {
-		culture = serb
-		religion = secularism
-		size = 1661
-	 } 
-	farmers = {
-		culture = roma
-		religion =  orthodox 
-		size = 50069
-	 } 
-	farmers = {
-		culture = roma
-		religion = secularism
-		size = 14955
-	 } 
-	farmers = {
-		culture = albanian
-		religion =  sunni 
-		size = 43350
-	 } 
-	farmers = {
-		culture = turkish
-		religion =  sunni 
-		size = 14450
-	 } 
+  officers = {
+    culture = bulgarian
+    religion =  orthodox
+    size = 200
+  }
+  officers = {
+    culture = bulgarian
+    religion = secularism
+    size = 59
+  }
+  soldiers = {
+    culture = bulgarian
+    religion =  orthodox
+    size = 3813
+  }
+  soldiers = {
+    culture = bulgarian
+    religion = secularism
+    size = 1139
+  }
+  aristocrats = {
+    culture = bulgarian
+    religion =  orthodox
+    size = 11126
+  }
+  aristocrats = {
+    culture = bulgarian
+    religion = secularism
+    size = 3323
+  }
+  bureaucrats = {
+    culture = bulgarian
+    religion =  orthodox
+    size = 555
+  }
+  bureaucrats = {
+    culture = bulgarian
+    religion = secularism
+    size = 166
+  }
+  capitalists = {
+    culture = bulgarian
+    religion =  orthodox
+    size = 1390
+  }
+  capitalists = {
+    culture = bulgarian
+    religion = secularism
+    size = 415
+  }
+  clergymen = {
+    culture = bulgarian
+    religion =  orthodox
+    size = 5563
+  }
+  clergymen = {
+    culture = bulgarian
+    religion = secularism
+    size = 1661
+  }
+  clerks = {
+    culture = bulgarian
+    religion =  orthodox
+    size = 6066
+  }
+  clerks = {
+    culture = bulgarian
+    religion = secularism
+    size = 1812
+  }
+  artisans = {
+    culture = bulgarian
+    religion =  orthodox
+    size = 5763
+  }
+  artisans = {
+    culture = bulgarian
+    religion = secularism
+    size = 1721
+  }
+  craftsmen = {
+    culture = bulgarian
+    religion =  orthodox
+    size = 18200
+  }
+  craftsmen = {
+    culture = bulgarian
+    religion = secularism
+    size = 5436
+  }
+  farmers = {
+    culture = bulgarian
+    religion =  orthodox
+    size = 125342
+  }
+  farmers = {
+    culture = bulgarian
+    religion = secularism
+    size = 37440
+  }
+  farmers = {
+    culture = serb
+    religion =  orthodox
+    size = 5563
+  }
+  farmers = {
+    culture = serb
+    religion = secularism
+    size = 1661
+  }
+  farmers = {
+    culture = roma
+    religion =  orthodox
+    size = 50069
+  }
+  farmers = {
+    culture = roma
+    religion = secularism
+    size = 14955
+  }
+  farmers = {
+    culture = albanian
+    religion =  sunni
+    size = 43350
+  }
+  farmers = {
+    culture = turkish
+    religion =  sunni
+    size = 14450
+  }
 }
 #Bitola - Bitola (415000/103750 POPS)
 807 = {
-	clergymen = {
-		culture = bulgarian
-		religion =  orthodox 
-		size = 1597
-	 } 
-	clergymen = {
-		culture = bulgarian
-		religion = secularism
-		size = 477
-	 } 
-	farmers = {
-		culture = bulgarian
-		religion =  orthodox 
-		size = 3195
-	 } 
-	farmers = {
-		culture = bulgarian
-		religion = secularism
-		size = 954
-	 } 
-	farmers = {
-		culture = turkish
-		religion =  sunni 
-		size = 4150
-	 } 
-	farmers = {
-		culture = albanian
-		religion =  sunni 
-		size = 93375
-	 } 
+  clergymen = {
+    culture = bulgarian
+    religion =  orthodox
+    size = 1597
+  }
+  clergymen = {
+    culture = bulgarian
+    religion = secularism
+    size = 477
+  }
+  farmers = {
+    culture = bulgarian
+    religion =  orthodox
+    size = 3195
+  }
+  farmers = {
+    culture = bulgarian
+    religion = secularism
+    size = 954
+  }
+  farmers = {
+    culture = turkish
+    religion =  sunni
+    size = 4150
+  }
+  farmers = {
+    culture = albanian
+    religion =  sunni
+    size = 93375
+  }
 }

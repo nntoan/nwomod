@@ -1,116 +1,116 @@
 #AI Countries involved in an Alliance will call in their GP allies
 #if the GP gets involved in the war it will in its turn coll it's allies.
 country_event = {
-	id = 96101
-	title = EVTNAME96001
-	desc = EVTDESC96001
+  id = 96101
+  title = EVTNAME96001
+  desc = EVTDESC96001
 
-	trigger = {
-		ai = yes
-		war = yes
-		NOT = { has_country_flag = calling_all_allies }
-		OR = {
-			AND = {
-				is_greater_power = yes
-				OR = { 
-					has_country_modifier = sco_pact
-					has_country_modifier = csto_alliance
-					has_country_modifier = warsaw_pact
-					has_country_modifier = rio_pact
-					has_country_modifier = alliance_nato
-					has_country_modifier = anzus_alliance
-				}
-			}
-			AND = { 
-				has_country_modifier = sco_pact
-				any_greater_power = { 
-					NOT = { war_with = THIS }
-					has_country_modifier = sco_pact
-				}
-			}
-			AND = { 
-				has_country_modifier = csto_alliance
-				any_greater_power = { 
-					NOT = { war_with = THIS }
-					has_country_modifier = csto_alliance
-				}
-			}
-			AND = { 
-				has_country_modifier = warsaw_pact
-				any_greater_power = { 
-					NOT = { war_with = THIS }
-					has_country_modifier = warsaw_pact
-				}
-			}
-			AND = { 
-				has_country_modifier = rio_pact
-				any_greater_power = { 
-					NOT = { war_with = THIS }
-					has_country_modifier = rio_pact
-				}
-			}
-			AND = { 
-				has_country_modifier = anzus_alliance
-				any_greater_power = { 
-					NOT = { war_with = THIS }
-					has_country_modifier = anzus_alliance
-				}
-			}
-			AND = { 
-				has_country_modifier = alliance_nato
-				any_greater_power = { 
-					NOT = { war_with = THIS }
-					has_country_modifier = alliance_nato
-				}
-			}			
-		}
-	}
+  trigger = {
+    ai = yes
+    war = yes
+    NOT = { has_country_flag = calling_all_allies }
+    OR = {
+      AND = {
+        is_greater_power = yes
+        OR = {
+          has_country_modifier = sco_pact
+          has_country_modifier = csto_alliance
+          has_country_modifier = warsaw_pact
+          has_country_modifier = rio_pact
+          has_country_modifier = alliance_nato
+          has_country_modifier = anzus_alliance
+        }
+      }
+      AND = {
+        has_country_modifier = sco_pact
+        any_greater_power = {
+          NOT = { war_with = THIS }
+          has_country_modifier = sco_pact
+        }
+      }
+      AND = {
+        has_country_modifier = csto_alliance
+        any_greater_power = {
+          NOT = { war_with = THIS }
+          has_country_modifier = csto_alliance
+        }
+      }
+      AND = {
+        has_country_modifier = warsaw_pact
+        any_greater_power = {
+          NOT = { war_with = THIS }
+          has_country_modifier = warsaw_pact
+        }
+      }
+      AND = {
+        has_country_modifier = rio_pact
+        any_greater_power = {
+          NOT = { war_with = THIS }
+          has_country_modifier = rio_pact
+        }
+      }
+      AND = {
+        has_country_modifier = anzus_alliance
+        any_greater_power = {
+          NOT = { war_with = THIS }
+          has_country_modifier = anzus_alliance
+        }
+      }
+      AND = {
+        has_country_modifier = alliance_nato
+        any_greater_power = {
+          NOT = { war_with = THIS }
+          has_country_modifier = alliance_nato
+        }
+      }
+    }
+  }
 
-	mean_time_to_happen = {
-		days = 7
-	}
+  mean_time_to_happen = {
+    days = 7
+  }
 
-	option = {
-		name = EVTOPTA96001
-		set_country_flag = calling_all_allies # remove flag on peace 96002
-		any_country = {
-			limit = { 
-				OR = {
-					AND = { THIS = { has_country_modifier = sco_pact } has_country_modifier = sco_pact }
-					AND = { THIS = { has_country_modifier = csto_alliance } has_country_modifier = csto_alliance }
-					AND = { THIS = { has_country_modifier = warsaw_pact } has_country_modifier = warsaw_pact }
-					AND = { THIS = { has_country_modifier = rio_pact } has_country_modifier = rio_pact }
-					AND = { THIS = { has_country_modifier = anzus_alliance } has_country_modifier = anzus_alliance }
-					AND = { THIS = { has_country_modifier = alliance_nato } has_country_modifier = alliance_nato }
-				}
-			}
-			create_alliance = THIS
-		}
-		random_country = {
-			limit = {
-				is_greater_power = yes
-				OR = {
-					AND = { THIS = { has_country_modifier = sco_pact } has_country_modifier = sco_pact }
-					AND = { THIS = { has_country_modifier = csto_alliance } has_country_modifier = csto_alliance }
-					AND = { THIS = { has_country_modifier = warsaw_pact } has_country_modifier = warsaw_pact }
-					AND = { THIS = { has_country_modifier = rio_pact } has_country_modifier = rio_pact }
-					AND = { THIS = { has_country_modifier = anzus_alliance } has_country_modifier = anzus_alliance }
-					AND = { THIS = { has_country_modifier = alliance_nato } has_country_modifier = alliance_nato }
-				}
-				war = no
-			}
-			THIS = {
-				war = {
-					# TODO target required by the validator but defaults to REB
-					target = REB
-					attacker_goal = {
-						casus_belli = call_allies_cb
-					}
-					call_ally = yes
-				}
-			}
-		}
-	}
+  option = {
+    name = EVTOPTA96001
+    set_country_flag = calling_all_allies # remove flag on peace 96002
+    any_country = {
+      limit = {
+        OR = {
+          AND = { THIS = { has_country_modifier = sco_pact } has_country_modifier = sco_pact }
+          AND = { THIS = { has_country_modifier = csto_alliance } has_country_modifier = csto_alliance }
+          AND = { THIS = { has_country_modifier = warsaw_pact } has_country_modifier = warsaw_pact }
+          AND = { THIS = { has_country_modifier = rio_pact } has_country_modifier = rio_pact }
+          AND = { THIS = { has_country_modifier = anzus_alliance } has_country_modifier = anzus_alliance }
+          AND = { THIS = { has_country_modifier = alliance_nato } has_country_modifier = alliance_nato }
+        }
+      }
+      create_alliance = THIS
+    }
+    random_country = {
+      limit = {
+        is_greater_power = yes
+        OR = {
+          AND = { THIS = { has_country_modifier = sco_pact } has_country_modifier = sco_pact }
+          AND = { THIS = { has_country_modifier = csto_alliance } has_country_modifier = csto_alliance }
+          AND = { THIS = { has_country_modifier = warsaw_pact } has_country_modifier = warsaw_pact }
+          AND = { THIS = { has_country_modifier = rio_pact } has_country_modifier = rio_pact }
+          AND = { THIS = { has_country_modifier = anzus_alliance } has_country_modifier = anzus_alliance }
+          AND = { THIS = { has_country_modifier = alliance_nato } has_country_modifier = alliance_nato }
+        }
+        war = no
+      }
+      THIS = {
+        war = {
+          # TODO target required by the validator but defaults to REB
+          target = REB
+          attacker_goal = {
+            casus_belli = call_allies_cb
+          }
+          call_ally = yes
+        }
+      }
+    }
+  }
 }
 country_event = {
   id = 8215000
@@ -120,11 +120,11 @@ country_event = {
 
   trigger = {
     OR = { tag = GBR tag = USA tag = FRA }
-	NOT = { has_country_flag = western_allies }
-	NOT = { OR = {  alliance_with = USA alliance_with = GBR } }
+    NOT = { has_country_flag = western_allies }
+    NOT = { OR = {  alliance_with = USA alliance_with = GBR } }
     year = 1946 NOT = { year = 1960 }
-	NOT = { has_global_flag = alliance_nato }
-    
+    NOT = { has_global_flag = alliance_nato }
+
     war = no
   }
 
@@ -133,25 +133,25 @@ country_event = {
   option = {
     name = EVT_8215000_A
     random_country = {
-        limit = { NOT = { tag = THIS } tag = USA ai = yes }
-		create_alliance = THIS
+      limit = { NOT = { tag = THIS } tag = USA ai = yes }
+      create_alliance = THIS
     }
     random_country = {
-        limit = { NOT = { tag = THIS } tag = FRA ai = yes }
-		create_alliance = THIS
+      limit = { NOT = { tag = THIS } tag = FRA ai = yes }
+      create_alliance = THIS
     }
     random_country = {
-        limit = { NOT = { tag = THIS } tag = GBR ai = yes }
-		create_alliance = THIS
+      limit = { NOT = { tag = THIS } tag = GBR ai = yes }
+      create_alliance = THIS
     }
-	set_country_flag = western_allies 
-	ai_chance = { factor = 100 }
+    set_country_flag = western_allies
+    ai_chance = { factor = 100 }
   }
-  
+
   option = {
     name = EVT_8215000_B
-	set_country_flag = western_allies 
-	ai_chance = { factor = 0 }
+    set_country_flag = western_allies
+    ai_chance = { factor = 0 }
   }
 }
 country_event = {
@@ -162,7 +162,7 @@ country_event = {
   fire_only_once = yes
 
   trigger = {
-	tag = SUN
+    tag = SUN
     year = 1946 NOT = { year = 1955 }
   }
 
@@ -170,7 +170,7 @@ country_event = {
 
   option = {
     name = EVT_8215000_A
-	any_country = { limit = { vassal_of = THIS } military_access = THIS } 
+    any_country = { limit = { vassal_of = THIS } military_access = THIS }
   }
 }
 country_event = {
@@ -182,16 +182,16 @@ country_event = {
 
   trigger = {
     tag = USA
-	rank = 1
+    rank = 1
     NOT = { year = 1960 }
-    
+
   }
 
   mean_time_to_happen = { months = 2  }
 
   option = {
     name = EVT_8215002_A
-	prestige = 100
+    prestige = 100
   }
 }
 country_event = {
@@ -205,15 +205,15 @@ country_event = {
     tag = USA
     year = 1944 NOT = { year = 1990 }
     GER = { war_with = SUN }
-	war_with = GER
+    war_with = GER
   }
 
   mean_time_to_happen = { months = 12 }
 
   option = {
     name = EVT_8215003_A
-	relation = { who = SUN value = 100 }
-	SUN = { country_event = 8215004 }
+    relation = { who = SUN value = 100 }
+    SUN = { country_event = 8215004 }
   }
 }
 country_event = {
@@ -225,7 +225,7 @@ country_event = {
 
   option = {
     name = EVT_8215004_A
-	relation = { who = USA value = 100 }
+    relation = { who = USA value = 100 }
   }
 }
 country_event = { # Maintaining security in Europe
@@ -238,29 +238,29 @@ country_event = { # Maintaining security in Europe
   trigger = {
     tag = USA
     year = 1946 NOT = { year = 1991 }
-	war = no
-    
+    war = no
+
   }
 
   mean_time_to_happen = { months = 1  }
 
   option = {
     name = EVT_8215010_A
-	any_country = { 
-		limit = { 
-			NOT = { government = proletarian_dictatorship } 
-			NOT = { ruling_party_ideology = communist } 
-			capital_scope = { OR = { continent = north_america continent = south_america } }
-		}
-		country_event = 8215012
-	}
-	ai_chance = { factor = 100 }
+    any_country = {
+      limit = {
+        NOT = { government = proletarian_dictatorship }
+        NOT = { ruling_party_ideology = communist }
+        capital_scope = { OR = { continent = north_america continent = south_america } }
+      }
+      country_event = 8215012
+    }
+    ai_chance = { factor = 100 }
   }
 
   option = {
     name = EVT_8215010_B
-	prestige = -50
-	ai_chance = { factor = 0 }
+    prestige = -50
+    ai_chance = { factor = 0 }
   }
 }
 country_event = { # Maintaining security in Europe
@@ -272,26 +272,26 @@ country_event = { # Maintaining security in Europe
 
   trigger = {
     tag = SUN
-     year = 1946 NOT = { year = 1991 }
-	war = no
-    
+    year = 1946 NOT = { year = 1991 }
+    war = no
+
   }
 
   mean_time_to_happen = { months = 12 }
 
   option = {
     name = EVT_8215011_A
-	any_country = { 
-		limit = { war = no government = proletarian_dictatorship NOT = { tag = SUN } exists = yes }
-		country_event = 8215013
-	}
-	ai_chance = { factor = 100 }
+    any_country = {
+      limit = { war = no government = proletarian_dictatorship NOT = { tag = SUN } exists = yes }
+      country_event = 8215013
+    }
+    ai_chance = { factor = 100 }
   }
 
   option = {
     name = EVT_8215011_B
-	prestige = -50
-	ai_chance = { factor = 0 }
+    prestige = -50
+    ai_chance = { factor = 0 }
   }
 }
 country_event = {
@@ -301,33 +301,33 @@ country_event = {
   picture = "nwo2_western_allies"
 
   trigger = {
-	capital_scope = { continent = europe  }
-	NOT = { government = proletarian_dictatorship }
-	NOT = { ruling_party_ideology = communist } 
-	is_vassal = no
+    capital_scope = { continent = europe  }
+    NOT = { government = proletarian_dictatorship }
+    NOT = { ruling_party_ideology = communist }
+    is_vassal = no
     year = 1946 NOT = { year = 1949 }
-	NOT = { has_country_flag = western_allies_in_war }
-	war = no
+    NOT = { has_country_flag = western_allies_in_war }
+    war = no
   }
 
   mean_time_to_happen = { months = 12 }
 
   option = {
     name = EVT_8215012_A
-	#create_alliance = USA 
-	relation = { who = USA value = 80 } 
-	relation = { who = GBR value = 80 } 
-	relation = { who = FRA value = 80 } 
-	set_country_flag = western_allies_in_war 
-	ai_chance = { factor = 100 }
+    #create_alliance = USA
+    relation = { who = USA value = 80 }
+    relation = { who = GBR value = 80 }
+    relation = { who = FRA value = 80 }
+    set_country_flag = western_allies_in_war
+    ai_chance = { factor = 100 }
   }
 
   option = {
     name = EVT_8215012_B
-	relation = { who = SUN value = 50 } 
-	relation = { who = USA value = -150 } 
-	set_country_flag = western_allies_in_war 
-	ai_chance = { factor = 100 }	
+    relation = { who = SUN value = 50 }
+    relation = { who = USA value = -150 }
+    set_country_flag = western_allies_in_war
+    ai_chance = { factor = 100 }
   }
 }
 country_event = {
@@ -336,19 +336,19 @@ country_event = {
   desc = EVT_8215013_DESC
   picture = "nwo2_eastern_allies"
   is_triggered_only = yes
- 
+
   option = {
     name = EVT_8215013_A
-	relation = { who = SUN value = 150 } 
-	#create_alliance = SUN 
-	ai_chance = { factor = 100 }
+    relation = { who = SUN value = 150 }
+    #create_alliance = SUN
+    ai_chance = { factor = 100 }
   }
 
   option = {
     name = EVT_8215013_B
-	relation = { who = USA value = 50 } 
-	relation = { who = SUN value = -150 } 
-	ai_chance = { factor = 0 }
+    relation = { who = USA value = 50 }
+    relation = { who = SUN value = -150 }
+    ai_chance = { factor = 0 }
   }
 }
 country_event = {
@@ -361,27 +361,27 @@ country_event = {
   trigger = {
     tag = USA
     year = 1948 NOT = { year = 1960 }
-	war = no
+    war = no
   }
 
   mean_time_to_happen = { months = 3  }
 
   option = {
     name = EVT_8215020_A
-	ai_chance = { factor = 100 }
-	set_global_flag = treaty_of_brussels
-	money = -3000 
+    ai_chance = { factor = 100 }
+    set_global_flag = treaty_of_brussels
+    money = -3000
   }
 
   option = {
     name = EVT_8215020_B
-	ai_chance = { factor = 0 }
+    ai_chance = { factor = 0 }
   }
 
   option = {
     name = EVT_8215020_C
-	ai_chance = { factor = 0 }
-	set_global_flag = isolationist_usa 
+    ai_chance = { factor = 0 }
+    set_global_flag = isolationist_usa
   }
 }
 country_event = {
@@ -393,21 +393,21 @@ country_event = {
   trigger = {
     OR = { tag = BEL tag = LUX tag = FRA tag = NET tag = GBR }
     year = 1948 NOT = { year = 1960 }
-	has_global_flag = teaty_of_brussels
+    has_global_flag = teaty_of_brussels
   }
 
   mean_time_to_happen = { months = 1  }
 
   option = {
     name = EVT_8215021_A
-	set_country_flag = invitation_to_nato
-	ai_chance = { factor = 100 }
+    set_country_flag = invitation_to_nato
+    ai_chance = { factor = 100 }
   }
 
   option = {
     name = EVT_8215021_B
-	capital_scope = { add_province_modifier = { name = neutrality duration = 3500 } }
-	ai_chance = { factor = 0 }
+    capital_scope = { add_province_modifier = { name = neutrality duration = 3500 } }
+    ai_chance = { factor = 0 }
   }
 }
 country_event = {
@@ -419,25 +419,25 @@ country_event = {
 
   trigger = {
     year = 1949
-	capital_scope = { continent = europe  }
-	OR = { government = democracy government = hms_government }
-	NOT =  { capital_scope = { has_province_modifier = neutrality } }
+    capital_scope = { continent = europe  }
+    OR = { government = democracy government = hms_government }
+    NOT =  { capital_scope = { has_province_modifier = neutrality } }
     relation = { who=USA value = -100 }
-	NOT = { has_country_flag = invitation_to_nato }
+    NOT = { has_country_flag = invitation_to_nato }
   }
 
   mean_time_to_happen = { months = 3  }
 
   option = {
     name = EVT_8215022_A
-	ai_chance = { factor = 100 }
-	set_country_flag = invitation_to_nato
+    ai_chance = { factor = 100 }
+    set_country_flag = invitation_to_nato
   }
 
   option = {
     name = EVT_8215022_B
-	capital_scope = { add_province_modifier = { name = neutrality duration = 3500 } }
-	ai_chance = { factor = 0 }
+    capital_scope = { add_province_modifier = { name = neutrality duration = 3500 } }
+    ai_chance = { factor = 0 }
   }
 }
 country_event = {
@@ -449,26 +449,26 @@ country_event = {
 
   trigger = {
     tag = USA
-	exists = GER
-	GER = { NOT = { government = provisional_government } }
+    exists = GER
+    GER = { NOT = { government = provisional_government } }
     NOT = { year = 1960 }
     NOT = { has_global_flag = isolationist_usa }
     NOT = { THIS = { alliance_with = USA } }
     NOT = { has_global_flag = neutral_germany }
-	NOT =  { capital_scope = { has_province_modifier = neutrality } }
+    NOT =  { capital_scope = { has_province_modifier = neutrality } }
   }
 
   mean_time_to_happen = { months = 3  }
 
   option = {
     name = EVT_8215023_A
-	GER = { country_event = 8215024 }
-	ai_chance = { factor = 100 }
+    GER = { country_event = 8215024 }
+    ai_chance = { factor = 100 }
   }
 
   option = {
     name = EVT_8215023_B
-	ai_chance = { factor = 0 }
+    ai_chance = { factor = 0 }
   }
 }
 country_event = {
@@ -480,14 +480,14 @@ country_event = {
 
   option = {
     name = EVT_8215024_A
-	set_country_flag = invitation_to_nato
-	ai_chance = { factor = 100 }
+    set_country_flag = invitation_to_nato
+    ai_chance = { factor = 100 }
   }
 
   option = {
     name = EVT_8215024_B
-	capital_scope = { add_province_modifier = { name = neutrality duration = 3500 } }
-	ai_chance = { factor = 0 }
+    capital_scope = { add_province_modifier = { name = neutrality duration = 3500 } }
+    ai_chance = { factor = 0 }
   }
 }
 country_event = {
@@ -500,21 +500,21 @@ country_event = {
   trigger = {
     tag = SUN
     year = 1955 NOT = { year = 1960 }
-	GER = { has_country_flag = invitation_to_nato }
+    GER = { has_country_flag = invitation_to_nato }
   }
 
   mean_time_to_happen = { months = 6  }
 
   option = {
     name = EVT_8215030_A
-	prestige = 10
-	ai_chance = { factor = 100 }
+    prestige = 10
+    ai_chance = { factor = 100 }
   }
 
   option = {
     name = EVT_8215030_B
-	ai_chance = { factor = 0 }
-	set_global_flag = isolationist_ussr 
+    ai_chance = { factor = 0 }
+    set_global_flag = isolationist_ussr
   }
 }
 country_event = {
@@ -525,27 +525,27 @@ country_event = {
   fire_only_once = yes
 
   trigger = {
- 	capital_scope = { continent = europe  }
-	government = proletarian_dictatorship
+    capital_scope = { continent = europe  }
+    government = proletarian_dictatorship
     year = 1955 NOT = { year = 1960 }
     NOT = { has_global_flag = isolationist_ussr }
     NOT = { has_global_flag = tito_soviet_split }
     NOT = { THIS = { alliance_with = SUN } }
-	NOT = { has_country_flag = invitation_to_warsaw_pact }
-	NOT =  { capital_scope = { has_province_modifier = neutrality } }
+    NOT = { has_country_flag = invitation_to_warsaw_pact }
+    NOT =  { capital_scope = { has_province_modifier = neutrality } }
   }
 
   mean_time_to_happen = { months = 1  }
 
   option = {
     name = EVT_8215031_A
-	set_country_flag = invitation_to_warsaw_pact
-	ai_chance = { factor = 100 }
+    set_country_flag = invitation_to_warsaw_pact
+    ai_chance = { factor = 100 }
   }
 
   option = {
     name = EVT_8215031_B
-	capital_scope = { add_province_modifier = { name = neutrality duration = 3500 } }
-	ai_chance = { factor = 0 }
+    capital_scope = { add_province_modifier = { name = neutrality duration = 3500 } }
+    ai_chance = { factor = 0 }
   }
 }

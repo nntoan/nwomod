@@ -1,470 +1,470 @@
 country_event = { # Interim Government of India
-	id = 1214010
-	title = EVT_1214010_NAME
-	desc = EVT_1214010_DESC
-	picture = "independence_of_india"
-	fire_only_once = yes
-	
-	trigger = {
-		tag = GBR 
-		NOT = { year = 1990 }
-		is_our_vassal = RAJ
-		exists = RAJ
-		NOT = { exists = HND }
-		war = no
-		RAJ = { owns = 1236 } # Delhi
-	}
+  id = 1214010
+  title = EVT_1214010_NAME
+  desc = EVT_1214010_DESC
+  picture = "independence_of_india"
+  fire_only_once = yes
 
-	mean_time_to_happen = {
-		months = 10
-	}
+  trigger = {
+    tag = GBR
+    NOT = { year = 1990 }
+    is_our_vassal = RAJ
+    exists = RAJ
+    NOT = { exists = HND }
+    war = no
+    RAJ = { owns = 1236 } # Delhi
+  }
 
-	option = {
-		name = EVT_1214010_A 
-		prestige = -2 
-		RAJ = { 
-			any_pop = {
-				limit = {
-					culture = indian_muslim
-				}
-				consciousness = 1
-				militancy = 2
-			}
-			country_event = { id = 1214011 days = 90 }
-		}
-		ai_chance = { factor = 0 }
-	}
-	
-	option = {
-		name = EVT_1214010_B 
-		RAJ = { 
-			any_pop = {
-				limit = {
-					culture = indian
-				}
-				consciousness = 1
-				militancy = 1
-			}
-			country_event = { id = 1214011 days = 90 }
-		}
-		ai_chance = { factor = 100 }
-	}
+  mean_time_to_happen = {
+    months = 10
+  }
 
-	option = {
-		name = EVT_1214010_C
-		set_global_flag = india_denied_independance
-		RAJ = { 
-			any_pop = {
-				limit = {
-					OR = { culture = indian culture = indian_muslim }
-				}
-				militancy = 5
-			}
-		}
-		ai_chance = { factor = 0 }
-	}
+  option = {
+    name = EVT_1214010_A
+    prestige = -2
+    RAJ = {
+      any_pop = {
+        limit = {
+          culture = indian_muslim
+        }
+        consciousness = 1
+        militancy = 2
+      }
+      country_event = { id = 1214011 days = 90 }
+    }
+    ai_chance = { factor = 0 }
+  }
 
-}
+  option = {
+    name = EVT_1214010_B
+    RAJ = {
+      any_pop = {
+        limit = {
+          culture = indian
+        }
+        consciousness = 1
+        militancy = 1
+      }
+      country_event = { id = 1214011 days = 90 }
+    }
+    ai_chance = { factor = 100 }
+  }
 
-country_event = {
-	id = 1214011
-
-	title = EVT_1214011_NAME
-	desc = EVT_1214011_DESC
-	picture = "ali_jinnah_negotiating"
-	is_triggered_only = yes # RAJ
-	
-	option = {
-		name = EVT_1214011_A 
-		ai_chance = { factor = 100 }
-		GBR = { country_event = 1214012 }
-	}
-	
-	option = {
-		name = EVT_1214011_B
-		ai_chance = { factor = 0 }
-		badboy = 1.0
-		set_global_flag = india_denied_independance
-		any_pop = {
-			limit = {
-				culture = indian
-			}
-			militancy = 3
-		}
-	}
+  option = {
+    name = EVT_1214010_C
+    set_global_flag = india_denied_independance
+    RAJ = {
+      any_pop = {
+        limit = {
+          OR = { culture = indian culture = indian_muslim }
+        }
+        militancy = 5
+      }
+    }
+    ai_chance = { factor = 0 }
+  }
 
 }
 
 country_event = {
-	id = 1214012
-	title = EVT_1214012_NAME
-	# EVT_1214012_NAME;Direct Action Day
-	desc = EVT_1214012_DESC
-	picture = "independence_of_india"
-	is_triggered_only = yes # GBR
+  id = 1214011
 
-	option = {
-		name = EVT_1214012_A 
-		ai_chance = { factor = 100 }
-		prestige = 2
-		release_vassal = RAJ
-		random_country = { limit = { tag = UAE vassal_of = RAJ } RAJ = { release_vassal = UAE } GBR = { create_vassal = UAE } }
-		any_country = { limit = { OR = { vassal_of = RAJ tag = TIB tag = NET tag = SIK } } country_event = 8214019 }
-		RAJ = { country_event = { id = 8214013 days = 10 } }
-	}
+  title = EVT_1214011_NAME
+  desc = EVT_1214011_DESC
+  picture = "ali_jinnah_negotiating"
+  is_triggered_only = yes # RAJ
 
-	option = {
-		name = EVT_1214012_B 
-		ai_chance = { factor = 0 }
-		prestige = -2
-		any_pop = {
-			limit = {
-				culture = indian
-			}
-			consciousness = 1
-			militancy = 4
-		}
-		# country_event = { id = 1214010 days = 30 } 
-	}
+  option = {
+    name = EVT_1214011_A
+    ai_chance = { factor = 100 }
+    GBR = { country_event = 1214012 }
+  }
+
+  option = {
+    name = EVT_1214011_B
+    ai_chance = { factor = 0 }
+    badboy = 1.0
+    set_global_flag = india_denied_independance
+    any_pop = {
+      limit = {
+        culture = indian
+      }
+      militancy = 3
+    }
+  }
 
 }
 
-country_event = { # Mountbatten Plan 
-	id = 8214013
-	title = EVT_8214013_NAME
-	desc = EVT_8214013_DESC
-	picture = "independence_of_india"
-	is_triggered_only = yes # RAJ
+country_event = {
+  id = 1214012
+  title = EVT_1214012_NAME
+  # EVT_1214012_NAME;Direct Action Day
+  desc = EVT_1214012_DESC
+  picture = "independence_of_india"
+  is_triggered_only = yes # GBR
 
-	option = {
-		name = EVT_8214013_A 
-		ai_chance = { factor = 100 }
-		GBR = { diplomatic_influence = { who = RAJ value = -100 } }
-		any_pop = {
-			limit = { OR = { culture = indian culture = indian_muslim } }
-			consciousness = 2
-			militancy = -10
-		}		
-		prestige = -10
-		release = PAK
-		primary_culture = indian
-		country_event = 8007205
-	}
-	
-	option = {
-		name = EVT_8214013_B 
-		ai_chance = { factor = 0 }
-		GBR = { diplomatic_influence = { who = RAJ value = -100 } }
-		prestige = -20
-		any_pop = {
-			limit = {
-				culture = indian_muslim
-			}
-			consciousness = 2
-			militancy = 5
-		}
-		any_pop = {
-			limit = {
-				culture = indian
-			}
-			consciousness = 2
-			militancy = -10
-		}		
-		any_owned = {
-			limit = { is_core = PAK }
-			add_core = HND
-		}
-		primary_culture = indian
-		country_event = 8007205
-	}
+  option = {
+    name = EVT_1214012_A
+    ai_chance = { factor = 100 }
+    prestige = 2
+    release_vassal = RAJ
+    random_country = { limit = { tag = UAE vassal_of = RAJ } RAJ = { release_vassal = UAE } GBR = { create_vassal = UAE } }
+    any_country = { limit = { OR = { vassal_of = RAJ tag = TIB tag = NET tag = SIK } } country_event = 8214019 }
+    RAJ = { country_event = { id = 8214013 days = 10 } }
+  }
 
-	option = {
-		name = EVT_8214013_C 
-		ai_chance = { factor = 0 }
-		GBR = { diplomatic_influence = { who = RAJ value = -100 } }
-		prestige = -20
-		any_pop = {
-			limit = {
-				culture = indian_muslim
-			}
-			consciousness = 5
-			militancy = 7
-		}
-		any_pop = {
-			limit = {
-				culture = indian
-			}
-			consciousness = 5
-			militancy = 7
-		}		
-		1316 = { 
-			add_core = DRA
-		}
-		1317 = { 
-			add_core = DRA
-		}
-		1305 = { 
-			add_core = DRA
-		}
-		1306 = { 
-			add_core = DRA
-		}
-		1307 = { 
-			add_core = DRA
-		}
-		1308 = { 
-			add_core = DRA
-		}
-		1251 = { 
-			add_core = BNG
-		}
-		1252 = { 
-			add_core = BNG
-		}
-		1253 = { 
-			add_core = BNG
-		}
-		2660 = { 
-			add_core = BNG
-		}
-		2661 = { 
-			add_core = BNG
-		}
-		2622 = { 
-			add_core = BNG
-		}
-		1775 = { 
-			add_core = BPA
-		}
-		1776 = { 
-			add_core = BPA
-		}
-		1777 = { 
-			add_core = BPA
-		}
-		1778 = { 
-			add_core = BPA
-		}
-		1780 = { 
-			add_core = BPA
-		}
-		1781 = { 
-			add_core = BPA
-		}
-		1238 = { 
-			add_core = UOA
-		}
-		1239 = { 
-			add_core = UOA
-		}
-		1240 = { 
-			add_core = UOA
-		}
-		1241 = { 
-			add_core = UOA
-		}
-		1242 = { 
-			add_core = UOA
-		}
-		1243 = { 
-			add_core = UOA
-		}
-		1244 = { 
-			add_core = UOA
-		}
-		1245 = { 
-			add_core = UOA
-		}
-		1246 = { 
-			add_core = UOA
-		}
-		1071 = { 
-			add_core = UOA
-		}
-		1069 = { 
-			add_core = UOA
-		}
-		2644 = { 
-			add_core = UOA
-		}
-		2650 = { 
-			add_core = UOA
-		}
-		2669 = { 
-			add_core = UOA
-		}
-		2670 = { 
-			add_core = UOA
-		}
-		2671 = { 
-			add_core = UOA
-		}
-		1258 = { 
-			add_core = ASM
-		}
-		1593 = { 
-			add_core = ASM
-		}
-		3278 = { 
-			add_core = ASM
-		}
-		3279 = { 
-			add_core = ASM
-		}
-		2566 = { 
-			add_core = ASM
-		}
-		1247 = { 
-			add_core = BIR
-		}
-		1248 = { 
-			add_core = BIR
-		}
-		1249 = { 
-			add_core = BIR
-		}
-		1250 = { 
-			add_core = BIR
-		}
-		2621 = { 
-			add_core = BIR
-		}
-		2642 = { 
-			add_core = BIR
-		}
-		2654 = { 
-			add_core = BIR
-		}
-		2662 = { 
-			add_core = BIR
-		}
-		2664 = { 
-			add_core = BIR
-		}
-		2668 = { 
-			add_core = BIR
-		}
-		2651 = { 
-			add_core = PJB
-		}
-		2673 = { 
-			add_core = PJB
-		}
-		1227 = { 
-			add_core = PJB
-		}
-		1228 = { 
-			add_core = PJB
-		}
-		1229 = { 
-			add_core = PJB
-		}
-		1230 = { 
-			add_core = PJB
-		}
-		1232 = { 
-			add_core = PJB
-		}
-		1233 = { 
-			add_core = PJB
-		}
-		1234 = { 
-			add_core = PJB
-		}
-		1235 = { 
-			add_core = PJB
-		}
-		1236 = { 
-			add_core = PJB
-		}
-		1237 = { 
-			add_core = PJB
-		}
-		1302 = { 
-			add_core = BOM
-		}
-		1300 = { 
-			add_core = BOM
-		}
-		1299 = { 
-			add_core = BOM
-		}
-		1298 = { 
-			add_core = BOM
-		}
-		1297 = { 
-			add_core = BOM
-		}
-		1296 = { 
-			add_core = BOM
-		}
-		1291 = { 
-			add_core = BOM
-		}
-		2655 = { 
-			add_core = BOM
-		}
-		2694 = { 
-			add_core = BOM
-		}
-		2694 = { 
-			add_core = BOM
-		}
-		1303 = { 
-			add_core = ORI
-		}
-		1219 = { 
-			add_core = BLO
-		}
-		1218 = { 
-			add_core = NFP
-		}
-		1275 = { 
-			add_core = BPA
-		}
-		1276 = { 
-			add_core = BPA
-		}
-		1277 = { 
-			add_core = BPA
-		}
-		1278 = { 
-			add_core = BPA
-		}
-		1280 = { 
-			add_core = BPA
-		}
-		1281 = { 
-			add_core = BPA
-		}
-		release = BIR
-		release = UOA
-		release = BPA
-		release = NFP
-		release = DRA
-		release = BNG
-		release = ASM
-		release = SIN
-		release = BOM
-		primary_culture = indian
-		country_event = 8007206
-	}
+  option = {
+    name = EVT_1214012_B
+    ai_chance = { factor = 0 }
+    prestige = -2
+    any_pop = {
+      limit = {
+        culture = indian
+      }
+      consciousness = 1
+      militancy = 4
+    }
+    # country_event = { id = 1214010 days = 30 }
+  }
+
+}
+
+country_event = { # Mountbatten Plan
+  id = 8214013
+  title = EVT_8214013_NAME
+  desc = EVT_8214013_DESC
+  picture = "independence_of_india"
+  is_triggered_only = yes # RAJ
+
+  option = {
+    name = EVT_8214013_A
+    ai_chance = { factor = 100 }
+    GBR = { diplomatic_influence = { who = RAJ value = -100 } }
+    any_pop = {
+      limit = { OR = { culture = indian culture = indian_muslim } }
+      consciousness = 2
+      militancy = -10
+    }
+    prestige = -10
+    release = PAK
+    primary_culture = indian
+    country_event = 8007205
+  }
+
+  option = {
+    name = EVT_8214013_B
+    ai_chance = { factor = 0 }
+    GBR = { diplomatic_influence = { who = RAJ value = -100 } }
+    prestige = -20
+    any_pop = {
+      limit = {
+        culture = indian_muslim
+      }
+      consciousness = 2
+      militancy = 5
+    }
+    any_pop = {
+      limit = {
+        culture = indian
+      }
+      consciousness = 2
+      militancy = -10
+    }
+    any_owned = {
+      limit = { is_core = PAK }
+      add_core = HND
+    }
+    primary_culture = indian
+    country_event = 8007205
+  }
+
+  option = {
+    name = EVT_8214013_C
+    ai_chance = { factor = 0 }
+    GBR = { diplomatic_influence = { who = RAJ value = -100 } }
+    prestige = -20
+    any_pop = {
+      limit = {
+        culture = indian_muslim
+      }
+      consciousness = 5
+      militancy = 7
+    }
+    any_pop = {
+      limit = {
+        culture = indian
+      }
+      consciousness = 5
+      militancy = 7
+    }
+    1316 = {
+      add_core = DRA
+    }
+    1317 = {
+      add_core = DRA
+    }
+    1305 = {
+      add_core = DRA
+    }
+    1306 = {
+      add_core = DRA
+    }
+    1307 = {
+      add_core = DRA
+    }
+    1308 = {
+      add_core = DRA
+    }
+    1251 = {
+      add_core = BNG
+    }
+    1252 = {
+      add_core = BNG
+    }
+    1253 = {
+      add_core = BNG
+    }
+    2660 = {
+      add_core = BNG
+    }
+    2661 = {
+      add_core = BNG
+    }
+    2622 = {
+      add_core = BNG
+    }
+    1775 = {
+      add_core = BPA
+    }
+    1776 = {
+      add_core = BPA
+    }
+    1777 = {
+      add_core = BPA
+    }
+    1778 = {
+      add_core = BPA
+    }
+    1780 = {
+      add_core = BPA
+    }
+    1781 = {
+      add_core = BPA
+    }
+    1238 = {
+      add_core = UOA
+    }
+    1239 = {
+      add_core = UOA
+    }
+    1240 = {
+      add_core = UOA
+    }
+    1241 = {
+      add_core = UOA
+    }
+    1242 = {
+      add_core = UOA
+    }
+    1243 = {
+      add_core = UOA
+    }
+    1244 = {
+      add_core = UOA
+    }
+    1245 = {
+      add_core = UOA
+    }
+    1246 = {
+      add_core = UOA
+    }
+    1071 = {
+      add_core = UOA
+    }
+    1069 = {
+      add_core = UOA
+    }
+    2644 = {
+      add_core = UOA
+    }
+    2650 = {
+      add_core = UOA
+    }
+    2669 = {
+      add_core = UOA
+    }
+    2670 = {
+      add_core = UOA
+    }
+    2671 = {
+      add_core = UOA
+    }
+    1258 = {
+      add_core = ASM
+    }
+    1593 = {
+      add_core = ASM
+    }
+    3278 = {
+      add_core = ASM
+    }
+    3279 = {
+      add_core = ASM
+    }
+    2566 = {
+      add_core = ASM
+    }
+    1247 = {
+      add_core = BIR
+    }
+    1248 = {
+      add_core = BIR
+    }
+    1249 = {
+      add_core = BIR
+    }
+    1250 = {
+      add_core = BIR
+    }
+    2621 = {
+      add_core = BIR
+    }
+    2642 = {
+      add_core = BIR
+    }
+    2654 = {
+      add_core = BIR
+    }
+    2662 = {
+      add_core = BIR
+    }
+    2664 = {
+      add_core = BIR
+    }
+    2668 = {
+      add_core = BIR
+    }
+    2651 = {
+      add_core = PJB
+    }
+    2673 = {
+      add_core = PJB
+    }
+    1227 = {
+      add_core = PJB
+    }
+    1228 = {
+      add_core = PJB
+    }
+    1229 = {
+      add_core = PJB
+    }
+    1230 = {
+      add_core = PJB
+    }
+    1232 = {
+      add_core = PJB
+    }
+    1233 = {
+      add_core = PJB
+    }
+    1234 = {
+      add_core = PJB
+    }
+    1235 = {
+      add_core = PJB
+    }
+    1236 = {
+      add_core = PJB
+    }
+    1237 = {
+      add_core = PJB
+    }
+    1302 = {
+      add_core = BOM
+    }
+    1300 = {
+      add_core = BOM
+    }
+    1299 = {
+      add_core = BOM
+    }
+    1298 = {
+      add_core = BOM
+    }
+    1297 = {
+      add_core = BOM
+    }
+    1296 = {
+      add_core = BOM
+    }
+    1291 = {
+      add_core = BOM
+    }
+    2655 = {
+      add_core = BOM
+    }
+    2694 = {
+      add_core = BOM
+    }
+    2694 = {
+      add_core = BOM
+    }
+    1303 = {
+      add_core = ORI
+    }
+    1219 = {
+      add_core = BLO
+    }
+    1218 = {
+      add_core = NFP
+    }
+    1275 = {
+      add_core = BPA
+    }
+    1276 = {
+      add_core = BPA
+    }
+    1277 = {
+      add_core = BPA
+    }
+    1278 = {
+      add_core = BPA
+    }
+    1280 = {
+      add_core = BPA
+    }
+    1281 = {
+      add_core = BPA
+    }
+    release = BIR
+    release = UOA
+    release = BPA
+    release = NFP
+    release = DRA
+    release = BNG
+    release = ASM
+    release = SIN
+    release = BOM
+    primary_culture = indian
+    country_event = 8007206
+  }
 
 }
 country_event = {
-	id = 8214019
-	title = EVT_8214019_NAME
-	# EVT_8214019_NAME;Britain Leaves India
-	desc = EVT_8214019_DESC
-	# EVT_8214019_DESC;Neither paramountcy nor the subsidiary alliances could continue after Indian independence. The British took the view that because they had been established directly between the British crown and the princely states, they could not be transferred to the newly independent dominions of India and Pakistan.[11] At the same time, the alliances imposed obligations on Britain that it was not prepared to continue to carry out, such as the obligation to maintain troops in India for the defence of the princely states. The British government therefore decided that paramountcy, together with all treaties between them and the princely states, would come to an end upon the British departure from India.
-	picture = "princely_states"
-	is_triggered_only = yes # GBR
-	
-	option = {
-		name = EVT_8214019_A 
-		FROM = { diplomatic_influence = { who = THIS value = -200 } }
-		# EVT_8214019_A;We have to handle this new political environment!
-	}
+  id = 8214019
+  title = EVT_8214019_NAME
+  # EVT_8214019_NAME;Britain Leaves India
+  desc = EVT_8214019_DESC
+  # EVT_8214019_DESC;Neither paramountcy nor the subsidiary alliances could continue after Indian independence. The British took the view that because they had been established directly between the British crown and the princely states, they could not be transferred to the newly independent dominions of India and Pakistan.[11] At the same time, the alliances imposed obligations on Britain that it was not prepared to continue to carry out, such as the obligation to maintain troops in India for the defence of the princely states. The British government therefore decided that paramountcy, together with all treaties between them and the princely states, would come to an end upon the British departure from India.
+  picture = "princely_states"
+  is_triggered_only = yes # GBR
+
+  option = {
+    name = EVT_8214019_A
+    FROM = { diplomatic_influence = { who = THIS value = -200 } }
+    # EVT_8214019_A;We have to handle this new political environment!
+  }
 }
 country_event = {
   id = 8007205
@@ -475,13 +475,13 @@ country_event = {
 
   option = {
     name = EVT_8007205_A
-	release_vassal = NEP
-	release_vassal = JAK
-	leave_alliance = TIB
-	leave_alliance = JAK
-	leave_alliance = GBR
-	government = democracy country_event = 800054
-	change_tag = HND
+    release_vassal = NEP
+    release_vassal = JAK
+    leave_alliance = TIB
+    leave_alliance = JAK
+    leave_alliance = GBR
+    government = democracy country_event = 800054
+    change_tag = HND
   }
 }
 country_event = {
@@ -493,337 +493,337 @@ country_event = {
 
   option = {
     name = EVT_8007206_A
-	1219 = { secede_province = BLO } 
-	1220 = { secede_province = BLO }
-	1264 = { secede_province = RAA }
-	1261 = { secede_province = ORI }
-	1263 = { secede_province = ORI }
-	release_vassal = NEP
-	release_vassal = JAK
-	release_vassal = BHU
-	release_vassal = TPI
-	release_vassal = MNP
-	release_vassal = SIK
-	release_vassal = CRL
-	release_vassal = AZK
-	release_vassal = BHP
-	release_vassal = BLO
-	release_vassal = RAA
-	release_vassal = BER
-	release_vassal = GWA
-	release_vassal = IND
-	release_vassal = NAX
-	release_vassal = RGH
-	release_vassal = ORI
-	release_vassal = BAS
-	release_vassal = HYD
-	release_vassal = KLP
-	release_vassal = MYS
-	release_vassal = TRA
-	leave_alliance = TIB
-	leave_alliance = JAK
-	leave_alliance = GBR
-	leave_alliance = NEP
-	leave_alliance = BHU
-	leave_alliance = TPI
-	leave_alliance = MNP
-	leave_alliance = SIK
-	leave_alliance = CRL
-	leave_alliance = AZK
-	leave_alliance = BHP
-	leave_alliance = BLO
-	leave_alliance = RAA
-	leave_alliance = BER
-	leave_alliance = GWA
-	leave_alliance = IND
-	leave_alliance = NAX
-	leave_alliance = RGH
-	leave_alliance = ORI
-	leave_alliance = BAS
-	leave_alliance = HYD
-	leave_alliance = KLP
-	leave_alliance = MYS
-	leave_alliance = TRA
-	government = democracy country_event = 800054
-	change_tag = PJB
+    1219 = { secede_province = BLO }
+    1220 = { secede_province = BLO }
+    1264 = { secede_province = RAA }
+    1261 = { secede_province = ORI }
+    1263 = { secede_province = ORI }
+    release_vassal = NEP
+    release_vassal = JAK
+    release_vassal = BHU
+    release_vassal = TPI
+    release_vassal = MNP
+    release_vassal = SIK
+    release_vassal = CRL
+    release_vassal = AZK
+    release_vassal = BHP
+    release_vassal = BLO
+    release_vassal = RAA
+    release_vassal = BER
+    release_vassal = GWA
+    release_vassal = IND
+    release_vassal = NAX
+    release_vassal = RGH
+    release_vassal = ORI
+    release_vassal = BAS
+    release_vassal = HYD
+    release_vassal = KLP
+    release_vassal = MYS
+    release_vassal = TRA
+    leave_alliance = TIB
+    leave_alliance = JAK
+    leave_alliance = GBR
+    leave_alliance = NEP
+    leave_alliance = BHU
+    leave_alliance = TPI
+    leave_alliance = MNP
+    leave_alliance = SIK
+    leave_alliance = CRL
+    leave_alliance = AZK
+    leave_alliance = BHP
+    leave_alliance = BLO
+    leave_alliance = RAA
+    leave_alliance = BER
+    leave_alliance = GWA
+    leave_alliance = IND
+    leave_alliance = NAX
+    leave_alliance = RGH
+    leave_alliance = ORI
+    leave_alliance = BAS
+    leave_alliance = HYD
+    leave_alliance = KLP
+    leave_alliance = MYS
+    leave_alliance = TRA
+    government = democracy country_event = 800054
+    change_tag = PJB
   }
 }
 country_event = {
-	id = 8007204
-	title = EVT_8007205_NAME
-	desc = EVT_8007205_DESC
-	picture = "nwo2_independence_of_india"
+  id = 8007204
+  title = EVT_8007205_NAME
+  desc = EVT_8007205_DESC
+  picture = "nwo2_independence_of_india"
 
-	trigger = { # either by trigger event call or if UK does not allow indian independance, when the RAJ becomes a GP
-		tag = RAJ
-		exists = RAJ
-		OR = { is_greater_power = yes has_global_flag = india_denied_independance }
-		is_vassal = no
-		NOT = { exists = HND }
-		war = no
-		RAJ = { owns = 1236 } # Delhi
-	}
-	
-	mean_time_to_happen = { months = 48 }
-	
-	option = {
-		name = EVT_8007205_A
-		change_tag = HND
-		release_vassal = NEP
-		release_vassal = JAK
-		leave_alliance = TIB
-		leave_alliance = JAK
-		leave_alliance = GBR
-		any_owned = { limit = { is_core = PAK } secede_province = PAK }
-		PAK = { 
-			capital = 1288
-			any_pop = {
-				consciousness = -5
-				militancy = -5
-			}
-		}
-		soldiers = {
-			militancy = 8
-		}
-		any_pop = {
-			limit = {
-				has_pop_religion = sunni
-			}
-			militancy = 5
-		}
-		war = {
-			target = PAK
-			attacker_goal = {
-				casus_belli = civil_war
-			}
-			defender_goal = {
-				casus_belli = status_quo
-			}
-		}
-	}
+  trigger = { # either by trigger event call or if UK does not allow indian independance, when the RAJ becomes a GP
+    tag = RAJ
+    exists = RAJ
+    OR = { is_greater_power = yes has_global_flag = india_denied_independance }
+    is_vassal = no
+    NOT = { exists = HND }
+    war = no
+    RAJ = { owns = 1236 } # Delhi
+  }
 
-	option = {
-		name = EVT_8007205_A
-		release_vassal = NEP
-		release_vassal = JAK
-		leave_alliance = TIB
-		leave_alliance = JAK
-		leave_alliance = GBR
-		any_owned = { limit = { is_core = PAK } secede_province = PAK }
-		any_owned = { limit = { OR = { region = SID_1233 region = SID_2651 region = SID_1236 } } add_core = PAK }
-		PAK = { 
-			capital = 1288
-			any_pop = {
-				consciousness = -5
-				militancy = -5
-			}
-		}
-		soldiers = {
-			militancy = 8
-		}
-		any_pop = {
-			limit = {
-				has_pop_religion = sunni
-			}
-			militancy = 5
-		}
-		war = {
-			target = PAK
-			attacker_goal = {
-				casus_belli = civil_war
-			}
-			defender_goal = {
-				casus_belli = status_quo
-			}
-		}
-		change_tag_no_core_switch = PAK
-	}
+  mean_time_to_happen = { months = 48 }
 
-	option = {
-		name = EVT_8007205_C
-		release_vassal = NEP
-		release_vassal = JAK
-		leave_alliance = TIB
-		leave_alliance = JAK
-		leave_alliance = GBR
-		any_owned = { limit = { is_core = PAK } secede_province = PAK }
-		any_owned = { limit = { is_core = HND NOT = { region = SID_1236 } } secede_province = HND }
-		PAK = { 
-			capital = 1288
-			any_pop = {
-				consciousness = -5
-				militancy = -5
-			}
-		}
-		soldiers = {
-			militancy = 8
-		}
-		any_pop = {
-			limit = {
-				has_pop_religion = sunni
-			}
-			militancy = 5
-		}
-		war = {
-			target = PAK
-			attacker_goal = {
-				casus_belli = civil_war
-			}
-			defender_goal = {
-				casus_belli = status_quo
-			}
-		}
-		HND = { 
-			capital = 1297
-			any_pop = {
-				consciousness = -5
-				militancy = -5
-			}
-		}
-		soldiers = {
-			militancy = 8
-		}
-		any_pop = {
-			limit = {
-				has_pop_religion = hindu
-			}
-			militancy = 5
-		}
-		war = {
-			target = HND
-			attacker_goal = {
-				casus_belli = civil_war
-			}
-			defender_goal = {
-				casus_belli = civil_war
-			}
-		}
-	}
-	
-}
-country_event = {
-	id = 8214016
-	title = EVT_8214016_NAME
-	desc = EVT_8214016_DESC
-	picture = "independence_of_india"
+  option = {
+    name = EVT_8007205_A
+    change_tag = HND
+    release_vassal = NEP
+    release_vassal = JAK
+    leave_alliance = TIB
+    leave_alliance = JAK
+    leave_alliance = GBR
+    any_owned = { limit = { is_core = PAK } secede_province = PAK }
+    PAK = {
+      capital = 1288
+      any_pop = {
+        consciousness = -5
+        militancy = -5
+      }
+    }
+    soldiers = {
+      militancy = 8
+    }
+    any_pop = {
+      limit = {
+        has_pop_religion = sunni
+      }
+      militancy = 5
+    }
+    war = {
+      target = PAK
+      attacker_goal = {
+        casus_belli = civil_war
+      }
+      defender_goal = {
+        casus_belli = status_quo
+      }
+    }
+  }
 
-	trigger = { 
-		NOT = { year = 1960 }
-		vassal_of = HND 
-		OR = { 
-			tag = MNP tag = RAA tag = IND tag = GWA tag = BER tag = ORI tag = NAX tag = BOD tag = MYS tag = TRA tag = TPI tag = BAS tag = KLP tag = RGH 
-			AND = { NOT = { exists = PAK } tag = AZK }  AND = { NOT = { exists = PAK }  tag = BLO }  AND = { NOT = { exists = PAK }  tag = BHP }  AND = { NOT = { exists = PAK }  tag = CRL }
-		}
-		NOT = { has_country_flag = princely_state_stay_independent }
-	}
-	
-	mean_time_to_happen = {
-		months = 1
-	}
+  option = {
+    name = EVT_8007205_A
+    release_vassal = NEP
+    release_vassal = JAK
+    leave_alliance = TIB
+    leave_alliance = JAK
+    leave_alliance = GBR
+    any_owned = { limit = { is_core = PAK } secede_province = PAK }
+    any_owned = { limit = { OR = { region = SID_1233 region = SID_2651 region = SID_1236 } } add_core = PAK }
+    PAK = {
+      capital = 1288
+      any_pop = {
+        consciousness = -5
+        militancy = -5
+      }
+    }
+    soldiers = {
+      militancy = 8
+    }
+    any_pop = {
+      limit = {
+        has_pop_religion = sunni
+      }
+      militancy = 5
+    }
+    war = {
+      target = PAK
+      attacker_goal = {
+        casus_belli = civil_war
+      }
+      defender_goal = {
+        casus_belli = status_quo
+      }
+    }
+    change_tag_no_core_switch = PAK
+  }
 
-	option = {
-		name = EVT_8214015_A
-		relation = { who = HND value = -200 }
-		set_country_flag = princely_state_stay_independent
-		HND = { release_vassal = THIS } 
-		HND = { leave_alliance = THIS }
-		GBR = { diplomatic_influence = { who = THIS value = -100 } }
-		add_casus_belli = { target = HND type = annex_core_country }
-		# TODO inform HND about this
-		ai_chance = { factor = 0 }
-	}
-
-	option = {
-		name = EVT_8214015_C 
-		HND = { inherit = THIS }
-		# TODO inform HND about this
-		ai_chance = { factor = 100 }
-	}
+  option = {
+    name = EVT_8007205_C
+    release_vassal = NEP
+    release_vassal = JAK
+    leave_alliance = TIB
+    leave_alliance = JAK
+    leave_alliance = GBR
+    any_owned = { limit = { is_core = PAK } secede_province = PAK }
+    any_owned = { limit = { is_core = HND NOT = { region = SID_1236 } } secede_province = HND }
+    PAK = {
+      capital = 1288
+      any_pop = {
+        consciousness = -5
+        militancy = -5
+      }
+    }
+    soldiers = {
+      militancy = 8
+    }
+    any_pop = {
+      limit = {
+        has_pop_religion = sunni
+      }
+      militancy = 5
+    }
+    war = {
+      target = PAK
+      attacker_goal = {
+        casus_belli = civil_war
+      }
+      defender_goal = {
+        casus_belli = status_quo
+      }
+    }
+    HND = {
+      capital = 1297
+      any_pop = {
+        consciousness = -5
+        militancy = -5
+      }
+    }
+    soldiers = {
+      militancy = 8
+    }
+    any_pop = {
+      limit = {
+        has_pop_religion = hindu
+      }
+      militancy = 5
+    }
+    war = {
+      target = HND
+      attacker_goal = {
+        casus_belli = civil_war
+      }
+      defender_goal = {
+        casus_belli = civil_war
+      }
+    }
+  }
 
 }
 country_event = {
-	id = 8214017
-	title = EVT_8214016_NAME
-	desc = EVT_8214016_DESC
-	picture = "independence_of_india"
+  id = 8214016
+  title = EVT_8214016_NAME
+  desc = EVT_8214016_DESC
+  picture = "independence_of_india"
 
-	trigger = { 
-		NOT = { year = 1960 }
-		vassal_of = HND 
-		OR = { tag = AZK tag = BLO  tag = BHP tag = CRL }
-		exists = PAK
-		NOT = { has_country_flag = princely_state_stay_independent }
-	}
-	
-	mean_time_to_happen = {
-		months = 1
-	}
+  trigger = {
+    NOT = { year = 1960 }
+    vassal_of = HND
+    OR = {
+      tag = MNP tag = RAA tag = IND tag = GWA tag = BER tag = ORI tag = NAX tag = BOD tag = MYS tag = TRA tag = TPI tag = BAS tag = KLP tag = RGH
+      AND = { NOT = { exists = PAK } tag = AZK }  AND = { NOT = { exists = PAK }  tag = BLO }  AND = { NOT = { exists = PAK }  tag = BHP }  AND = { NOT = { exists = PAK }  tag = CRL }
+    }
+    NOT = { has_country_flag = princely_state_stay_independent }
+  }
 
-	option = {
-		name = EVT_8214015_A
-		relation = { who = HND value = -200 }
-		relation = { who = PAK value = -200 }
-		set_country_flag = princely_state_stay_independent
-		HND = { release_vassal = THIS } 
-		HND = { leave_alliance = THIS }
-		GBR = { diplomatic_influence = { who = THIS value = -100 } }
-		add_casus_belli = { target = PAK type = annex_core_country }
-		# TODO inform PAK about this
-		# TODO inform HND about this
-		ai_chance = { factor = 0 }
-	}
+  mean_time_to_happen = {
+    months = 1
+  }
 
-	option = {
-		name = EVT_8214015_B 
-		PAK = { inherit = THIS }
-		# TODO inform PAK about this
-		# TODO inform HND about this
-		ai_chance = { factor = 100 }
-	}
+  option = {
+    name = EVT_8214015_A
+    relation = { who = HND value = -200 }
+    set_country_flag = princely_state_stay_independent
+    HND = { release_vassal = THIS }
+    HND = { leave_alliance = THIS }
+    GBR = { diplomatic_influence = { who = THIS value = -100 } }
+    add_casus_belli = { target = HND type = annex_core_country }
+    # TODO inform HND about this
+    ai_chance = { factor = 0 }
+  }
 
-	option = {
-		name = EVT_8214015_C 
-		HND = { inherit = THIS }
-		# TODO inform PAK about this
-		# TODO inform HND about this
-		ai_chance = { factor = 0 }
-	}
+  option = {
+    name = EVT_8214015_C
+    HND = { inherit = THIS }
+    # TODO inform HND about this
+    ai_chance = { factor = 100 }
+  }
 
 }
 country_event = {
-	id = 8214018
-	title = EVT_8214016_NAME
-	desc = EVT_8214016_DESC
-	picture = "independence_of_india"
-	fire_only_once = yes
+  id = 8214017
+  title = EVT_8214016_NAME
+  desc = EVT_8214016_DESC
+  picture = "independence_of_india"
 
-	trigger = { 
-		NOT = { year = 1960 }
-		vassal_of = HND 
-		tag = HYD
-	}
-	
-	mean_time_to_happen = {
-		months = 1
-	}
+  trigger = {
+    NOT = { year = 1960 }
+    vassal_of = HND
+    OR = { tag = AZK tag = BLO  tag = BHP tag = CRL }
+    exists = PAK
+    NOT = { has_country_flag = princely_state_stay_independent }
+  }
 
-	option = {
-		name = EVT_8214015_A
-		relation = { who = HND value = -200 }
-		set_country_flag = princely_state_stay_independent
-		HND = { release_vassal = THIS } 
-		HND = { leave_alliance = THIS }
-		GBR = { diplomatic_influence = { who = THIS value = -100 } }
-		add_casus_belli = { target = HND type = annex_core_country } 
-		# TODO inform HND about this # will trigger 8007229
-		ai_chance = { factor = 100 }
-	}
+  mean_time_to_happen = {
+    months = 1
+  }
 
-	option = {
-		name = EVT_8214015_C 
-		HND = { inherit = THIS }
-		# TODO inform HND about this
-		ai_chance = { factor = 0 }
-	}
+  option = {
+    name = EVT_8214015_A
+    relation = { who = HND value = -200 }
+    relation = { who = PAK value = -200 }
+    set_country_flag = princely_state_stay_independent
+    HND = { release_vassal = THIS }
+    HND = { leave_alliance = THIS }
+    GBR = { diplomatic_influence = { who = THIS value = -100 } }
+    add_casus_belli = { target = PAK type = annex_core_country }
+    # TODO inform PAK about this
+    # TODO inform HND about this
+    ai_chance = { factor = 0 }
+  }
+
+  option = {
+    name = EVT_8214015_B
+    PAK = { inherit = THIS }
+    # TODO inform PAK about this
+    # TODO inform HND about this
+    ai_chance = { factor = 100 }
+  }
+
+  option = {
+    name = EVT_8214015_C
+    HND = { inherit = THIS }
+    # TODO inform PAK about this
+    # TODO inform HND about this
+    ai_chance = { factor = 0 }
+  }
+
+}
+country_event = {
+  id = 8214018
+  title = EVT_8214016_NAME
+  desc = EVT_8214016_DESC
+  picture = "independence_of_india"
+  fire_only_once = yes
+
+  trigger = {
+    NOT = { year = 1960 }
+    vassal_of = HND
+    tag = HYD
+  }
+
+  mean_time_to_happen = {
+    months = 1
+  }
+
+  option = {
+    name = EVT_8214015_A
+    relation = { who = HND value = -200 }
+    set_country_flag = princely_state_stay_independent
+    HND = { release_vassal = THIS }
+    HND = { leave_alliance = THIS }
+    GBR = { diplomatic_influence = { who = THIS value = -100 } }
+    add_casus_belli = { target = HND type = annex_core_country }
+    # TODO inform HND about this # will trigger 8007229
+    ai_chance = { factor = 100 }
+  }
+
+  option = {
+    name = EVT_8214015_C
+    HND = { inherit = THIS }
+    # TODO inform HND about this
+    ai_chance = { factor = 0 }
+  }
 
 }

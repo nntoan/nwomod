@@ -6,8 +6,8 @@ life_rating = 37
 terrain = dry_forest_mountains
 colonial = 0
 1992.1.1 = {
-owner = ETH
-controller = ETH
-add_core = ETH
-colonial = 0
+  owner = ETH
+  controller = ETH
+  add_core = ETH
+  colonial = 0
 }

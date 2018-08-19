@@ -6,40 +6,40 @@ country_event = { # Southern Cameroons Plebiscite
   fire_only_once = yes
 
   trigger = {
-	tag = GBR
-	exists = CMR
-	exists = NGE
-	is_our_vassal = ABZ
-	ABZ = { government = provisional_government }
-	war = no
+    tag = GBR
+    exists = CMR
+    exists = NGE
+    is_our_vassal = ABZ
+    ABZ = { government = provisional_government }
+    war = no
   }
 
   mean_time_to_happen = { months = 4 }
 
   option = {
     name = "EVT_8002500_A"
-	release_vassal = ABZ
-	CMR = { inherit = ABZ }
-	prestige = 5
-	ai_chance = { factor = 100 }
+    release_vassal = ABZ
+    CMR = { inherit = ABZ }
+    prestige = 5
+    ai_chance = { factor = 100 }
   }
   option = {
     name = "EVT_8002500_B"
-	badboy = 1
-	prestige = -10
-	release_vassal = ABZ
-	NGE = { inherit = ABZ }
-	ai_chance = { factor = 0 }
+    badboy = 1
+    prestige = -10
+    release_vassal = ABZ
+    NGE = { inherit = ABZ }
+    ai_chance = { factor = 0 }
   }
   option = {
     name = "EVT_8002500_C"
-	badboy = 1
-	prestige = -10
-	release_vassal = ABZ
-	ABZ = { primary_culture = anglo_african government = democracy country_event = 800054 }
-	diplomatic_influence = { who = GBR value = 200 }
-	ai_chance = { factor = 0 }
-  }  
+    badboy = 1
+    prestige = -10
+    release_vassal = ABZ
+    ABZ = { primary_culture = anglo_african government = democracy country_event = 800054 }
+    diplomatic_influence = { who = GBR value = 200 }
+    ai_chance = { factor = 0 }
+  }
 }
 country_event = {
   id = 8002512
@@ -50,15 +50,15 @@ country_event = {
 
   trigger = {
     tag = CMR
-	owns = 1959 # Yaounde
+    owns = 1959 # Yaounde
     year = 1954 NOT = { year = 1990 }
-	is_vassal = yes
+    is_vassal = yes
   }
 
   mean_time_to_happen = { months = 12 }
 
   option = {
     name = "EVT_8002512_A"
-	country_event = 15405
+    country_event = 15405
   }
 }

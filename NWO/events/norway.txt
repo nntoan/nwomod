@@ -14,7 +14,7 @@ country_event = {
 
   option = {
     name = EVT_8010605_A
-	prestige = 10
+    prestige = 10
   }
 }
 country_event = {
@@ -26,13 +26,13 @@ country_event = {
   trigger = {
     tag = NOR
     year = 1974 NOT = { year = 1999 }
-	owns = 309 # bergen
+    owns = 309 # bergen
   }
 
   mean_time_to_happen = { months = 8 }
 
   option = {
     name = EVT_8010619_A
-	any_owned = { limit = { produces = petroleum NOT = { has_province_modifier = oil_field } } add_province_modifier = { name = oil_field duration = -1 } }
+    any_owned = { limit = { produces = petroleum NOT = { has_province_modifier = oil_field } } add_province_modifier = { name = oil_field duration = -1 } }
   }
 }

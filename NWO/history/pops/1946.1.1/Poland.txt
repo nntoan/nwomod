@@ -1,1522 +1,1522 @@
 #Bielsko - Bielsko (721000/180250 POPS)
 2584 = {
-	clergymen = {
-		culture = polish
-		religion =  catholic 
-		size = 3388
-	 } 
-	clergymen = {
-		culture = polish
-		religion = secularism
-		size = 216
-	 } 
-	farmers = {
-		culture = polish
-		religion =  catholic 
-		size = 166046
-	 } 
-	farmers = {
-		culture = polish
-		religion = secularism
-		size = 10598
-	 } 
+  clergymen = {
+    culture = polish
+    religion =  catholic
+    size = 3388
+  }
+  clergymen = {
+    culture = polish
+    religion = secularism
+    size = 216
+  }
+  farmers = {
+    culture = polish
+    religion =  catholic
+    size = 166046
+  }
+  farmers = {
+    culture = polish
+    religion = secularism
+    size = 10598
+  }
 }
 #Stettin - Stettin (781000/195250 POPS)
 546 = {
-	clergymen = {
-		culture = polish
-		religion =  catholic 
-		size = 3670
-	 } 
-	clergymen = {
-		culture = polish
-		religion = secularism
-		size = 234
-	 } 
-	farmers = {
-		culture = german
-		religion =  catholic 
-		size = 179864
-	 } 
-	farmers = {
-		culture = german
-		religion = secularism
-		size = 11480
-	 } 
+  clergymen = {
+    culture = polish
+    religion =  catholic
+    size = 3670
+  }
+  clergymen = {
+    culture = polish
+    religion = secularism
+    size = 234
+  }
+  farmers = {
+    culture = german
+    religion =  catholic
+    size = 179864
+  }
+  farmers = {
+    culture = german
+    religion = secularism
+    size = 11480
+  }
 }
 #Kolberg - Kolberg (402000/100500 POPS)
 679 = {
-	clergymen = {
-		culture = polish
-		religion =  catholic 
-		size = 1889
-	 } 
-	clergymen = {
-		culture = polish
-		religion = secularism
-		size = 120
-	 } 
-	farmers = {
-		culture = polish
-		religion =  catholic 
-		size = 1889
-	 } 
-	farmers = {
-		culture = polish
-		religion = secularism
-		size = 120
-	 } 
-	farmers = {
-		culture = german
-		religion =  catholic 
-		size = 90691
-	 } 
-	farmers = {
-		culture = german
-		religion = secularism
-		size = 5788
-	 } 
+  clergymen = {
+    culture = polish
+    religion =  catholic
+    size = 1889
+  }
+  clergymen = {
+    culture = polish
+    religion = secularism
+    size = 120
+  }
+  farmers = {
+    culture = polish
+    religion =  catholic
+    size = 1889
+  }
+  farmers = {
+    culture = polish
+    religion = secularism
+    size = 120
+  }
+  farmers = {
+    culture = german
+    religion =  catholic
+    size = 90691
+  }
+  farmers = {
+    culture = german
+    religion = secularism
+    size = 5788
+  }
 }
 #Koslin - Koslin (321000/80250 POPS)
 680 = {
-	clergymen = {
-		culture = polish
-		religion =  catholic 
-		size = 1508
-	 } 
-	clergymen = {
-		culture = polish
-		religion = secularism
-		size = 96
-	 } 
-	farmers = {
-		culture = polish
-		religion =  catholic 
-		size = 1508
-	 } 
-	farmers = {
-		culture = polish
-		religion = secularism
-		size = 96
-	 } 
-	farmers = {
-		culture = german
-		religion =  catholic 
-		size = 72417
-	 } 
-	farmers = {
-		culture = german
-		religion = secularism
-		size = 4622
-	 } 
+  clergymen = {
+    culture = polish
+    religion =  catholic
+    size = 1508
+  }
+  clergymen = {
+    culture = polish
+    religion = secularism
+    size = 96
+  }
+  farmers = {
+    culture = polish
+    religion =  catholic
+    size = 1508
+  }
+  farmers = {
+    culture = polish
+    religion = secularism
+    size = 96
+  }
+  farmers = {
+    culture = german
+    religion =  catholic
+    size = 72417
+  }
+  farmers = {
+    culture = german
+    religion = secularism
+    size = 4622
+  }
 }
 #Kustrin - Kustrin (926000/231500 POPS)
 681 = {
-	clergymen = {
-		culture = polish
-		religion =  catholic 
-		size = 4352
-	 } 
-	clergymen = {
-		culture = polish
-		religion = secularism
-		size = 277
-	 } 
-	farmers = {
-		culture = german
-		religion =  catholic 
-		size = 213257
-	 } 
-	farmers = {
-		culture = german
-		religion = secularism
-		size = 13612
-	 } 
+  clergymen = {
+    culture = polish
+    religion =  catholic
+    size = 4352
+  }
+  clergymen = {
+    culture = polish
+    religion = secularism
+    size = 277
+  }
+  farmers = {
+    culture = german
+    religion =  catholic
+    size = 213257
+  }
+  farmers = {
+    culture = german
+    religion = secularism
+    size = 13612
+  }
 }
 #Breslau - Breslau (1335000/333750 POPS)
 682 = {
-	officers = {
-		culture = polish
-		religion =  catholic 
-		size = 614
-	 } 
-	officers = {
-		culture = polish
-		religion = secularism
-		size = 39
-	 } 
-	soldiers = {
-		culture = polish
-		religion =  catholic 
-		size = 5659
-	 } 
-	soldiers = {
-		culture = polish
-		religion = secularism
-		size = 361
-	 } 
-	soldiers = {
-		culture = german
-		religion =  catholic 
-		size = 6024
-	 } 
-	soldiers = {
-		culture = german
-		religion = secularism
-		size = 384
-	 } 
-	aristocrats = {
-		culture = german
-		religion =  catholic 
-		size = 12549
-	 } 
-	aristocrats = {
-		culture = german
-		religion = secularism
-		size = 801
-	 } 
-	bureaucrats = {
-		culture = german
-		religion =  catholic 
-		size = 626
-	 } 
-	bureaucrats = {
-		culture = german
-		religion = secularism
-		size = 40
-	 } 
-	capitalists = {
-		culture = german
-		religion =  catholic 
-		size = 1567
-	 } 
-	capitalists = {
-		culture = german
-		religion = secularism
-		size = 100
-	 } 
-	clergymen = {
-		culture = german
-		religion =  catholic 
-		size = 6274
-	 } 
-	clergymen = {
-		culture = german
-		religion = secularism
-		size = 400
-	 } 
-	clerks = {
-		culture = german
-		religion =  catholic 
-		size = 5399
-	 } 
-	clerks = {
-		culture = german
-		religion = secularism
-		size = 344
-	 } 
-	artisans = {
-		culture = german
-		religion =  catholic 
-		size = 5128
-	 } 
-	artisans = {
-		culture = german
-		religion = secularism
-		size = 327
-	 } 
-	craftsmen = {
-		culture = german
-		religion =  catholic 
-		size = 16198
-	 } 
-	craftsmen = {
-		culture = german
-		religion = secularism
-		size = 1033
-	 } 
-	farmers = {
-		culture = german
-		religion =  catholic 
-		size = 253681
-	 } 
-	farmers = {
-		culture = german
-		religion = secularism
-		size = 16192
-	 } 
+  officers = {
+    culture = polish
+    religion =  catholic
+    size = 614
+  }
+  officers = {
+    culture = polish
+    religion = secularism
+    size = 39
+  }
+  soldiers = {
+    culture = polish
+    religion =  catholic
+    size = 5659
+  }
+  soldiers = {
+    culture = polish
+    religion = secularism
+    size = 361
+  }
+  soldiers = {
+    culture = german
+    religion =  catholic
+    size = 6024
+  }
+  soldiers = {
+    culture = german
+    religion = secularism
+    size = 384
+  }
+  aristocrats = {
+    culture = german
+    religion =  catholic
+    size = 12549
+  }
+  aristocrats = {
+    culture = german
+    religion = secularism
+    size = 801
+  }
+  bureaucrats = {
+    culture = german
+    religion =  catholic
+    size = 626
+  }
+  bureaucrats = {
+    culture = german
+    religion = secularism
+    size = 40
+  }
+  capitalists = {
+    culture = german
+    religion =  catholic
+    size = 1567
+  }
+  capitalists = {
+    culture = german
+    religion = secularism
+    size = 100
+  }
+  clergymen = {
+    culture = german
+    religion =  catholic
+    size = 6274
+  }
+  clergymen = {
+    culture = german
+    religion = secularism
+    size = 400
+  }
+  clerks = {
+    culture = german
+    religion =  catholic
+    size = 5399
+  }
+  clerks = {
+    culture = german
+    religion = secularism
+    size = 344
+  }
+  artisans = {
+    culture = german
+    religion =  catholic
+    size = 5128
+  }
+  artisans = {
+    culture = german
+    religion = secularism
+    size = 327
+  }
+  craftsmen = {
+    culture = german
+    religion =  catholic
+    size = 16198
+  }
+  craftsmen = {
+    culture = german
+    religion = secularism
+    size = 1033
+  }
+  farmers = {
+    culture = german
+    religion =  catholic
+    size = 253681
+  }
+  farmers = {
+    culture = german
+    religion = secularism
+    size = 16192
+  }
 }
 #Liegnitz - Liegnitz (1051000/262750 POPS)
 683 = {
-	clergymen = {
-		culture = polish
-		religion =  catholic 
-		size = 4939
-	 } 
-	clergymen = {
-		culture = polish
-		religion = secularism
-		size = 315
-	 } 
-	farmers = {
-		culture = german
-		religion =  catholic 
-		size = 242045
-	 } 
-	farmers = {
-		culture = german
-		religion = secularism
-		size = 15449
-	 } 
+  clergymen = {
+    culture = polish
+    religion =  catholic
+    size = 4939
+  }
+  clergymen = {
+    culture = polish
+    religion = secularism
+    size = 315
+  }
+  farmers = {
+    culture = german
+    religion =  catholic
+    size = 242045
+  }
+  farmers = {
+    culture = german
+    religion = secularism
+    size = 15449
+  }
 }
 #Oppeln - Oppeln (849000/212250 POPS)
 684 = {
-	clergymen = {
-		culture = polish
-		religion =  catholic 
-		size = 3990
-	 } 
-	clergymen = {
-		culture = polish
-		religion = secularism
-		size = 254
-	 } 
-	farmers = {
-		culture = polish
-		religion =  catholic 
-		size = 41897
-	 } 
-	farmers = {
-		culture = polish
-		religion = secularism
-		size = 2674
-	 } 
-	farmers = {
-		culture = german
-		religion =  catholic 
-		size = 113723
-	 } 
-	farmers = {
-		culture = german
-		religion = secularism
-		size = 7258
-	 } 
-	farmers = {
-		culture = silesians
-		religion =  catholic 
-		size = 39903
-	 } 
-	farmers = {
-		culture = silesians
-		religion = secularism
-		size = 2547
-	 } 
+  clergymen = {
+    culture = polish
+    religion =  catholic
+    size = 3990
+  }
+  clergymen = {
+    culture = polish
+    religion = secularism
+    size = 254
+  }
+  farmers = {
+    culture = polish
+    religion =  catholic
+    size = 41897
+  }
+  farmers = {
+    culture = polish
+    religion = secularism
+    size = 2674
+  }
+  farmers = {
+    culture = german
+    religion =  catholic
+    size = 113723
+  }
+  farmers = {
+    culture = german
+    religion = secularism
+    size = 7258
+  }
+  farmers = {
+    culture = silesians
+    religion =  catholic
+    size = 39903
+  }
+  farmers = {
+    culture = silesians
+    religion = secularism
+    size = 2547
+  }
 }
 #Kattowitz - Kattowitz (3250000/812500 POPS)
 685 = {
-	officers = {
-		culture = polish
-		religion =  catholic 
-		size = 722
-	 } 
-	officers = {
-		culture = polish
-		religion = secularism
-		size = 46
-	 } 
-	soldiers = {
-		culture = polish
-		religion =  catholic 
-		size = 13748
-	 } 
-	soldiers = {
-		culture = polish
-		religion = secularism
-		size = 877
-	 } 
-	aristocrats = {
-		culture = polish
-		religion =  catholic 
-		size = 30550
-	 } 
-	aristocrats = {
-		culture = polish
-		religion = secularism
-		size = 1950
-	 } 
-	bureaucrats = {
-		culture = polish
-		religion =  catholic 
-		size = 1527
-	 } 
-	bureaucrats = {
-		culture = polish
-		religion = secularism
-		size = 97
-	 } 
-	capitalists = {
-		culture = polish
-		religion =  catholic 
-		size = 3818
-	 } 
-	capitalists = {
-		culture = polish
-		religion = secularism
-		size = 243
-	 } 
-	clergymen = {
-		culture = polish
-		religion =  catholic 
-		size = 15275
-	 } 
-	clergymen = {
-		culture = polish
-		religion = secularism
-		size = 975
-	 } 
-	clerks = {
-		culture = polish
-		religion =  catholic 
-		size = 13422
-	 } 
-	clerks = {
-		culture = polish
-		religion = secularism
-		size = 856
-	 } 
-	artisans = {
-		culture = polish
-		religion =  catholic 
-		size = 12751
-	 } 
-	artisans = {
-		culture = polish
-		religion = secularism
-		size = 813
-	 } 
-	craftsmen = {
-		culture = polish
-		religion =  catholic 
-		size = 40266
-	 } 
-	craftsmen = {
-		culture = polish
-		religion = secularism
-		size = 2570
-	 } 
-	farmers = {
-		culture = polish
-		religion =  catholic 
-		size = 540017
-	 } 
-	farmers = {
-		culture = polish
-		religion = secularism
-		size = 34469
-	 } 
-	farmers = {
-		culture = silesians
-		religion =  catholic 
-		size = 61100
-	 } 
-	farmers = {
-		culture = silesians
-		religion = secularism
-		size = 3900
-	 } 
-	farmers = {
-		culture = german
-		religion =  catholic 
-		size = 30550
-	 } 
-	farmers = {
-		culture = german
-		religion = secularism
-		size = 1950
-	 } 
+  officers = {
+    culture = polish
+    religion =  catholic
+    size = 722
+  }
+  officers = {
+    culture = polish
+    religion = secularism
+    size = 46
+  }
+  soldiers = {
+    culture = polish
+    religion =  catholic
+    size = 13748
+  }
+  soldiers = {
+    culture = polish
+    religion = secularism
+    size = 877
+  }
+  aristocrats = {
+    culture = polish
+    religion =  catholic
+    size = 30550
+  }
+  aristocrats = {
+    culture = polish
+    religion = secularism
+    size = 1950
+  }
+  bureaucrats = {
+    culture = polish
+    religion =  catholic
+    size = 1527
+  }
+  bureaucrats = {
+    culture = polish
+    religion = secularism
+    size = 97
+  }
+  capitalists = {
+    culture = polish
+    religion =  catholic
+    size = 3818
+  }
+  capitalists = {
+    culture = polish
+    religion = secularism
+    size = 243
+  }
+  clergymen = {
+    culture = polish
+    religion =  catholic
+    size = 15275
+  }
+  clergymen = {
+    culture = polish
+    religion = secularism
+    size = 975
+  }
+  clerks = {
+    culture = polish
+    religion =  catholic
+    size = 13422
+  }
+  clerks = {
+    culture = polish
+    religion = secularism
+    size = 856
+  }
+  artisans = {
+    culture = polish
+    religion =  catholic
+    size = 12751
+  }
+  artisans = {
+    culture = polish
+    religion = secularism
+    size = 813
+  }
+  craftsmen = {
+    culture = polish
+    religion =  catholic
+    size = 40266
+  }
+  craftsmen = {
+    culture = polish
+    religion = secularism
+    size = 2570
+  }
+  farmers = {
+    culture = polish
+    religion =  catholic
+    size = 540017
+  }
+  farmers = {
+    culture = polish
+    religion = secularism
+    size = 34469
+  }
+  farmers = {
+    culture = silesians
+    religion =  catholic
+    size = 61100
+  }
+  farmers = {
+    culture = silesians
+    religion = secularism
+    size = 3900
+  }
+  farmers = {
+    culture = german
+    religion =  catholic
+    size = 30550
+  }
+  farmers = {
+    culture = german
+    religion = secularism
+    size = 1950
+  }
 }
 #Danzig - Danzig (1160000/290000 POPS)
 690 = {
-	officers = {
-		culture = polish
-		religion =  catholic 
-		size = 396
-	 } 
-	officers = {
-		culture = polish
-		religion = secularism
-		size = 25
-	 } 
-	soldiers = {
-		culture = polish
-		religion =  catholic 
-		size = 7549
-	 } 
-	soldiers = {
-		culture = polish
-		religion = secularism
-		size = 481
-	 } 
-	aristocrats = {
-		culture = polish
-		religion =  catholic 
-		size = 5684
-	 } 
-	aristocrats = {
-		culture = polish
-		religion = secularism
-		size = 362
-	 } 
-	aristocrats = {
-		culture = german
-		religion =  catholic 
-		size = 5219
-	 } 
-	aristocrats = {
-		culture = german
-		religion = secularism
-		size = 333
-	 } 
-	bureaucrats = {
-		culture = german
-		religion =  catholic 
-		size = 545
-	 } 
-	bureaucrats = {
-		culture = german
-		religion = secularism
-		size = 34
-	 } 
-	capitalists = {
-		culture = german
-		religion =  catholic 
-		size = 1363
-	 } 
-	capitalists = {
-		culture = german
-		religion = secularism
-		size = 87
-	 } 
-	clergymen = {
-		culture = german
-		religion =  catholic 
-		size = 5452
-	 } 
-	clergymen = {
-		culture = german
-		religion = secularism
-		size = 348
-	 } 
-	clerks = {
-		culture = german
-		religion =  catholic 
-		size = 4740
-	 } 
-	clerks = {
-		culture = german
-		religion = secularism
-		size = 302
-	 } 
-	artisans = {
-		culture = german
-		religion =  catholic 
-		size = 4503
-	 } 
-	artisans = {
-		culture = german
-		religion = secularism
-		size = 287
-	 } 
-	craftsmen = {
-		culture = german
-		religion =  catholic 
-		size = 14222
-	 } 
-	craftsmen = {
-		culture = german
-		religion = secularism
-		size = 907
-	 } 
-	farmers = {
-		culture = german
-		religion =  catholic 
-		size = 222923
-	 } 
-	farmers = {
-		culture = german
-		religion = secularism
-		size = 14229
-	 } 
+  officers = {
+    culture = polish
+    religion =  catholic
+    size = 396
+  }
+  officers = {
+    culture = polish
+    religion = secularism
+    size = 25
+  }
+  soldiers = {
+    culture = polish
+    religion =  catholic
+    size = 7549
+  }
+  soldiers = {
+    culture = polish
+    religion = secularism
+    size = 481
+  }
+  aristocrats = {
+    culture = polish
+    religion =  catholic
+    size = 5684
+  }
+  aristocrats = {
+    culture = polish
+    religion = secularism
+    size = 362
+  }
+  aristocrats = {
+    culture = german
+    religion =  catholic
+    size = 5219
+  }
+  aristocrats = {
+    culture = german
+    religion = secularism
+    size = 333
+  }
+  bureaucrats = {
+    culture = german
+    religion =  catholic
+    size = 545
+  }
+  bureaucrats = {
+    culture = german
+    religion = secularism
+    size = 34
+  }
+  capitalists = {
+    culture = german
+    religion =  catholic
+    size = 1363
+  }
+  capitalists = {
+    culture = german
+    religion = secularism
+    size = 87
+  }
+  clergymen = {
+    culture = german
+    religion =  catholic
+    size = 5452
+  }
+  clergymen = {
+    culture = german
+    religion = secularism
+    size = 348
+  }
+  clerks = {
+    culture = german
+    religion =  catholic
+    size = 4740
+  }
+  clerks = {
+    culture = german
+    religion = secularism
+    size = 302
+  }
+  artisans = {
+    culture = german
+    religion =  catholic
+    size = 4503
+  }
+  artisans = {
+    culture = german
+    religion = secularism
+    size = 287
+  }
+  craftsmen = {
+    culture = german
+    religion =  catholic
+    size = 14222
+  }
+  craftsmen = {
+    culture = german
+    religion = secularism
+    size = 907
+  }
+  farmers = {
+    culture = german
+    religion =  catholic
+    size = 222923
+  }
+  farmers = {
+    culture = german
+    religion = secularism
+    size = 14229
+  }
 }
 #Tuchel - Tuchel (466000/116500 POPS)
 691 = {
-	clergymen = {
-		culture = polish
-		religion =  catholic 
-		size = 2190
-	 } 
-	clergymen = {
-		culture = polish
-		religion = secularism
-		size = 139
-	 } 
-	farmers = {
-		culture = polish
-		religion =  catholic 
-		size = 96368
-	 } 
-	farmers = {
-		culture = polish
-		religion = secularism
-		size = 6151
-	 } 
-	farmers = {
-		culture = german
-		religion =  catholic 
-		size = 10951
-	 } 
-	farmers = {
-		culture = german
-		religion = secularism
-		size = 699
-	 } 
+  clergymen = {
+    culture = polish
+    religion =  catholic
+    size = 2190
+  }
+  clergymen = {
+    culture = polish
+    religion = secularism
+    size = 139
+  }
+  farmers = {
+    culture = polish
+    religion =  catholic
+    size = 96368
+  }
+  farmers = {
+    culture = polish
+    religion = secularism
+    size = 6151
+  }
+  farmers = {
+    culture = german
+    religion =  catholic
+    size = 10951
+  }
+  farmers = {
+    culture = german
+    religion = secularism
+    size = 699
+  }
 }
 #Deutsch Krone - Deutsch Krone (380000/95000 POPS)
 692 = {
-	clergymen = {
-		culture = polish
-		religion =  catholic 
-		size = 1786
-	 } 
-	clergymen = {
-		culture = polish
-		religion = secularism
-		size = 114
-	 } 
-	farmers = {
-		culture = polish
-		religion =  catholic 
-		size = 7144
-	 } 
-	farmers = {
-		culture = polish
-		religion = secularism
-		size = 456
-	 } 
-	farmers = {
-		culture = german
-		religion =  catholic 
-		size = 80370
-	 } 
-	farmers = {
-		culture = german
-		religion = secularism
-		size = 5130
-	 } 
+  clergymen = {
+    culture = polish
+    religion =  catholic
+    size = 1786
+  }
+  clergymen = {
+    culture = polish
+    religion = secularism
+    size = 114
+  }
+  farmers = {
+    culture = polish
+    religion =  catholic
+    size = 7144
+  }
+  farmers = {
+    culture = polish
+    religion = secularism
+    size = 456
+  }
+  farmers = {
+    culture = german
+    religion =  catholic
+    size = 80370
+  }
+  farmers = {
+    culture = german
+    religion = secularism
+    size = 5130
+  }
 }
 #Elbing - Elbing (384000/96000 POPS)
 693 = {
-	officers = {
-		culture = polish
-		religion =  catholic 
-		size = 130
-	 } 
-	officers = {
-		culture = polish
-		religion = secularism
-		size = 8
-	 } 
-	soldiers = {
-		culture = polish
-		religion =  catholic 
-		size = 2498
-	 } 
-	soldiers = {
-		culture = polish
-		religion = secularism
-		size = 159
-	 } 
-	aristocrats = {
-		culture = polish
-		religion =  catholic 
-		size = 3609
-	 } 
-	aristocrats = {
-		culture = polish
-		religion = secularism
-		size = 230
-	 } 
-	bureaucrats = {
-		culture = polish
-		religion =  catholic 
-		size = 180
-	 } 
-	bureaucrats = {
-		culture = polish
-		religion = secularism
-		size = 11
-	 } 
-	capitalists = {
-		culture = polish
-		religion =  catholic 
-		size = 451
-	 } 
-	capitalists = {
-		culture = polish
-		religion = secularism
-		size = 28
-	 } 
-	clergymen = {
-		culture = polish
-		religion =  catholic 
-		size = 1804
-	 } 
-	clergymen = {
-		culture = polish
-		religion = secularism
-		size = 115
-	 } 
-	clerks = {
-		culture = polish
-		religion =  catholic 
-		size = 1568
-	 } 
-	clerks = {
-		culture = polish
-		religion = secularism
-		size = 100
-	 } 
-	artisans = {
-		culture = polish
-		religion =  catholic 
-		size = 1490
-	 } 
-	artisans = {
-		culture = polish
-		religion = secularism
-		size = 95
-	 } 
-	craftsmen = {
-		culture = polish
-		religion =  catholic 
-		size = 898
-	 } 
-	craftsmen = {
-		culture = polish
-		religion = secularism
-		size = 57
-	 } 
-	craftsmen = {
-		culture = german
-		religion =  catholic 
-		size = 3808
-	 } 
-	craftsmen = {
-		culture = german
-		religion = secularism
-		size = 243
-	 } 
-	farmers = {
-		culture = german
-		religion =  catholic 
-		size = 73797
-	 } 
-	farmers = {
-		culture = german
-		religion = secularism
-		size = 4710
-	 } 
+  officers = {
+    culture = polish
+    religion =  catholic
+    size = 130
+  }
+  officers = {
+    culture = polish
+    religion = secularism
+    size = 8
+  }
+  soldiers = {
+    culture = polish
+    religion =  catholic
+    size = 2498
+  }
+  soldiers = {
+    culture = polish
+    religion = secularism
+    size = 159
+  }
+  aristocrats = {
+    culture = polish
+    religion =  catholic
+    size = 3609
+  }
+  aristocrats = {
+    culture = polish
+    religion = secularism
+    size = 230
+  }
+  bureaucrats = {
+    culture = polish
+    religion =  catholic
+    size = 180
+  }
+  bureaucrats = {
+    culture = polish
+    religion = secularism
+    size = 11
+  }
+  capitalists = {
+    culture = polish
+    religion =  catholic
+    size = 451
+  }
+  capitalists = {
+    culture = polish
+    religion = secularism
+    size = 28
+  }
+  clergymen = {
+    culture = polish
+    religion =  catholic
+    size = 1804
+  }
+  clergymen = {
+    culture = polish
+    religion = secularism
+    size = 115
+  }
+  clerks = {
+    culture = polish
+    religion =  catholic
+    size = 1568
+  }
+  clerks = {
+    culture = polish
+    religion = secularism
+    size = 100
+  }
+  artisans = {
+    culture = polish
+    religion =  catholic
+    size = 1490
+  }
+  artisans = {
+    culture = polish
+    religion = secularism
+    size = 95
+  }
+  craftsmen = {
+    culture = polish
+    religion =  catholic
+    size = 898
+  }
+  craftsmen = {
+    culture = polish
+    religion = secularism
+    size = 57
+  }
+  craftsmen = {
+    culture = german
+    religion =  catholic
+    size = 3808
+  }
+  craftsmen = {
+    culture = german
+    religion = secularism
+    size = 243
+  }
+  farmers = {
+    culture = german
+    religion =  catholic
+    size = 73797
+  }
+  farmers = {
+    culture = german
+    religion = secularism
+    size = 4710
+  }
 }
 #Torun - Torun (531000/132750 POPS)
 694 = {
-	clergymen = {
-		culture = polish
-		religion =  catholic 
-		size = 2495
-	 } 
-	clergymen = {
-		culture = polish
-		religion = secularism
-		size = 159
-	 } 
-	farmers = {
-		culture = polish
-		religion =  catholic 
-		size = 122289
-	 } 
-	farmers = {
-		culture = polish
-		religion = secularism
-		size = 7805
-	 } 
+  clergymen = {
+    culture = polish
+    religion =  catholic
+    size = 2495
+  }
+  clergymen = {
+    culture = polish
+    religion = secularism
+    size = 159
+  }
+  farmers = {
+    culture = polish
+    religion =  catholic
+    size = 122289
+  }
+  farmers = {
+    culture = polish
+    religion = secularism
+    size = 7805
+  }
 }
 #Allenstein - Allenstein (592000/148000 POPS)
 696 = {
-	clergymen = {
-		culture = polish
-		religion =  catholic 
-		size = 2782
-	 } 
-	clergymen = {
-		culture = polish
-		religion = secularism
-		size = 177
-	 } 
-	farmers = {
-		culture = polish
-		religion =  catholic 
-		size = 59821
-	 } 
-	farmers = {
-		culture = polish
-		religion = secularism
-		size = 3818
-	 } 
-	farmers = {
-		culture = german
-		religion =  catholic 
-		size = 76516
-	 } 
-	farmers = {
-		culture = german
-		religion = secularism
-		size = 4884
-	 } 
+  clergymen = {
+    culture = polish
+    religion =  catholic
+    size = 2782
+  }
+  clergymen = {
+    culture = polish
+    religion = secularism
+    size = 177
+  }
+  farmers = {
+    culture = polish
+    religion =  catholic
+    size = 59821
+  }
+  farmers = {
+    culture = polish
+    religion = secularism
+    size = 3818
+  }
+  farmers = {
+    culture = german
+    religion =  catholic
+    size = 76516
+  }
+  farmers = {
+    culture = german
+    religion = secularism
+    size = 4884
+  }
 }
 #Posen - Posen (1388000/347000 POPS)
 699 = {
-	officers = {
-		culture = polish
-		religion =  catholic 
-		size = 289
-	 } 
-	officers = {
-		culture = polish
-		religion = secularism
-		size = 18
-	 } 
-	soldiers = {
-		culture = polish
-		religion =  catholic 
-		size = 5504
-	 } 
-	soldiers = {
-		culture = polish
-		religion = secularism
-		size = 351
-	 } 
-	aristocrats = {
-		culture = polish
-		religion =  catholic 
-		size = 13047
-	 } 
-	aristocrats = {
-		culture = polish
-		religion = secularism
-		size = 832
-	 } 
-	bureaucrats = {
-		culture = polish
-		religion =  catholic 
-		size = 652
-	 } 
-	bureaucrats = {
-		culture = polish
-		religion = secularism
-		size = 41
-	 } 
-	capitalists = {
-		culture = polish
-		religion =  catholic 
-		size = 1630
-	 } 
-	capitalists = {
-		culture = polish
-		religion = secularism
-		size = 104
-	 } 
-	clergymen = {
-		culture = polish
-		religion =  catholic 
-		size = 6523
-	 } 
-	clergymen = {
-		culture = polish
-		religion = secularism
-		size = 416
-	 } 
-	clerks = {
-		culture = polish
-		religion =  catholic 
-		size = 5738
-	 } 
-	clerks = {
-		culture = polish
-		religion = secularism
-		size = 366
-	 } 
-	artisans = {
-		culture = polish
-		religion =  catholic 
-		size = 5452
-	 } 
-	artisans = {
-		culture = polish
-		religion = secularism
-		size = 348
-	 } 
-	craftsmen = {
-		culture = polish
-		religion =  catholic 
-		size = 17217
-	 } 
-	craftsmen = {
-		culture = polish
-		religion = secularism
-		size = 1098
-	 } 
-	farmers = {
-		culture = polish
-		religion =  catholic 
-		size = 237506
-	 } 
-	farmers = {
-		culture = polish
-		religion = secularism
-		size = 15159
-	 } 
-	farmers = {
-		culture = german
-		religion =  catholic 
-		size = 32617
-	 } 
-	farmers = {
-		culture = german
-		religion = secularism
-		size = 2082
-	 } 
+  officers = {
+    culture = polish
+    religion =  catholic
+    size = 289
+  }
+  officers = {
+    culture = polish
+    religion = secularism
+    size = 18
+  }
+  soldiers = {
+    culture = polish
+    religion =  catholic
+    size = 5504
+  }
+  soldiers = {
+    culture = polish
+    religion = secularism
+    size = 351
+  }
+  aristocrats = {
+    culture = polish
+    religion =  catholic
+    size = 13047
+  }
+  aristocrats = {
+    culture = polish
+    religion = secularism
+    size = 832
+  }
+  bureaucrats = {
+    culture = polish
+    religion =  catholic
+    size = 652
+  }
+  bureaucrats = {
+    culture = polish
+    religion = secularism
+    size = 41
+  }
+  capitalists = {
+    culture = polish
+    religion =  catholic
+    size = 1630
+  }
+  capitalists = {
+    culture = polish
+    religion = secularism
+    size = 104
+  }
+  clergymen = {
+    culture = polish
+    religion =  catholic
+    size = 6523
+  }
+  clergymen = {
+    culture = polish
+    religion = secularism
+    size = 416
+  }
+  clerks = {
+    culture = polish
+    religion =  catholic
+    size = 5738
+  }
+  clerks = {
+    culture = polish
+    religion = secularism
+    size = 366
+  }
+  artisans = {
+    culture = polish
+    religion =  catholic
+    size = 5452
+  }
+  artisans = {
+    culture = polish
+    religion = secularism
+    size = 348
+  }
+  craftsmen = {
+    culture = polish
+    religion =  catholic
+    size = 17217
+  }
+  craftsmen = {
+    culture = polish
+    religion = secularism
+    size = 1098
+  }
+  farmers = {
+    culture = polish
+    religion =  catholic
+    size = 237506
+  }
+  farmers = {
+    culture = polish
+    religion = secularism
+    size = 15159
+  }
+  farmers = {
+    culture = german
+    religion =  catholic
+    size = 32617
+  }
+  farmers = {
+    culture = german
+    religion = secularism
+    size = 2082
+  }
 }
 #Bromberg - Bromberg (435000/108750 POPS)
 700 = {
-	clergymen = {
-		culture = polish
-		religion =  catholic 
-		size = 2044
-	 } 
-	clergymen = {
-		culture = polish
-		religion = secularism
-		size = 130
-	 } 
-	farmers = {
-		culture = polish
-		religion =  catholic 
-		size = 100180
-	 } 
-	farmers = {
-		culture = polish
-		religion = secularism
-		size = 6394
-	 } 
+  clergymen = {
+    culture = polish
+    religion =  catholic
+    size = 2044
+  }
+  clergymen = {
+    culture = polish
+    religion = secularism
+    size = 130
+  }
+  farmers = {
+    culture = polish
+    religion =  catholic
+    size = 100180
+  }
+  farmers = {
+    culture = polish
+    religion = secularism
+    size = 6394
+  }
 }
 #Gniezno - Gniezno (384000/96000 POPS)
 701 = {
-	clergymen = {
-		culture = polish
-		religion =  catholic 
-		size = 1804
-	 } 
-	clergymen = {
-		culture = polish
-		religion = secularism
-		size = 115
-	 } 
-	farmers = {
-		culture = polish
-		religion =  catholic 
-		size = 88435
-	 } 
-	farmers = {
-		culture = polish
-		religion = secularism
-		size = 5644
-	 } 
+  clergymen = {
+    culture = polish
+    religion =  catholic
+    size = 1804
+  }
+  clergymen = {
+    culture = polish
+    religion = secularism
+    size = 115
+  }
+  farmers = {
+    culture = polish
+    religion =  catholic
+    size = 88435
+  }
+  farmers = {
+    culture = polish
+    religion = secularism
+    size = 5644
+  }
 }
 #Krakow - Krakow (1016000/254000 POPS)
 703 = {
-	capitalists = {
-		culture = jewish
-		religion =  jewish 
-		size = 1193
-	 } 
-	capitalists = {
-		culture = jewish
-		religion = secularism
-		size = 76
-	 } 
-	officers = {
-		culture = polish
-		religion =  catholic 
-		size = 847
-	 } 
-	officers = {
-		culture = polish
-		religion = secularism
-		size = 54
-	 } 
-	soldiers = {
-		culture = polish
-		religion =  catholic 
-		size = 16117
-	 } 
-	soldiers = {
-		culture = polish
-		religion = secularism
-		size = 1028
-	 } 
-	aristocrats = {
-		culture = polish
-		religion =  catholic 
-		size = 9550
-	 } 
-	aristocrats = {
-		culture = polish
-		religion = secularism
-		size = 609
-	 } 
-	bureaucrats = {
-		culture = polish
-		religion =  catholic 
-		size = 477
-	 } 
-	bureaucrats = {
-		culture = polish
-		religion = secularism
-		size = 30
-	 } 
-	clergymen = {
-		culture = polish
-		religion =  catholic 
-		size = 4775
-	 } 
-	clergymen = {
-		culture = polish
-		religion = secularism
-		size = 304
-	 } 
-	clerks = {
-		culture = polish
-		religion =  catholic 
-		size = 3972
-	 } 
-	clerks = {
-		culture = polish
-		religion = secularism
-		size = 253
-	 } 
-	artisans = {
-		culture = polish
-		religion =  catholic 
-		size = 3774
-	 } 
-	artisans = {
-		culture = polish
-		religion = secularism
-		size = 240
-	 } 
-	craftsmen = {
-		culture = polish
-		religion =  catholic 
-		size = 11919
-	 } 
-	craftsmen = {
-		culture = polish
-		religion = secularism
-		size = 760
-	 } 
-	farmers = {
-		culture = polish
-		religion =  catholic 
-		size = 177775
-	 } 
-	farmers = {
-		culture = polish
-		religion = secularism
-		size = 11347
-	 } 
-	farmers = {
-		culture = jewish
-		religion =  jewish 
-		size = 8356
-	 } 
-	farmers = {
-		culture = jewish
-		religion = secularism
-		size = 533
-	 } 
+  capitalists = {
+    culture = jewish
+    religion =  jewish
+    size = 1193
+  }
+  capitalists = {
+    culture = jewish
+    religion = secularism
+    size = 76
+  }
+  officers = {
+    culture = polish
+    religion =  catholic
+    size = 847
+  }
+  officers = {
+    culture = polish
+    religion = secularism
+    size = 54
+  }
+  soldiers = {
+    culture = polish
+    religion =  catholic
+    size = 16117
+  }
+  soldiers = {
+    culture = polish
+    religion = secularism
+    size = 1028
+  }
+  aristocrats = {
+    culture = polish
+    religion =  catholic
+    size = 9550
+  }
+  aristocrats = {
+    culture = polish
+    religion = secularism
+    size = 609
+  }
+  bureaucrats = {
+    culture = polish
+    religion =  catholic
+    size = 477
+  }
+  bureaucrats = {
+    culture = polish
+    religion = secularism
+    size = 30
+  }
+  clergymen = {
+    culture = polish
+    religion =  catholic
+    size = 4775
+  }
+  clergymen = {
+    culture = polish
+    religion = secularism
+    size = 304
+  }
+  clerks = {
+    culture = polish
+    religion =  catholic
+    size = 3972
+  }
+  clerks = {
+    culture = polish
+    religion = secularism
+    size = 253
+  }
+  artisans = {
+    culture = polish
+    religion =  catholic
+    size = 3774
+  }
+  artisans = {
+    culture = polish
+    religion = secularism
+    size = 240
+  }
+  craftsmen = {
+    culture = polish
+    religion =  catholic
+    size = 11919
+  }
+  craftsmen = {
+    culture = polish
+    religion = secularism
+    size = 760
+  }
+  farmers = {
+    culture = polish
+    religion =  catholic
+    size = 177775
+  }
+  farmers = {
+    culture = polish
+    religion = secularism
+    size = 11347
+  }
+  farmers = {
+    culture = jewish
+    religion =  jewish
+    size = 8356
+  }
+  farmers = {
+    culture = jewish
+    religion = secularism
+    size = 533
+  }
 }
 #Novy Sacz - Novy Sacz (546000/136500 POPS)
 704 = {
-	clergymen = {
-		culture = polish
-		religion =  catholic 
-		size = 2566
-	 } 
-	clergymen = {
-		culture = polish
-		religion = secularism
-		size = 163
-	 } 
-	farmers = {
-		culture = polish
-		religion =  catholic 
-		size = 125743
-	 } 
-	farmers = {
-		culture = polish
-		religion = secularism
-		size = 8026
-	 } 
+  clergymen = {
+    culture = polish
+    religion =  catholic
+    size = 2566
+  }
+  clergymen = {
+    culture = polish
+    religion = secularism
+    size = 163
+  }
+  farmers = {
+    culture = polish
+    religion =  catholic
+    size = 125743
+  }
+  farmers = {
+    culture = polish
+    religion = secularism
+    size = 8026
+  }
 }
 #Przemysl - Przemysl (1285000/321250 POPS)
 705 = {
-	clergymen = {
-		culture = polish
-		religion =  catholic 
-		size = 6039
-	 } 
-	clergymen = {
-		culture = polish
-		religion = secularism
-		size = 385
-	 } 
-	farmers = {
-		culture = polish
-		religion =  catholic 
-		size = 196283
-	 } 
-	farmers = {
-		culture = polish
-		religion = secularism
-		size = 12528
-	 } 
-	farmers = {
-		culture = ukrainian
-		religion =  orthodox 
-		size = 99651
-	 } 
-	farmers = {
-		culture = ukrainian
-		religion = secularism
-		size = 6360
-	 } 
+  clergymen = {
+    culture = polish
+    religion =  catholic
+    size = 6039
+  }
+  clergymen = {
+    culture = polish
+    religion = secularism
+    size = 385
+  }
+  farmers = {
+    culture = polish
+    religion =  catholic
+    size = 196283
+  }
+  farmers = {
+    culture = polish
+    religion = secularism
+    size = 12528
+  }
+  farmers = {
+    culture = ukrainian
+    religion =  orthodox
+    size = 99651
+  }
+  farmers = {
+    culture = ukrainian
+    religion = secularism
+    size = 6360
+  }
 }
 #Warsaw - Warsaw (2019000/504750 POPS)
 706 = {
-	capitalists = {
-		culture = jewish
-		religion =  jewish 
-		size = 2371
-	 } 
-	capitalists = {
-		culture = jewish
-		religion = secularism
-		size = 151
-	 } 
-	officers = {
-		culture = polish
-		religion =  catholic 
-		size = 1078
-	 } 
-	officers = {
-		culture = polish
-		religion = secularism
-		size = 68
-	 } 
-	soldiers = {
-		culture = polish
-		religion =  catholic 
-		size = 20497
-	 } 
-	soldiers = {
-		culture = polish
-		religion = secularism
-		size = 1308
-	 } 
-	aristocrats = {
-		culture = polish
-		religion =  catholic 
-		size = 18978
-	 } 
-	aristocrats = {
-		culture = polish
-		religion = secularism
-		size = 1211
-	 } 
-	bureaucrats = {
-		culture = polish
-		religion =  catholic 
-		size = 948
-	 } 
-	bureaucrats = {
-		culture = polish
-		religion = secularism
-		size = 60
-	 } 
-	clergymen = {
-		culture = polish
-		religion =  catholic 
-		size = 9489
-	 } 
-	clergymen = {
-		culture = polish
-		religion = secularism
-		size = 605
-	 } 
-	clerks = {
-		culture = polish
-		religion =  catholic 
-		size = 8112
-	 } 
-	clerks = {
-		culture = polish
-		religion = secularism
-		size = 517
-	 } 
-	artisans = {
-		culture = polish
-		religion =  catholic 
-		size = 7707
-	 } 
-	artisans = {
-		culture = polish
-		religion = secularism
-		size = 491
-	 } 
-	craftsmen = {
-		culture = polish
-		religion =  catholic 
-		size = 24338
-	 } 
-	craftsmen = {
-		culture = polish
-		religion = secularism
-		size = 1553
-	 } 
-	farmers = {
-		culture = polish
-		religion =  catholic 
-		size = 364336
-	 } 
-	farmers = {
-		culture = polish
-		religion = secularism
-		size = 23255
-	 } 
-	farmers = {
-		culture = jewish
-		religion =  jewish 
-		size = 16606
-	 } 
-	farmers = {
-		culture = jewish
-		religion = secularism
-		size = 1060
-	 } 
+  capitalists = {
+    culture = jewish
+    religion =  jewish
+    size = 2371
+  }
+  capitalists = {
+    culture = jewish
+    religion = secularism
+    size = 151
+  }
+  officers = {
+    culture = polish
+    religion =  catholic
+    size = 1078
+  }
+  officers = {
+    culture = polish
+    religion = secularism
+    size = 68
+  }
+  soldiers = {
+    culture = polish
+    religion =  catholic
+    size = 20497
+  }
+  soldiers = {
+    culture = polish
+    religion = secularism
+    size = 1308
+  }
+  aristocrats = {
+    culture = polish
+    religion =  catholic
+    size = 18978
+  }
+  aristocrats = {
+    culture = polish
+    religion = secularism
+    size = 1211
+  }
+  bureaucrats = {
+    culture = polish
+    religion =  catholic
+    size = 948
+  }
+  bureaucrats = {
+    culture = polish
+    religion = secularism
+    size = 60
+  }
+  clergymen = {
+    culture = polish
+    religion =  catholic
+    size = 9489
+  }
+  clergymen = {
+    culture = polish
+    religion = secularism
+    size = 605
+  }
+  clerks = {
+    culture = polish
+    religion =  catholic
+    size = 8112
+  }
+  clerks = {
+    culture = polish
+    religion = secularism
+    size = 517
+  }
+  artisans = {
+    culture = polish
+    religion =  catholic
+    size = 7707
+  }
+  artisans = {
+    culture = polish
+    religion = secularism
+    size = 491
+  }
+  craftsmen = {
+    culture = polish
+    religion =  catholic
+    size = 24338
+  }
+  craftsmen = {
+    culture = polish
+    religion = secularism
+    size = 1553
+  }
+  farmers = {
+    culture = polish
+    religion =  catholic
+    size = 364336
+  }
+  farmers = {
+    culture = polish
+    religion = secularism
+    size = 23255
+  }
+  farmers = {
+    culture = jewish
+    religion =  jewish
+    size = 16606
+  }
+  farmers = {
+    culture = jewish
+    religion = secularism
+    size = 1060
+  }
 }
 #Suwalki - Suwalki (367000/91750 POPS)
 707 = {
-	clergymen = {
-		culture = polish
-		religion =  catholic 
-		size = 1724
-	 } 
-	clergymen = {
-		culture = polish
-		religion = secularism
-		size = 110
-	 } 
-	farmers = {
-		culture = polish
-		religion =  catholic 
-		size = 70720
-	 } 
-	farmers = {
-		culture = polish
-		religion = secularism
-		size = 4514
-	 } 
-	farmers = {
-		culture = byelorussian
-		religion =  orthodox 
-		size = 13799
-	 } 
-	farmers = {
-		culture = byelorussian
-		religion = secularism
-		size = 880
-	 } 
+  clergymen = {
+    culture = polish
+    religion =  catholic
+    size = 1724
+  }
+  clergymen = {
+    culture = polish
+    religion = secularism
+    size = 110
+  }
+  farmers = {
+    culture = polish
+    religion =  catholic
+    size = 70720
+  }
+  farmers = {
+    culture = polish
+    religion = secularism
+    size = 4514
+  }
+  farmers = {
+    culture = byelorussian
+    religion =  orthodox
+    size = 13799
+  }
+  farmers = {
+    culture = byelorussian
+    religion = secularism
+    size = 880
+  }
 }
 #Plock - Plock (784000/196000 POPS)
 708 = {
-	clergymen = {
-		culture = polish
-		religion =  catholic 
-		size = 3684
-	 } 
-	clergymen = {
-		culture = polish
-		religion = secularism
-		size = 235
-	 } 
-	farmers = {
-		culture = polish
-		religion =  catholic 
-		size = 180555
-	 } 
-	farmers = {
-		culture = polish
-		religion = secularism
-		size = 11524
-	 } 
+  clergymen = {
+    culture = polish
+    religion =  catholic
+    size = 3684
+  }
+  clergymen = {
+    culture = polish
+    religion = secularism
+    size = 235
+  }
+  farmers = {
+    culture = polish
+    religion =  catholic
+    size = 180555
+  }
+  farmers = {
+    culture = polish
+    religion = secularism
+    size = 11524
+  }
 }
 #Lomza - Lomza (606000/151500 POPS)
 709 = {
-	clergymen = {
-		culture = polish
-		religion =  catholic 
-		size = 2848
-	 } 
-	clergymen = {
-		culture = polish
-		religion = secularism
-		size = 181
-	 } 
-	farmers = {
-		culture = polish
-		religion =  catholic 
-		size = 139561
-	 } 
-	farmers = {
-		culture = polish
-		religion = secularism
-		size = 8908
-	 } 
+  clergymen = {
+    culture = polish
+    religion =  catholic
+    size = 2848
+  }
+  clergymen = {
+    culture = polish
+    religion = secularism
+    size = 181
+  }
+  farmers = {
+    culture = polish
+    religion =  catholic
+    size = 139561
+  }
+  farmers = {
+    culture = polish
+    religion = secularism
+    size = 8908
+  }
 }
 #Skierniewicz - Skierniewicz (257000/64250 POPS)
 710 = {
-	clergymen = {
-		culture = polish
-		religion =  catholic 
-		size = 1207
-	 } 
-	clergymen = {
-		culture = polish
-		religion = secularism
-		size = 77
-	 } 
-	farmers = {
-		culture = polish
-		religion =  catholic 
-		size = 59187
-	 } 
-	farmers = {
-		culture = polish
-		religion = secularism
-		size = 3777
-	 } 
+  clergymen = {
+    culture = polish
+    religion =  catholic
+    size = 1207
+  }
+  clergymen = {
+    culture = polish
+    religion = secularism
+    size = 77
+  }
+  farmers = {
+    culture = polish
+    religion =  catholic
+    size = 59187
+  }
+  farmers = {
+    culture = polish
+    religion = secularism
+    size = 3777
+  }
 }
 #Siedlice - Siedlice (785000/196250 POPS)
 711 = {
-	clergymen = {
-		culture = polish
-		religion =  catholic 
-		size = 3689
-	 } 
-	clergymen = {
-		culture = polish
-		religion = secularism
-		size = 235
-	 } 
-	farmers = {
-		culture = polish
-		religion =  catholic 
-		size = 180785
-	 } 
-	farmers = {
-		culture = polish
-		religion = secularism
-		size = 11539
-	 } 
+  clergymen = {
+    culture = polish
+    religion =  catholic
+    size = 3689
+  }
+  clergymen = {
+    culture = polish
+    religion = secularism
+    size = 235
+  }
+  farmers = {
+    culture = polish
+    religion =  catholic
+    size = 180785
+  }
+  farmers = {
+    culture = polish
+    religion = secularism
+    size = 11539
+  }
 }
 #Lodz - Lodz (1848000/462000 POPS)
 712 = {
-	clergymen = {
-		culture = polish
-		religion =  catholic 
-		size = 8685
-	 } 
-	clergymen = {
-		culture = polish
-		religion = secularism
-		size = 554
-	 } 
-	farmers = {
-		culture = polish
-		religion =  catholic 
-		size = 425594
-	 } 
-	farmers = {
-		culture = polish
-		religion = secularism
-		size = 27165
-	 } 
+  clergymen = {
+    culture = polish
+    religion =  catholic
+    size = 8685
+  }
+  clergymen = {
+    culture = polish
+    religion = secularism
+    size = 554
+  }
+  farmers = {
+    culture = polish
+    religion =  catholic
+    size = 425594
+  }
+  farmers = {
+    culture = polish
+    religion = secularism
+    size = 27165
+  }
 }
 #Radom - Radom (611000/152750 POPS)
 713 = {
-	clergymen = {
-		culture = polish
-		religion =  catholic 
-		size = 2871
-	 } 
-	clergymen = {
-		culture = polish
-		religion = secularism
-		size = 183
-	 } 
-	farmers = {
-		culture = polish
-		religion =  catholic 
-		size = 140713
-	 } 
-	farmers = {
-		culture = polish
-		religion = secularism
-		size = 8981
-	 } 
+  clergymen = {
+    culture = polish
+    religion =  catholic
+    size = 2871
+  }
+  clergymen = {
+    culture = polish
+    religion = secularism
+    size = 183
+  }
+  farmers = {
+    culture = polish
+    religion =  catholic
+    size = 140713
+  }
+  farmers = {
+    culture = polish
+    religion = secularism
+    size = 8981
+  }
 }
 #Tarnow - Tarnow (528000/132000 POPS)
 714 = {
-	clergymen = {
-		culture = polish
-		religion =  catholic 
-		size = 2481
-	 } 
-	clergymen = {
-		culture = polish
-		religion = secularism
-		size = 158
-	 } 
-	farmers = {
-		culture = polish
-		religion =  catholic 
-		size = 121598
-	 } 
-	farmers = {
-		culture = polish
-		religion = secularism
-		size = 7761
-	 } 
+  clergymen = {
+    culture = polish
+    religion =  catholic
+    size = 2481
+  }
+  clergymen = {
+    culture = polish
+    religion = secularism
+    size = 158
+  }
+  farmers = {
+    culture = polish
+    religion =  catholic
+    size = 121598
+  }
+  farmers = {
+    culture = polish
+    religion = secularism
+    size = 7761
+  }
 }
 #Lublin - Lublin (1908000/477000 POPS)
 715 = {
-	clergymen = {
-		culture = polish
-		religion =  catholic 
-		size = 8967
-	 } 
-	clergymen = {
-		culture = polish
-		religion = secularism
-		size = 572
-	 } 
-	farmers = {
-		culture = polish
-		religion =  catholic 
-		size = 439412
-	 } 
-	farmers = {
-		culture = polish
-		religion = secularism
-		size = 28047
-	 } 
+  clergymen = {
+    culture = polish
+    religion =  catholic
+    size = 8967
+  }
+  clergymen = {
+    culture = polish
+    religion = secularism
+    size = 572
+  }
+  farmers = {
+    culture = polish
+    religion =  catholic
+    size = 439412
+  }
+  farmers = {
+    culture = polish
+    religion = secularism
+    size = 28047
+  }
 }
 #Kielce - Kielce (929000/232250 POPS)
 716 = {
-	clergymen = {
-		culture = polish
-		religion =  catholic 
-		size = 4366
-	 } 
-	clergymen = {
-		culture = polish
-		religion = secularism
-		size = 278
-	 } 
-	farmers = {
-		culture = polish
-		religion =  catholic 
-		size = 213948
-	 } 
-	farmers = {
-		culture = polish
-		religion = secularism
-		size = 13656
-	 } 
+  clergymen = {
+    culture = polish
+    religion =  catholic
+    size = 4366
+  }
+  clergymen = {
+    culture = polish
+    religion = secularism
+    size = 278
+  }
+  farmers = {
+    culture = polish
+    religion =  catholic
+    size = 213948
+  }
+  farmers = {
+    culture = polish
+    religion = secularism
+    size = 13656
+  }
 }
 #Kalisz - Kalisz (581000/145250 POPS)
 717 = {
-	clergymen = {
-		culture = polish
-		religion =  catholic 
-		size = 2730
-	 } 
-	clergymen = {
-		culture = polish
-		religion = secularism
-		size = 174
-	 } 
-	farmers = {
-		culture = polish
-		religion =  catholic 
-		size = 133804
-	 } 
-	farmers = {
-		culture = polish
-		religion = secularism
-		size = 8540
-	 } 
+  clergymen = {
+    culture = polish
+    religion =  catholic
+    size = 2730
+  }
+  clergymen = {
+    culture = polish
+    religion = secularism
+    size = 174
+  }
+  farmers = {
+    culture = polish
+    religion =  catholic
+    size = 133804
+  }
+  farmers = {
+    culture = polish
+    religion = secularism
+    size = 8540
+  }
 }
 #Bialystock - Bialystock (558000/139500 POPS)
 719 = {
-	clergymen = {
-		culture = polish
-		religion =  catholic 
-		size = 2622
-	 } 
-	clergymen = {
-		culture = polish
-		religion = secularism
-		size = 167
-	 } 
-	farmers = {
-		culture = polish
-		religion =  catholic 
-		size = 94413
-	 } 
-	farmers = {
-		culture = polish
-		religion = secularism
-		size = 6026
-	 } 
-	farmers = {
-		culture = byelorussian
-		religion =  orthodox 
-		size = 34093
-	 } 
-	farmers = {
-		culture = byelorussian
-		religion = secularism
-		size = 2176
-	 } 
+  clergymen = {
+    culture = polish
+    religion =  catholic
+    size = 2622
+  }
+  clergymen = {
+    culture = polish
+    religion = secularism
+    size = 167
+  }
+  farmers = {
+    culture = polish
+    religion =  catholic
+    size = 94413
+  }
+  farmers = {
+    culture = polish
+    religion = secularism
+    size = 6026
+  }
+  farmers = {
+    culture = byelorussian
+    religion =  orthodox
+    size = 34093
+  }
+  farmers = {
+    culture = byelorussian
+    religion = secularism
+    size = 2176
+  }
 }

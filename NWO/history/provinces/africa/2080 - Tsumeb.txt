@@ -6,18 +6,18 @@ life_rating = 38
 terrain = semi_desert_hills
 colonial = 2
 1992.1.1 = {
-owner = NAM
-controller = NAM
-add_core = NAM
-colonial = 0
-state_building = {
-	level = 1
-	building = home_appliance_factory
-	upgrade = yes
-}
-state_building = {
-	level = 1
-	building = steel_factory
-	upgrade = yes
-}
+  owner = NAM
+  controller = NAM
+  add_core = NAM
+  colonial = 0
+  state_building = {
+    level = 1
+    building = home_appliance_factory
+    upgrade = yes
+  }
+  state_building = {
+    level = 1
+    building = steel_factory
+    upgrade = yes
+  }
 }

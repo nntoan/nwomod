@@ -1,103 +1,103 @@
 #Grenada - Grenada (94000/23500 POPS)
 2233 = {
-	aristocrats = {
-		culture = afro_caribbean
-		religion =  protestant 
-		size = 624
-	 } 
-	aristocrats = {
-		culture = afro_caribbean
-		religion = secularism
-		size = 197
-	 } 
-	bureaucrats = {
-		culture = afro_caribbean
-		religion =  protestant 
-		size = 71
-	 } 
-	bureaucrats = {
-		culture = afro_caribbean
-		religion = secularism
-		size = 22
-	 } 
-	capitalists = {
-		culture = afro_caribbean
-		religion =  protestant 
-		size = 107
-	 } 
-	capitalists = {
-		culture = afro_caribbean
-		religion = secularism
-		size = 33
-	 } 
-	clergymen = {
-		culture = afro_caribbean
-		religion =  protestant 
-		size = 357
-	 } 
-	clergymen = {
-		culture = afro_caribbean
-		religion = secularism
-		size = 112
-	 } 
-	clerks = {
-		culture = afro_caribbean
-		religion =  protestant 
-		size = 260
-	 } 
-	clerks = {
-		culture = afro_caribbean
-		religion = secularism
-		size = 82
-	 } 
-	artisans = {
-		culture = afro_caribbean
-		religion =  protestant 
-		size = 247
-	 } 
-	artisans = {
-		culture = afro_caribbean
-		religion = secularism
-		size = 78
-	 } 
-	craftsmen = {
-		culture = afro_caribbean
-		religion =  protestant 
-		size = 782
-	 } 
-	craftsmen = {
-		culture = afro_caribbean
-		religion = secularism
-		size = 247
-	 } 
-	farmers = {
-		culture = afro_caribbean
-		religion =  protestant 
-		size = 12193
-	 } 
-	farmers = {
-		culture = afro_caribbean
-		religion = secularism
-		size = 3850
-	 } 
-	farmers = {
-		culture = indian
-		religion =  hindu 
-		size = 893
-	 } 
-	farmers = {
-		culture = indian
-		religion = secularism
-		size = 282
-	 } 
-	farmers = {
-		culture = caribbean_spanish
-		religion =  catholic 
-		size = 2321
-	 } 
-	farmers = {
-		culture = caribbean_spanish
-		religion = secularism
-		size = 733
-	 } 
+  aristocrats = {
+    culture = afro_caribbean
+    religion =  protestant
+    size = 624
+  }
+  aristocrats = {
+    culture = afro_caribbean
+    religion = secularism
+    size = 197
+  }
+  bureaucrats = {
+    culture = afro_caribbean
+    religion =  protestant
+    size = 71
+  }
+  bureaucrats = {
+    culture = afro_caribbean
+    religion = secularism
+    size = 22
+  }
+  capitalists = {
+    culture = afro_caribbean
+    religion =  protestant
+    size = 107
+  }
+  capitalists = {
+    culture = afro_caribbean
+    religion = secularism
+    size = 33
+  }
+  clergymen = {
+    culture = afro_caribbean
+    religion =  protestant
+    size = 357
+  }
+  clergymen = {
+    culture = afro_caribbean
+    religion = secularism
+    size = 112
+  }
+  clerks = {
+    culture = afro_caribbean
+    religion =  protestant
+    size = 260
+  }
+  clerks = {
+    culture = afro_caribbean
+    religion = secularism
+    size = 82
+  }
+  artisans = {
+    culture = afro_caribbean
+    religion =  protestant
+    size = 247
+  }
+  artisans = {
+    culture = afro_caribbean
+    religion = secularism
+    size = 78
+  }
+  craftsmen = {
+    culture = afro_caribbean
+    religion =  protestant
+    size = 782
+  }
+  craftsmen = {
+    culture = afro_caribbean
+    religion = secularism
+    size = 247
+  }
+  farmers = {
+    culture = afro_caribbean
+    religion =  protestant
+    size = 12193
+  }
+  farmers = {
+    culture = afro_caribbean
+    religion = secularism
+    size = 3850
+  }
+  farmers = {
+    culture = indian
+    religion =  hindu
+    size = 893
+  }
+  farmers = {
+    culture = indian
+    religion = secularism
+    size = 282
+  }
+  farmers = {
+    culture = caribbean_spanish
+    religion =  catholic
+    size = 2321
+  }
+  farmers = {
+    culture = caribbean_spanish
+    religion = secularism
+    size = 733
+  }
 }

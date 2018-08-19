@@ -1,492 +1,492 @@
 #Algiers - Algiers, Blida, El TarefBoumerdes (3562000/890500 POPS)
 1700 = {
-	officers = {
-		culture = sunni_arab
-		religion =  sunni 
-		size = 10442
-	 } 
-	soldiers = {
-		culture = sunni_arab
-		religion =  sunni 
-		size = 198399
-	 } 
-	aristocrats = {
-		culture = sunni_arab
-		religion =  sunni 
-		size = 35620
-	 } 
-	bureaucrats = {
-		culture = sunni_arab
-		religion =  sunni 
-		size = 1781
-	 } 
-	capitalists = {
-		culture = sunni_arab
-		religion =  sunni 
-		size = 4452
-	 } 
-	clergymen = {
-		culture = sunni_arab
-		religion =  sunni 
-		size = 17810
-	 } 
-	clerks = {
-		culture = sunni_arab
-		religion =  sunni 
-		size = 18570
-	 } 
-	artisans = {
-		culture = sunni_arab
-		religion =  sunni 
-		size = 17642
-	 } 
-	craftsmen = {
-		culture = sunni_arab
-		religion =  sunni 
-		size = 55712
-	 } 
-	farmers = {
-		culture = sunni_arab
-		religion =  sunni 
-		size = 530072
-	 } 
+  officers = {
+    culture = sunni_arab
+    religion =  sunni
+    size = 10442
+  }
+  soldiers = {
+    culture = sunni_arab
+    religion =  sunni
+    size = 198399
+  }
+  aristocrats = {
+    culture = sunni_arab
+    religion =  sunni
+    size = 35620
+  }
+  bureaucrats = {
+    culture = sunni_arab
+    religion =  sunni
+    size = 1781
+  }
+  capitalists = {
+    culture = sunni_arab
+    religion =  sunni
+    size = 4452
+  }
+  clergymen = {
+    culture = sunni_arab
+    religion =  sunni
+    size = 17810
+  }
+  clerks = {
+    culture = sunni_arab
+    religion =  sunni
+    size = 18570
+  }
+  artisans = {
+    culture = sunni_arab
+    religion =  sunni
+    size = 17642
+  }
+  craftsmen = {
+    culture = sunni_arab
+    religion =  sunni
+    size = 55712
+  }
+  farmers = {
+    culture = sunni_arab
+    religion =  sunni
+    size = 530072
+  }
 }
 #Bougie - Skikda, Jijel, Béjaïa, Tizi Ouzou (2678000/669500 POPS)
 1701 = {
-	clergymen = {
-		culture = sunni_arab
-		religion =  sunni 
-		size = 13390
-	 } 
-	farmers = {
-		culture = sunni_arab
-		religion =  sunni 
-		size = 120510
-	 } 
-	farmers = {
-		culture = berber
-		religion =  sunni 
-		size = 535600
-	 } 
+  clergymen = {
+    culture = sunni_arab
+    religion =  sunni
+    size = 13390
+  }
+  farmers = {
+    culture = sunni_arab
+    religion =  sunni
+    size = 120510
+  }
+  farmers = {
+    culture = berber
+    religion =  sunni
+    size = 535600
+  }
 }
 #Setif - Bouïra, Setif,Bordj Bou Arréridj (2117000/529250 POPS)
 1702 = {
-	clergymen = {
-		culture = sunni_arab
-		religion =  sunni 
-		size = 10585
-	 } 
-	farmers = {
-		culture = sunni_arab
-		religion =  sunni 
-		size = 121727
-	 } 
-	farmers = {
-		culture = berber
-		religion =  sunni 
-		size = 396937
-	 } 
+  clergymen = {
+    culture = sunni_arab
+    religion =  sunni
+    size = 10585
+  }
+  farmers = {
+    culture = sunni_arab
+    religion =  sunni
+    size = 121727
+  }
+  farmers = {
+    culture = berber
+    religion =  sunni
+    size = 396937
+  }
 }
 #Medea - Relizane, Tissemsilt (771000/192750 POPS)
 1703 = {
-	clergymen = {
-		culture = sunni_arab
-		religion =  sunni 
-		size = 3855
-	 } 
-	farmers = {
-		culture = sunni_arab
-		religion =  sunni 
-		size = 131070
-	 } 
-	farmers = {
-		culture = berber
-		religion =  sunni 
-		size = 57825
-	 } 
+  clergymen = {
+    culture = sunni_arab
+    religion =  sunni
+    size = 3855
+  }
+  farmers = {
+    culture = sunni_arab
+    religion =  sunni
+    size = 131070
+  }
+  farmers = {
+    culture = berber
+    religion =  sunni
+    size = 57825
+  }
 }
 #Oran - Oran (1187000/296750 POPS)
 1704 = {
-	officers = {
-		culture = sunni_arab
-		religion =  sunni 
-		size = 4534
-	 } 
-	soldiers = {
-		culture = sunni_arab
-		religion =  sunni 
-		size = 86149
-	 } 
-	aristocrats = {
-		culture = sunni_arab
-		religion =  sunni 
-		size = 11870
-	 } 
-	capitalists = {
-		culture = sunni_arab
-		religion =  sunni 
-		size = 1483
-	 } 
-	clergymen = {
-		culture = sunni_arab
-		religion =  sunni 
-		size = 5935
-	 } 
-	clerks = {
-		culture = sunni_arab
-		religion =  sunni 
-		size = 5614
-	 } 
-	artisans = {
-		culture = sunni_arab
-		religion =  sunni 
-		size = 5333
-	 } 
-	craftsmen = {
-		culture = sunni_arab
-		religion =  sunni 
-		size = 16842
-	 } 
-	farmers = {
-		culture = sunni_arab
-		religion =  sunni 
-		size = 158397
-	 } 
+  officers = {
+    culture = sunni_arab
+    religion =  sunni
+    size = 4534
+  }
+  soldiers = {
+    culture = sunni_arab
+    religion =  sunni
+    size = 86149
+  }
+  aristocrats = {
+    culture = sunni_arab
+    religion =  sunni
+    size = 11870
+  }
+  capitalists = {
+    culture = sunni_arab
+    religion =  sunni
+    size = 1483
+  }
+  clergymen = {
+    culture = sunni_arab
+    religion =  sunni
+    size = 5935
+  }
+  clerks = {
+    culture = sunni_arab
+    religion =  sunni
+    size = 5614
+  }
+  artisans = {
+    culture = sunni_arab
+    religion =  sunni
+    size = 5333
+  }
+  craftsmen = {
+    culture = sunni_arab
+    religion =  sunni
+    size = 16842
+  }
+  farmers = {
+    culture = sunni_arab
+    religion =  sunni
+    size = 158397
+  }
 }
 #Tlemcen - Tlemcen, Ain Timouchent (993000/248250 POPS)
 1705 = {
-	clergymen = {
-		culture = sunni_arab
-		religion =  sunni 
-		size = 4965
-	 } 
-	farmers = {
-		culture = sunni_arab
-		religion =  sunni 
-		size = 243285
-	 } 
+  clergymen = {
+    culture = sunni_arab
+    religion =  sunni
+    size = 4965
+  }
+  farmers = {
+    culture = sunni_arab
+    religion =  sunni
+    size = 243285
+  }
 }
 #Mustaghanim - Chlef, Ain Defla, Tipaza (1800000/450000 POPS)
 1706 = {
-	clergymen = {
-		culture = sunni_arab
-		religion =  sunni 
-		size = 9000
-	 } 
-	farmers = {
-		culture = sunni_arab
-		religion =  sunni 
-		size = 373500
-	 } 
-	farmers = {
-		culture = berber
-		religion =  sunni 
-		size = 67500
-	 } 
+  clergymen = {
+    culture = sunni_arab
+    religion =  sunni
+    size = 9000
+  }
+  farmers = {
+    culture = sunni_arab
+    religion =  sunni
+    size = 373500
+  }
+  farmers = {
+    culture = berber
+    religion =  sunni
+    size = 67500
+  }
 }
 #Mascara - Saïda, Sidi Bel Abbès, Mascara (1341000/335250 POPS)
 1707 = {
-	clergymen = {
-		culture = sunni_arab
-		religion =  sunni 
-		size = 6705
-	 } 
-	farmers = {
-		culture = sunni_arab
-		religion =  sunni 
-		size = 328545
-	 } 
+  clergymen = {
+    culture = sunni_arab
+    religion =  sunni
+    size = 6705
+  }
+  farmers = {
+    culture = sunni_arab
+    religion =  sunni
+    size = 328545
+  }
 }
 #Constantine - Batna, Oum El Bouaghi, Souk Ahras (1660000/415000 POPS)
 1708 = {
-	officers = {
-		culture = sunni_arab
-		religion =  sunni 
-		size = 10462
-	 } 
-	soldiers = {
-		culture = sunni_arab
-		religion =  sunni 
-		size = 198789
-	 } 
-	aristocrats = {
-		culture = sunni_arab
-		religion =  sunni 
-		size = 16600
-	 } 
-	capitalists = {
-		culture = sunni_arab
-		religion =  sunni 
-		size = 2075
-	 } 
-	clergymen = {
-		culture = sunni_arab
-		religion =  sunni 
-		size = 8300
-	 } 
-	clerks = {
-		culture = sunni_arab
-		religion =  sunni 
-		size = 5605
-	 } 
-	artisans = {
-		culture = sunni_arab
-		religion =  sunni 
-		size = 5325
-	 } 
-	craftsmen = {
-		culture = sunni_arab
-		religion =  sunni 
-		size = 16816
-	 } 
-	farmers = {
-		culture = sunni_arab
-		religion =  sunni 
-		size = 150198
-	 } 
+  officers = {
+    culture = sunni_arab
+    religion =  sunni
+    size = 10462
+  }
+  soldiers = {
+    culture = sunni_arab
+    religion =  sunni
+    size = 198789
+  }
+  aristocrats = {
+    culture = sunni_arab
+    religion =  sunni
+    size = 16600
+  }
+  capitalists = {
+    culture = sunni_arab
+    religion =  sunni
+    size = 2075
+  }
+  clergymen = {
+    culture = sunni_arab
+    religion =  sunni
+    size = 8300
+  }
+  clerks = {
+    culture = sunni_arab
+    religion =  sunni
+    size = 5605
+  }
+  artisans = {
+    culture = sunni_arab
+    religion =  sunni
+    size = 5325
+  }
+  craftsmen = {
+    culture = sunni_arab
+    religion =  sunni
+    size = 16816
+  }
+  farmers = {
+    culture = sunni_arab
+    religion =  sunni
+    size = 150198
+  }
 }
 #Bone - Annaba, Guelma, Souk Ahras, El Taref (1478000/369500 POPS)
 1709 = {
-	clergymen = {
-		culture = sunni_arab
-		religion =  sunni 
-		size = 7390
-	 } 
-	farmers = {
-		culture = sunni_arab
-		religion =  sunni 
-		size = 362110
-	 } 
+  clergymen = {
+    culture = sunni_arab
+    religion =  sunni
+    size = 7390
+  }
+  farmers = {
+    culture = sunni_arab
+    religion =  sunni
+    size = 362110
+  }
 }
 #Biskra - Biskra, Batna, Tébessa, Khenchela (2173000/543250 POPS)
 1710 = {
-	clergymen = {
-		culture = sunni_arab
-		religion =  sunni 
-		size = 10865
-	 } 
-	farmers = {
-		culture = sunni_arab
-		religion =  sunni 
-		size = 97785
-	 } 
-	farmers = {
-		culture = berber
-		religion =  sunni 
-		size = 434600
-	 } 
+  clergymen = {
+    culture = sunni_arab
+    religion =  sunni
+    size = 10865
+  }
+  farmers = {
+    culture = sunni_arab
+    religion =  sunni
+    size = 97785
+  }
+  farmers = {
+    culture = berber
+    religion =  sunni
+    size = 434600
+  }
 }
 #Ouargla - Ouargla (413000/103250 POPS)
 1711 = {
-	clergymen = {
-		culture = sunni_arab
-		religion =  sunni 
-		size = 2065
-	 } 
-	farmers = {
-		culture = sunni_arab
-		religion =  sunni 
-		size = 90860
-	 } 
-	farmers = {
-		culture = berber
-		religion =  sunni 
-		size = 10325
-	 } 
+  clergymen = {
+    culture = sunni_arab
+    religion =  sunni
+    size = 2065
+  }
+  farmers = {
+    culture = sunni_arab
+    religion =  sunni
+    size = 90860
+  }
+  farmers = {
+    culture = berber
+    religion =  sunni
+    size = 10325
+  }
 }
 #Tuggurt - El Oued (504000/126000 POPS)
 1712 = {
-	clergymen = {
-		culture = sunni_arab
-		religion =  sunni 
-		size = 2520
-	 } 
-	farmers = {
-		culture = sunni_arab
-		religion =  sunni 
-		size = 16380
-	 } 
-	farmers = {
-		culture = berber
-		religion =  sunni 
-		size = 107100
-	 } 
+  clergymen = {
+    culture = sunni_arab
+    religion =  sunni
+    size = 2520
+  }
+  farmers = {
+    culture = sunni_arab
+    religion =  sunni
+    size = 16380
+  }
+  farmers = {
+    culture = berber
+    religion =  sunni
+    size = 107100
+  }
 }
 #Laghwat - Tiaret , Médéa, Djelfa, Laghouat (2505000/626250 POPS)
 1713 = {
-	officers = {
-		culture = sunni_arab
-		religion =  sunni 
-		size = 6718
-	 } 
-	soldiers = {
-		culture = sunni_arab
-		religion =  sunni 
-		size = 127651
-	 } 
-	aristocrats = {
-		culture = sunni_arab
-		religion =  sunni 
-		size = 25050
-	 } 
-	bureaucrats = {
-		culture = sunni_arab
-		religion =  sunni 
-		size = 1252
-	 } 
-	capitalists = {
-		culture = sunni_arab
-		religion =  sunni 
-		size = 3131
-	 } 
-	clergymen = {
-		culture = sunni_arab
-		religion =  sunni 
-		size = 12525
-	 } 
-	clerks = {
-		culture = sunni_arab
-		religion =  sunni 
-		size = 13400
-	 } 
-	artisans = {
-		culture = sunni_arab
-		religion =  sunni 
-		size = 12730
-	 } 
-	craftsmen = {
-		culture = sunni_arab
-		religion =  sunni 
-		size = 40201
-	 } 
-	farmers = {
-		culture = sunni_arab
-		religion =  sunni 
-		size = 383592
-	 } 
+  officers = {
+    culture = sunni_arab
+    religion =  sunni
+    size = 6718
+  }
+  soldiers = {
+    culture = sunni_arab
+    religion =  sunni
+    size = 127651
+  }
+  aristocrats = {
+    culture = sunni_arab
+    religion =  sunni
+    size = 25050
+  }
+  bureaucrats = {
+    culture = sunni_arab
+    religion =  sunni
+    size = 1252
+  }
+  capitalists = {
+    culture = sunni_arab
+    religion =  sunni
+    size = 3131
+  }
+  clergymen = {
+    culture = sunni_arab
+    religion =  sunni
+    size = 12525
+  }
+  clerks = {
+    culture = sunni_arab
+    religion =  sunni
+    size = 13400
+  }
+  artisans = {
+    culture = sunni_arab
+    religion =  sunni
+    size = 12730
+  }
+  craftsmen = {
+    culture = sunni_arab
+    religion =  sunni
+    size = 40201
+  }
+  farmers = {
+    culture = sunni_arab
+    religion =  sunni
+    size = 383592
+  }
 }
 #Bechar - Bechar (205000/51250 POPS)
 1714 = {
-	clergymen = {
-		culture = sunni_arab
-		religion =  sunni 
-		size = 1025
-	 } 
-	farmers = {
-		culture = sunni_arab
-		religion =  sunni 
-		size = 50225
-	 } 
+  clergymen = {
+    culture = sunni_arab
+    religion =  sunni
+    size = 1025
+  }
+  farmers = {
+    culture = sunni_arab
+    religion =  sunni
+    size = 50225
+  }
 }
 #Naama - Ain Defla (578000/144500 POPS)
 1715 = {
-	clergymen = {
-		culture = sunni_arab
-		religion =  sunni 
-		size = 2890
-	 } 
-	farmers = {
-		culture = sunni_arab
-		religion =  sunni 
-		size = 141610
-	 } 
+  clergymen = {
+    culture = sunni_arab
+    religion =  sunni
+    size = 2890
+  }
+  farmers = {
+    culture = sunni_arab
+    religion =  sunni
+    size = 141610
+  }
 }
 #Tindouf - Tindouf (119000/29750 POPS)
 1716 = {
-	farmers = {
-		culture = sunni_arab
-		religion =  sunni 
-		size = 29155
-	 } 
+  farmers = {
+    culture = sunni_arab
+    religion =  sunni
+    size = 29155
+  }
 }
 #Chenachene - Andar (254000/63500 POPS)
 1717 = {
-	clergymen = {
-		culture = sunni_arab
-		religion =  sunni 
-		size = 1270
-	 } 
-	farmers = {
-		culture = sunni_arab
-		religion =  sunni 
-		size = 62230
-	 } 
+  clergymen = {
+    culture = sunni_arab
+    religion =  sunni
+    size = 1270
+  }
+  farmers = {
+    culture = sunni_arab
+    religion =  sunni
+    size = 62230
+  }
 }
 #In Salah - Ghardaia (281000/70250 POPS)
 1718 = {
-	clergymen = {
-		culture = sunni_arab
-		religion =  sunni 
-		size = 1405
-	 } 
-	farmers = {
-		culture = sunni_arab
-		religion =  sunni 
-		size = 61820
-	 } 
-	farmers = {
-		culture = tuareg
-		religion =  sunni 
-		size = 7025
-	 } 
+  clergymen = {
+    culture = sunni_arab
+    religion =  sunni
+    size = 1405
+  }
+  farmers = {
+    culture = sunni_arab
+    religion =  sunni
+    size = 61820
+  }
+  farmers = {
+    culture = tuareg
+    religion =  sunni
+    size = 7025
+  }
 }
 #Ilizi - Ilizi (40000/10000 POPS)
 1719 = {
-	farmers = {
-		culture = tuareg
-		religion =  sunni 
-		size = 9000
-	 } 
+  farmers = {
+    culture = tuareg
+    religion =  sunni
+    size = 9000
+  }
 }
 #Timimoun - El Bayadh (196000/49000 POPS)
 1720 = {
-	farmers = {
-		culture = sunni_arab
-		religion =  sunni 
-		size = 33320
-	 } 
-	farmers = {
-		culture = berber
-		religion =  sunni 
-		size = 14700
-	 } 
+  farmers = {
+    culture = sunni_arab
+    religion =  sunni
+    size = 33320
+  }
+  farmers = {
+    culture = berber
+    religion =  sunni
+    size = 14700
+  }
 }
 #In Guezzam - Tamanrasset (74000/18500 POPS)
 1721 = {
-	farmers = {
-		culture = sunni_arab
-		religion =  sunni 
-		size = 1480
-	 } 
-	farmers = {
-		culture = tuareg
-		religion =  sunni 
-		size = 16650
-	 } 
+  farmers = {
+    culture = sunni_arab
+    religion =  sunni
+    size = 1480
+  }
+  farmers = {
+    culture = tuareg
+    religion =  sunni
+    size = 16650
+  }
 }
 #Tin Zawatene - Andar (74000/18500 POPS)
 1722 = {
-	farmers = {
-		culture = sunni_arab
-		religion =  sunni 
-		size = 1480
-	 } 
-	farmers = {
-		culture = tuareg
-		religion =  sunni 
-		size = 16650
-	 } 
+  farmers = {
+    culture = sunni_arab
+    religion =  sunni
+    size = 1480
+  }
+  farmers = {
+    culture = tuareg
+    religion =  sunni
+    size = 16650
+  }
 }
 #Tamanrasset - Tamanrasset (73000/18250 POPS)
 1724 = {
-	farmers = {
-		culture = sunni_arab
-		religion =  sunni 
-		size = 1460
-	 } 
-	farmers = {
-		culture = tuareg
-		religion =  sunni 
-		size = 16425
-	 } 
+  farmers = {
+    culture = sunni_arab
+    religion =  sunni
+    size = 1460
+  }
+  farmers = {
+    culture = tuareg
+    religion =  sunni
+    size = 16425
+  }
 }

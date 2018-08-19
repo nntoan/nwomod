@@ -1,113 +1,113 @@
 #Aruba - Aruba (63000/15750 POPS)
 2235 = {
-	capitalists = {
-		culture = british
-		religion =  protestant 
-		size = 32
-	 } 
-	capitalists = {
-		culture = british
-		religion = secularism
-		size = 61
-	 } 
-	aristocrats = {
-		culture = british
-		religion =  protestant 
-		size = 77
-	 } 
-	aristocrats = {
-		culture = british
-		religion = secularism
-		size = 143
-	 } 
-	aristocrats = {
-		culture = brazilian
-		religion =  catholic 
-		size = 60
-	 } 
-	aristocrats = {
-		culture = brazilian
-		religion = secularism
-		size = 111
-	 } 
-	bureaucrats = {
-		culture = brazilian
-		religion =  catholic 
-		size = 32
-	 } 
-	bureaucrats = {
-		culture = brazilian
-		religion = secularism
-		size = 61
-	 } 
-	clergymen = {
-		culture = brazilian
-		religion =  catholic 
-		size = 110
-	 } 
-	clergymen = {
-		culture = brazilian
-		religion = secularism
-		size = 204
-	 } 
-	clerks = {
-		culture = brazilian
-		religion =  catholic 
-		size = 172
-	 } 
-	clerks = {
-		culture = brazilian
-		religion = secularism
-		size = 321
-	 } 
-	artisans = {
-		culture = brazilian
-		religion =  catholic 
-		size = 164
-	 } 
-	artisans = {
-		culture = brazilian
-		religion = secularism
-		size = 304
-	 } 
-	craftsmen = {
-		culture = brazilian
-		religion =  catholic 
-		size = 518
-	 } 
-	craftsmen = {
-		culture = brazilian
-		religion = secularism
-		size = 963
-	 } 
-	farmers = {
-		culture = brazilian
-		religion =  catholic 
-		size = 3461
-	 } 
-	farmers = {
-		culture = brazilian
-		religion = secularism
-		size = 6427
-	 } 
-	farmers = {
-		culture = dutch
-		religion =  catholic 
-		size = 275
-	 } 
-	farmers = {
-		culture = dutch
-		religion = secularism
-		size = 511
-	 } 
-	farmers = {
-		culture = central_american_spanish
-		religion =  catholic 
-		size = 606
-	 } 
-	farmers = {
-		culture = central_american_spanish
-		religion = secularism
-		size = 1125
-	 } 
+  capitalists = {
+    culture = british
+    religion =  protestant
+    size = 32
+  }
+  capitalists = {
+    culture = british
+    religion = secularism
+    size = 61
+  }
+  aristocrats = {
+    culture = british
+    religion =  protestant
+    size = 77
+  }
+  aristocrats = {
+    culture = british
+    religion = secularism
+    size = 143
+  }
+  aristocrats = {
+    culture = brazilian
+    religion =  catholic
+    size = 60
+  }
+  aristocrats = {
+    culture = brazilian
+    religion = secularism
+    size = 111
+  }
+  bureaucrats = {
+    culture = brazilian
+    religion =  catholic
+    size = 32
+  }
+  bureaucrats = {
+    culture = brazilian
+    religion = secularism
+    size = 61
+  }
+  clergymen = {
+    culture = brazilian
+    religion =  catholic
+    size = 110
+  }
+  clergymen = {
+    culture = brazilian
+    religion = secularism
+    size = 204
+  }
+  clerks = {
+    culture = brazilian
+    religion =  catholic
+    size = 172
+  }
+  clerks = {
+    culture = brazilian
+    religion = secularism
+    size = 321
+  }
+  artisans = {
+    culture = brazilian
+    religion =  catholic
+    size = 164
+  }
+  artisans = {
+    culture = brazilian
+    religion = secularism
+    size = 304
+  }
+  craftsmen = {
+    culture = brazilian
+    religion =  catholic
+    size = 518
+  }
+  craftsmen = {
+    culture = brazilian
+    religion = secularism
+    size = 963
+  }
+  farmers = {
+    culture = brazilian
+    religion =  catholic
+    size = 3461
+  }
+  farmers = {
+    culture = brazilian
+    religion = secularism
+    size = 6427
+  }
+  farmers = {
+    culture = dutch
+    religion =  catholic
+    size = 275
+  }
+  farmers = {
+    culture = dutch
+    religion = secularism
+    size = 511
+  }
+  farmers = {
+    culture = central_american_spanish
+    religion =  catholic
+    size = 606
+  }
+  farmers = {
+    culture = central_american_spanish
+    religion = secularism
+    size = 1125
+  }
 }

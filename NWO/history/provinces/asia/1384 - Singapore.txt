@@ -6,9 +6,9 @@ life_rating = 39
 terrain = urban_singapore
 colonial = 2
 1992.1.1 = {
-owner = SNG
-controller = SNG
-add_core = SNG
-railroad = 1
-colonial = 0
+  owner = SNG
+  controller = SNG
+  add_core = SNG
+  railroad = 1
+  colonial = 0
 }

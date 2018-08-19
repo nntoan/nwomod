@@ -6,8 +6,8 @@ life_rating = 20
 terrain = forested_farmland
 colonial = 0
 1992.1.1 = {
-owner = LAT
-controller = LAT
-add_core = LAT
-colonial = 0
+  owner = LAT
+  controller = LAT
+  add_core = LAT
+  colonial = 0
 }

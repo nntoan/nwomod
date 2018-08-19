@@ -14,7 +14,7 @@ country_event = {
 
   option = {
     name = EVT_8028216_A
-	prestige = 5
+    prestige = 5
   }
 }
 
@@ -27,22 +27,22 @@ country_event = {
 
   trigger = {
     tag = CAR
-    year = 2012 
+    year = 2012
   }
 
   mean_time_to_happen = { months = 12 }
 
   option = {
     name = EVT_8028217_A
-	release = SEL
-	any_owned = { limit = { OR = { province_id = 1968 province_id = 1969 province_id = 1970 } } change_controller = SEL }
-	war = { target = SEL attacker_goal = { casus_belli = civil_war } defender_goal = { casus_belli = status_quo } }
+    release = SEL
+    any_owned = { limit = { OR = { province_id = 1968 province_id = 1969 province_id = 1970 } } change_controller = SEL }
+    war = { target = SEL attacker_goal = { casus_belli = civil_war } defender_goal = { casus_belli = status_quo } }
   }
-  
+
   option = {
     name = EVT_8028217_A
-	release = SEL
-	prestige = -10
+    release = SEL
+    prestige = -10
   }
-  
+
 }

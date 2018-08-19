@@ -1,345 +1,345 @@
 #Bamako - Bamako (1037000/259250 POPS)
 1794 = {
-	officers = {
-		culture = french_african
-		religion =  catholic 
-		size = 1324
-	 } 
-	officers = {
-		culture = french_african
-		religion = secularism
-		size = 40
-	 } 
-	soldiers = {
-		culture = french_african
-		religion =  catholic 
-		size = 25170
-	 } 
-	soldiers = {
-		culture = french_african
-		religion = secularism
-		size = 778
-	 } 
-	aristocrats = {
-		culture = french_african
-		religion =  catholic 
-		size = 10058
-	 } 
-	aristocrats = {
-		culture = french_african
-		religion = secularism
-		size = 311
-	 } 
-	bureaucrats = {
-		culture = french_african
-		religion =  catholic 
-		size = 502
-	 } 
-	bureaucrats = {
-		culture = french_african
-		religion = secularism
-		size = 15
-	 } 
-	capitalists = {
-		culture = french_african
-		religion =  catholic 
-		size = 1257
-	 } 
-	capitalists = {
-		culture = french_african
-		religion = secularism
-		size = 38
-	 } 
-	clergymen = {
-		culture = french_african
-		religion =  catholic 
-		size = 5029
-	 } 
-	clergymen = {
-		culture = french_african
-		religion = secularism
-		size = 155
-	 } 
-	clerks = {
-		culture = french_african
-		religion =  catholic 
-		size = 2930
-	 } 
-	clerks = {
-		culture = french_african
-		religion = secularism
-		size = 90
-	 } 
-	artisans = {
-		culture = french_african
-		religion =  catholic 
-		size = 2782
-	 } 
-	artisans = {
-		culture = french_african
-		religion = secularism
-		size = 86
-	 } 
-	craftsmen = {
-		culture = french_african
-		religion =  catholic 
-		size = 8791
-	 } 
-	craftsmen = {
-		culture = french_african
-		religion = secularism
-		size = 271
-	 } 
-	farmers = {
-		culture = french_african
-		religion =  catholic 
-		size = 42742
-	 } 
-	farmers = {
-		culture = french_african
-		religion = secularism
-		size = 1321
-	 } 
-	farmers = {
-		culture = mande
-		religion =  sunni 
-		size = 155550
-	 } 
+  officers = {
+    culture = french_african
+    religion =  catholic
+    size = 1324
+  }
+  officers = {
+    culture = french_african
+    religion = secularism
+    size = 40
+  }
+  soldiers = {
+    culture = french_african
+    religion =  catholic
+    size = 25170
+  }
+  soldiers = {
+    culture = french_african
+    religion = secularism
+    size = 778
+  }
+  aristocrats = {
+    culture = french_african
+    religion =  catholic
+    size = 10058
+  }
+  aristocrats = {
+    culture = french_african
+    religion = secularism
+    size = 311
+  }
+  bureaucrats = {
+    culture = french_african
+    religion =  catholic
+    size = 502
+  }
+  bureaucrats = {
+    culture = french_african
+    religion = secularism
+    size = 15
+  }
+  capitalists = {
+    culture = french_african
+    religion =  catholic
+    size = 1257
+  }
+  capitalists = {
+    culture = french_african
+    religion = secularism
+    size = 38
+  }
+  clergymen = {
+    culture = french_african
+    religion =  catholic
+    size = 5029
+  }
+  clergymen = {
+    culture = french_african
+    religion = secularism
+    size = 155
+  }
+  clerks = {
+    culture = french_african
+    religion =  catholic
+    size = 2930
+  }
+  clerks = {
+    culture = french_african
+    religion = secularism
+    size = 90
+  }
+  artisans = {
+    culture = french_african
+    religion =  catholic
+    size = 2782
+  }
+  artisans = {
+    culture = french_african
+    religion = secularism
+    size = 86
+  }
+  craftsmen = {
+    culture = french_african
+    religion =  catholic
+    size = 8791
+  }
+  craftsmen = {
+    culture = french_african
+    religion = secularism
+    size = 271
+  }
+  farmers = {
+    culture = french_african
+    religion =  catholic
+    size = 42742
+  }
+  farmers = {
+    culture = french_african
+    religion = secularism
+    size = 1321
+  }
+  farmers = {
+    culture = mande
+    religion =  sunni
+    size = 155550
+  }
 }
 #Kayes - Kayes (1145000/286250 POPS)
 1795 = {
-	clergymen = {
-		culture = mande
-		religion =  sunni 
-		size = 5725
-	 } 
-	farmers = {
-		culture = mande
-		religion =  sunni 
-		size = 280525
-	 } 
+  clergymen = {
+    culture = mande
+    religion =  sunni
+    size = 5725
+  }
+  farmers = {
+    culture = mande
+    religion =  sunni
+    size = 280525
+  }
 }
 #Nioro - Nioro (924000/231000 POPS)
 1796 = {
-	clergymen = {
-		culture = fula
-		religion =  sunni 
-		size = 4620
-	 } 
-	farmers = {
-		culture = fula
-		religion =  sunni 
-		size = 34650
-	 } 
-	farmers = {
-		culture = mande
-		religion =  sunni 
-		size = 191730
-	 } 
+  clergymen = {
+    culture = fula
+    religion =  sunni
+    size = 4620
+  }
+  farmers = {
+    culture = fula
+    religion =  sunni
+    size = 34650
+  }
+  farmers = {
+    culture = mande
+    religion =  sunni
+    size = 191730
+  }
 }
 #Kita - Kita (462000/115500 POPS)
 1797 = {
-	clergymen = {
-		culture = mande
-		religion =  sunni 
-		size = 2310
-	 } 
-	farmers = {
-		culture = mande
-		religion =  sunni 
-		size = 113190
-	 } 
+  clergymen = {
+    culture = mande
+    religion =  sunni
+    size = 2310
+  }
+  farmers = {
+    culture = mande
+    religion =  sunni
+    size = 113190
+  }
 }
 #Bougouni - Bougouni (753000/188250 POPS)
 1798 = {
-	clergymen = {
-		culture = mande
-		religion =  sunni 
-		size = 3765
-	 } 
-	farmers = {
-		culture = mande
-		religion =  sunni 
-		size = 184485
-	 } 
+  clergymen = {
+    culture = mande
+    religion =  sunni
+    size = 3765
+  }
+  farmers = {
+    culture = mande
+    religion =  sunni
+    size = 184485
+  }
 }
 #Sikasso - Sikasso (753000/188250 POPS)
 1799 = {
-	clergymen = {
-		culture = voltaic
-		religion =  sunni 
-		size = 3765
-	 } 
-	farmers = {
-		culture = voltaic
-		religion =  sunni 
-		size = 143070
-	 } 
-	farmers = {
-		culture = mande
-		religion =  sunni 
-		size = 41415
-	 } 
+  clergymen = {
+    culture = voltaic
+    religion =  sunni
+    size = 3765
+  }
+  farmers = {
+    culture = voltaic
+    religion =  sunni
+    size = 143070
+  }
+  farmers = {
+    culture = mande
+    religion =  sunni
+    size = 41415
+  }
 }
 #Segu - Segu (670000/167500 POPS)
 1800 = {
-	clergymen = {
-		culture = songhai
-		religion =  sunni 
-		size = 3350
-	 } 
-	farmers = {
-		culture = songhai
-		religion =  sunni 
-		size = 46900
-	 } 
-	farmers = {
-		culture = fula
-		religion =  sunni 
-		size = 53600
-	 } 
-	farmers = {
-		culture = mande
-		religion =  sunni 
-		size = 63650
-	 } 
+  clergymen = {
+    culture = songhai
+    religion =  sunni
+    size = 3350
+  }
+  farmers = {
+    culture = songhai
+    religion =  sunni
+    size = 46900
+  }
+  farmers = {
+    culture = fula
+    religion =  sunni
+    size = 53600
+  }
+  farmers = {
+    culture = mande
+    religion =  sunni
+    size = 63650
+  }
 }
 #Mourdiah - Mourdiah (670000/167500 POPS)
 1801 = {
-	clergymen = {
-		culture = fula
-		religion =  sunni 
-		size = 3350
-	 } 
-	farmers = {
-		culture = fula
-		religion =  sunni 
-		size = 110550
-	 } 
-	farmers = {
-		culture = tuareg
-		religion =  sunni 
-		size = 53600
-	 } 
+  clergymen = {
+    culture = fula
+    religion =  sunni
+    size = 3350
+  }
+  farmers = {
+    culture = fula
+    religion =  sunni
+    size = 110550
+  }
+  farmers = {
+    culture = tuareg
+    religion =  sunni
+    size = 53600
+  }
 }
 #Jenne - Jenne (584000/146000 POPS)
 1802 = {
-	clergymen = {
-		culture = fula
-		religion =  sunni 
-		size = 2920
-	 } 
-	farmers = {
-		culture = fula
-		religion =  sunni 
-		size = 143080
-	 } 
+  clergymen = {
+    culture = fula
+    religion =  sunni
+    size = 2920
+  }
+  farmers = {
+    culture = fula
+    religion =  sunni
+    size = 143080
+  }
 }
 #Timbuktu - Timbuktu (344000/86000 POPS)
 1803 = {
-	soldiers = {
-		culture = songhai
-		religion =  sunni 
-		size = 2432
-	 } 
-	aristocrats = {
-		culture = songhai
-		religion =  sunni 
-		size = 3440
-	 } 
-	clergymen = {
-		culture = songhai
-		religion =  sunni 
-		size = 1720
-	 } 
-	clerks = {
-		culture = songhai
-		religion =  sunni 
-		size = 1086
-	 } 
-	craftsmen = {
-		culture = tuareg
-		religion =  sunni 
-		size = 3260
-	 } 
-	farmers = {
-		culture = tuareg
-		religion =  sunni 
-		size = 20700
-	 } 
-	farmers = {
-		culture = mande
-		religion =  sunni 
-		size = 51600
-	 } 
+  soldiers = {
+    culture = songhai
+    religion =  sunni
+    size = 2432
+  }
+  aristocrats = {
+    culture = songhai
+    religion =  sunni
+    size = 3440
+  }
+  clergymen = {
+    culture = songhai
+    religion =  sunni
+    size = 1720
+  }
+  clerks = {
+    culture = songhai
+    religion =  sunni
+    size = 1086
+  }
+  craftsmen = {
+    culture = tuareg
+    religion =  sunni
+    size = 3260
+  }
+  farmers = {
+    culture = tuareg
+    religion =  sunni
+    size = 20700
+  }
+  farmers = {
+    culture = mande
+    religion =  sunni
+    size = 51600
+  }
 }
 #Bandiagara - Bandiagara (584000/146000 POPS)
 1804 = {
-	clergymen = {
-		culture = dogon
-		religion =  animist 
-		size = 2920
-	 } 
-	farmers = {
-		culture = dogon
-		religion =  animist 
-		size = 99280
-	 } 
-	farmers = {
-		culture = songhai
-		religion =  sunni 
-		size = 43800
-	 } 
+  clergymen = {
+    culture = dogon
+    religion =  animist
+    size = 2920
+  }
+  farmers = {
+    culture = dogon
+    religion =  animist
+    size = 99280
+  }
+  farmers = {
+    culture = songhai
+    religion =  sunni
+    size = 43800
+  }
 }
 #Gao - Gao (312000/78000 POPS)
 1805 = {
-	clergymen = {
-		culture = songhai
-		religion =  sunni 
-		size = 1560
-	 } 
-	farmers = {
-		culture = songhai
-		religion =  sunni 
-		size = 14040
-	 } 
-	farmers = {
-		culture = tuareg
-		religion =  sunni 
-		size = 62400
-	 } 
+  clergymen = {
+    culture = songhai
+    religion =  sunni
+    size = 1560
+  }
+  farmers = {
+    culture = songhai
+    religion =  sunni
+    size = 14040
+  }
+  farmers = {
+    culture = tuareg
+    religion =  sunni
+    size = 62400
+  }
 }
 #Taoudenni - Taoudenni (22000/5500 POPS)
 1806 = {
-	clergymen = {
-		culture = sunni_arab
-		religion =  sunni 
-		size = 110
-	 } 
-	farmers = {
-		culture = sunni_arab
-		religion =  sunni 
-		size = 5390
-	 } 
+  clergymen = {
+    culture = sunni_arab
+    religion =  sunni
+    size = 110
+  }
+  farmers = {
+    culture = sunni_arab
+    religion =  sunni
+    size = 5390
+  }
 }
 #Tessalit - Tessalit (38000/9500 POPS)
 1807 = {
-	farmers = {
-		culture = tuareg
-		religion =  sunni 
-		size = 9310
-	 } 
+  farmers = {
+    culture = tuareg
+    religion =  sunni
+    size = 9310
+  }
 }
 #Araouane - Araouane (22000/5500 POPS)
 2609 = {
-	clergymen = {
-		culture = tuareg
-		religion =  sunni 
-		size = 110
-	 } 
-	farmers = {
-		culture = tuareg
-		religion =  sunni 
-		size = 5390
-	 } 
+  clergymen = {
+    culture = tuareg
+    religion =  sunni
+    size = 110
+  }
+  farmers = {
+    culture = tuareg
+    religion =  sunni
+    size = 5390
+  }
 }

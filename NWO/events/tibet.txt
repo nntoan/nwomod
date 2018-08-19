@@ -7,7 +7,7 @@ country_event = {
 
   trigger = {
     tag = CHI
-	year = 1949 NOT = { year = 1963 }
+    year = 1949 NOT = { year = 1963 }
     NOT = { is_our_vassal = TIB }
     exists = TIB
     has_global_flag = CHI_won_civil_war
@@ -17,15 +17,15 @@ country_event = {
 
   option = {
     name = EVT_8015103_A
-	TIB = { country_event =  8015104 } 
-	badboy = 5 
-	ai_chance = { factor = 100 }
+    TIB = { country_event =  8015104 }
+    badboy = 5
+    ai_chance = { factor = 100 }
   }
 
   option = {
     name = EVT_8015103_B
-	badboy = -10 
-	ai_chance = { factor = 0 }	
+    badboy = -10
+    ai_chance = { factor = 0 }
   }
 }
 country_event = {
@@ -38,16 +38,16 @@ country_event = {
 
   option = {
     name = EVT_8015104_A
-	any_pop = { militancy = 0.5  consciousness = 1.0 }
-	relation = { who = CHI value = -100 } 
-	CHI = { military_access = THIS create_vassal = THIS } 
-	ai_chance = { factor = 0 }	
+    any_pop = { militancy = 0.5  consciousness = 1.0 }
+    relation = { who = CHI value = -100 }
+    CHI = { military_access = THIS create_vassal = THIS }
+    ai_chance = { factor = 0 }
   }
 
   option = {
     name = EVT_8015104_B
-	CHI = { country_event =  8015105 } 
-	ai_chance = { factor = 100 }	
+    CHI = { country_event =  8015105 }
+    ai_chance = { factor = 100 }
   }
 }
 country_event = {
@@ -59,8 +59,8 @@ country_event = {
 
   option = {
     name = "OK"
-	# infamy un-unsanctioned
-	war = { target = TIB attacker_goal = { casus_belli = annex_core_country } defender_goal = { casus_belli = status_quo } }
+    # infamy un-unsanctioned
+    war = { target = TIB attacker_goal = { casus_belli = annex_core_country } defender_goal = { casus_belli = status_quo } }
   }
 }
 country_event = {
@@ -73,23 +73,23 @@ country_event = {
   trigger = {
     tag = TIB
     year = 1959 NOT = { year = 1963 }
-	vassal_of = CHI
-	war = no
+    vassal_of = CHI
+    war = no
   }
 
   mean_time_to_happen = { months = 1  }
 
   option = {
     name = EVT_8015106_A
-	war = { target = CHI attacker_goal = { casus_belli = become_independent } defender_goal = { casus_belli = annex_core_country } }
-	ai_chance = { factor = 100 }	
+    war = { target = CHI attacker_goal = { casus_belli = become_independent } defender_goal = { casus_belli = annex_core_country } }
+    ai_chance = { factor = 100 }
   }
 
   option = {
     name = EVT_8015106_B
-	any_pop = { militancy = 5.0  consciousness = 2.0 }
-	CHI = { country_event = 8015107 }
-	ai_chance = { factor = 0 }	
+    any_pop = { militancy = 5.0  consciousness = 2.0 }
+    CHI = { country_event = 8015107 }
+    ai_chance = { factor = 0 }
   }
 }
 country_event = {
@@ -101,15 +101,15 @@ country_event = {
 
   option = {
     name = EVT_8015107_A
-	inherit = TIB 
-	ai_chance = { factor = 50 }	
+    inherit = TIB
+    ai_chance = { factor = 50 }
   }
 
   option = {
     name = EVT_8015107_B
-	create_vassal = TIB
-	TIB = { country_event = 8015108 }
-	ai_chance = { factor = 50 }	
+    create_vassal = TIB
+    TIB = { country_event = 8015108 }
+    ai_chance = { factor = 50 }
   }
 }
 country_event = {
@@ -129,7 +129,7 @@ country_event = {
 
   option = {
     name = EVT_8015108_A
-	government = proletarian_dictatorship country_event = 800052
+    government = proletarian_dictatorship country_event = 800052
   }
 }
 country_event = {
@@ -149,16 +149,16 @@ country_event = {
 
   option = {
     name = EVT_8015109_A
-	relation = { who = TIB value = 200 } 
-	relation = { who = CHI value = -100 } 
-	TIB = { country_event =  8015110 }
-	money = -100 
-	ai_chance = { factor = 100 }	
+    relation = { who = TIB value = 200 }
+    relation = { who = CHI value = -100 }
+    TIB = { country_event =  8015110 }
+    money = -100
+    ai_chance = { factor = 100 }
   }
 
   option = {
     name = EVT_8015109_B
-	ai_chance = { factor = 0 }	
+    ai_chance = { factor = 0 }
   }
 }
 country_event = {
@@ -182,15 +182,15 @@ country_event = {
   trigger = {
     tag = TIB
     year = 1960 NOT = { year = 1963 }
-	war = no
-	has_recently_lost_war  = no
+    war = no
+    has_recently_lost_war  = no
   }
-  
+
   mean_time_to_happen = { months = 1  }
 
   option = {
     name = EVT_8015111_A
-	any_pop = { militancy = -2.5  consciousness = -1.0 }
+    any_pop = { militancy = -2.5  consciousness = -1.0 }
   }
 }
 country_event = {
@@ -211,13 +211,13 @@ country_event = {
 
   option = {
     name = EVT_8015120_A
-	TIB = { country_event = 8015121 }
+    TIB = { country_event = 8015121 }
   }
 
   option = {
     name = EVT_8015120_B
-	any_pop = { militancy = 0.8  consciousness = 1.0 }
-	all_core = { limit = { controlled_by = TIB } remove_core = KMT }  
+    any_pop = { militancy = 0.8  consciousness = 1.0 }
+    all_core = { limit = { controlled_by = TIB } remove_core = KMT }
   }
 }
 country_event = {
@@ -229,12 +229,12 @@ country_event = {
 
   option = {
     name = EVT_8015121_A
-	KMT = { country_event = 8015122 }
+    KMT = { country_event = 8015122 }
   }
 
   option = {
     name = EVT_8015121_B
-	KMT = { create_vassal = TIB}
+    KMT = { create_vassal = TIB}
   }
 }
 country_event = {
@@ -246,8 +246,8 @@ country_event = {
 
   option = {
     name = EVT_8015122_A
-	casus_belli = { target = TIB type = make_puppet months = 12 }
-	war = { target = TIB attacker_goal = { casus_belli = make_puppet } defender_goal = { casus_belli = status_quo } }
+    casus_belli = { target = TIB type = make_puppet months = 12 }
+    war = { target = TIB attacker_goal = { casus_belli = make_puppet } defender_goal = { casus_belli = status_quo } }
   }
 }
 country_event = {
@@ -260,15 +260,15 @@ country_event = {
   trigger = {
     tag = TIB
     year = 1960 NOT = { year = 1963 }
-	war = no
-	has_recently_lost_war  = no
+    war = no
+    has_recently_lost_war  = no
   }
-	
+
   mean_time_to_happen = { months = 1  }
 
   option = {
     name = "OK"
-	any_pop = { militancy = -2.5  consciousness = -1.0 }
+    any_pop = { militancy = -2.5  consciousness = -1.0 }
   }
 }
 

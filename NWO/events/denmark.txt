@@ -8,13 +8,13 @@ country_event = {
   trigger = {
     tag = DEN
     year = 1945 NOT = { year = 1979 }
-    OR = { government = democracy government = hms_government } 
+    OR = { government = democracy government = hms_government }
   }
 
   mean_time_to_happen = { months = 12 }
 
   option = {
-	name = "EVT_8004402_A"
-	prestige = 10
+    name = "EVT_8004402_A"
+    prestige = 10
   }
 }

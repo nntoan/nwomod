@@ -1,21 +1,21 @@
 nv_order = {
-	mobilisation_size = 0.04
-	mobilisation_economy_impact = 1.0
+  mobilisation_size = 0.04
+  mobilisation_economy_impact = 1.0
 }
 
 nv_liberty = {
-	mobilisation_size = 0.02
-	mobilisation_economy_impact = 0.75
+  mobilisation_size = 0.02
+  mobilisation_economy_impact = 0.75
 }
 
 nv_equality = {
-	mobilisation_size = 0.06
-	mobilisation_economy_impact = 1.25
+  mobilisation_size = 0.06
+  mobilisation_economy_impact = 1.25
 }
 nv_development = {
-	mobilisation_size = 0.001
-	mobilisation_economy_impact = 1.0
-	rgo_output = 0.05
-	factory_owner_cost = 0.05
-	factory_throughput = -0.1	
+  mobilisation_size = 0.001
+  mobilisation_economy_impact = 1.0
+  rgo_output = 0.05
+  factory_owner_cost = 0.05
+  factory_throughput = -0.1
 }

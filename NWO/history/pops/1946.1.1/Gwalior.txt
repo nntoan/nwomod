@@ -1,28 +1,28 @@
 #Gwalior - Madhya Pradesh (6931000/1732750 POPS)
 1270 = {
-	clergymen = {
-		culture = indian
-		religion =  hindu 
-		size = 33875
-	 } 
-	clergymen = {
-		culture = indian
-		religion = secularism
-		size = 779
-	 } 
-	farmers = {
-		culture = indian
-		religion =  hindu 
-		size = 797064
-	 } 
-	farmers = {
-		culture = indian
-		religion = secularism
-		size = 797064
-	 } 
-	farmers = {
-		culture = indian_muslim
-		religion =  sunni 
-		size = 103965
-	 } 
+  clergymen = {
+    culture = indian
+    religion =  hindu
+    size = 33875
+  }
+  clergymen = {
+    culture = indian
+    religion = secularism
+    size = 779
+  }
+  farmers = {
+    culture = indian
+    religion =  hindu
+    size = 797064
+  }
+  farmers = {
+    culture = indian
+    religion = secularism
+    size = 797064
+  }
+  farmers = {
+    culture = indian_muslim
+    religion =  sunni
+    size = 103965
+  }
 }

@@ -8,27 +8,27 @@ country_event = { # Malta Independence
   trigger = {
     tag = GBR
     year = 1960 NOT = { year = 1990 }
-	NOT = { exists = MAL }
-	owns = 854 # Malta
+    NOT = { exists = MAL }
+    owns = 854 # Malta
   }
 
   mean_time_to_happen = { months = 2 }
 
   option = {
     name = EVT_8004200_A
-	prestige = 10
-	release_vassal = MAL
-	diplomatic_influence = { who = MAL value = 200 } 
-	ai_chance = { factor = 100 }
+    prestige = 10
+    release_vassal = MAL
+    diplomatic_influence = { who = MAL value = 200 }
+    ai_chance = { factor = 100 }
   }
 
   option = {
     name = EVT_8004200_B
-	prestige = -10
-	any_pop = { limit = { culture = maltese } militancy = 5 consciousness = 6 }
-	ai_chance = { factor = 0 }
+    prestige = -10
+    any_pop = { limit = { culture = maltese } militancy = 5 consciousness = 6 }
+    ai_chance = { factor = 0 }
   }
-  
+
 }
 country_event = { # Malta Republic
   id = 8004201
@@ -40,22 +40,22 @@ country_event = { # Malta Republic
   trigger = {
     tag = MAL
     year = 1974 NOT = { year = 1990 }
-	exists = MAL
-	OR = { ruling_party_ideology = socialist ruling_party_ideology = communist }
+    exists = MAL
+    OR = { ruling_party_ideology = socialist ruling_party_ideology = communist }
   }
 
   mean_time_to_happen = { months = 2 }
 
   option = {
     name = EVT_8004201_A
-	government = democracy country_event = 800054
-	GBR = { diplomatic_influence = { who = MAL value = -100 } }
-	ai_chance = { factor = 100 }
+    government = democracy country_event = 800054
+    GBR = { diplomatic_influence = { who = MAL value = -100 } }
+    ai_chance = { factor = 100 }
   }
 
   option = {
     name = EVT_8004201_B
-	ai_chance = { factor = 0 }
+    ai_chance = { factor = 0 }
   }
-  
+
 }

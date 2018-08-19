@@ -1,123 +1,123 @@
 #Thimpu - Thimpu (615000/153750 POPS)
 1329 = {
-	officers = {
-		culture = ngalop
-		religion =  buddhist 
-		size = 133
-	 } 
-	officers = {
-		culture = ngalop
-		religion = secularism
-		size = 7
-	 } 
-	soldiers = {
-		culture = ngalop
-		religion =  buddhist 
-		size = 2537
-	 } 
-	soldiers = {
-		culture = ngalop
-		religion = secularism
-		size = 133
-	 } 
-	aristocrats = {
-		culture = ngalop
-		religion =  buddhist 
-		size = 5842
-	 } 
-	aristocrats = {
-		culture = ngalop
-		religion = secularism
-		size = 307
-	 } 
-	bureaucrats = {
-		culture = ngalop
-		religion =  buddhist 
-		size = 145
-	 } 
-	bureaucrats = {
-		culture = ngalop
-		religion = secularism
-		size = 7
-	 } 
-	capitalists = {
-		culture = ngalop
-		religion =  buddhist 
-		size = 729
-	 } 
-	capitalists = {
-		culture = ngalop
-		religion = secularism
-		size = 38
-	 } 
-	clergymen = {
-		culture = ngalop
-		religion =  buddhist 
-		size = 2921
-	 } 
-	clergymen = {
-		culture = ngalop
-		religion = secularism
-		size = 153
-	 } 
-	clerks = {
-		culture = ngalop
-		religion =  buddhist 
-		size = 1906
-	 } 
-	clerks = {
-		culture = ngalop
-		religion = secularism
-		size = 100
-	 } 
-	artisans = {
-		culture = ngalop
-		religion =  buddhist 
-		size = 1811
-	 } 
-	artisans = {
-		culture = ngalop
-		religion = secularism
-		size = 95
-	 } 
-	craftsmen = {
-		culture = ngalop
-		religion =  buddhist 
-		size = 5720
-	 } 
-	craftsmen = {
-		culture = ngalop
-		religion = secularism
-		size = 301
-	 } 
-	farmers = {
-		culture = ngalop
-		religion =  buddhist 
-		size = 51282
-	 } 
-	farmers = {
-		culture = ngalop
-		religion = secularism
-		size = 2699
-	 } 
-	farmers = {
-		culture = indian
-		religion =  hindu 
-		size = 21908
-	 } 
-	farmers = {
-		culture = indian
-		religion = secularism
-		size = 1153
-	 } 
-	farmers = {
-		culture = nepali
-		religion =  hindu 
-		size = 51121
-	 } 
-	farmers = {
-		culture = nepali
-		religion = secularism
-		size = 2690
-	 } 
+  officers = {
+    culture = ngalop
+    religion =  buddhist
+    size = 133
+  }
+  officers = {
+    culture = ngalop
+    religion = secularism
+    size = 7
+  }
+  soldiers = {
+    culture = ngalop
+    religion =  buddhist
+    size = 2537
+  }
+  soldiers = {
+    culture = ngalop
+    religion = secularism
+    size = 133
+  }
+  aristocrats = {
+    culture = ngalop
+    religion =  buddhist
+    size = 5842
+  }
+  aristocrats = {
+    culture = ngalop
+    religion = secularism
+    size = 307
+  }
+  bureaucrats = {
+    culture = ngalop
+    religion =  buddhist
+    size = 145
+  }
+  bureaucrats = {
+    culture = ngalop
+    religion = secularism
+    size = 7
+  }
+  capitalists = {
+    culture = ngalop
+    religion =  buddhist
+    size = 729
+  }
+  capitalists = {
+    culture = ngalop
+    religion = secularism
+    size = 38
+  }
+  clergymen = {
+    culture = ngalop
+    religion =  buddhist
+    size = 2921
+  }
+  clergymen = {
+    culture = ngalop
+    religion = secularism
+    size = 153
+  }
+  clerks = {
+    culture = ngalop
+    religion =  buddhist
+    size = 1906
+  }
+  clerks = {
+    culture = ngalop
+    religion = secularism
+    size = 100
+  }
+  artisans = {
+    culture = ngalop
+    religion =  buddhist
+    size = 1811
+  }
+  artisans = {
+    culture = ngalop
+    religion = secularism
+    size = 95
+  }
+  craftsmen = {
+    culture = ngalop
+    religion =  buddhist
+    size = 5720
+  }
+  craftsmen = {
+    culture = ngalop
+    religion = secularism
+    size = 301
+  }
+  farmers = {
+    culture = ngalop
+    religion =  buddhist
+    size = 51282
+  }
+  farmers = {
+    culture = ngalop
+    religion = secularism
+    size = 2699
+  }
+  farmers = {
+    culture = indian
+    religion =  hindu
+    size = 21908
+  }
+  farmers = {
+    culture = indian
+    religion = secularism
+    size = 1153
+  }
+  farmers = {
+    culture = nepali
+    religion =  hindu
+    size = 51121
+  }
+  farmers = {
+    culture = nepali
+    religion = secularism
+    size = 2690
+  }
 }

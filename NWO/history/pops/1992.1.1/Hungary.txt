@@ -1,416 +1,416 @@
 #Sopron - Sopron (263000/65750 POPS)
 623 = {
-	clergymen = {
-		culture = hungarian
-		religion =  catholic 
-		size = 618
-	 } 
-	clergymen = {
-		culture = hungarian
-		religion = secularism
-		size = 696
-	 } 
-	farmers = {
-		culture = hungarian
-		religion =  catholic 
-		size = 30284
-	 } 
-	farmers = {
-		culture = hungarian
-		religion = secularism
-		size = 34150
-	 } 
+  clergymen = {
+    culture = hungarian
+    religion =  catholic
+    size = 618
+  }
+  clergymen = {
+    culture = hungarian
+    religion = secularism
+    size = 696
+  }
+  farmers = {
+    culture = hungarian
+    religion =  catholic
+    size = 30284
+  }
+  farmers = {
+    culture = hungarian
+    religion = secularism
+    size = 34150
+  }
 }
 #Zalaegerszeg - Zalaegerszeg (263000/65750 POPS)
 639 = {
-	clergymen = {
-		culture = hungarian
-		religion =  catholic 
-		size = 618
-	 } 
-	clergymen = {
-		culture = hungarian
-		religion = secularism
-		size = 696
-	 } 
-	farmers = {
-		culture = hungarian
-		religion =  catholic 
-		size = 30284
-	 } 
-	farmers = {
-		culture = hungarian
-		religion = secularism
-		size = 34150
-	 } 
+  clergymen = {
+    culture = hungarian
+    religion =  catholic
+    size = 618
+  }
+  clergymen = {
+    culture = hungarian
+    religion = secularism
+    size = 696
+  }
+  farmers = {
+    culture = hungarian
+    religion =  catholic
+    size = 30284
+  }
+  farmers = {
+    culture = hungarian
+    religion = secularism
+    size = 34150
+  }
 }
 #Pecs - Pecs (519000/129750 POPS)
 640 = {
-	clergymen = {
-		culture = hungarian
-		religion =  catholic 
-		size = 1219
-	 } 
-	clergymen = {
-		culture = hungarian
-		religion = secularism
-		size = 1375
-	 } 
-	farmers = {
-		culture = hungarian
-		religion =  catholic 
-		size = 43907
-	 } 
-	farmers = {
-		culture = hungarian
-		religion = secularism
-		size = 49512
-	 } 
-	farmers = {
-		culture = german
-		religion =  catholic 
-		size = 15855
-	 } 
-	farmers = {
-		culture = german
-		religion = secularism
-		size = 17879
-	 } 
+  clergymen = {
+    culture = hungarian
+    religion =  catholic
+    size = 1219
+  }
+  clergymen = {
+    culture = hungarian
+    religion = secularism
+    size = 1375
+  }
+  farmers = {
+    culture = hungarian
+    religion =  catholic
+    size = 43907
+  }
+  farmers = {
+    culture = hungarian
+    religion = secularism
+    size = 49512
+  }
+  farmers = {
+    culture = german
+    religion =  catholic
+    size = 15855
+  }
+  farmers = {
+    culture = german
+    religion = secularism
+    size = 17879
+  }
 }
 #Budapest - Budapest (2962000/740500 POPS)
 641 = {
-	officers = {
-		culture = hungarian
-		religion =  catholic 
-		size = 3635
-	 } 
-	officers = {
-		culture = hungarian
-		religion = secularism
-		size = 4099
-	 } 
-	soldiers = {
-		culture = hungarian
-		religion =  catholic 
-		size = 69076
-	 } 
-	soldiers = {
-		culture = hungarian
-		religion = secularism
-		size = 77895
-	 } 
-	aristocrats = {
-		culture = hungarian
-		religion =  catholic 
-		size = 8700
-	 } 
-	aristocrats = {
-		culture = hungarian
-		religion = secularism
-		size = 9811
-	 } 
-	bureaucrats = {
-		culture = hungarian
-		religion =  catholic 
-		size = 1739
-	 } 
-	bureaucrats = {
-		culture = hungarian
-		religion = secularism
-		size = 1962
-	 } 
-	capitalists = {
-		culture = hungarian
-		religion =  catholic 
-		size = 2088
-	 } 
-	capitalists = {
-		culture = hungarian
-		religion = secularism
-		size = 2354
-	 } 
-	clergymen = {
-		culture = hungarian
-		religion =  catholic 
-		size = 6960
-	 } 
-	clergymen = {
-		culture = hungarian
-		religion = secularism
-		size = 7849
-	 } 
-	clerks = {
-		culture = hungarian
-		religion =  catholic 
-		size = 7225
-	 } 
-	clerks = {
-		culture = hungarian
-		religion = secularism
-		size = 8147
-	 } 
-	artisans = {
-		culture = hungarian
-		religion =  catholic 
-		size = 6863
-	 } 
-	artisans = {
-		culture = hungarian
-		religion = secularism
-		size = 7740
-	 } 
-	craftsmen = {
-		culture = hungarian
-		religion =  catholic 
-		size = 21675
-	 } 
-	craftsmen = {
-		culture = hungarian
-		religion = secularism
-		size = 24443
-	 } 
-	farmers = {
-		culture = hungarian
-		religion =  catholic 
-		size = 195705
-	 } 
-	farmers = {
-		culture = hungarian
-		religion = secularism
-		size = 220689
-	 } 
-	farmers = {
-		culture = roma
-		religion =  orthodox 
-		size = 24362
-	 } 
-	farmers = {
-		culture = roma
-		religion = secularism
-		size = 27472
-	 } 
+  officers = {
+    culture = hungarian
+    religion =  catholic
+    size = 3635
+  }
+  officers = {
+    culture = hungarian
+    religion = secularism
+    size = 4099
+  }
+  soldiers = {
+    culture = hungarian
+    religion =  catholic
+    size = 69076
+  }
+  soldiers = {
+    culture = hungarian
+    religion = secularism
+    size = 77895
+  }
+  aristocrats = {
+    culture = hungarian
+    religion =  catholic
+    size = 8700
+  }
+  aristocrats = {
+    culture = hungarian
+    religion = secularism
+    size = 9811
+  }
+  bureaucrats = {
+    culture = hungarian
+    religion =  catholic
+    size = 1739
+  }
+  bureaucrats = {
+    culture = hungarian
+    religion = secularism
+    size = 1962
+  }
+  capitalists = {
+    culture = hungarian
+    religion =  catholic
+    size = 2088
+  }
+  capitalists = {
+    culture = hungarian
+    religion = secularism
+    size = 2354
+  }
+  clergymen = {
+    culture = hungarian
+    religion =  catholic
+    size = 6960
+  }
+  clergymen = {
+    culture = hungarian
+    religion = secularism
+    size = 7849
+  }
+  clerks = {
+    culture = hungarian
+    religion =  catholic
+    size = 7225
+  }
+  clerks = {
+    culture = hungarian
+    religion = secularism
+    size = 8147
+  }
+  artisans = {
+    culture = hungarian
+    religion =  catholic
+    size = 6863
+  }
+  artisans = {
+    culture = hungarian
+    religion = secularism
+    size = 7740
+  }
+  craftsmen = {
+    culture = hungarian
+    religion =  catholic
+    size = 21675
+  }
+  craftsmen = {
+    culture = hungarian
+    religion = secularism
+    size = 24443
+  }
+  farmers = {
+    culture = hungarian
+    religion =  catholic
+    size = 195705
+  }
+  farmers = {
+    culture = hungarian
+    religion = secularism
+    size = 220689
+  }
+  farmers = {
+    culture = roma
+    religion =  orthodox
+    size = 24362
+  }
+  farmers = {
+    culture = roma
+    religion = secularism
+    size = 27472
+  }
 }
 #Gyor - Gyor (263000/65750 POPS)
 642 = {
-	clergymen = {
-		culture = hungarian
-		religion =  catholic 
-		size = 618
-	 } 
-	clergymen = {
-		culture = hungarian
-		religion = secularism
-		size = 696
-	 } 
-	farmers = {
-		culture = hungarian
-		religion =  catholic 
-		size = 30284
-	 } 
-	farmers = {
-		culture = hungarian
-		religion = secularism
-		size = 34150
-	 } 
+  clergymen = {
+    culture = hungarian
+    religion =  catholic
+    size = 618
+  }
+  clergymen = {
+    culture = hungarian
+    religion = secularism
+    size = 696
+  }
+  farmers = {
+    culture = hungarian
+    religion =  catholic
+    size = 30284
+  }
+  farmers = {
+    culture = hungarian
+    religion = secularism
+    size = 34150
+  }
 }
 #Szekesfehevar - Szekesfehevar (1168000/292000 POPS)
 643 = {
-	clergymen = {
-		culture = hungarian
-		religion =  catholic 
-		size = 2744
-	 } 
-	clergymen = {
-		culture = hungarian
-		religion = secularism
-		size = 3095
-	 } 
-	farmers = {
-		culture = hungarian
-		religion =  catholic 
-		size = 134495
-	 } 
-	farmers = {
-		culture = hungarian
-		religion = secularism
-		size = 151664
-	 } 
+  clergymen = {
+    culture = hungarian
+    religion =  catholic
+    size = 2744
+  }
+  clergymen = {
+    culture = hungarian
+    religion = secularism
+    size = 3095
+  }
+  farmers = {
+    culture = hungarian
+    religion =  catholic
+    size = 134495
+  }
+  farmers = {
+    culture = hungarian
+    religion = secularism
+    size = 151664
+  }
 }
 #Kaposvar - Kaposvar (519000/129750 POPS)
 644 = {
-	clergymen = {
-		culture = hungarian
-		religion =  catholic 
-		size = 1219
-	 } 
-	clergymen = {
-		culture = hungarian
-		religion = secularism
-		size = 1375
-	 } 
-	farmers = {
-		culture = hungarian
-		religion =  catholic 
-		size = 50005
-	 } 
-	farmers = {
-		culture = hungarian
-		religion = secularism
-		size = 56389
-	 } 
-	farmers = {
-		culture = roma
-		religion =  orthodox 
-		size = 9757
-	 } 
-	farmers = {
-		culture = roma
-		religion = secularism
-		size = 11002
-	 } 
+  clergymen = {
+    culture = hungarian
+    religion =  catholic
+    size = 1219
+  }
+  clergymen = {
+    culture = hungarian
+    religion = secularism
+    size = 1375
+  }
+  farmers = {
+    culture = hungarian
+    religion =  catholic
+    size = 50005
+  }
+  farmers = {
+    culture = hungarian
+    religion = secularism
+    size = 56389
+  }
+  farmers = {
+    culture = roma
+    religion =  orthodox
+    size = 9757
+  }
+  farmers = {
+    culture = roma
+    religion = secularism
+    size = 11002
+  }
 }
 #Kecskemet - Kecskemet (716000/179000 POPS)
 645 = {
-	clergymen = {
-		culture = hungarian
-		religion =  catholic 
-		size = 1682
-	 } 
-	clergymen = {
-		culture = hungarian
-		religion = secularism
-		size = 1897
-	 } 
-	farmers = {
-		culture = hungarian
-		religion =  catholic 
-		size = 82447
-	 } 
-	farmers = {
-		culture = hungarian
-		religion = secularism
-		size = 92972
-	 } 
+  clergymen = {
+    culture = hungarian
+    religion =  catholic
+    size = 1682
+  }
+  clergymen = {
+    culture = hungarian
+    religion = secularism
+    size = 1897
+  }
+  farmers = {
+    culture = hungarian
+    religion =  catholic
+    size = 82447
+  }
+  farmers = {
+    culture = hungarian
+    religion = secularism
+    size = 92972
+  }
 }
 #Miskolc - Miskolc (1351000/337750 POPS)
 646 = {
-	clergymen = {
-		culture = hungarian
-		religion =  catholic 
-		size = 3174
-	 } 
-	clergymen = {
-		culture = hungarian
-		religion = secularism
-		size = 3580
-	 } 
-	farmers = {
-		culture = hungarian
-		religion =  catholic 
-		size = 117469
-	 } 
-	farmers = {
-		culture = hungarian
-		religion = secularism
-		size = 132465
-	 } 
-	farmers = {
-		culture = roma
-		religion =  orthodox 
-		size = 38098
-	 } 
-	farmers = {
-		culture = roma
-		religion = secularism
-		size = 42961
-	 } 
+  clergymen = {
+    culture = hungarian
+    religion =  catholic
+    size = 3174
+  }
+  clergymen = {
+    culture = hungarian
+    religion = secularism
+    size = 3580
+  }
+  farmers = {
+    culture = hungarian
+    religion =  catholic
+    size = 117469
+  }
+  farmers = {
+    culture = hungarian
+    religion = secularism
+    size = 132465
+  }
+  farmers = {
+    culture = roma
+    religion =  orthodox
+    size = 38098
+  }
+  farmers = {
+    culture = roma
+    religion = secularism
+    size = 42961
+  }
 }
 #Debrecen - Debrecen (814000/203500 POPS)
 648 = {
-	clergymen = {
-		culture = hungarian
-		religion =  catholic 
-		size = 1912
-	 } 
-	clergymen = {
-		culture = hungarian
-		religion = secularism
-		size = 2157
-	 } 
-	farmers = {
-		culture = hungarian
-		religion =  catholic 
-		size = 74603
-	 } 
-	farmers = {
-		culture = hungarian
-		religion = secularism
-		size = 84126
-	 } 
-	farmers = {
-		culture = roma
-		religion =  orthodox 
-		size = 19129
-	 } 
-	farmers = {
-		culture = roma
-		religion = secularism
-		size = 21571
-	 } 
+  clergymen = {
+    culture = hungarian
+    religion =  catholic
+    size = 1912
+  }
+  clergymen = {
+    culture = hungarian
+    religion = secularism
+    size = 2157
+  }
+  farmers = {
+    culture = hungarian
+    religion =  catholic
+    size = 74603
+  }
+  farmers = {
+    culture = hungarian
+    religion = secularism
+    size = 84126
+  }
+  farmers = {
+    culture = roma
+    religion =  orthodox
+    size = 19129
+  }
+  farmers = {
+    culture = roma
+    religion = secularism
+    size = 21571
+  }
 }
 #Szeged - Szeged (716000/179000 POPS)
 649 = {
-	clergymen = {
-		culture = hungarian
-		religion =  catholic 
-		size = 1682
-	 } 
-	clergymen = {
-		culture = hungarian
-		religion = secularism
-		size = 1897
-	 } 
-	farmers = {
-		culture = hungarian
-		religion =  catholic 
-		size = 82447
-	 } 
-	farmers = {
-		culture = hungarian
-		religion = secularism
-		size = 92972
-	 } 
+  clergymen = {
+    culture = hungarian
+    religion =  catholic
+    size = 1682
+  }
+  clergymen = {
+    culture = hungarian
+    religion = secularism
+    size = 1897
+  }
+  farmers = {
+    culture = hungarian
+    religion =  catholic
+    size = 82447
+  }
+  farmers = {
+    culture = hungarian
+    religion = secularism
+    size = 92972
+  }
 }
 #Bekescsab - Bekescsab (814000/203500 POPS)
 650 = {
-	clergymen = {
-		culture = hungarian
-		religion =  catholic 
-		size = 1912
-	 } 
-	clergymen = {
-		culture = hungarian
-		religion = secularism
-		size = 2157
-	 } 
-	farmers = {
-		culture = hungarian
-		religion =  catholic 
-		size = 86080
-	 } 
-	farmers = {
-		culture = hungarian
-		religion = secularism
-		size = 97069
-	 } 
-	farmers = {
-		culture = roma
-		religion =  orthodox 
-		size = 7651
-	 } 
-	farmers = {
-		culture = roma
-		religion = secularism
-		size = 8628
-	 } 
+  clergymen = {
+    culture = hungarian
+    religion =  catholic
+    size = 1912
+  }
+  clergymen = {
+    culture = hungarian
+    religion = secularism
+    size = 2157
+  }
+  farmers = {
+    culture = hungarian
+    religion =  catholic
+    size = 86080
+  }
+  farmers = {
+    culture = hungarian
+    religion = secularism
+    size = 97069
+  }
+  farmers = {
+    culture = roma
+    religion =  orthodox
+    size = 7651
+  }
+  farmers = {
+    culture = roma
+    religion = secularism
+    size = 8628
+  }
 }

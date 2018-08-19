@@ -1,38 +1,38 @@
 #Imphal - Manipur (2085000/521250 POPS)
 1259 = {
-	clergymen = {
-		culture = manupur
-		religion =  hindu 
-		size = 10190
-	 } 
-	clergymen = {
-		culture = manupur
-		religion = secularism
-		size = 234
-	 } 
-	farmers = {
-		culture = manupur
-		religion =  hindu 
-		size = 270046
-	 } 
-	farmers = {
-		culture = manupur
-		religion = secularism
-		size = 6215
-	 } 
-	farmers = {
-		culture = bengali
-		religion =  sunni 
-		size = 26062
-	 } 
-	farmers = {
-		culture = asian_minor
-		religion =  protestant 
-		size = 203808
-	 } 
-	farmers = {
-		culture = asian_minor
-		religion = secularism
-		size = 4691
-	 } 
+  clergymen = {
+    culture = manupur
+    religion =  hindu
+    size = 10190
+  }
+  clergymen = {
+    culture = manupur
+    religion = secularism
+    size = 234
+  }
+  farmers = {
+    culture = manupur
+    religion =  hindu
+    size = 270046
+  }
+  farmers = {
+    culture = manupur
+    religion = secularism
+    size = 6215
+  }
+  farmers = {
+    culture = bengali
+    religion =  sunni
+    size = 26062
+  }
+  farmers = {
+    culture = asian_minor
+    religion =  protestant
+    size = 203808
+  }
+  farmers = {
+    culture = asian_minor
+    religion = secularism
+    size = 4691
+  }
 }

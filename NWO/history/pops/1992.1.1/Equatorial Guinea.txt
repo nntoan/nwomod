@@ -1,146 +1,146 @@
 #Fernando Po - Fernando Po (221000/55250 POPS)
 1955 = {
-	officers = {
-		culture = fang
-		religion =  catholic 
-		size = 78
-	 } 
-	officers = {
-		culture = fang
-		religion = secularism
-		size = 8
-	 } 
-	soldiers = {
-		culture = fang
-		religion =  catholic 
-		size = 1496
-	 } 
-	soldiers = {
-		culture = fang
-		religion = secularism
-		size = 166
-	 } 
-	aristocrats = {
-		culture = fang
-		religion =  catholic 
-		size = 1989
-	 } 
-	aristocrats = {
-		culture = fang
-		religion = secularism
-		size = 221
-	 } 
-	bureaucrats = {
-		culture = fang
-		religion =  catholic 
-		size = 49
-	 } 
-	bureaucrats = {
-		culture = fang
-		religion = secularism
-		size = 5
-	 } 
-	capitalists = {
-		culture = fang
-		religion =  catholic 
-		size = 248
-	 } 
-	capitalists = {
-		culture = fang
-		religion = secularism
-		size = 27
-	 } 
-	clergymen = {
-		culture = fang
-		religion =  catholic 
-		size = 994
-	 } 
-	clergymen = {
-		culture = fang
-		religion = secularism
-		size = 110
-	 } 
-	clerks = {
-		culture = fang
-		religion =  catholic 
-		size = 710
-	 } 
-	clerks = {
-		culture = fang
-		religion = secularism
-		size = 78
-	 } 
-	artisans = {
-		culture = fang
-		religion =  catholic 
-		size = 675
-	 } 
-	artisans = {
-		culture = fang
-		religion = secularism
-		size = 75
-	 } 
-	craftsmen = {
-		culture = fang
-		religion =  catholic 
-		size = 2131
-	 } 
-	craftsmen = {
-		culture = fang
-		religion = secularism
-		size = 236
-	 } 
-	farmers = {
-		culture = fang
-		religion =  catholic 
-		size = 29915
-	 } 
-	farmers = {
-		culture = fang
-		religion = secularism
-		size = 3323
-	 } 
-	farmers = {
-		culture = biko
-		religion =  catholic 
-		size = 10441
-	 } 
-	farmers = {
-		culture = biko
-		religion = secularism
-		size = 1160
-	 } 
-	farmers = {
-		culture = afro_spanish
-		religion =  catholic 
-		size = 994
-	 } 
-	farmers = {
-		culture = afro_spanish
-		religion = secularism
-		size = 110
-	 } 
+  officers = {
+    culture = fang
+    religion =  catholic
+    size = 78
+  }
+  officers = {
+    culture = fang
+    religion = secularism
+    size = 8
+  }
+  soldiers = {
+    culture = fang
+    religion =  catholic
+    size = 1496
+  }
+  soldiers = {
+    culture = fang
+    religion = secularism
+    size = 166
+  }
+  aristocrats = {
+    culture = fang
+    religion =  catholic
+    size = 1989
+  }
+  aristocrats = {
+    culture = fang
+    religion = secularism
+    size = 221
+  }
+  bureaucrats = {
+    culture = fang
+    religion =  catholic
+    size = 49
+  }
+  bureaucrats = {
+    culture = fang
+    religion = secularism
+    size = 5
+  }
+  capitalists = {
+    culture = fang
+    religion =  catholic
+    size = 248
+  }
+  capitalists = {
+    culture = fang
+    religion = secularism
+    size = 27
+  }
+  clergymen = {
+    culture = fang
+    religion =  catholic
+    size = 994
+  }
+  clergymen = {
+    culture = fang
+    religion = secularism
+    size = 110
+  }
+  clerks = {
+    culture = fang
+    religion =  catholic
+    size = 710
+  }
+  clerks = {
+    culture = fang
+    religion = secularism
+    size = 78
+  }
+  artisans = {
+    culture = fang
+    religion =  catholic
+    size = 675
+  }
+  artisans = {
+    culture = fang
+    religion = secularism
+    size = 75
+  }
+  craftsmen = {
+    culture = fang
+    religion =  catholic
+    size = 2131
+  }
+  craftsmen = {
+    culture = fang
+    religion = secularism
+    size = 236
+  }
+  farmers = {
+    culture = fang
+    religion =  catholic
+    size = 29915
+  }
+  farmers = {
+    culture = fang
+    religion = secularism
+    size = 3323
+  }
+  farmers = {
+    culture = biko
+    religion =  catholic
+    size = 10441
+  }
+  farmers = {
+    culture = biko
+    religion = secularism
+    size = 1160
+  }
+  farmers = {
+    culture = afro_spanish
+    religion =  catholic
+    size = 994
+  }
+  farmers = {
+    culture = afro_spanish
+    religion = secularism
+    size = 110
+  }
 }
 #Bata - Bata (149000/37250 POPS)
 1973 = {
-	clergymen = {
-		culture = fang
-		religion =  catholic 
-		size = 670
-	 } 
-	clergymen = {
-		culture = fang
-		religion = secularism
-		size = 74
-	 } 
-	farmers = {
-		culture = fang
-		religion =  catholic 
-		size = 32854
-	 } 
-	farmers = {
-		culture = fang
-		religion = secularism
-		size = 3650
-	 } 
+  clergymen = {
+    culture = fang
+    religion =  catholic
+    size = 670
+  }
+  clergymen = {
+    culture = fang
+    religion = secularism
+    size = 74
+  }
+  farmers = {
+    culture = fang
+    religion =  catholic
+    size = 32854
+  }
+  farmers = {
+    culture = fang
+    religion = secularism
+    size = 3650
+  }
 }

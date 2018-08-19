@@ -1,292 +1,292 @@
 #Colombo - Colombo (7231000/1807750 POPS)
 1321 = {
-	officers = {
-		culture = sinhala
-		religion =  buddhist 
-		size = 7875
-	 } 
-	officers = {
-		culture = sinhala
-		religion = secularism
-		size = 160
-	 } 
-	soldiers = {
-		culture = sinhala
-		religion =  buddhist 
-		size = 149633
-	 } 
-	soldiers = {
-		culture = sinhala
-		religion = secularism
-		size = 3053
-	 } 
-	aristocrats = {
-		culture = sinhala
-		religion =  buddhist 
-		size = 70863
-	 } 
-	aristocrats = {
-		culture = sinhala
-		religion = secularism
-		size = 1446
-	 } 
-	bureaucrats = {
-		culture = sinhala
-		religion =  buddhist 
-		size = 3542
-	 } 
-	bureaucrats = {
-		culture = sinhala
-		religion = secularism
-		size = 72
-	 } 
-	capitalists = {
-		culture = sinhala
-		religion =  buddhist 
-		size = 8857
-	 } 
-	capitalists = {
-		culture = sinhala
-		religion = secularism
-		size = 180
-	 } 
-	clergymen = {
-		culture = sinhala
-		religion =  buddhist 
-		size = 35431
-	 } 
-	clergymen = {
-		culture = sinhala
-		religion = secularism
-		size = 723
-	 } 
-	clerks = {
-		culture = sinhala
-		religion =  buddhist 
-		size = 9095
-	 } 
-	clerks = {
-		culture = sinhala
-		religion = secularism
-		size = 185
-	 } 
-	artisans = {
-		culture = sinhala
-		religion =  buddhist 
-		size = 8640
-	 } 
-	artisans = {
-		culture = sinhala
-		religion = secularism
-		size = 176
-	 } 
-	craftsmen = {
-		culture = sinhala
-		religion =  buddhist 
-		size = 27287
-	 } 
-	craftsmen = {
-		culture = sinhala
-		religion = secularism
-		size = 556
-	 } 
-	farmers = {
-		culture = sinhala
-		religion =  buddhist 
-		size = 1096048
-	 } 
-	farmers = {
-		culture = sinhala
-		religion = secularism
-		size = 22368
-	 } 
-	farmers = {
-		culture = indian_muslim
-		religion =  sunni 
-		size = 361550
-	 } 
+  officers = {
+    culture = sinhala
+    religion =  buddhist
+    size = 7875
+  }
+  officers = {
+    culture = sinhala
+    religion = secularism
+    size = 160
+  }
+  soldiers = {
+    culture = sinhala
+    religion =  buddhist
+    size = 149633
+  }
+  soldiers = {
+    culture = sinhala
+    religion = secularism
+    size = 3053
+  }
+  aristocrats = {
+    culture = sinhala
+    religion =  buddhist
+    size = 70863
+  }
+  aristocrats = {
+    culture = sinhala
+    religion = secularism
+    size = 1446
+  }
+  bureaucrats = {
+    culture = sinhala
+    religion =  buddhist
+    size = 3542
+  }
+  bureaucrats = {
+    culture = sinhala
+    religion = secularism
+    size = 72
+  }
+  capitalists = {
+    culture = sinhala
+    religion =  buddhist
+    size = 8857
+  }
+  capitalists = {
+    culture = sinhala
+    religion = secularism
+    size = 180
+  }
+  clergymen = {
+    culture = sinhala
+    religion =  buddhist
+    size = 35431
+  }
+  clergymen = {
+    culture = sinhala
+    religion = secularism
+    size = 723
+  }
+  clerks = {
+    culture = sinhala
+    religion =  buddhist
+    size = 9095
+  }
+  clerks = {
+    culture = sinhala
+    religion = secularism
+    size = 185
+  }
+  artisans = {
+    culture = sinhala
+    religion =  buddhist
+    size = 8640
+  }
+  artisans = {
+    culture = sinhala
+    religion = secularism
+    size = 176
+  }
+  craftsmen = {
+    culture = sinhala
+    religion =  buddhist
+    size = 27287
+  }
+  craftsmen = {
+    culture = sinhala
+    religion = secularism
+    size = 556
+  }
+  farmers = {
+    culture = sinhala
+    religion =  buddhist
+    size = 1096048
+  }
+  farmers = {
+    culture = sinhala
+    religion = secularism
+    size = 22368
+  }
+  farmers = {
+    culture = indian_muslim
+    religion =  sunni
+    size = 361550
+  }
 }
 #Jaffna - Jaffna (1063000/265750 POPS)
 1322 = {
-	officers = {
-		culture = sinhala
-		religion =  buddhist 
-		size = 1446
-	 } 
-	officers = {
-		culture = sinhala
-		religion = secularism
-		size = 29
-	 } 
-	soldiers = {
-		culture = sinhala
-		religion =  buddhist 
-		size = 11574
-	 } 
-	soldiers = {
-		culture = sinhala
-		religion = secularism
-		size = 236
-	 } 
-	soldiers = {
-		culture = tamil
-		religion =  hindu 
-		size = 15921
-	 } 
-	soldiers = {
-		culture = tamil
-		religion = secularism
-		size = 324
-	 } 
-	aristocrats = {
-		culture = tamil
-		religion =  hindu 
-		size = 10417
-	 } 
-	aristocrats = {
-		culture = tamil
-		religion = secularism
-		size = 212
-	 } 
-	bureaucrats = {
-		culture = tamil
-		religion =  hindu 
-		size = 520
-	 } 
-	bureaucrats = {
-		culture = tamil
-		religion = secularism
-		size = 10
-	 } 
-	capitalists = {
-		culture = tamil
-		religion =  hindu 
-		size = 1301
-	 } 
-	capitalists = {
-		culture = tamil
-		religion = secularism
-		size = 26
-	 } 
-	clergymen = {
-		culture = tamil
-		religion =  hindu 
-		size = 5208
-	 } 
-	clergymen = {
-		culture = tamil
-		religion = secularism
-		size = 106
-	 } 
-	clerks = {
-		culture = tamil
-		religion =  hindu 
-		size = 1304
-	 } 
-	clerks = {
-		culture = tamil
-		religion = secularism
-		size = 26
-	 } 
-	artisans = {
-		culture = tamil
-		religion =  hindu 
-		size = 1238
-	 } 
-	artisans = {
-		culture = tamil
-		religion = secularism
-		size = 25
-	 } 
-	craftsmen = {
-		culture = tamil
-		religion =  hindu 
-		size = 3913
-	 } 
-	craftsmen = {
-		culture = tamil
-		religion = secularism
-		size = 79
-	 } 
-	farmers = {
-		culture = tamil
-		religion =  hindu 
-		size = 207587
-	 } 
-	farmers = {
-		culture = tamil
-		religion = secularism
-		size = 4236
-	 } 
+  officers = {
+    culture = sinhala
+    religion =  buddhist
+    size = 1446
+  }
+  officers = {
+    culture = sinhala
+    religion = secularism
+    size = 29
+  }
+  soldiers = {
+    culture = sinhala
+    religion =  buddhist
+    size = 11574
+  }
+  soldiers = {
+    culture = sinhala
+    religion = secularism
+    size = 236
+  }
+  soldiers = {
+    culture = tamil
+    religion =  hindu
+    size = 15921
+  }
+  soldiers = {
+    culture = tamil
+    religion = secularism
+    size = 324
+  }
+  aristocrats = {
+    culture = tamil
+    religion =  hindu
+    size = 10417
+  }
+  aristocrats = {
+    culture = tamil
+    religion = secularism
+    size = 212
+  }
+  bureaucrats = {
+    culture = tamil
+    religion =  hindu
+    size = 520
+  }
+  bureaucrats = {
+    culture = tamil
+    religion = secularism
+    size = 10
+  }
+  capitalists = {
+    culture = tamil
+    religion =  hindu
+    size = 1301
+  }
+  capitalists = {
+    culture = tamil
+    religion = secularism
+    size = 26
+  }
+  clergymen = {
+    culture = tamil
+    religion =  hindu
+    size = 5208
+  }
+  clergymen = {
+    culture = tamil
+    religion = secularism
+    size = 106
+  }
+  clerks = {
+    culture = tamil
+    religion =  hindu
+    size = 1304
+  }
+  clerks = {
+    culture = tamil
+    religion = secularism
+    size = 26
+  }
+  artisans = {
+    culture = tamil
+    religion =  hindu
+    size = 1238
+  }
+  artisans = {
+    culture = tamil
+    religion = secularism
+    size = 25
+  }
+  craftsmen = {
+    culture = tamil
+    religion =  hindu
+    size = 3913
+  }
+  craftsmen = {
+    culture = tamil
+    religion = secularism
+    size = 79
+  }
+  farmers = {
+    culture = tamil
+    religion =  hindu
+    size = 207587
+  }
+  farmers = {
+    culture = tamil
+    religion = secularism
+    size = 4236
+  }
 }
 #Kandy - Kandy (7015000/1753750 POPS)
 1323 = {
-	clergymen = {
-		culture = sinhala
-		religion =  buddhist 
-		size = 34373
-	 } 
-	clergymen = {
-		culture = sinhala
-		religion = secularism
-		size = 701
-	 } 
-	farmers = {
-		culture = sinhala
-		religion =  buddhist 
-		size = 815493
-	 } 
-	farmers = {
-		culture = sinhala
-		religion = secularism
-		size = 815493
-	 } 
-	farmers = {
-		culture = tamil
-		religion =  hindu 
-		size = 85933
-	 } 
-	farmers = {
-		culture = tamil
-		religion = secularism
-		size = 1753
-	 } 
+  clergymen = {
+    culture = sinhala
+    religion =  buddhist
+    size = 34373
+  }
+  clergymen = {
+    culture = sinhala
+    religion = secularism
+    size = 701
+  }
+  farmers = {
+    culture = sinhala
+    religion =  buddhist
+    size = 815493
+  }
+  farmers = {
+    culture = sinhala
+    religion = secularism
+    size = 815493
+  }
+  farmers = {
+    culture = tamil
+    religion =  hindu
+    size = 85933
+  }
+  farmers = {
+    culture = tamil
+    religion = secularism
+    size = 1753
+  }
 }
 #Trincomalee - Trincomalee (1551000/387750 POPS)
 1324 = {
-	clergymen = {
-		culture = sinhala
-		religion =  buddhist 
-		size = 7599
-	 } 
-	clergymen = {
-		culture = sinhala
-		religion = secularism
-		size = 155
-	 } 
-	farmers = {
-		culture = sinhala
-		religion =  buddhist 
-		size = 87398
-	 } 
-	farmers = {
-		culture = sinhala
-		religion = secularism
-		size = 1783
-	 } 
-	farmers = {
-		culture = tamil
-		religion =  hindu 
-		size = 208996
-	 } 
-	farmers = {
-		culture = tamil
-		religion = secularism
-		size = 4265
-	 } 
-	farmers = {
-		culture = indian_muslim
-		religion =  sunni 
-		size = 77550
-	 } 
+  clergymen = {
+    culture = sinhala
+    religion =  buddhist
+    size = 7599
+  }
+  clergymen = {
+    culture = sinhala
+    religion = secularism
+    size = 155
+  }
+  farmers = {
+    culture = sinhala
+    religion =  buddhist
+    size = 87398
+  }
+  farmers = {
+    culture = sinhala
+    religion = secularism
+    size = 1783
+  }
+  farmers = {
+    culture = tamil
+    religion =  hindu
+    size = 208996
+  }
+  farmers = {
+    culture = tamil
+    religion = secularism
+    size = 4265
+  }
+  farmers = {
+    culture = indian_muslim
+    religion =  sunni
+    size = 77550
+  }
 }

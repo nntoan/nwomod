@@ -6,8 +6,8 @@ life_rating = 36
 terrain = hilly_grassland
 colonial = 2
 1992.1.1 = {
-owner = ERI
-controller = ERI
-add_core = ERI
-colonial = 0
+  owner = ERI
+  controller = ERI
+  add_core = ERI
+  colonial = 0
 }

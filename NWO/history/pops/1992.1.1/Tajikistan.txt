@@ -1,104 +1,104 @@
 #Khojand - Khojand (1721000/430250 POPS)
 1201 = {
-	clergymen = {
-		culture = tajik
-		religion =  sunni 
-		size = 8605
-	 } 
-	farmers = {
-		culture = tajik
-		religion =  sunni 
-		size = 344200
-	 } 
-	farmers = {
-		culture = uzbek
-		religion =  sunni 
-		size = 68840
-	 } 
-	farmers = {
-		culture = kirgiz
-		religion =  sunni 
-		size = 8605
-	 } 
+  clergymen = {
+    culture = tajik
+    religion =  sunni
+    size = 8605
+  }
+  farmers = {
+    culture = tajik
+    religion =  sunni
+    size = 344200
+  }
+  farmers = {
+    culture = uzbek
+    religion =  sunni
+    size = 68840
+  }
+  farmers = {
+    culture = kirgiz
+    religion =  sunni
+    size = 8605
+  }
 }
 #Kulob - Kulob (3391000/847750 POPS)
 1207 = {
-	soldiers = {
-		culture = tajik
-		religion =  sunni 
-		size = 7002
-	 } 
-	aristocrats = {
-		culture = tajik
-		religion =  sunni 
-		size = 33910
-	 } 
-	bureaucrats = {
-		culture = tajik
-		religion =  sunni 
-		size = 1695
-	 } 
-	capitalists = {
-		culture = tajik
-		religion =  sunni 
-		size = 4238
-	 } 
-	clergymen = {
-		culture = tajik
-		religion =  sunni 
-		size = 16955
-	 } 
-	clerks = {
-		culture = tajik
-		religion =  sunni 
-		size = 8311
-	 } 
-	artisans = {
-		culture = tajik
-		religion =  sunni 
-		size = 7895
-	 } 
-	craftsmen = {
-		culture = tajik
-		religion =  sunni 
-		size = 24933
-	 } 
-	farmers = {
-		culture = tajik
-		religion =  sunni 
-		size = 589848
-	 } 
-	farmers = {
-		culture = uzbek
-		religion =  sunni 
-		size = 135640
-	 } 
-	farmers = {
-		culture = russian
-		religion =  orthodox 
-		size = 15089
-	 } 
-	farmers = {
-		culture = russian
-		religion = secularism
-		size = 1865
-	 } 
+  soldiers = {
+    culture = tajik
+    religion =  sunni
+    size = 7002
+  }
+  aristocrats = {
+    culture = tajik
+    religion =  sunni
+    size = 33910
+  }
+  bureaucrats = {
+    culture = tajik
+    religion =  sunni
+    size = 1695
+  }
+  capitalists = {
+    culture = tajik
+    religion =  sunni
+    size = 4238
+  }
+  clergymen = {
+    culture = tajik
+    religion =  sunni
+    size = 16955
+  }
+  clerks = {
+    culture = tajik
+    religion =  sunni
+    size = 8311
+  }
+  artisans = {
+    culture = tajik
+    religion =  sunni
+    size = 7895
+  }
+  craftsmen = {
+    culture = tajik
+    religion =  sunni
+    size = 24933
+  }
+  farmers = {
+    culture = tajik
+    religion =  sunni
+    size = 589848
+  }
+  farmers = {
+    culture = uzbek
+    religion =  sunni
+    size = 135640
+  }
+  farmers = {
+    culture = russian
+    religion =  orthodox
+    size = 15089
+  }
+  farmers = {
+    culture = russian
+    religion = secularism
+    size = 1865
+  }
 }
 #Khorug - Khorug (158000/39500 POPS)
 1208 = {
-	aristocrats = {
-		culture = kirgiz
-		religion =  sunni 
-		size = 1580
-	 } 
-	craftsmen = {
-		culture = kirgiz
-		religion =  sunni 
-		size = 1165
-	 } 
-	farmers = {
-		culture = pamir
-		religion =  sunni 
-		size = 33970
-	 } 
+  aristocrats = {
+    culture = kirgiz
+    religion =  sunni
+    size = 1580
+  }
+  craftsmen = {
+    culture = kirgiz
+    religion =  sunni
+    size = 1165
+  }
+  farmers = {
+    culture = pamir
+    religion =  sunni
+    size = 33970
+  }
 }

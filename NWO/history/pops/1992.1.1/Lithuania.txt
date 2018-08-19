@@ -1,371 +1,371 @@
 #Vilnius - Vilnius (899000/224750 POPS)
 360 = {
-	officers = {
-		culture = lithuanian
-		religion =  catholic
-		size = 212
-	 } 
-	officers = {
-		culture = lithuanian
-		religion = secularism
-		size = 60
-	 } 
-	soldiers = {
-		culture = lithuanian
-		religion =  catholic
-		size = 5190
-	 } 
-	soldiers = {
-		culture = lithuanian
-		religion = secularism
-		size = 1142
-	 } 
-	aristocrats = {
-		culture = lithuanian
-		religion =  catholic
-		size = 7011
-	 } 
-	aristocrats = {
-		culture = lithuanian
-		religion = secularism
-		size = 1978
-	 } 
-	bureaucrats = {
-		culture = lithuanian
-		religion =  catholic
-		size = 349
-	 } 
-	bureaucrats = {
-		culture = lithuanian
-		religion = secularism
-		size = 99 
-	 } 
-	capitalists = {
-		culture = lithuanian
-		religion =  catholic
-		size = 1122
-	 } 
-	capitalists = {
-		culture = lithuanian
-		religion = secularism
-		size = 247
-	 } 
-	clergymen = {
-		culture = lithuanian
-		religion =  catholic
-		size = 3505
-	 } 
-	clergymen = {
-		culture = lithuanian
-		religion = secularism
-		size = 989
-	 } 
-	clerks = {
-		culture = lithuanian
-		religion =  catholic
-		size = 4282
-	 } 
-	clerks = {
-		culture = lithuanian
-		religion = secularism
-		size = 1208
-	 } 
-	artisans = {
-		culture = lithuanian
-		religion =  catholic
-		size = 4067
-	 } 
-	artisans = {
-		culture = lithuanian
-		religion = secularism
-		size = 1148
-	 } 
-	craftsmen = {
-		culture = lithuanian
-		religion =  catholic
-		size = 12849
-	 } 
-	craftsmen = {
-		culture = lithuanian
-		religion = secularism
-		size = 3624
-	 } 
-	farmers = {
-		culture = lithuanian
-		religion =  catholic
-		size = 66222
-	 } 
-	farmers = {
-		culture = lithuanian
-		religion = secularism
-		size = 18678
-	 } 
-	farmers = {
-		culture = polish
-		religion =  catholic 
-		size = 47331
-	 } 
-	farmers = {
-		culture = polish
-		religion = secularism
-		size = 13350
-	 } 
-	farmers = {
-		culture = russian
-		religion =  orthodox 
-		size = 9708
-	 } 
-	farmers = {
-		culture = russian
-		religion = secularism
-		size = 10518
-	 } 
-	farmers = {
-		culture = byelorussian
-		religion =  orthodox 
-		size = 5393
-	 } 
-	farmers = {
-		culture = byelorussian
-		religion = secularism
-		size = 5843
-	 } 
+  officers = {
+    culture = lithuanian
+    religion =  catholic
+    size = 212
+  }
+  officers = {
+    culture = lithuanian
+    religion = secularism
+    size = 60
+  }
+  soldiers = {
+    culture = lithuanian
+    religion =  catholic
+    size = 5190
+  }
+  soldiers = {
+    culture = lithuanian
+    religion = secularism
+    size = 1142
+  }
+  aristocrats = {
+    culture = lithuanian
+    religion =  catholic
+    size = 7011
+  }
+  aristocrats = {
+    culture = lithuanian
+    religion = secularism
+    size = 1978
+  }
+  bureaucrats = {
+    culture = lithuanian
+    religion =  catholic
+    size = 349
+  }
+  bureaucrats = {
+    culture = lithuanian
+    religion = secularism
+    size = 99
+  }
+  capitalists = {
+    culture = lithuanian
+    religion =  catholic
+    size = 1122
+  }
+  capitalists = {
+    culture = lithuanian
+    religion = secularism
+    size = 247
+  }
+  clergymen = {
+    culture = lithuanian
+    religion =  catholic
+    size = 3505
+  }
+  clergymen = {
+    culture = lithuanian
+    religion = secularism
+    size = 989
+  }
+  clerks = {
+    culture = lithuanian
+    religion =  catholic
+    size = 4282
+  }
+  clerks = {
+    culture = lithuanian
+    religion = secularism
+    size = 1208
+  }
+  artisans = {
+    culture = lithuanian
+    religion =  catholic
+    size = 4067
+  }
+  artisans = {
+    culture = lithuanian
+    religion = secularism
+    size = 1148
+  }
+  craftsmen = {
+    culture = lithuanian
+    religion =  catholic
+    size = 12849
+  }
+  craftsmen = {
+    culture = lithuanian
+    religion = secularism
+    size = 3624
+  }
+  farmers = {
+    culture = lithuanian
+    religion =  catholic
+    size = 66222
+  }
+  farmers = {
+    culture = lithuanian
+    religion = secularism
+    size = 18678
+  }
+  farmers = {
+    culture = polish
+    religion =  catholic
+    size = 47331
+  }
+  farmers = {
+    culture = polish
+    religion = secularism
+    size = 13350
+  }
+  farmers = {
+    culture = russian
+    religion =  orthodox
+    size = 9708
+  }
+  farmers = {
+    culture = russian
+    religion = secularism
+    size = 10518
+  }
+  farmers = {
+    culture = byelorussian
+    religion =  orthodox
+    size = 5393
+  }
+  farmers = {
+    culture = byelorussian
+    religion = secularism
+    size = 5843
+  }
 }
 #Kaunas - Kaunas (742000/185500 POPS)
 361 = {
-	officers = {
-		culture = lithuanian
-		religion =  catholic
-		size = 675
-	 } 
-	officers = {
-		culture = lithuanian
-		religion = secularism
-		size = 191
-	 } 
-	soldiers = {
-		culture = lithuanian
-		religion =  catholic
-		size = 12852
-	 } 
-	soldiers = {
-		culture = lithuanian
-		religion = secularism
-		size = 3626
-	 } 
-	aristocrats = {
-		culture = lithuanian
-		religion =  catholic
-		size = 5786
-	 } 
-	aristocrats = {
-		culture = lithuanian
-		religion = secularism
-		size = 1633
-	 } 
-	bureaucrats = {
-		culture = lithuanian
-		religion =  catholic
-		size = 288
-	 } 
-	bureaucrats = {
-		culture = lithuanian
-		religion = secularism
-		size = 82
-	 } 
-	capitalists = {
-		culture = lithuanian
-		religion =  catholic
-		size = 722
-	 } 
-	capitalists = {
-		culture = lithuanian
-		religion = secularism
-		size = 204
-	 } 
-	clergymen = {
-		culture = lithuanian
-		religion =  catholic
-		size = 2893
-	 } 
-	clergymen = {
-		culture = lithuanian
-		religion = secularism
-		size = 816
-	 } 
-	clerks = {
-		culture = lithuanian
-		religion =  catholic
-		size = 3283
-	 } 
-	clerks = {
-		culture = lithuanian
-		religion = secularism
-		size = 927
-	 } 
-	artisans = {
-		culture = lithuanian
-		religion =  catholic
-		size = 3120
-	 } 
-	artisans = {
-		culture = lithuanian
-		religion = secularism
-		size = 880
-	 } 
-	craftsmen = {
-		culture = lithuanian
-		religion =  catholic
-		size = 9852
-	 } 
-	craftsmen = {
-		culture = lithuanian
-		religion = secularism
-		size = 2780
-	 } 
-	farmers = {
-		culture = lithuanian
-		religion =  catholic
-		size = 89291
-	 } 
-	farmers = {
-		culture = lithuanian
-		religion = secularism
-		size = 25185
-	 } 
-	farmers = {
-		culture = russian
-		religion =  orthodox 
-		size = 9794
-	 } 
-	farmers = {
-		culture = russian
-		religion = secularism
-		size = 10610
-	 } 
+  officers = {
+    culture = lithuanian
+    religion =  catholic
+    size = 675
+  }
+  officers = {
+    culture = lithuanian
+    religion = secularism
+    size = 191
+  }
+  soldiers = {
+    culture = lithuanian
+    religion =  catholic
+    size = 12852
+  }
+  soldiers = {
+    culture = lithuanian
+    religion = secularism
+    size = 3626
+  }
+  aristocrats = {
+    culture = lithuanian
+    religion =  catholic
+    size = 5786
+  }
+  aristocrats = {
+    culture = lithuanian
+    religion = secularism
+    size = 1633
+  }
+  bureaucrats = {
+    culture = lithuanian
+    religion =  catholic
+    size = 288
+  }
+  bureaucrats = {
+    culture = lithuanian
+    religion = secularism
+    size = 82
+  }
+  capitalists = {
+    culture = lithuanian
+    religion =  catholic
+    size = 722
+  }
+  capitalists = {
+    culture = lithuanian
+    religion = secularism
+    size = 204
+  }
+  clergymen = {
+    culture = lithuanian
+    religion =  catholic
+    size = 2893
+  }
+  clergymen = {
+    culture = lithuanian
+    religion = secularism
+    size = 816
+  }
+  clerks = {
+    culture = lithuanian
+    religion =  catholic
+    size = 3283
+  }
+  clerks = {
+    culture = lithuanian
+    religion = secularism
+    size = 927
+  }
+  artisans = {
+    culture = lithuanian
+    religion =  catholic
+    size = 3120
+  }
+  artisans = {
+    culture = lithuanian
+    religion = secularism
+    size = 880
+  }
+  craftsmen = {
+    culture = lithuanian
+    religion =  catholic
+    size = 9852
+  }
+  craftsmen = {
+    culture = lithuanian
+    religion = secularism
+    size = 2780
+  }
+  farmers = {
+    culture = lithuanian
+    religion =  catholic
+    size = 89291
+  }
+  farmers = {
+    culture = lithuanian
+    religion = secularism
+    size = 25185
+  }
+  farmers = {
+    culture = russian
+    religion =  orthodox
+    size = 9794
+  }
+  farmers = {
+    culture = russian
+    religion = secularism
+    size = 10610
+  }
 }
 #Marjampole - Marjampole (402000/100500 POPS)
 362 = {
-	clergymen = {
-		culture = lithuanian
-		religion =  catholic
-		size = 1567
-	 } 
-	clergymen = {
-		culture = lithuanian
-		religion = secularism
-		size = 442
-	 } 
-	farmers = {
-		culture = lithuanian
-		religion =  catholic
-		size = 76821
-	 } 
-	farmers = {
-		culture = lithuanian
-		religion = secularism
-		size = 21668
-	 } 
+  clergymen = {
+    culture = lithuanian
+    religion =  catholic
+    size = 1567
+  }
+  clergymen = {
+    culture = lithuanian
+    religion = secularism
+    size = 442
+  }
+  farmers = {
+    culture = lithuanian
+    religion =  catholic
+    size = 76821
+  }
+  farmers = {
+    culture = lithuanian
+    religion = secularism
+    size = 21668
+  }
 }
 #Panevezys - Panevezys (515000/128750 POPS)
 363 = {
-	clergymen = {
-		culture = lithuanian
-		religion =  catholic
-		size = 2008
-	 } 
-	clergymen = {
-		culture = lithuanian
-		religion = secularism
-		size = 567
-	 } 
-	farmers = {
-		culture = lithuanian
-		religion =  catholic
-		size = 98416
-	 } 
-	farmers = {
-		culture = lithuanian
-		religion = secularism
-		size = 27759
-	 } 
+  clergymen = {
+    culture = lithuanian
+    religion =  catholic
+    size = 2008
+  }
+  clergymen = {
+    culture = lithuanian
+    religion = secularism
+    size = 567
+  }
+  farmers = {
+    culture = lithuanian
+    religion =  catholic
+    size = 98416
+  }
+  farmers = {
+    culture = lithuanian
+    religion = secularism
+    size = 27759
+  }
 }
 #Siauliai - Siauliai (537000/134250 POPS)
 364 = {
-	clergymen = {
-		culture = lithuanian
-		religion =  catholic
-		size = 2094
-	 } 
-	clergymen = {
-		culture = lithuanian
-		religion = secularism
-		size = 590
-	 } 
-	farmers = {
-		culture = lithuanian
-		religion =  catholic 
-		size = 102619
-	 } 
-	farmers = {
-		culture = lithuanian
-		religion = secularism
-		size = 28945
-	 } 
+  clergymen = {
+    culture = lithuanian
+    religion =  catholic
+    size = 2094
+  }
+  clergymen = {
+    culture = lithuanian
+    religion = secularism
+    size = 590
+  }
+  farmers = {
+    culture = lithuanian
+    religion =  catholic
+    size = 102619
+  }
+  farmers = {
+    culture = lithuanian
+    religion = secularism
+    size = 28945
+  }
 }
 #Palanga - Palanga (189000/47250 POPS)
 365 = {
-	clergymen = {
-		culture = lithuanian
-		religion =  catholic
-		size = 736
-	 } 
-	clergymen = {
-		culture = lithuanian
-		religion = secularism
-		size = 208
-	 } 
-	farmers = {
-		culture = lithuanian
-		religion =  catholic
-		size = 36117
-	 } 
-	farmers = {
-		culture = lithuanian
-		religion = secularism
-		size = 10187
-	 } 
+  clergymen = {
+    culture = lithuanian
+    religion =  catholic
+    size = 736
+  }
+  clergymen = {
+    culture = lithuanian
+    religion = secularism
+    size = 208
+  }
+  farmers = {
+    culture = lithuanian
+    religion =  catholic
+    size = 36117
+  }
+  farmers = {
+    culture = lithuanian
+    religion = secularism
+    size = 10187
+  }
 }
 #Memel - Memel (407000/101750 POPS)
 698 = {
-	clergymen = {
-		culture = lithuanian
-		religion =  catholic
-		size = 1587
-	 } 
-	clergymen = {
-		culture = lithuanian
-		religion = secularism
-		size = 447
-	 } 
-	farmers = {
-		culture = lithuanian
-		religion =  catholic
-		size = 68253
-	 } 
-	farmers = {
-		culture = lithuanian
-		religion = secularism
-		size = 19251
-	 } 
-	farmers = {
-		culture = russian
-		religion =  orthodox 
-		size = 5860
-	 } 
-	farmers = {
-		culture = russian
-		religion = secularism
-		size = 6349
-	 } 
+  clergymen = {
+    culture = lithuanian
+    religion =  catholic
+    size = 1587
+  }
+  clergymen = {
+    culture = lithuanian
+    religion = secularism
+    size = 447
+  }
+  farmers = {
+    culture = lithuanian
+    religion =  catholic
+    size = 68253
+  }
+  farmers = {
+    culture = lithuanian
+    religion = secularism
+    size = 19251
+  }
+  farmers = {
+    culture = russian
+    religion =  orthodox
+    size = 5860
+  }
+  farmers = {
+    culture = russian
+    religion = secularism
+    size = 6349
+  }
 }

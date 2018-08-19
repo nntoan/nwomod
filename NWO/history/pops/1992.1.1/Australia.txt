@@ -1,1814 +1,1814 @@
 #Christmas Island - Christmas Island (1000/250 POPS)
 2244 = {
-	soldiers = {
-		culture = chinese
-		religion =  taoism 
-		size = 1
-	 } 
-	soldiers = {
-		culture = chinese
-		religion = secularism
-		size = 2
-	 } 
-	aristocrats = {
-		culture = chinese
-		religion =  taoism 
-		size = 3
-	 } 
-	aristocrats = {
-		culture = chinese
-		religion = secularism
-		size = 6
-	 } 
-	clergymen = {
-		culture = chinese
-		religion =  taoism 
-		size = 1
-	 } 
-	clergymen = {
-		culture = chinese
-		religion = secularism
-		size = 3
-	 } 
-	clerks = {
-		culture = chinese
-		religion =  taoism 
-		size = 2
-	 } 
-	clerks = {
-		culture = chinese
-		religion = secularism
-		size = 5
-	 } 
-	artisans = {
-		culture = chinese
-		religion =  taoism 
-		size = 2
-	 } 
-	artisans = {
-		culture = chinese
-		religion = secularism
-		size = 4
-	 } 
-	craftsmen = {
-		culture = chinese
-		religion =  taoism 
-		size = 7
-	 } 
-	craftsmen = {
-		culture = chinese
-		religion = secularism
-		size = 16
-	 } 
-	farmers = {
-		culture = chinese
-		religion =  taoism 
-		size = 63
-	 } 
-	farmers = {
-		culture = chinese
-		religion = secularism
-		size = 127
-	 } 
+  soldiers = {
+    culture = chinese
+    religion =  taoism
+    size = 1
+  }
+  soldiers = {
+    culture = chinese
+    religion = secularism
+    size = 2
+  }
+  aristocrats = {
+    culture = chinese
+    religion =  taoism
+    size = 3
+  }
+  aristocrats = {
+    culture = chinese
+    religion = secularism
+    size = 6
+  }
+  clergymen = {
+    culture = chinese
+    religion =  taoism
+    size = 1
+  }
+  clergymen = {
+    culture = chinese
+    religion = secularism
+    size = 3
+  }
+  clerks = {
+    culture = chinese
+    religion =  taoism
+    size = 2
+  }
+  clerks = {
+    culture = chinese
+    religion = secularism
+    size = 5
+  }
+  artisans = {
+    culture = chinese
+    religion =  taoism
+    size = 2
+  }
+  artisans = {
+    culture = chinese
+    religion = secularism
+    size = 4
+  }
+  craftsmen = {
+    culture = chinese
+    religion =  taoism
+    size = 7
+  }
+  craftsmen = {
+    culture = chinese
+    religion = secularism
+    size = 16
+  }
+  farmers = {
+    culture = chinese
+    religion =  taoism
+    size = 63
+  }
+  farmers = {
+    culture = chinese
+    religion = secularism
+    size = 127
+  }
 }
 #Cocos Islands - Cocos Islands (1000/250 POPS)
 2406 = {
-	clergymen = {
-		culture = malay
-		religion =  sunni 
-		size = 5
-	 } 
-	farmers = {
-		culture = malay
-		religion =  sunni 
-		size = 245
-	 } 
+  clergymen = {
+    culture = malay
+    religion =  sunni
+    size = 5
+  }
+  farmers = {
+    culture = malay
+    religion =  sunni
+    size = 245
+  }
 }
 #Sydney - New South Wales (3492000/873000 POPS)
 2468 = {
-	capitalists = {
-		culture = jewish
-		religion =  jewish 
-		size = 1440
-	 } 
-	capitalists = {
-		culture = jewish
-		religion = secularism
-		size = 2924
-	 } 
-	officers = {
-		culture = aussie
-		religion =  protestant 
-		size = 318
-	 } 
-	officers = {
-		culture = aussie
-		religion = secularism
-		size = 647
-	 } 
-	soldiers = {
-		culture = aussie
-		religion =  protestant 
-		size = 6056
-	 } 
-	soldiers = {
-		culture = aussie
-		religion = secularism
-		size = 12297
-	 } 
-	aristocrats = {
-		culture = aussie
-		religion =  protestant 
-		size = 11523
-	 } 
-	aristocrats = {
-		culture = aussie
-		religion = secularism
-		size = 23396
-	 } 
-	bureaucrats = {
-		culture = aussie
-		religion =  protestant 
-		size = 576
-	 } 
-	bureaucrats = {
-		culture = aussie
-		religion = secularism
-		size = 1169
-	 } 
-	clergymen = {
-		culture = aussie
-		religion =  protestant 
-		size = 5761
-	 } 
-	clergymen = {
-		culture = aussie
-		religion = secularism
-		size = 11698
-	 } 
-	clerks = {
-		culture = aussie
-		religion =  protestant 
-		size = 9377
-	 } 
-	clerks = {
-		culture = aussie
-		religion = secularism
-		size = 19040
-	 } 
-	artisans = {
-		culture = aussie
-		religion =  protestant 
-		size = 8909
-	 } 
-	artisans = {
-		culture = aussie
-		religion = secularism
-		size = 18087
-	 } 
-	craftsmen = {
-		culture = aussie
-		religion =  protestant 
-		size = 28134
-	 } 
-	craftsmen = {
-		culture = aussie
-		religion = secularism
-		size = 57120
-	 } 
-	farmers = {
-		culture = aussie
-		religion =  protestant 
-		size = 151171
-	 } 
-	farmers = {
-		culture = aussie
-		religion = secularism
-		size = 306922
-	 } 
-	farmers = {
-		culture = jewish
-		religion =  jewish 
-		size = 4321
-	 } 
-	farmers = {
-		culture = jewish
-		religion = secularism
-		size = 8773
-	 } 
-	farmers = {
-		culture = chinese
-		religion =  taoism 
-		size = 17285
-	 } 
-	farmers = {
-		culture = chinese
-		religion = secularism
-		size = 35094
-	 } 
-	farmers = {
-		culture = indian
-		religion =  hindu 
-		size = 25928
-	 } 
-	farmers = {
-		culture = indian
-		religion = secularism
-		size = 52641
-	 } 
-	farmers = {
-		culture = indian_muslim
-		religion =  sunni 
-		size = 34920
-	 } 
-	farmers = {
-		culture = sunni_arab
-		religion =  sunni 
-		size = 17460
-	 } 
+  capitalists = {
+    culture = jewish
+    religion =  jewish
+    size = 1440
+  }
+  capitalists = {
+    culture = jewish
+    religion = secularism
+    size = 2924
+  }
+  officers = {
+    culture = aussie
+    religion =  protestant
+    size = 318
+  }
+  officers = {
+    culture = aussie
+    religion = secularism
+    size = 647
+  }
+  soldiers = {
+    culture = aussie
+    religion =  protestant
+    size = 6056
+  }
+  soldiers = {
+    culture = aussie
+    religion = secularism
+    size = 12297
+  }
+  aristocrats = {
+    culture = aussie
+    religion =  protestant
+    size = 11523
+  }
+  aristocrats = {
+    culture = aussie
+    religion = secularism
+    size = 23396
+  }
+  bureaucrats = {
+    culture = aussie
+    religion =  protestant
+    size = 576
+  }
+  bureaucrats = {
+    culture = aussie
+    religion = secularism
+    size = 1169
+  }
+  clergymen = {
+    culture = aussie
+    religion =  protestant
+    size = 5761
+  }
+  clergymen = {
+    culture = aussie
+    religion = secularism
+    size = 11698
+  }
+  clerks = {
+    culture = aussie
+    religion =  protestant
+    size = 9377
+  }
+  clerks = {
+    culture = aussie
+    religion = secularism
+    size = 19040
+  }
+  artisans = {
+    culture = aussie
+    religion =  protestant
+    size = 8909
+  }
+  artisans = {
+    culture = aussie
+    religion = secularism
+    size = 18087
+  }
+  craftsmen = {
+    culture = aussie
+    religion =  protestant
+    size = 28134
+  }
+  craftsmen = {
+    culture = aussie
+    religion = secularism
+    size = 57120
+  }
+  farmers = {
+    culture = aussie
+    religion =  protestant
+    size = 151171
+  }
+  farmers = {
+    culture = aussie
+    religion = secularism
+    size = 306922
+  }
+  farmers = {
+    culture = jewish
+    religion =  jewish
+    size = 4321
+  }
+  farmers = {
+    culture = jewish
+    religion = secularism
+    size = 8773
+  }
+  farmers = {
+    culture = chinese
+    religion =  taoism
+    size = 17285
+  }
+  farmers = {
+    culture = chinese
+    religion = secularism
+    size = 35094
+  }
+  farmers = {
+    culture = indian
+    religion =  hindu
+    size = 25928
+  }
+  farmers = {
+    culture = indian
+    religion = secularism
+    size = 52641
+  }
+  farmers = {
+    culture = indian_muslim
+    religion =  sunni
+    size = 34920
+  }
+  farmers = {
+    culture = sunni_arab
+    religion =  sunni
+    size = 17460
+  }
 }
 #Newcastle - New South Wales (636000/159000 POPS)
 2469 = {
-	clergymen = {
-		culture = aussie
-		religion =  protestant 
-		size = 1049
-	 } 
-	clergymen = {
-		culture = aussie
-		religion = secularism
-		size = 2130
-	 } 
-	farmers = {
-		culture = aussie
-		religion =  protestant 
-		size = 51420
-	 } 
-	farmers = {
-		culture = aussie
-		religion = secularism
-		size = 104399
-	 } 
+  clergymen = {
+    culture = aussie
+    religion =  protestant
+    size = 1049
+  }
+  clergymen = {
+    culture = aussie
+    religion = secularism
+    size = 2130
+  }
+  farmers = {
+    culture = aussie
+    religion =  protestant
+    size = 51420
+  }
+  farmers = {
+    culture = aussie
+    religion = secularism
+    size = 104399
+  }
 }
 #Port Macquarie - New South Wales (446000/111500 POPS)
 2470 = {
-	clergymen = {
-		culture = aussie
-		religion =  protestant 
-		size = 735
-	 } 
-	clergymen = {
-		culture = aussie
-		religion = secularism
-		size = 1494
-	 } 
-	farmers = {
-		culture = aussie
-		religion =  protestant 
-		size = 36059
-	 } 
-	farmers = {
-		culture = aussie
-		religion = secularism
-		size = 73210
-	 } 
+  clergymen = {
+    culture = aussie
+    religion =  protestant
+    size = 735
+  }
+  clergymen = {
+    culture = aussie
+    religion = secularism
+    size = 1494
+  }
+  farmers = {
+    culture = aussie
+    religion =  protestant
+    size = 36059
+  }
+  farmers = {
+    culture = aussie
+    religion = secularism
+    size = 73210
+  }
 }
 #Ophir - New South Wales (336000/84000 POPS)
 2471 = {
-	clergymen = {
-		culture = aussie
-		religion =  protestant 
-		size = 554
-	 } 
-	clergymen = {
-		culture = aussie
-		religion = secularism
-		size = 1125
-	 } 
-	farmers = {
-		culture = aussie
-		religion =  protestant 
-		size = 27165
-	 } 
-	farmers = {
-		culture = aussie
-		religion = secularism
-		size = 55154
-	 } 
+  clergymen = {
+    culture = aussie
+    religion =  protestant
+    size = 554
+  }
+  clergymen = {
+    culture = aussie
+    religion = secularism
+    size = 1125
+  }
+  farmers = {
+    culture = aussie
+    religion =  protestant
+    size = 27165
+  }
+  farmers = {
+    culture = aussie
+    religion = secularism
+    size = 55154
+  }
 }
 #Eden - Canberra, Wollongong (503000/125750 POPS)
 2472 = {
-	clergymen = {
-		culture = aussie
-		religion =  protestant 
-		size = 829
-	 } 
-	clergymen = {
-		culture = aussie
-		religion = secularism
-		size = 1685
-	 } 
-	farmers = {
-		culture = aussie
-		religion =  protestant 
-		size = 40667
-	 } 
-	farmers = {
-		culture = aussie
-		religion = secularism
-		size = 82567
-	 } 
+  clergymen = {
+    culture = aussie
+    religion =  protestant
+    size = 829
+  }
+  clergymen = {
+    culture = aussie
+    religion = secularism
+    size = 1685
+  }
+  farmers = {
+    culture = aussie
+    religion =  protestant
+    size = 40667
+  }
+  farmers = {
+    culture = aussie
+    religion = secularism
+    size = 82567
+  }
 }
 #Wagga Wagga - New South Wales (118000/29500 POPS)
 2473 = {
-	clergymen = {
-		culture = aussie
-		religion =  protestant 
-		size = 194
-	 } 
-	clergymen = {
-		culture = aussie
-		religion = secularism
-		size = 395
-	 } 
-	farmers = {
-		culture = aussie
-		religion =  protestant 
-		size = 9540
-	 } 
-	farmers = {
-		culture = aussie
-		religion = secularism
-		size = 19369
-	 } 
+  clergymen = {
+    culture = aussie
+    religion =  protestant
+    size = 194
+  }
+  clergymen = {
+    culture = aussie
+    religion = secularism
+    size = 395
+  }
+  farmers = {
+    culture = aussie
+    religion =  protestant
+    size = 9540
+  }
+  farmers = {
+    culture = aussie
+    religion = secularism
+    size = 19369
+  }
 }
 #Moree - New South Wales (97000/24250 POPS)
 2474 = {
-	clergymen = {
-		culture = aussie
-		religion =  protestant 
-		size = 160
-	 } 
-	clergymen = {
-		culture = aussie
-		religion = secularism
-		size = 324
-	 } 
-	farmers = {
-		culture = aussie
-		religion =  protestant 
-		size = 7842
-	 } 
-	farmers = {
-		culture = aussie
-		religion = secularism
-		size = 15922
-	 } 
+  clergymen = {
+    culture = aussie
+    religion =  protestant
+    size = 160
+  }
+  clergymen = {
+    culture = aussie
+    religion = secularism
+    size = 324
+  }
+  farmers = {
+    culture = aussie
+    religion =  protestant
+    size = 7842
+  }
+  farmers = {
+    culture = aussie
+    religion = secularism
+    size = 15922
+  }
 }
 #Broken Hill - New South Wales (89000/22250 POPS)
 2475 = {
-	clergymen = {
-		culture = aussie
-		religion =  protestant 
-		size = 146
-	 } 
-	clergymen = {
-		culture = aussie
-		religion = secularism
-		size = 298
-	 } 
-	farmers = {
-		culture = aussie
-		religion =  protestant 
-		size = 5727
-	 } 
-	farmers = {
-		culture = aussie
-		religion = secularism
-		size = 11627
-	 } 
-	farmers = {
-		culture = aborigine
-		religion =  protestant 
-		size = 1468
-	 } 
-	farmers = {
-		culture = aborigine
-		religion = secularism
-		size = 2981
-	 } 
+  clergymen = {
+    culture = aussie
+    religion =  protestant
+    size = 146
+  }
+  clergymen = {
+    culture = aussie
+    religion = secularism
+    size = 298
+  }
+  farmers = {
+    culture = aussie
+    religion =  protestant
+    size = 5727
+  }
+  farmers = {
+    culture = aussie
+    religion = secularism
+    size = 11627
+  }
+  farmers = {
+    culture = aborigine
+    religion =  protestant
+    size = 1468
+  }
+  farmers = {
+    culture = aborigine
+    religion = secularism
+    size = 2981
+  }
 }
 #Melbourne - Victoria (3177000/794250 POPS)
 2476 = {
-	capitalists = {
-		culture = aussie
-		religion =  protestant 
-		size = 1310
-	 } 
-	capitalists = {
-		culture = aussie
-		religion = secularism
-		size = 2660
-	 } 
-	officers = {
-		culture = aussie
-		religion =  protestant 
-		size = 256
-	 } 
-	officers = {
-		culture = aussie
-		religion = secularism
-		size = 519
-	 } 
-	soldiers = {
-		culture = aussie
-		religion =  protestant 
-		size = 4871
-	 } 
-	soldiers = {
-		culture = aussie
-		religion = secularism
-		size = 9890
-	 } 
-	aristocrats = {
-		culture = aussie
-		religion =  protestant 
-		size = 10484
-	 } 
-	aristocrats = {
-		culture = aussie
-		religion = secularism
-		size = 21285
-	 } 
-	bureaucrats = {
-		culture = aussie
-		religion =  protestant 
-		size = 524
-	 } 
-	bureaucrats = {
-		culture = aussie
-		religion = secularism
-		size = 1063
-	 } 
-	clergymen = {
-		culture = aussie
-		religion =  protestant 
-		size = 5242
-	 } 
-	clergymen = {
-		culture = aussie
-		religion = secularism
-		size = 10642
-	 } 
-	clerks = {
-		culture = aussie
-		religion =  protestant 
-		size = 8554
-	 } 
-	clerks = {
-		culture = aussie
-		religion = secularism
-		size = 17368
-	 } 
-	artisans = {
-		culture = aussie
-		religion =  protestant 
-		size = 8126
-	 } 
-	artisans = {
-		culture = aussie
-		religion = secularism
-		size = 16499
-	 } 
-	craftsmen = {
-		culture = aussie
-		religion =  protestant 
-		size = 25663
-	 } 
-	craftsmen = {
-		culture = aussie
-		religion = secularism
-		size = 52105
-	 } 
-	farmers = {
-		culture = aussie
-		religion =  protestant 
-		size = 142027
-	 } 
-	farmers = {
-		culture = aussie
-		religion = secularism
-		size = 288359
-	 } 
-	farmers = {
-		culture = chinese
-		religion =  taoism 
-		size = 15726
-	 } 
-	farmers = {
-		culture = chinese
-		religion = secularism
-		size = 31928
-	 } 
-	farmers = {
-		culture = indian
-		religion =  hindu 
-		size = 23589
-	 } 
-	farmers = {
-		culture = indian
-		religion = secularism
-		size = 47892
-	 } 
-	farmers = {
-		culture = indian_muslim
-		religion =  sunni 
-		size = 31770
-	 } 
-	farmers = {
-		culture = sunni_arab
-		religion =  sunni 
-		size = 15885
-	 } 
+  capitalists = {
+    culture = aussie
+    religion =  protestant
+    size = 1310
+  }
+  capitalists = {
+    culture = aussie
+    religion = secularism
+    size = 2660
+  }
+  officers = {
+    culture = aussie
+    religion =  protestant
+    size = 256
+  }
+  officers = {
+    culture = aussie
+    religion = secularism
+    size = 519
+  }
+  soldiers = {
+    culture = aussie
+    religion =  protestant
+    size = 4871
+  }
+  soldiers = {
+    culture = aussie
+    religion = secularism
+    size = 9890
+  }
+  aristocrats = {
+    culture = aussie
+    religion =  protestant
+    size = 10484
+  }
+  aristocrats = {
+    culture = aussie
+    religion = secularism
+    size = 21285
+  }
+  bureaucrats = {
+    culture = aussie
+    religion =  protestant
+    size = 524
+  }
+  bureaucrats = {
+    culture = aussie
+    religion = secularism
+    size = 1063
+  }
+  clergymen = {
+    culture = aussie
+    religion =  protestant
+    size = 5242
+  }
+  clergymen = {
+    culture = aussie
+    religion = secularism
+    size = 10642
+  }
+  clerks = {
+    culture = aussie
+    religion =  protestant
+    size = 8554
+  }
+  clerks = {
+    culture = aussie
+    religion = secularism
+    size = 17368
+  }
+  artisans = {
+    culture = aussie
+    religion =  protestant
+    size = 8126
+  }
+  artisans = {
+    culture = aussie
+    religion = secularism
+    size = 16499
+  }
+  craftsmen = {
+    culture = aussie
+    religion =  protestant
+    size = 25663
+  }
+  craftsmen = {
+    culture = aussie
+    religion = secularism
+    size = 52105
+  }
+  farmers = {
+    culture = aussie
+    religion =  protestant
+    size = 142027
+  }
+  farmers = {
+    culture = aussie
+    religion = secularism
+    size = 288359
+  }
+  farmers = {
+    culture = chinese
+    religion =  taoism
+    size = 15726
+  }
+  farmers = {
+    culture = chinese
+    religion = secularism
+    size = 31928
+  }
+  farmers = {
+    culture = indian
+    religion =  hindu
+    size = 23589
+  }
+  farmers = {
+    culture = indian
+    religion = secularism
+    size = 47892
+  }
+  farmers = {
+    culture = indian_muslim
+    religion =  sunni
+    size = 31770
+  }
+  farmers = {
+    culture = sunni_arab
+    religion =  sunni
+    size = 15885
+  }
 }
 #Warmambool - Victoria (222000/55500 POPS)
 2477 = {
-	clergymen = {
-		culture = aussie
-		religion =  protestant 
-		size = 366
-	 } 
-	clergymen = {
-		culture = aussie
-		religion = secularism
-		size = 743
-	 } 
-	farmers = {
-		culture = aussie
-		religion =  protestant 
-		size = 17948
-	 } 
-	farmers = {
-		culture = aussie
-		religion = secularism
-		size = 36441
-	 } 
+  clergymen = {
+    culture = aussie
+    religion =  protestant
+    size = 366
+  }
+  clergymen = {
+    culture = aussie
+    religion = secularism
+    size = 743
+  }
+  farmers = {
+    culture = aussie
+    religion =  protestant
+    size = 17948
+  }
+  farmers = {
+    culture = aussie
+    religion = secularism
+    size = 36441
+  }
 }
 #Ballarat - Victoria (261000/65250 POPS)
 2478 = {
-	clergymen = {
-		culture = aussie
-		religion =  protestant 
-		size = 430
-	 } 
-	clergymen = {
-		culture = aussie
-		religion = secularism
-		size = 874
-	 } 
-	farmers = {
-		culture = aussie
-		religion =  protestant 
-		size = 21101
-	 } 
-	farmers = {
-		culture = aussie
-		religion = secularism
-		size = 42843
-	 } 
+  clergymen = {
+    culture = aussie
+    religion =  protestant
+    size = 430
+  }
+  clergymen = {
+    culture = aussie
+    religion = secularism
+    size = 874
+  }
+  farmers = {
+    culture = aussie
+    religion =  protestant
+    size = 21101
+  }
+  farmers = {
+    culture = aussie
+    religion = secularism
+    size = 42843
+  }
 }
 #Sale - Victoria (187000/46750 POPS)
 2479 = {
-	clergymen = {
-		culture = aussie
-		religion =  protestant 
-		size = 308
-	 } 
-	clergymen = {
-		culture = aussie
-		religion = secularism
-		size = 626
-	 } 
-	farmers = {
-		culture = aussie
-		religion =  protestant 
-		size = 15118
-	 } 
-	farmers = {
-		culture = aussie
-		religion = secularism
-		size = 30696
-	 } 
+  clergymen = {
+    culture = aussie
+    religion =  protestant
+    size = 308
+  }
+  clergymen = {
+    culture = aussie
+    religion = secularism
+    size = 626
+  }
+  farmers = {
+    culture = aussie
+    religion =  protestant
+    size = 15118
+  }
+  farmers = {
+    culture = aussie
+    religion = secularism
+    size = 30696
+  }
 }
 #Beechworth - Victoria (164000/41000 POPS)
 2480 = {
-	clergymen = {
-		culture = aussie
-		religion =  protestant 
-		size = 270
-	 } 
-	clergymen = {
-		culture = aussie
-		religion = secularism
-		size = 549
-	 } 
-	farmers = {
-		culture = aussie
-		religion =  protestant 
-		size = 13259
-	 } 
-	farmers = {
-		culture = aussie
-		religion = secularism
-		size = 26920
-	 } 
+  clergymen = {
+    culture = aussie
+    religion =  protestant
+    size = 270
+  }
+  clergymen = {
+    culture = aussie
+    religion = secularism
+    size = 549
+  }
+  farmers = {
+    culture = aussie
+    religion =  protestant
+    size = 13259
+  }
+  farmers = {
+    culture = aussie
+    religion = secularism
+    size = 26920
+  }
 }
 #Swan Hill - Victoria (179000/44750 POPS)
 2481 = {
-	clergymen = {
-		culture = aussie
-		religion =  protestant 
-		size = 295
-	 } 
-	clergymen = {
-		culture = aussie
-		religion = secularism
-		size = 599
-	 } 
-	farmers = {
-		culture = aussie
-		religion =  protestant 
-		size = 14472
-	 } 
-	farmers = {
-		culture = aussie
-		religion = secularism
-		size = 29382
-	 } 
+  clergymen = {
+    culture = aussie
+    religion =  protestant
+    size = 295
+  }
+  clergymen = {
+    culture = aussie
+    religion = secularism
+    size = 599
+  }
+  farmers = {
+    culture = aussie
+    religion =  protestant
+    size = 14472
+  }
+  farmers = {
+    culture = aussie
+    religion = secularism
+    size = 29382
+  }
 }
 #Tasmania - Tasmania (383000/95750 POPS)
 2482 = {
-	clergymen = {
-		culture = aussie
-		religion =  protestant 
-		size = 631
-	 } 
-	clergymen = {
-		culture = aussie
-		religion = secularism
-		size = 1283
-	 } 
-	farmers = {
-		culture = aussie
-		religion =  protestant 
-		size = 30965
-	 } 
-	farmers = {
-		culture = aussie
-		religion = secularism
-		size = 62869
-	 } 
+  clergymen = {
+    culture = aussie
+    religion =  protestant
+    size = 631
+  }
+  clergymen = {
+    culture = aussie
+    religion = secularism
+    size = 1283
+  }
+  farmers = {
+    culture = aussie
+    religion =  protestant
+    size = 30965
+  }
+  farmers = {
+    culture = aussie
+    religion = secularism
+    size = 62869
+  }
 }
 #Brisbane - Queensland (2529000/632250 POPS)
 2483 = {
-	capitalists = {
-		culture = aussie
-		religion =  protestant 
-		size = 1043
-	 } 
-	capitalists = {
-		culture = aussie
-		religion = secularism
-		size = 2117
-	 } 
-	officers = {
-		culture = aussie
-		religion =  protestant 
-		size = 190
-	 } 
-	officers = {
-		culture = aussie
-		religion = secularism
-		size = 385
-	 } 
-	soldiers = {
-		culture = aussie
-		religion =  protestant 
-		size = 3615
-	 } 
-	soldiers = {
-		culture = aussie
-		religion = secularism
-		size = 7341
-	 } 
-	aristocrats = {
-		culture = aussie
-		religion =  protestant 
-		size = 8345
-	 } 
-	aristocrats = {
-		culture = aussie
-		religion = secularism
-		size = 16944
-	 } 
-	bureaucrats = {
-		culture = aussie
-		religion =  protestant 
-		size = 417
-	 } 
-	bureaucrats = {
-		culture = aussie
-		religion = secularism
-		size = 846
-	 } 
-	clergymen = {
-		culture = aussie
-		religion =  protestant 
-		size = 4172
-	 } 
-	clergymen = {
-		culture = aussie
-		religion = secularism
-		size = 8472
-	 } 
-	clerks = {
-		culture = aussie
-		religion =  protestant 
-		size = 6818
-	 } 
-	clerks = {
-		culture = aussie
-		religion = secularism
-		size = 13844
-	 } 
-	artisans = {
-		culture = aussie
-		religion =  protestant 
-		size = 6477
-	 } 
-	artisans = {
-		culture = aussie
-		religion = secularism
-		size = 13152
-	 } 
-	craftsmen = {
-		culture = aussie
-		religion =  protestant 
-		size = 20456
-	 } 
-	craftsmen = {
-		culture = aussie
-		religion = secularism
-		size = 41532
-	 } 
-	farmers = {
-		culture = aussie
-		religion =  protestant 
-		size = 113289
-	 } 
-	farmers = {
-		culture = aussie
-		religion = secularism
-		size = 230012
-	 } 
-	farmers = {
-		culture = chinese
-		religion =  taoism 
-		size = 12518
-	 } 
-	farmers = {
-		culture = chinese
-		religion = secularism
-		size = 25416
-	 } 
-	farmers = {
-		culture = indian
-		religion =  hindu 
-		size = 18777
-	 } 
-	farmers = {
-		culture = indian
-		religion = secularism
-		size = 38124
-	 } 
-	farmers = {
-		culture = indian_muslim
-		religion =  sunni 
-		size = 25290
-	 } 
-	farmers = {
-		culture = sunni_arab
-		religion =  sunni 
-		size = 12645
-	 } 
+  capitalists = {
+    culture = aussie
+    religion =  protestant
+    size = 1043
+  }
+  capitalists = {
+    culture = aussie
+    religion = secularism
+    size = 2117
+  }
+  officers = {
+    culture = aussie
+    religion =  protestant
+    size = 190
+  }
+  officers = {
+    culture = aussie
+    religion = secularism
+    size = 385
+  }
+  soldiers = {
+    culture = aussie
+    religion =  protestant
+    size = 3615
+  }
+  soldiers = {
+    culture = aussie
+    religion = secularism
+    size = 7341
+  }
+  aristocrats = {
+    culture = aussie
+    religion =  protestant
+    size = 8345
+  }
+  aristocrats = {
+    culture = aussie
+    religion = secularism
+    size = 16944
+  }
+  bureaucrats = {
+    culture = aussie
+    religion =  protestant
+    size = 417
+  }
+  bureaucrats = {
+    culture = aussie
+    religion = secularism
+    size = 846
+  }
+  clergymen = {
+    culture = aussie
+    religion =  protestant
+    size = 4172
+  }
+  clergymen = {
+    culture = aussie
+    religion = secularism
+    size = 8472
+  }
+  clerks = {
+    culture = aussie
+    religion =  protestant
+    size = 6818
+  }
+  clerks = {
+    culture = aussie
+    religion = secularism
+    size = 13844
+  }
+  artisans = {
+    culture = aussie
+    religion =  protestant
+    size = 6477
+  }
+  artisans = {
+    culture = aussie
+    religion = secularism
+    size = 13152
+  }
+  craftsmen = {
+    culture = aussie
+    religion =  protestant
+    size = 20456
+  }
+  craftsmen = {
+    culture = aussie
+    religion = secularism
+    size = 41532
+  }
+  farmers = {
+    culture = aussie
+    religion =  protestant
+    size = 113289
+  }
+  farmers = {
+    culture = aussie
+    religion = secularism
+    size = 230012
+  }
+  farmers = {
+    culture = chinese
+    religion =  taoism
+    size = 12518
+  }
+  farmers = {
+    culture = chinese
+    religion = secularism
+    size = 25416
+  }
+  farmers = {
+    culture = indian
+    religion =  hindu
+    size = 18777
+  }
+  farmers = {
+    culture = indian
+    religion = secularism
+    size = 38124
+  }
+  farmers = {
+    culture = indian_muslim
+    religion =  sunni
+    size = 25290
+  }
+  farmers = {
+    culture = sunni_arab
+    religion =  sunni
+    size = 12645
+  }
 }
 #Gladstone - Queensland (493000/123250 POPS)
 2484 = {
-	clergymen = {
-		culture = aussie
-		religion =  protestant 
-		size = 813
-	 } 
-	clergymen = {
-		culture = aussie
-		religion = secularism
-		size = 1651
-	 } 
-	farmers = {
-		culture = aussie
-		religion =  protestant 
-		size = 39859
-	 } 
-	farmers = {
-		culture = aussie
-		religion = secularism
-		size = 80925
-	 } 
+  clergymen = {
+    culture = aussie
+    religion =  protestant
+    size = 813
+  }
+  clergymen = {
+    culture = aussie
+    religion = secularism
+    size = 1651
+  }
+  farmers = {
+    culture = aussie
+    religion =  protestant
+    size = 39859
+  }
+  farmers = {
+    culture = aussie
+    religion = secularism
+    size = 80925
+  }
 }
 #Clermont - Queensland (14000/3500 POPS)
 2485 = {
-	clergymen = {
-		culture = aussie
-		religion =  protestant 
-		size = 23
-	 } 
-	clergymen = {
-		culture = aussie
-		religion = secularism
-		size = 46
-	 } 
-	farmers = {
-		culture = aussie
-		religion =  protestant 
-		size = 1131
-	 } 
-	farmers = {
-		culture = aussie
-		religion = secularism
-		size = 2298
-	 } 
+  clergymen = {
+    culture = aussie
+    religion =  protestant
+    size = 23
+  }
+  clergymen = {
+    culture = aussie
+    religion = secularism
+    size = 46
+  }
+  farmers = {
+    culture = aussie
+    religion =  protestant
+    size = 1131
+  }
+  farmers = {
+    culture = aussie
+    religion = secularism
+    size = 2298
+  }
 }
 #Toowoomba - Queensland (14000/3500 POPS)
 2486 = {
-	clergymen = {
-		culture = aussie
-		religion =  protestant 
-		size = 23
-	 } 
-	clergymen = {
-		culture = aussie
-		religion = secularism
-		size = 46
-	 } 
-	farmers = {
-		culture = aussie
-		religion =  protestant 
-		size = 1131
-	 } 
-	farmers = {
-		culture = aussie
-		religion = secularism
-		size = 2298
-	 } 
+  clergymen = {
+    culture = aussie
+    religion =  protestant
+    size = 23
+  }
+  clergymen = {
+    culture = aussie
+    religion = secularism
+    size = 46
+  }
+  farmers = {
+    culture = aussie
+    religion =  protestant
+    size = 1131
+  }
+  farmers = {
+    culture = aussie
+    religion = secularism
+    size = 2298
+  }
 }
 #Townsville - Queensland (284000/71000 POPS)
 2487 = {
-	clergymen = {
-		culture = aussie
-		religion =  protestant 
-		size = 468
-	 } 
-	clergymen = {
-		culture = aussie
-		religion = secularism
-		size = 951
-	 } 
-	farmers = {
-		culture = aussie
-		religion =  protestant 
-		size = 22961
-	 } 
-	farmers = {
-		culture = aussie
-		religion = secularism
-		size = 46618
-	 } 
+  clergymen = {
+    culture = aussie
+    religion =  protestant
+    size = 468
+  }
+  clergymen = {
+    culture = aussie
+    religion = secularism
+    size = 951
+  }
+  farmers = {
+    culture = aussie
+    religion =  protestant
+    size = 22961
+  }
+  farmers = {
+    culture = aussie
+    religion = secularism
+    size = 46618
+  }
 }
 #Cooktown - Queensland (29000/7250 POPS)
 2488 = {
-	clergymen = {
-		culture = aussie
-		religion =  protestant 
-		size = 47
-	 } 
-	clergymen = {
-		culture = aussie
-		religion = secularism
-		size = 97
-	 } 
-	farmers = {
-		culture = aussie
-		religion =  protestant 
-		size = 2344
-	 } 
-	farmers = {
-		culture = aussie
-		religion = secularism
-		size = 4760
-	 } 
+  clergymen = {
+    culture = aussie
+    religion =  protestant
+    size = 47
+  }
+  clergymen = {
+    culture = aussie
+    religion = secularism
+    size = 97
+  }
+  farmers = {
+    culture = aussie
+    religion =  protestant
+    size = 2344
+  }
+  farmers = {
+    culture = aussie
+    religion = secularism
+    size = 4760
+  }
 }
 #Longreach - Queensland (14000/3500 POPS)
 2489 = {
-	clergymen = {
-		culture = aussie
-		religion =  protestant 
-		size = 23
-	 } 
-	clergymen = {
-		culture = aussie
-		religion = secularism
-		size = 46
-	 } 
-	farmers = {
-		culture = aussie
-		religion =  protestant 
-		size = 1131
-	 } 
-	farmers = {
-		culture = aussie
-		religion = secularism
-		size = 2298
-	 } 
+  clergymen = {
+    culture = aussie
+    religion =  protestant
+    size = 23
+  }
+  clergymen = {
+    culture = aussie
+    religion = secularism
+    size = 46
+  }
+  farmers = {
+    culture = aussie
+    religion =  protestant
+    size = 1131
+  }
+  farmers = {
+    culture = aussie
+    religion = secularism
+    size = 2298
+  }
 }
 #Charleville - Queensland (14000/3500 POPS)
 2490 = {
-	clergymen = {
-		culture = aussie
-		religion =  protestant 
-		size = 23
-	 } 
-	clergymen = {
-		culture = aussie
-		religion = secularism
-		size = 46
-	 } 
-	farmers = {
-		culture = aussie
-		religion =  protestant 
-		size = 843
-	 } 
-	farmers = {
-		culture = aussie
-		religion = secularism
-		size = 1711
-	 } 
-	farmers = {
-		culture = aborigine
-		religion =  protestant 
-		size = 288
-	 } 
-	farmers = {
-		culture = aborigine
-		religion = secularism
-		size = 586
-	 } 
+  clergymen = {
+    culture = aussie
+    religion =  protestant
+    size = 23
+  }
+  clergymen = {
+    culture = aussie
+    religion = secularism
+    size = 46
+  }
+  farmers = {
+    culture = aussie
+    religion =  protestant
+    size = 843
+  }
+  farmers = {
+    culture = aussie
+    religion = secularism
+    size = 1711
+  }
+  farmers = {
+    culture = aborigine
+    religion =  protestant
+    size = 288
+  }
+  farmers = {
+    culture = aborigine
+    religion = secularism
+    size = 586
+  }
 }
 #Adelaide - South Australia (955000/238750 POPS)
 2491 = {
-	capitalists = {
-		culture = aussie
-		religion =  protestant 
-		size = 393
-	 } 
-	capitalists = {
-		culture = aussie
-		religion = secularism
-		size = 799
-	 } 
-	officers = {
-		culture = aussie
-		religion =  protestant 
-		size = 79
-	 } 
-	officers = {
-		culture = aussie
-		religion = secularism
-		size = 160
-	 } 
-	soldiers = {
-		culture = aussie
-		religion =  protestant 
-		size = 1507
-	 } 
-	soldiers = {
-		culture = aussie
-		religion = secularism
-		size = 3061
-	 } 
-	aristocrats = {
-		culture = aussie
-		religion =  protestant 
-		size = 3151
-	 } 
-	aristocrats = {
-		culture = aussie
-		religion = secularism
-		size = 6398
-	 } 
-	bureaucrats = {
-		culture = aussie
-		religion =  protestant 
-		size = 157
-	 } 
-	bureaucrats = {
-		culture = aussie
-		religion = secularism
-		size = 319
-	 } 
-	clergymen = {
-		culture = aussie
-		religion =  protestant 
-		size = 1575
-	 } 
-	clergymen = {
-		culture = aussie
-		religion = secularism
-		size = 3199
-	 } 
-	clerks = {
-		culture = aussie
-		religion =  protestant 
-		size = 2569
-	 } 
-	clerks = {
-		culture = aussie
-		religion = secularism
-		size = 5217
-	 } 
-	artisans = {
-		culture = aussie
-		religion =  protestant 
-		size = 2441
-	 } 
-	artisans = {
-		culture = aussie
-		religion = secularism
-		size = 4956
-	 } 
-	craftsmen = {
-		culture = aussie
-		religion =  protestant 
-		size = 7709
-	 } 
-	craftsmen = {
-		culture = aussie
-		religion = secularism
-		size = 15653
-	 } 
-	farmers = {
-		culture = aussie
-		religion =  protestant 
-		size = 42655
-	 } 
-	farmers = {
-		culture = aussie
-		religion = secularism
-		size = 86604
-	 } 
-	farmers = {
-		culture = chinese
-		religion =  taoism 
-		size = 4727
-	 } 
-	farmers = {
-		culture = chinese
-		religion = secularism
-		size = 9597
-	 } 
-	farmers = {
-		culture = indian
-		religion =  hindu 
-		size = 7090
-	 } 
-	farmers = {
-		culture = indian
-		religion = secularism
-		size = 14396
-	 } 
-	farmers = {
-		culture = indian_muslim
-		religion =  sunni 
-		size = 9550
-	 } 
-	farmers = {
-		culture = sunni_arab
-		religion =  sunni 
-		size = 4775
-	 } 
+  capitalists = {
+    culture = aussie
+    religion =  protestant
+    size = 393
+  }
+  capitalists = {
+    culture = aussie
+    religion = secularism
+    size = 799
+  }
+  officers = {
+    culture = aussie
+    religion =  protestant
+    size = 79
+  }
+  officers = {
+    culture = aussie
+    religion = secularism
+    size = 160
+  }
+  soldiers = {
+    culture = aussie
+    religion =  protestant
+    size = 1507
+  }
+  soldiers = {
+    culture = aussie
+    religion = secularism
+    size = 3061
+  }
+  aristocrats = {
+    culture = aussie
+    religion =  protestant
+    size = 3151
+  }
+  aristocrats = {
+    culture = aussie
+    religion = secularism
+    size = 6398
+  }
+  bureaucrats = {
+    culture = aussie
+    religion =  protestant
+    size = 157
+  }
+  bureaucrats = {
+    culture = aussie
+    religion = secularism
+    size = 319
+  }
+  clergymen = {
+    culture = aussie
+    religion =  protestant
+    size = 1575
+  }
+  clergymen = {
+    culture = aussie
+    religion = secularism
+    size = 3199
+  }
+  clerks = {
+    culture = aussie
+    religion =  protestant
+    size = 2569
+  }
+  clerks = {
+    culture = aussie
+    religion = secularism
+    size = 5217
+  }
+  artisans = {
+    culture = aussie
+    religion =  protestant
+    size = 2441
+  }
+  artisans = {
+    culture = aussie
+    religion = secularism
+    size = 4956
+  }
+  craftsmen = {
+    culture = aussie
+    religion =  protestant
+    size = 7709
+  }
+  craftsmen = {
+    culture = aussie
+    religion = secularism
+    size = 15653
+  }
+  farmers = {
+    culture = aussie
+    religion =  protestant
+    size = 42655
+  }
+  farmers = {
+    culture = aussie
+    religion = secularism
+    size = 86604
+  }
+  farmers = {
+    culture = chinese
+    religion =  taoism
+    size = 4727
+  }
+  farmers = {
+    culture = chinese
+    religion = secularism
+    size = 9597
+  }
+  farmers = {
+    culture = indian
+    religion =  hindu
+    size = 7090
+  }
+  farmers = {
+    culture = indian
+    religion = secularism
+    size = 14396
+  }
+  farmers = {
+    culture = indian_muslim
+    religion =  sunni
+    size = 9550
+  }
+  farmers = {
+    culture = sunni_arab
+    religion =  sunni
+    size = 4775
+  }
 }
 #Port Lincolon - South Australia (22000/5500 POPS)
 2492 = {
-	clergymen = {
-		culture = aussie
-		religion =  protestant 
-		size = 36
-	 } 
-	clergymen = {
-		culture = aussie
-		religion = secularism
-		size = 73
-	 } 
-	farmers = {
-		culture = aussie
-		religion =  protestant 
-		size = 1778
-	 } 
-	farmers = {
-		culture = aussie
-		religion = secularism
-		size = 3611
-	 } 
+  clergymen = {
+    culture = aussie
+    religion =  protestant
+    size = 36
+  }
+  clergymen = {
+    culture = aussie
+    religion = secularism
+    size = 73
+  }
+  farmers = {
+    culture = aussie
+    religion =  protestant
+    size = 1778
+  }
+  farmers = {
+    culture = aussie
+    religion = secularism
+    size = 3611
+  }
 }
 #Robe - South Australia (187000/46750 POPS)
 2493 = {
-	clergymen = {
-		culture = aussie
-		religion =  protestant 
-		size = 308
-	 } 
-	clergymen = {
-		culture = aussie
-		religion = secularism
-		size = 626
-	 } 
-	farmers = {
-		culture = aussie
-		religion =  protestant 
-		size = 15118
-	 } 
-	farmers = {
-		culture = aussie
-		religion = secularism
-		size = 30696
-	 } 
+  clergymen = {
+    culture = aussie
+    religion =  protestant
+    size = 308
+  }
+  clergymen = {
+    culture = aussie
+    religion = secularism
+    size = 626
+  }
+  farmers = {
+    culture = aussie
+    religion =  protestant
+    size = 15118
+  }
+  farmers = {
+    culture = aussie
+    religion = secularism
+    size = 30696
+  }
 }
 #Port Augusta - South Australia (37000/9250 POPS)
 2494 = {
-	clergymen = {
-		culture = aussie
-		religion =  protestant 
-		size = 61
-	 } 
-	clergymen = {
-		culture = aussie
-		religion = secularism
-		size = 123
-	 } 
-	farmers = {
-		culture = aussie
-		religion =  protestant 
-		size = 2991
-	 } 
-	farmers = {
-		culture = aussie
-		religion = secularism
-		size = 6073
-	 } 
+  clergymen = {
+    culture = aussie
+    religion =  protestant
+    size = 61
+  }
+  clergymen = {
+    culture = aussie
+    religion = secularism
+    size = 123
+  }
+  farmers = {
+    culture = aussie
+    religion =  protestant
+    size = 2991
+  }
+  farmers = {
+    culture = aussie
+    religion = secularism
+    size = 6073
+  }
 }
 #Oodnadatta - South Australia (22000/5500 POPS)
 2495 = {
-	clergymen = {
-		culture = aussie
-		religion =  protestant 
-		size = 36
-	 } 
-	clergymen = {
-		culture = aussie
-		religion = secularism
-		size = 73
-	 } 
-	farmers = {
-		culture = aussie
-		religion =  protestant 
-		size = 1778
-	 } 
-	farmers = {
-		culture = aussie
-		religion = secularism
-		size = 3611
-	 } 
+  clergymen = {
+    culture = aussie
+    religion =  protestant
+    size = 36
+  }
+  clergymen = {
+    culture = aussie
+    religion = secularism
+    size = 73
+  }
+  farmers = {
+    culture = aussie
+    religion =  protestant
+    size = 1778
+  }
+  farmers = {
+    culture = aussie
+    religion = secularism
+    size = 3611
+  }
 }
 #Tarcoola - South Australia (9000/2250 POPS)
 2496 = {
-	clergymen = {
-		culture = aussie
-		religion =  protestant 
-		size = 14
-	 } 
-	clergymen = {
-		culture = aussie
-		religion = secularism
-		size = 30
-	 } 
-	farmers = {
-		culture = aussie
-		religion =  protestant 
-		size = 133
-	 } 
-	farmers = {
-		culture = aussie
-		religion = secularism
-		size = 271
-	 } 
-	farmers = {
-		culture = aborigine
-		religion =  protestant 
-		size = 593
-	 } 
-	farmers = {
-		culture = aborigine
-		religion = secularism
-		size = 1206
-	 } 
+  clergymen = {
+    culture = aussie
+    religion =  protestant
+    size = 14
+  }
+  clergymen = {
+    culture = aussie
+    religion = secularism
+    size = 30
+  }
+  farmers = {
+    culture = aussie
+    religion =  protestant
+    size = 133
+  }
+  farmers = {
+    culture = aussie
+    religion = secularism
+    size = 271
+  }
+  farmers = {
+    culture = aborigine
+    religion =  protestant
+    size = 593
+  }
+  farmers = {
+    culture = aborigine
+    religion = secularism
+    size = 1206
+  }
 }
 #Perth - Western Australia (1419000/354750 POPS)
 2497 = {
-	capitalists = {
-		culture = aussie
-		religion =  protestant 
-		size = 585
-	 } 
-	capitalists = {
-		culture = aussie
-		religion = secularism
-		size = 1187
-	 } 
-	officers = {
-		culture = aussie
-		religion =  protestant 
-		size = 102
-	 } 
-	officers = {
-		culture = aussie
-		religion = secularism
-		size = 207
-	 } 
-	soldiers = {
-		culture = aussie
-		religion =  protestant 
-		size = 1949
-	 } 
-	soldiers = {
-		culture = aussie
-		religion = secularism
-		size = 3958
-	 } 
-	aristocrats = {
-		culture = aussie
-		religion =  protestant 
-		size = 4682
-	 } 
-	aristocrats = {
-		culture = aussie
-		religion = secularism
-		size = 9507
-	 } 
-	bureaucrats = {
-		culture = aussie
-		religion =  protestant 
-		size = 233
-	 } 
-	bureaucrats = {
-		culture = aussie
-		religion = secularism
-		size = 475
-	 } 
-	clergymen = {
-		culture = aussie
-		religion =  protestant 
-		size = 2341
-	 } 
-	clergymen = {
-		culture = aussie
-		religion = secularism
-		size = 4753
-	 } 
-	clerks = {
-		culture = aussie
-		religion =  protestant 
-		size = 3828
-	 } 
-	clerks = {
-		culture = aussie
-		religion = secularism
-		size = 7773
-	 } 
-	artisans = {
-		culture = aussie
-		religion =  protestant 
-		size = 3637
-	 } 
-	artisans = {
-		culture = aussie
-		religion = secularism
-		size = 7384
-	 } 
-	craftsmen = {
-		culture = aussie
-		religion =  protestant 
-		size = 11486
-	 } 
-	craftsmen = {
-		culture = aussie
-		religion = secularism
-		size = 23320
-	 } 
-	farmers = {
-		culture = aussie
-		religion =  protestant 
-		size = 63635
-	 } 
-	farmers = {
-		culture = aussie
-		religion = secularism
-		size = 129200
-	 } 
-	farmers = {
-		culture = chinese
-		religion =  taoism 
-		size = 7024
-	 } 
-	farmers = {
-		culture = chinese
-		religion = secularism
-		size = 14260
-	 } 
-	farmers = {
-		culture = indian
-		religion =  hindu 
-		size = 10535
-	 } 
-	farmers = {
-		culture = indian
-		religion = secularism
-		size = 21391
-	 } 
-	farmers = {
-		culture = indian_muslim
-		religion =  sunni 
-		size = 14190
-	 } 
-	farmers = {
-		culture = sunni_arab
-		religion =  sunni 
-		size = 7095
-	 } 
+  capitalists = {
+    culture = aussie
+    religion =  protestant
+    size = 585
+  }
+  capitalists = {
+    culture = aussie
+    religion = secularism
+    size = 1187
+  }
+  officers = {
+    culture = aussie
+    religion =  protestant
+    size = 102
+  }
+  officers = {
+    culture = aussie
+    religion = secularism
+    size = 207
+  }
+  soldiers = {
+    culture = aussie
+    religion =  protestant
+    size = 1949
+  }
+  soldiers = {
+    culture = aussie
+    religion = secularism
+    size = 3958
+  }
+  aristocrats = {
+    culture = aussie
+    religion =  protestant
+    size = 4682
+  }
+  aristocrats = {
+    culture = aussie
+    religion = secularism
+    size = 9507
+  }
+  bureaucrats = {
+    culture = aussie
+    religion =  protestant
+    size = 233
+  }
+  bureaucrats = {
+    culture = aussie
+    religion = secularism
+    size = 475
+  }
+  clergymen = {
+    culture = aussie
+    religion =  protestant
+    size = 2341
+  }
+  clergymen = {
+    culture = aussie
+    religion = secularism
+    size = 4753
+  }
+  clerks = {
+    culture = aussie
+    religion =  protestant
+    size = 3828
+  }
+  clerks = {
+    culture = aussie
+    religion = secularism
+    size = 7773
+  }
+  artisans = {
+    culture = aussie
+    religion =  protestant
+    size = 3637
+  }
+  artisans = {
+    culture = aussie
+    religion = secularism
+    size = 7384
+  }
+  craftsmen = {
+    culture = aussie
+    religion =  protestant
+    size = 11486
+  }
+  craftsmen = {
+    culture = aussie
+    religion = secularism
+    size = 23320
+  }
+  farmers = {
+    culture = aussie
+    religion =  protestant
+    size = 63635
+  }
+  farmers = {
+    culture = aussie
+    religion = secularism
+    size = 129200
+  }
+  farmers = {
+    culture = chinese
+    religion =  taoism
+    size = 7024
+  }
+  farmers = {
+    culture = chinese
+    religion = secularism
+    size = 14260
+  }
+  farmers = {
+    culture = indian
+    religion =  hindu
+    size = 10535
+  }
+  farmers = {
+    culture = indian
+    religion = secularism
+    size = 21391
+  }
+  farmers = {
+    culture = indian_muslim
+    religion =  sunni
+    size = 14190
+  }
+  farmers = {
+    culture = sunni_arab
+    religion =  sunni
+    size = 7095
+  }
 }
 #Kojonup - Western Australia (339000/84750 POPS)
 2498 = {
-	clergymen = {
-		culture = aussie
-		religion =  protestant 
-		size = 559
-	 } 
-	clergymen = {
-		culture = aussie
-		religion = secularism
-		size = 1135
-	 } 
-	farmers = {
-		culture = aussie
-		religion =  protestant 
-		size = 27408
-	 } 
-	farmers = {
-		culture = aussie
-		religion = secularism
-		size = 55646
-	 } 
+  clergymen = {
+    culture = aussie
+    religion =  protestant
+    size = 559
+  }
+  clergymen = {
+    culture = aussie
+    religion = secularism
+    size = 1135
+  }
+  farmers = {
+    culture = aussie
+    religion =  protestant
+    size = 27408
+  }
+  farmers = {
+    culture = aussie
+    religion = secularism
+    size = 55646
+  }
 }
 #Geraldton - Western Australia (26000/6500 POPS)
 2499 = {
-	clergymen = {
-		culture = aussie
-		religion =  protestant 
-		size = 42
-	 } 
-	clergymen = {
-		culture = aussie
-		religion = secularism
-		size = 87
-	 } 
-	farmers = {
-		culture = aussie
-		religion =  protestant 
-		size = 2102
-	 } 
-	farmers = {
-		culture = aussie
-		religion = secularism
-		size = 4267
-	 } 
+  clergymen = {
+    culture = aussie
+    religion =  protestant
+    size = 42
+  }
+  clergymen = {
+    culture = aussie
+    religion = secularism
+    size = 87
+  }
+  farmers = {
+    culture = aussie
+    religion =  protestant
+    size = 2102
+  }
+  farmers = {
+    culture = aussie
+    religion = secularism
+    size = 4267
+  }
 }
 #Kalgoorlie - Western Australia (13000/3250 POPS)
 2500 = {
-	clergymen = {
-		culture = aussie
-		religion =  protestant 
-		size = 21
-	 } 
-	clergymen = {
-		culture = aussie
-		religion = secularism
-		size = 43
-	 } 
-	farmers = {
-		culture = aussie
-		religion =  protestant 
-		size = 407
-	 } 
-	farmers = {
-		culture = aussie
-		religion = secularism
-		size = 827
-	 } 
-	farmers = {
-		culture = aborigine
-		religion =  protestant 
-		size = 643
-	 } 
-	farmers = {
-		culture = aborigine
-		religion = secularism
-		size = 1306
-	 } 
+  clergymen = {
+    culture = aussie
+    religion =  protestant
+    size = 21
+  }
+  clergymen = {
+    culture = aussie
+    religion = secularism
+    size = 43
+  }
+  farmers = {
+    culture = aussie
+    religion =  protestant
+    size = 407
+  }
+  farmers = {
+    culture = aussie
+    religion = secularism
+    size = 827
+  }
+  farmers = {
+    culture = aborigine
+    religion =  protestant
+    size = 643
+  }
+  farmers = {
+    culture = aborigine
+    religion = secularism
+    size = 1306
+  }
 }
 #Broome - Western Australia (7000/1750 POPS)
 2501 = {
-	clergymen = {
-		culture = aussie
-		religion =  protestant 
-		size = 11
-	 } 
-	clergymen = {
-		culture = aussie
-		religion = secularism
-		size = 23
-	 } 
-	farmers = {
-		culture = aussie
-		religion =  protestant 
-		size = 46
-	 } 
-	farmers = {
-		culture = aussie
-		religion = secularism
-		size = 93
-	 } 
-	farmers = {
-		culture = aborigine
-		religion =  protestant 
-		size = 519
-	 } 
-	farmers = {
-		culture = aborigine
-		religion = secularism
-		size = 1055
-	 } 
+  clergymen = {
+    culture = aussie
+    religion =  protestant
+    size = 11
+  }
+  clergymen = {
+    culture = aussie
+    religion = secularism
+    size = 23
+  }
+  farmers = {
+    culture = aussie
+    religion =  protestant
+    size = 46
+  }
+  farmers = {
+    culture = aussie
+    religion = secularism
+    size = 93
+  }
+  farmers = {
+    culture = aborigine
+    religion =  protestant
+    size = 519
+  }
+  farmers = {
+    culture = aborigine
+    religion = secularism
+    size = 1055
+  }
 }
 #Dampier - Western Australia (7000/1750 POPS)
 2502 = {
-	clergymen = {
-		culture = aussie
-		religion =  protestant 
-		size = 11
-	 } 
-	clergymen = {
-		culture = aussie
-		religion = secularism
-		size = 23
-	 } 
-	farmers = {
-		culture = aussie
-		religion =  protestant 
-		size = 161
-	 } 
-	farmers = {
-		culture = aussie
-		religion = secularism
-		size = 328
-	 } 
-	farmers = {
-		culture = aborigine
-		religion =  protestant 
-		size = 404
-	 } 
-	farmers = {
-		culture = aborigine
-		religion = secularism
-		size = 820
-	 } 
+  clergymen = {
+    culture = aussie
+    religion =  protestant
+    size = 11
+  }
+  clergymen = {
+    culture = aussie
+    religion = secularism
+    size = 23
+  }
+  farmers = {
+    culture = aussie
+    religion =  protestant
+    size = 161
+  }
+  farmers = {
+    culture = aussie
+    religion = secularism
+    size = 328
+  }
+  farmers = {
+    culture = aborigine
+    religion =  protestant
+    size = 404
+  }
+  farmers = {
+    culture = aborigine
+    religion = secularism
+    size = 820
+  }
 }
 #Wiluna - Western Australia (5000/1250 POPS)
 2503 = {
-	clergymen = {
-		culture = aborigine
-		religion =  protestant 
-		size = 8
-	 } 
-	clergymen = {
-		culture = aborigine
-		religion = secularism
-		size = 16
-	 } 
-	farmers = {
-		culture = aborigine
-		religion =  protestant 
-		size = 404
-	 } 
-	farmers = {
-		culture = aborigine
-		religion = secularism
-		size = 820
-	 } 
+  clergymen = {
+    culture = aborigine
+    religion =  protestant
+    size = 8
+  }
+  clergymen = {
+    culture = aborigine
+    religion = secularism
+    size = 16
+  }
+  farmers = {
+    culture = aborigine
+    religion =  protestant
+    size = 404
+  }
+  farmers = {
+    culture = aborigine
+    religion = secularism
+    size = 820
+  }
 }
 #Esperance - Western Australia (5000/1250 POPS)
 2504 = {
-	clergymen = {
-		culture = aussie
-		religion =  protestant 
-		size = 8
-	 } 
-	clergymen = {
-		culture = aussie
-		religion = secularism
-		size = 16
-	 } 
-	farmers = {
-		culture = aussie
-		religion =  protestant 
-		size = 404
-	 } 
-	farmers = {
-		culture = aussie
-		religion = secularism
-		size = 820
-	 } 
+  clergymen = {
+    culture = aussie
+    religion =  protestant
+    size = 8
+  }
+  clergymen = {
+    culture = aussie
+    religion = secularism
+    size = 16
+  }
+  farmers = {
+    culture = aussie
+    religion =  protestant
+    size = 404
+  }
+  farmers = {
+    culture = aussie
+    religion = secularism
+    size = 820
+  }
 }
 #Palmerston - Northern Territory (101000/25250 POPS)
 2505 = {
-	clergymen = {
-		culture = aussie
-		religion =  protestant 
-		size = 166
-	 } 
-	clergymen = {
-		culture = aussie
-		religion = secularism
-		size = 338
-	 } 
-	farmers = {
-		culture = aussie
-		religion =  protestant 
-		size = 3166
-	 } 
-	farmers = {
-		culture = aussie
-		religion = secularism
-		size = 6428
-	 } 
-	farmers = {
-		culture = aborigine
-		religion =  protestant 
-		size = 4999
-	 } 
-	farmers = {
-		culture = aborigine
-		religion = secularism
-		size = 10150
-	 } 
+  clergymen = {
+    culture = aussie
+    religion =  protestant
+    size = 166
+  }
+  clergymen = {
+    culture = aussie
+    religion = secularism
+    size = 338
+  }
+  farmers = {
+    culture = aussie
+    religion =  protestant
+    size = 3166
+  }
+  farmers = {
+    culture = aussie
+    religion = secularism
+    size = 6428
+  }
+  farmers = {
+    culture = aborigine
+    religion =  protestant
+    size = 4999
+  }
+  farmers = {
+    culture = aborigine
+    religion = secularism
+    size = 10150
+  }
 }
 #Tennant Creek - Northern Territory (18000/4500 POPS)
 2506 = {
-	clergymen = {
-		culture = aussie
-		religion =  protestant 
-		size = 29
-	 } 
-	clergymen = {
-		culture = aussie
-		religion = secularism
-		size = 60
-	 } 
-	farmers = {
-		culture = aussie
-		religion =  protestant 
-		size = 282
-	 } 
-	farmers = {
-		culture = aussie
-		religion = secularism
-		size = 572
-	 } 
-	farmers = {
-		culture = aborigine
-		religion =  protestant 
-		size = 1173
-	 } 
-	farmers = {
-		culture = aborigine
-		religion = secularism
-		size = 2381
-	 } 
+  clergymen = {
+    culture = aussie
+    religion =  protestant
+    size = 29
+  }
+  clergymen = {
+    culture = aussie
+    religion = secularism
+    size = 60
+  }
+  farmers = {
+    culture = aussie
+    religion =  protestant
+    size = 282
+  }
+  farmers = {
+    culture = aussie
+    religion = secularism
+    size = 572
+  }
+  farmers = {
+    culture = aborigine
+    religion =  protestant
+    size = 1173
+  }
+  farmers = {
+    culture = aborigine
+    religion = secularism
+    size = 2381
+  }
 }
 #Alice Springs - Northern Territory (35000/8750 POPS)
 2507 = {
-	clergymen = {
-		culture = aussie
-		religion =  protestant 
-		size = 57
-	 } 
-	clergymen = {
-		culture = aussie
-		religion = secularism
-		size = 117
-	 } 
-	farmers = {
-		culture = aussie
-		religion =  protestant 
-		size = 1097
-	 } 
-	farmers = {
-		culture = aussie
-		religion = secularism
-		size = 2227
-	 } 
-	farmers = {
-		culture = aborigine
-		religion =  protestant 
-		size = 1732
-	 } 
-	farmers = {
-		culture = aborigine
-		religion = secularism
-		size = 3517
-	 } 
+  clergymen = {
+    culture = aussie
+    religion =  protestant
+    size = 57
+  }
+  clergymen = {
+    culture = aussie
+    religion = secularism
+    size = 117
+  }
+  farmers = {
+    culture = aussie
+    religion =  protestant
+    size = 1097
+  }
+  farmers = {
+    culture = aussie
+    religion = secularism
+    size = 2227
+  }
+  farmers = {
+    culture = aborigine
+    religion =  protestant
+    size = 1732
+  }
+  farmers = {
+    culture = aborigine
+    religion = secularism
+    size = 3517
+  }
 }
 #Norfolk Island - Norfolk Island (1000/250 POPS)
 2508 = {
-	clergymen = {
-		culture = aussie
-		religion =  protestant 
-		size = 1
-	 } 
-	clergymen = {
-		culture = aussie
-		religion = secularism
-		size = 3
-	 } 
-	farmers = {
-		culture = aussie
-		religion =  protestant 
-		size = 80
-	 } 
-	farmers = {
-		culture = aussie
-		religion = secularism
-		size = 164
-	 } 
+  clergymen = {
+    culture = aussie
+    religion =  protestant
+    size = 1
+  }
+  clergymen = {
+    culture = aussie
+    religion = secularism
+    size = 3
+  }
+  farmers = {
+    culture = aussie
+    religion =  protestant
+    size = 80
+  }
+  farmers = {
+    culture = aussie
+    religion = secularism
+    size = 164
+  }
 }
 #Sandy Desert - Western Australia (1000/250 POPS)
 2601 = {
-	clergymen = {
-		culture = aborigine
-		religion =  protestant 
-		size = 1
-	 } 
-	clergymen = {
-		culture = aborigine
-		religion = secularism
-		size = 3
-	 } 
-	farmers = {
-		culture = aborigine
-		religion =  protestant 
-		size = 80
-	 } 
-	farmers = {
-		culture = aborigine
-		religion = secularism
-		size = 164
-	 } 
+  clergymen = {
+    culture = aborigine
+    religion =  protestant
+    size = 1
+  }
+  clergymen = {
+    culture = aborigine
+    religion = secularism
+    size = 3
+  }
+  farmers = {
+    culture = aborigine
+    religion =  protestant
+    size = 80
+  }
+  farmers = {
+    culture = aborigine
+    religion = secularism
+    size = 164
+  }
 }
 #Roebourne - Western Australia (4000/1000 POPS)
 2602 = {
-	clergymen = {
-		culture = aussie
-		religion =  protestant 
-		size = 6
-	 } 
-	clergymen = {
-		culture = aussie
-		religion = secularism
-		size = 13
-	 } 
-	farmers = {
-		culture = aussie
-		religion =  protestant 
-		size = 323
-	 } 
-	farmers = {
-		culture = aussie
-		religion = secularism
-		size = 656
-	 } 
+  clergymen = {
+    culture = aussie
+    religion =  protestant
+    size = 6
+  }
+  clergymen = {
+    culture = aussie
+    religion = secularism
+    size = 13
+  }
+  farmers = {
+    culture = aussie
+    religion =  protestant
+    size = 323
+  }
+  farmers = {
+    culture = aussie
+    religion = secularism
+    size = 656
+  }
 }
 #Tanami - Northern Territory (18000/4500 POPS)
 2603 = {
-	clergymen = {
-		culture = aussie
-		religion =  protestant 
-		size = 29
-	 } 
-	clergymen = {
-		culture = aussie
-		religion = secularism
-		size = 60
-	 } 
-	farmers = {
-		culture = aussie
-		religion =  protestant 
-		size = 267
-	 } 
-	farmers = {
-		culture = aussie
-		religion = secularism
-		size = 542
-	 } 
-	farmers = {
-		culture = aborigine
-		religion =  protestant 
-		size = 1187
-	 } 
-	farmers = {
-		culture = aborigine
-		religion = secularism
-		size = 2412
-	 } 
+  clergymen = {
+    culture = aussie
+    religion =  protestant
+    size = 29
+  }
+  clergymen = {
+    culture = aussie
+    religion = secularism
+    size = 60
+  }
+  farmers = {
+    culture = aussie
+    religion =  protestant
+    size = 267
+  }
+  farmers = {
+    culture = aussie
+    religion = secularism
+    size = 542
+  }
+  farmers = {
+    culture = aborigine
+    religion =  protestant
+    size = 1187
+  }
+  farmers = {
+    culture = aborigine
+    religion = secularism
+    size = 2412
+  }
 }
 #Normanton - Queensland (14000/3500 POPS)
 2604 = {
-	clergymen = {
-		culture = aussie
-		religion =  protestant 
-		size = 23
-	 } 
-	clergymen = {
-		culture = aussie
-		religion = secularism
-		size = 46
-	 } 
-	farmers = {
-		culture = aussie
-		religion =  protestant 
-		size = 1131
-	 } 
-	farmers = {
-		culture = aussie
-		religion = secularism
-		size = 2298
-	 } 
+  clergymen = {
+    culture = aussie
+    religion =  protestant
+    size = 23
+  }
+  clergymen = {
+    culture = aussie
+    religion = secularism
+    size = 46
+  }
+  farmers = {
+    culture = aussie
+    religion =  protestant
+    size = 1131
+  }
+  farmers = {
+    culture = aussie
+    religion = secularism
+    size = 2298
+  }
 }
 #Gibsons Desert - Western Australia (2000/500 POPS)
 2605 = {
-	clergymen = {
-		culture = aussie
-		religion =  protestant 
-		size = 3
-	 } 
-	clergymen = {
-		culture = aussie
-		religion = secularism
-		size = 6
-	 } 
-	farmers = {
-		culture = aussie
-		religion =  protestant 
-		size = 112
-	 } 
-	farmers = {
-		culture = aussie
-		religion = secularism
-		size = 227
-	 } 
-	farmers = {
-		culture = aborigine
-		religion =  protestant 
-		size = 49
-	 } 
-	farmers = {
-		culture = aborigine
-		religion = secularism
-		size = 100
-	 } 
+  clergymen = {
+    culture = aussie
+    religion =  protestant
+    size = 3
+  }
+  clergymen = {
+    culture = aussie
+    religion = secularism
+    size = 6
+  }
+  farmers = {
+    culture = aussie
+    religion =  protestant
+    size = 112
+  }
+  farmers = {
+    culture = aussie
+    religion = secularism
+    size = 227
+  }
+  farmers = {
+    culture = aborigine
+    religion =  protestant
+    size = 49
+  }
+  farmers = {
+    culture = aborigine
+    religion = secularism
+    size = 100
+  }
 }

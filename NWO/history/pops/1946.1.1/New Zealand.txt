@@ -1,669 +1,669 @@
 #Auckland - Auckland (729000/182250 POPS)
 2509 = {
-	capitalists = {
-		culture = kiwi
-		religion =  protestant 
-		size = 758
-	 } 
-	capitalists = {
-		culture = kiwi
-		religion = secularism
-		size = 152
-	 } 
-	officers = {
-		culture = kiwi
-		religion =  protestant 
-		size = 1437
-	 } 
-	officers = {
-		culture = kiwi
-		religion = secularism
-		size = 289
-	 } 
-	soldiers = {
-		culture = kiwi
-		religion =  protestant 
-		size = 27325
-	 } 
-	soldiers = {
-		culture = kiwi
-		religion = secularism
-		size = 5498
-	 } 
-	aristocrats = {
-		culture = kiwi
-		religion =  protestant 
-		size = 6068
-	 } 
-	aristocrats = {
-		culture = kiwi
-		religion = secularism
-		size = 1221
-	 } 
-	bureaucrats = {
-		culture = kiwi
-		religion =  protestant 
-		size = 303
-	 } 
-	bureaucrats = {
-		culture = kiwi
-		religion = secularism
-		size = 60
-	 } 
-	clergymen = {
-		culture = kiwi
-		religion =  protestant 
-		size = 3034
-	 } 
-	clergymen = {
-		culture = kiwi
-		religion = secularism
-		size = 610
-	 } 
-	clerks = {
-		culture = kiwi
-		religion =  protestant 
-		size = 3487
-	 } 
-	clerks = {
-		culture = kiwi
-		religion = secularism
-		size = 701
-	 } 
-	artisans = {
-		culture = kiwi
-		religion =  protestant 
-		size = 3312
-	 } 
-	artisans = {
-		culture = kiwi
-		religion = secularism
-		size = 666
-	 } 
-	craftsmen = {
-		culture = kiwi
-		religion =  protestant 
-		size = 10462
-	 } 
-	craftsmen = {
-		culture = kiwi
-		religion = secularism
-		size = 2104
-	 } 
-	farmers = {
-		culture = kiwi
-		religion =  protestant 
-		size = 65188
-	 } 
-	farmers = {
-		culture = kiwi
-		religion = secularism
-		size = 13115
-	 } 
-	farmers = {
-		culture = maori
-		religion =  protestant 
-		size = 27310
-	 } 
-	farmers = {
-		culture = maori
-		religion = secularism
-		size = 5494
-	 } 
-	farmers = {
-		culture = polynesian
-		religion =  catholic 
-		size = 3034
-	 } 
-	farmers = {
-		culture = polynesian
-		religion = secularism
-		size = 610
-	 } 
+  capitalists = {
+    culture = kiwi
+    religion =  protestant
+    size = 758
+  }
+  capitalists = {
+    culture = kiwi
+    religion = secularism
+    size = 152
+  }
+  officers = {
+    culture = kiwi
+    religion =  protestant
+    size = 1437
+  }
+  officers = {
+    culture = kiwi
+    religion = secularism
+    size = 289
+  }
+  soldiers = {
+    culture = kiwi
+    religion =  protestant
+    size = 27325
+  }
+  soldiers = {
+    culture = kiwi
+    religion = secularism
+    size = 5498
+  }
+  aristocrats = {
+    culture = kiwi
+    religion =  protestant
+    size = 6068
+  }
+  aristocrats = {
+    culture = kiwi
+    religion = secularism
+    size = 1221
+  }
+  bureaucrats = {
+    culture = kiwi
+    religion =  protestant
+    size = 303
+  }
+  bureaucrats = {
+    culture = kiwi
+    religion = secularism
+    size = 60
+  }
+  clergymen = {
+    culture = kiwi
+    religion =  protestant
+    size = 3034
+  }
+  clergymen = {
+    culture = kiwi
+    religion = secularism
+    size = 610
+  }
+  clerks = {
+    culture = kiwi
+    religion =  protestant
+    size = 3487
+  }
+  clerks = {
+    culture = kiwi
+    religion = secularism
+    size = 701
+  }
+  artisans = {
+    culture = kiwi
+    religion =  protestant
+    size = 3312
+  }
+  artisans = {
+    culture = kiwi
+    religion = secularism
+    size = 666
+  }
+  craftsmen = {
+    culture = kiwi
+    religion =  protestant
+    size = 10462
+  }
+  craftsmen = {
+    culture = kiwi
+    religion = secularism
+    size = 2104
+  }
+  farmers = {
+    culture = kiwi
+    religion =  protestant
+    size = 65188
+  }
+  farmers = {
+    culture = kiwi
+    religion = secularism
+    size = 13115
+  }
+  farmers = {
+    culture = maori
+    religion =  protestant
+    size = 27310
+  }
+  farmers = {
+    culture = maori
+    religion = secularism
+    size = 5494
+  }
+  farmers = {
+    culture = polynesian
+    religion =  catholic
+    size = 3034
+  }
+  farmers = {
+    culture = polynesian
+    religion = secularism
+    size = 610
+  }
 }
 #New Plymouth - New Plymouth (49000/12250 POPS)
 2510 = {
-	clergymen = {
-		culture = kiwi
-		religion =  protestant 
-		size = 203
-	 } 
-	clergymen = {
-		culture = kiwi
-		religion = secularism
-		size = 41
-	 } 
-	farmers = {
-		culture = kiwi
-		religion =  protestant 
-		size = 7138
-	 } 
-	farmers = {
-		culture = kiwi
-		religion = secularism
-		size = 1436
-	 } 
-	farmers = {
-		culture = maori
-		religion =  protestant 
-		size = 2855
-	 } 
-	farmers = {
-		culture = maori
-		religion = secularism
-		size = 574
-	 } 
+  clergymen = {
+    culture = kiwi
+    religion =  protestant
+    size = 203
+  }
+  clergymen = {
+    culture = kiwi
+    religion = secularism
+    size = 41
+  }
+  farmers = {
+    culture = kiwi
+    religion =  protestant
+    size = 7138
+  }
+  farmers = {
+    culture = kiwi
+    religion = secularism
+    size = 1436
+  }
+  farmers = {
+    culture = maori
+    religion =  protestant
+    size = 2855
+  }
+  farmers = {
+    culture = maori
+    religion = secularism
+    size = 574
+  }
 }
 #Napier - Napier (88000/22000 POPS)
 2511 = {
-	clergymen = {
-		culture = kiwi
-		religion =  protestant 
-		size = 366
-	 } 
-	clergymen = {
-		culture = kiwi
-		religion = secularism
-		size = 73
-	 } 
-	farmers = {
-		culture = kiwi
-		religion =  protestant 
-		size = 12820
-	 } 
-	farmers = {
-		culture = kiwi
-		religion = secularism
-		size = 2579
-	 } 
-	farmers = {
-		culture = maori
-		religion =  protestant 
-		size = 5128
-	 } 
-	farmers = {
-		culture = maori
-		religion = secularism
-		size = 1031
-	 } 
+  clergymen = {
+    culture = kiwi
+    religion =  protestant
+    size = 366
+  }
+  clergymen = {
+    culture = kiwi
+    religion = secularism
+    size = 73
+  }
+  farmers = {
+    culture = kiwi
+    religion =  protestant
+    size = 12820
+  }
+  farmers = {
+    culture = kiwi
+    religion = secularism
+    size = 2579
+  }
+  farmers = {
+    culture = maori
+    religion =  protestant
+    size = 5128
+  }
+  farmers = {
+    culture = maori
+    religion = secularism
+    size = 1031
+  }
 }
 #Wellington - Wellington (307000/76750 POPS)
 2512 = {
-	capitalists = {
-		culture = kiwi
-		religion =  protestant 
-		size = 318
-	 } 
-	capitalists = {
-		culture = kiwi
-		religion = secularism
-		size = 64
-	 } 
-	officers = {
-		culture = kiwi
-		religion =  protestant 
-		size = 879
-	 } 
-	officers = {
-		culture = kiwi
-		religion = secularism
-		size = 176
-	 } 
-	soldiers = {
-		culture = kiwi
-		religion =  protestant 
-		size = 16713
-	 } 
-	soldiers = {
-		culture = kiwi
-		religion = secularism
-		size = 3362
-	 } 
-	aristocrats = {
-		culture = kiwi
-		religion =  protestant 
-		size = 2555
-	 } 
-	aristocrats = {
-		culture = kiwi
-		religion = secularism
-		size = 514
-	 } 
-	bureaucrats = {
-		culture = kiwi
-		religion =  protestant 
-		size = 127
-	 } 
-	bureaucrats = {
-		culture = kiwi
-		religion = secularism
-		size = 25
-	 } 
-	clergymen = {
-		culture = kiwi
-		religion =  protestant 
-		size = 1277
-	 } 
-	clergymen = {
-		culture = kiwi
-		religion = secularism
-		size = 257
-	 } 
-	clerks = {
-		culture = kiwi
-		religion =  protestant 
-		size = 1312
-	 } 
-	clerks = {
-		culture = kiwi
-		religion = secularism
-		size = 264
-	 } 
-	artisans = {
-		culture = kiwi
-		religion =  protestant 
-		size = 1247
-	 } 
-	artisans = {
-		culture = kiwi
-		religion = secularism
-		size = 250
-	 } 
-	craftsmen = {
-		culture = kiwi
-		religion =  protestant 
-		size = 3939
-	 } 
-	craftsmen = {
-		culture = kiwi
-		religion = secularism
-		size = 792
-	 } 
-	farmers = {
-		culture = kiwi
-		religion =  protestant 
-		size = 22743
-	 } 
-	farmers = {
-		culture = kiwi
-		religion = secularism
-		size = 4576
-	 } 
-	farmers = {
-		culture = chinese
-		religion =  taoism 
-		size = 638
-	 } 
-	farmers = {
-		culture = chinese
-		religion = secularism
-		size = 128
-	 } 
-	farmers = {
-		culture = maori
-		religion =  protestant 
-		size = 10861
-	 } 
-	farmers = {
-		culture = maori
-		religion = secularism
-		size = 2185
-	 } 
-	farmers = {
-		culture = polynesian
-		religion =  catholic 
-		size = 1277
-	 } 
-	farmers = {
-		culture = polynesian
-		religion = secularism
-		size = 257
-	 } 
+  capitalists = {
+    culture = kiwi
+    religion =  protestant
+    size = 318
+  }
+  capitalists = {
+    culture = kiwi
+    religion = secularism
+    size = 64
+  }
+  officers = {
+    culture = kiwi
+    religion =  protestant
+    size = 879
+  }
+  officers = {
+    culture = kiwi
+    religion = secularism
+    size = 176
+  }
+  soldiers = {
+    culture = kiwi
+    religion =  protestant
+    size = 16713
+  }
+  soldiers = {
+    culture = kiwi
+    religion = secularism
+    size = 3362
+  }
+  aristocrats = {
+    culture = kiwi
+    religion =  protestant
+    size = 2555
+  }
+  aristocrats = {
+    culture = kiwi
+    religion = secularism
+    size = 514
+  }
+  bureaucrats = {
+    culture = kiwi
+    religion =  protestant
+    size = 127
+  }
+  bureaucrats = {
+    culture = kiwi
+    religion = secularism
+    size = 25
+  }
+  clergymen = {
+    culture = kiwi
+    religion =  protestant
+    size = 1277
+  }
+  clergymen = {
+    culture = kiwi
+    religion = secularism
+    size = 257
+  }
+  clerks = {
+    culture = kiwi
+    religion =  protestant
+    size = 1312
+  }
+  clerks = {
+    culture = kiwi
+    religion = secularism
+    size = 264
+  }
+  artisans = {
+    culture = kiwi
+    religion =  protestant
+    size = 1247
+  }
+  artisans = {
+    culture = kiwi
+    religion = secularism
+    size = 250
+  }
+  craftsmen = {
+    culture = kiwi
+    religion =  protestant
+    size = 3939
+  }
+  craftsmen = {
+    culture = kiwi
+    religion = secularism
+    size = 792
+  }
+  farmers = {
+    culture = kiwi
+    religion =  protestant
+    size = 22743
+  }
+  farmers = {
+    culture = kiwi
+    religion = secularism
+    size = 4576
+  }
+  farmers = {
+    culture = chinese
+    religion =  taoism
+    size = 638
+  }
+  farmers = {
+    culture = chinese
+    religion = secularism
+    size = 128
+  }
+  farmers = {
+    culture = maori
+    religion =  protestant
+    size = 10861
+  }
+  farmers = {
+    culture = maori
+    religion = secularism
+    size = 2185
+  }
+  farmers = {
+    culture = polynesian
+    religion =  catholic
+    size = 1277
+  }
+  farmers = {
+    culture = polynesian
+    religion = secularism
+    size = 257
+  }
 }
 #Dunedin - Dunedin (106000/26500 POPS)
 2513 = {
-	clergymen = {
-		culture = kiwi
-		religion =  protestant 
-		size = 441
-	 } 
-	clergymen = {
-		culture = kiwi
-		religion = secularism
-		size = 88
-	 } 
-	farmers = {
-		culture = kiwi
-		religion =  protestant 
-		size = 21620
-	 } 
-	farmers = {
-		culture = kiwi
-		religion = secularism
-		size = 4349
-	 } 
+  clergymen = {
+    culture = kiwi
+    religion =  protestant
+    size = 441
+  }
+  clergymen = {
+    culture = kiwi
+    religion = secularism
+    size = 88
+  }
+  farmers = {
+    culture = kiwi
+    religion =  protestant
+    size = 21620
+  }
+  farmers = {
+    culture = kiwi
+    religion = secularism
+    size = 4349
+  }
 }
 #Hokitika - Hokitika (13000/3250 POPS)
 2514 = {
-	clergymen = {
-		culture = kiwi
-		religion =  protestant 
-		size = 54
-	 } 
-	clergymen = {
-		culture = kiwi
-		religion = secularism
-		size = 10
-	 } 
-	farmers = {
-		culture = kiwi
-		religion =  protestant 
-		size = 2380
-	 } 
-	farmers = {
-		culture = kiwi
-		religion = secularism
-		size = 479
-	 } 
-	farmers = {
-		culture = maori
-		religion =  protestant 
-		size = 270
-	 } 
-	farmers = {
-		culture = maori
-		religion = secularism
-		size = 54
-	 } 
+  clergymen = {
+    culture = kiwi
+    religion =  protestant
+    size = 54
+  }
+  clergymen = {
+    culture = kiwi
+    religion = secularism
+    size = 10
+  }
+  farmers = {
+    culture = kiwi
+    religion =  protestant
+    size = 2380
+  }
+  farmers = {
+    culture = kiwi
+    religion = secularism
+    size = 479
+  }
+  farmers = {
+    culture = maori
+    religion =  protestant
+    size = 270
+  }
+  farmers = {
+    culture = maori
+    religion = secularism
+    size = 54
+  }
 }
 #Christchurch - Christchurch (235000/58750 POPS)
 2515 = {
-	clergymen = {
-		culture = kiwi
-		religion =  protestant 
-		size = 978
-	 } 
-	clergymen = {
-		culture = kiwi
-		religion = secularism
-		size = 196
-	 } 
-	farmers = {
-		culture = kiwi
-		religion =  protestant 
-		size = 47931
-	 } 
-	farmers = {
-		culture = kiwi
-		religion = secularism
-		size = 9643
-	 } 
+  clergymen = {
+    culture = kiwi
+    religion =  protestant
+    size = 978
+  }
+  clergymen = {
+    culture = kiwi
+    religion = secularism
+    size = 196
+  }
+  farmers = {
+    culture = kiwi
+    religion =  protestant
+    size = 47931
+  }
+  farmers = {
+    culture = kiwi
+    religion = secularism
+    size = 9643
+  }
 }
 #Nelson - Nelson (61000/15250 POPS)
 2516 = {
-	clergymen = {
-		culture = kiwi
-		religion =  protestant 
-		size = 253
-	 } 
-	clergymen = {
-		culture = kiwi
-		religion = secularism
-		size = 51
-	 } 
-	farmers = {
-		culture = kiwi
-		religion =  protestant 
-		size = 12441
-	 } 
-	farmers = {
-		culture = kiwi
-		religion = secularism
-		size = 2503
-	 } 
+  clergymen = {
+    culture = kiwi
+    religion =  protestant
+    size = 253
+  }
+  clergymen = {
+    culture = kiwi
+    religion = secularism
+    size = 51
+  }
+  farmers = {
+    culture = kiwi
+    religion =  protestant
+    size = 12441
+  }
+  farmers = {
+    culture = kiwi
+    religion = secularism
+    size = 2503
+  }
 }
 #Apia - Apia (82000/20500 POPS)
 2543 = {
-	officers = {
-		culture = kiwi
-		religion =  protestant 
-		size = 59
-	 } 
-	officers = {
-		culture = kiwi
-		religion = secularism
-		size = 1
-	 } 
-	soldiers = {
-		culture = kiwi
-		religion =  protestant 
-		size = 241
-	 } 
-	soldiers = {
-		culture = kiwi
-		religion = secularism
-		size = 4
-	 } 
-	aristocrats = {
-		culture = kiwi
-		religion =  protestant 
-		size = 803
-	 } 
-	aristocrats = {
-		culture = kiwi
-		religion = secularism
-		size = 16
-	 } 
-	bureaucrats = {
-		culture = kiwi
-		religion =  protestant 
-		size = 19
-	 } 
-	clergymen = {
-		culture = kiwi
-		religion =  protestant 
-		size = 362
-	 } 
-	clergymen = {
-		culture = kiwi
-		religion = secularism
-		size = 7
-	 } 
-	clergymen = {
-		culture = polynesian
-		religion =  catholic 
-		size = 39
-	 } 
-	artisans = {
-		culture = polynesian
-		religion =  catholic 
-		size = 62
-	 } 
-	artisans = {
-		culture = polynesian
-		religion = secularism
-		size = 1
-	 } 
-	farmers = {
-		culture = polynesian
-		religion =  catholic 
-		size = 18501
-	 } 
-	farmers = {
-		culture = polynesian
-		religion = secularism
-		size = 377
-	 } 
+  officers = {
+    culture = kiwi
+    religion =  protestant
+    size = 59
+  }
+  officers = {
+    culture = kiwi
+    religion = secularism
+    size = 1
+  }
+  soldiers = {
+    culture = kiwi
+    religion =  protestant
+    size = 241
+  }
+  soldiers = {
+    culture = kiwi
+    religion = secularism
+    size = 4
+  }
+  aristocrats = {
+    culture = kiwi
+    religion =  protestant
+    size = 803
+  }
+  aristocrats = {
+    culture = kiwi
+    religion = secularism
+    size = 16
+  }
+  bureaucrats = {
+    culture = kiwi
+    religion =  protestant
+    size = 19
+  }
+  clergymen = {
+    culture = kiwi
+    religion =  protestant
+    size = 362
+  }
+  clergymen = {
+    culture = kiwi
+    religion = secularism
+    size = 7
+  }
+  clergymen = {
+    culture = polynesian
+    religion =  catholic
+    size = 39
+  }
+  artisans = {
+    culture = polynesian
+    religion =  catholic
+    size = 62
+  }
+  artisans = {
+    culture = polynesian
+    religion = secularism
+    size = 1
+  }
+  farmers = {
+    culture = polynesian
+    religion =  catholic
+    size = 18501
+  }
+  farmers = {
+    culture = polynesian
+    religion = secularism
+    size = 377
+  }
 }
 #Rarotonga - Rarotonga (7000/1750 POPS)
 2545 = {
-	clergymen = {
-		culture = maori
-		religion =  protestant 
-		size = 29
-	 } 
-	clergymen = {
-		culture = maori
-		religion = secularism
-		size = 5
-	 } 
-	farmers = {
-		culture = maori
-		religion =  protestant 
-		size = 1427
-	 } 
-	farmers = {
-		culture = maori
-		religion = secularism
-		size = 287
-	 } 
+  clergymen = {
+    culture = maori
+    religion =  protestant
+    size = 29
+  }
+  clergymen = {
+    culture = maori
+    religion = secularism
+    size = 5
+  }
+  farmers = {
+    culture = maori
+    religion =  protestant
+    size = 1427
+  }
+  farmers = {
+    culture = maori
+    religion = secularism
+    size = 287
+  }
 }
 #Tongareva - Tongareva (7000/1750 POPS)
 2546 = {
-	officers = {
-		culture = kiwi
-		religion =  protestant 
-		size = 4
-	 } 
-	soldiers = {
-		culture = kiwi
-		religion =  protestant 
-		size = 17
-	 } 
-	soldiers = {
-		culture = kiwi
-		religion = secularism
-		size = 3
-	 } 
-	aristocrats = {
-		culture = kiwi
-		religion =  protestant 
-		size = 58
-	 } 
-	aristocrats = {
-		culture = kiwi
-		religion = secularism
-		size = 11
-	 } 
-	bureaucrats = {
-		culture = kiwi
-		religion =  protestant 
-		size = 2
-	 } 
-	clergymen = {
-		culture = kiwi
-		religion =  protestant 
-		size = 29
-	 } 
-	clergymen = {
-		culture = kiwi
-		religion = secularism
-		size = 5
-	 } 
-	artisans = {
-		culture = kiwi
-		religion =  protestant 
-		size = 2
-	 } 
-	farmers = {
-		culture = kiwi
-		religion =  protestant 
-		size = 235
-	 } 
-	farmers = {
-		culture = kiwi
-		religion = secularism
-		size = 47
-	 } 
-	farmers = {
-		culture = maori
-		religion =  protestant 
-		size = 1107
-	 } 
-	farmers = {
-		culture = maori
-		religion = secularism
-		size = 222
-	 } 
+  officers = {
+    culture = kiwi
+    religion =  protestant
+    size = 4
+  }
+  soldiers = {
+    culture = kiwi
+    religion =  protestant
+    size = 17
+  }
+  soldiers = {
+    culture = kiwi
+    religion = secularism
+    size = 3
+  }
+  aristocrats = {
+    culture = kiwi
+    religion =  protestant
+    size = 58
+  }
+  aristocrats = {
+    culture = kiwi
+    religion = secularism
+    size = 11
+  }
+  bureaucrats = {
+    culture = kiwi
+    religion =  protestant
+    size = 2
+  }
+  clergymen = {
+    culture = kiwi
+    religion =  protestant
+    size = 29
+  }
+  clergymen = {
+    culture = kiwi
+    religion = secularism
+    size = 5
+  }
+  artisans = {
+    culture = kiwi
+    religion =  protestant
+    size = 2
+  }
+  farmers = {
+    culture = kiwi
+    religion =  protestant
+    size = 235
+  }
+  farmers = {
+    culture = kiwi
+    religion = secularism
+    size = 47
+  }
+  farmers = {
+    culture = maori
+    religion =  protestant
+    size = 1107
+  }
+  farmers = {
+    culture = maori
+    religion = secularism
+    size = 222
+  }
 }
 #Tokelau - Tokelau (2000/500 POPS)
 2547 = {
-	soldiers = {
-		culture = polynesian
-		religion =  catholic 
-		size = 4
-	 } 
-	soldiers = {
-		culture = polynesian
-		religion = secularism
-		size = 1
-	 } 
-	aristocrats = {
-		culture = polynesian
-		religion =  catholic 
-		size = 16
-	 } 
-	aristocrats = {
-		culture = polynesian
-		religion = secularism
-		size = 3
-	 } 
-	clergymen = {
-		culture = polynesian
-		religion =  catholic 
-		size = 8
-	 } 
-	clergymen = {
-		culture = polynesian
-		religion = secularism
-		size = 1
-	 } 
-	artisans = {
-		culture = polynesian
-		religion =  catholic 
-		size = 1
-	 } 
-	farmers = {
-		culture = polynesian
-		religion =  catholic 
-		size = 382
-	 } 
-	farmers = {
-		culture = polynesian
-		religion = secularism
-		size = 77
-	 } 
+  soldiers = {
+    culture = polynesian
+    religion =  catholic
+    size = 4
+  }
+  soldiers = {
+    culture = polynesian
+    religion = secularism
+    size = 1
+  }
+  aristocrats = {
+    culture = polynesian
+    religion =  catholic
+    size = 16
+  }
+  aristocrats = {
+    culture = polynesian
+    religion = secularism
+    size = 3
+  }
+  clergymen = {
+    culture = polynesian
+    religion =  catholic
+    size = 8
+  }
+  clergymen = {
+    culture = polynesian
+    religion = secularism
+    size = 1
+  }
+  artisans = {
+    culture = polynesian
+    religion =  catholic
+    size = 1
+  }
+  farmers = {
+    culture = polynesian
+    religion =  catholic
+    size = 382
+  }
+  farmers = {
+    culture = polynesian
+    religion = secularism
+    size = 77
+  }
 }
 #Tauranga - Tauranga (315000/78750 POPS)
 2571 = {
-	clergymen = {
-		culture = kiwi
-		religion =  protestant 
-		size = 1311
-	 } 
-	clergymen = {
-		culture = kiwi
-		religion = secularism
-		size = 263
-	 } 
-	farmers = {
-		culture = kiwi
-		religion =  protestant 
-		size = 47857
-	 } 
-	farmers = {
-		culture = kiwi
-		religion = secularism
-		size = 9629
-	 } 
-	farmers = {
-		culture = maori
-		religion =  protestant 
-		size = 16389
-	 } 
-	farmers = {
-		culture = maori
-		religion = secularism
-		size = 3297
-	 } 
+  clergymen = {
+    culture = kiwi
+    religion =  protestant
+    size = 1311
+  }
+  clergymen = {
+    culture = kiwi
+    religion = secularism
+    size = 263
+  }
+  farmers = {
+    culture = kiwi
+    religion =  protestant
+    size = 47857
+  }
+  farmers = {
+    culture = kiwi
+    religion = secularism
+    size = 9629
+  }
+  farmers = {
+    culture = maori
+    religion =  protestant
+    size = 16389
+  }
+  farmers = {
+    culture = maori
+    religion = secularism
+    size = 3297
+  }
 }

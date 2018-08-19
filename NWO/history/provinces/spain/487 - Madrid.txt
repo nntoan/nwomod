@@ -6,49 +6,49 @@ life_rating = 23
 terrain = urban_madrid
 colonial = 0
 state_building = {
-	level = 1
-	building = petrochemicals_factory
-	upgrade = yes
+  level = 1
+  building = petrochemicals_factory
+  upgrade = yes
 }
 state_building = {
-	level = 1
-	building = machine_parts_factory
-	upgrade = yes
+  level = 1
+  building = machine_parts_factory
+  upgrade = yes
 }
 1992.1.1 = {
-owner = SPA
-controller = SPA
-add_core = SPA
-railroad = 1
-colonial = 0
-state_building = {
-	level = 1
-	building = heating_electricity_factory
-	upgrade = yes
-}
-state_building = {
-	level = 1
-	building = glass_factory
-	upgrade = yes
-}
-state_building = {
-	level = 1
-	building = automobiles_factory
-	upgrade = yes
-}
-state_building = {
-	level = 1
-	building = instruments_factory
-	upgrade = yes
-}
-state_building = {
-	level = 1
-	building = milk_cheese_factory
-	upgrade = yes
-}
-state_building = {
-	level = 1
-	building = turbines_factory
-	upgrade = yes
-}
+  owner = SPA
+  controller = SPA
+  add_core = SPA
+  railroad = 1
+  colonial = 0
+  state_building = {
+    level = 1
+    building = heating_electricity_factory
+    upgrade = yes
+  }
+  state_building = {
+    level = 1
+    building = glass_factory
+    upgrade = yes
+  }
+  state_building = {
+    level = 1
+    building = automobiles_factory
+    upgrade = yes
+  }
+  state_building = {
+    level = 1
+    building = instruments_factory
+    upgrade = yes
+  }
+  state_building = {
+    level = 1
+    building = milk_cheese_factory
+    upgrade = yes
+  }
+  state_building = {
+    level = 1
+    building = turbines_factory
+    upgrade = yes
+  }
 }

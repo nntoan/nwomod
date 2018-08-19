@@ -1,1471 +1,1471 @@
 #Cernauti - Cernauti (1265000/316250 POPS)
 662 = {
-	clergymen = {
-		culture = ukrainian
-		religion =  orthodox 
-		size = 2150
-	 } 
-	clergymen = {
-		culture = ukrainian
-		religion = secularism
-		size = 4174
-	 } 
-	farmers = {
-		culture = ukrainian
-		religion =  orthodox 
-		size = 83869
-	 } 
-	farmers = {
-		culture = ukrainian
-		religion = secularism
-		size = 162805
-	 } 
-	farmers = {
-		culture = romanian
-		religion =  orthodox 
-		size = 21504
-	 } 
-	farmers = {
-		culture = romanian
-		religion = secularism
-		size = 41745
-	 } 
+  clergymen = {
+    culture = ukrainian
+    religion =  orthodox
+    size = 2150
+  }
+  clergymen = {
+    culture = ukrainian
+    religion = secularism
+    size = 4174
+  }
+  farmers = {
+    culture = ukrainian
+    religion =  orthodox
+    size = 83869
+  }
+  farmers = {
+    culture = ukrainian
+    religion = secularism
+    size = 162805
+  }
+  farmers = {
+    culture = romanian
+    religion =  orthodox
+    size = 21504
+  }
+  farmers = {
+    culture = romanian
+    religion = secularism
+    size = 41745
+  }
 }
 #Izmail - Izmail (710000/177500 POPS)
 678 = {
-	clergymen = {
-		culture = ukrainian
-		religion =  orthodox 
-		size = 1207
-	 } 
-	clergymen = {
-		culture = ukrainian
-		religion = secularism
-		size = 2343
-	 } 
-	farmers = {
-		culture = ukrainian
-		religion =  orthodox 
-		size = 32588
-	 } 
-	farmers = {
-		culture = ukrainian
-		religion = secularism
-		size = 63261
-	 } 
-	farmers = {
-		culture = russian
-		religion =  orthodox 
-		size = 6034
-	 } 
-	farmers = {
-		culture = russian
-		religion = secularism
-		size = 11715
-	 } 
-	farmers = {
-		culture = bulgarian
-		religion =  orthodox 
-		size = 12673
-	 } 
-	farmers = {
-		culture = bulgarian
-		religion = secularism
-		size = 24601
-	 } 
-	farmers = {
-		culture = romanian
-		religion =  orthodox 
-		size = 7845
-	 } 
-	farmers = {
-		culture = romanian
-		religion = secularism
-		size = 15229
-	 } 
+  clergymen = {
+    culture = ukrainian
+    religion =  orthodox
+    size = 1207
+  }
+  clergymen = {
+    culture = ukrainian
+    religion = secularism
+    size = 2343
+  }
+  farmers = {
+    culture = ukrainian
+    religion =  orthodox
+    size = 32588
+  }
+  farmers = {
+    culture = ukrainian
+    religion = secularism
+    size = 63261
+  }
+  farmers = {
+    culture = russian
+    religion =  orthodox
+    size = 6034
+  }
+  farmers = {
+    culture = russian
+    religion = secularism
+    size = 11715
+  }
+  farmers = {
+    culture = bulgarian
+    religion =  orthodox
+    size = 12673
+  }
+  farmers = {
+    culture = bulgarian
+    religion = secularism
+    size = 24601
+  }
+  farmers = {
+    culture = romanian
+    religion =  orthodox
+    size = 7845
+  }
+  farmers = {
+    culture = romanian
+    religion = secularism
+    size = 15229
+  }
 }
 #Lvov - Lvov (1770000/442500 POPS)
 702 = {
-	officers = {
-		culture = ukrainian
-		religion =  orthodox 
-		size = 3652
-	 } 
-	officers = {
-		culture = ukrainian
-		religion = secularism
-		size = 7091
-	 } 
-	soldiers = {
-		culture = ukrainian
-		religion =  orthodox 
-		size = 69409
-	 } 
-	soldiers = {
-		culture = ukrainian
-		religion = secularism
-		size = 134737
-	 } 
-	aristocrats = {
-		culture = ukrainian
-		religion =  orthodox 
-		size = 6017
-	 } 
-	aristocrats = {
-		culture = ukrainian
-		religion = secularism
-		size = 11682
-	 } 
-	bureaucrats = {
-		culture = ukrainian
-		religion =  orthodox 
-		size = 300
-	 } 
-	bureaucrats = {
-		culture = ukrainian
-		religion = secularism
-		size = 584
-	 } 
-	capitalists = {
-		culture = ukrainian
-		religion =  orthodox 
-		size = 752
-	 } 
-	capitalists = {
-		culture = ukrainian
-		religion = secularism
-		size = 1459
-	 } 
-	clergymen = {
-		culture = ukrainian
-		religion =  orthodox 
-		size = 3008
-	 } 
-	clergymen = {
-		culture = ukrainian
-		religion = secularism
-		size = 5841
-	 } 
-	clerks = {
-		culture = ukrainian
-		religion =  orthodox 
-		size = 1299
-	 } 
-	clerks = {
-		culture = ukrainian
-		religion = secularism
-		size = 2522
-	 } 
-	artisans = {
-		culture = ukrainian
-		religion =  orthodox 
-		size = 1234
-	 } 
-	artisans = {
-		culture = ukrainian
-		religion = secularism
-		size = 2396
-	 } 
-	craftsmen = {
-		culture = ukrainian
-		religion =  orthodox 
-		size = 3898
-	 } 
-	craftsmen = {
-		culture = ukrainian
-		religion = secularism
-		size = 7568
-	 } 
-	farmers = {
-		culture = ukrainian
-		religion =  orthodox 
-		size = 53351
-	 } 
-	farmers = {
-		culture = ukrainian
-		religion = secularism
-		size = 103565
-	 } 
-	farmers = {
-		culture = polish
-		religion =  catholic 
-		size = 7522
-	 } 
-	farmers = {
-		culture = polish
-		religion = secularism
-		size = 14602
-	 } 
+  officers = {
+    culture = ukrainian
+    religion =  orthodox
+    size = 3652
+  }
+  officers = {
+    culture = ukrainian
+    religion = secularism
+    size = 7091
+  }
+  soldiers = {
+    culture = ukrainian
+    religion =  orthodox
+    size = 69409
+  }
+  soldiers = {
+    culture = ukrainian
+    religion = secularism
+    size = 134737
+  }
+  aristocrats = {
+    culture = ukrainian
+    religion =  orthodox
+    size = 6017
+  }
+  aristocrats = {
+    culture = ukrainian
+    religion = secularism
+    size = 11682
+  }
+  bureaucrats = {
+    culture = ukrainian
+    religion =  orthodox
+    size = 300
+  }
+  bureaucrats = {
+    culture = ukrainian
+    religion = secularism
+    size = 584
+  }
+  capitalists = {
+    culture = ukrainian
+    religion =  orthodox
+    size = 752
+  }
+  capitalists = {
+    culture = ukrainian
+    religion = secularism
+    size = 1459
+  }
+  clergymen = {
+    culture = ukrainian
+    religion =  orthodox
+    size = 3008
+  }
+  clergymen = {
+    culture = ukrainian
+    religion = secularism
+    size = 5841
+  }
+  clerks = {
+    culture = ukrainian
+    religion =  orthodox
+    size = 1299
+  }
+  clerks = {
+    culture = ukrainian
+    religion = secularism
+    size = 2522
+  }
+  artisans = {
+    culture = ukrainian
+    religion =  orthodox
+    size = 1234
+  }
+  artisans = {
+    culture = ukrainian
+    religion = secularism
+    size = 2396
+  }
+  craftsmen = {
+    culture = ukrainian
+    religion =  orthodox
+    size = 3898
+  }
+  craftsmen = {
+    culture = ukrainian
+    religion = secularism
+    size = 7568
+  }
+  farmers = {
+    culture = ukrainian
+    religion =  orthodox
+    size = 53351
+  }
+  farmers = {
+    culture = ukrainian
+    religion = secularism
+    size = 103565
+  }
+  farmers = {
+    culture = polish
+    religion =  catholic
+    size = 7522
+  }
+  farmers = {
+    culture = polish
+    religion = secularism
+    size = 14602
+  }
 }
 #Uzgorord - Uzgorord (1428000/357000 POPS)
 950 = {
-	officers = {
-		culture = ukrainian
-		religion =  orthodox 
-		size = 883
-	 } 
-	officers = {
-		culture = ukrainian
-		religion = secularism
-		size = 1716
-	 } 
-	soldiers = {
-		culture = ukrainian
-		religion =  orthodox 
-		size = 16799
-	 } 
-	soldiers = {
-		culture = ukrainian
-		religion = secularism
-		size = 32610
-	 } 
-	aristocrats = {
-		culture = ukrainian
-		religion =  orthodox 
-		size = 4855
-	 } 
-	aristocrats = {
-		culture = ukrainian
-		religion = secularism
-		size = 9424
-	 } 
-	bureaucrats = {
-		culture = ukrainian
-		religion =  orthodox 
-		size = 242
-	 } 
-	bureaucrats = {
-		culture = ukrainian
-		religion = secularism
-		size = 471
-	 } 
-	capitalists = {
-		culture = ukrainian
-		religion =  orthodox 
-		size = 606
-	 } 
-	capitalists = {
-		culture = ukrainian
-		religion = secularism
-		size = 1178
-	 } 
-	clergymen = {
-		culture = ukrainian
-		religion =  orthodox 
-		size = 2427
-	 } 
-	clergymen = {
-		culture = ukrainian
-		religion = secularism
-		size = 4712
-	 } 
-	clerks = {
-		culture = ukrainian
-		religion =  orthodox 
-		size = 1741
-	 } 
-	clerks = {
-		culture = ukrainian
-		religion = secularism
-		size = 3380
-	 } 
-	artisans = {
-		culture = ukrainian
-		religion =  orthodox 
-		size = 1654
-	 } 
-	artisans = {
-		culture = ukrainian
-		religion = secularism
-		size = 3210
-	 } 
-	craftsmen = {
-		culture = ukrainian
-		religion =  orthodox 
-		size = 5224
-	 } 
-	craftsmen = {
-		culture = ukrainian
-		religion = secularism
-		size = 10141
-	 } 
-	farmers = {
-		culture = ukrainian
-		religion =  orthodox 
-		size = 55385
-	 } 
-	farmers = {
-		culture = ukrainian
-		religion = secularism
-		size = 107512
-	 } 
-	farmers = {
-		culture = rusyn
-		religion =  orthodox 
-		size = 13351
-	 } 
-	farmers = {
-		culture = rusyn
-		religion = secularism
-		size = 25918
-	 } 
-	farmers = {
-		culture = hungarian
-		religion =  catholic 
-		size = 18207
-	 } 
-	farmers = {
-		culture = hungarian
-		religion = secularism
-		size = 35343
-	 } 
+  officers = {
+    culture = ukrainian
+    religion =  orthodox
+    size = 883
+  }
+  officers = {
+    culture = ukrainian
+    religion = secularism
+    size = 1716
+  }
+  soldiers = {
+    culture = ukrainian
+    religion =  orthodox
+    size = 16799
+  }
+  soldiers = {
+    culture = ukrainian
+    religion = secularism
+    size = 32610
+  }
+  aristocrats = {
+    culture = ukrainian
+    religion =  orthodox
+    size = 4855
+  }
+  aristocrats = {
+    culture = ukrainian
+    religion = secularism
+    size = 9424
+  }
+  bureaucrats = {
+    culture = ukrainian
+    religion =  orthodox
+    size = 242
+  }
+  bureaucrats = {
+    culture = ukrainian
+    religion = secularism
+    size = 471
+  }
+  capitalists = {
+    culture = ukrainian
+    religion =  orthodox
+    size = 606
+  }
+  capitalists = {
+    culture = ukrainian
+    religion = secularism
+    size = 1178
+  }
+  clergymen = {
+    culture = ukrainian
+    religion =  orthodox
+    size = 2427
+  }
+  clergymen = {
+    culture = ukrainian
+    religion = secularism
+    size = 4712
+  }
+  clerks = {
+    culture = ukrainian
+    religion =  orthodox
+    size = 1741
+  }
+  clerks = {
+    culture = ukrainian
+    religion = secularism
+    size = 3380
+  }
+  artisans = {
+    culture = ukrainian
+    religion =  orthodox
+    size = 1654
+  }
+  artisans = {
+    culture = ukrainian
+    religion = secularism
+    size = 3210
+  }
+  craftsmen = {
+    culture = ukrainian
+    religion =  orthodox
+    size = 5224
+  }
+  craftsmen = {
+    culture = ukrainian
+    religion = secularism
+    size = 10141
+  }
+  farmers = {
+    culture = ukrainian
+    religion =  orthodox
+    size = 55385
+  }
+  farmers = {
+    culture = ukrainian
+    religion = secularism
+    size = 107512
+  }
+  farmers = {
+    culture = rusyn
+    religion =  orthodox
+    size = 13351
+  }
+  farmers = {
+    culture = rusyn
+    religion = secularism
+    size = 25918
+  }
+  farmers = {
+    culture = hungarian
+    religion =  catholic
+    size = 18207
+  }
+  farmers = {
+    culture = hungarian
+    religion = secularism
+    size = 35343
+  }
 }
 #Stryi - Stryi (1146000/286500 POPS)
 951 = {
-	clergymen = {
-		culture = ukrainian
-		religion =  orthodox 
-		size = 1948
-	 } 
-	clergymen = {
-		culture = ukrainian
-		religion = secularism
-		size = 3781
-	 } 
-	farmers = {
-		culture = ukrainian
-		religion =  orthodox 
-		size = 90591
-	 } 
-	farmers = {
-		culture = ukrainian
-		religion = secularism
-		size = 175853
-	 } 
-	farmers = {
-		culture = polish
-		religion =  catholic 
-		size = 4870
-	 } 
-	farmers = {
-		culture = polish
-		religion = secularism
-		size = 9454
-	 } 
+  clergymen = {
+    culture = ukrainian
+    religion =  orthodox
+    size = 1948
+  }
+  clergymen = {
+    culture = ukrainian
+    religion = secularism
+    size = 3781
+  }
+  farmers = {
+    culture = ukrainian
+    religion =  orthodox
+    size = 90591
+  }
+  farmers = {
+    culture = ukrainian
+    religion = secularism
+    size = 175853
+  }
+  farmers = {
+    culture = polish
+    religion =  catholic
+    size = 4870
+  }
+  farmers = {
+    culture = polish
+    religion = secularism
+    size = 9454
+  }
 }
 #Ternopil - Ternopil (1244000/311000 POPS)
 952 = {
-	clergymen = {
-		culture = ukrainian
-		religion =  orthodox 
-		size = 2114
-	 } 
-	clergymen = {
-		culture = ukrainian
-		religion = secularism
-		size = 4105
-	 } 
-	farmers = {
-		culture = ukrainian
-		religion =  orthodox 
-		size = 103625
-	 } 
-	farmers = {
-		culture = ukrainian
-		religion = secularism
-		size = 201154
-	 } 
+  clergymen = {
+    culture = ukrainian
+    religion =  orthodox
+    size = 2114
+  }
+  clergymen = {
+    culture = ukrainian
+    religion = secularism
+    size = 4105
+  }
+  farmers = {
+    culture = ukrainian
+    religion =  orthodox
+    size = 103625
+  }
+  farmers = {
+    culture = ukrainian
+    religion = secularism
+    size = 201154
+  }
 }
 #Stanislavov - Stanislavov (1581000/395250 POPS)
 953 = {
-	clergymen = {
-		culture = ukrainian
-		religion =  orthodox 
-		size = 2687
-	 } 
-	clergymen = {
-		culture = ukrainian
-		religion = secularism
-		size = 5217
-	 } 
-	farmers = {
-		culture = ukrainian
-		religion =  orthodox 
-		size = 131697
-	 } 
-	farmers = {
-		culture = ukrainian
-		religion = secularism
-		size = 255647
-	 } 
+  clergymen = {
+    culture = ukrainian
+    religion =  orthodox
+    size = 2687
+  }
+  clergymen = {
+    culture = ukrainian
+    religion = secularism
+    size = 5217
+  }
+  farmers = {
+    culture = ukrainian
+    religion =  orthodox
+    size = 131697
+  }
+  farmers = {
+    culture = ukrainian
+    religion = secularism
+    size = 255647
+  }
 }
 #Vinnitsa - Vinnitsa (1886000/471500 POPS)
 954 = {
-	clergymen = {
-		culture = ukrainian
-		religion =  orthodox 
-		size = 3206
-	 } 
-	clergymen = {
-		culture = ukrainian
-		religion = secularism
-		size = 6223
-	 } 
-	farmers = {
-		culture = ukrainian
-		religion =  orthodox 
-		size = 157103
-	 } 
-	farmers = {
-		culture = ukrainian
-		religion = secularism
-		size = 304966
-	 } 
+  clergymen = {
+    culture = ukrainian
+    religion =  orthodox
+    size = 3206
+  }
+  clergymen = {
+    culture = ukrainian
+    religion = secularism
+    size = 6223
+  }
+  farmers = {
+    culture = ukrainian
+    religion =  orthodox
+    size = 157103
+  }
+  farmers = {
+    culture = ukrainian
+    religion = secularism
+    size = 304966
+  }
 }
 #Proskorov - Proskorov (1525000/381250 POPS)
 955 = {
-	officers = {
-		culture = ukrainian
-		religion =  orthodox 
-		size = 2551
-	 } 
-	officers = {
-		culture = ukrainian
-		religion = secularism
-		size = 4953
-	 } 
-	soldiers = {
-		culture = ukrainian
-		religion =  orthodox 
-		size = 48488
-	 } 
-	soldiers = {
-		culture = ukrainian
-		religion = secularism
-		size = 94124
-	 } 
-	aristocrats = {
-		culture = ukrainian
-		religion =  orthodox 
-		size = 5184
-	 } 
-	aristocrats = {
-		culture = ukrainian
-		religion = secularism
-		size = 10065
-	 } 
-	bureaucrats = {
-		culture = ukrainian
-		religion =  orthodox 
-		size = 259
-	 } 
-	bureaucrats = {
-		culture = ukrainian
-		religion = secularism
-		size = 502
-	 } 
-	capitalists = {
-		culture = ukrainian
-		religion =  orthodox 
-		size = 648
-	 } 
-	capitalists = {
-		culture = ukrainian
-		religion = secularism
-		size = 1257
-	 } 
-	clergymen = {
-		culture = ukrainian
-		religion =  orthodox 
-		size = 2592
-	 } 
-	clergymen = {
-		culture = ukrainian
-		religion = secularism
-		size = 5032
-	 } 
-	clerks = {
-		culture = ukrainian
-		religion =  orthodox 
-		size = 1319
-	 } 
-	clerks = {
-		culture = ukrainian
-		religion = secularism
-		size = 2561
-	 } 
-	artisans = {
-		culture = ukrainian
-		religion =  orthodox 
-		size = 1253
-	 } 
-	artisans = {
-		culture = ukrainian
-		religion = secularism
-		size = 2433
-	 } 
-	craftsmen = {
-		culture = ukrainian
-		religion =  orthodox 
-		size = 3958
-	 } 
-	craftsmen = {
-		culture = ukrainian
-		religion = secularism
-		size = 7685
-	 } 
-	farmers = {
-		culture = ukrainian
-		religion =  orthodox 
-		size = 63368
-	 } 
-	farmers = {
-		culture = ukrainian
-		religion = secularism
-		size = 123008
-	 } 
+  officers = {
+    culture = ukrainian
+    religion =  orthodox
+    size = 2551
+  }
+  officers = {
+    culture = ukrainian
+    religion = secularism
+    size = 4953
+  }
+  soldiers = {
+    culture = ukrainian
+    religion =  orthodox
+    size = 48488
+  }
+  soldiers = {
+    culture = ukrainian
+    religion = secularism
+    size = 94124
+  }
+  aristocrats = {
+    culture = ukrainian
+    religion =  orthodox
+    size = 5184
+  }
+  aristocrats = {
+    culture = ukrainian
+    religion = secularism
+    size = 10065
+  }
+  bureaucrats = {
+    culture = ukrainian
+    religion =  orthodox
+    size = 259
+  }
+  bureaucrats = {
+    culture = ukrainian
+    religion = secularism
+    size = 502
+  }
+  capitalists = {
+    culture = ukrainian
+    religion =  orthodox
+    size = 648
+  }
+  capitalists = {
+    culture = ukrainian
+    religion = secularism
+    size = 1257
+  }
+  clergymen = {
+    culture = ukrainian
+    religion =  orthodox
+    size = 2592
+  }
+  clergymen = {
+    culture = ukrainian
+    religion = secularism
+    size = 5032
+  }
+  clerks = {
+    culture = ukrainian
+    religion =  orthodox
+    size = 1319
+  }
+  clerks = {
+    culture = ukrainian
+    religion = secularism
+    size = 2561
+  }
+  artisans = {
+    culture = ukrainian
+    religion =  orthodox
+    size = 1253
+  }
+  artisans = {
+    culture = ukrainian
+    religion = secularism
+    size = 2433
+  }
+  craftsmen = {
+    culture = ukrainian
+    religion =  orthodox
+    size = 3958
+  }
+  craftsmen = {
+    culture = ukrainian
+    religion = secularism
+    size = 7685
+  }
+  farmers = {
+    culture = ukrainian
+    religion =  orthodox
+    size = 63368
+  }
+  farmers = {
+    culture = ukrainian
+    religion = secularism
+    size = 123008
+  }
 }
 #Rovne - Rovne (1320000/330000 POPS)
 956 = {
-	clergymen = {
-		culture = ukrainian
-		religion =  orthodox 
-		size = 2244
-	 } 
-	clergymen = {
-		culture = ukrainian
-		religion = secularism
-		size = 4356
-	 } 
-	farmers = {
-		culture = ukrainian
-		religion =  orthodox 
-		size = 109955
-	 } 
-	farmers = {
-		culture = ukrainian
-		religion = secularism
-		size = 213444
-	 } 
+  clergymen = {
+    culture = ukrainian
+    religion =  orthodox
+    size = 2244
+  }
+  clergymen = {
+    culture = ukrainian
+    religion = secularism
+    size = 4356
+  }
+  farmers = {
+    culture = ukrainian
+    religion =  orthodox
+    size = 109955
+  }
+  farmers = {
+    culture = ukrainian
+    religion = secularism
+    size = 213444
+  }
 }
 #Kovel - Kovel (1189000/297250 POPS)
 957 = {
-	clergymen = {
-		culture = ukrainian
-		religion =  orthodox 
-		size = 2021
-	 } 
-	clergymen = {
-		culture = ukrainian
-		religion = secularism
-		size = 3923
-	 } 
-	farmers = {
-		culture = ukrainian
-		religion =  orthodox 
-		size = 99043
-	 } 
-	farmers = {
-		culture = ukrainian
-		religion = secularism
-		size = 192261
-	 } 
+  clergymen = {
+    culture = ukrainian
+    religion =  orthodox
+    size = 2021
+  }
+  clergymen = {
+    culture = ukrainian
+    religion = secularism
+    size = 3923
+  }
+  farmers = {
+    culture = ukrainian
+    religion =  orthodox
+    size = 99043
+  }
+  farmers = {
+    culture = ukrainian
+    religion = secularism
+    size = 192261
+  }
 }
 #Kiev - Kiev (3263000/815750 POPS)
 958 = {
-	capitalists = {
-		culture = jewish
-		religion =  jewish 
-		size = 1386
-	 } 
-	capitalists = {
-		culture = jewish
-		religion = secularism
-		size = 2691
-	 } 
-	officers = {
-		culture = ukrainian
-		religion =  orthodox 
-		size = 9183
-	 } 
-	officers = {
-		culture = ukrainian
-		religion = secularism
-		size = 17826
-	 } 
-	soldiers = {
-		culture = ukrainian
-		religion =  orthodox 
-		size = 174487
-	 } 
-	soldiers = {
-		culture = ukrainian
-		religion = secularism
-		size = 338712
-	 } 
-	aristocrats = {
-		culture = ukrainian
-		religion =  orthodox 
-		size = 10477
-	 } 
-	aristocrats = {
-		culture = ukrainian
-		religion = secularism
-		size = 20337
-	 } 
-	aristocrats = {
-		culture = jewish
-		religion =  jewish 
-		size = 617
-	 } 
-	aristocrats = {
-		culture = jewish
-		religion = secularism
-		size = 1197
-	 } 
-	bureaucrats = {
-		culture = jewish
-		religion =  jewish 
-		size = 554
-	 } 
-	bureaucrats = {
-		culture = jewish
-		religion = secularism
-		size = 1076
-	 } 
-	clergymen = {
-		culture = jewish
-		religion =  jewish 
-		size = 5547
-	 } 
-	clergymen = {
-		culture = jewish
-		religion = secularism
-		size = 10767
-	 } 
-	clerks = {
-		culture = jewish
-		religion =  jewish 
-		size = 1573
-	 } 
-	clerks = {
-		culture = jewish
-		religion = secularism
-		size = 3053
-	 } 
-	artisans = {
-		culture = jewish
-		religion =  jewish 
-		size = 1494
-	 } 
-	artisans = {
-		culture = jewish
-		religion = secularism
-		size = 2901
-	 } 
-	craftsmen = {
-		culture = jewish
-		religion =  jewish 
-		size = 4719
-	 } 
-	craftsmen = {
-		culture = jewish
-		religion = secularism
-		size = 9162
-	 } 
-	farmers = {
-		culture = jewish
-		religion =  jewish 
-		size = 28483
-	 } 
-	farmers = {
-		culture = jewish
-		religion = secularism
-		size = 55292
-	 } 
-	farmers = {
-		culture = russian
-		religion =  orthodox 
-		size = 38829
-	 } 
-	farmers = {
-		culture = russian
-		religion = secularism
-		size = 75375
-	 } 
+  capitalists = {
+    culture = jewish
+    religion =  jewish
+    size = 1386
+  }
+  capitalists = {
+    culture = jewish
+    religion = secularism
+    size = 2691
+  }
+  officers = {
+    culture = ukrainian
+    religion =  orthodox
+    size = 9183
+  }
+  officers = {
+    culture = ukrainian
+    religion = secularism
+    size = 17826
+  }
+  soldiers = {
+    culture = ukrainian
+    religion =  orthodox
+    size = 174487
+  }
+  soldiers = {
+    culture = ukrainian
+    religion = secularism
+    size = 338712
+  }
+  aristocrats = {
+    culture = ukrainian
+    religion =  orthodox
+    size = 10477
+  }
+  aristocrats = {
+    culture = ukrainian
+    religion = secularism
+    size = 20337
+  }
+  aristocrats = {
+    culture = jewish
+    religion =  jewish
+    size = 617
+  }
+  aristocrats = {
+    culture = jewish
+    religion = secularism
+    size = 1197
+  }
+  bureaucrats = {
+    culture = jewish
+    religion =  jewish
+    size = 554
+  }
+  bureaucrats = {
+    culture = jewish
+    religion = secularism
+    size = 1076
+  }
+  clergymen = {
+    culture = jewish
+    religion =  jewish
+    size = 5547
+  }
+  clergymen = {
+    culture = jewish
+    religion = secularism
+    size = 10767
+  }
+  clerks = {
+    culture = jewish
+    religion =  jewish
+    size = 1573
+  }
+  clerks = {
+    culture = jewish
+    religion = secularism
+    size = 3053
+  }
+  artisans = {
+    culture = jewish
+    religion =  jewish
+    size = 1494
+  }
+  artisans = {
+    culture = jewish
+    religion = secularism
+    size = 2901
+  }
+  craftsmen = {
+    culture = jewish
+    religion =  jewish
+    size = 4719
+  }
+  craftsmen = {
+    culture = jewish
+    religion = secularism
+    size = 9162
+  }
+  farmers = {
+    culture = jewish
+    religion =  jewish
+    size = 28483
+  }
+  farmers = {
+    culture = jewish
+    religion = secularism
+    size = 55292
+  }
+  farmers = {
+    culture = russian
+    religion =  orthodox
+    size = 38829
+  }
+  farmers = {
+    culture = russian
+    religion = secularism
+    size = 75375
+  }
 }
 #Korosten - Korosten (1470000/367500 POPS)
 959 = {
-	clergymen = {
-		culture = ukrainian
-		religion =  orthodox 
-		size = 2498
-	 } 
-	clergymen = {
-		culture = ukrainian
-		religion = secularism
-		size = 4851
-	 } 
-	farmers = {
-		culture = ukrainian
-		religion =  orthodox 
-		size = 122450
-	 } 
-	farmers = {
-		culture = ukrainian
-		religion = secularism
-		size = 237699
-	 } 
+  clergymen = {
+    culture = ukrainian
+    religion =  orthodox
+    size = 2498
+  }
+  clergymen = {
+    culture = ukrainian
+    religion = secularism
+    size = 4851
+  }
+  farmers = {
+    culture = ukrainian
+    religion =  orthodox
+    size = 122450
+  }
+  farmers = {
+    culture = ukrainian
+    religion = secularism
+    size = 237699
+  }
 }
 #Zhitomir - Zhitomir (1970000/492500 POPS)
 960 = {
-	clergymen = {
-		culture = ukrainian
-		religion =  orthodox 
-		size = 3348
-	 } 
-	clergymen = {
-		culture = ukrainian
-		religion = secularism
-		size = 6501
-	 } 
-	farmers = {
-		culture = ukrainian
-		religion =  orthodox 
-		size = 164100
-	 } 
-	farmers = {
-		culture = ukrainian
-		religion = secularism
-		size = 318549
-	 } 
+  clergymen = {
+    culture = ukrainian
+    religion =  orthodox
+    size = 3348
+  }
+  clergymen = {
+    culture = ukrainian
+    religion = secularism
+    size = 6501
+  }
+  farmers = {
+    culture = ukrainian
+    religion =  orthodox
+    size = 164100
+  }
+  farmers = {
+    culture = ukrainian
+    religion = secularism
+    size = 318549
+  }
 }
 #Cherkassy - Cherkassy (1479000/369750 POPS)
 961 = {
-	clergymen = {
-		culture = ukrainian
-		religion =  orthodox 
-		size = 2514
-	 } 
-	clergymen = {
-		culture = ukrainian
-		religion = secularism
-		size = 4880
-	 } 
-	farmers = {
-		culture = ukrainian
-		religion =  orthodox 
-		size = 123200
-	 } 
-	farmers = {
-		culture = ukrainian
-		religion = secularism
-		size = 239154
-	 } 
+  clergymen = {
+    culture = ukrainian
+    religion =  orthodox
+    size = 2514
+  }
+  clergymen = {
+    culture = ukrainian
+    religion = secularism
+    size = 4880
+  }
+  farmers = {
+    culture = ukrainian
+    religion =  orthodox
+    size = 123200
+  }
+  farmers = {
+    culture = ukrainian
+    religion = secularism
+    size = 239154
+  }
 }
 #Chernigov - Chernigov (1265000/316250 POPS)
 962 = {
-	clergymen = {
-		culture = ukrainian
-		religion =  orthodox 
-		size = 2150
-	 } 
-	clergymen = {
-		culture = ukrainian
-		religion = secularism
-		size = 4174
-	 } 
-	farmers = {
-		culture = ukrainian
-		religion =  orthodox 
-		size = 105374
-	 } 
-	farmers = {
-		culture = ukrainian
-		religion = secularism
-		size = 204550
-	 } 
+  clergymen = {
+    culture = ukrainian
+    religion =  orthodox
+    size = 2150
+  }
+  clergymen = {
+    culture = ukrainian
+    religion = secularism
+    size = 4174
+  }
+  farmers = {
+    culture = ukrainian
+    religion =  orthodox
+    size = 105374
+  }
+  farmers = {
+    culture = ukrainian
+    religion = secularism
+    size = 204550
+  }
 }
 #Poltava - Poltava (2857000/714250 POPS)
 963 = {
-	clergymen = {
-		culture = ukrainian
-		religion =  orthodox 
-		size = 4856
-	 } 
-	clergymen = {
-		culture = ukrainian
-		religion = secularism
-		size = 9428
-	 } 
-	farmers = {
-		culture = ukrainian
-		religion =  orthodox 
-		size = 237988
-	 } 
-	farmers = {
-		culture = ukrainian
-		religion = secularism
-		size = 461976
-	 } 
+  clergymen = {
+    culture = ukrainian
+    religion =  orthodox
+    size = 4856
+  }
+  clergymen = {
+    culture = ukrainian
+    religion = secularism
+    size = 9428
+  }
+  farmers = {
+    culture = ukrainian
+    religion =  orthodox
+    size = 237988
+  }
+  farmers = {
+    culture = ukrainian
+    religion = secularism
+    size = 461976
+  }
 }
 #Simferopol - Simferopol (2257000/564250 POPS)
 964 = {
-	clergymen = {
-		culture = ukrainian
-		religion =  orthodox 
-		size = 3836
-	 } 
-	clergymen = {
-		culture = ukrainian
-		religion = secularism
-		size = 7448
-	 } 
-	farmers = {
-		culture = ukrainian
-		religion =  orthodox 
-		size = 44124
-	 } 
-	farmers = {
-		culture = ukrainian
-		religion = secularism
-		size = 85652
-	 } 
-	farmers = {
-		culture = russian
-		religion =  orthodox 
-		size = 120862
-	 } 
-	farmers = {
-		culture = russian
-		religion = secularism
-		size = 234614
-	 } 
-	farmers = {
-		culture = tatar
-		religion =  sunni 
-		size = 67710
-	 } 
+  clergymen = {
+    culture = ukrainian
+    religion =  orthodox
+    size = 3836
+  }
+  clergymen = {
+    culture = ukrainian
+    religion = secularism
+    size = 7448
+  }
+  farmers = {
+    culture = ukrainian
+    religion =  orthodox
+    size = 44124
+  }
+  farmers = {
+    culture = ukrainian
+    religion = secularism
+    size = 85652
+  }
+  farmers = {
+    culture = russian
+    religion =  orthodox
+    size = 120862
+  }
+  farmers = {
+    culture = russian
+    religion = secularism
+    size = 234614
+  }
+  farmers = {
+    culture = tatar
+    religion =  sunni
+    size = 67710
+  }
 }
 #Cherson - Cherson (1250000/312500 POPS)
 965 = {
-	clergymen = {
-		culture = ukrainian
-		religion =  orthodox 
-		size = 2125
-	 } 
-	clergymen = {
-		culture = ukrainian
-		religion = secularism
-		size = 4125
-	 } 
-	farmers = {
-		culture = ukrainian
-		religion =  orthodox 
-		size = 88187
-	 } 
-	farmers = {
-		culture = ukrainian
-		religion = secularism
-		size = 171187
-	 } 
-	farmers = {
-		culture = russian
-		religion =  orthodox 
-		size = 15937
-	 } 
-	farmers = {
-		culture = russian
-		religion = secularism
-		size = 30937
-	 } 
+  clergymen = {
+    culture = ukrainian
+    religion =  orthodox
+    size = 2125
+  }
+  clergymen = {
+    culture = ukrainian
+    religion = secularism
+    size = 4125
+  }
+  farmers = {
+    culture = ukrainian
+    religion =  orthodox
+    size = 88187
+  }
+  farmers = {
+    culture = ukrainian
+    religion = secularism
+    size = 171187
+  }
+  farmers = {
+    culture = russian
+    religion =  orthodox
+    size = 15937
+  }
+  farmers = {
+    culture = russian
+    religion = secularism
+    size = 30937
+  }
 }
 #Kerch - Kerch (72000/18000 POPS)
 966 = {
-	clergymen = {
-		culture = russian
-		religion =  orthodox 
-		size = 122
-	 } 
-	clergymen = {
-		culture = russian
-		religion = secularism
-		size = 237
-	 } 
-	farmers = {
-		culture = russian
-		religion =  orthodox 
-		size = 5997
-	 } 
-	farmers = {
-		culture = russian
-		religion = secularism
-		size = 11642
-	 } 
+  clergymen = {
+    culture = russian
+    religion =  orthodox
+    size = 122
+  }
+  clergymen = {
+    culture = russian
+    religion = secularism
+    size = 237
+  }
+  farmers = {
+    culture = russian
+    religion =  orthodox
+    size = 5997
+  }
+  farmers = {
+    culture = russian
+    religion = secularism
+    size = 11642
+  }
 }
 #Sevastopol - Sevastopol (434000/108500 POPS)
 967 = {
-	officers = {
-		culture = ukrainian
-		religion =  orthodox 
-		size = 1791
-	 } 
-	officers = {
-		culture = ukrainian
-		religion = secularism
-		size = 3477
-	 } 
-	soldiers = {
-		culture = ukrainian
-		religion =  orthodox 
-		size = 5955
-	 } 
-	soldiers = {
-		culture = ukrainian
-		religion = secularism
-		size = 11560
-	 } 
-	soldiers = {
-		culture = russian
-		religion =  orthodox 
-		size = 28082
-	 } 
-	soldiers = {
-		culture = russian
-		religion = secularism
-		size = 54514
-	 } 
-	aristocrats = {
-		culture = russian
-		religion =  orthodox 
-		size = 1060
-	 } 
-	aristocrats = {
-		culture = russian
-		religion = secularism
-		size = 2057
-	 } 
+  officers = {
+    culture = ukrainian
+    religion =  orthodox
+    size = 1791
+  }
+  officers = {
+    culture = ukrainian
+    religion = secularism
+    size = 3477
+  }
+  soldiers = {
+    culture = ukrainian
+    religion =  orthodox
+    size = 5955
+  }
+  soldiers = {
+    culture = ukrainian
+    religion = secularism
+    size = 11560
+  }
+  soldiers = {
+    culture = russian
+    religion =  orthodox
+    size = 28082
+  }
+  soldiers = {
+    culture = russian
+    religion = secularism
+    size = 54514
+  }
+  aristocrats = {
+    culture = russian
+    religion =  orthodox
+    size = 1060
+  }
+  aristocrats = {
+    culture = russian
+    religion = secularism
+    size = 2057
+  }
 }
 #Odessa - Odessa (1131000/282750 POPS)
 968 = {
-	capitalists = {
-		culture = jewish
-		religion =  jewish 
-		size = 480
-	 } 
-	capitalists = {
-		culture = jewish
-		religion = secularism
-		size = 932
-	 } 
-	officers = {
-		culture = ukrainian
-		religion =  orthodox 
-		size = 4668
-	 } 
-	officers = {
-		culture = ukrainian
-		religion = secularism
-		size = 9062
-	 } 
-	soldiers = {
-		culture = ukrainian
-		religion =  orthodox 
-		size = 48205
-	 } 
-	soldiers = {
-		culture = ukrainian
-		religion = secularism
-		size = 93575
-	 } 
-	soldiers = {
-		culture = jewish
-		religion =  jewish 
-		size = 13939
-	 } 
-	soldiers = {
-		culture = jewish
-		religion = secularism
-		size = 27059
-	 } 
-	soldiers = {
-		culture = russian
-		religion =  orthodox 
-		size = 26558
-	 } 
-	soldiers = {
-		culture = russian
-		religion = secularism
-		size = 51554
-	 } 
-	aristocrats = {
-		culture = russian
-		religion =  orthodox 
-		size = 2282
-	 } 
-	aristocrats = {
-		culture = russian
-		religion = secularism
-		size = 4429
-	 } 
+  capitalists = {
+    culture = jewish
+    religion =  jewish
+    size = 480
+  }
+  capitalists = {
+    culture = jewish
+    religion = secularism
+    size = 932
+  }
+  officers = {
+    culture = ukrainian
+    religion =  orthodox
+    size = 4668
+  }
+  officers = {
+    culture = ukrainian
+    religion = secularism
+    size = 9062
+  }
+  soldiers = {
+    culture = ukrainian
+    religion =  orthodox
+    size = 48205
+  }
+  soldiers = {
+    culture = ukrainian
+    religion = secularism
+    size = 93575
+  }
+  soldiers = {
+    culture = jewish
+    religion =  jewish
+    size = 13939
+  }
+  soldiers = {
+    culture = jewish
+    religion = secularism
+    size = 27059
+  }
+  soldiers = {
+    culture = russian
+    religion =  orthodox
+    size = 26558
+  }
+  soldiers = {
+    culture = russian
+    religion = secularism
+    size = 51554
+  }
+  aristocrats = {
+    culture = russian
+    religion =  orthodox
+    size = 2282
+  }
+  aristocrats = {
+    culture = russian
+    religion = secularism
+    size = 4429
+  }
 }
 #Pervomaisk - Pervomaisk (894000/223500 POPS)
 969 = {
-	clergymen = {
-		culture = ukrainian
-		religion =  orthodox 
-		size = 1519
-	 } 
-	clergymen = {
-		culture = ukrainian
-		religion = secularism
-		size = 2950
-	 } 
-	farmers = {
-		culture = ukrainian
-		religion =  orthodox 
-		size = 74470
-	 } 
-	farmers = {
-		culture = ukrainian
-		religion = secularism
-		size = 144559
-	 } 
+  clergymen = {
+    culture = ukrainian
+    religion =  orthodox
+    size = 1519
+  }
+  clergymen = {
+    culture = ukrainian
+    religion = secularism
+    size = 2950
+  }
+  farmers = {
+    culture = ukrainian
+    religion =  orthodox
+    size = 74470
+  }
+  farmers = {
+    culture = ukrainian
+    religion = secularism
+    size = 144559
+  }
 }
 #Nikolaev - Nikolaev (1359000/339750 POPS)
 970 = {
-	clergymen = {
-		culture = ukrainian
-		religion =  orthodox 
-		size = 2310
-	 } 
-	clergymen = {
-		culture = ukrainian
-		religion = secularism
-		size = 4484
-	 } 
-	farmers = {
-		culture = ukrainian
-		religion =  orthodox 
-		size = 113204
-	 } 
-	farmers = {
-		culture = ukrainian
-		religion = secularism
-		size = 219750
-	 } 
+  clergymen = {
+    culture = ukrainian
+    religion =  orthodox
+    size = 2310
+  }
+  clergymen = {
+    culture = ukrainian
+    religion = secularism
+    size = 4484
+  }
+  farmers = {
+    culture = ukrainian
+    religion =  orthodox
+    size = 113204
+  }
+  farmers = {
+    culture = ukrainian
+    religion = secularism
+    size = 219750
+  }
 }
 #Krivoy Rog - Krivoy Rog (1162000/290500 POPS)
 971 = {
-	clergymen = {
-		culture = ukrainian
-		religion =  orthodox 
-		size = 1975
-	 } 
-	clergymen = {
-		culture = ukrainian
-		religion = secularism
-		size = 3834
-	 } 
-	farmers = {
-		culture = ukrainian
-		religion =  orthodox 
-		size = 96794
-	 } 
-	farmers = {
-		culture = ukrainian
-		religion = secularism
-		size = 187895
-	 } 
+  clergymen = {
+    culture = ukrainian
+    religion =  orthodox
+    size = 1975
+  }
+  clergymen = {
+    culture = ukrainian
+    religion = secularism
+    size = 3834
+  }
+  farmers = {
+    culture = ukrainian
+    religion =  orthodox
+    size = 96794
+  }
+  farmers = {
+    culture = ukrainian
+    religion = secularism
+    size = 187895
+  }
 }
 #Ekaterinoslav - Dnipropetrovsk (2686000/671500 POPS)
 972 = {
-	clergymen = {
-		culture = ukrainian
-		religion =  orthodox 
-		size = 4566
-	 } 
-	clergymen = {
-		culture = ukrainian
-		religion = secularism
-		size = 8863
-	 } 
-	farmers = {
-		culture = ukrainian
-		religion =  orthodox 
-		size = 150684
-	 } 
-	farmers = {
-		culture = ukrainian
-		religion = secularism
-		size = 292505
-	 } 
-	farmers = {
-		culture = russian
-		religion =  orthodox 
-		size = 73059
-	 } 
-	farmers = {
-		culture = russian
-		religion = secularism
-		size = 141820
-	 } 
+  clergymen = {
+    culture = ukrainian
+    religion =  orthodox
+    size = 4566
+  }
+  clergymen = {
+    culture = ukrainian
+    religion = secularism
+    size = 8863
+  }
+  farmers = {
+    culture = ukrainian
+    religion =  orthodox
+    size = 150684
+  }
+  farmers = {
+    culture = ukrainian
+    religion = secularism
+    size = 292505
+  }
+  farmers = {
+    culture = russian
+    religion =  orthodox
+    size = 73059
+  }
+  farmers = {
+    culture = russian
+    religion = secularism
+    size = 141820
+  }
 }
 #Melitopol - Melitopol (2068000/517000 POPS)
 973 = {
-	clergymen = {
-		culture = ukrainian
-		religion =  orthodox 
-		size = 3515
-	 } 
-	clergymen = {
-		culture = ukrainian
-		religion = secularism
-		size = 6824
-	 } 
-	farmers = {
-		culture = ukrainian
-		religion =  orthodox 
-		size = 86132
-	 } 
-	farmers = {
-		culture = ukrainian
-		religion = secularism
-		size = 167197
-	 } 
-	farmers = {
-		culture = russian
-		religion =  orthodox 
-		size = 86132
-	 } 
-	farmers = {
-		culture = russian
-		religion = secularism
-		size = 167197
-	 } 
+  clergymen = {
+    culture = ukrainian
+    religion =  orthodox
+    size = 3515
+  }
+  clergymen = {
+    culture = ukrainian
+    religion = secularism
+    size = 6824
+  }
+  farmers = {
+    culture = ukrainian
+    religion =  orthodox
+    size = 86132
+  }
+  farmers = {
+    culture = ukrainian
+    religion = secularism
+    size = 167197
+  }
+  farmers = {
+    culture = russian
+    religion =  orthodox
+    size = 86132
+  }
+  farmers = {
+    culture = russian
+    religion = secularism
+    size = 167197
+  }
 }
 #Kramatorsk - Kramatorsk (1146000/286500 POPS)
 974 = {
-	officers = {
-		culture = ukrainian
-		religion =  orthodox 
-		size = 4173
-	 } 
-	officers = {
-		culture = ukrainian
-		religion = secularism
-		size = 8102
-	 } 
-	soldiers = {
-		culture = ukrainian
-		religion =  orthodox 
-		size = 49401
-	 } 
-	soldiers = {
-		culture = ukrainian
-		religion = secularism
-		size = 95897
-	 } 
-	soldiers = {
-		culture = russian
-		religion =  orthodox 
-		size = 29904
-	 } 
-	soldiers = {
-		culture = russian
-		religion = secularism
-		size = 58049
-	 } 
-	aristocrats = {
-		culture = russian
-		religion =  orthodox 
-		size = 3896
-	 } 
-	aristocrats = {
-		culture = russian
-		religion = secularism
-		size = 7563
-	 } 
-	bureaucrats = {
-		culture = russian
-		religion =  orthodox 
-		size = 194
-	 } 
-	bureaucrats = {
-		culture = russian
-		religion = secularism
-		size = 378
-	 } 
-	capitalists = {
-		culture = russian
-		religion =  orthodox 
-		size = 486
-	 } 
-	capitalists = {
-		culture = russian
-		religion = secularism
-		size = 945
-	 } 
-	clergymen = {
-		culture = russian
-		religion =  orthodox 
-		size = 1948
-	 } 
-	clergymen = {
-		culture = russian
-		religion = secularism
-		size = 3781
-	 } 
-	clerks = {
-		culture = russian
-		religion =  orthodox 
-		size = 233
-	 } 
-	clerks = {
-		culture = russian
-		religion = secularism
-		size = 454
-	 } 
-	artisans = {
-		culture = russian
-		religion =  orthodox 
-		size = 222
-	 } 
-	artisans = {
-		culture = russian
-		religion = secularism
-		size = 430
-	 } 
-	craftsmen = {
-		culture = russian
-		religion =  orthodox 
-		size = 701
-	 } 
-	craftsmen = {
-		culture = russian
-		religion = secularism
-		size = 1362
-	 } 
-	farmers = {
-		culture = russian
-		religion =  orthodox 
-		size = 6246
-	 } 
-	farmers = {
-		culture = russian
-		religion = secularism
-		size = 12124
-	 } 
+  officers = {
+    culture = ukrainian
+    religion =  orthodox
+    size = 4173
+  }
+  officers = {
+    culture = ukrainian
+    religion = secularism
+    size = 8102
+  }
+  soldiers = {
+    culture = ukrainian
+    religion =  orthodox
+    size = 49401
+  }
+  soldiers = {
+    culture = ukrainian
+    religion = secularism
+    size = 95897
+  }
+  soldiers = {
+    culture = russian
+    religion =  orthodox
+    size = 29904
+  }
+  soldiers = {
+    culture = russian
+    religion = secularism
+    size = 58049
+  }
+  aristocrats = {
+    culture = russian
+    religion =  orthodox
+    size = 3896
+  }
+  aristocrats = {
+    culture = russian
+    religion = secularism
+    size = 7563
+  }
+  bureaucrats = {
+    culture = russian
+    religion =  orthodox
+    size = 194
+  }
+  bureaucrats = {
+    culture = russian
+    religion = secularism
+    size = 378
+  }
+  capitalists = {
+    culture = russian
+    religion =  orthodox
+    size = 486
+  }
+  capitalists = {
+    culture = russian
+    religion = secularism
+    size = 945
+  }
+  clergymen = {
+    culture = russian
+    religion =  orthodox
+    size = 1948
+  }
+  clergymen = {
+    culture = russian
+    religion = secularism
+    size = 3781
+  }
+  clerks = {
+    culture = russian
+    religion =  orthodox
+    size = 233
+  }
+  clerks = {
+    culture = russian
+    religion = secularism
+    size = 454
+  }
+  artisans = {
+    culture = russian
+    religion =  orthodox
+    size = 222
+  }
+  artisans = {
+    culture = russian
+    religion = secularism
+    size = 430
+  }
+  craftsmen = {
+    culture = russian
+    religion =  orthodox
+    size = 701
+  }
+  craftsmen = {
+    culture = russian
+    religion = secularism
+    size = 1362
+  }
+  farmers = {
+    culture = russian
+    religion =  orthodox
+    size = 6246
+  }
+  farmers = {
+    culture = russian
+    religion = secularism
+    size = 12124
+  }
 }
 #Yuzovka - Yuzovka (2567000/641750 POPS)
 975 = {
-	clergymen = {
-		culture = ukrainian
-		religion =  orthodox 
-		size = 4363
-	 } 
-	clergymen = {
-		culture = ukrainian
-		religion = secularism
-		size = 8471
-	 } 
-	farmers = {
-		culture = ukrainian
-		religion =  orthodox 
-		size = 50184
-	 } 
-	farmers = {
-		culture = ukrainian
-		religion = secularism
-		size = 97417
-	 } 
-	farmers = {
-		culture = russian
-		religion =  orthodox 
-		size = 163646
-	 } 
-	farmers = {
-		culture = russian
-		religion = secularism
-		size = 317665
-	 } 
+  clergymen = {
+    culture = ukrainian
+    religion =  orthodox
+    size = 4363
+  }
+  clergymen = {
+    culture = ukrainian
+    religion = secularism
+    size = 8471
+  }
+  farmers = {
+    culture = ukrainian
+    religion =  orthodox
+    size = 50184
+  }
+  farmers = {
+    culture = ukrainian
+    religion = secularism
+    size = 97417
+  }
+  farmers = {
+    culture = russian
+    religion =  orthodox
+    size = 163646
+  }
+  farmers = {
+    culture = russian
+    religion = secularism
+    size = 317665
+  }
 }
 #Mariopol - Mariopol (2567000/641750 POPS)
 976 = {
-	clergymen = {
-		culture = ukrainian
-		religion =  orthodox 
-		size = 4363
-	 } 
-	clergymen = {
-		culture = ukrainian
-		religion = secularism
-		size = 8471
-	 } 
-	farmers = {
-		culture = ukrainian
-		religion =  orthodox 
-		size = 50184
-	 } 
-	farmers = {
-		culture = ukrainian
-		religion = secularism
-		size = 97417
-	 } 
-	farmers = {
-		culture = russian
-		religion =  orthodox 
-		size = 163646
-	 } 
-	farmers = {
-		culture = russian
-		religion = secularism
-		size = 317665
-	 } 
+  clergymen = {
+    culture = ukrainian
+    religion =  orthodox
+    size = 4363
+  }
+  clergymen = {
+    culture = ukrainian
+    religion = secularism
+    size = 8471
+  }
+  farmers = {
+    culture = ukrainian
+    religion =  orthodox
+    size = 50184
+  }
+  farmers = {
+    culture = ukrainian
+    religion = secularism
+    size = 97417
+  }
+  farmers = {
+    culture = russian
+    religion =  orthodox
+    size = 163646
+  }
+  farmers = {
+    culture = russian
+    religion = secularism
+    size = 317665
+  }
 }
 #Kharkov - Kharkov (2011000/502750 POPS)
 978 = {
-	clergymen = {
-		culture = ukrainian
-		religion =  orthodox 
-		size = 3418
-	 } 
-	clergymen = {
-		culture = ukrainian
-		religion = secularism
-		size = 6636
-	 } 
-	farmers = {
-		culture = ukrainian
-		religion =  orthodox 
-		size = 90595
-	 } 
-	farmers = {
-		culture = ukrainian
-		religion = secularism
-		size = 175861
-	 } 
-	farmers = {
-		culture = russian
-		religion =  orthodox 
-		size = 76920
-	 } 
-	farmers = {
-		culture = russian
-		religion = secularism
-		size = 149316
-	 } 
+  clergymen = {
+    culture = ukrainian
+    religion =  orthodox
+    size = 3418
+  }
+  clergymen = {
+    culture = ukrainian
+    religion = secularism
+    size = 6636
+  }
+  farmers = {
+    culture = ukrainian
+    religion =  orthodox
+    size = 90595
+  }
+  farmers = {
+    culture = ukrainian
+    religion = secularism
+    size = 175861
+  }
+  farmers = {
+    culture = russian
+    religion =  orthodox
+    size = 76920
+  }
+  farmers = {
+    culture = russian
+    religion = secularism
+    size = 149316
+  }
 }
 #Luhansk - Luhansk (2636000/659000 POPS)
 980 = {
-	officers = {
-		culture = ukrainian
-		religion =  orthodox 
-		size = 4945
-	 } 
-	officers = {
-		culture = ukrainian
-		religion = secularism
-		size = 9600
-	 } 
-	soldiers = {
-		culture = ukrainian
-		religion =  orthodox 
-		size = 62272
-	 } 
-	soldiers = {
-		culture = ukrainian
-		religion = secularism
-		size = 120881
-	 } 
-	soldiers = {
-		culture = russian
-		religion =  orthodox 
-		size = 31700
-	 } 
-	soldiers = {
-		culture = russian
-		religion = secularism
-		size = 61536
-	 } 
-	aristocrats = {
-		culture = russian
-		religion =  orthodox 
-		size = 8962
-	 } 
-	aristocrats = {
-		culture = russian
-		religion = secularism
-		size = 17397
-	 } 
-	bureaucrats = {
-		culture = russian
-		religion =  orthodox 
-		size = 448
-	 } 
-	bureaucrats = {
-		culture = russian
-		religion = secularism
-		size = 869
-	 } 
-	capitalists = {
-		culture = russian
-		religion =  orthodox 
-		size = 1120
-	 } 
-	capitalists = {
-		culture = russian
-		religion = secularism
-		size = 2174
-	 } 
-	clergymen = {
-		culture = russian
-		religion =  orthodox 
-		size = 4481
-	 } 
-	clergymen = {
-		culture = russian
-		religion = secularism
-		size = 8698
-	 } 
-	clerks = {
-		culture = russian
-		religion =  orthodox 
-		size = 2101
-	 } 
-	clerks = {
-		culture = russian
-		religion = secularism
-		size = 4079
-	 } 
-	artisans = {
-		culture = russian
-		religion =  orthodox 
-		size = 1996
-	 } 
-	artisans = {
-		culture = russian
-		religion = secularism
-		size = 3875
-	 } 
-	craftsmen = {
-		culture = russian
-		religion =  orthodox 
-		size = 6304
-	 } 
-	craftsmen = {
-		culture = russian
-		religion = secularism
-		size = 12238
-	 } 
-	farmers = {
-		culture = russian
-		religion =  orthodox 
-		size = 99726
-	 } 
-	farmers = {
-		culture = russian
-		religion = secularism
-		size = 193586
-	 } 
+  officers = {
+    culture = ukrainian
+    religion =  orthodox
+    size = 4945
+  }
+  officers = {
+    culture = ukrainian
+    religion = secularism
+    size = 9600
+  }
+  soldiers = {
+    culture = ukrainian
+    religion =  orthodox
+    size = 62272
+  }
+  soldiers = {
+    culture = ukrainian
+    religion = secularism
+    size = 120881
+  }
+  soldiers = {
+    culture = russian
+    religion =  orthodox
+    size = 31700
+  }
+  soldiers = {
+    culture = russian
+    religion = secularism
+    size = 61536
+  }
+  aristocrats = {
+    culture = russian
+    religion =  orthodox
+    size = 8962
+  }
+  aristocrats = {
+    culture = russian
+    religion = secularism
+    size = 17397
+  }
+  bureaucrats = {
+    culture = russian
+    religion =  orthodox
+    size = 448
+  }
+  bureaucrats = {
+    culture = russian
+    religion = secularism
+    size = 869
+  }
+  capitalists = {
+    culture = russian
+    religion =  orthodox
+    size = 1120
+  }
+  capitalists = {
+    culture = russian
+    religion = secularism
+    size = 2174
+  }
+  clergymen = {
+    culture = russian
+    religion =  orthodox
+    size = 4481
+  }
+  clergymen = {
+    culture = russian
+    religion = secularism
+    size = 8698
+  }
+  clerks = {
+    culture = russian
+    religion =  orthodox
+    size = 2101
+  }
+  clerks = {
+    culture = russian
+    religion = secularism
+    size = 4079
+  }
+  artisans = {
+    culture = russian
+    religion =  orthodox
+    size = 1996
+  }
+  artisans = {
+    culture = russian
+    religion = secularism
+    size = 3875
+  }
+  craftsmen = {
+    culture = russian
+    religion =  orthodox
+    size = 6304
+  }
+  craftsmen = {
+    culture = russian
+    religion = secularism
+    size = 12238
+  }
+  farmers = {
+    culture = russian
+    religion =  orthodox
+    size = 99726
+  }
+  farmers = {
+    culture = russian
+    religion = secularism
+    size = 193586
+  }
 }

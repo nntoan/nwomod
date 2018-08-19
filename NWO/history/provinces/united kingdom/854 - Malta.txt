@@ -6,8 +6,8 @@ life_rating = 20
 terrain = special_malta
 colonial = 0
 1992.1.1 = {
-owner = MAL
-controller = MAL
-add_core = MAL
-colonial = 0
+  owner = MAL
+  controller = MAL
+  add_core = MAL
+  colonial = 0
 }

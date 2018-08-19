@@ -1,39 +1,39 @@
 political_decisions = {
 
-	claim_the_suez = {
-		picture = "claim_the_suez"
-		potential = {
-			tag = EGY
-			1755 = { owned_by = GBR } 
-			NOT = { has_country_flag = claim_the_suez }
-		}
+  claim_the_suez = {
+    picture = "claim_the_suez"
+    potential = {
+      tag = EGY
+      1755 = { owned_by = GBR }
+      NOT = { has_country_flag = claim_the_suez }
+    }
 
-		allow = {
- 		    tag = EGY
-			is_vassal = no
-			part_of_sphere = no
-			NOT = {
-				government = democracy
-				government = hms_government
-				has_country_flag = claim_the_suez
-			}
-			OR = {
-				AND = {
-					year = 1953
-					ai = yes
-				}
-				AND = {
-					ai = no
-					relation =  { who = GBR value = 150 } 
-				}
-			}
-		}
+    allow = {
+      tag = EGY
+      is_vassal = no
+      part_of_sphere = no
+      NOT = {
+        government = democracy
+        government = hms_government
+        has_country_flag = claim_the_suez
+      }
+      OR = {
+        AND = {
+          year = 1953
+          ai = yes
+        }
+        AND = {
+          ai = no
+          relation =  { who = GBR value = 150 }
+        }
+      }
+    }
 
-		effect = {
-			set_country_flag = claim_the_suez
-			GBR = { country_event = 1005001 }
-		}
-		ai_will_do = { factor = 1 }	
-	}
-	
+    effect = {
+      set_country_flag = claim_the_suez
+      GBR = { country_event = 1005001 }
+    }
+    ai_will_do = { factor = 1 }
+  }
+
 }

@@ -1,3872 +1,3872 @@
 #Darmstadt - Hesse (567000/141750 POPS)
 2560 = {
-	clergymen = {
-		culture = german
-		religion =  catholic 
-		size = 2154
-	 } 
-	clergymen = {
-		culture = german
-		religion = secularism
-		size = 3515
-	 } 
-	farmers = {
-		culture = german
-		religion =  catholic 
-		size = 51710
-	 } 
-	farmers = {
-		culture = german
-		religion = secularism
-		size = 84369
-	 } 
+  clergymen = {
+    culture = german
+    religion =  catholic
+    size = 2154
+  }
+  clergymen = {
+    culture = german
+    religion = secularism
+    size = 3515
+  }
+  farmers = {
+    culture = german
+    religion =  catholic
+    size = 51710
+  }
+  farmers = {
+    culture = german
+    religion = secularism
+    size = 84369
+  }
 }
 #Siegburg - North Rhine-Westphalia (835000/208750 POPS)
 2561 = {
-	clergymen = {
-		culture = german
-		religion =  catholic 
-		size = 3173
-	 } 
-	clergymen = {
-		culture = german
-		religion = secularism
-		size = 5177
-	 } 
-	farmers = {
-		culture = german
-		religion =  catholic 
-		size = 76152
-	 } 
-	farmers = {
-		culture = german
-		religion = secularism
-		size = 124248
-	 } 
+  clergymen = {
+    culture = german
+    religion =  catholic
+    size = 3173
+  }
+  clergymen = {
+    culture = german
+    religion = secularism
+    size = 5177
+  }
+  farmers = {
+    culture = german
+    religion =  catholic
+    size = 76152
+  }
+  farmers = {
+    culture = german
+    religion = secularism
+    size = 124248
+  }
 }
 #Kiel - Schleswig-Holstein (685000/171250 POPS)
 369 = {
-	clergymen = {
-		culture = german
-		religion =  catholic 
-		size = 2603
-	 } 
-	clergymen = {
-		culture = german
-		religion = secularism
-		size = 4247
-	 } 
-	farmers = {
-		culture = german
-		religion =  catholic 
-		size = 62472
-	 } 
-	farmers = {
-		culture = german
-		religion = secularism
-		size = 101928
-	 } 
+  clergymen = {
+    culture = german
+    religion =  catholic
+    size = 2603
+  }
+  clergymen = {
+    culture = german
+    religion = secularism
+    size = 4247
+  }
+  farmers = {
+    culture = german
+    religion =  catholic
+    size = 62472
+  }
+  farmers = {
+    culture = german
+    religion = secularism
+    size = 101928
+  }
 }
 #Flensburg - Schleswig-Holstein (685000/171250 POPS)
 370 = {
-	clergymen = {
-		culture = german
-		religion =  catholic 
-		size = 2603
-	 } 
-	clergymen = {
-		culture = german
-		religion = secularism
-		size = 4247
-	 } 
-	farmers = {
-		culture = german
-		religion =  catholic 
-		size = 57916
-	 } 
-	farmers = {
-		culture = german
-		religion = secularism
-		size = 94495
-	 } 
-	farmers = {
-		culture = danish
-		religion =  protestant 
-		size = 4555
-	 } 
-	farmers = {
-		culture = danish
-		religion = secularism
-		size = 7431
-	 } 
+  clergymen = {
+    culture = german
+    religion =  catholic
+    size = 2603
+  }
+  clergymen = {
+    culture = german
+    religion = secularism
+    size = 4247
+  }
+  farmers = {
+    culture = german
+    religion =  catholic
+    size = 57916
+  }
+  farmers = {
+    culture = german
+    religion = secularism
+    size = 94495
+  }
+  farmers = {
+    culture = danish
+    religion =  protestant
+    size = 4555
+  }
+  farmers = {
+    culture = danish
+    religion = secularism
+    size = 7431
+  }
 }
 #Hamburg - Hamburg (1103000/275750 POPS)
 528 = {
-	officers = {
-		culture = german
-		religion =  catholic 
-		size = 914
-	 } 
-	officers = {
-		culture = german
-		religion = secularism
-		size = 1491
-	 } 
-	soldiers = {
-		culture = german
-		religion =  catholic 
-		size = 17372
-	 } 
-	soldiers = {
-		culture = german
-		religion = secularism
-		size = 28345
-	 } 
-	aristocrats = {
-		culture = german
-		religion =  catholic 
-		size = 2095
-	 } 
-	aristocrats = {
-		culture = german
-		religion = secularism
-		size = 3419
-	 } 
-	bureaucrats = {
-		culture = german
-		religion =  catholic 
-		size = 628
-	 } 
-	bureaucrats = {
-		culture = german
-		religion = secularism
-		size = 1025
-	 } 
-	capitalists = {
-		culture = german
-		religion =  catholic 
-		size = 628
-	 } 
-	capitalists = {
-		culture = german
-		religion = secularism
-		size = 1025
-	 } 
-	clergymen = {
-		culture = german
-		religion =  catholic 
-		size = 4191
-	 } 
-	clergymen = {
-		culture = german
-		religion = secularism
-		size = 6838
-	 } 
-	clerks = {
-		culture = german
-		religion =  catholic 
-		size = 2372
-	 } 
-	clerks = {
-		culture = german
-		religion = secularism
-		size = 3871
-	 } 
-	artisans = {
-		culture = german
-		religion =  catholic 
-		size = 2016
-	 } 
-	artisans = {
-		culture = german
-		religion = secularism
-		size = 3290
-	 } 
-	craftsmen = {
-		culture = german
-		religion =  catholic 
-		size = 7236
-	 } 
-	craftsmen = {
-		culture = german
-		religion = secularism
-		size = 11807
-	 } 
-	farmers = {
-		culture = german
-		religion =  catholic 
-		size = 23422
-	 } 
-	farmers = {
-		culture = german
-		religion = secularism
-		size = 38215
-	 } 
-	farmers = {
-		culture = european
-		religion =  protestant 
-		size = 14669
-	 } 
-	farmers = {
-		culture = european
-		religion = secularism
-		size = 23935
-	 } 
-	farmers = {
-		culture = indian
-		religion =  hindu 
-		size = 523
-	 } 
-	farmers = {
-		culture = indian
-		religion = secularism
-		size = 854
-	 } 
-	farmers = {
-		culture = anglo_african
-		religion =  protestant 
-		size = 2409
-	 } 
-	farmers = {
-		culture = anglo_african
-		religion = secularism
-		size = 3932
-	 } 
-	farmers = {
-		culture = roma
-		religion =  orthodox 
-		size = 314
-	 } 
-	farmers = {
-		culture = roma
-		religion = secularism
-		size = 512
-	 } 
-	farmers = {
-		culture = turkish
-		religion =  sunni 
-		size = 17096
-	 } 
-	farmers = {
-		culture = kurdish
-		religion =  sunni 
-		size = 9375
-	 } 
-	farmers = {
-		culture = serb
-		religion =  orthodox 
-		size = 2724
-	 } 
-	farmers = {
-		culture = serb
-		religion = secularism
-		size = 4444
-	 } 
-	farmers = {
-		culture = greek
-		religion =  orthodox 
-		size = 1676
-	 } 
-	farmers = {
-		culture = greek
-		religion = secularism
-		size = 2735
-	 } 
-	farmers = {
-		culture = polish
-		religion =  catholic 
-		size = 5239
-	 } 
-	farmers = {
-		culture = polish
-		religion = secularism
-		size = 8547
-	 } 
-	farmers = {
-		culture = sunni_arab
-		religion =  sunni 
-		size = 13787
-	 } 
-	farmers = {
-		culture = vietnamese
-		religion =  buddhist 
-		size = 523
-	 } 
-	farmers = {
-		culture = vietnamese
-		religion = secularism
-		size = 854
-	 } 
-	farmers = {
-		culture = filipino
-		religion =  catholic 
-		size = 523
-	 } 
-	farmers = {
-		culture = filipino
-		religion = secularism
-		size = 854
-	 } 
+  officers = {
+    culture = german
+    religion =  catholic
+    size = 914
+  }
+  officers = {
+    culture = german
+    religion = secularism
+    size = 1491
+  }
+  soldiers = {
+    culture = german
+    religion =  catholic
+    size = 17372
+  }
+  soldiers = {
+    culture = german
+    religion = secularism
+    size = 28345
+  }
+  aristocrats = {
+    culture = german
+    religion =  catholic
+    size = 2095
+  }
+  aristocrats = {
+    culture = german
+    religion = secularism
+    size = 3419
+  }
+  bureaucrats = {
+    culture = german
+    religion =  catholic
+    size = 628
+  }
+  bureaucrats = {
+    culture = german
+    religion = secularism
+    size = 1025
+  }
+  capitalists = {
+    culture = german
+    religion =  catholic
+    size = 628
+  }
+  capitalists = {
+    culture = german
+    religion = secularism
+    size = 1025
+  }
+  clergymen = {
+    culture = german
+    religion =  catholic
+    size = 4191
+  }
+  clergymen = {
+    culture = german
+    religion = secularism
+    size = 6838
+  }
+  clerks = {
+    culture = german
+    religion =  catholic
+    size = 2372
+  }
+  clerks = {
+    culture = german
+    religion = secularism
+    size = 3871
+  }
+  artisans = {
+    culture = german
+    religion =  catholic
+    size = 2016
+  }
+  artisans = {
+    culture = german
+    religion = secularism
+    size = 3290
+  }
+  craftsmen = {
+    culture = german
+    religion =  catholic
+    size = 7236
+  }
+  craftsmen = {
+    culture = german
+    religion = secularism
+    size = 11807
+  }
+  farmers = {
+    culture = german
+    religion =  catholic
+    size = 23422
+  }
+  farmers = {
+    culture = german
+    religion = secularism
+    size = 38215
+  }
+  farmers = {
+    culture = european
+    religion =  protestant
+    size = 14669
+  }
+  farmers = {
+    culture = european
+    religion = secularism
+    size = 23935
+  }
+  farmers = {
+    culture = indian
+    religion =  hindu
+    size = 523
+  }
+  farmers = {
+    culture = indian
+    religion = secularism
+    size = 854
+  }
+  farmers = {
+    culture = anglo_african
+    religion =  protestant
+    size = 2409
+  }
+  farmers = {
+    culture = anglo_african
+    religion = secularism
+    size = 3932
+  }
+  farmers = {
+    culture = roma
+    religion =  orthodox
+    size = 314
+  }
+  farmers = {
+    culture = roma
+    religion = secularism
+    size = 512
+  }
+  farmers = {
+    culture = turkish
+    religion =  sunni
+    size = 17096
+  }
+  farmers = {
+    culture = kurdish
+    religion =  sunni
+    size = 9375
+  }
+  farmers = {
+    culture = serb
+    religion =  orthodox
+    size = 2724
+  }
+  farmers = {
+    culture = serb
+    religion = secularism
+    size = 4444
+  }
+  farmers = {
+    culture = greek
+    religion =  orthodox
+    size = 1676
+  }
+  farmers = {
+    culture = greek
+    religion = secularism
+    size = 2735
+  }
+  farmers = {
+    culture = polish
+    religion =  catholic
+    size = 5239
+  }
+  farmers = {
+    culture = polish
+    religion = secularism
+    size = 8547
+  }
+  farmers = {
+    culture = sunni_arab
+    religion =  sunni
+    size = 13787
+  }
+  farmers = {
+    culture = vietnamese
+    religion =  buddhist
+    size = 523
+  }
+  farmers = {
+    culture = vietnamese
+    religion = secularism
+    size = 854
+  }
+  farmers = {
+    culture = filipino
+    religion =  catholic
+    size = 523
+  }
+  farmers = {
+    culture = filipino
+    religion = secularism
+    size = 854
+  }
 }
 #Lauenburg - Schleswig-Holstein (685000/171250 POPS)
 529 = {
-	clergymen = {
-		culture = german
-		religion =  catholic 
-		size = 2603
-	 } 
-	clergymen = {
-		culture = german
-		religion = secularism
-		size = 4247
-	 } 
-	farmers = {
-		culture = german
-		religion =  catholic 
-		size = 62472
-	 } 
-	farmers = {
-		culture = german
-		religion = secularism
-		size = 101928
-	 } 
+  clergymen = {
+    culture = german
+    religion =  catholic
+    size = 2603
+  }
+  clergymen = {
+    culture = german
+    religion = secularism
+    size = 4247
+  }
+  farmers = {
+    culture = german
+    religion =  catholic
+    size = 62472
+  }
+  farmers = {
+    culture = german
+    religion = secularism
+    size = 101928
+  }
 }
 #Lubeck - Schleswig-Holstein (685000/171250 POPS)
 530 = {
-	clergymen = {
-		culture = german
-		religion =  catholic 
-		size = 2603
-	 } 
-	clergymen = {
-		culture = german
-		religion = secularism
-		size = 4247
-	 } 
-	farmers = {
-		culture = german
-		religion =  catholic 
-		size = 62472
-	 } 
-	farmers = {
-		culture = german
-		religion = secularism
-		size = 101928
-	 } 
+  clergymen = {
+    culture = german
+    religion =  catholic
+    size = 2603
+  }
+  clergymen = {
+    culture = german
+    religion = secularism
+    size = 4247
+  }
+  farmers = {
+    culture = german
+    religion =  catholic
+    size = 62472
+  }
+  farmers = {
+    culture = german
+    religion = secularism
+    size = 101928
+  }
 }
 #Stade - Lower Saxony (500000/125000 POPS)
 531 = {
-	clergymen = {
-		culture = german
-		religion =  catholic 
-		size = 1900
-	 } 
-	clergymen = {
-		culture = german
-		religion = secularism
-		size = 3100
-	 } 
-	farmers = {
-		culture = german
-		religion =  catholic 
-		size = 45600
-	 } 
-	farmers = {
-		culture = german
-		religion = secularism
-		size = 74400
-	 } 
+  clergymen = {
+    culture = german
+    religion =  catholic
+    size = 1900
+  }
+  clergymen = {
+    culture = german
+    religion = secularism
+    size = 3100
+  }
+  farmers = {
+    culture = german
+    religion =  catholic
+    size = 45600
+  }
+  farmers = {
+    culture = german
+    religion = secularism
+    size = 74400
+  }
 }
 #Luneburg - Lower Saxony (500000/125000 POPS)
 532 = {
-	clergymen = {
-		culture = german
-		religion =  catholic 
-		size = 1900
-	 } 
-	clergymen = {
-		culture = german
-		religion = secularism
-		size = 3100
-	 } 
-	farmers = {
-		culture = german
-		religion =  catholic 
-		size = 45600
-	 } 
-	farmers = {
-		culture = german
-		religion = secularism
-		size = 74400
-	 } 
+  clergymen = {
+    culture = german
+    religion =  catholic
+    size = 1900
+  }
+  clergymen = {
+    culture = german
+    religion = secularism
+    size = 3100
+  }
+  farmers = {
+    culture = german
+    religion =  catholic
+    size = 45600
+  }
+  farmers = {
+    culture = german
+    religion = secularism
+    size = 74400
+  }
 }
 #Heligoland - Heligoland (1000/250 POPS)
 533 = {
-	clergymen = {
-		culture = german
-		religion =  catholic 
-		size = 3
-	 } 
-	clergymen = {
-		culture = german
-		religion = secularism
-		size = 6
-	 } 
-	farmers = {
-		culture = german
-		religion =  catholic 
-		size = 91
-	 } 
-	farmers = {
-		culture = german
-		religion = secularism
-		size = 148
-	 } 
+  clergymen = {
+    culture = german
+    religion =  catholic
+    size = 3
+  }
+  clergymen = {
+    culture = german
+    religion = secularism
+    size = 6
+  }
+  farmers = {
+    culture = german
+    religion =  catholic
+    size = 91
+  }
+  farmers = {
+    culture = german
+    religion = secularism
+    size = 148
+  }
 }
 #Hanover - Lower Saxony (1590000/397500 POPS)
 534 = {
-	officers = {
-		culture = german
-		religion =  catholic 
-		size = 1942
-	 } 
-	officers = {
-		culture = german
-		religion = secularism
-		size = 3168
-	 } 
-	soldiers = {
-		culture = german
-		religion =  catholic 
-		size = 36905
-	 } 
-	soldiers = {
-		culture = german
-		religion = secularism
-		size = 60215
-	 } 
-	aristocrats = {
-		culture = german
-		religion =  catholic 
-		size = 3021
-	 } 
-	aristocrats = {
-		culture = german
-		religion = secularism
-		size = 4929
-	 } 
-	bureaucrats = {
-		culture = german
-		religion =  catholic 
-		size = 906
-	 } 
-	bureaucrats = {
-		culture = german
-		religion = secularism
-		size = 1478
-	 } 
-	capitalists = {
-		culture = german
-		religion =  catholic 
-		size = 906
-	 } 
-	capitalists = {
-		culture = german
-		religion = secularism
-		size = 1478
-	 } 
-	clergymen = {
-		culture = german
-		religion =  catholic 
-		size = 6042
-	 } 
-	clergymen = {
-		culture = german
-		religion = secularism
-		size = 9858
-	 } 
-	clerks = {
-		culture = german
-		religion =  catholic 
-		size = 3077
-	 } 
-	clerks = {
-		culture = german
-		religion = secularism
-		size = 5021
-	 } 
-	artisans = {
-		culture = german
-		religion =  catholic 
-		size = 2615
-	 } 
-	artisans = {
-		culture = german
-		religion = secularism
-		size = 4268
-	 } 
-	craftsmen = {
-		culture = german
-		religion =  catholic 
-		size = 9387
-	 } 
-	craftsmen = {
-		culture = german
-		religion = secularism
-		size = 15315
-	 } 
-	farmers = {
-		culture = german
-		religion =  catholic 
-		size = 22955
-	 } 
-	farmers = {
-		culture = german
-		religion = secularism
-		size = 37453
-	 } 
-	farmers = {
-		culture = european
-		religion =  protestant 
-		size = 21147
-	 } 
-	farmers = {
-		culture = european
-		religion = secularism
-		size = 34503
-	 } 
-	farmers = {
-		culture = indian
-		religion =  hindu 
-		size = 755
-	 } 
-	farmers = {
-		culture = indian
-		religion = secularism
-		size = 1231
-	 } 
-	farmers = {
-		culture = anglo_african
-		religion =  protestant 
-		size = 3473
-	 } 
-	farmers = {
-		culture = anglo_african
-		religion = secularism
-		size = 5668
-	 } 
-	farmers = {
-		culture = roma
-		religion =  orthodox 
-		size = 452
-	 } 
-	farmers = {
-		culture = roma
-		religion = secularism
-		size = 739
-	 } 
-	farmers = {
-		culture = turkish
-		religion =  sunni 
-		size = 24645
-	 } 
-	farmers = {
-		culture = kurdish
-		religion =  sunni 
-		size = 13515
-	 } 
-	farmers = {
-		culture = serb
-		religion =  orthodox 
-		size = 3927
-	 } 
-	farmers = {
-		culture = serb
-		religion = secularism
-		size = 6407
-	 } 
-	farmers = {
-		culture = greek
-		religion =  orthodox 
-		size = 2416
-	 } 
-	farmers = {
-		culture = greek
-		religion = secularism
-		size = 3943
-	 } 
-	farmers = {
-		culture = polish
-		religion =  catholic 
-		size = 7552
-	 } 
-	farmers = {
-		culture = polish
-		religion = secularism
-		size = 12322
-	 } 
-	farmers = {
-		culture = sunni_arab
-		religion =  sunni 
-		size = 19875
-	 } 
-	farmers = {
-		culture = vietnamese
-		religion =  buddhist 
-		size = 755
-	 } 
-	farmers = {
-		culture = vietnamese
-		religion = secularism
-		size = 1231
-	 } 
-	farmers = {
-		culture = filipino
-		religion =  catholic 
-		size = 755
-	 } 
-	farmers = {
-		culture = filipino
-		religion = secularism
-		size = 1231
-	 } 
+  officers = {
+    culture = german
+    religion =  catholic
+    size = 1942
+  }
+  officers = {
+    culture = german
+    religion = secularism
+    size = 3168
+  }
+  soldiers = {
+    culture = german
+    religion =  catholic
+    size = 36905
+  }
+  soldiers = {
+    culture = german
+    religion = secularism
+    size = 60215
+  }
+  aristocrats = {
+    culture = german
+    religion =  catholic
+    size = 3021
+  }
+  aristocrats = {
+    culture = german
+    religion = secularism
+    size = 4929
+  }
+  bureaucrats = {
+    culture = german
+    religion =  catholic
+    size = 906
+  }
+  bureaucrats = {
+    culture = german
+    religion = secularism
+    size = 1478
+  }
+  capitalists = {
+    culture = german
+    religion =  catholic
+    size = 906
+  }
+  capitalists = {
+    culture = german
+    religion = secularism
+    size = 1478
+  }
+  clergymen = {
+    culture = german
+    religion =  catholic
+    size = 6042
+  }
+  clergymen = {
+    culture = german
+    religion = secularism
+    size = 9858
+  }
+  clerks = {
+    culture = german
+    religion =  catholic
+    size = 3077
+  }
+  clerks = {
+    culture = german
+    religion = secularism
+    size = 5021
+  }
+  artisans = {
+    culture = german
+    religion =  catholic
+    size = 2615
+  }
+  artisans = {
+    culture = german
+    religion = secularism
+    size = 4268
+  }
+  craftsmen = {
+    culture = german
+    religion =  catholic
+    size = 9387
+  }
+  craftsmen = {
+    culture = german
+    religion = secularism
+    size = 15315
+  }
+  farmers = {
+    culture = german
+    religion =  catholic
+    size = 22955
+  }
+  farmers = {
+    culture = german
+    religion = secularism
+    size = 37453
+  }
+  farmers = {
+    culture = european
+    religion =  protestant
+    size = 21147
+  }
+  farmers = {
+    culture = european
+    religion = secularism
+    size = 34503
+  }
+  farmers = {
+    culture = indian
+    religion =  hindu
+    size = 755
+  }
+  farmers = {
+    culture = indian
+    religion = secularism
+    size = 1231
+  }
+  farmers = {
+    culture = anglo_african
+    religion =  protestant
+    size = 3473
+  }
+  farmers = {
+    culture = anglo_african
+    religion = secularism
+    size = 5668
+  }
+  farmers = {
+    culture = roma
+    religion =  orthodox
+    size = 452
+  }
+  farmers = {
+    culture = roma
+    religion = secularism
+    size = 739
+  }
+  farmers = {
+    culture = turkish
+    religion =  sunni
+    size = 24645
+  }
+  farmers = {
+    culture = kurdish
+    religion =  sunni
+    size = 13515
+  }
+  farmers = {
+    culture = serb
+    religion =  orthodox
+    size = 3927
+  }
+  farmers = {
+    culture = serb
+    religion = secularism
+    size = 6407
+  }
+  farmers = {
+    culture = greek
+    religion =  orthodox
+    size = 2416
+  }
+  farmers = {
+    culture = greek
+    religion = secularism
+    size = 3943
+  }
+  farmers = {
+    culture = polish
+    religion =  catholic
+    size = 7552
+  }
+  farmers = {
+    culture = polish
+    religion = secularism
+    size = 12322
+  }
+  farmers = {
+    culture = sunni_arab
+    religion =  sunni
+    size = 19875
+  }
+  farmers = {
+    culture = vietnamese
+    religion =  buddhist
+    size = 755
+  }
+  farmers = {
+    culture = vietnamese
+    religion = secularism
+    size = 1231
+  }
+  farmers = {
+    culture = filipino
+    religion =  catholic
+    size = 755
+  }
+  farmers = {
+    culture = filipino
+    religion = secularism
+    size = 1231
+  }
 }
 #Nienburg - Lower Saxony (500000/125000 POPS)
 535 = {
-	clergymen = {
-		culture = german
-		religion =  catholic 
-		size = 1900
-	 } 
-	clergymen = {
-		culture = german
-		religion = secularism
-		size = 3100
-	 } 
-	farmers = {
-		culture = german
-		religion =  catholic 
-		size = 45600
-	 } 
-	farmers = {
-		culture = german
-		religion = secularism
-		size = 74400
-	 } 
+  clergymen = {
+    culture = german
+    religion =  catholic
+    size = 1900
+  }
+  clergymen = {
+    culture = german
+    religion = secularism
+    size = 3100
+  }
+  farmers = {
+    culture = german
+    religion =  catholic
+    size = 45600
+  }
+  farmers = {
+    culture = german
+    religion = secularism
+    size = 74400
+  }
 }
 #Brunswick - Lower Saxony (1473000/368250 POPS)
 536 = {
-	clergymen = {
-		culture = german
-		religion =  catholic 
-		size = 5597
-	 } 
-	clergymen = {
-		culture = german
-		religion = secularism
-		size = 9132
-	 } 
-	farmers = {
-		culture = german
-		religion =  catholic 
-		size = 75704
-	 } 
-	farmers = {
-		culture = german
-		religion = secularism
-		size = 123518
-	 } 
-	farmers = {
-		culture = european
-		religion =  protestant 
-		size = 19590
-	 } 
-	farmers = {
-		culture = european
-		religion = secularism
-		size = 31964
-	 } 
-	farmers = {
-		culture = indian
-		religion =  hindu 
-		size = 699
-	 } 
-	farmers = {
-		culture = indian
-		religion = secularism
-		size = 1141
-	 } 
-	farmers = {
-		culture = anglo_african
-		religion =  protestant 
-		size = 3218
-	 } 
-	farmers = {
-		culture = anglo_african
-		religion = secularism
-		size = 5250
-	 } 
-	farmers = {
-		culture = roma
-		religion =  orthodox 
-		size = 419
-	 } 
-	farmers = {
-		culture = roma
-		religion = secularism
-		size = 684
-	 } 
-	farmers = {
-		culture = turkish
-		religion =  sunni 
-		size = 22831
-	 } 
-	farmers = {
-		culture = kurdish
-		religion =  sunni 
-		size = 12520
-	 } 
-	farmers = {
-		culture = serb
-		religion =  orthodox 
-		size = 3638
-	 } 
-	farmers = {
-		culture = serb
-		religion = secularism
-		size = 5935
-	 } 
-	farmers = {
-		culture = greek
-		religion =  orthodox 
-		size = 2238
-	 } 
-	farmers = {
-		culture = greek
-		religion = secularism
-		size = 3653
-	 } 
-	farmers = {
-		culture = polish
-		religion =  catholic 
-		size = 6996
-	 } 
-	farmers = {
-		culture = polish
-		religion = secularism
-		size = 11415
-	 } 
-	farmers = {
-		culture = sunni_arab
-		religion =  sunni 
-		size = 18412
-	 } 
-	farmers = {
-		culture = vietnamese
-		religion =  buddhist 
-		size = 699
-	 } 
-	farmers = {
-		culture = vietnamese
-		religion = secularism
-		size = 1141
-	 } 
-	farmers = {
-		culture = filipino
-		religion =  catholic 
-		size = 699
-	 } 
-	farmers = {
-		culture = filipino
-		religion = secularism
-		size = 1141
-	 } 
+  clergymen = {
+    culture = german
+    religion =  catholic
+    size = 5597
+  }
+  clergymen = {
+    culture = german
+    religion = secularism
+    size = 9132
+  }
+  farmers = {
+    culture = german
+    religion =  catholic
+    size = 75704
+  }
+  farmers = {
+    culture = german
+    religion = secularism
+    size = 123518
+  }
+  farmers = {
+    culture = european
+    religion =  protestant
+    size = 19590
+  }
+  farmers = {
+    culture = european
+    religion = secularism
+    size = 31964
+  }
+  farmers = {
+    culture = indian
+    religion =  hindu
+    size = 699
+  }
+  farmers = {
+    culture = indian
+    religion = secularism
+    size = 1141
+  }
+  farmers = {
+    culture = anglo_african
+    religion =  protestant
+    size = 3218
+  }
+  farmers = {
+    culture = anglo_african
+    religion = secularism
+    size = 5250
+  }
+  farmers = {
+    culture = roma
+    religion =  orthodox
+    size = 419
+  }
+  farmers = {
+    culture = roma
+    religion = secularism
+    size = 684
+  }
+  farmers = {
+    culture = turkish
+    religion =  sunni
+    size = 22831
+  }
+  farmers = {
+    culture = kurdish
+    religion =  sunni
+    size = 12520
+  }
+  farmers = {
+    culture = serb
+    religion =  orthodox
+    size = 3638
+  }
+  farmers = {
+    culture = serb
+    religion = secularism
+    size = 5935
+  }
+  farmers = {
+    culture = greek
+    religion =  orthodox
+    size = 2238
+  }
+  farmers = {
+    culture = greek
+    religion = secularism
+    size = 3653
+  }
+  farmers = {
+    culture = polish
+    religion =  catholic
+    size = 6996
+  }
+  farmers = {
+    culture = polish
+    religion = secularism
+    size = 11415
+  }
+  farmers = {
+    culture = sunni_arab
+    religion =  sunni
+    size = 18412
+  }
+  farmers = {
+    culture = vietnamese
+    religion =  buddhist
+    size = 699
+  }
+  farmers = {
+    culture = vietnamese
+    religion = secularism
+    size = 1141
+  }
+  farmers = {
+    culture = filipino
+    religion =  catholic
+    size = 699
+  }
+  farmers = {
+    culture = filipino
+    religion = secularism
+    size = 1141
+  }
 }
 #Gottingen - Lower Saxony (500000/125000 POPS)
 537 = {
-	clergymen = {
-		culture = german
-		religion =  catholic 
-		size = 1900
-	 } 
-	clergymen = {
-		culture = german
-		religion = secularism
-		size = 3100
-	 } 
-	farmers = {
-		culture = german
-		religion =  catholic 
-		size = 45600
-	 } 
-	farmers = {
-		culture = german
-		religion = secularism
-		size = 74400
-	 } 
+  clergymen = {
+    culture = german
+    religion =  catholic
+    size = 1900
+  }
+  clergymen = {
+    culture = german
+    religion = secularism
+    size = 3100
+  }
+  farmers = {
+    culture = german
+    religion =  catholic
+    size = 45600
+  }
+  farmers = {
+    culture = german
+    religion = secularism
+    size = 74400
+  }
 }
 #Osnabruck - Lower Saxony (500000/125000 POPS)
 538 = {
-	clergymen = {
-		culture = german
-		religion =  catholic 
-		size = 1900
-	 } 
-	clergymen = {
-		culture = german
-		religion = secularism
-		size = 3100
-	 } 
-	farmers = {
-		culture = german
-		religion =  catholic 
-		size = 45600
-	 } 
-	farmers = {
-		culture = german
-		religion = secularism
-		size = 74400
-	 } 
+  clergymen = {
+    culture = german
+    religion =  catholic
+    size = 1900
+  }
+  clergymen = {
+    culture = german
+    religion = secularism
+    size = 3100
+  }
+  farmers = {
+    culture = german
+    religion =  catholic
+    size = 45600
+  }
+  farmers = {
+    culture = german
+    religion = secularism
+    size = 74400
+  }
 }
 #Bremen - Bremen (636000/159000 POPS)
 539 = {
-	clergymen = {
-		culture = german
-		religion =  catholic 
-		size = 2416
-	 } 
-	clergymen = {
-		culture = german
-		religion = secularism
-		size = 3943
-	 } 
-	farmers = {
-		culture = german
-		religion =  catholic 
-		size = 32687
-	 } 
-	farmers = {
-		culture = german
-		religion = secularism
-		size = 53331
-	 } 
-	farmers = {
-		culture = european
-		religion =  protestant 
-		size = 8458
-	 } 
-	farmers = {
-		culture = european
-		religion = secularism
-		size = 13801
-	 } 
-	farmers = {
-		culture = indian
-		religion =  hindu 
-		size = 302
-	 } 
-	farmers = {
-		culture = indian
-		religion = secularism
-		size = 492
-	 } 
-	farmers = {
-		culture = anglo_african
-		religion =  protestant 
-		size = 1389
-	 } 
-	farmers = {
-		culture = anglo_african
-		religion = secularism
-		size = 2267
-	 } 
-	farmers = {
-		culture = roma
-		religion =  orthodox 
-		size = 181
-	 } 
-	farmers = {
-		culture = roma
-		religion = secularism
-		size = 295
-	 } 
-	farmers = {
-		culture = turkish
-		religion =  sunni 
-		size = 9858
-	 } 
-	farmers = {
-		culture = kurdish
-		religion =  sunni 
-		size = 5406
-	 } 
-	farmers = {
-		culture = serb
-		religion =  orthodox 
-		size = 1570
-	 } 
-	farmers = {
-		culture = serb
-		religion = secularism
-		size = 2563
-	 } 
-	farmers = {
-		culture = greek
-		religion =  orthodox 
-		size = 966
-	 } 
-	farmers = {
-		culture = greek
-		religion = secularism
-		size = 1577
-	 } 
-	farmers = {
-		culture = polish
-		religion =  catholic 
-		size = 3021
-	 } 
-	farmers = {
-		culture = polish
-		religion = secularism
-		size = 4929
-	 } 
-	farmers = {
-		culture = sunni_arab
-		religion =  sunni 
-		size = 7950
-	 } 
-	farmers = {
-		culture = vietnamese
-		religion =  buddhist 
-		size = 302
-	 } 
-	farmers = {
-		culture = vietnamese
-		religion = secularism
-		size = 492
-	 } 
-	farmers = {
-		culture = filipino
-		religion =  catholic 
-		size = 302
-	 } 
-	farmers = {
-		culture = filipino
-		religion = secularism
-		size = 492
-	 } 
+  clergymen = {
+    culture = german
+    religion =  catholic
+    size = 2416
+  }
+  clergymen = {
+    culture = german
+    religion = secularism
+    size = 3943
+  }
+  farmers = {
+    culture = german
+    religion =  catholic
+    size = 32687
+  }
+  farmers = {
+    culture = german
+    religion = secularism
+    size = 53331
+  }
+  farmers = {
+    culture = european
+    religion =  protestant
+    size = 8458
+  }
+  farmers = {
+    culture = european
+    religion = secularism
+    size = 13801
+  }
+  farmers = {
+    culture = indian
+    religion =  hindu
+    size = 302
+  }
+  farmers = {
+    culture = indian
+    religion = secularism
+    size = 492
+  }
+  farmers = {
+    culture = anglo_african
+    religion =  protestant
+    size = 1389
+  }
+  farmers = {
+    culture = anglo_african
+    religion = secularism
+    size = 2267
+  }
+  farmers = {
+    culture = roma
+    religion =  orthodox
+    size = 181
+  }
+  farmers = {
+    culture = roma
+    religion = secularism
+    size = 295
+  }
+  farmers = {
+    culture = turkish
+    religion =  sunni
+    size = 9858
+  }
+  farmers = {
+    culture = kurdish
+    religion =  sunni
+    size = 5406
+  }
+  farmers = {
+    culture = serb
+    religion =  orthodox
+    size = 1570
+  }
+  farmers = {
+    culture = serb
+    religion = secularism
+    size = 2563
+  }
+  farmers = {
+    culture = greek
+    religion =  orthodox
+    size = 966
+  }
+  farmers = {
+    culture = greek
+    religion = secularism
+    size = 1577
+  }
+  farmers = {
+    culture = polish
+    religion =  catholic
+    size = 3021
+  }
+  farmers = {
+    culture = polish
+    religion = secularism
+    size = 4929
+  }
+  farmers = {
+    culture = sunni_arab
+    religion =  sunni
+    size = 7950
+  }
+  farmers = {
+    culture = vietnamese
+    religion =  buddhist
+    size = 302
+  }
+  farmers = {
+    culture = vietnamese
+    religion = secularism
+    size = 492
+  }
+  farmers = {
+    culture = filipino
+    religion =  catholic
+    size = 302
+  }
+  farmers = {
+    culture = filipino
+    religion = secularism
+    size = 492
+  }
 }
 #Oldenburg - Lower Saxony (500000/125000 POPS)
 540 = {
-	clergymen = {
-		culture = german
-		religion =  catholic 
-		size = 1900
-	 } 
-	clergymen = {
-		culture = german
-		religion = secularism
-		size = 3100
-	 } 
-	farmers = {
-		culture = german
-		religion =  catholic 
-		size = 45600
-	 } 
-	farmers = {
-		culture = german
-		religion = secularism
-		size = 74400
-	 } 
+  clergymen = {
+    culture = german
+    religion =  catholic
+    size = 1900
+  }
+  clergymen = {
+    culture = german
+    religion = secularism
+    size = 3100
+  }
+  farmers = {
+    culture = german
+    religion =  catholic
+    size = 45600
+  }
+  farmers = {
+    culture = german
+    religion = secularism
+    size = 74400
+  }
 }
 #Cloppenburg - Lower Saxony (500000/125000 POPS)
 541 = {
-	clergymen = {
-		culture = german
-		religion =  catholic 
-		size = 1900
-	 } 
-	clergymen = {
-		culture = german
-		religion = secularism
-		size = 3100
-	 } 
-	farmers = {
-		culture = german
-		religion =  catholic 
-		size = 45600
-	 } 
-	farmers = {
-		culture = german
-		religion = secularism
-		size = 74400
-	 } 
+  clergymen = {
+    culture = german
+    religion =  catholic
+    size = 1900
+  }
+  clergymen = {
+    culture = german
+    religion = secularism
+    size = 3100
+  }
+  farmers = {
+    culture = german
+    religion =  catholic
+    size = 45600
+  }
+  farmers = {
+    culture = german
+    religion = secularism
+    size = 74400
+  }
 }
 #Lingen - Lower Saxony (500000/125000 POPS)
 542 = {
-	clergymen = {
-		culture = german
-		religion =  catholic 
-		size = 1900
-	 } 
-	clergymen = {
-		culture = german
-		religion = secularism
-		size = 3100
-	 } 
-	farmers = {
-		culture = german
-		religion =  catholic 
-		size = 45600
-	 } 
-	farmers = {
-		culture = german
-		religion = secularism
-		size = 74400
-	 } 
+  clergymen = {
+    culture = german
+    religion =  catholic
+    size = 1900
+  }
+  clergymen = {
+    culture = german
+    religion = secularism
+    size = 3100
+  }
+  farmers = {
+    culture = german
+    religion =  catholic
+    size = 45600
+  }
+  farmers = {
+    culture = german
+    religion = secularism
+    size = 74400
+  }
 }
 #Emden - Lower Saxony (500000/125000 POPS)
 543 = {
-	clergymen = {
-		culture = german
-		religion =  catholic 
-		size = 1900
-	 } 
-	clergymen = {
-		culture = german
-		religion = secularism
-		size = 3100
-	 } 
-	farmers = {
-		culture = german
-		religion =  catholic 
-		size = 45600
-	 } 
-	farmers = {
-		culture = german
-		religion = secularism
-		size = 74400
-	 } 
+  clergymen = {
+    culture = german
+    religion =  catholic
+    size = 1900
+  }
+  clergymen = {
+    culture = german
+    religion = secularism
+    size = 3100
+  }
+  farmers = {
+    culture = german
+    religion =  catholic
+    size = 45600
+  }
+  farmers = {
+    culture = german
+    religion = secularism
+    size = 74400
+  }
 }
 #Schwerin - Mecklenburg-Vorpommern (389000/97250 POPS)
 544 = {
-	clergymen = {
-		culture = german
-		religion =  catholic 
-		size = 1478
-	 } 
-	clergymen = {
-		culture = german
-		religion = secularism
-		size = 2411
-	 } 
-	farmers = {
-		culture = german
-		religion =  catholic 
-		size = 35476
-	 } 
-	farmers = {
-		culture = german
-		religion = secularism
-		size = 57883
-	 } 
+  clergymen = {
+    culture = german
+    religion =  catholic
+    size = 1478
+  }
+  clergymen = {
+    culture = german
+    religion = secularism
+    size = 2411
+  }
+  farmers = {
+    culture = german
+    religion =  catholic
+    size = 35476
+  }
+  farmers = {
+    culture = german
+    religion = secularism
+    size = 57883
+  }
 }
 #Neustrelitz - Mecklenburg-Vorpommern (389000/97250 POPS)
 545 = {
-	clergymen = {
-		culture = german
-		religion =  catholic 
-		size = 1478
-	 } 
-	clergymen = {
-		culture = german
-		religion = secularism
-		size = 2411
-	 } 
-	farmers = {
-		culture = german
-		religion =  catholic 
-		size = 35476
-	 } 
-	farmers = {
-		culture = german
-		religion = secularism
-		size = 57883
-	 } 
+  clergymen = {
+    culture = german
+    religion =  catholic
+    size = 1478
+  }
+  clergymen = {
+    culture = german
+    religion = secularism
+    size = 2411
+  }
+  farmers = {
+    culture = german
+    religion =  catholic
+    size = 35476
+  }
+  farmers = {
+    culture = german
+    religion = secularism
+    size = 57883
+  }
 }
 #Swinemunde - Mecklenburg-Vorpommern (389000/97250 POPS)
 547 = {
-	clergymen = {
-		culture = german
-		religion =  catholic 
-		size = 1478
-	 } 
-	clergymen = {
-		culture = german
-		religion = secularism
-		size = 2411
-	 } 
-	farmers = {
-		culture = german
-		religion =  catholic 
-		size = 35476
-	 } 
-	farmers = {
-		culture = german
-		religion = secularism
-		size = 57883
-	 } 
+  clergymen = {
+    culture = german
+    religion =  catholic
+    size = 1478
+  }
+  clergymen = {
+    culture = german
+    religion = secularism
+    size = 2411
+  }
+  farmers = {
+    culture = german
+    religion =  catholic
+    size = 35476
+  }
+  farmers = {
+    culture = german
+    religion = secularism
+    size = 57883
+  }
 }
 #Stralsund - Mecklenburg-Vorpommern (389000/97250 POPS)
 548 = {
-	clergymen = {
-		culture = german
-		religion =  catholic 
-		size = 1478
-	 } 
-	clergymen = {
-		culture = german
-		religion = secularism
-		size = 2411
-	 } 
-	farmers = {
-		culture = german
-		religion =  catholic 
-		size = 35476
-	 } 
-	farmers = {
-		culture = german
-		religion = secularism
-		size = 57883
-	 } 
+  clergymen = {
+    culture = german
+    religion =  catholic
+    size = 1478
+  }
+  clergymen = {
+    culture = german
+    religion = secularism
+    size = 2411
+  }
+  farmers = {
+    culture = german
+    religion =  catholic
+    size = 35476
+  }
+  farmers = {
+    culture = german
+    religion = secularism
+    size = 57883
+  }
 }
 #Berlin - Berlin (3285000/821250 POPS)
 549 = {
-	officers = {
-		culture = german
-		religion =  catholic 
-		size = 762
-	 } 
-	officers = {
-		culture = german
-		religion = secularism
-		size = 1243
-	 } 
-	soldiers = {
-		culture = german
-		religion =  catholic 
-		size = 14487
-	 } 
-	soldiers = {
-		culture = german
-		religion = secularism
-		size = 23636
-	 } 
-	aristocrats = {
-		culture = german
-		religion =  catholic 
-		size = 6241
-	 } 
-	aristocrats = {
-		culture = german
-		religion = secularism
-		size = 10183
-	 } 
-	bureaucrats = {
-		culture = german
-		religion =  catholic 
-		size = 1872
-	 } 
-	bureaucrats = {
-		culture = german
-		religion = secularism
-		size = 3054
-	 } 
-	capitalists = {
-		culture = german
-		religion =  catholic 
-		size = 1872
-	 } 
-	capitalists = {
-		culture = german
-		religion = secularism
-		size = 3054
-	 } 
-	clergymen = {
-		culture = german
-		religion =  catholic 
-		size = 12483
-	 } 
-	clergymen = {
-		culture = german
-		religion = secularism
-		size = 20367
-	 } 
-	clerks = {
-		culture = german
-		religion =  catholic 
-		size = 8142
-	 } 
-	clerks = {
-		culture = german
-		religion = secularism
-		size = 13284
-	 } 
-	artisans = {
-		culture = german
-		religion =  catholic 
-		size = 6920
-	 } 
-	artisans = {
-		culture = german
-		religion = secularism
-		size = 11292
-	 } 
-	craftsmen = {
-		culture = german
-		religion =  catholic 
-		size = 24834
-	 } 
-	craftsmen = {
-		culture = german
-		religion = secularism
-		size = 40518
-	 } 
-	farmers = {
-		culture = german
-		religion =  catholic 
-		size = 103699
-	 } 
-	farmers = {
-		culture = german
-		religion = secularism
-		size = 169194
-	 } 
-	farmers = {
-		culture = european
-		religion =  protestant 
-		size = 43690
-	 } 
-	farmers = {
-		culture = european
-		religion = secularism
-		size = 71284
-	 } 
-	farmers = {
-		culture = indian
-		religion =  hindu 
-		size = 1560
-	 } 
-	farmers = {
-		culture = indian
-		religion = secularism
-		size = 2545
-	 } 
-	farmers = {
-		culture = anglo_african
-		religion =  protestant 
-		size = 7177
-	 } 
-	farmers = {
-		culture = anglo_african
-		religion = secularism
-		size = 11710
-	 } 
-	farmers = {
-		culture = roma
-		religion =  orthodox 
-		size = 935
-	 } 
-	farmers = {
-		culture = roma
-		religion = secularism
-		size = 1527
-	 } 
-	farmers = {
-		culture = turkish
-		religion =  sunni 
-		size = 50917
-	 } 
-	farmers = {
-		culture = kurdish
-		religion =  sunni 
-		size = 27922
-	 } 
-	farmers = {
-		culture = serb
-		religion =  orthodox 
-		size = 8113
-	 } 
-	farmers = {
-		culture = serb
-		religion = secularism
-		size = 13238
-	 } 
-	farmers = {
-		culture = greek
-		religion =  orthodox 
-		size = 4993
-	 } 
-	farmers = {
-		culture = greek
-		religion = secularism
-		size = 8146
-	 } 
-	farmers = {
-		culture = polish
-		religion =  catholic 
-		size = 15603
-	 } 
-	farmers = {
-		culture = polish
-		religion = secularism
-		size = 25458
-	 } 
-	farmers = {
-		culture = sunni_arab
-		religion =  sunni 
-		size = 41062
-	 } 
-	farmers = {
-		culture = vietnamese
-		religion =  buddhist 
-		size = 1560
-	 } 
-	farmers = {
-		culture = vietnamese
-		religion = secularism
-		size = 2545
-	 } 
-	farmers = {
-		culture = filipino
-		religion =  catholic 
-		size = 1560
-	 } 
-	farmers = {
-		culture = filipino
-		religion = secularism
-		size = 2545
-	 } 
+  officers = {
+    culture = german
+    religion =  catholic
+    size = 762
+  }
+  officers = {
+    culture = german
+    religion = secularism
+    size = 1243
+  }
+  soldiers = {
+    culture = german
+    religion =  catholic
+    size = 14487
+  }
+  soldiers = {
+    culture = german
+    religion = secularism
+    size = 23636
+  }
+  aristocrats = {
+    culture = german
+    religion =  catholic
+    size = 6241
+  }
+  aristocrats = {
+    culture = german
+    religion = secularism
+    size = 10183
+  }
+  bureaucrats = {
+    culture = german
+    religion =  catholic
+    size = 1872
+  }
+  bureaucrats = {
+    culture = german
+    religion = secularism
+    size = 3054
+  }
+  capitalists = {
+    culture = german
+    religion =  catholic
+    size = 1872
+  }
+  capitalists = {
+    culture = german
+    religion = secularism
+    size = 3054
+  }
+  clergymen = {
+    culture = german
+    religion =  catholic
+    size = 12483
+  }
+  clergymen = {
+    culture = german
+    religion = secularism
+    size = 20367
+  }
+  clerks = {
+    culture = german
+    religion =  catholic
+    size = 8142
+  }
+  clerks = {
+    culture = german
+    religion = secularism
+    size = 13284
+  }
+  artisans = {
+    culture = german
+    religion =  catholic
+    size = 6920
+  }
+  artisans = {
+    culture = german
+    religion = secularism
+    size = 11292
+  }
+  craftsmen = {
+    culture = german
+    religion =  catholic
+    size = 24834
+  }
+  craftsmen = {
+    culture = german
+    religion = secularism
+    size = 40518
+  }
+  farmers = {
+    culture = german
+    religion =  catholic
+    size = 103699
+  }
+  farmers = {
+    culture = german
+    religion = secularism
+    size = 169194
+  }
+  farmers = {
+    culture = european
+    religion =  protestant
+    size = 43690
+  }
+  farmers = {
+    culture = european
+    religion = secularism
+    size = 71284
+  }
+  farmers = {
+    culture = indian
+    religion =  hindu
+    size = 1560
+  }
+  farmers = {
+    culture = indian
+    religion = secularism
+    size = 2545
+  }
+  farmers = {
+    culture = anglo_african
+    religion =  protestant
+    size = 7177
+  }
+  farmers = {
+    culture = anglo_african
+    religion = secularism
+    size = 11710
+  }
+  farmers = {
+    culture = roma
+    religion =  orthodox
+    size = 935
+  }
+  farmers = {
+    culture = roma
+    religion = secularism
+    size = 1527
+  }
+  farmers = {
+    culture = turkish
+    religion =  sunni
+    size = 50917
+  }
+  farmers = {
+    culture = kurdish
+    religion =  sunni
+    size = 27922
+  }
+  farmers = {
+    culture = serb
+    religion =  orthodox
+    size = 8113
+  }
+  farmers = {
+    culture = serb
+    religion = secularism
+    size = 13238
+  }
+  farmers = {
+    culture = greek
+    religion =  orthodox
+    size = 4993
+  }
+  farmers = {
+    culture = greek
+    religion = secularism
+    size = 8146
+  }
+  farmers = {
+    culture = polish
+    religion =  catholic
+    size = 15603
+  }
+  farmers = {
+    culture = polish
+    religion = secularism
+    size = 25458
+  }
+  farmers = {
+    culture = sunni_arab
+    religion =  sunni
+    size = 41062
+  }
+  farmers = {
+    culture = vietnamese
+    religion =  buddhist
+    size = 1560
+  }
+  farmers = {
+    culture = vietnamese
+    religion = secularism
+    size = 2545
+  }
+  farmers = {
+    culture = filipino
+    religion =  catholic
+    size = 1560
+  }
+  farmers = {
+    culture = filipino
+    religion = secularism
+    size = 2545
+  }
 }
 #Prenzlau - Brandenburg (794000/198500 POPS)
 550 = {
-	clergymen = {
-		culture = german
-		religion =  catholic 
-		size = 3017
-	 } 
-	clergymen = {
-		culture = german
-		religion = secularism
-		size = 4922
-	 } 
-	farmers = {
-		culture = german
-		religion =  catholic 
-		size = 72412
-	 } 
-	farmers = {
-		culture = german
-		religion = secularism
-		size = 118147
-	 } 
+  clergymen = {
+    culture = german
+    religion =  catholic
+    size = 3017
+  }
+  clergymen = {
+    culture = german
+    religion = secularism
+    size = 4922
+  }
+  farmers = {
+    culture = german
+    religion =  catholic
+    size = 72412
+  }
+  farmers = {
+    culture = german
+    religion = secularism
+    size = 118147
+  }
 }
 #Pritzwalk - Brandenburg (794000/198500 POPS)
 551 = {
-	officers = {
-		culture = german
-		religion =  catholic 
-		size = 1535
-	 } 
-	officers = {
-		culture = german
-		religion = secularism
-		size = 2505
-	 } 
-	soldiers = {
-		culture = german
-		religion =  catholic 
-		size = 29180
-	 } 
-	soldiers = {
-		culture = german
-		religion = secularism
-		size = 47610
-	 } 
-	aristocrats = {
-		culture = german
-		religion =  catholic 
-		size = 1508
-	 } 
-	aristocrats = {
-		culture = german
-		religion = secularism
-		size = 2461
-	 } 
-	bureaucrats = {
-		culture = german
-		religion =  catholic 
-		size = 452
-	 } 
-	bureaucrats = {
-		culture = german
-		religion = secularism
-		size = 738
-	 } 
-	capitalists = {
-		culture = german
-		religion =  catholic 
-		size = 452
-	 } 
-	capitalists = {
-		culture = german
-		religion = secularism
-		size = 738
-	 } 
-	clergymen = {
-		culture = german
-		religion =  catholic 
-		size = 3017
-	 } 
-	clergymen = {
-		culture = german
-		religion = secularism
-		size = 4922
-	 } 
-	clerks = {
-		culture = german
-		religion =  catholic 
-		size = 1226
-	 } 
-	clerks = {
-		culture = german
-		religion = secularism
-		size = 2000
-	 } 
-	artisans = {
-		culture = german
-		religion =  catholic 
-		size = 1042
-	 } 
-	artisans = {
-		culture = german
-		religion = secularism
-		size = 1700
-	 } 
-	craftsmen = {
-		culture = german
-		religion =  catholic 
-		size = 3740
-	 } 
-	craftsmen = {
-		culture = german
-		religion = secularism
-		size = 6103
-	 } 
-	farmers = {
-		culture = german
-		religion =  catholic 
-		size = 33273
-	 } 
-	farmers = {
-		culture = german
-		religion = secularism
-		size = 54288
-	 } 
+  officers = {
+    culture = german
+    religion =  catholic
+    size = 1535
+  }
+  officers = {
+    culture = german
+    religion = secularism
+    size = 2505
+  }
+  soldiers = {
+    culture = german
+    religion =  catholic
+    size = 29180
+  }
+  soldiers = {
+    culture = german
+    religion = secularism
+    size = 47610
+  }
+  aristocrats = {
+    culture = german
+    religion =  catholic
+    size = 1508
+  }
+  aristocrats = {
+    culture = german
+    religion = secularism
+    size = 2461
+  }
+  bureaucrats = {
+    culture = german
+    religion =  catholic
+    size = 452
+  }
+  bureaucrats = {
+    culture = german
+    religion = secularism
+    size = 738
+  }
+  capitalists = {
+    culture = german
+    religion =  catholic
+    size = 452
+  }
+  capitalists = {
+    culture = german
+    religion = secularism
+    size = 738
+  }
+  clergymen = {
+    culture = german
+    religion =  catholic
+    size = 3017
+  }
+  clergymen = {
+    culture = german
+    religion = secularism
+    size = 4922
+  }
+  clerks = {
+    culture = german
+    religion =  catholic
+    size = 1226
+  }
+  clerks = {
+    culture = german
+    religion = secularism
+    size = 2000
+  }
+  artisans = {
+    culture = german
+    religion =  catholic
+    size = 1042
+  }
+  artisans = {
+    culture = german
+    religion = secularism
+    size = 1700
+  }
+  craftsmen = {
+    culture = german
+    religion =  catholic
+    size = 3740
+  }
+  craftsmen = {
+    culture = german
+    religion = secularism
+    size = 6103
+  }
+  farmers = {
+    culture = german
+    religion =  catholic
+    size = 33273
+  }
+  farmers = {
+    culture = german
+    religion = secularism
+    size = 54288
+  }
 }
 #Cottbus - Brandenburg (794000/198500 POPS)
 552 = {
-	clergymen = {
-		culture = german
-		religion =  catholic 
-		size = 3017
-	 } 
-	clergymen = {
-		culture = german
-		religion = secularism
-		size = 4922
-	 } 
-	farmers = {
-		culture = german
-		religion =  catholic 
-		size = 72412
-	 } 
-	farmers = {
-		culture = german
-		religion = secularism
-		size = 118147
-	 } 
+  clergymen = {
+    culture = german
+    religion =  catholic
+    size = 3017
+  }
+  clergymen = {
+    culture = german
+    religion = secularism
+    size = 4922
+  }
+  farmers = {
+    culture = german
+    religion =  catholic
+    size = 72412
+  }
+  farmers = {
+    culture = german
+    religion = secularism
+    size = 118147
+  }
 }
 #Magdeburg - Saxony-Anhalt (548000/137000 POPS)
 553 = {
-	clergymen = {
-		culture = german
-		religion =  catholic 
-		size = 2082
-	 } 
-	clergymen = {
-		culture = german
-		religion = secularism
-		size = 3397
-	 } 
-	farmers = {
-		culture = german
-		religion =  catholic 
-		size = 49977
-	 } 
-	farmers = {
-		culture = german
-		religion = secularism
-		size = 81542
-	 } 
+  clergymen = {
+    culture = german
+    religion =  catholic
+    size = 2082
+  }
+  clergymen = {
+    culture = german
+    religion = secularism
+    size = 3397
+  }
+  farmers = {
+    culture = german
+    religion =  catholic
+    size = 49977
+  }
+  farmers = {
+    culture = german
+    religion = secularism
+    size = 81542
+  }
 }
 #Erfurt - Thuringia (245000/61250 POPS)
 554 = {
-	clergymen = {
-		culture = german
-		religion =  catholic 
-		size = 931
-	 } 
-	clergymen = {
-		culture = german
-		religion = secularism
-		size = 1519
-	 } 
-	farmers = {
-		culture = german
-		religion =  catholic 
-		size = 22344
-	 } 
-	farmers = {
-		culture = german
-		religion = secularism
-		size = 36456
-	 } 
+  clergymen = {
+    culture = german
+    religion =  catholic
+    size = 931
+  }
+  clergymen = {
+    culture = german
+    religion = secularism
+    size = 1519
+  }
+  farmers = {
+    culture = german
+    religion =  catholic
+    size = 22344
+  }
+  farmers = {
+    culture = german
+    religion = secularism
+    size = 36456
+  }
 }
 #Dessau - Saxony-Anhalt (548000/137000 POPS)
 555 = {
-	clergymen = {
-		culture = german
-		religion =  catholic 
-		size = 2082
-	 } 
-	clergymen = {
-		culture = german
-		religion = secularism
-		size = 3397
-	 } 
-	farmers = {
-		culture = german
-		religion =  catholic 
-		size = 49977
-	 } 
-	farmers = {
-		culture = german
-		religion = secularism
-		size = 81542
-	 } 
+  clergymen = {
+    culture = german
+    religion =  catholic
+    size = 2082
+  }
+  clergymen = {
+    culture = german
+    religion = secularism
+    size = 3397
+  }
+  farmers = {
+    culture = german
+    religion =  catholic
+    size = 49977
+  }
+  farmers = {
+    culture = german
+    religion = secularism
+    size = 81542
+  }
 }
 #Halle - Saxony-Anhalt (548000/137000 POPS)
 556 = {
-	clergymen = {
-		culture = german
-		religion =  catholic 
-		size = 2082
-	 } 
-	clergymen = {
-		culture = german
-		religion = secularism
-		size = 3397
-	 } 
-	farmers = {
-		culture = german
-		religion =  catholic 
-		size = 49977
-	 } 
-	farmers = {
-		culture = german
-		religion = secularism
-		size = 81542
-	 } 
+  clergymen = {
+    culture = german
+    religion =  catholic
+    size = 2082
+  }
+  clergymen = {
+    culture = german
+    religion = secularism
+    size = 3397
+  }
+  farmers = {
+    culture = german
+    religion =  catholic
+    size = 49977
+  }
+  farmers = {
+    culture = german
+    religion = secularism
+    size = 81542
+  }
 }
 #Stendal - Saxony-Anhalt (548000/137000 POPS)
 557 = {
-	clergymen = {
-		culture = german
-		religion =  catholic 
-		size = 2082
-	 } 
-	clergymen = {
-		culture = german
-		religion = secularism
-		size = 3397
-	 } 
-	farmers = {
-		culture = german
-		religion =  catholic 
-		size = 49977
-	 } 
-	farmers = {
-		culture = german
-		religion = secularism
-		size = 81542
-	 } 
+  clergymen = {
+    culture = german
+    religion =  catholic
+    size = 2082
+  }
+  clergymen = {
+    culture = german
+    religion = secularism
+    size = 3397
+  }
+  farmers = {
+    culture = german
+    religion =  catholic
+    size = 49977
+  }
+  farmers = {
+    culture = german
+    religion = secularism
+    size = 81542
+  }
 }
 #Dresden - Saxony (984000/246000 POPS)
 558 = {
-	clergymen = {
-		culture = german
-		religion =  catholic 
-		size = 3739
-	 } 
-	clergymen = {
-		culture = german
-		religion = secularism
-		size = 6100
-	 } 
-	farmers = {
-		culture = german
-		religion =  catholic 
-		size = 89740
-	 } 
-	farmers = {
-		culture = german
-		religion = secularism
-		size = 146419
-	 } 
+  clergymen = {
+    culture = german
+    religion =  catholic
+    size = 3739
+  }
+  clergymen = {
+    culture = german
+    religion = secularism
+    size = 6100
+  }
+  farmers = {
+    culture = german
+    religion =  catholic
+    size = 89740
+  }
+  farmers = {
+    culture = german
+    religion = secularism
+    size = 146419
+  }
 }
 #Leipzig - Saxony (984000/246000 POPS)
 559 = {
-	officers = {
-		culture = german
-		religion =  catholic 
-		size = 1141
-	 } 
-	officers = {
-		culture = german
-		religion = secularism
-		size = 1863
-	 } 
-	soldiers = {
-		culture = german
-		religion =  catholic 
-		size = 21698
-	 } 
-	soldiers = {
-		culture = german
-		religion = secularism
-		size = 35402
-	 } 
-	aristocrats = {
-		culture = german
-		religion =  catholic 
-		size = 1869
-	 } 
-	aristocrats = {
-		culture = german
-		religion = secularism
-		size = 3050
-	 } 
-	bureaucrats = {
-		culture = german
-		religion =  catholic 
-		size = 560
-	 } 
-	bureaucrats = {
-		culture = german
-		religion = secularism
-		size = 915
-	 } 
-	capitalists = {
-		culture = german
-		religion =  catholic 
-		size = 560
-	 } 
-	capitalists = {
-		culture = german
-		religion = secularism
-		size = 915
-	 } 
-	clergymen = {
-		culture = german
-		religion =  catholic 
-		size = 3739
-	 } 
-	clergymen = {
-		culture = german
-		religion = secularism
-		size = 6100
-	 } 
-	clerks = {
-		culture = german
-		religion =  catholic 
-		size = 1937
-	 } 
-	clerks = {
-		culture = german
-		religion = secularism
-		size = 3161
-	 } 
-	artisans = {
-		culture = german
-		religion =  catholic 
-		size = 1646
-	 } 
-	artisans = {
-		culture = german
-		religion = secularism
-		size = 2687
-	 } 
-	craftsmen = {
-		culture = german
-		religion =  catholic 
-		size = 5910
-	 } 
-	craftsmen = {
-		culture = german
-		religion = secularism
-		size = 9642
-	 } 
-	farmers = {
-		culture = german
-		religion =  catholic 
-		size = 54414
-	 } 
-	farmers = {
-		culture = german
-		religion = secularism
-		size = 88782
-	 } 
+  officers = {
+    culture = german
+    religion =  catholic
+    size = 1141
+  }
+  officers = {
+    culture = german
+    religion = secularism
+    size = 1863
+  }
+  soldiers = {
+    culture = german
+    religion =  catholic
+    size = 21698
+  }
+  soldiers = {
+    culture = german
+    religion = secularism
+    size = 35402
+  }
+  aristocrats = {
+    culture = german
+    religion =  catholic
+    size = 1869
+  }
+  aristocrats = {
+    culture = german
+    religion = secularism
+    size = 3050
+  }
+  bureaucrats = {
+    culture = german
+    religion =  catholic
+    size = 560
+  }
+  bureaucrats = {
+    culture = german
+    religion = secularism
+    size = 915
+  }
+  capitalists = {
+    culture = german
+    religion =  catholic
+    size = 560
+  }
+  capitalists = {
+    culture = german
+    religion = secularism
+    size = 915
+  }
+  clergymen = {
+    culture = german
+    religion =  catholic
+    size = 3739
+  }
+  clergymen = {
+    culture = german
+    religion = secularism
+    size = 6100
+  }
+  clerks = {
+    culture = german
+    religion =  catholic
+    size = 1937
+  }
+  clerks = {
+    culture = german
+    religion = secularism
+    size = 3161
+  }
+  artisans = {
+    culture = german
+    religion =  catholic
+    size = 1646
+  }
+  artisans = {
+    culture = german
+    religion = secularism
+    size = 2687
+  }
+  craftsmen = {
+    culture = german
+    religion =  catholic
+    size = 5910
+  }
+  craftsmen = {
+    culture = german
+    religion = secularism
+    size = 9642
+  }
+  farmers = {
+    culture = german
+    religion =  catholic
+    size = 54414
+  }
+  farmers = {
+    culture = german
+    religion = secularism
+    size = 88782
+  }
 }
 #Chemnitz - Saxony (984000/246000 POPS)
 560 = {
-	clergymen = {
-		culture = german
-		religion =  catholic 
-		size = 3739
-	 } 
-	clergymen = {
-		culture = german
-		religion = secularism
-		size = 6100
-	 } 
-	farmers = {
-		culture = german
-		religion =  catholic 
-		size = 89740
-	 } 
-	farmers = {
-		culture = german
-		religion = secularism
-		size = 146419
-	 } 
+  clergymen = {
+    culture = german
+    religion =  catholic
+    size = 3739
+  }
+  clergymen = {
+    culture = german
+    religion = secularism
+    size = 6100
+  }
+  farmers = {
+    culture = german
+    religion =  catholic
+    size = 89740
+  }
+  farmers = {
+    culture = german
+    religion = secularism
+    size = 146419
+  }
 }
 #Weimar - Thuringia (245000/61250 POPS)
 561 = {
-	clergymen = {
-		culture = german
-		religion =  catholic 
-		size = 931
-	 } 
-	clergymen = {
-		culture = german
-		religion = secularism
-		size = 1519
-	 } 
-	farmers = {
-		culture = german
-		religion =  catholic 
-		size = 22344
-	 } 
-	farmers = {
-		culture = german
-		religion = secularism
-		size = 36456
-	 } 
+  clergymen = {
+    culture = german
+    religion =  catholic
+    size = 931
+  }
+  clergymen = {
+    culture = german
+    religion = secularism
+    size = 1519
+  }
+  farmers = {
+    culture = german
+    religion =  catholic
+    size = 22344
+  }
+  farmers = {
+    culture = german
+    religion = secularism
+    size = 36456
+  }
 }
 #Gotha - Thuringia (245000/61250 POPS)
 562 = {
-	clergymen = {
-		culture = german
-		religion =  catholic 
-		size = 931
-	 } 
-	clergymen = {
-		culture = german
-		religion = secularism
-		size = 1519
-	 } 
-	farmers = {
-		culture = german
-		religion =  catholic 
-		size = 22344
-	 } 
-	farmers = {
-		culture = german
-		religion = secularism
-		size = 36456
-	 } 
+  clergymen = {
+    culture = german
+    religion =  catholic
+    size = 931
+  }
+  clergymen = {
+    culture = german
+    religion = secularism
+    size = 1519
+  }
+  farmers = {
+    culture = german
+    religion =  catholic
+    size = 22344
+  }
+  farmers = {
+    culture = german
+    religion = secularism
+    size = 36456
+  }
 }
 #Meiningen - Thuringia (245000/61250 POPS)
 563 = {
-	clergymen = {
-		culture = german
-		religion =  catholic 
-		size = 931
-	 } 
-	clergymen = {
-		culture = german
-		religion = secularism
-		size = 1519
-	 } 
-	farmers = {
-		culture = german
-		religion =  catholic 
-		size = 22344
-	 } 
-	farmers = {
-		culture = german
-		religion = secularism
-		size = 36456
-	 } 
+  clergymen = {
+    culture = german
+    religion =  catholic
+    size = 931
+  }
+  clergymen = {
+    culture = german
+    religion = secularism
+    size = 1519
+  }
+  farmers = {
+    culture = german
+    religion =  catholic
+    size = 22344
+  }
+  farmers = {
+    culture = german
+    religion = secularism
+    size = 36456
+  }
 }
 #Frankfurt - Hesse (3016000/754000 POPS)
 564 = {
-	capitalists = {
-		culture = jewish
-		religion =  jewish 
-		size = 1719
-	 } 
-	capitalists = {
-		culture = jewish
-		religion = secularism
-		size = 2804
-	 } 
-	officers = {
-		culture = german
-		religion =  catholic 
-		size = 1372
-	 } 
-	officers = {
-		culture = german
-		religion = secularism
-		size = 2239
-	 } 
-	soldiers = {
-		culture = german
-		religion =  catholic 
-		size = 26080
-	 } 
-	soldiers = {
-		culture = german
-		religion = secularism
-		size = 42552
-	 } 
-	aristocrats = {
-		culture = german
-		religion =  catholic 
-		size = 5730
-	 } 
-	aristocrats = {
-		culture = german
-		religion = secularism
-		size = 9349
-	 } 
-	bureaucrats = {
-		culture = german
-		religion =  catholic 
-		size = 1719
-	 } 
-	bureaucrats = {
-		culture = german
-		religion = secularism
-		size = 2804
-	 } 
-	clergymen = {
-		culture = german
-		religion =  catholic 
-		size = 11460
-	 } 
-	clergymen = {
-		culture = german
-		religion = secularism
-		size = 18699
-	 } 
-	clerks = {
-		culture = german
-		religion =  catholic 
-		size = 7106
-	 } 
-	clerks = {
-		culture = german
-		religion = secularism
-		size = 11594
-	 } 
-	artisans = {
-		culture = german
-		religion =  catholic 
-		size = 6040
-	 } 
-	artisans = {
-		culture = german
-		religion = secularism
-		size = 9855
-	 } 
-	craftsmen = {
-		culture = german
-		religion =  catholic 
-		size = 21674
-	 } 
-	craftsmen = {
-		culture = german
-		religion = secularism
-		size = 35364
-	 } 
-	farmers = {
-		culture = german
-		religion =  catholic 
-		size = 70957
-	 } 
-	farmers = {
-		culture = german
-		religion = secularism
-		size = 115771
-	 } 
-	farmers = {
-		culture = jewish
-		religion =  jewish 
-		size = 12606
-	 } 
-	farmers = {
-		culture = jewish
-		religion = secularism
-		size = 20569
-	 } 
-	farmers = {
-		culture = european
-		religion =  protestant 
-		size = 40112
-	 } 
-	farmers = {
-		culture = european
-		religion = secularism
-		size = 65447
-	 } 
-	farmers = {
-		culture = indian
-		religion =  hindu 
-		size = 1432
-	 } 
-	farmers = {
-		culture = indian
-		religion = secularism
-		size = 2337
-	 } 
-	farmers = {
-		culture = anglo_african
-		religion =  protestant 
-		size = 6589
-	 } 
-	farmers = {
-		culture = anglo_african
-		religion = secularism
-		size = 10752
-	 } 
-	farmers = {
-		culture = roma
-		religion =  orthodox 
-		size = 859
-	 } 
-	farmers = {
-		culture = roma
-		religion = secularism
-		size = 1402
-	 } 
-	farmers = {
-		culture = turkish
-		religion =  sunni 
-		size = 46748
-	 } 
-	farmers = {
-		culture = kurdish
-		religion =  sunni 
-		size = 25636
-	 } 
-	farmers = {
-		culture = serb
-		religion =  orthodox 
-		size = 7449
-	 } 
-	farmers = {
-		culture = serb
-		religion = secularism
-		size = 12154
-	 } 
-	farmers = {
-		culture = greek
-		religion =  orthodox 
-		size = 4584
-	 } 
-	farmers = {
-		culture = greek
-		religion = secularism
-		size = 7479
-	 } 
-	farmers = {
-		culture = polish
-		religion =  catholic 
-		size = 14326
-	 } 
-	farmers = {
-		culture = polish
-		religion = secularism
-		size = 23374
-	 } 
-	farmers = {
-		culture = sunni_arab
-		religion =  sunni 
-		size = 37700
-	 } 
-	farmers = {
-		culture = vietnamese
-		religion =  buddhist 
-		size = 1432
-	 } 
-	farmers = {
-		culture = vietnamese
-		religion = secularism
-		size = 2337
-	 } 
-	farmers = {
-		culture = filipino
-		religion =  catholic 
-		size = 1432
-	 } 
-	farmers = {
-		culture = filipino
-		religion = secularism
-		size = 2337
-	 } 
+  capitalists = {
+    culture = jewish
+    religion =  jewish
+    size = 1719
+  }
+  capitalists = {
+    culture = jewish
+    religion = secularism
+    size = 2804
+  }
+  officers = {
+    culture = german
+    religion =  catholic
+    size = 1372
+  }
+  officers = {
+    culture = german
+    religion = secularism
+    size = 2239
+  }
+  soldiers = {
+    culture = german
+    religion =  catholic
+    size = 26080
+  }
+  soldiers = {
+    culture = german
+    religion = secularism
+    size = 42552
+  }
+  aristocrats = {
+    culture = german
+    religion =  catholic
+    size = 5730
+  }
+  aristocrats = {
+    culture = german
+    religion = secularism
+    size = 9349
+  }
+  bureaucrats = {
+    culture = german
+    religion =  catholic
+    size = 1719
+  }
+  bureaucrats = {
+    culture = german
+    religion = secularism
+    size = 2804
+  }
+  clergymen = {
+    culture = german
+    religion =  catholic
+    size = 11460
+  }
+  clergymen = {
+    culture = german
+    religion = secularism
+    size = 18699
+  }
+  clerks = {
+    culture = german
+    religion =  catholic
+    size = 7106
+  }
+  clerks = {
+    culture = german
+    religion = secularism
+    size = 11594
+  }
+  artisans = {
+    culture = german
+    religion =  catholic
+    size = 6040
+  }
+  artisans = {
+    culture = german
+    religion = secularism
+    size = 9855
+  }
+  craftsmen = {
+    culture = german
+    religion =  catholic
+    size = 21674
+  }
+  craftsmen = {
+    culture = german
+    religion = secularism
+    size = 35364
+  }
+  farmers = {
+    culture = german
+    religion =  catholic
+    size = 70957
+  }
+  farmers = {
+    culture = german
+    religion = secularism
+    size = 115771
+  }
+  farmers = {
+    culture = jewish
+    religion =  jewish
+    size = 12606
+  }
+  farmers = {
+    culture = jewish
+    religion = secularism
+    size = 20569
+  }
+  farmers = {
+    culture = european
+    religion =  protestant
+    size = 40112
+  }
+  farmers = {
+    culture = european
+    religion = secularism
+    size = 65447
+  }
+  farmers = {
+    culture = indian
+    religion =  hindu
+    size = 1432
+  }
+  farmers = {
+    culture = indian
+    religion = secularism
+    size = 2337
+  }
+  farmers = {
+    culture = anglo_african
+    religion =  protestant
+    size = 6589
+  }
+  farmers = {
+    culture = anglo_african
+    religion = secularism
+    size = 10752
+  }
+  farmers = {
+    culture = roma
+    religion =  orthodox
+    size = 859
+  }
+  farmers = {
+    culture = roma
+    religion = secularism
+    size = 1402
+  }
+  farmers = {
+    culture = turkish
+    religion =  sunni
+    size = 46748
+  }
+  farmers = {
+    culture = kurdish
+    religion =  sunni
+    size = 25636
+  }
+  farmers = {
+    culture = serb
+    religion =  orthodox
+    size = 7449
+  }
+  farmers = {
+    culture = serb
+    religion = secularism
+    size = 12154
+  }
+  farmers = {
+    culture = greek
+    religion =  orthodox
+    size = 4584
+  }
+  farmers = {
+    culture = greek
+    religion = secularism
+    size = 7479
+  }
+  farmers = {
+    culture = polish
+    religion =  catholic
+    size = 14326
+  }
+  farmers = {
+    culture = polish
+    religion = secularism
+    size = 23374
+  }
+  farmers = {
+    culture = sunni_arab
+    religion =  sunni
+    size = 37700
+  }
+  farmers = {
+    culture = vietnamese
+    religion =  buddhist
+    size = 1432
+  }
+  farmers = {
+    culture = vietnamese
+    religion = secularism
+    size = 2337
+  }
+  farmers = {
+    culture = filipino
+    religion =  catholic
+    size = 1432
+  }
+  farmers = {
+    culture = filipino
+    religion = secularism
+    size = 2337
+  }
 }
 #Wiesbaden - Hesse (567000/141750 POPS)
 565 = {
-	clergymen = {
-		culture = german
-		religion =  catholic 
-		size = 2154
-	 } 
-	clergymen = {
-		culture = german
-		religion = secularism
-		size = 3515
-	 } 
-	farmers = {
-		culture = german
-		religion =  catholic 
-		size = 51710
-	 } 
-	farmers = {
-		culture = german
-		religion = secularism
-		size = 84369
-	 } 
+  clergymen = {
+    culture = german
+    religion =  catholic
+    size = 2154
+  }
+  clergymen = {
+    culture = german
+    religion = secularism
+    size = 3515
+  }
+  farmers = {
+    culture = german
+    religion =  catholic
+    size = 51710
+  }
+  farmers = {
+    culture = german
+    religion = secularism
+    size = 84369
+  }
 }
 #Kassel - Hesse (567000/141750 POPS)
 566 = {
-	clergymen = {
-		culture = german
-		religion =  catholic 
-		size = 2154
-	 } 
-	clergymen = {
-		culture = german
-		religion = secularism
-		size = 3515
-	 } 
-	farmers = {
-		culture = german
-		religion =  catholic 
-		size = 51710
-	 } 
-	farmers = {
-		culture = german
-		religion = secularism
-		size = 84369
-	 } 
+  clergymen = {
+    culture = german
+    religion =  catholic
+    size = 2154
+  }
+  clergymen = {
+    culture = german
+    religion = secularism
+    size = 3515
+  }
+  farmers = {
+    culture = german
+    religion =  catholic
+    size = 51710
+  }
+  farmers = {
+    culture = german
+    religion = secularism
+    size = 84369
+  }
 }
 #Giessen - Hesse (567000/141750 POPS)
 567 = {
-	clergymen = {
-		culture = german
-		religion =  catholic 
-		size = 2154
-	 } 
-	clergymen = {
-		culture = german
-		religion = secularism
-		size = 3515
-	 } 
-	farmers = {
-		culture = german
-		religion =  catholic 
-		size = 51710
-	 } 
-	farmers = {
-		culture = german
-		religion = secularism
-		size = 84369
-	 } 
+  clergymen = {
+    culture = german
+    religion =  catholic
+    size = 2154
+  }
+  clergymen = {
+    culture = german
+    religion = secularism
+    size = 3515
+  }
+  farmers = {
+    culture = german
+    religion =  catholic
+    size = 51710
+  }
+  farmers = {
+    culture = german
+    religion = secularism
+    size = 84369
+  }
 }
 #Fulda - Hesse (567000/141750 POPS)
 568 = {
-	clergymen = {
-		culture = german
-		religion =  catholic 
-		size = 2154
-	 } 
-	clergymen = {
-		culture = german
-		religion = secularism
-		size = 3515
-	 } 
-	farmers = {
-		culture = german
-		religion =  catholic 
-		size = 51710
-	 } 
-	farmers = {
-		culture = german
-		religion = secularism
-		size = 84369
-	 } 
+  clergymen = {
+    culture = german
+    religion =  catholic
+    size = 2154
+  }
+  clergymen = {
+    culture = german
+    religion = secularism
+    size = 3515
+  }
+  farmers = {
+    culture = german
+    religion =  catholic
+    size = 51710
+  }
+  farmers = {
+    culture = german
+    religion = secularism
+    size = 84369
+  }
 }
 #Mannheim - Baden-Württemberg (1142000/285500 POPS)
 569 = {
-	clergymen = {
-		culture = german
-		religion =  catholic 
-		size = 4339
-	 } 
-	clergymen = {
-		culture = german
-		religion = secularism
-		size = 7080
-	 } 
-	farmers = {
-		culture = german
-		religion =  catholic 
-		size = 104150
-	 } 
-	farmers = {
-		culture = german
-		religion = secularism
-		size = 169929
-	 } 
+  clergymen = {
+    culture = german
+    religion =  catholic
+    size = 4339
+  }
+  clergymen = {
+    culture = german
+    religion = secularism
+    size = 7080
+  }
+  farmers = {
+    culture = german
+    religion =  catholic
+    size = 104150
+  }
+  farmers = {
+    culture = german
+    religion = secularism
+    size = 169929
+  }
 }
 #Mainz - Rhineland-Palatinate (970000/242500 POPS)
 570 = {
-	officers = {
-		culture = german
-		religion =  catholic 
-		size = 1125
-	 } 
-	officers = {
-		culture = german
-		religion = secularism
-		size = 1836
-	 } 
-	soldiers = {
-		culture = german
-		religion =  catholic 
-		size = 21389
-	 } 
-	soldiers = {
-		culture = german
-		religion = secularism
-		size = 34897
-	 } 
-	aristocrats = {
-		culture = german
-		religion =  catholic 
-		size = 1843
-	 } 
-	aristocrats = {
-		culture = german
-		religion = secularism
-		size = 3007
-	 } 
-	bureaucrats = {
-		culture = german
-		religion =  catholic 
-		size = 552
-	 } 
-	bureaucrats = {
-		culture = german
-		religion = secularism
-		size = 902
-	 } 
-	capitalists = {
-		culture = german
-		religion =  catholic 
-		size = 552
-	 } 
-	capitalists = {
-		culture = german
-		religion = secularism
-		size = 902
-	 } 
-	clergymen = {
-		culture = german
-		religion =  catholic 
-		size = 3686
-	 } 
-	clergymen = {
-		culture = german
-		religion = secularism
-		size = 6014
-	 } 
-	clerks = {
-		culture = german
-		religion =  catholic 
-		size = 1909
-	 } 
-	clerks = {
-		culture = german
-		religion = secularism
-		size = 3116
-	 } 
-	artisans = {
-		culture = german
-		religion =  catholic 
-		size = 1623
-	 } 
-	artisans = {
-		culture = german
-		religion = secularism
-		size = 2648
-	 } 
-	craftsmen = {
-		culture = german
-		religion =  catholic 
-		size = 5825
-	 } 
-	craftsmen = {
-		culture = german
-		religion = secularism
-		size = 9505
-	 } 
-	farmers = {
-		culture = german
-		religion =  catholic 
-		size = 53641
-	 } 
-	farmers = {
-		culture = german
-		religion = secularism
-		size = 87520
-	 } 
+  officers = {
+    culture = german
+    religion =  catholic
+    size = 1125
+  }
+  officers = {
+    culture = german
+    religion = secularism
+    size = 1836
+  }
+  soldiers = {
+    culture = german
+    religion =  catholic
+    size = 21389
+  }
+  soldiers = {
+    culture = german
+    religion = secularism
+    size = 34897
+  }
+  aristocrats = {
+    culture = german
+    religion =  catholic
+    size = 1843
+  }
+  aristocrats = {
+    culture = german
+    religion = secularism
+    size = 3007
+  }
+  bureaucrats = {
+    culture = german
+    religion =  catholic
+    size = 552
+  }
+  bureaucrats = {
+    culture = german
+    religion = secularism
+    size = 902
+  }
+  capitalists = {
+    culture = german
+    religion =  catholic
+    size = 552
+  }
+  capitalists = {
+    culture = german
+    religion = secularism
+    size = 902
+  }
+  clergymen = {
+    culture = german
+    religion =  catholic
+    size = 3686
+  }
+  clergymen = {
+    culture = german
+    religion = secularism
+    size = 6014
+  }
+  clerks = {
+    culture = german
+    religion =  catholic
+    size = 1909
+  }
+  clerks = {
+    culture = german
+    religion = secularism
+    size = 3116
+  }
+  artisans = {
+    culture = german
+    religion =  catholic
+    size = 1623
+  }
+  artisans = {
+    culture = german
+    religion = secularism
+    size = 2648
+  }
+  craftsmen = {
+    culture = german
+    religion =  catholic
+    size = 5825
+  }
+  craftsmen = {
+    culture = german
+    religion = secularism
+    size = 9505
+  }
+  farmers = {
+    culture = german
+    religion =  catholic
+    size = 53641
+  }
+  farmers = {
+    culture = german
+    religion = secularism
+    size = 87520
+  }
 }
 #Kaiserlautern - Rhineland-Palatinate (970000/242500 POPS)
 571 = {
-	clergymen = {
-		culture = german
-		religion =  catholic 
-		size = 3686
-	 } 
-	clergymen = {
-		culture = german
-		religion = secularism
-		size = 6014
-	 } 
-	farmers = {
-		culture = german
-		religion =  catholic 
-		size = 88464
-	 } 
-	farmers = {
-		culture = german
-		religion = secularism
-		size = 144336
-	 } 
+  clergymen = {
+    culture = german
+    religion =  catholic
+    size = 3686
+  }
+  clergymen = {
+    culture = german
+    religion = secularism
+    size = 6014
+  }
+  farmers = {
+    culture = german
+    religion =  catholic
+    size = 88464
+  }
+  farmers = {
+    culture = german
+    religion = secularism
+    size = 144336
+  }
 }
 #Trier - Rhineland-Palatinate (970000/242500 POPS)
 572 = {
-	clergymen = {
-		culture = german
-		religion =  catholic 
-		size = 3686
-	 } 
-	clergymen = {
-		culture = german
-		religion = secularism
-		size = 6014
-	 } 
-	farmers = {
-		culture = german
-		religion =  catholic 
-		size = 88464
-	 } 
-	farmers = {
-		culture = german
-		religion = secularism
-		size = 144336
-	 } 
+  clergymen = {
+    culture = german
+    religion =  catholic
+    size = 3686
+  }
+  clergymen = {
+    culture = german
+    religion = secularism
+    size = 6014
+  }
+  farmers = {
+    culture = german
+    religion =  catholic
+    size = 88464
+  }
+  farmers = {
+    culture = german
+    religion = secularism
+    size = 144336
+  }
 }
 #Saarbrucken - Saarbrucken (967000/241750 POPS)
 573 = {
-	officers = {
-		culture = german
-		religion =  catholic 
-		size = 224
-	 } 
-	officers = {
-		culture = german
-		religion = secularism
-		size = 365
-	 } 
-	soldiers = {
-		culture = german
-		religion =  catholic 
-		size = 4264
-	 } 
-	soldiers = {
-		culture = german
-		religion = secularism
-		size = 6957
-	 } 
-	aristocrats = {
-		culture = german
-		religion =  catholic 
-		size = 1837
-	 } 
-	aristocrats = {
-		culture = german
-		religion = secularism
-		size = 2997
-	 } 
-	bureaucrats = {
-		culture = german
-		religion =  catholic 
-		size = 551
-	 } 
-	bureaucrats = {
-		culture = german
-		religion = secularism
-		size = 899
-	 } 
-	capitalists = {
-		culture = german
-		religion =  catholic 
-		size = 551
-	 } 
-	capitalists = {
-		culture = german
-		religion = secularism
-		size = 899
-	 } 
-	clergymen = {
-		culture = german
-		religion =  catholic 
-		size = 3674
-	 } 
-	clergymen = {
-		culture = german
-		religion = secularism
-		size = 5995
-	 } 
-	clerks = {
-		culture = german
-		religion =  catholic 
-		size = 2396
-	 } 
-	clerks = {
-		culture = german
-		religion = secularism
-		size = 3910
-	 } 
-	artisans = {
-		culture = german
-		religion =  catholic 
-		size = 2037
-	 } 
-	artisans = {
-		culture = german
-		religion = secularism
-		size = 3323
-	 } 
-	craftsmen = {
-		culture = german
-		religion =  catholic 
-		size = 7310
-	 } 
-	craftsmen = {
-		culture = german
-		religion = secularism
-		size = 11927
-	 } 
-	farmers = {
-		culture = german
-		religion =  catholic 
-		size = 69018
-	 } 
-	farmers = {
-		culture = german
-		religion = secularism
-		size = 112608
-	 } 
+  officers = {
+    culture = german
+    religion =  catholic
+    size = 224
+  }
+  officers = {
+    culture = german
+    religion = secularism
+    size = 365
+  }
+  soldiers = {
+    culture = german
+    religion =  catholic
+    size = 4264
+  }
+  soldiers = {
+    culture = german
+    religion = secularism
+    size = 6957
+  }
+  aristocrats = {
+    culture = german
+    religion =  catholic
+    size = 1837
+  }
+  aristocrats = {
+    culture = german
+    religion = secularism
+    size = 2997
+  }
+  bureaucrats = {
+    culture = german
+    religion =  catholic
+    size = 551
+  }
+  bureaucrats = {
+    culture = german
+    religion = secularism
+    size = 899
+  }
+  capitalists = {
+    culture = german
+    religion =  catholic
+    size = 551
+  }
+  capitalists = {
+    culture = german
+    religion = secularism
+    size = 899
+  }
+  clergymen = {
+    culture = german
+    religion =  catholic
+    size = 3674
+  }
+  clergymen = {
+    culture = german
+    religion = secularism
+    size = 5995
+  }
+  clerks = {
+    culture = german
+    religion =  catholic
+    size = 2396
+  }
+  clerks = {
+    culture = german
+    religion = secularism
+    size = 3910
+  }
+  artisans = {
+    culture = german
+    religion =  catholic
+    size = 2037
+  }
+  artisans = {
+    culture = german
+    religion = secularism
+    size = 3323
+  }
+  craftsmen = {
+    culture = german
+    religion =  catholic
+    size = 7310
+  }
+  craftsmen = {
+    culture = german
+    religion = secularism
+    size = 11927
+  }
+  farmers = {
+    culture = german
+    religion =  catholic
+    size = 69018
+  }
+  farmers = {
+    culture = german
+    religion = secularism
+    size = 112608
+  }
 }
 #Kreuznach - Rhineland-Palatinate (970000/242500 POPS)
 574 = {
-	clergymen = {
-		culture = german
-		religion =  catholic 
-		size = 3686
-	 } 
-	clergymen = {
-		culture = german
-		religion = secularism
-		size = 6014
-	 } 
-	farmers = {
-		culture = german
-		religion =  catholic 
-		size = 88464
-	 } 
-	farmers = {
-		culture = german
-		religion = secularism
-		size = 144336
-	 } 
+  clergymen = {
+    culture = german
+    religion =  catholic
+    size = 3686
+  }
+  clergymen = {
+    culture = german
+    religion = secularism
+    size = 6014
+  }
+  farmers = {
+    culture = german
+    religion =  catholic
+    size = 88464
+  }
+  farmers = {
+    culture = german
+    religion = secularism
+    size = 144336
+  }
 }
 #Cologne - Cologne (2742000/685500 POPS)
 575 = {
-	officers = {
-		culture = german
-		religion =  catholic 
-		size = 4545
-	 } 
-	officers = {
-		culture = german
-		religion = secularism
-		size = 7417
-	 } 
-	soldiers = {
-		culture = german
-		religion =  catholic 
-		size = 86376
-	 } 
-	soldiers = {
-		culture = german
-		religion = secularism
-		size = 140929
-	 } 
-	aristocrats = {
-		culture = german
-		religion =  catholic 
-		size = 5209
-	 } 
-	aristocrats = {
-		culture = german
-		religion = secularism
-		size = 8500
-	 } 
-	bureaucrats = {
-		culture = german
-		religion =  catholic 
-		size = 1562
-	 } 
-	bureaucrats = {
-		culture = german
-		religion = secularism
-		size = 2550
-	 } 
-	capitalists = {
-		culture = german
-		religion =  catholic 
-		size = 1562
-	 } 
-	capitalists = {
-		culture = german
-		religion = secularism
-		size = 2550
-	 } 
-	clergymen = {
-		culture = german
-		religion =  catholic 
-		size = 10419
-	 } 
-	clergymen = {
-		culture = german
-		religion = secularism
-		size = 17000
-	 } 
-	clerks = {
-		culture = german
-		religion =  catholic 
-		size = 4651
-	 } 
-	clerks = {
-		culture = german
-		religion = secularism
-		size = 7588
-	 } 
-	artisans = {
-		culture = german
-		religion =  catholic 
-		size = 3953
-	 } 
-	artisans = {
-		culture = german
-		religion = secularism
-		size = 6450
-	 } 
-	craftsmen = {
-		culture = german
-		religion =  catholic 
-		size = 14186
-	 } 
-	craftsmen = {
-		culture = german
-		religion = secularism
-		size = 23147
-	 } 
-	farmers = {
-		culture = german
-		religion =  catholic 
-		size = 18875
-	 } 
-	farmers = {
-		culture = german
-		religion = secularism
-		size = 30796
-	 } 
-	farmers = {
-		culture = european
-		religion =  protestant 
-		size = 36468
-	 } 
-	farmers = {
-		culture = european
-		religion = secularism
-		size = 59501
-	 } 
-	farmers = {
-		culture = indian
-		religion =  hindu 
-		size = 1302
-	 } 
-	farmers = {
-		culture = indian
-		religion = secularism
-		size = 2124
-	 } 
-	farmers = {
-		culture = anglo_african
-		religion =  protestant 
-		size = 5991
-	 } 
-	farmers = {
-		culture = anglo_african
-		religion = secularism
-		size = 9774
-	 } 
-	farmers = {
-		culture = roma
-		religion =  orthodox 
-		size = 781
-	 } 
-	farmers = {
-		culture = roma
-		religion = secularism
-		size = 1274
-	 } 
-	farmers = {
-		culture = turkish
-		religion =  sunni 
-		size = 42501
-	 } 
-	farmers = {
-		culture = kurdish
-		religion =  sunni 
-		size = 23307
-	 } 
-	farmers = {
-		culture = serb
-		religion =  orthodox 
-		size = 6772
-	 } 
-	farmers = {
-		culture = serb
-		religion = secularism
-		size = 11050
-	 } 
-	farmers = {
-		culture = greek
-		religion =  orthodox 
-		size = 4167
-	 } 
-	farmers = {
-		culture = greek
-		religion = secularism
-		size = 6800
-	 } 
-	farmers = {
-		culture = polish
-		religion =  catholic 
-		size = 13024
-	 } 
-	farmers = {
-		culture = polish
-		religion = secularism
-		size = 21250
-	 } 
-	farmers = {
-		culture = sunni_arab
-		religion =  sunni 
-		size = 34275
-	 } 
-	farmers = {
-		culture = vietnamese
-		religion =  buddhist 
-		size = 1302
-	 } 
-	farmers = {
-		culture = vietnamese
-		religion = secularism
-		size = 2124
-	 } 
-	farmers = {
-		culture = filipino
-		religion =  catholic 
-		size = 1302
-	 } 
-	farmers = {
-		culture = filipino
-		religion = secularism
-		size = 2124
-	 } 
+  officers = {
+    culture = german
+    religion =  catholic
+    size = 4545
+  }
+  officers = {
+    culture = german
+    religion = secularism
+    size = 7417
+  }
+  soldiers = {
+    culture = german
+    religion =  catholic
+    size = 86376
+  }
+  soldiers = {
+    culture = german
+    religion = secularism
+    size = 140929
+  }
+  aristocrats = {
+    culture = german
+    religion =  catholic
+    size = 5209
+  }
+  aristocrats = {
+    culture = german
+    religion = secularism
+    size = 8500
+  }
+  bureaucrats = {
+    culture = german
+    religion =  catholic
+    size = 1562
+  }
+  bureaucrats = {
+    culture = german
+    religion = secularism
+    size = 2550
+  }
+  capitalists = {
+    culture = german
+    religion =  catholic
+    size = 1562
+  }
+  capitalists = {
+    culture = german
+    religion = secularism
+    size = 2550
+  }
+  clergymen = {
+    culture = german
+    religion =  catholic
+    size = 10419
+  }
+  clergymen = {
+    culture = german
+    religion = secularism
+    size = 17000
+  }
+  clerks = {
+    culture = german
+    religion =  catholic
+    size = 4651
+  }
+  clerks = {
+    culture = german
+    religion = secularism
+    size = 7588
+  }
+  artisans = {
+    culture = german
+    religion =  catholic
+    size = 3953
+  }
+  artisans = {
+    culture = german
+    religion = secularism
+    size = 6450
+  }
+  craftsmen = {
+    culture = german
+    religion =  catholic
+    size = 14186
+  }
+  craftsmen = {
+    culture = german
+    religion = secularism
+    size = 23147
+  }
+  farmers = {
+    culture = german
+    religion =  catholic
+    size = 18875
+  }
+  farmers = {
+    culture = german
+    religion = secularism
+    size = 30796
+  }
+  farmers = {
+    culture = european
+    religion =  protestant
+    size = 36468
+  }
+  farmers = {
+    culture = european
+    religion = secularism
+    size = 59501
+  }
+  farmers = {
+    culture = indian
+    religion =  hindu
+    size = 1302
+  }
+  farmers = {
+    culture = indian
+    religion = secularism
+    size = 2124
+  }
+  farmers = {
+    culture = anglo_african
+    religion =  protestant
+    size = 5991
+  }
+  farmers = {
+    culture = anglo_african
+    religion = secularism
+    size = 9774
+  }
+  farmers = {
+    culture = roma
+    religion =  orthodox
+    size = 781
+  }
+  farmers = {
+    culture = roma
+    religion = secularism
+    size = 1274
+  }
+  farmers = {
+    culture = turkish
+    religion =  sunni
+    size = 42501
+  }
+  farmers = {
+    culture = kurdish
+    religion =  sunni
+    size = 23307
+  }
+  farmers = {
+    culture = serb
+    religion =  orthodox
+    size = 6772
+  }
+  farmers = {
+    culture = serb
+    religion = secularism
+    size = 11050
+  }
+  farmers = {
+    culture = greek
+    religion =  orthodox
+    size = 4167
+  }
+  farmers = {
+    culture = greek
+    religion = secularism
+    size = 6800
+  }
+  farmers = {
+    culture = polish
+    religion =  catholic
+    size = 13024
+  }
+  farmers = {
+    culture = polish
+    religion = secularism
+    size = 21250
+  }
+  farmers = {
+    culture = sunni_arab
+    religion =  sunni
+    size = 34275
+  }
+  farmers = {
+    culture = vietnamese
+    religion =  buddhist
+    size = 1302
+  }
+  farmers = {
+    culture = vietnamese
+    religion = secularism
+    size = 2124
+  }
+  farmers = {
+    culture = filipino
+    religion =  catholic
+    size = 1302
+  }
+  farmers = {
+    culture = filipino
+    religion = secularism
+    size = 2124
+  }
 }
 #Aachen - North Rhine-Westphalia (835000/208750 POPS)
 576 = {
-	clergymen = {
-		culture = german
-		religion =  catholic 
-		size = 3173
-	 } 
-	clergymen = {
-		culture = german
-		religion = secularism
-		size = 5177
-	 } 
-	farmers = {
-		culture = german
-		religion =  catholic 
-		size = 76152
-	 } 
-	farmers = {
-		culture = german
-		religion = secularism
-		size = 124248
-	 } 
+  clergymen = {
+    culture = german
+    religion =  catholic
+    size = 3173
+  }
+  clergymen = {
+    culture = german
+    religion = secularism
+    size = 5177
+  }
+  farmers = {
+    culture = german
+    religion =  catholic
+    size = 76152
+  }
+  farmers = {
+    culture = german
+    religion = secularism
+    size = 124248
+  }
 }
 #Kleves - North Rhine-Westphalia (835000/208750 POPS)
 577 = {
-	clergymen = {
-		culture = german
-		religion =  catholic 
-		size = 3173
-	 } 
-	clergymen = {
-		culture = german
-		religion = secularism
-		size = 5177
-	 } 
-	farmers = {
-		culture = german
-		religion =  catholic 
-		size = 76152
-	 } 
-	farmers = {
-		culture = german
-		religion = secularism
-		size = 124248
-	 } 
+  clergymen = {
+    culture = german
+    religion =  catholic
+    size = 3173
+  }
+  clergymen = {
+    culture = german
+    religion = secularism
+    size = 5177
+  }
+  farmers = {
+    culture = german
+    religion =  catholic
+    size = 76152
+  }
+  farmers = {
+    culture = german
+    religion = secularism
+    size = 124248
+  }
 }
 #Dusseldorf - North Rhine-Westphalia (3700000/925000 POPS)
 578 = {
-	clergymen = {
-		culture = german
-		religion =  catholic 
-		size = 14060
-	 } 
-	clergymen = {
-		culture = german
-		religion = secularism
-		size = 22940
-	 } 
-	farmers = {
-		culture = german
-		religion =  catholic 
-		size = 190161
-	 } 
-	farmers = {
-		culture = german
-		religion = secularism
-		size = 310263
-	 } 
-	farmers = {
-		culture = european
-		religion =  protestant 
-		size = 49210
-	 } 
-	farmers = {
-		culture = european
-		religion = secularism
-		size = 80290
-	 } 
-	farmers = {
-		culture = indian
-		religion =  hindu 
-		size = 1757
-	 } 
-	farmers = {
-		culture = indian
-		religion = secularism
-		size = 2867
-	 } 
-	farmers = {
-		culture = anglo_african
-		religion =  protestant 
-		size = 8084
-	 } 
-	farmers = {
-		culture = anglo_african
-		religion = secularism
-		size = 13190
-	 } 
-	farmers = {
-		culture = roma
-		religion =  orthodox 
-		size = 1054
-	 } 
-	farmers = {
-		culture = roma
-		religion = secularism
-		size = 1720
-	 } 
-	farmers = {
-		culture = turkish
-		religion =  sunni 
-		size = 57350
-	 } 
-	farmers = {
-		culture = kurdish
-		religion =  sunni 
-		size = 31450
-	 } 
-	farmers = {
-		culture = serb
-		religion =  orthodox 
-		size = 9139
-	 } 
-	farmers = {
-		culture = serb
-		religion = secularism
-		size = 14911
-	 } 
-	farmers = {
-		culture = greek
-		religion =  orthodox 
-		size = 5624
-	 } 
-	farmers = {
-		culture = greek
-		religion = secularism
-		size = 9176
-	 } 
-	farmers = {
-		culture = polish
-		religion =  catholic 
-		size = 17575
-	 } 
-	farmers = {
-		culture = polish
-		religion = secularism
-		size = 28675
-	 } 
-	farmers = {
-		culture = sunni_arab
-		religion =  sunni 
-		size = 46250
-	 } 
-	farmers = {
-		culture = vietnamese
-		religion =  buddhist 
-		size = 1757
-	 } 
-	farmers = {
-		culture = vietnamese
-		religion = secularism
-		size = 2867
-	 } 
-	farmers = {
-		culture = filipino
-		religion =  catholic 
-		size = 1757
-	 } 
-	farmers = {
-		culture = filipino
-		religion = secularism
-		size = 2867
-	 } 
+  clergymen = {
+    culture = german
+    religion =  catholic
+    size = 14060
+  }
+  clergymen = {
+    culture = german
+    religion = secularism
+    size = 22940
+  }
+  farmers = {
+    culture = german
+    religion =  catholic
+    size = 190161
+  }
+  farmers = {
+    culture = german
+    religion = secularism
+    size = 310263
+  }
+  farmers = {
+    culture = european
+    religion =  protestant
+    size = 49210
+  }
+  farmers = {
+    culture = european
+    religion = secularism
+    size = 80290
+  }
+  farmers = {
+    culture = indian
+    religion =  hindu
+    size = 1757
+  }
+  farmers = {
+    culture = indian
+    religion = secularism
+    size = 2867
+  }
+  farmers = {
+    culture = anglo_african
+    religion =  protestant
+    size = 8084
+  }
+  farmers = {
+    culture = anglo_african
+    religion = secularism
+    size = 13190
+  }
+  farmers = {
+    culture = roma
+    religion =  orthodox
+    size = 1054
+  }
+  farmers = {
+    culture = roma
+    religion = secularism
+    size = 1720
+  }
+  farmers = {
+    culture = turkish
+    religion =  sunni
+    size = 57350
+  }
+  farmers = {
+    culture = kurdish
+    religion =  sunni
+    size = 31450
+  }
+  farmers = {
+    culture = serb
+    religion =  orthodox
+    size = 9139
+  }
+  farmers = {
+    culture = serb
+    religion = secularism
+    size = 14911
+  }
+  farmers = {
+    culture = greek
+    religion =  orthodox
+    size = 5624
+  }
+  farmers = {
+    culture = greek
+    religion = secularism
+    size = 9176
+  }
+  farmers = {
+    culture = polish
+    religion =  catholic
+    size = 17575
+  }
+  farmers = {
+    culture = polish
+    religion = secularism
+    size = 28675
+  }
+  farmers = {
+    culture = sunni_arab
+    religion =  sunni
+    size = 46250
+  }
+  farmers = {
+    culture = vietnamese
+    religion =  buddhist
+    size = 1757
+  }
+  farmers = {
+    culture = vietnamese
+    religion = secularism
+    size = 2867
+  }
+  farmers = {
+    culture = filipino
+    religion =  catholic
+    size = 1757
+  }
+  farmers = {
+    culture = filipino
+    religion = secularism
+    size = 2867
+  }
 }
 #Koblenz - North Rhine-Westphalia (835000/208750 POPS)
 579 = {
-	clergymen = {
-		culture = german
-		religion =  catholic 
-		size = 3173
-	 } 
-	clergymen = {
-		culture = german
-		religion = secularism
-		size = 5177
-	 } 
-	farmers = {
-		culture = german
-		religion =  catholic 
-		size = 76152
-	 } 
-	farmers = {
-		culture = german
-		religion = secularism
-		size = 124248
-	 } 
+  clergymen = {
+    culture = german
+    religion =  catholic
+    size = 3173
+  }
+  clergymen = {
+    culture = german
+    religion = secularism
+    size = 5177
+  }
+  farmers = {
+    culture = german
+    religion =  catholic
+    size = 76152
+  }
+  farmers = {
+    culture = german
+    religion = secularism
+    size = 124248
+  }
 }
 #Dortmund - North Rhine-Westphalia (5868000/1467000 POPS)
 580 = {
-	clergymen = {
-		culture = german
-		religion =  catholic 
-		size = 22298
-	 } 
-	clergymen = {
-		culture = german
-		religion = secularism
-		size = 36381
-	 } 
-	farmers = {
-		culture = german
-		religion =  catholic 
-		size = 301585
-	 } 
-	farmers = {
-		culture = german
-		religion = secularism
-		size = 492061
-	 } 
-	farmers = {
-		culture = european
-		religion =  protestant 
-		size = 78044
-	 } 
-	farmers = {
-		culture = european
-		religion = secularism
-		size = 127335
-	 } 
-	farmers = {
-		culture = indian
-		religion =  hindu 
-		size = 2787
-	 } 
-	farmers = {
-		culture = indian
-		religion = secularism
-		size = 4547
-	 } 
-	farmers = {
-		culture = anglo_african
-		religion =  protestant 
-		size = 12821
-	 } 
-	farmers = {
-		culture = anglo_african
-		religion = secularism
-		size = 20919
-	 } 
-	farmers = {
-		culture = roma
-		religion =  orthodox 
-		size = 1672
-	 } 
-	farmers = {
-		culture = roma
-		religion = secularism
-		size = 2728
-	 } 
-	farmers = {
-		culture = turkish
-		religion =  sunni 
-		size = 90954
-	 } 
-	farmers = {
-		culture = kurdish
-		religion =  sunni 
-		size = 49878
-	 } 
-	farmers = {
-		culture = serb
-		religion =  orthodox 
-		size = 14493
-	 } 
-	farmers = {
-		culture = serb
-		religion = secularism
-		size = 23648
-	 } 
-	farmers = {
-		culture = greek
-		religion =  orthodox 
-		size = 8919
-	 } 
-	farmers = {
-		culture = greek
-		religion = secularism
-		size = 14552
-	 } 
-	farmers = {
-		culture = polish
-		religion =  catholic 
-		size = 27873
-	 } 
-	farmers = {
-		culture = polish
-		religion = secularism
-		size = 45477
-	 } 
-	farmers = {
-		culture = sunni_arab
-		religion =  sunni 
-		size = 73350
-	 } 
-	farmers = {
-		culture = vietnamese
-		religion =  buddhist 
-		size = 2787
-	 } 
-	farmers = {
-		culture = vietnamese
-		religion = secularism
-		size = 4547
-	 } 
-	farmers = {
-		culture = filipino
-		religion =  catholic 
-		size = 2787
-	 } 
-	farmers = {
-		culture = filipino
-		religion = secularism
-		size = 4547
-	 } 
+  clergymen = {
+    culture = german
+    religion =  catholic
+    size = 22298
+  }
+  clergymen = {
+    culture = german
+    religion = secularism
+    size = 36381
+  }
+  farmers = {
+    culture = german
+    religion =  catholic
+    size = 301585
+  }
+  farmers = {
+    culture = german
+    religion = secularism
+    size = 492061
+  }
+  farmers = {
+    culture = european
+    religion =  protestant
+    size = 78044
+  }
+  farmers = {
+    culture = european
+    religion = secularism
+    size = 127335
+  }
+  farmers = {
+    culture = indian
+    religion =  hindu
+    size = 2787
+  }
+  farmers = {
+    culture = indian
+    religion = secularism
+    size = 4547
+  }
+  farmers = {
+    culture = anglo_african
+    religion =  protestant
+    size = 12821
+  }
+  farmers = {
+    culture = anglo_african
+    religion = secularism
+    size = 20919
+  }
+  farmers = {
+    culture = roma
+    religion =  orthodox
+    size = 1672
+  }
+  farmers = {
+    culture = roma
+    religion = secularism
+    size = 2728
+  }
+  farmers = {
+    culture = turkish
+    religion =  sunni
+    size = 90954
+  }
+  farmers = {
+    culture = kurdish
+    religion =  sunni
+    size = 49878
+  }
+  farmers = {
+    culture = serb
+    religion =  orthodox
+    size = 14493
+  }
+  farmers = {
+    culture = serb
+    religion = secularism
+    size = 23648
+  }
+  farmers = {
+    culture = greek
+    religion =  orthodox
+    size = 8919
+  }
+  farmers = {
+    culture = greek
+    religion = secularism
+    size = 14552
+  }
+  farmers = {
+    culture = polish
+    religion =  catholic
+    size = 27873
+  }
+  farmers = {
+    culture = polish
+    religion = secularism
+    size = 45477
+  }
+  farmers = {
+    culture = sunni_arab
+    religion =  sunni
+    size = 73350
+  }
+  farmers = {
+    culture = vietnamese
+    religion =  buddhist
+    size = 2787
+  }
+  farmers = {
+    culture = vietnamese
+    religion = secularism
+    size = 4547
+  }
+  farmers = {
+    culture = filipino
+    religion =  catholic
+    size = 2787
+  }
+  farmers = {
+    culture = filipino
+    religion = secularism
+    size = 4547
+  }
 }
 #Munster - North Rhine-Westphalia (835000/208750 POPS)
 581 = {
-	clergymen = {
-		culture = german
-		religion =  catholic 
-		size = 3173
-	 } 
-	clergymen = {
-		culture = german
-		religion = secularism
-		size = 5177
-	 } 
-	farmers = {
-		culture = german
-		religion =  catholic 
-		size = 76152
-	 } 
-	farmers = {
-		culture = german
-		religion = secularism
-		size = 124248
-	 } 
+  clergymen = {
+    culture = german
+    religion =  catholic
+    size = 3173
+  }
+  clergymen = {
+    culture = german
+    religion = secularism
+    size = 5177
+  }
+  farmers = {
+    culture = german
+    religion =  catholic
+    size = 76152
+  }
+  farmers = {
+    culture = german
+    religion = secularism
+    size = 124248
+  }
 }
 #Minden - North Rhine-Westphalia (835000/208750 POPS)
 582 = {
-	clergymen = {
-		culture = german
-		religion =  catholic 
-		size = 3173
-	 } 
-	clergymen = {
-		culture = german
-		religion = secularism
-		size = 5177
-	 } 
-	farmers = {
-		culture = german
-		religion =  catholic 
-		size = 76152
-	 } 
-	farmers = {
-		culture = german
-		religion = secularism
-		size = 124248
-	 } 
+  clergymen = {
+    culture = german
+    religion =  catholic
+    size = 3173
+  }
+  clergymen = {
+    culture = german
+    religion = secularism
+    size = 5177
+  }
+  farmers = {
+    culture = german
+    religion =  catholic
+    size = 76152
+  }
+  farmers = {
+    culture = german
+    religion = secularism
+    size = 124248
+  }
 }
 #Siegen - North Rhine-Westphalia (835000/208750 POPS)
 583 = {
-	clergymen = {
-		culture = german
-		religion =  catholic 
-		size = 3173
-	 } 
-	clergymen = {
-		culture = german
-		religion = secularism
-		size = 5177
-	 } 
-	farmers = {
-		culture = german
-		religion =  catholic 
-		size = 76152
-	 } 
-	farmers = {
-		culture = german
-		religion = secularism
-		size = 124248
-	 } 
+  clergymen = {
+    culture = german
+    religion =  catholic
+    size = 3173
+  }
+  clergymen = {
+    culture = german
+    religion = secularism
+    size = 5177
+  }
+  farmers = {
+    culture = german
+    religion =  catholic
+    size = 76152
+  }
+  farmers = {
+    culture = german
+    religion = secularism
+    size = 124248
+  }
 }
 #Korbach - North Rhine-Westphalia (835000/208750 POPS)
 584 = {
-	clergymen = {
-		culture = german
-		religion =  catholic 
-		size = 3173
-	 } 
-	clergymen = {
-		culture = german
-		religion = secularism
-		size = 5177
-	 } 
-	farmers = {
-		culture = german
-		religion =  catholic 
-		size = 76152
-	 } 
-	farmers = {
-		culture = german
-		religion = secularism
-		size = 124248
-	 } 
+  clergymen = {
+    culture = german
+    religion =  catholic
+    size = 3173
+  }
+  clergymen = {
+    culture = german
+    religion = secularism
+    size = 5177
+  }
+  farmers = {
+    culture = german
+    religion =  catholic
+    size = 76152
+  }
+  farmers = {
+    culture = german
+    religion = secularism
+    size = 124248
+  }
 }
 #Detmold - North Rhine-Westphalia (835000/208750 POPS)
 585 = {
-	clergymen = {
-		culture = german
-		religion =  catholic 
-		size = 3173
-	 } 
-	clergymen = {
-		culture = german
-		religion = secularism
-		size = 5177
-	 } 
-	farmers = {
-		culture = german
-		religion =  catholic 
-		size = 76152
-	 } 
-	farmers = {
-		culture = german
-		religion = secularism
-		size = 124248
-	 } 
+  clergymen = {
+    culture = german
+    religion =  catholic
+    size = 3173
+  }
+  clergymen = {
+    culture = german
+    religion = secularism
+    size = 5177
+  }
+  farmers = {
+    culture = german
+    religion =  catholic
+    size = 76152
+  }
+  farmers = {
+    culture = german
+    religion = secularism
+    size = 124248
+  }
 }
 #Karlsruhe - Baden-Württemberg (1142000/285500 POPS)
 586 = {
-	clergymen = {
-		culture = german
-		religion =  catholic 
-		size = 4339
-	 } 
-	clergymen = {
-		culture = german
-		religion = secularism
-		size = 7080
-	 } 
-	farmers = {
-		culture = german
-		religion =  catholic 
-		size = 104150
-	 } 
-	farmers = {
-		culture = german
-		religion = secularism
-		size = 169929
-	 } 
+  clergymen = {
+    culture = german
+    religion =  catholic
+    size = 4339
+  }
+  clergymen = {
+    culture = german
+    religion = secularism
+    size = 7080
+  }
+  farmers = {
+    culture = german
+    religion =  catholic
+    size = 104150
+  }
+  farmers = {
+    culture = german
+    religion = secularism
+    size = 169929
+  }
 }
 #Freiburg - Baden-Württemberg (1142000/285500 POPS)
 587 = {
-	clergymen = {
-		culture = german
-		religion =  catholic 
-		size = 4339
-	 } 
-	clergymen = {
-		culture = german
-		religion = secularism
-		size = 7080
-	 } 
-	farmers = {
-		culture = german
-		religion =  catholic 
-		size = 104150
-	 } 
-	farmers = {
-		culture = german
-		religion = secularism
-		size = 169929
-	 } 
+  clergymen = {
+    culture = german
+    religion =  catholic
+    size = 4339
+  }
+  clergymen = {
+    culture = german
+    religion = secularism
+    size = 7080
+  }
+  farmers = {
+    culture = german
+    religion =  catholic
+    size = 104150
+  }
+  farmers = {
+    culture = german
+    religion = secularism
+    size = 169929
+  }
 }
 #Konstanz - Baden-Württemberg (1142000/285500 POPS)
 588 = {
-	clergymen = {
-		culture = german
-		religion =  catholic 
-		size = 4339
-	 } 
-	clergymen = {
-		culture = german
-		religion = secularism
-		size = 7080
-	 } 
-	farmers = {
-		culture = german
-		religion =  catholic 
-		size = 104150
-	 } 
-	farmers = {
-		culture = german
-		religion = secularism
-		size = 169929
-	 } 
+  clergymen = {
+    culture = german
+    religion =  catholic
+    size = 4339
+  }
+  clergymen = {
+    culture = german
+    religion = secularism
+    size = 7080
+  }
+  farmers = {
+    culture = german
+    religion =  catholic
+    size = 104150
+  }
+  farmers = {
+    culture = german
+    religion = secularism
+    size = 169929
+  }
 }
 #Stuttgart - Baden-Württemberg (1142000/285500 POPS)
 589 = {
-	officers = {
-		culture = german
-		religion =  catholic 
-		size = 2409
-	 } 
-	officers = {
-		culture = german
-		religion = secularism
-		size = 3931
-	 } 
-	soldiers = {
-		culture = german
-		religion =  catholic 
-		size = 45785
-	 } 
-	soldiers = {
-		culture = german
-		religion = secularism
-		size = 74702
-	 } 
-	aristocrats = {
-		culture = german
-		religion =  catholic 
-		size = 2169
-	 } 
-	aristocrats = {
-		culture = german
-		religion = secularism
-		size = 3540
-	 } 
-	bureaucrats = {
-		culture = german
-		religion =  catholic 
-		size = 650
-	 } 
-	bureaucrats = {
-		culture = german
-		religion = secularism
-		size = 1062
-	 } 
-	capitalists = {
-		culture = german
-		religion =  catholic 
-		size = 650
-	 } 
-	capitalists = {
-		culture = german
-		religion = secularism
-		size = 1062
-	 } 
-	clergymen = {
-		culture = german
-		religion =  catholic 
-		size = 4339
-	 } 
-	clergymen = {
-		culture = german
-		religion = secularism
-		size = 7080
-	 } 
-	clerks = {
-		culture = german
-		religion =  catholic 
-		size = 1653
-	 } 
-	clerks = {
-		culture = german
-		religion = secularism
-		size = 2698
-	 } 
-	artisans = {
-		culture = german
-		religion =  catholic 
-		size = 1405
-	 } 
-	artisans = {
-		culture = german
-		religion = secularism
-		size = 2293
-	 } 
-	craftsmen = {
-		culture = german
-		religion =  catholic 
-		size = 5044
-	 } 
-	craftsmen = {
-		culture = german
-		religion = secularism
-		size = 8230
-	 } 
-	farmers = {
-		culture = german
-		religion =  catholic 
-		size = 44379
-	 } 
-	farmers = {
-		culture = german
-		religion = secularism
-		size = 72409
-	 } 
+  officers = {
+    culture = german
+    religion =  catholic
+    size = 2409
+  }
+  officers = {
+    culture = german
+    religion = secularism
+    size = 3931
+  }
+  soldiers = {
+    culture = german
+    religion =  catholic
+    size = 45785
+  }
+  soldiers = {
+    culture = german
+    religion = secularism
+    size = 74702
+  }
+  aristocrats = {
+    culture = german
+    religion =  catholic
+    size = 2169
+  }
+  aristocrats = {
+    culture = german
+    religion = secularism
+    size = 3540
+  }
+  bureaucrats = {
+    culture = german
+    religion =  catholic
+    size = 650
+  }
+  bureaucrats = {
+    culture = german
+    religion = secularism
+    size = 1062
+  }
+  capitalists = {
+    culture = german
+    religion =  catholic
+    size = 650
+  }
+  capitalists = {
+    culture = german
+    religion = secularism
+    size = 1062
+  }
+  clergymen = {
+    culture = german
+    religion =  catholic
+    size = 4339
+  }
+  clergymen = {
+    culture = german
+    religion = secularism
+    size = 7080
+  }
+  clerks = {
+    culture = german
+    religion =  catholic
+    size = 1653
+  }
+  clerks = {
+    culture = german
+    religion = secularism
+    size = 2698
+  }
+  artisans = {
+    culture = german
+    religion =  catholic
+    size = 1405
+  }
+  artisans = {
+    culture = german
+    religion = secularism
+    size = 2293
+  }
+  craftsmen = {
+    culture = german
+    religion =  catholic
+    size = 5044
+  }
+  craftsmen = {
+    culture = german
+    religion = secularism
+    size = 8230
+  }
+  farmers = {
+    culture = german
+    religion =  catholic
+    size = 44379
+  }
+  farmers = {
+    culture = german
+    religion = secularism
+    size = 72409
+  }
 }
 #Heilbronn - Baden-Württemberg (1142000/285500 POPS)
 590 = {
-	clergymen = {
-		culture = german
-		religion =  catholic 
-		size = 4339
-	 } 
-	clergymen = {
-		culture = german
-		religion = secularism
-		size = 7080
-	 } 
-	farmers = {
-		culture = german
-		religion =  catholic 
-		size = 104150
-	 } 
-	farmers = {
-		culture = german
-		religion = secularism
-		size = 169929
-	 } 
+  clergymen = {
+    culture = german
+    religion =  catholic
+    size = 4339
+  }
+  clergymen = {
+    culture = german
+    religion = secularism
+    size = 7080
+  }
+  farmers = {
+    culture = german
+    religion =  catholic
+    size = 104150
+  }
+  farmers = {
+    culture = german
+    religion = secularism
+    size = 169929
+  }
 }
 #Tubingen - Baden-Württemberg (1142000/285500 POPS)
 591 = {
-	clergymen = {
-		culture = german
-		religion =  catholic 
-		size = 4339
-	 } 
-	clergymen = {
-		culture = german
-		religion = secularism
-		size = 7080
-	 } 
-	farmers = {
-		culture = german
-		religion =  catholic 
-		size = 104150
-	 } 
-	farmers = {
-		culture = german
-		religion = secularism
-		size = 169929
-	 } 
+  clergymen = {
+    culture = german
+    religion =  catholic
+    size = 4339
+  }
+  clergymen = {
+    culture = german
+    religion = secularism
+    size = 7080
+  }
+  farmers = {
+    culture = german
+    religion =  catholic
+    size = 104150
+  }
+  farmers = {
+    culture = german
+    religion = secularism
+    size = 169929
+  }
 }
 #Augsburg - Bavaria (691000/172750 POPS)
 592 = {
-	clergymen = {
-		culture = german
-		religion =  catholic 
-		size = 2625
-	 } 
-	clergymen = {
-		culture = german
-		religion = secularism
-		size = 4284
-	 } 
-	farmers = {
-		culture = german
-		religion =  catholic 
-		size = 63019
-	 } 
-	farmers = {
-		culture = german
-		religion = secularism
-		size = 102820
-	 } 
+  clergymen = {
+    culture = german
+    religion =  catholic
+    size = 2625
+  }
+  clergymen = {
+    culture = german
+    religion = secularism
+    size = 4284
+  }
+  farmers = {
+    culture = german
+    religion =  catholic
+    size = 63019
+  }
+  farmers = {
+    culture = german
+    religion = secularism
+    size = 102820
+  }
 }
 #Ulm - Baden-Württemberg (1142000/285500 POPS)
 593 = {
-	clergymen = {
-		culture = german
-		religion =  catholic 
-		size = 4339
-	 } 
-	clergymen = {
-		culture = german
-		religion = secularism
-		size = 7080
-	 } 
-	farmers = {
-		culture = german
-		religion =  catholic 
-		size = 104150
-	 } 
-	farmers = {
-		culture = german
-		religion = secularism
-		size = 169929
-	 } 
+  clergymen = {
+    culture = german
+    religion =  catholic
+    size = 4339
+  }
+  clergymen = {
+    culture = german
+    religion = secularism
+    size = 7080
+  }
+  farmers = {
+    culture = german
+    religion =  catholic
+    size = 104150
+  }
+  farmers = {
+    culture = german
+    religion = secularism
+    size = 169929
+  }
 }
 #Sigmaringen - Baden-Württemberg (1142000/285500 POPS)
 594 = {
-	clergymen = {
-		culture = german
-		religion =  catholic 
-		size = 4339
-	 } 
-	clergymen = {
-		culture = german
-		religion = secularism
-		size = 7080
-	 } 
-	farmers = {
-		culture = german
-		religion =  catholic 
-		size = 104150
-	 } 
-	farmers = {
-		culture = german
-		religion = secularism
-		size = 169929
-	 } 
+  clergymen = {
+    culture = german
+    religion =  catholic
+    size = 4339
+  }
+  clergymen = {
+    culture = german
+    religion = secularism
+    size = 7080
+  }
+  farmers = {
+    culture = german
+    religion =  catholic
+    size = 104150
+  }
+  farmers = {
+    culture = german
+    religion = secularism
+    size = 169929
+  }
 }
 #Nuremburg - Bavaria (4107000/1026750 POPS)
 595 = {
-	clergymen = {
-		culture = german
-		religion =  catholic 
-		size = 15606
-	 } 
-	clergymen = {
-		culture = german
-		religion = secularism
-		size = 25463
-	 } 
-	farmers = {
-		culture = german
-		religion =  catholic 
-		size = 211078
-	 } 
-	farmers = {
-		culture = german
-		religion = secularism
-		size = 344392
-	 } 
-	farmers = {
-		culture = european
-		religion =  protestant 
-		size = 54623
-	 } 
-	farmers = {
-		culture = european
-		religion = secularism
-		size = 89121
-	 } 
-	farmers = {
-		culture = indian
-		religion =  hindu 
-		size = 1950
-	 } 
-	farmers = {
-		culture = indian
-		religion = secularism
-		size = 3182
-	 } 
-	farmers = {
-		culture = anglo_african
-		religion =  protestant 
-		size = 8973
-	 } 
-	farmers = {
-		culture = anglo_african
-		religion = secularism
-		size = 14641
-	 } 
-	farmers = {
-		culture = roma
-		religion =  orthodox 
-		size = 1170
-	 } 
-	farmers = {
-		culture = roma
-		religion = secularism
-		size = 1909
-	 } 
-	farmers = {
-		culture = turkish
-		religion =  sunni 
-		size = 63658
-	 } 
-	farmers = {
-		culture = kurdish
-		religion =  sunni 
-		size = 34909
-	 } 
-	farmers = {
-		culture = serb
-		religion =  orthodox 
-		size = 10144
-	 } 
-	farmers = {
-		culture = serb
-		religion = secularism
-		size = 16550
-	 } 
-	farmers = {
-		culture = greek
-		religion =  orthodox 
-		size = 6242
-	 } 
-	farmers = {
-		culture = greek
-		religion = secularism
-		size = 10185
-	 } 
-	farmers = {
-		culture = polish
-		religion =  catholic 
-		size = 19508
-	 } 
-	farmers = {
-		culture = polish
-		religion = secularism
-		size = 31828
-	 } 
-	farmers = {
-		culture = sunni_arab
-		religion =  sunni 
-		size = 51337
-	 } 
-	farmers = {
-		culture = vietnamese
-		religion =  buddhist 
-		size = 1950
-	 } 
-	farmers = {
-		culture = vietnamese
-		religion = secularism
-		size = 3182
-	 } 
-	farmers = {
-		culture = filipino
-		religion =  catholic 
-		size = 1950
-	 } 
-	farmers = {
-		culture = filipino
-		religion = secularism
-		size = 3182
-	 } 
+  clergymen = {
+    culture = german
+    religion =  catholic
+    size = 15606
+  }
+  clergymen = {
+    culture = german
+    religion = secularism
+    size = 25463
+  }
+  farmers = {
+    culture = german
+    religion =  catholic
+    size = 211078
+  }
+  farmers = {
+    culture = german
+    religion = secularism
+    size = 344392
+  }
+  farmers = {
+    culture = european
+    religion =  protestant
+    size = 54623
+  }
+  farmers = {
+    culture = european
+    religion = secularism
+    size = 89121
+  }
+  farmers = {
+    culture = indian
+    religion =  hindu
+    size = 1950
+  }
+  farmers = {
+    culture = indian
+    religion = secularism
+    size = 3182
+  }
+  farmers = {
+    culture = anglo_african
+    religion =  protestant
+    size = 8973
+  }
+  farmers = {
+    culture = anglo_african
+    religion = secularism
+    size = 14641
+  }
+  farmers = {
+    culture = roma
+    religion =  orthodox
+    size = 1170
+  }
+  farmers = {
+    culture = roma
+    religion = secularism
+    size = 1909
+  }
+  farmers = {
+    culture = turkish
+    religion =  sunni
+    size = 63658
+  }
+  farmers = {
+    culture = kurdish
+    religion =  sunni
+    size = 34909
+  }
+  farmers = {
+    culture = serb
+    religion =  orthodox
+    size = 10144
+  }
+  farmers = {
+    culture = serb
+    religion = secularism
+    size = 16550
+  }
+  farmers = {
+    culture = greek
+    religion =  orthodox
+    size = 6242
+  }
+  farmers = {
+    culture = greek
+    religion = secularism
+    size = 10185
+  }
+  farmers = {
+    culture = polish
+    religion =  catholic
+    size = 19508
+  }
+  farmers = {
+    culture = polish
+    religion = secularism
+    size = 31828
+  }
+  farmers = {
+    culture = sunni_arab
+    religion =  sunni
+    size = 51337
+  }
+  farmers = {
+    culture = vietnamese
+    religion =  buddhist
+    size = 1950
+  }
+  farmers = {
+    culture = vietnamese
+    religion = secularism
+    size = 3182
+  }
+  farmers = {
+    culture = filipino
+    religion =  catholic
+    size = 1950
+  }
+  farmers = {
+    culture = filipino
+    religion = secularism
+    size = 3182
+  }
 }
 #Aschaffenburg - Bavaria (691000/172750 POPS)
 596 = {
-	clergymen = {
-		culture = german
-		religion =  catholic 
-		size = 2625
-	 } 
-	clergymen = {
-		culture = german
-		religion = secularism
-		size = 4284
-	 } 
-	farmers = {
-		culture = german
-		religion =  catholic 
-		size = 63019
-	 } 
-	farmers = {
-		culture = german
-		religion = secularism
-		size = 102820
-	 } 
+  clergymen = {
+    culture = german
+    religion =  catholic
+    size = 2625
+  }
+  clergymen = {
+    culture = german
+    religion = secularism
+    size = 4284
+  }
+  farmers = {
+    culture = german
+    religion =  catholic
+    size = 63019
+  }
+  farmers = {
+    culture = german
+    religion = secularism
+    size = 102820
+  }
 }
 #Wurzburg - Bavaria (691000/172750 POPS)
 597 = {
-	clergymen = {
-		culture = german
-		religion =  catholic 
-		size = 2625
-	 } 
-	clergymen = {
-		culture = german
-		religion = secularism
-		size = 4284
-	 } 
-	farmers = {
-		culture = german
-		religion =  catholic 
-		size = 63019
-	 } 
-	farmers = {
-		culture = german
-		religion = secularism
-		size = 102820
-	 } 
+  clergymen = {
+    culture = german
+    religion =  catholic
+    size = 2625
+  }
+  clergymen = {
+    culture = german
+    religion = secularism
+    size = 4284
+  }
+  farmers = {
+    culture = german
+    religion =  catholic
+    size = 63019
+  }
+  farmers = {
+    culture = german
+    religion = secularism
+    size = 102820
+  }
 }
 #Bayreuth - Bavaria (691000/172750 POPS)
 598 = {
-	clergymen = {
-		culture = german
-		religion =  catholic 
-		size = 2625
-	 } 
-	clergymen = {
-		culture = german
-		religion = secularism
-		size = 4284
-	 } 
-	farmers = {
-		culture = german
-		religion =  catholic 
-		size = 63019
-	 } 
-	farmers = {
-		culture = german
-		religion = secularism
-		size = 102820
-	 } 
+  clergymen = {
+    culture = german
+    religion =  catholic
+    size = 2625
+  }
+  clergymen = {
+    culture = german
+    religion = secularism
+    size = 4284
+  }
+  farmers = {
+    culture = german
+    religion =  catholic
+    size = 63019
+  }
+  farmers = {
+    culture = german
+    religion = secularism
+    size = 102820
+  }
 }
 #Munich - Bavaria (3228000/807000 POPS)
 599 = {
-	officers = {
-		culture = german
-		religion =  catholic 
-		size = 2881
-	 } 
-	officers = {
-		culture = german
-		religion = secularism
-		size = 4701
-	 } 
-	soldiers = {
-		culture = german
-		religion =  catholic 
-		size = 54753
-	 } 
-	soldiers = {
-		culture = german
-		religion = secularism
-		size = 89335
-	 } 
-	aristocrats = {
-		culture = german
-		religion =  catholic 
-		size = 6133
-	 } 
-	aristocrats = {
-		culture = german
-		religion = secularism
-		size = 10006
-	 } 
-	bureaucrats = {
-		culture = german
-		religion =  catholic 
-		size = 1839
-	 } 
-	bureaucrats = {
-		culture = german
-		religion = secularism
-		size = 3002
-	 } 
-	capitalists = {
-		culture = german
-		religion =  catholic 
-		size = 1839
-	 } 
-	capitalists = {
-		culture = german
-		religion = secularism
-		size = 3002
-	 } 
-	clergymen = {
-		culture = german
-		religion =  catholic 
-		size = 12266
-	 } 
-	clergymen = {
-		culture = german
-		religion = secularism
-		size = 20013
-	 } 
-	clerks = {
-		culture = german
-		religion =  catholic 
-		size = 6830
-	 } 
-	clerks = {
-		culture = german
-		religion = secularism
-		size = 11145
-	 } 
-	artisans = {
-		culture = german
-		religion =  catholic 
-		size = 5806
-	 } 
-	artisans = {
-		culture = german
-		religion = secularism
-		size = 9473
-	 } 
-	craftsmen = {
-		culture = german
-		religion =  catholic 
-		size = 20835
-	 } 
-	craftsmen = {
-		culture = german
-		religion = secularism
-		size = 33993
-	 } 
-	farmers = {
-		culture = german
-		religion =  catholic 
-		size = 64981
-	 } 
-	farmers = {
-		culture = german
-		religion = secularism
-		size = 106023
-	 } 
-	farmers = {
-		culture = european
-		religion =  protestant 
-		size = 42932
-	 } 
-	farmers = {
-		culture = european
-		religion = secularism
-		size = 70047
-	 } 
-	farmers = {
-		culture = indian
-		religion =  hindu 
-		size = 1533
-	 } 
-	farmers = {
-		culture = indian
-		religion = secularism
-		size = 2501
-	 } 
-	farmers = {
-		culture = anglo_african
-		religion =  protestant 
-		size = 7053
-	 } 
-	farmers = {
-		culture = anglo_african
-		religion = secularism
-		size = 11507
-	 } 
-	farmers = {
-		culture = roma
-		religion =  orthodox 
-		size = 919
-	 } 
-	farmers = {
-		culture = roma
-		religion = secularism
-		size = 1501
-	 } 
-	farmers = {
-		culture = turkish
-		religion =  sunni 
-		size = 50034
-	 } 
-	farmers = {
-		culture = kurdish
-		religion =  sunni 
-		size = 27438
-	 } 
-	farmers = {
-		culture = serb
-		religion =  orthodox 
-		size = 7973
-	 } 
-	farmers = {
-		culture = serb
-		religion = secularism
-		size = 13008
-	 } 
-	farmers = {
-		culture = greek
-		religion =  orthodox 
-		size = 4906
-	 } 
-	farmers = {
-		culture = greek
-		religion = secularism
-		size = 8005
-	 } 
-	farmers = {
-		culture = polish
-		religion =  catholic 
-		size = 15333
-	 } 
-	farmers = {
-		culture = polish
-		religion = secularism
-		size = 25017
-	 } 
-	farmers = {
-		culture = sunni_arab
-		religion =  sunni 
-		size = 40350
-	 } 
-	farmers = {
-		culture = vietnamese
-		religion =  buddhist 
-		size = 1533
-	 } 
-	farmers = {
-		culture = vietnamese
-		religion = secularism
-		size = 2501
-	 } 
-	farmers = {
-		culture = filipino
-		religion =  catholic 
-		size = 1533
-	 } 
-	farmers = {
-		culture = filipino
-		religion = secularism
-		size = 2501
-	 } 
+  officers = {
+    culture = german
+    religion =  catholic
+    size = 2881
+  }
+  officers = {
+    culture = german
+    religion = secularism
+    size = 4701
+  }
+  soldiers = {
+    culture = german
+    religion =  catholic
+    size = 54753
+  }
+  soldiers = {
+    culture = german
+    religion = secularism
+    size = 89335
+  }
+  aristocrats = {
+    culture = german
+    religion =  catholic
+    size = 6133
+  }
+  aristocrats = {
+    culture = german
+    religion = secularism
+    size = 10006
+  }
+  bureaucrats = {
+    culture = german
+    religion =  catholic
+    size = 1839
+  }
+  bureaucrats = {
+    culture = german
+    religion = secularism
+    size = 3002
+  }
+  capitalists = {
+    culture = german
+    religion =  catholic
+    size = 1839
+  }
+  capitalists = {
+    culture = german
+    religion = secularism
+    size = 3002
+  }
+  clergymen = {
+    culture = german
+    religion =  catholic
+    size = 12266
+  }
+  clergymen = {
+    culture = german
+    religion = secularism
+    size = 20013
+  }
+  clerks = {
+    culture = german
+    religion =  catholic
+    size = 6830
+  }
+  clerks = {
+    culture = german
+    religion = secularism
+    size = 11145
+  }
+  artisans = {
+    culture = german
+    religion =  catholic
+    size = 5806
+  }
+  artisans = {
+    culture = german
+    religion = secularism
+    size = 9473
+  }
+  craftsmen = {
+    culture = german
+    religion =  catholic
+    size = 20835
+  }
+  craftsmen = {
+    culture = german
+    religion = secularism
+    size = 33993
+  }
+  farmers = {
+    culture = german
+    religion =  catholic
+    size = 64981
+  }
+  farmers = {
+    culture = german
+    religion = secularism
+    size = 106023
+  }
+  farmers = {
+    culture = european
+    religion =  protestant
+    size = 42932
+  }
+  farmers = {
+    culture = european
+    religion = secularism
+    size = 70047
+  }
+  farmers = {
+    culture = indian
+    religion =  hindu
+    size = 1533
+  }
+  farmers = {
+    culture = indian
+    religion = secularism
+    size = 2501
+  }
+  farmers = {
+    culture = anglo_african
+    religion =  protestant
+    size = 7053
+  }
+  farmers = {
+    culture = anglo_african
+    religion = secularism
+    size = 11507
+  }
+  farmers = {
+    culture = roma
+    religion =  orthodox
+    size = 919
+  }
+  farmers = {
+    culture = roma
+    religion = secularism
+    size = 1501
+  }
+  farmers = {
+    culture = turkish
+    religion =  sunni
+    size = 50034
+  }
+  farmers = {
+    culture = kurdish
+    religion =  sunni
+    size = 27438
+  }
+  farmers = {
+    culture = serb
+    religion =  orthodox
+    size = 7973
+  }
+  farmers = {
+    culture = serb
+    religion = secularism
+    size = 13008
+  }
+  farmers = {
+    culture = greek
+    religion =  orthodox
+    size = 4906
+  }
+  farmers = {
+    culture = greek
+    religion = secularism
+    size = 8005
+  }
+  farmers = {
+    culture = polish
+    religion =  catholic
+    size = 15333
+  }
+  farmers = {
+    culture = polish
+    religion = secularism
+    size = 25017
+  }
+  farmers = {
+    culture = sunni_arab
+    religion =  sunni
+    size = 40350
+  }
+  farmers = {
+    culture = vietnamese
+    religion =  buddhist
+    size = 1533
+  }
+  farmers = {
+    culture = vietnamese
+    religion = secularism
+    size = 2501
+  }
+  farmers = {
+    culture = filipino
+    religion =  catholic
+    size = 1533
+  }
+  farmers = {
+    culture = filipino
+    religion = secularism
+    size = 2501
+  }
 }
 #Landshut - Bavaria (691000/172750 POPS)
 600 = {
-	clergymen = {
-		culture = german
-		religion =  catholic 
-		size = 2625
-	 } 
-	clergymen = {
-		culture = german
-		religion = secularism
-		size = 4284
-	 } 
-	farmers = {
-		culture = german
-		religion =  catholic 
-		size = 63019
-	 } 
-	farmers = {
-		culture = german
-		religion = secularism
-		size = 102820
-	 } 
+  clergymen = {
+    culture = german
+    religion =  catholic
+    size = 2625
+  }
+  clergymen = {
+    culture = german
+    religion = secularism
+    size = 4284
+  }
+  farmers = {
+    culture = german
+    religion =  catholic
+    size = 63019
+  }
+  farmers = {
+    culture = german
+    religion = secularism
+    size = 102820
+  }
 }
 #Ingolstadt - Bavaria (691000/172750 POPS)
 601 = {
-	clergymen = {
-		culture = german
-		religion =  catholic 
-		size = 2625
-	 } 
-	clergymen = {
-		culture = german
-		religion = secularism
-		size = 4284
-	 } 
-	farmers = {
-		culture = german
-		religion =  catholic 
-		size = 63019
-	 } 
-	farmers = {
-		culture = german
-		religion = secularism
-		size = 102820
-	 } 
+  clergymen = {
+    culture = german
+    religion =  catholic
+    size = 2625
+  }
+  clergymen = {
+    culture = german
+    religion = secularism
+    size = 4284
+  }
+  farmers = {
+    culture = german
+    religion =  catholic
+    size = 63019
+  }
+  farmers = {
+    culture = german
+    religion = secularism
+    size = 102820
+  }
 }
 #Regensburg - Bavaria (691000/172750 POPS)
 602 = {
-	clergymen = {
-		culture = german
-		religion =  catholic 
-		size = 2625
-	 } 
-	clergymen = {
-		culture = german
-		religion = secularism
-		size = 4284
-	 } 
-	farmers = {
-		culture = german
-		religion =  catholic 
-		size = 63019
-	 } 
-	farmers = {
-		culture = german
-		religion = secularism
-		size = 102820
-	 } 
+  clergymen = {
+    culture = german
+    religion =  catholic
+    size = 2625
+  }
+  clergymen = {
+    culture = german
+    religion = secularism
+    size = 4284
+  }
+  farmers = {
+    culture = german
+    religion =  catholic
+    size = 63019
+  }
+  farmers = {
+    culture = german
+    religion = secularism
+    size = 102820
+  }
 }
 #Gorlitz - Saxony (984000/246000 POPS)
 687 = {
-	clergymen = {
-		culture = german
-		religion =  catholic 
-		size = 3739
-	 } 
-	clergymen = {
-		culture = german
-		religion = secularism
-		size = 6100
-	 } 
-	farmers = {
-		culture = german
-		religion =  catholic 
-		size = 89740
-	 } 
-	farmers = {
-		culture = german
-		religion = secularism
-		size = 146419
-	 } 
+  clergymen = {
+    culture = german
+    religion =  catholic
+    size = 3739
+  }
+  clergymen = {
+    culture = german
+    religion = secularism
+    size = 6100
+  }
+  farmers = {
+    culture = german
+    religion =  catholic
+    size = 89740
+  }
+  farmers = {
+    culture = german
+    religion = secularism
+    size = 146419
+  }
 }

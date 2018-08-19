@@ -7,9 +7,9 @@ life_rating = 27
 terrain = farmlands
 colonial = 0
 1992.1.1 = {
-owner = MDA
-controller = MDA
-add_core = MDA
-add_core = GAG
-colonial = 0
+  owner = MDA
+  controller = MDA
+  add_core = MDA
+  add_core = GAG
+  colonial = 0
 }

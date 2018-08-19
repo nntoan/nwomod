@@ -6,18 +6,18 @@ life_rating = 39
 terrain = urban_tehran
 colonial = 0
 1992.1.1 = {
-owner = IRN
-controller = IRN
-add_core = IRN
-colonial = 0
-state_building = {
-	level = 3
-	building = clothes_factory
-	upgrade = yes
-}
-state_building = {
-	level = 3
-	building = fabric_factory
-	upgrade = yes
-}
+  owner = IRN
+  controller = IRN
+  add_core = IRN
+  colonial = 0
+  state_building = {
+    level = 3
+    building = clothes_factory
+    upgrade = yes
+  }
+  state_building = {
+    level = 3
+    building = fabric_factory
+    upgrade = yes
+  }
 }

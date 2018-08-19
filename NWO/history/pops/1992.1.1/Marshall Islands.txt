@@ -1,23 +1,23 @@
 #Marshall Islands - Marshall Islands (46000/11500 POPS)
 2522 = {
-	clergymen = {
-		culture = micronesian
-		religion =  protestant 
-		size = 197
-	 } 
-	clergymen = {
-		culture = micronesian
-		religion = secularism
-		size = 32
-	 } 
-	farmers = {
-		culture = micronesian
-		religion =  protestant 
-		size = 9692
-	 } 
-	farmers = {
-		culture = micronesian
-		religion = secularism
-		size = 1577
-	 } 
+  clergymen = {
+    culture = micronesian
+    religion =  protestant
+    size = 197
+  }
+  clergymen = {
+    culture = micronesian
+    religion = secularism
+    size = 32
+  }
+  farmers = {
+    culture = micronesian
+    religion =  protestant
+    size = 9692
+  }
+  farmers = {
+    culture = micronesian
+    religion = secularism
+    size = 1577
+  }
 }

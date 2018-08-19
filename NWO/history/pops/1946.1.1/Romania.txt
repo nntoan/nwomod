@@ -1,1305 +1,1305 @@
 #Targu Mures - Targu Mures (459000/114750 POPS)
 2533 = {
-	officers = {
-		culture = romanian
-		religion =  orthodox 
-		size = 411
-	 } 
-	officers = {
-		culture = romanian
-		religion = secularism
-		size = 18
-	 } 
-	soldiers = {
-		culture = romanian
-		religion =  orthodox 
-		size = 7835
-	 } 
-	soldiers = {
-		culture = romanian
-		religion = secularism
-		size = 347
-	 } 
-	aristocrats = {
-		culture = romanian
-		religion =  orthodox 
-		size = 4394
-	 } 
-	aristocrats = {
-		culture = romanian
-		religion = secularism
-		size = 195
-	 } 
-	bureaucrats = {
-		culture = romanian
-		religion =  orthodox 
-		size = 219
-	 } 
-	bureaucrats = {
-		culture = romanian
-		religion = secularism
-		size = 9
-	 } 
-	capitalists = {
-		culture = romanian
-		religion =  orthodox 
-		size = 548
-	 } 
-	capitalists = {
-		culture = romanian
-		religion = secularism
-		size = 24
-	 } 
-	clergymen = {
-		culture = romanian
-		religion =  orthodox 
-		size = 2197
-	 } 
-	clergymen = {
-		culture = romanian
-		religion = secularism
-		size = 97
-	 } 
-	clerks = {
-		culture = romanian
-		religion =  orthodox 
-		size = 1288
-	 } 
-	clerks = {
-		culture = romanian
-		religion = secularism
-		size = 57
-	 } 
-	artisans = {
-		culture = romanian
-		religion =  orthodox 
-		size = 1224
-	 } 
-	artisans = {
-		culture = romanian
-		religion = secularism
-		size = 54
-	 } 
-	craftsmen = {
-		culture = romanian
-		religion =  orthodox 
-		size = 3868
-	 } 
-	craftsmen = {
-		culture = romanian
-		religion = secularism
-		size = 171
-	 } 
-	farmers = {
-		culture = romanian
-		religion =  orthodox 
-		size = 13170
-	 } 
-	farmers = {
-		culture = romanian
-		religion = secularism
-		size = 584
-	 } 
-	farmers = {
-		culture = hungarian
-		religion =  catholic 
-		size = 43949
-	 } 
-	farmers = {
-		culture = hungarian
-		religion = secularism
-		size = 1950
-	 } 
-	farmers = {
-		culture = roma
-		religion =  orthodox 
-		size = 29665
-	 } 
-	farmers = {
-		culture = roma
-		religion = secularism
-		size = 1316
-	 } 
-	farmers = {
-		culture = german
-		religion =  catholic 
-		size = 1098
-	 } 
-	farmers = {
-		culture = german
-		religion = secularism
-		size = 48
-	 } 
+  officers = {
+    culture = romanian
+    religion =  orthodox
+    size = 411
+  }
+  officers = {
+    culture = romanian
+    religion = secularism
+    size = 18
+  }
+  soldiers = {
+    culture = romanian
+    religion =  orthodox
+    size = 7835
+  }
+  soldiers = {
+    culture = romanian
+    religion = secularism
+    size = 347
+  }
+  aristocrats = {
+    culture = romanian
+    religion =  orthodox
+    size = 4394
+  }
+  aristocrats = {
+    culture = romanian
+    religion = secularism
+    size = 195
+  }
+  bureaucrats = {
+    culture = romanian
+    religion =  orthodox
+    size = 219
+  }
+  bureaucrats = {
+    culture = romanian
+    religion = secularism
+    size = 9
+  }
+  capitalists = {
+    culture = romanian
+    religion =  orthodox
+    size = 548
+  }
+  capitalists = {
+    culture = romanian
+    religion = secularism
+    size = 24
+  }
+  clergymen = {
+    culture = romanian
+    religion =  orthodox
+    size = 2197
+  }
+  clergymen = {
+    culture = romanian
+    religion = secularism
+    size = 97
+  }
+  clerks = {
+    culture = romanian
+    religion =  orthodox
+    size = 1288
+  }
+  clerks = {
+    culture = romanian
+    religion = secularism
+    size = 57
+  }
+  artisans = {
+    culture = romanian
+    religion =  orthodox
+    size = 1224
+  }
+  artisans = {
+    culture = romanian
+    religion = secularism
+    size = 54
+  }
+  craftsmen = {
+    culture = romanian
+    religion =  orthodox
+    size = 3868
+  }
+  craftsmen = {
+    culture = romanian
+    religion = secularism
+    size = 171
+  }
+  farmers = {
+    culture = romanian
+    religion =  orthodox
+    size = 13170
+  }
+  farmers = {
+    culture = romanian
+    religion = secularism
+    size = 584
+  }
+  farmers = {
+    culture = hungarian
+    religion =  catholic
+    size = 43949
+  }
+  farmers = {
+    culture = hungarian
+    religion = secularism
+    size = 1950
+  }
+  farmers = {
+    culture = roma
+    religion =  orthodox
+    size = 29665
+  }
+  farmers = {
+    culture = roma
+    religion = secularism
+    size = 1316
+  }
+  farmers = {
+    culture = german
+    religion =  catholic
+    size = 1098
+  }
+  farmers = {
+    culture = german
+    religion = secularism
+    size = 48
+  }
 }
 #Oradea - Oradea (480000/120000 POPS)
 647 = {
-	clergymen = {
-		culture = romanian
-		religion =  orthodox 
-		size = 2298
-	 } 
-	clergymen = {
-		culture = romanian
-		religion = secularism
-		size = 102
-	 } 
-	farmers = {
-		culture = romanian
-		religion =  orthodox 
-		size = 58599
-	 } 
-	farmers = {
-		culture = romanian
-		religion = secularism
-		size = 2601
-	 } 
-	farmers = {
-		culture = hungarian
-		religion =  catholic 
-		size = 29874
-	 } 
-	farmers = {
-		culture = hungarian
-		religion = secularism
-		size = 1326
-	 } 
-	farmers = {
-		culture = roma
-		religion =  orthodox 
-		size = 22980
-	 } 
-	farmers = {
-		culture = roma
-		religion = secularism
-		size = 1020
-	 } 
-	farmers = {
-		culture = german
-		religion =  catholic 
-		size = 1149
-	 } 
-	farmers = {
-		culture = german
-		religion = secularism
-		size = 51
-	 } 
+  clergymen = {
+    culture = romanian
+    religion =  orthodox
+    size = 2298
+  }
+  clergymen = {
+    culture = romanian
+    religion = secularism
+    size = 102
+  }
+  farmers = {
+    culture = romanian
+    religion =  orthodox
+    size = 58599
+  }
+  farmers = {
+    culture = romanian
+    religion = secularism
+    size = 2601
+  }
+  farmers = {
+    culture = hungarian
+    religion =  catholic
+    size = 29874
+  }
+  farmers = {
+    culture = hungarian
+    religion = secularism
+    size = 1326
+  }
+  farmers = {
+    culture = roma
+    religion =  orthodox
+    size = 22980
+  }
+  farmers = {
+    culture = roma
+    religion = secularism
+    size = 1020
+  }
+  farmers = {
+    culture = german
+    religion =  catholic
+    size = 1149
+  }
+  farmers = {
+    culture = german
+    religion = secularism
+    size = 51
+  }
 }
 #Szatmar - Szatmar (306000/76500 POPS)
 651 = {
-	clergymen = {
-		culture = romanian
-		religion =  orthodox 
-		size = 1464
-	 } 
-	clergymen = {
-		culture = romanian
-		religion = secularism
-		size = 65
-	 } 
-	farmers = {
-		culture = romanian
-		religion =  orthodox 
-		size = 31496
-	 } 
-	farmers = {
-		culture = romanian
-		religion = secularism
-		size = 1398
-	 } 
-	farmers = {
-		culture = jewish
-		religion =  jewish 
-		size = 2929
-	 } 
-	farmers = {
-		culture = jewish
-		religion = secularism
-		size = 130
-	 } 
-	farmers = {
-		culture = hungarian
-		religion =  catholic 
-		size = 25637
-	 } 
-	farmers = {
-		culture = hungarian
-		religion = secularism
-		size = 1137
-	 } 
-	farmers = {
-		culture = german
-		religion =  catholic 
-		size = 1464
-	 } 
-	farmers = {
-		culture = german
-		religion = secularism
-		size = 65
-	 } 
-	farmers = {
-		culture = roma
-		religion =  orthodox 
-		size = 10254
-	 } 
-	farmers = {
-		culture = roma
-		religion = secularism
-		size = 455
-	 } 
+  clergymen = {
+    culture = romanian
+    religion =  orthodox
+    size = 1464
+  }
+  clergymen = {
+    culture = romanian
+    religion = secularism
+    size = 65
+  }
+  farmers = {
+    culture = romanian
+    religion =  orthodox
+    size = 31496
+  }
+  farmers = {
+    culture = romanian
+    religion = secularism
+    size = 1398
+  }
+  farmers = {
+    culture = jewish
+    religion =  jewish
+    size = 2929
+  }
+  farmers = {
+    culture = jewish
+    religion = secularism
+    size = 130
+  }
+  farmers = {
+    culture = hungarian
+    religion =  catholic
+    size = 25637
+  }
+  farmers = {
+    culture = hungarian
+    religion = secularism
+    size = 1137
+  }
+  farmers = {
+    culture = german
+    religion =  catholic
+    size = 1464
+  }
+  farmers = {
+    culture = german
+    religion = secularism
+    size = 65
+  }
+  farmers = {
+    culture = roma
+    religion =  orthodox
+    size = 10254
+  }
+  farmers = {
+    culture = roma
+    religion = secularism
+    size = 455
+  }
 }
 #Temesvar - Temesvar (912000/228000 POPS)
 652 = {
-	clergymen = {
-		culture = romanian
-		religion =  orthodox 
-		size = 4366
-	 } 
-	clergymen = {
-		culture = romanian
-		religion = secularism
-		size = 193
-	 } 
-	farmers = {
-		culture = romanian
-		religion =  orthodox 
-		size = 152817
-	 } 
-	farmers = {
-		culture = romanian
-		religion = secularism
-		size = 6783
-	 } 
-	farmers = {
-		culture = roma
-		religion =  orthodox 
-		size = 10915
-	 } 
-	farmers = {
-		culture = roma
-		religion = secularism
-		size = 484
-	 } 
-	farmers = {
-		culture = german
-		religion =  catholic 
-		size = 17464
-	 } 
-	farmers = {
-		culture = german
-		religion = secularism
-		size = 775
-	 } 
-	farmers = {
-		culture = hungarian
-		religion =  catholic 
-		size = 21831
-	 } 
-	farmers = {
-		culture = hungarian
-		religion = secularism
-		size = 969
-	 } 
-	farmers = {
-		culture = serb
-		religion =  orthodox 
-		size = 10915
-	 } 
-	farmers = {
-		culture = serb
-		religion = secularism
-		size = 484
-	 } 
+  clergymen = {
+    culture = romanian
+    religion =  orthodox
+    size = 4366
+  }
+  clergymen = {
+    culture = romanian
+    religion = secularism
+    size = 193
+  }
+  farmers = {
+    culture = romanian
+    religion =  orthodox
+    size = 152817
+  }
+  farmers = {
+    culture = romanian
+    religion = secularism
+    size = 6783
+  }
+  farmers = {
+    culture = roma
+    religion =  orthodox
+    size = 10915
+  }
+  farmers = {
+    culture = roma
+    religion = secularism
+    size = 484
+  }
+  farmers = {
+    culture = german
+    religion =  catholic
+    size = 17464
+  }
+  farmers = {
+    culture = german
+    religion = secularism
+    size = 775
+  }
+  farmers = {
+    culture = hungarian
+    religion =  catholic
+    size = 21831
+  }
+  farmers = {
+    culture = hungarian
+    religion = secularism
+    size = 969
+  }
+  farmers = {
+    culture = serb
+    religion =  orthodox
+    size = 10915
+  }
+  farmers = {
+    culture = serb
+    religion = secularism
+    size = 484
+  }
 }
 #Resita - Resita (229000/57250 POPS)
 653 = {
-	clergymen = {
-		culture = romanian
-		religion =  orthodox 
-		size = 1096
-	 } 
-	clergymen = {
-		culture = romanian
-		religion = secularism
-		size = 48
-	 } 
-	farmers = {
-		culture = romanian
-		religion =  orthodox 
-		size = 38371
-	 } 
-	farmers = {
-		culture = romanian
-		religion = secularism
-		size = 1703
-	 } 
-	farmers = {
-		culture = roma
-		religion =  orthodox 
-		size = 2740
-	 } 
-	farmers = {
-		culture = roma
-		religion = secularism
-		size = 121
-	 } 
-	farmers = {
-		culture = german
-		religion =  catholic 
-		size = 4385
-	 } 
-	farmers = {
-		culture = german
-		religion = secularism
-		size = 194
-	 } 
-	farmers = {
-		culture = hungarian
-		religion =  catholic 
-		size = 5481
-	 } 
-	farmers = {
-		culture = hungarian
-		religion = secularism
-		size = 243
-	 } 
-	farmers = {
-		culture = serb
-		religion =  orthodox 
-		size = 2740
-	 } 
-	farmers = {
-		culture = serb
-		religion = secularism
-		size = 121
-	 } 
+  clergymen = {
+    culture = romanian
+    religion =  orthodox
+    size = 1096
+  }
+  clergymen = {
+    culture = romanian
+    religion = secularism
+    size = 48
+  }
+  farmers = {
+    culture = romanian
+    religion =  orthodox
+    size = 38371
+  }
+  farmers = {
+    culture = romanian
+    religion = secularism
+    size = 1703
+  }
+  farmers = {
+    culture = roma
+    religion =  orthodox
+    size = 2740
+  }
+  farmers = {
+    culture = roma
+    religion = secularism
+    size = 121
+  }
+  farmers = {
+    culture = german
+    religion =  catholic
+    size = 4385
+  }
+  farmers = {
+    culture = german
+    religion = secularism
+    size = 194
+  }
+  farmers = {
+    culture = hungarian
+    religion =  catholic
+    size = 5481
+  }
+  farmers = {
+    culture = hungarian
+    religion = secularism
+    size = 243
+  }
+  farmers = {
+    culture = serb
+    religion =  orthodox
+    size = 2740
+  }
+  farmers = {
+    culture = serb
+    religion = secularism
+    size = 121
+  }
 }
 #Cluj - Cluj (577000/144250 POPS)
 654 = {
-	officers = {
-		culture = romanian
-		religion =  orthodox 
-		size = 944
-	 } 
-	officers = {
-		culture = romanian
-		religion = secularism
-		size = 41
-	 } 
-	soldiers = {
-		culture = romanian
-		religion =  orthodox 
-		size = 17940
-	 } 
-	soldiers = {
-		culture = romanian
-		religion = secularism
-		size = 796
-	 } 
-	aristocrats = {
-		culture = romanian
-		religion =  orthodox 
-		size = 5524
-	 } 
-	aristocrats = {
-		culture = romanian
-		religion = secularism
-		size = 245
-	 } 
-	bureaucrats = {
-		culture = romanian
-		religion =  orthodox 
-		size = 275
-	 } 
-	bureaucrats = {
-		culture = romanian
-		religion = secularism
-		size = 12
-	 } 
-	capitalists = {
-		culture = romanian
-		religion =  orthodox 
-		size = 690
-	 } 
-	capitalists = {
-		culture = romanian
-		religion = secularism
-		size = 30
-	 } 
-	clergymen = {
-		culture = romanian
-		religion =  orthodox 
-		size = 2762
-	 } 
-	clergymen = {
-		culture = romanian
-		religion = secularism
-		size = 122
-	 } 
-	clerks = {
-		culture = romanian
-		religion =  orthodox 
-		size = 1512
-	 } 
-	clerks = {
-		culture = romanian
-		religion = secularism
-		size = 67
-	 } 
-	artisans = {
-		culture = romanian
-		religion =  orthodox 
-		size = 1437
-	 } 
-	artisans = {
-		culture = romanian
-		religion = secularism
-		size = 63
-	 } 
-	craftsmen = {
-		culture = romanian
-		religion =  orthodox 
-		size = 4538
-	 } 
-	craftsmen = {
-		culture = romanian
-		religion = secularism
-		size = 201
-	 } 
-	farmers = {
-		culture = romanian
-		religion =  orthodox 
-		size = 80393
-	 } 
-	farmers = {
-		culture = romanian
-		religion = secularism
-		size = 3568
-	 } 
-	farmers = {
-		culture = hungarian
-		religion =  catholic 
-		size = 22099
-	 } 
-	farmers = {
-		culture = hungarian
-		religion = secularism
-		size = 980
-	 } 
+  officers = {
+    culture = romanian
+    religion =  orthodox
+    size = 944
+  }
+  officers = {
+    culture = romanian
+    religion = secularism
+    size = 41
+  }
+  soldiers = {
+    culture = romanian
+    religion =  orthodox
+    size = 17940
+  }
+  soldiers = {
+    culture = romanian
+    religion = secularism
+    size = 796
+  }
+  aristocrats = {
+    culture = romanian
+    religion =  orthodox
+    size = 5524
+  }
+  aristocrats = {
+    culture = romanian
+    religion = secularism
+    size = 245
+  }
+  bureaucrats = {
+    culture = romanian
+    religion =  orthodox
+    size = 275
+  }
+  bureaucrats = {
+    culture = romanian
+    religion = secularism
+    size = 12
+  }
+  capitalists = {
+    culture = romanian
+    religion =  orthodox
+    size = 690
+  }
+  capitalists = {
+    culture = romanian
+    religion = secularism
+    size = 30
+  }
+  clergymen = {
+    culture = romanian
+    religion =  orthodox
+    size = 2762
+  }
+  clergymen = {
+    culture = romanian
+    religion = secularism
+    size = 122
+  }
+  clerks = {
+    culture = romanian
+    religion =  orthodox
+    size = 1512
+  }
+  clerks = {
+    culture = romanian
+    religion = secularism
+    size = 67
+  }
+  artisans = {
+    culture = romanian
+    religion =  orthodox
+    size = 1437
+  }
+  artisans = {
+    culture = romanian
+    religion = secularism
+    size = 63
+  }
+  craftsmen = {
+    culture = romanian
+    religion =  orthodox
+    size = 4538
+  }
+  craftsmen = {
+    culture = romanian
+    religion = secularism
+    size = 201
+  }
+  farmers = {
+    culture = romanian
+    religion =  orthodox
+    size = 80393
+  }
+  farmers = {
+    culture = romanian
+    religion = secularism
+    size = 3568
+  }
+  farmers = {
+    culture = hungarian
+    religion =  catholic
+    size = 22099
+  }
+  farmers = {
+    culture = hungarian
+    religion = secularism
+    size = 980
+  }
 }
 #Gyulafehervar - Gyulafehervar (273000/68250 POPS)
 655 = {
-	clergymen = {
-		culture = romanian
-		religion =  orthodox 
-		size = 1306
-	 } 
-	clergymen = {
-		culture = romanian
-		religion = secularism
-		size = 58
-	 } 
-	farmers = {
-		culture = romanian
-		religion =  orthodox 
-		size = 57507
-	 } 
-	farmers = {
-		culture = romanian
-		religion = secularism
-		size = 2552
-	 } 
-	farmers = {
-		culture = roma
-		religion =  orthodox 
-		size = 6534
-	 } 
-	farmers = {
-		culture = roma
-		religion = secularism
-		size = 290
-	 } 
+  clergymen = {
+    culture = romanian
+    religion =  orthodox
+    size = 1306
+  }
+  clergymen = {
+    culture = romanian
+    religion = secularism
+    size = 58
+  }
+  farmers = {
+    culture = romanian
+    religion =  orthodox
+    size = 57507
+  }
+  farmers = {
+    culture = romanian
+    religion = secularism
+    size = 2552
+  }
+  farmers = {
+    culture = roma
+    religion =  orthodox
+    size = 6534
+  }
+  farmers = {
+    culture = roma
+    religion = secularism
+    size = 290
+  }
 }
 #Deva - Deva (405000/101250 POPS)
 656 = {
-	clergymen = {
-		culture = romanian
-		religion =  orthodox 
-		size = 1938
-	 } 
-	clergymen = {
-		culture = romanian
-		religion = secularism
-		size = 86
-	 } 
-	farmers = {
-		culture = romanian
-		religion =  orthodox 
-		size = 91130
-	 } 
-	farmers = {
-		culture = romanian
-		religion = secularism
-		size = 4044
-	 } 
-	farmers = {
-		culture = roma
-		religion =  orthodox 
-		size = 3877
-	 } 
-	farmers = {
-		culture = roma
-		religion = secularism
-		size = 172
-	 } 
+  clergymen = {
+    culture = romanian
+    religion =  orthodox
+    size = 1938
+  }
+  clergymen = {
+    culture = romanian
+    religion = secularism
+    size = 86
+  }
+  farmers = {
+    culture = romanian
+    religion =  orthodox
+    size = 91130
+  }
+  farmers = {
+    culture = romanian
+    religion = secularism
+    size = 4044
+  }
+  farmers = {
+    culture = roma
+    religion =  orthodox
+    size = 3877
+  }
+  farmers = {
+    culture = roma
+    religion = secularism
+    size = 172
+  }
 }
 #Nagyszeben - Nagyszeben (351000/87750 POPS)
 657 = {
-	clergymen = {
-		culture = romanian
-		religion =  orthodox 
-		size = 1680
-	 } 
-	clergymen = {
-		culture = romanian
-		religion = secularism
-		size = 74
-	 } 
-	farmers = {
-		culture = romanian
-		religion =  orthodox 
-		size = 65536
-	 } 
-	farmers = {
-		culture = romanian
-		religion = secularism
-		size = 2908
-	 } 
-	farmers = {
-		culture = hungarian
-		religion =  catholic 
-		size = 2520
-	 } 
-	farmers = {
-		culture = hungarian
-		religion = secularism
-		size = 111
-	 } 
-	farmers = {
-		culture = german
-		religion =  catholic 
-		size = 839
-	 } 
-	farmers = {
-		culture = german
-		religion = secularism
-		size = 37
-	 } 
-	farmers = {
-		culture = roma
-		religion =  orthodox 
-		size = 13443
-	 } 
-	farmers = {
-		culture = roma
-		religion = secularism
-		size = 596
-	 } 
+  clergymen = {
+    culture = romanian
+    religion =  orthodox
+    size = 1680
+  }
+  clergymen = {
+    culture = romanian
+    religion = secularism
+    size = 74
+  }
+  farmers = {
+    culture = romanian
+    religion =  orthodox
+    size = 65536
+  }
+  farmers = {
+    culture = romanian
+    religion = secularism
+    size = 2908
+  }
+  farmers = {
+    culture = hungarian
+    religion =  catholic
+    size = 2520
+  }
+  farmers = {
+    culture = hungarian
+    religion = secularism
+    size = 111
+  }
+  farmers = {
+    culture = german
+    religion =  catholic
+    size = 839
+  }
+  farmers = {
+    culture = german
+    religion = secularism
+    size = 37
+  }
+  farmers = {
+    culture = roma
+    religion =  orthodox
+    size = 13443
+  }
+  farmers = {
+    culture = roma
+    religion = secularism
+    size = 596
+  }
 }
 #Brasso - Brasso (459000/114750 POPS)
 659 = {
-	clergymen = {
-		culture = romanian
-		religion =  orthodox 
-		size = 2197
-	 } 
-	clergymen = {
-		culture = romanian
-		religion = secularism
-		size = 97
-	 } 
-	farmers = {
-		culture = romanian
-		religion =  orthodox 
-		size = 88996
-	 } 
-	farmers = {
-		culture = romanian
-		religion = secularism
-		size = 3950
-	 } 
-	farmers = {
-		culture = hungarian
-		religion =  catholic 
-		size = 8789
-	 } 
-	farmers = {
-		culture = hungarian
-		religion = secularism
-		size = 390
-	 } 
-	farmers = {
-		culture = german
-		religion =  catholic 
-		size = 1098
-	 } 
-	farmers = {
-		culture = german
-		religion = secularism
-		size = 48
-	 } 
-	farmers = {
-		culture = roma
-		religion =  orthodox 
-		size = 8789
-	 } 
-	farmers = {
-		culture = roma
-		religion = secularism
-		size = 390
-	 } 
+  clergymen = {
+    culture = romanian
+    religion =  orthodox
+    size = 2197
+  }
+  clergymen = {
+    culture = romanian
+    religion = secularism
+    size = 97
+  }
+  farmers = {
+    culture = romanian
+    religion =  orthodox
+    size = 88996
+  }
+  farmers = {
+    culture = romanian
+    religion = secularism
+    size = 3950
+  }
+  farmers = {
+    culture = hungarian
+    religion =  catholic
+    size = 8789
+  }
+  farmers = {
+    culture = hungarian
+    religion = secularism
+    size = 390
+  }
+  farmers = {
+    culture = german
+    religion =  catholic
+    size = 1098
+  }
+  farmers = {
+    culture = german
+    religion = secularism
+    size = 48
+  }
+  farmers = {
+    culture = roma
+    religion =  orthodox
+    size = 8789
+  }
+  farmers = {
+    culture = roma
+    religion = secularism
+    size = 390
+  }
 }
 #Udvarhely - Udvarhely (439000/109750 POPS)
 660 = {
-	clergymen = {
-		culture = romanian
-		religion =  orthodox 
-		size = 2101
-	 } 
-	clergymen = {
-		culture = romanian
-		religion = secularism
-		size = 93
-	 } 
-	farmers = {
-		culture = romanian
-		religion =  orthodox 
-		size = 18915
-	 } 
-	farmers = {
-		culture = romanian
-		religion = secularism
-		size = 839
-	 } 
-	farmers = {
-		culture = hungarian
-		religion =  catholic 
-		size = 84068
-	 } 
-	farmers = {
-		culture = hungarian
-		religion = secularism
-		size = 3731
-	 } 
+  clergymen = {
+    culture = romanian
+    religion =  orthodox
+    size = 2101
+  }
+  clergymen = {
+    culture = romanian
+    religion = secularism
+    size = 93
+  }
+  farmers = {
+    culture = romanian
+    religion =  orthodox
+    size = 18915
+  }
+  farmers = {
+    culture = romanian
+    religion = secularism
+    size = 839
+  }
+  farmers = {
+    culture = hungarian
+    religion =  catholic
+    size = 84068
+  }
+  farmers = {
+    culture = hungarian
+    religion = secularism
+    size = 3731
+  }
 }
 #Beszterce - Beszterce (663000/165750 POPS)
 661 = {
-	clergymen = {
-		culture = romanian
-		religion =  orthodox 
-		size = 3174
-	 } 
-	clergymen = {
-		culture = romanian
-		religion = secularism
-		size = 140
-	 } 
-	farmers = {
-		culture = romanian
-		religion =  orthodox 
-		size = 133312
-	 } 
-	farmers = {
-		culture = romanian
-		religion = secularism
-		size = 5917
-	 } 
-	farmers = {
-		culture = jewish
-		religion =  jewish 
-		size = 15870
-	 } 
-	farmers = {
-		culture = jewish
-		religion = secularism
-		size = 704
-	 } 
-	farmers = {
-		culture = ukrainian
-		religion =  orthodox 
-		size = 6348
-	 } 
-	farmers = {
-		culture = ukrainian
-		religion = secularism
-		size = 281
-	 } 
+  clergymen = {
+    culture = romanian
+    religion =  orthodox
+    size = 3174
+  }
+  clergymen = {
+    culture = romanian
+    religion = secularism
+    size = 140
+  }
+  farmers = {
+    culture = romanian
+    religion =  orthodox
+    size = 133312
+  }
+  farmers = {
+    culture = romanian
+    religion = secularism
+    size = 5917
+  }
+  farmers = {
+    culture = jewish
+    religion =  jewish
+    size = 15870
+  }
+  farmers = {
+    culture = jewish
+    religion = secularism
+    size = 704
+  }
+  farmers = {
+    culture = ukrainian
+    religion =  orthodox
+    size = 6348
+  }
+  farmers = {
+    culture = ukrainian
+    religion = secularism
+    size = 281
+  }
 }
 #Suceava - Suceava (530000/132500 POPS)
 663 = {
-	clergymen = {
-		culture = romanian
-		religion =  orthodox 
-		size = 2537
-	 } 
-	clergymen = {
-		culture = romanian
-		religion = secularism
-		size = 112
-	 } 
-	farmers = {
-		culture = romanian
-		religion =  orthodox 
-		size = 105301
-	 } 
-	farmers = {
-		culture = romanian
-		religion = secularism
-		size = 4673
-	 } 
-	farmers = {
-		culture = jewish
-		religion =  jewish 
-		size = 12686
-	 } 
-	farmers = {
-		culture = jewish
-		religion = secularism
-		size = 563
-	 } 
-	farmers = {
-		culture = ukrainian
-		religion =  orthodox 
-		size = 6343
-	 } 
-	farmers = {
-		culture = ukrainian
-		religion = secularism
-		size = 281
-	 } 
+  clergymen = {
+    culture = romanian
+    religion =  orthodox
+    size = 2537
+  }
+  clergymen = {
+    culture = romanian
+    religion = secularism
+    size = 112
+  }
+  farmers = {
+    culture = romanian
+    religion =  orthodox
+    size = 105301
+  }
+  farmers = {
+    culture = romanian
+    religion = secularism
+    size = 4673
+  }
+  farmers = {
+    culture = jewish
+    religion =  jewish
+    size = 12686
+  }
+  farmers = {
+    culture = jewish
+    religion = secularism
+    size = 563
+  }
+  farmers = {
+    culture = ukrainian
+    religion =  orthodox
+    size = 6343
+  }
+  farmers = {
+    culture = ukrainian
+    religion = secularism
+    size = 281
+  }
 }
 #Bucharest - Bucharest (2096000/524000 POPS)
 664 = {
-	capitalists = {
-		culture = jewish
-		religion =  jewish 
-		size = 2508
-	 } 
-	capitalists = {
-		culture = jewish
-		religion = secularism
-		size = 111
-	 } 
-	officers = {
-		culture = romanian
-		religion =  orthodox 
-		size = 6002
-	 } 
-	officers = {
-		culture = romanian
-		religion = secularism
-		size = 266
-	 } 
-	soldiers = {
-		culture = romanian
-		religion =  orthodox 
-		size = 114048
-	 } 
-	soldiers = {
-		culture = romanian
-		religion = secularism
-		size = 5062
-	 } 
-	aristocrats = {
-		culture = romanian
-		religion =  orthodox 
-		size = 20069
-	 } 
-	aristocrats = {
-		culture = romanian
-		religion = secularism
-		size = 890
-	 } 
-	bureaucrats = {
-		culture = romanian
-		religion =  orthodox 
-		size = 1003
-	 } 
-	bureaucrats = {
-		culture = romanian
-		religion = secularism
-		size = 44
-	 } 
-	clergymen = {
-		culture = romanian
-		religion =  orthodox 
-		size = 10034
-	 } 
-	clergymen = {
-		culture = romanian
-		religion = secularism
-		size = 445
-	 } 
-	clerks = {
-		culture = romanian
-		religion =  orthodox 
-		size = 4843
-	 } 
-	clerks = {
-		culture = romanian
-		religion = secularism
-		size = 214
-	 } 
-	artisans = {
-		culture = romanian
-		religion =  orthodox 
-		size = 4600
-	 } 
-	artisans = {
-		culture = romanian
-		religion = secularism
-		size = 204
-	 } 
-	craftsmen = {
-		culture = romanian
-		religion =  orthodox 
-		size = 14529
-	 } 
-	craftsmen = {
-		culture = romanian
-		religion = secularism
-		size = 644
-	 } 
-	farmers = {
-		culture = romanian
-		religion =  orthodox 
-		size = 236287
-	 } 
-	farmers = {
-		culture = romanian
-		religion = secularism
-		size = 10487
-	 } 
-	farmers = {
-		culture = jewish
-		religion =  jewish 
-		size = 17560
-	 } 
-	farmers = {
-		culture = jewish
-		religion = secularism
-		size = 779
-	 } 
-	farmers = {
-		culture = roma
-		religion =  orthodox 
-		size = 70242
-	 } 
-	farmers = {
-		culture = roma
-		religion = secularism
-		size = 3117
-	 } 
+  capitalists = {
+    culture = jewish
+    religion =  jewish
+    size = 2508
+  }
+  capitalists = {
+    culture = jewish
+    religion = secularism
+    size = 111
+  }
+  officers = {
+    culture = romanian
+    religion =  orthodox
+    size = 6002
+  }
+  officers = {
+    culture = romanian
+    religion = secularism
+    size = 266
+  }
+  soldiers = {
+    culture = romanian
+    religion =  orthodox
+    size = 114048
+  }
+  soldiers = {
+    culture = romanian
+    religion = secularism
+    size = 5062
+  }
+  aristocrats = {
+    culture = romanian
+    religion =  orthodox
+    size = 20069
+  }
+  aristocrats = {
+    culture = romanian
+    religion = secularism
+    size = 890
+  }
+  bureaucrats = {
+    culture = romanian
+    religion =  orthodox
+    size = 1003
+  }
+  bureaucrats = {
+    culture = romanian
+    religion = secularism
+    size = 44
+  }
+  clergymen = {
+    culture = romanian
+    religion =  orthodox
+    size = 10034
+  }
+  clergymen = {
+    culture = romanian
+    religion = secularism
+    size = 445
+  }
+  clerks = {
+    culture = romanian
+    religion =  orthodox
+    size = 4843
+  }
+  clerks = {
+    culture = romanian
+    religion = secularism
+    size = 214
+  }
+  artisans = {
+    culture = romanian
+    religion =  orthodox
+    size = 4600
+  }
+  artisans = {
+    culture = romanian
+    religion = secularism
+    size = 204
+  }
+  craftsmen = {
+    culture = romanian
+    religion =  orthodox
+    size = 14529
+  }
+  craftsmen = {
+    culture = romanian
+    religion = secularism
+    size = 644
+  }
+  farmers = {
+    culture = romanian
+    religion =  orthodox
+    size = 236287
+  }
+  farmers = {
+    culture = romanian
+    religion = secularism
+    size = 10487
+  }
+  farmers = {
+    culture = jewish
+    religion =  jewish
+    size = 17560
+  }
+  farmers = {
+    culture = jewish
+    religion = secularism
+    size = 779
+  }
+  farmers = {
+    culture = roma
+    religion =  orthodox
+    size = 70242
+  }
+  farmers = {
+    culture = roma
+    religion = secularism
+    size = 3117
+  }
 }
 #Tirgu Jiu - Tirgu Jiu (668000/167000 POPS)
 665 = {
-	clergymen = {
-		culture = romanian
-		religion =  orthodox 
-		size = 3198
-	 } 
-	clergymen = {
-		culture = romanian
-		religion = secularism
-		size = 141
-	 } 
-	farmers = {
-		culture = romanian
-		religion =  orthodox 
-		size = 150308
-	 } 
-	farmers = {
-		culture = romanian
-		religion = secularism
-		size = 6671
-	 } 
-	farmers = {
-		culture = roma
-		religion =  orthodox 
-		size = 6396
-	 } 
-	farmers = {
-		culture = roma
-		religion = secularism
-		size = 283
-	 } 
+  clergymen = {
+    culture = romanian
+    religion =  orthodox
+    size = 3198
+  }
+  clergymen = {
+    culture = romanian
+    religion = secularism
+    size = 141
+  }
+  farmers = {
+    culture = romanian
+    religion =  orthodox
+    size = 150308
+  }
+  farmers = {
+    culture = romanian
+    religion = secularism
+    size = 6671
+  }
+  farmers = {
+    culture = roma
+    religion =  orthodox
+    size = 6396
+  }
+  farmers = {
+    culture = roma
+    religion = secularism
+    size = 283
+  }
 }
 #Craiova - Craiova (1173000/293250 POPS)
 666 = {
-	clergymen = {
-		culture = romanian
-		religion =  orthodox 
-		size = 5615
-	 } 
-	clergymen = {
-		culture = romanian
-		religion = secularism
-		size = 249
-	 } 
-	farmers = {
-		culture = romanian
-		religion =  orthodox 
-		size = 230245
-	 } 
-	farmers = {
-		culture = romanian
-		religion = secularism
-		size = 10219
-	 } 
-	farmers = {
-		culture = roma
-		religion =  orthodox 
-		size = 44925
-	 } 
-	farmers = {
-		culture = roma
-		religion = secularism
-		size = 1994
-	 } 
+  clergymen = {
+    culture = romanian
+    religion =  orthodox
+    size = 5615
+  }
+  clergymen = {
+    culture = romanian
+    religion = secularism
+    size = 249
+  }
+  farmers = {
+    culture = romanian
+    religion =  orthodox
+    size = 230245
+  }
+  farmers = {
+    culture = romanian
+    religion = secularism
+    size = 10219
+  }
+  farmers = {
+    culture = roma
+    religion =  orthodox
+    size = 44925
+  }
+  farmers = {
+    culture = roma
+    religion = secularism
+    size = 1994
+  }
 }
 #Tirgoviste - Tirgoviste (1581000/395250 POPS)
 667 = {
-	clergymen = {
-		culture = romanian
-		religion =  orthodox 
-		size = 7569
-	 } 
-	clergymen = {
-		culture = romanian
-		religion = secularism
-		size = 335
-	 } 
-	farmers = {
-		culture = romanian
-		religion =  orthodox 
-		size = 355744
-	 } 
-	farmers = {
-		culture = romanian
-		religion = secularism
-		size = 15790
-	 } 
-	farmers = {
-		culture = roma
-		religion =  orthodox 
-		size = 15138
-	 } 
-	farmers = {
-		culture = roma
-		religion = secularism
-		size = 671
-	 } 
+  clergymen = {
+    culture = romanian
+    religion =  orthodox
+    size = 7569
+  }
+  clergymen = {
+    culture = romanian
+    religion = secularism
+    size = 335
+  }
+  farmers = {
+    culture = romanian
+    religion =  orthodox
+    size = 355744
+  }
+  farmers = {
+    culture = romanian
+    religion = secularism
+    size = 15790
+  }
+  farmers = {
+    culture = roma
+    religion =  orthodox
+    size = 15138
+  }
+  farmers = {
+    culture = roma
+    religion = secularism
+    size = 671
+  }
 }
 #Braila - Braila (668000/167000 POPS)
 668 = {
-	clergymen = {
-		culture = romanian
-		religion =  orthodox 
-		size = 3198
-	 } 
-	clergymen = {
-		culture = romanian
-		religion = secularism
-		size = 141
-	 } 
-	farmers = {
-		culture = romanian
-		religion =  orthodox 
-		size = 150308
-	 } 
-	farmers = {
-		culture = romanian
-		religion = secularism
-		size = 6671
-	 } 
-	farmers = {
-		culture = roma
-		religion =  orthodox 
-		size = 6396
-	 } 
-	farmers = {
-		culture = roma
-		religion = secularism
-		size = 283
-	 } 
+  clergymen = {
+    culture = romanian
+    religion =  orthodox
+    size = 3198
+  }
+  clergymen = {
+    culture = romanian
+    religion = secularism
+    size = 141
+  }
+  farmers = {
+    culture = romanian
+    religion =  orthodox
+    size = 150308
+  }
+  farmers = {
+    culture = romanian
+    religion = secularism
+    size = 6671
+  }
+  farmers = {
+    culture = roma
+    religion =  orthodox
+    size = 6396
+  }
+  farmers = {
+    culture = roma
+    religion = secularism
+    size = 283
+  }
 }
 #Calarasi - Calarasi (485000/121250 POPS)
 669 = {
-	clergymen = {
-		culture = romanian
-		religion =  orthodox 
-		size = 2321
-	 } 
-	clergymen = {
-		culture = romanian
-		religion = secularism
-		size = 103
-	 } 
-	farmers = {
-		culture = romanian
-		religion =  orthodox 
-		size = 90555
-	 } 
-	farmers = {
-		culture = romanian
-		religion = secularism
-		size = 4019
-	 } 
-	farmers = {
-		culture = roma
-		religion =  orthodox 
-		size = 23219
-	 } 
-	farmers = {
-		culture = roma
-		religion = secularism
-		size = 1030
-	 } 
+  clergymen = {
+    culture = romanian
+    religion =  orthodox
+    size = 2321
+  }
+  clergymen = {
+    culture = romanian
+    religion = secularism
+    size = 103
+  }
+  farmers = {
+    culture = romanian
+    religion =  orthodox
+    size = 90555
+  }
+  farmers = {
+    culture = romanian
+    religion = secularism
+    size = 4019
+  }
+  farmers = {
+    culture = roma
+    religion =  orthodox
+    size = 23219
+  }
+  farmers = {
+    culture = roma
+    religion = secularism
+    size = 1030
+  }
 }
 #Iasi - Iasi (645000/161250 POPS)
 670 = {
-	clergymen = {
-		culture = romanian
-		religion =  orthodox 
-		size = 3087
-	 } 
-	clergymen = {
-		culture = romanian
-		religion = secularism
-		size = 137
-	 } 
-	farmers = {
-		culture = romanian
-		religion =  orthodox 
-		size = 135869
-	 } 
-	farmers = {
-		culture = romanian
-		religion = secularism
-		size = 6030
-	 } 
-	farmers = {
-		culture = jewish
-		religion =  jewish 
-		size = 9263
-	 } 
-	farmers = {
-		culture = jewish
-		religion = secularism
-		size = 411
-	 } 
-	farmers = {
-		culture = roma
-		religion =  orthodox 
-		size = 6175
-	 } 
-	farmers = {
-		culture = roma
-		religion = secularism
-		size = 274
-	 } 
+  clergymen = {
+    culture = romanian
+    religion =  orthodox
+    size = 3087
+  }
+  clergymen = {
+    culture = romanian
+    religion = secularism
+    size = 137
+  }
+  farmers = {
+    culture = romanian
+    religion =  orthodox
+    size = 135869
+  }
+  farmers = {
+    culture = romanian
+    religion = secularism
+    size = 6030
+  }
+  farmers = {
+    culture = jewish
+    religion =  jewish
+    size = 9263
+  }
+  farmers = {
+    culture = jewish
+    religion = secularism
+    size = 411
+  }
+  farmers = {
+    culture = roma
+    religion =  orthodox
+    size = 6175
+  }
+  farmers = {
+    culture = roma
+    religion = secularism
+    size = 274
+  }
 }
 #Botosani - Botosani (344000/86000 POPS)
 671 = {
-	clergymen = {
-		culture = romanian
-		religion =  orthodox 
-		size = 1646
-	 } 
-	clergymen = {
-		culture = romanian
-		religion = secularism
-		size = 73
-	 } 
-	farmers = {
-		culture = romanian
-		religion =  orthodox 
-		size = 72463
-	 } 
-	farmers = {
-		culture = romanian
-		religion = secularism
-		size = 3216
-	 } 
-	farmers = {
-		culture = jewish
-		religion =  jewish 
-		size = 4940
-	 } 
-	farmers = {
-		culture = jewish
-		religion = secularism
-		size = 219
-	 } 
-	farmers = {
-		culture = roma
-		religion =  orthodox 
-		size = 3293
-	 } 
-	farmers = {
-		culture = roma
-		religion = secularism
-		size = 146
-	 } 
+  clergymen = {
+    culture = romanian
+    religion =  orthodox
+    size = 1646
+  }
+  clergymen = {
+    culture = romanian
+    religion = secularism
+    size = 73
+  }
+  farmers = {
+    culture = romanian
+    religion =  orthodox
+    size = 72463
+  }
+  farmers = {
+    culture = romanian
+    religion = secularism
+    size = 3216
+  }
+  farmers = {
+    culture = jewish
+    religion =  jewish
+    size = 4940
+  }
+  farmers = {
+    culture = jewish
+    religion = secularism
+    size = 219
+  }
+  farmers = {
+    culture = roma
+    religion =  orthodox
+    size = 3293
+  }
+  farmers = {
+    culture = roma
+    religion = secularism
+    size = 146
+  }
 }
 #Bacau - Bacau (1315000/328750 POPS)
 672 = {
-	clergymen = {
-		culture = romanian
-		religion =  orthodox 
-		size = 6295
-	 } 
-	clergymen = {
-		culture = romanian
-		religion = secularism
-		size = 279
-	 } 
-	farmers = {
-		culture = romanian
-		religion =  orthodox 
-		size = 289595
-	 } 
-	farmers = {
-		culture = romanian
-		religion = secularism
-		size = 12854
-	 } 
-	farmers = {
-		culture = jewish
-		religion =  jewish 
-		size = 6295
-	 } 
-	farmers = {
-		culture = jewish
-		religion = secularism
-		size = 279
-	 } 
-	farmers = {
-		culture = roma
-		religion =  orthodox 
-		size = 12591
-	 } 
-	farmers = {
-		culture = roma
-		religion = secularism
-		size = 558
-	 } 
+  clergymen = {
+    culture = romanian
+    religion =  orthodox
+    size = 6295
+  }
+  clergymen = {
+    culture = romanian
+    religion = secularism
+    size = 279
+  }
+  farmers = {
+    culture = romanian
+    religion =  orthodox
+    size = 289595
+  }
+  farmers = {
+    culture = romanian
+    religion = secularism
+    size = 12854
+  }
+  farmers = {
+    culture = jewish
+    religion =  jewish
+    size = 6295
+  }
+  farmers = {
+    culture = jewish
+    religion = secularism
+    size = 279
+  }
+  farmers = {
+    culture = roma
+    religion =  orthodox
+    size = 12591
+  }
+  farmers = {
+    culture = roma
+    religion = secularism
+    size = 558
+  }
 }
 #Galati - Galati (448000/112000 POPS)
 673 = {
-	clergymen = {
-		culture = romanian
-		religion =  orthodox 
-		size = 2144
-	 } 
-	clergymen = {
-		culture = romanian
-		religion = secularism
-		size = 95
-	 } 
-	farmers = {
-		culture = romanian
-		religion =  orthodox 
-		size = 98660
-	 } 
-	farmers = {
-		culture = romanian
-		religion = secularism
-		size = 4379
-	 } 
-	farmers = {
-		culture = jewish
-		religion =  jewish 
-		size = 2144
-	 } 
-	farmers = {
-		culture = jewish
-		religion = secularism
-		size = 95
-	 } 
-	farmers = {
-		culture = roma
-		religion =  orthodox 
-		size = 4289
-	 } 
-	farmers = {
-		culture = roma
-		religion = secularism
-		size = 190
-	 } 
+  clergymen = {
+    culture = romanian
+    religion =  orthodox
+    size = 2144
+  }
+  clergymen = {
+    culture = romanian
+    religion = secularism
+    size = 95
+  }
+  farmers = {
+    culture = romanian
+    religion =  orthodox
+    size = 98660
+  }
+  farmers = {
+    culture = romanian
+    religion = secularism
+    size = 4379
+  }
+  farmers = {
+    culture = jewish
+    religion =  jewish
+    size = 2144
+  }
+  farmers = {
+    culture = jewish
+    religion = secularism
+    size = 95
+  }
+  farmers = {
+    culture = roma
+    religion =  orthodox
+    size = 4289
+  }
+  farmers = {
+    culture = roma
+    religion = secularism
+    size = 190
+  }
 }
 #Constanta - Constanta (571000/142750 POPS)
 674 = {
-	clergymen = {
-		culture = romanian
-		religion =  orthodox 
-		size = 2733
-	 } 
-	clergymen = {
-		culture = romanian
-		religion = secularism
-		size = 121
-	 } 
-	farmers = {
-		culture = romanian
-		religion =  orthodox 
-		size = 128482
-	 } 
-	farmers = {
-		culture = romanian
-		religion = secularism
-		size = 5702
-	 } 
-	farmers = {
-		culture = roma
-		religion =  orthodox 
-		size = 5467
-	 } 
-	farmers = {
-		culture = roma
-		religion = secularism
-		size = 242
-	 } 
+  clergymen = {
+    culture = romanian
+    religion =  orthodox
+    size = 2733
+  }
+  clergymen = {
+    culture = romanian
+    religion = secularism
+    size = 121
+  }
+  farmers = {
+    culture = romanian
+    religion =  orthodox
+    size = 128482
+  }
+  farmers = {
+    culture = romanian
+    religion = secularism
+    size = 5702
+  }
+  farmers = {
+    culture = roma
+    religion =  orthodox
+    size = 5467
+  }
+  farmers = {
+    culture = roma
+    religion = secularism
+    size = 242
+  }
 }
 #Tulcea - Tulcea (221000/55250 POPS)
 675 = {
-	clergymen = {
-		culture = romanian
-		religion =  orthodox 
-		size = 1058
-	 } 
-	clergymen = {
-		culture = romanian
-		religion = secularism
-		size = 46
-	 } 
-	farmers = {
-		culture = romanian
-		religion =  orthodox 
-		size = 49727
-	 } 
-	farmers = {
-		culture = romanian
-		religion = secularism
-		size = 2207
-	 } 
-	farmers = {
-		culture = roma
-		religion =  orthodox 
-		size = 2116
-	 } 
-	farmers = {
-		culture = roma
-		religion = secularism
-		size = 93
-	 } 
+  clergymen = {
+    culture = romanian
+    religion =  orthodox
+    size = 1058
+  }
+  clergymen = {
+    culture = romanian
+    religion = secularism
+    size = 46
+  }
+  farmers = {
+    culture = romanian
+    religion =  orthodox
+    size = 49727
+  }
+  farmers = {
+    culture = romanian
+    religion = secularism
+    size = 2207
+  }
+  farmers = {
+    culture = roma
+    religion =  orthodox
+    size = 2116
+  }
+  farmers = {
+    culture = roma
+    religion = secularism
+    size = 93
+  }
 }

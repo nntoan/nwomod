@@ -7,8 +7,8 @@ country_event = {
 
   trigger = {
     tag = IRE
-	NOT = { owns = 254 } # Belfast
-	year = 1954 NOT = { year = 1956 }
+    NOT = { owns = 254 } # Belfast
+    year = 1954 NOT = { year = 1956 }
     NOT = { IRE = { war_with = GBR } }
   }
 
@@ -16,14 +16,14 @@ country_event = {
 
   option = {
     name = EVT_8007430_A
-	ai_chance = { factor = 100 }
-	money = 10 
+    ai_chance = { factor = 100 }
+    money = 10
   }
 
   option = {
     name = EVT_8007430_B
-	ai_chance = { factor = 0 }
-	any_pop = { militancy = 1.0  consciousness = 2 }
+    ai_chance = { factor = 0 }
+    any_pop = { militancy = 1.0  consciousness = 2 }
   }
 }
 country_event = {
@@ -35,8 +35,8 @@ country_event = {
 
   trigger = {
     tag = GBR
-	owns = 254 # Belfast
-	year = 1956 NOT = { year = 1957 }
+    owns = 254 # Belfast
+    year = 1956 NOT = { year = 1957 }
     NOT = { war_with = IRE }
   }
 
@@ -44,16 +44,16 @@ country_event = {
 
   option = {
     name = EVT_8007431_A
-	any_pop = { militancy = 1 }
-	ai_chance = { factor = 100 }
+    any_pop = { militancy = 1 }
+    ai_chance = { factor = 100 }
   }
 
   option = {
     name = EVT_8007431_B
-	ai_chance = { factor = 0 }
-	any_pop = {  consciousness = 2 }
-	relation = { who = IRE value = -50 }
-	diplomatic_influence = { who = IRE value = -50 }
+    ai_chance = { factor = 0 }
+    any_pop = {  consciousness = 2 }
+    relation = { who = IRE value = -50 }
+    diplomatic_influence = { who = IRE value = -50 }
   }
 }
 country_event = {
@@ -65,10 +65,10 @@ country_event = {
 
   trigger = {
     tag = GBR
-	owns = 254 # Belfast
-	year = 1957 NOT = { year = 1958 }
+    owns = 254 # Belfast
+    year = 1957 NOT = { year = 1958 }
     NOT = {
-    IRE = { war_with = GBR }
+      IRE = { war_with = GBR }
     }
   }
 
@@ -76,15 +76,15 @@ country_event = {
 
   option = {
     name = EVT_8007432_A
-	any_pop = { limit = { culture = irish } militancy = 3.0 }
-	ai_chance = { factor = 100 }
+    any_pop = { limit = { culture = irish } militancy = 3.0 }
+    ai_chance = { factor = 100 }
   }
 
   option = {
     name = EVT_8007432_B
-	ai_chance = { factor = 0 }
-	any_pop = { limit = { culture = irish }  consciousness = 2 }
-	diplomatic_influence = { who = IRE value = -50 }
+    ai_chance = { factor = 0 }
+    any_pop = { limit = { culture = irish }  consciousness = 2 }
+    diplomatic_influence = { who = IRE value = -50 }
   }
 }
 country_event = {
@@ -96,8 +96,8 @@ country_event = {
 
   trigger = {
     tag = IRE
-	year = 1958 NOT = { year = 1959 }
-	NOT = { owns = 254 } # Belfast
+    year = 1958 NOT = { year = 1959 }
+    NOT = { owns = 254 } # Belfast
     NOT = { IRE = { war_with = GBR } }
   }
 
@@ -105,26 +105,26 @@ country_event = {
 
   option = {
     name = EVT_8007433_A
-	ai_chance = { factor = 100 }
-	any_pop = { limit = { culture = irish } militancy = 1.5 }
-	set_global_flag = ira_is_interned 
+    ai_chance = { factor = 100 }
+    any_pop = { limit = { culture = irish } militancy = 1.5 }
+    set_global_flag = ira_is_interned
   }
 
   option = {
     name = EVT_8007433_B
-	ai_chance = { factor = 0 }
-	any_pop = { limit = { culture = irish }  consciousness = 2 }
-	relation = { who = GBR value = -50 }
-	set_global_flag = ira_is_ignored 
+    ai_chance = { factor = 0 }
+    any_pop = { limit = { culture = irish }  consciousness = 2 }
+    relation = { who = GBR value = -50 }
+    set_global_flag = ira_is_ignored
   }
 
   option = {
     name = EVT_8007433_C
-	ai_chance = { factor = 0 }
-	any_pop = { militancy = 2.5 }
-	badboy = 15 
-	relation = { who = GBR value = -100 }
-	set_global_flag = ira_is_supported 
+    ai_chance = { factor = 0 }
+    any_pop = { militancy = 2.5 }
+    badboy = 15
+    relation = { who = GBR value = -100 }
+    set_global_flag = ira_is_supported
   }
 }
 country_event = {
@@ -136,10 +136,10 @@ country_event = {
 
   trigger = {
     tag = GBR
-	owns = 254 # Belfast
-	year = 1958 NOT = { year = 1959 }
+    owns = 254 # Belfast
+    year = 1958 NOT = { year = 1959 }
     NOT = {
-    IRE = { war_with = GBR }
+      IRE = { war_with = GBR }
     }
   }
 
@@ -147,16 +147,16 @@ country_event = {
 
   option = {
     name = EVT_8007434_A
-	ai_chance = { factor = 100 }
-	any_pop = { limit = { culture = irish } militancy = 1.0 }
-	country_event = 8007435 
+    ai_chance = { factor = 100 }
+    any_pop = { limit = { culture = irish } militancy = 1.0 }
+    country_event = 8007435
   }
 
   option = {
     name = EVT_8007434_B
-	ai_chance = { factor = 0 }
-	any_pop = { limit = { culture = irish }  consciousness = 2 }
-	diplomatic_influence = { who = IRE value = -50 }
+    ai_chance = { factor = 0 }
+    any_pop = { limit = { culture = irish }  consciousness = 2 }
+    diplomatic_influence = { who = IRE value = -50 }
   }
 }
 country_event = {
@@ -168,31 +168,31 @@ country_event = {
 
   option = {
     name = EVT_8007435_A
-	ai_chance = { factor = 100 }
-	any_pop = { limit = { culture = irish } militancy = 1.5 }
-	relation = { who = IRE value = -50 } 
+    ai_chance = { factor = 100 }
+    any_pop = { limit = { culture = irish } militancy = 1.5 }
+    relation = { who = IRE value = -50 }
   }
 
   option = {
     name = EVT_8007435_B
-	ai_chance = { factor = 0 }
-	any_pop = {  consciousness = 2 }
-	relation = { who = IRE value = -150 } 
-	release_vassal = NIR 
-	create_alliance = NIR 
+    ai_chance = { factor = 0 }
+    any_pop = {  consciousness = 2 }
+    relation = { who = IRE value = -150 }
+    release_vassal = NIR
+    create_alliance = NIR
   }
 
   option = {
     name = EVT_8007435_C
-	ai_chance = { factor = 0 }
-	any_pop = { militancy = 1.5 }
-	relation = { who = IRE value = 200 } 
-	254 = { secede_province = IRE } 
-	255 = { secede_province = IRE } 
-	256 = { secede_province = IRE } 
-	254 = { remove_core =  THIS }
-	255 = { remove_core =  THIS }
-	256 = { remove_core =  THIS }
+    ai_chance = { factor = 0 }
+    any_pop = { militancy = 1.5 }
+    relation = { who = IRE value = 200 }
+    254 = { secede_province = IRE }
+    255 = { secede_province = IRE }
+    256 = { secede_province = IRE }
+    254 = { remove_core =  THIS }
+    255 = { remove_core =  THIS }
+    256 = { remove_core =  THIS }
   }
 }
 country_event = {
@@ -204,13 +204,13 @@ country_event = {
 
   trigger = {
     tag = GBR
-	owns = 254 # Belfast
-	year = 1959 NOT = { year = 1960 }
+    owns = 254 # Belfast
+    year = 1959 NOT = { year = 1960 }
     NOT = {
-    IRE = { war_with = GBR }
+      IRE = { war_with = GBR }
     }
     NOT = {
-    exists = NIR
+      exists = NIR
     }
   }
 
@@ -218,16 +218,16 @@ country_event = {
 
   option = {
     name = EVT_8007436_A
-	ai_chance = { factor = 100 }
-	any_pop = { limit = { culture = irish } militancy = 0.5 }
-	country_event = 8007437 
+    ai_chance = { factor = 100 }
+    any_pop = { limit = { culture = irish } militancy = 0.5 }
+    country_event = 8007437
   }
 
   option = {
     name = EVT_8007436_B
-	ai_chance = { factor = 0 }
-	any_pop = { limit = { culture = irish }  consciousness = 2 }
-	diplomatic_influence = { who = IRE value = -50 }
+    ai_chance = { factor = 0 }
+    any_pop = { limit = { culture = irish }  consciousness = 2 }
+    diplomatic_influence = { who = IRE value = -50 }
   }
 }
 country_event = {
@@ -237,34 +237,34 @@ country_event = {
   picture = "nwo2_irish_republican_army"
   is_triggered_only = yes # GBR
 
- option = {
+  option = {
     name = EVT_8007437_A
-	ai_chance = { factor = 100 }
-	any_pop = { limit = { culture = irish } militancy = 1.5 }
-	relation = { who = IRE value = -50 } 
+    ai_chance = { factor = 100 }
+    any_pop = { limit = { culture = irish } militancy = 1.5 }
+    relation = { who = IRE value = -50 }
   }
 
   option = {
     name = EVT_8007437_B
-	ai_chance = { factor = 0 }
-	any_pop = {  consciousness = 2 }
-	relation = { who = IRE value = -150 } 
-	release_vassal = NIR 
-	create_alliance = NIR 
+    ai_chance = { factor = 0 }
+    any_pop = {  consciousness = 2 }
+    relation = { who = IRE value = -150 }
+    release_vassal = NIR
+    create_alliance = NIR
   }
 
   option = {
     name = EVT_8007437_C
-	ai_chance = { factor = 0 }
-	any_pop = { militancy = 1.5 }
-	relation = { who = IRE value = 200 } 
-	254 = { secede_province = IRE } 
-	255 = { secede_province = IRE } 
-	256 = { secede_province = IRE } 
-	254 = { remove_core =  THIS }
-	255 = { remove_core =  THIS }
-	256 = { remove_core =  THIS }
-  }  
+    ai_chance = { factor = 0 }
+    any_pop = { militancy = 1.5 }
+    relation = { who = IRE value = 200 }
+    254 = { secede_province = IRE }
+    255 = { secede_province = IRE }
+    256 = { secede_province = IRE }
+    254 = { remove_core =  THIS }
+    255 = { remove_core =  THIS }
+    256 = { remove_core =  THIS }
+  }
 }
 country_event = {
   id = 8007438
@@ -275,26 +275,26 @@ country_event = {
 
   trigger = {
     tag = GBR
-	year = 1960 NOT = { year = 1961 }
-	owns = 254 # Belfast
+    year = 1960 NOT = { year = 1961 }
+    owns = 254 # Belfast
     NOT = { IRE = { war_with = GBR } }
     NOT = { exists = NIR }
   }
 
   mean_time_to_happen = { months = 2 }
 
- option = {
+  option = {
     name = EVT_8007436_A
-	ai_chance = { factor = 100 }
-	any_pop = { limit = { culture = irish } militancy = 1 }
-	country_event = 8007439 
+    ai_chance = { factor = 100 }
+    any_pop = { limit = { culture = irish } militancy = 1 }
+    country_event = 8007439
   }
 
   option = {
     name = EVT_8007436_B
-	ai_chance = { factor = 0 }
-	any_pop = { limit = { culture = irish }  consciousness = 2 }
-	diplomatic_influence = { who = IRE value = -50 }
+    ai_chance = { factor = 0 }
+    any_pop = { limit = { culture = irish }  consciousness = 2 }
+    diplomatic_influence = { who = IRE value = -50 }
   }
 }
 country_event = {
@@ -304,34 +304,34 @@ country_event = {
   picture = "nwo2_irish_republican_army"
   is_triggered_only = yes # GBR
 
- option = {
+  option = {
     name = EVT_8007437_A
-	ai_chance = { factor = 100 }
-	any_pop = { limit = { culture = irish } militancy = 1.5 }
-	relation = { who = IRE value = -50 } 
+    ai_chance = { factor = 100 }
+    any_pop = { limit = { culture = irish } militancy = 1.5 }
+    relation = { who = IRE value = -50 }
   }
 
   option = {
     name = EVT_8007437_B
-	ai_chance = { factor = 0 }
-	any_pop = {  consciousness = 2 }
-	relation = { who = IRE value = -150 } 
-	release_vassal = NIR 
-	create_alliance = NIR 
+    ai_chance = { factor = 0 }
+    any_pop = {  consciousness = 2 }
+    relation = { who = IRE value = -150 }
+    release_vassal = NIR
+    create_alliance = NIR
   }
 
   option = {
     name = EVT_8007437_C
-	ai_chance = { factor = 0 }
-	any_pop = { militancy = 1.5 }
-	relation = { who = IRE value = 200 } 
-	254 = { secede_province = IRE } 
-	255 = { secede_province = IRE } 
-	256 = { secede_province = IRE } 
-	254 = { remove_core =  THIS }
-	255 = { remove_core =  THIS }
-	256 = { remove_core =  THIS }
-  }  
+    ai_chance = { factor = 0 }
+    any_pop = { militancy = 1.5 }
+    relation = { who = IRE value = 200 }
+    254 = { secede_province = IRE }
+    255 = { secede_province = IRE }
+    256 = { secede_province = IRE }
+    254 = { remove_core =  THIS }
+    255 = { remove_core =  THIS }
+    256 = { remove_core =  THIS }
+  }
 }
 country_event = {
   id = 8007440
@@ -342,13 +342,13 @@ country_event = {
 
   trigger = {
     tag = GBR
-	owns = 254 # Belfast
-	year = 1961 NOT = { year = 1962 }
+    owns = 254 # Belfast
+    year = 1961 NOT = { year = 1962 }
     NOT = {
-    IRE = { war_with = GBR }
+      IRE = { war_with = GBR }
     }
     NOT = {
-    exists = NIR
+      exists = NIR
     }
   }
 
@@ -356,7 +356,7 @@ country_event = {
 
   option = {
     name = EVT_8007440_A
-	any_pop = { limit = { culture = irish } militancy = -2.5 }
+    any_pop = { limit = { culture = irish } militancy = -2.5 }
   }
 }
 country_event = {
@@ -368,7 +368,7 @@ country_event = {
 
   trigger = {
     tag = NIR
-	year = 1959 NOT = { year = 1960 }
+    year = 1959 NOT = { year = 1960 }
     NOT = { IRE = { war_with = GBR } }
   }
 
@@ -376,16 +376,16 @@ country_event = {
 
   option = {
     name = EVT_8007441_A
-	ai_chance = { factor = 100 }
-	any_pop = { limit = { culture = irish } militancy = 2.5 }
-	country_event = 8007442 
+    ai_chance = { factor = 100 }
+    any_pop = { limit = { culture = irish } militancy = 2.5 }
+    country_event = 8007442
   }
 
   option = {
     name = EVT_8007441_B
-	ai_chance = { factor = 0 }
-	any_pop = { limit = { culture = irish }  consciousness = 2 }
-	GBR = { country_event =  { id = 8007443 days = 1 } } 
+    ai_chance = { factor = 0 }
+    any_pop = { limit = { culture = irish }  consciousness = 2 }
+    GBR = { country_event =  { id = 8007443 days = 1 } }
   }
 }
 country_event = {
@@ -397,23 +397,23 @@ country_event = {
 
   option = {
     name = EVT_8007442_A
-	any_pop = {  consciousness = 2 }
-	country_event = 8007445 
-	country_event = 8007450 
-	ai_chance = { factor = 100 }
+    any_pop = {  consciousness = 2 }
+    country_event = 8007445
+    country_event = 8007450
+    ai_chance = { factor = 100 }
   }
 
   option = {
     name = EVT_8007442_B
-	any_pop = { militancy = 2.5 }
-	ai_chance = { factor = 0 }
+    any_pop = { militancy = 2.5 }
+    ai_chance = { factor = 0 }
   }
 
   option = {
     name = EVT_8007442_C
-	any_pop = { militancy = 1.5 }
-	GBR = { country_event =  { id = 8007451 days = 1 } }
-	ai_chance = { factor = 0 }
+    any_pop = { militancy = 1.5 }
+    GBR = { country_event =  { id = 8007451 days = 1 } }
+    ai_chance = { factor = 0 }
   }
 }
 country_event = {
@@ -425,10 +425,10 @@ country_event = {
 
   trigger = {
     tag = GBR
-	year = 1960 NOT = { year = 1961 }
-	owns = 254 # Belfast
+    year = 1960 NOT = { year = 1961 }
+    owns = 254 # Belfast
     NOT = {
-    IRE = { war_with = GBR }
+      IRE = { war_with = GBR }
     }
   }
 
@@ -436,17 +436,17 @@ country_event = {
 
   option = {
     name = EVT_8007443_A
-	ai_chance = { factor = 100 }
-	any_pop = { militancy = 1.0 }
-	country_event = 8007444 
+    ai_chance = { factor = 100 }
+    any_pop = { militancy = 1.0 }
+    country_event = 8007444
   }
 
   option = {
     name = EVT_8007443_B
-	ai_chance = { factor = 0 }
-	any_pop = {  consciousness = 2 }
-	country_event = 8007445 
-	country_event =  { id = 8007450 days = 1 } 
+    ai_chance = { factor = 0 }
+    any_pop = {  consciousness = 2 }
+    country_event = 8007445
+    country_event =  { id = 8007450 days = 1 }
   }
 }
 country_event = {
@@ -458,22 +458,22 @@ country_event = {
 
   option = {
     name = EVT_8007444_A
-	country_event = 8007445 
-	country_event = 8007450 
-	ai_chance = { factor = 100 }
+    country_event = 8007445
+    country_event = 8007450
+    ai_chance = { factor = 100 }
   }
 
   option = {
     name = EVT_8007444_B
-	any_pop = { militancy = 2.5 }
-	ai_chance = { factor = 0 }
+    any_pop = { militancy = 2.5 }
+    ai_chance = { factor = 0 }
   }
 
   option = {
     name = EVT_8007444_C
-	any_pop = { militancy = 1.5 }
-	IRE = { country_event = 8007451 }
-	ai_chance = { factor = 0 }
+    any_pop = { militancy = 1.5 }
+    IRE = { country_event = 8007451 }
+    ai_chance = { factor = 0 }
   }
 }
 country_event = {
@@ -487,7 +487,7 @@ country_event = {
     tag = NIR
     year = 1960 NOT = { year = 1961 }
     NOT = {
-    IRE = { war_with = GBR }
+      IRE = { war_with = GBR }
     }
   }
 
@@ -495,7 +495,7 @@ country_event = {
 
   option = {
     name = EVT_8007445_A
-	any_pop = { militancy = -0.5 }
+    any_pop = { militancy = -0.5 }
   }
 }
 country_event = {
@@ -507,9 +507,9 @@ country_event = {
 
   trigger = {
     tag = NIR
-	year = 1954 NOT = { year = 1990 }
+    year = 1954 NOT = { year = 1990 }
     NOT = {
-    IRE = { war_with = GBR }
+      IRE = { war_with = GBR }
     }
   }
 
@@ -517,8 +517,8 @@ country_event = {
 
   option = {
     name = EVT_8007450_A
-	ai_chance = { factor = 100 }
-	any_pop = { militancy = 1.0 }
+    ai_chance = { factor = 100 }
+    any_pop = { militancy = 1.0 }
   }
 
 }
@@ -528,10 +528,10 @@ country_event = {
   desc = EVT_8007451_DESC
   picture = "nwo2_united_ireland"
   is_triggered_only = yes # IRE
-  
+
   option = {
     name = EVT_8007451_A
-	any_pop = { militancy = -2.5 }
-	inherit = NIR 
+    any_pop = { militancy = -2.5 }
+    inherit = NIR
   }
 }

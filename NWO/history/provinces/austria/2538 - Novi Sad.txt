@@ -8,10 +8,10 @@ life_rating = 23
 terrain = good_farmland
 colonial = 0
 1992.1.1 = {
-owner = YUG
-controller = YUG
-add_core = SER
-add_core = VOJ
-add_core = YUG
-colonial = 0
+  owner = YUG
+  controller = YUG
+  add_core = SER
+  add_core = VOJ
+  add_core = YUG
+  colonial = 0
 }

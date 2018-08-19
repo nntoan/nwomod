@@ -7,19 +7,19 @@ terrain = urban_sydney
 colonial = 0
 naval_base = 2
 state_building = {
-	level = 2
-	building = fabric_factory
-	upgrade = yes
+  level = 2
+  building = fabric_factory
+  upgrade = yes
 }
 1992.1.1 = {
-owner = AST
-controller = AST
-add_core = AST
-colonial = 0
-naval_base = 2
-state_building = {
-	level = 2
-	building = copper_wire_factory
-	upgrade = yes
-}
+  owner = AST
+  controller = AST
+  add_core = AST
+  colonial = 0
+  naval_base = 2
+  state_building = {
+    level = 2
+    building = copper_wire_factory
+    upgrade = yes
+  }
 }

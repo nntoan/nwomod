@@ -1,136 +1,136 @@
 #Port Au Prince - Port Au Prince (3676000/919000 POPS)
 2213 = {
-	officers = {
-		culture = caribbean_french
-		religion =  catholic 
-		size = 52
-	 } 
-	officers = {
-		culture = caribbean_french
-		religion = secularism
-		size = 4
-	 } 
-	soldiers = {
-		culture = caribbean_french
-		religion =  catholic 
-		size = 1011
-	 } 
-	soldiers = {
-		culture = caribbean_french
-		religion = secularism
-		size = 87
-	 } 
-	aristocrats = {
-		culture = caribbean_french
-		religion =  catholic 
-		size = 33819
-	 } 
-	aristocrats = {
-		culture = caribbean_french
-		religion = secularism
-		size = 2940
-	 } 
-	bureaucrats = {
-		culture = caribbean_french
-		religion =  catholic 
-		size = 845
-	 } 
-	bureaucrats = {
-		culture = caribbean_french
-		religion = secularism
-		size = 73
-	 } 
-	capitalists = {
-		culture = caribbean_french
-		religion =  catholic 
-		size = 4227
-	 } 
-	capitalists = {
-		culture = caribbean_french
-		religion = secularism
-		size = 367
-	 } 
-	clergymen = {
-		culture = caribbean_french
-		religion =  catholic 
-		size = 16909
-	 } 
-	clergymen = {
-		culture = caribbean_french
-		religion = secularism
-		size = 1470
-	 } 
-	clerks = {
-		culture = caribbean_french
-		religion =  catholic 
-		size = 16846
-	 } 
-	clerks = {
-		culture = caribbean_french
-		religion = secularism
-		size = 1464
-	 } 
-	artisans = {
-		culture = caribbean_french
-		religion =  catholic 
-		size = 16003
-	 } 
-	artisans = {
-		culture = caribbean_french
-		religion = secularism
-		size = 1391
-	 } 
-	craftsmen = {
-		culture = caribbean_french
-		religion =  catholic 
-		size = 50538
-	 } 
-	craftsmen = {
-		culture = caribbean_french
-		religion = secularism
-		size = 4394
-	 } 
-	farmers = {
-		culture = caribbean_french
-		religion =  catholic 
-		size = 629133
-	 } 
-	farmers = {
-		culture = caribbean_french
-		religion = secularism
-		size = 54707
-	 } 
-	farmers = {
-		culture = caribbean_spanish
-		religion =  catholic 
-		size = 76093
-	 } 
-	farmers = {
-		culture = caribbean_spanish
-		religion = secularism
-		size = 6616
-	 } 
+  officers = {
+    culture = caribbean_french
+    religion =  catholic
+    size = 52
+  }
+  officers = {
+    culture = caribbean_french
+    religion = secularism
+    size = 4
+  }
+  soldiers = {
+    culture = caribbean_french
+    religion =  catholic
+    size = 1011
+  }
+  soldiers = {
+    culture = caribbean_french
+    religion = secularism
+    size = 87
+  }
+  aristocrats = {
+    culture = caribbean_french
+    religion =  catholic
+    size = 33819
+  }
+  aristocrats = {
+    culture = caribbean_french
+    religion = secularism
+    size = 2940
+  }
+  bureaucrats = {
+    culture = caribbean_french
+    religion =  catholic
+    size = 845
+  }
+  bureaucrats = {
+    culture = caribbean_french
+    religion = secularism
+    size = 73
+  }
+  capitalists = {
+    culture = caribbean_french
+    religion =  catholic
+    size = 4227
+  }
+  capitalists = {
+    culture = caribbean_french
+    religion = secularism
+    size = 367
+  }
+  clergymen = {
+    culture = caribbean_french
+    religion =  catholic
+    size = 16909
+  }
+  clergymen = {
+    culture = caribbean_french
+    religion = secularism
+    size = 1470
+  }
+  clerks = {
+    culture = caribbean_french
+    religion =  catholic
+    size = 16846
+  }
+  clerks = {
+    culture = caribbean_french
+    religion = secularism
+    size = 1464
+  }
+  artisans = {
+    culture = caribbean_french
+    religion =  catholic
+    size = 16003
+  }
+  artisans = {
+    culture = caribbean_french
+    religion = secularism
+    size = 1391
+  }
+  craftsmen = {
+    culture = caribbean_french
+    religion =  catholic
+    size = 50538
+  }
+  craftsmen = {
+    culture = caribbean_french
+    religion = secularism
+    size = 4394
+  }
+  farmers = {
+    culture = caribbean_french
+    religion =  catholic
+    size = 629133
+  }
+  farmers = {
+    culture = caribbean_french
+    religion = secularism
+    size = 54707
+  }
+  farmers = {
+    culture = caribbean_spanish
+    religion =  catholic
+    size = 76093
+  }
+  farmers = {
+    culture = caribbean_spanish
+    religion = secularism
+    size = 6616
+  }
 }
 #Cap Haitien - Cap Haitien (3121000/780250 POPS)
 2215 = {
-	clergymen = {
-		culture = caribbean_french
-		religion =  catholic 
-		size = 14356
-	 } 
-	clergymen = {
-		culture = caribbean_french
-		religion = secularism
-		size = 1248
-	 } 
-	farmers = {
-		culture = caribbean_french
-		religion =  catholic 
-		size = 703473
-	 } 
-	farmers = {
-		culture = caribbean_french
-		religion = secularism
-		size = 61171
-	 } 
+  clergymen = {
+    culture = caribbean_french
+    religion =  catholic
+    size = 14356
+  }
+  clergymen = {
+    culture = caribbean_french
+    religion = secularism
+    size = 1248
+  }
+  farmers = {
+    culture = caribbean_french
+    religion =  catholic
+    size = 703473
+  }
+  farmers = {
+    culture = caribbean_french
+    religion = secularism
+    size = 61171
+  }
 }

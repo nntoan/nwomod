@@ -8,38 +8,38 @@ country_event = { # Independence of Ghana
   trigger = {
     tag = GBR
     year = 1957 NOT = { year = 1990 }
-	owns = 1907 # Accra
-	NOT = { exists = GHA }
+    owns = 1907 # Accra
+    NOT = { exists = GHA }
   }
 
   mean_time_to_happen = { months = 2 }
 
   option = {
     name = EVT_8010700_A
-	prestige = 10
-	release = GHA
-	diplomatic_influence = { who = GHA value = 100 } 
-	create_alliance = GHA
-	ai_chance = { factor = 100 }
+    prestige = 10
+    release = GHA
+    diplomatic_influence = { who = GHA value = 100 }
+    create_alliance = GHA
+    ai_chance = { factor = 100 }
   }
-  
+
   option = {
     name = EVT_8010700_B
-	release_vassal = GHA
-	diplomatic_influence = { who = GHA value = 200 } 
-	any_pop = { limit = { OR = { culture = ewe culture = african_minor } } militancy = 2 consciousness = 2 }
-	create_alliance = GHA
-	ai_chance = { factor = 0 }
-  }  
+    release_vassal = GHA
+    diplomatic_influence = { who = GHA value = 200 }
+    any_pop = { limit = { OR = { culture = ewe culture = african_minor } } militancy = 2 consciousness = 2 }
+    create_alliance = GHA
+    ai_chance = { factor = 0 }
+  }
 
   option = {
     name = EVT_8010700_C
-	prestige = -10
-	any_pop = { limit = { OR = { culture = ewe culture = african_minor } } militancy = 7 consciousness = 5 }
-	# TODO GHA UDI
-	ai_chance = { factor = 0 }
+    prestige = -10
+    any_pop = { limit = { OR = { culture = ewe culture = african_minor } } militancy = 7 consciousness = 5 }
+    # TODO GHA UDI
+    ai_chance = { factor = 0 }
   }
-  
+
 }
 
 country_event = { # Independence of Ghana
@@ -52,27 +52,27 @@ country_event = { # Independence of Ghana
   trigger = {
     tag = GHA
     year = 1960 NOT = { year = 1990 }
-	is_vassal = yes
+    is_vassal = yes
   }
 
   mean_time_to_happen = { months = 10 }
 
   option = {
     name = EVT_8010701_A
-	government = presidential_dictatorship country_event = 800050
-	overlord = { 
-		country_event = 8010702
-	}
-	ai_chance = { factor = 100 }
+    government = presidential_dictatorship country_event = 800050
+    overlord = {
+      country_event = 8010702
+    }
+    ai_chance = { factor = 100 }
   }
 
   option = {
     name = EVT_8010701_B
-	prestige = -10
-	any_pop = { limit = { culture = ewe } militancy = 5 consciousness = 4 }
-	ai_chance = { factor = 0 }
+    prestige = -10
+    any_pop = { limit = { culture = ewe } militancy = 5 consciousness = 4 }
+    ai_chance = { factor = 0 }
   }
-  
+
 }
 
 country_event = { # Independence of Ghana
@@ -84,10 +84,10 @@ country_event = { # Independence of Ghana
 
   option = {
     name = EVT_8010701_A
-	release_vassal = FROM
-	diplomatic_influence = { who = FROM value = -50 } 
-	leave_alliance = FROM
-	casus_belli =  { target = FROM type = make_puppet months = 24 }
+    release_vassal = FROM
+    diplomatic_influence = { who = FROM value = -50 }
+    leave_alliance = FROM
+    casus_belli =  { target = FROM type = make_puppet months = 24 }
   }
 }
 
@@ -101,28 +101,28 @@ country_event = { # British Togoland Plebiscite
   trigger = {
     tag = GBR
     year = 1956 NOT = { year = 1990 }
-	is_our_vassal = VOL
-	VOL = { government = provisional_government }
+    is_our_vassal = VOL
+    VOL = { government = provisional_government }
   }
 
   mean_time_to_happen = { months = 5 }
 
   option = {
     name = EVT_8010703_A
-	1915 = { remove_core = VOL }
-	any_pop = { limit = { culture = ewe } militancy = 5 consciousness = 4 }
-	any_pop = { limit = { culture = ga_adangbe } militancy = -5 consciousness = -4 }
-	ai_chance = { factor = 63 }
+    1915 = { remove_core = VOL }
+    any_pop = { limit = { culture = ewe } militancy = 5 consciousness = 4 }
+    any_pop = { limit = { culture = ga_adangbe } militancy = -5 consciousness = -4 }
+    ai_chance = { factor = 63 }
   }
-  
+
   option = {
     name = EVT_8010703_B
-	1915 = { remove_core = GHA }
-	any_pop = { limit = { culture = ewe } militancy = -5 consciousness = -4 }
-	any_pop = { limit = { culture = ga_adangbe } militancy = 5 consciousness = 4 }
-	set_global_flag = togolese_reunification
-	ai_chance = { factor = 37 }
-  }   
+    1915 = { remove_core = GHA }
+    any_pop = { limit = { culture = ewe } militancy = -5 consciousness = -4 }
+    any_pop = { limit = { culture = ga_adangbe } militancy = 5 consciousness = 4 }
+    set_global_flag = togolese_reunification
+    ai_chance = { factor = 37 }
+  }
 }
 
 country_event = { # British Togoland Plebiscite
@@ -135,30 +135,30 @@ country_event = { # British Togoland Plebiscite
   trigger = {
     tag = GBR
     has_global_flag = togolese_reunification
-	is_our_vassal = VOL
-	exists = TOG
-	VOL = { government = provisional_government }
+    is_our_vassal = VOL
+    exists = TOG
+    VOL = { government = provisional_government }
   }
 
   mean_time_to_happen = { months = 5 }
 
   option = {
     name = EVT_8010704_A
-	1915 = { remove_core = VOL }
-	1915 = { add_core = TOG }
-	TOG = { inherit = VOL }
-	any_pop = { { limit = { culture = ewe } location = { province = 1915  } } militancy = -5 consciousness = -4 }
-	any_pop = { { limit = { culture = ga_adangbe } location = { province = 1915  } } militancy = 5 consciousness = 4 }
-	clr_global_flag = togolese_reunification
-	ai_chance = { factor = 50 }
+    1915 = { remove_core = VOL }
+    1915 = { add_core = TOG }
+    TOG = { inherit = VOL }
+    any_pop = { { limit = { culture = ewe } location = { province = 1915  } } militancy = -5 consciousness = -4 }
+    any_pop = { { limit = { culture = ga_adangbe } location = { province = 1915  } } militancy = 5 consciousness = 4 }
+    clr_global_flag = togolese_reunification
+    ai_chance = { factor = 50 }
   }
-  
+
   option = {
     name = EVT_8010704_B
-	release = VOL
-	any_pop = { { limit = { culture = ewe } location = { province = 1915  } } militancy = 5 consciousness = 4 }
-	any_pop = { { limit = { culture = ga_adangbe } location = { province = 1915  } } militancy = -5 consciousness = -4 }
-	clr_global_flag = togolese_reunification
-	ai_chance = { factor = 50 }
-  }   
+    release = VOL
+    any_pop = { { limit = { culture = ewe } location = { province = 1915  } } militancy = 5 consciousness = 4 }
+    any_pop = { { limit = { culture = ga_adangbe } location = { province = 1915  } } militancy = -5 consciousness = -4 }
+    clr_global_flag = togolese_reunification
+    ai_chance = { factor = 50 }
+  }
 }

@@ -1,351 +1,351 @@
 #Amderma - Golan (74000/18500 POPS)
 2687 = {
-	farmers = {
-		culture = haredim_jewish
-		religion =  jewish 
-		size = 1809
-	 } 
-	farmers = {
-		culture = sunni_arab
-		religion =  sunni 
-		size = 13320
-	 } 
+  farmers = {
+    culture = haredim_jewish
+    religion =  jewish
+    size = 1809
+  }
+  farmers = {
+    culture = sunni_arab
+    religion =  sunni
+    size = 13320
+  }
 }
 #Acre - Acre (1478000/369500 POPS)
 916 = {
-	clergymen = {
-		culture = jewish
-		religion =  jewish 
-		size = 3399
-	 } 
-	clergymen = {
-		culture = jewish
-		religion = secularism
-		size = 3990
-	 } 
-	farmers = {
-		culture = jewish
-		religion =  jewish 
-		size = 95182
-	 } 
-	farmers = {
-		culture = jewish
-		religion = secularism
-		size = 111736
-	 } 
-	farmers = {
-		culture = sunni_arab
-		religion =  sunni 
-		size = 155190
-	 } 
+  clergymen = {
+    culture = jewish
+    religion =  jewish
+    size = 3399
+  }
+  clergymen = {
+    culture = jewish
+    religion = secularism
+    size = 3990
+  }
+  farmers = {
+    culture = jewish
+    religion =  jewish
+    size = 95182
+  }
+  farmers = {
+    culture = jewish
+    religion = secularism
+    size = 111736
+  }
+  farmers = {
+    culture = sunni_arab
+    religion =  sunni
+    size = 155190
+  }
 }
 #Jerusalem - Jerusalem (585000/146250 POPS)
 917 = {
-	capitalists = {
-		culture = jewish
-		religion =  jewish 
-		size = 403
-	 } 
-	capitalists = {
-		culture = jewish
-		religion = secularism
-		size = 473
-	 } 
-	officers = {
-		culture = jewish
-		religion =  jewish 
-		size = 1076
-	 } 
-	officers = {
-		culture = jewish
-		religion = secularism
-		size = 1264
-	 } 
-	soldiers = {
-		culture = jewish
-		religion =  jewish 
-		size = 16011
-	 } 
-	soldiers = {
-		culture = jewish
-		religion = secularism
-		size = 18795
-	 } 
-	soldiers = {
-		culture = haredim_jewish
-		religion =  jewish 
-		size = 9674
-	 } 
-	aristocrats = {
-		culture = haredim_jewish
-		religion =  jewish 
-		size = 3656
-	 } 
-	clergymen = {
-		culture = haredim_jewish
-		religion =  jewish 
-		size = 2925
-	 } 
-	clerks = {
-		culture = haredim_jewish
-		religion =  jewish 
-		size = 3446
-	 } 
-	artisans = {
-		culture = haredim_jewish
-		religion =  jewish 
-		size = 3274
-	 } 
-	craftsmen = {
-		culture = haredim_jewish
-		religion =  jewish 
-		size = 10339
-	 } 
-	farmers = {
-		culture = haredim_jewish
-		religion =  jewish 
-		size = 27234
-	 } 
-	farmers = {
-		culture = sunni_arab
-		religion =  sunni 
-		size = 46800
-	 } 
+  capitalists = {
+    culture = jewish
+    religion =  jewish
+    size = 403
+  }
+  capitalists = {
+    culture = jewish
+    religion = secularism
+    size = 473
+  }
+  officers = {
+    culture = jewish
+    religion =  jewish
+    size = 1076
+  }
+  officers = {
+    culture = jewish
+    religion = secularism
+    size = 1264
+  }
+  soldiers = {
+    culture = jewish
+    religion =  jewish
+    size = 16011
+  }
+  soldiers = {
+    culture = jewish
+    religion = secularism
+    size = 18795
+  }
+  soldiers = {
+    culture = haredim_jewish
+    religion =  jewish
+    size = 9674
+  }
+  aristocrats = {
+    culture = haredim_jewish
+    religion =  jewish
+    size = 3656
+  }
+  clergymen = {
+    culture = haredim_jewish
+    religion =  jewish
+    size = 2925
+  }
+  clerks = {
+    culture = haredim_jewish
+    religion =  jewish
+    size = 3446
+  }
+  artisans = {
+    culture = haredim_jewish
+    religion =  jewish
+    size = 3274
+  }
+  craftsmen = {
+    culture = haredim_jewish
+    religion =  jewish
+    size = 10339
+  }
+  farmers = {
+    culture = haredim_jewish
+    religion =  jewish
+    size = 27234
+  }
+  farmers = {
+    culture = sunni_arab
+    religion =  sunni
+    size = 46800
+  }
 }
 #Nablus - Nablus (1253000/313250 POPS)
 918 = {
-	officers = {
-		culture = sunni_arab
-		religion =  sunni 
-		size = 5014
-	 } 
-	soldiers = {
-		culture = sunni_arab
-		religion =  sunni 
-		size = 95273
-	 } 
-	aristocrats = {
-		culture = sunni_arab
-		religion =  sunni 
-		size = 12530
-	 } 
-	capitalists = {
-		culture = sunni_arab
-		religion =  sunni 
-		size = 1566
-	 } 
-	clergymen = {
-		culture = sunni_arab
-		religion =  sunni 
-		size = 6265
-	 } 
-	clerks = {
-		culture = sunni_arab
-		religion =  sunni 
-		size = 5905
-	 } 
-	artisans = {
-		culture = sunni_arab
-		religion =  sunni 
-		size = 5609
-	 } 
-	craftsmen = {
-		culture = sunni_arab
-		religion =  sunni 
-		size = 17715
-	 } 
-	farmers = {
-		culture = sunni_arab
-		religion =  sunni 
-		size = 118892
-	 } 
-	farmers = {
-		culture = haredim_jewish
-		religion =  jewish 
-		size = 43855
-	 } 
+  officers = {
+    culture = sunni_arab
+    religion =  sunni
+    size = 5014
+  }
+  soldiers = {
+    culture = sunni_arab
+    religion =  sunni
+    size = 95273
+  }
+  aristocrats = {
+    culture = sunni_arab
+    religion =  sunni
+    size = 12530
+  }
+  capitalists = {
+    culture = sunni_arab
+    religion =  sunni
+    size = 1566
+  }
+  clergymen = {
+    culture = sunni_arab
+    religion =  sunni
+    size = 6265
+  }
+  clerks = {
+    culture = sunni_arab
+    religion =  sunni
+    size = 5905
+  }
+  artisans = {
+    culture = sunni_arab
+    religion =  sunni
+    size = 5609
+  }
+  craftsmen = {
+    culture = sunni_arab
+    religion =  sunni
+    size = 17715
+  }
+  farmers = {
+    culture = sunni_arab
+    religion =  sunni
+    size = 118892
+  }
+  farmers = {
+    culture = haredim_jewish
+    religion =  jewish
+    size = 43855
+  }
 }
 #Jaffa - Jaffa (2152000/538000 POPS)
 919 = {
-	capitalists = {
-		culture = jewish
-		religion =  jewish 
-		size = 1484
-	 } 
-	capitalists = {
-		culture = jewish
-		religion = secularism
-		size = 1743
-	 } 
-	officers = {
-		culture = jewish
-		religion =  jewish 
-		size = 7767
-	 } 
-	officers = {
-		culture = jewish
-		religion = secularism
-		size = 9118
-	 } 
-	soldiers = {
-		culture = jewish
-		religion =  jewish 
-		size = 147588
-	 } 
-	soldiers = {
-		culture = jewish
-		religion = secularism
-		size = 173256
-	 } 
-	aristocrats = {
-		culture = jewish
-		religion =  jewish 
-		size = 6186
-	 } 
-	aristocrats = {
-		culture = jewish
-		religion = secularism
-		size = 7263
-	 } 
-	bureaucrats = {
-		culture = jewish
-		religion =  jewish 
-		size = 1484
-	 } 
-	bureaucrats = {
-		culture = jewish
-		religion = secularism
-		size = 1743
-	 } 
-	clergymen = {
-		culture = jewish
-		religion =  jewish 
-		size = 4949
-	 } 
-	clergymen = {
-		culture = jewish
-		religion = secularism
-		size = 5810
-	 } 
-	clerks = {
-		culture = jewish
-		religion =  jewish 
-		size = 3193
-	 } 
-	clerks = {
-		culture = jewish
-		religion = secularism
-		size = 3748
-	 } 
-	artisans = {
-		culture = jewish
-		religion =  jewish 
-		size = 3033
-	 } 
-	artisans = {
-		culture = jewish
-		religion = secularism
-		size = 3561
-	 } 
-	craftsmen = {
-		culture = jewish
-		religion =  jewish 
-		size = 9579
-	 } 
-	craftsmen = {
-		culture = jewish
-		religion = secularism
-		size = 11246
-	 } 
-	farmers = {
-		culture = jewish
-		religion =  jewish 
-		size = 15189
-	 } 
-	farmers = {
-		culture = jewish
-		religion = secularism
-		size = 17830
-	 } 
-	farmers = {
-		culture = sunni_arab
-		religion =  sunni 
-		size = 102220
-	 } 
+  capitalists = {
+    culture = jewish
+    religion =  jewish
+    size = 1484
+  }
+  capitalists = {
+    culture = jewish
+    religion = secularism
+    size = 1743
+  }
+  officers = {
+    culture = jewish
+    religion =  jewish
+    size = 7767
+  }
+  officers = {
+    culture = jewish
+    religion = secularism
+    size = 9118
+  }
+  soldiers = {
+    culture = jewish
+    religion =  jewish
+    size = 147588
+  }
+  soldiers = {
+    culture = jewish
+    religion = secularism
+    size = 173256
+  }
+  aristocrats = {
+    culture = jewish
+    religion =  jewish
+    size = 6186
+  }
+  aristocrats = {
+    culture = jewish
+    religion = secularism
+    size = 7263
+  }
+  bureaucrats = {
+    culture = jewish
+    religion =  jewish
+    size = 1484
+  }
+  bureaucrats = {
+    culture = jewish
+    religion = secularism
+    size = 1743
+  }
+  clergymen = {
+    culture = jewish
+    religion =  jewish
+    size = 4949
+  }
+  clergymen = {
+    culture = jewish
+    religion = secularism
+    size = 5810
+  }
+  clerks = {
+    culture = jewish
+    religion =  jewish
+    size = 3193
+  }
+  clerks = {
+    culture = jewish
+    religion = secularism
+    size = 3748
+  }
+  artisans = {
+    culture = jewish
+    religion =  jewish
+    size = 3033
+  }
+  artisans = {
+    culture = jewish
+    religion = secularism
+    size = 3561
+  }
+  craftsmen = {
+    culture = jewish
+    religion =  jewish
+    size = 9579
+  }
+  craftsmen = {
+    culture = jewish
+    religion = secularism
+    size = 11246
+  }
+  farmers = {
+    culture = jewish
+    religion =  jewish
+    size = 15189
+  }
+  farmers = {
+    culture = jewish
+    religion = secularism
+    size = 17830
+  }
+  farmers = {
+    culture = sunni_arab
+    religion =  sunni
+    size = 102220
+  }
 }
 #Gaza - Gaza (646000/161500 POPS)
 920 = {
-	officers = {
-		culture = sunni_arab
-		religion =  sunni 
-		size = 2585
-	 } 
-	soldiers = {
-		culture = sunni_arab
-		religion =  sunni 
-		size = 49119
-	 } 
-	aristocrats = {
-		culture = sunni_arab
-		religion =  sunni 
-		size = 6460
-	 } 
-	clergymen = {
-		culture = sunni_arab
-		religion =  sunni 
-		size = 3230
-	 } 
-	clerks = {
-		culture = sunni_arab
-		religion =  sunni 
-		size = 3044
-	 } 
-	artisans = {
-		culture = sunni_arab
-		religion =  sunni 
-		size = 2892
-	 } 
-	craftsmen = {
-		culture = sunni_arab
-		religion =  sunni 
-		size = 9133
-	 } 
-	farmers = {
-		culture = sunni_arab
-		religion =  sunni 
-		size = 83907
-	 } 
+  officers = {
+    culture = sunni_arab
+    religion =  sunni
+    size = 2585
+  }
+  soldiers = {
+    culture = sunni_arab
+    religion =  sunni
+    size = 49119
+  }
+  aristocrats = {
+    culture = sunni_arab
+    religion =  sunni
+    size = 6460
+  }
+  clergymen = {
+    culture = sunni_arab
+    religion =  sunni
+    size = 3230
+  }
+  clerks = {
+    culture = sunni_arab
+    religion =  sunni
+    size = 3044
+  }
+  artisans = {
+    culture = sunni_arab
+    religion =  sunni
+    size = 2892
+  }
+  craftsmen = {
+    culture = sunni_arab
+    religion =  sunni
+    size = 9133
+  }
+  farmers = {
+    culture = sunni_arab
+    religion =  sunni
+    size = 83907
+  }
 }
 #Beersheba - Beersheba (574000/143500 POPS)
 921 = {
-	clergymen = {
-		culture = jewish
-		religion =  jewish 
-		size = 2726
-	 } 
-	clergymen = {
-		culture = jewish
-		religion = secularism
-		size = 143
-	 } 
-	farmers = {
-		culture = jewish
-		religion =  jewish 
-		size = 122692
-	 } 
-	farmers = {
-		culture = jewish
-		religion = secularism
-		size = 6457
-	 } 
-	farmers = {
-		culture = sunni_arab
-		religion =  sunni 
-		size = 11480
-	 } 
-	farmers = {
-		culture = haredim_jewish
-		religion =  jewish 
-		size = 1359
-	 } 
+  clergymen = {
+    culture = jewish
+    religion =  jewish
+    size = 2726
+  }
+  clergymen = {
+    culture = jewish
+    religion = secularism
+    size = 143
+  }
+  farmers = {
+    culture = jewish
+    religion =  jewish
+    size = 122692
+  }
+  farmers = {
+    culture = jewish
+    religion = secularism
+    size = 6457
+  }
+  farmers = {
+    culture = sunni_arab
+    religion =  sunni
+    size = 11480
+  }
+  farmers = {
+    culture = haredim_jewish
+    religion =  jewish
+    size = 1359
+  }
 }

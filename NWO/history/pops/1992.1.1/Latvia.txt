@@ -1,383 +1,383 @@
 #Riga - Riga (1537000/384250 POPS)
 354 = {
-	officers = {
-		culture = latvian
-		religion =  protestant 
-		size = 175
-	 } 
-	officers = {
-		culture = latvian
-		religion = secularism
-		size = 242
-	 } 
-	soldiers = {
-		culture = latvian
-		religion = protestant
-		size = 1400
-	 } 
-	soldiers = {
-		culture = latvian
-		religion = secularism
-		size = 1600
-	 } 
-	aristocrats = {
-		culture = latvian
-		religion =  protestant 
-		size = 4217
-	 } 
-	aristocrats = {
-		culture = latvian
-		religion = secularism
-		size = 5692
-	 } 
-	bureaucrats = {
-		culture = latvian
-		religion =  protestant 
-		size = 322
-	 } 
-	bureaucrats = {
-		culture = latvian
-		religion = secularism
-		size = 445
-	 } 
-	capitalists = {
-		culture = latvian
-		religion =  protestant 
-		size = 806
-	 } 
-	capitalists = {
-		culture = latvian
-		religion = secularism
-		size = 1114
-	 } 
-	clergymen = {
-		culture = latvian
-		religion =  protestant 
-		size = 3227
-	 } 
-	clergymen = {
-		culture = latvian
-		religion = secularism
-		size = 4457
-	 } 
-	clerks = {
-		culture = latvian
-		religion =  protestant 
-		size = 567
-	 } 
-	clerks = {
-		culture = latvian
-		religion = secularism
-		size = 879
-	 } 
-	artisans = {
-		culture = latvian
-		religion =  protestant 
-		size = 329
-	 } 
-	artisans = {
-		culture = latvian
-		religion = secularism
-		size = 128
-	 } 
-	craftsmen = {
-		culture = latvian
-		religion =  protestant 
-		size = 6265
-	 } 
-	craftsmen = {
-		culture = latvian
-		religion =  catholic
-		size = 4298
-	 } 
-	craftsmen = {
-		culture = latvian
-		religion = secularism
-		size = 10823
-	 } 
-	farmers = {
-		culture = latvian
-		religion =  protestant 
-		size = 12020
-	 } 
-	farmers = {
-		culture = latvian
-		religion = catholic
-		size = 7802
-	 } 
-	farmers = {
-		culture = latvian
-		religion = secularism
-		size = 16608
-	 } 
-	farmers = {
-		culture = byelorussian
-		religion =  orthodox 
-		size = 2343
-	 } 
-	farmers = {
-		culture = byelorussian
-		religion = secularism
-		size = 2677
-	 } 
-	farmers = {
-		culture = russian
-		religion = orthodox 
-		size = 53884
-	 } 
-	farmers = {
-		culture = russian
-		religion = secularism
-		size = 61582
-	 } 
-	farmers = {
-		culture = ukrainian
-		religion =  orthodox 
-		size = 2343
-	 } 
-	farmers = {
-		culture = ukrainian
-		religion = secularism
-		size = 2677
-	 } 
-	 farmers = {
-		culture = latgalian
-		religion =  catholic
-		size = 2530
-	 } 
-	farmers = {
-		culture = latgalian
-		religion =  secularism
-		size = 1687
-	 } 
+  officers = {
+    culture = latvian
+    religion =  protestant
+    size = 175
+  }
+  officers = {
+    culture = latvian
+    religion = secularism
+    size = 242
+  }
+  soldiers = {
+    culture = latvian
+    religion = protestant
+    size = 1400
+  }
+  soldiers = {
+    culture = latvian
+    religion = secularism
+    size = 1600
+  }
+  aristocrats = {
+    culture = latvian
+    religion =  protestant
+    size = 4217
+  }
+  aristocrats = {
+    culture = latvian
+    religion = secularism
+    size = 5692
+  }
+  bureaucrats = {
+    culture = latvian
+    religion =  protestant
+    size = 322
+  }
+  bureaucrats = {
+    culture = latvian
+    religion = secularism
+    size = 445
+  }
+  capitalists = {
+    culture = latvian
+    religion =  protestant
+    size = 806
+  }
+  capitalists = {
+    culture = latvian
+    religion = secularism
+    size = 1114
+  }
+  clergymen = {
+    culture = latvian
+    religion =  protestant
+    size = 3227
+  }
+  clergymen = {
+    culture = latvian
+    religion = secularism
+    size = 4457
+  }
+  clerks = {
+    culture = latvian
+    religion =  protestant
+    size = 567
+  }
+  clerks = {
+    culture = latvian
+    religion = secularism
+    size = 879
+  }
+  artisans = {
+    culture = latvian
+    religion =  protestant
+    size = 329
+  }
+  artisans = {
+    culture = latvian
+    religion = secularism
+    size = 128
+  }
+  craftsmen = {
+    culture = latvian
+    religion =  protestant
+    size = 6265
+  }
+  craftsmen = {
+    culture = latvian
+    religion =  catholic
+    size = 4298
+  }
+  craftsmen = {
+    culture = latvian
+    religion = secularism
+    size = 10823
+  }
+  farmers = {
+    culture = latvian
+    religion =  protestant
+    size = 12020
+  }
+  farmers = {
+    culture = latvian
+    religion = catholic
+    size = 7802
+  }
+  farmers = {
+    culture = latvian
+    religion = secularism
+    size = 16608
+  }
+  farmers = {
+    culture = byelorussian
+    religion =  orthodox
+    size = 2343
+  }
+  farmers = {
+    culture = byelorussian
+    religion = secularism
+    size = 2677
+  }
+  farmers = {
+    culture = russian
+    religion = orthodox
+    size = 53884
+  }
+  farmers = {
+    culture = russian
+    religion = secularism
+    size = 61582
+  }
+  farmers = {
+    culture = ukrainian
+    religion =  orthodox
+    size = 2343
+  }
+  farmers = {
+    culture = ukrainian
+    religion = secularism
+    size = 2677
+  }
+  farmers = {
+    culture = latgalian
+    religion =  catholic
+    size = 2530
+  }
+  farmers = {
+    culture = latgalian
+    religion =  secularism
+    size = 1687
+  }
 }
 #Valmeira - Valmeira (225000/56250 POPS)
 355 = {
-	clergymen = {
-		culture = latvian
-		religion =  protestant 
-		size = 472
-	 } 
-	clergymen = {
-		culture = latvian
-		religion = secularism
-		size = 652
-	 } 
-	farmers = {
-		culture = latvian
-		religion =  protestant 
-		size = 23152
-	 } 
-	farmers = {
-		culture = latvian
-		religion = secularism
-		size = 31972
-	 } 
-	farmers = {
-		culture = russian
-		religion =  orthodox
-		size = 1300
-	 } 
-	farmers = {
-		culture = russian
-		religion = secularism
-		size = 2000
-	 } 
+  clergymen = {
+    culture = latvian
+    religion =  protestant
+    size = 472
+  }
+  clergymen = {
+    culture = latvian
+    religion = secularism
+    size = 652
+  }
+  farmers = {
+    culture = latvian
+    religion =  protestant
+    size = 23152
+  }
+  farmers = {
+    culture = latvian
+    religion = secularism
+    size = 31972
+  }
+  farmers = {
+    culture = russian
+    religion =  orthodox
+    size = 1300
+  }
+  farmers = {
+    culture = russian
+    religion = secularism
+    size = 2000
+  }
 }
 #Daugavpils - Daugavpils (225000/56250 POPS)
 356 = {
-	farmers = {
-		culture = russian
-		religion =  orthodox 
-		size = 20385
-	 } 
-	farmers = {
-		culture = russian
-		religion =  secularism
-		size = 24910
-	 } 
-	 farmers = {
-		culture = latvian
-		religion =  protestant
-		size = 5208
-	 } 
-	 farmers = {
-		culture = latvian
-		religion =  secularism
-		size = 7191
-	 } 
-	 farmers = {
-		culture = latgalian
-		religion =  catholic
-		size = 19106
-	 } 
-	 farmers = {
-		culture = latgalian
-		religion =  secularism
-		size = 12754
-	 } 
-	farmers = {
-		culture = byelorussian
-		religion =  catholic 
-		size = 3395
-	 } 
-	farmers = {
-		culture = byelorussian
-		religion =  secularism
-		size = 3133
-	 } 
-	farmers = {
-		culture = polish
-		religion = catholic
-		size = 3062
-	 } 
-	 farmers = {
-		culture = polish
-		religion = secularism
-		size = 2826
-	 } 
-	farmers = {
-		culture = ukrainian
-		religion = orthodox
-		size = 2109
-	 } 
-	farmers = {
-		culture = lithuanian
-		religion = catholic
-		size = 460
-	 } 
-	farmers = {
-		culture = lithuanian
-		religion = secularism
-		size = 137
-	 } 
-	 farmers = {
-		culture = jewish
-		religion = jewish
-		size = 475
-	 } 
-	 farmers = {
-		culture = tatar	
-		religion = sunni
-		size = 114
-	 } 
-	 farmers = {
-		culture = german
-		religion = catholic
-		size = 112
-	 } 
+  farmers = {
+    culture = russian
+    religion =  orthodox
+    size = 20385
+  }
+  farmers = {
+    culture = russian
+    religion =  secularism
+    size = 24910
+  }
+  farmers = {
+    culture = latvian
+    religion =  protestant
+    size = 5208
+  }
+  farmers = {
+    culture = latvian
+    religion =  secularism
+    size = 7191
+  }
+  farmers = {
+    culture = latgalian
+    religion =  catholic
+    size = 19106
+  }
+  farmers = {
+    culture = latgalian
+    religion =  secularism
+    size = 12754
+  }
+  farmers = {
+    culture = byelorussian
+    religion =  catholic
+    size = 3395
+  }
+  farmers = {
+    culture = byelorussian
+    religion =  secularism
+    size = 3133
+  }
+  farmers = {
+    culture = polish
+    religion = catholic
+    size = 3062
+  }
+  farmers = {
+    culture = polish
+    religion = secularism
+    size = 2826
+  }
+  farmers = {
+    culture = ukrainian
+    religion = orthodox
+    size = 2109
+  }
+  farmers = {
+    culture = lithuanian
+    religion = catholic
+    size = 460
+  }
+  farmers = {
+    culture = lithuanian
+    religion = secularism
+    size = 137
+  }
+  farmers = {
+    culture = jewish
+    religion = jewish
+    size = 475
+  }
+  farmers = {
+    culture = tatar
+    religion = sunni
+    size = 114
+  }
+  farmers = {
+    culture = german
+    religion = catholic
+    size = 112
+  }
 }
 #Jelgava - Jelgava (225000/56250 POPS)
 357 = {
-	clergymen = {
-		culture = latvian
-		religion =  protestant 
-		size = 472
-	 } 
-	clergymen = {
-		culture = latvian
-		religion = secularism
-		size = 652
-	 } 
-	farmers = {
-		culture = latvian
-		religion =  protestant 
-		size = 21520
-	 } 
-	farmers = {
-		culture = latvian
-		religion =  catholic
-		size = 14552
-	 } 
-	farmers = {
-		culture = latvian
-		religion = secularism
-		size = 28472
-	 } 
-	farmers = {
-		culture = russian
-		religion = orthodox
-		size = 8400
-	 } 
-	farmers = {
-		culture = russian
-		religion = secularism
-		size = 9800
-	 } 
+  clergymen = {
+    culture = latvian
+    religion =  protestant
+    size = 472
+  }
+  clergymen = {
+    culture = latvian
+    religion = secularism
+    size = 652
+  }
+  farmers = {
+    culture = latvian
+    religion =  protestant
+    size = 21520
+  }
+  farmers = {
+    culture = latvian
+    religion =  catholic
+    size = 14552
+  }
+  farmers = {
+    culture = latvian
+    religion = secularism
+    size = 28472
+  }
+  farmers = {
+    culture = russian
+    religion = orthodox
+    size = 8400
+  }
+  farmers = {
+    culture = russian
+    religion = secularism
+    size = 9800
+  }
 }
 #Ventspils - Ventspils (225000/56250 POPS)
 358 = {
-	clergymen = {
-		culture = latvian
-		religion =  protestant 
-		size = 472
-	 } 
-	clergymen = {
-		culture = latvian
-		religion = secularism
-		size = 652
-	 } 
-	farmers = {
-		culture = latvian
-		religion =  protestant 
-		size = 27642
-	 } 
-	farmers = {
-		culture = latvian
-		religion = secularism
-		size = 35462
-	 } 
-	farmers = {
-		culture = latgalian
-		religion =  catholic
-		size = 1246
-	 } 
-	farmers = {
-		culture = latgalian
-		religion =  secularism
-		size = 831
-	 } 
-	farmers = {
-		culture = russian
-		religion =  orthodox
-		size = 10000
-	 } 
-	farmers = {
-		culture = russian
-		religion =  secularism
-		size = 14000
-	 } 
+  clergymen = {
+    culture = latvian
+    religion =  protestant
+    size = 472
+  }
+  clergymen = {
+    culture = latvian
+    religion = secularism
+    size = 652
+  }
+  farmers = {
+    culture = latvian
+    religion =  protestant
+    size = 27642
+  }
+  farmers = {
+    culture = latvian
+    religion = secularism
+    size = 35462
+  }
+  farmers = {
+    culture = latgalian
+    religion =  catholic
+    size = 1246
+  }
+  farmers = {
+    culture = latgalian
+    religion =  secularism
+    size = 831
+  }
+  farmers = {
+    culture = russian
+    religion =  orthodox
+    size = 10000
+  }
+  farmers = {
+    culture = russian
+    religion =  secularism
+    size = 14000
+  }
 }
 #Liepaja - Liepaja (225000/56250 POPS)
 359 = {
-	clergymen = {
-		culture = latvian
-		religion =  protestant 
-		size = 472
-	 } 
-	clergymen = {
-		culture = latvian
-		religion = secularism
-		size = 652
-	 } 
-	farmers = {
-		culture = latvian
-		religion =  protestant 
-		size = 44227
-	 } 
-	farmers = {
-		culture = latvian
-		religion = secularism
-		size = 46445
-	 } 
-	farmers = {
-		culture = russian
-		religion =  orthodox
-		size = 4600
-	 } 
-	farmers = {
-		culture = russian
-		religion = secularism
-		size = 5200
-	 } 
+  clergymen = {
+    culture = latvian
+    religion =  protestant
+    size = 472
+  }
+  clergymen = {
+    culture = latvian
+    religion = secularism
+    size = 652
+  }
+  farmers = {
+    culture = latvian
+    religion =  protestant
+    size = 44227
+  }
+  farmers = {
+    culture = latvian
+    religion = secularism
+    size = 46445
+  }
+  farmers = {
+    culture = russian
+    religion =  orthodox
+    size = 4600
+  }
+  farmers = {
+    culture = russian
+    religion = secularism
+    size = 5200
+  }
 }

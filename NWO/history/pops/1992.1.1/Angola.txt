@@ -1,659 +1,659 @@
 #Luanda - Luanda, Bengo (2854000/713500 POPS)
 1999 = {
-	officers = {
-		culture = afro_portuguese
-		religion =  catholic 
-		size = 4319
-	 } 
-	officers = {
-		culture = afro_portuguese
-		religion = secularism
-		size = 479
-	 } 
-	soldiers = {
-		culture = afro_portuguese
-		religion =  catholic 
-		size = 82064
-	 } 
-	soldiers = {
-		culture = afro_portuguese
-		religion = secularism
-		size = 9118
-	 } 
-	aristocrats = {
-		culture = afro_portuguese
-		religion =  catholic 
-		size = 3517
-	 } 
-	aristocrats = {
-		culture = afro_portuguese
-		religion = secularism
-		size = 390
-	 } 
-	aristocrats = {
-		culture = portuguese
-		religion =  catholic 
-		size = 19264
-	 } 
-	aristocrats = {
-		culture = portuguese
-		religion = secularism
-		size = 2140
-	 } 
-	aristocrats = {
-		culture = chinese
-		religion =  taoism 
-		size = 2904
-	 } 
-	aristocrats = {
-		culture = chinese
-		religion = secularism
-		size = 322
-	 } 
-	bureaucrats = {
-		culture = chinese
-		religion =  taoism 
-		size = 641
-	 } 
-	bureaucrats = {
-		culture = chinese
-		religion = secularism
-		size = 71
-	 } 
-	capitalists = {
-		culture = chinese
-		religion =  taoism 
-		size = 3210
-	 } 
-	capitalists = {
-		culture = chinese
-		religion = secularism
-		size = 356
-	 } 
-	clergymen = {
-		culture = chinese
-		religion =  taoism 
-		size = 12843
-	 } 
-	clergymen = {
-		culture = chinese
-		religion = secularism
-		size = 1427
-	 } 
-	clerks = {
-		culture = chinese
-		religion =  taoism 
-		size = 12291
-	 } 
-	clerks = {
-		culture = chinese
-		religion = secularism
-		size = 1365
-	 } 
-	artisans = {
-		culture = chinese
-		religion =  taoism 
-		size = 6638
-	 } 
-	artisans = {
-		culture = chinese
-		religion = secularism
-		size = 737
-	 } 
-	artisans = {
-		culture = kimbundu
-		religion =  catholic 
-		size = 5038
-	 } 
-	artisans = {
-		culture = kimbundu
-		religion = secularism
-		size = 559
-	 } 
-	craftsmen = {
-		culture = kimbundu
-		religion =  catholic 
-		size = 36875
-	 } 
-	craftsmen = {
-		culture = kimbundu
-		religion = secularism
-		size = 4097
-	 } 
-	farmers = {
-		culture = kimbundu
-		religion =  catholic 
-		size = 279161
-	 } 
-	farmers = {
-		culture = kimbundu
-		religion = secularism
-		size = 31017
-	 } 
-	farmers = {
-		culture = ovimbundu
-		religion =  protestant 
-		size = 96322
-	 } 
-	farmers = {
-		culture = ovimbundu
-		religion = secularism
-		size = 10702
-	 } 
-	farmers = {
-		culture = bakongo
-		religion =  catholic 
-		size = 77058
-	 } 
-	farmers = {
-		culture = bakongo
-		religion = secularism
-		size = 8562
-	 } 
+  officers = {
+    culture = afro_portuguese
+    religion =  catholic
+    size = 4319
+  }
+  officers = {
+    culture = afro_portuguese
+    religion = secularism
+    size = 479
+  }
+  soldiers = {
+    culture = afro_portuguese
+    religion =  catholic
+    size = 82064
+  }
+  soldiers = {
+    culture = afro_portuguese
+    religion = secularism
+    size = 9118
+  }
+  aristocrats = {
+    culture = afro_portuguese
+    religion =  catholic
+    size = 3517
+  }
+  aristocrats = {
+    culture = afro_portuguese
+    religion = secularism
+    size = 390
+  }
+  aristocrats = {
+    culture = portuguese
+    religion =  catholic
+    size = 19264
+  }
+  aristocrats = {
+    culture = portuguese
+    religion = secularism
+    size = 2140
+  }
+  aristocrats = {
+    culture = chinese
+    religion =  taoism
+    size = 2904
+  }
+  aristocrats = {
+    culture = chinese
+    religion = secularism
+    size = 322
+  }
+  bureaucrats = {
+    culture = chinese
+    religion =  taoism
+    size = 641
+  }
+  bureaucrats = {
+    culture = chinese
+    religion = secularism
+    size = 71
+  }
+  capitalists = {
+    culture = chinese
+    religion =  taoism
+    size = 3210
+  }
+  capitalists = {
+    culture = chinese
+    religion = secularism
+    size = 356
+  }
+  clergymen = {
+    culture = chinese
+    religion =  taoism
+    size = 12843
+  }
+  clergymen = {
+    culture = chinese
+    religion = secularism
+    size = 1427
+  }
+  clerks = {
+    culture = chinese
+    religion =  taoism
+    size = 12291
+  }
+  clerks = {
+    culture = chinese
+    religion = secularism
+    size = 1365
+  }
+  artisans = {
+    culture = chinese
+    religion =  taoism
+    size = 6638
+  }
+  artisans = {
+    culture = chinese
+    religion = secularism
+    size = 737
+  }
+  artisans = {
+    culture = kimbundu
+    religion =  catholic
+    size = 5038
+  }
+  artisans = {
+    culture = kimbundu
+    religion = secularism
+    size = 559
+  }
+  craftsmen = {
+    culture = kimbundu
+    religion =  catholic
+    size = 36875
+  }
+  craftsmen = {
+    culture = kimbundu
+    religion = secularism
+    size = 4097
+  }
+  farmers = {
+    culture = kimbundu
+    religion =  catholic
+    size = 279161
+  }
+  farmers = {
+    culture = kimbundu
+    religion = secularism
+    size = 31017
+  }
+  farmers = {
+    culture = ovimbundu
+    religion =  protestant
+    size = 96322
+  }
+  farmers = {
+    culture = ovimbundu
+    religion = secularism
+    size = 10702
+  }
+  farmers = {
+    culture = bakongo
+    religion =  catholic
+    size = 77058
+  }
+  farmers = {
+    culture = bakongo
+    religion = secularism
+    size = 8562
+  }
 }
 #Cabinda - Cabinda (203000/50750 POPS)
 2000 = {
-	officers = {
-		culture = bakongo
-		religion =  catholic 
-		size = 150
-	 } 
-	officers = {
-		culture = bakongo
-		religion = secularism
-		size = 16
-	 } 
-	soldiers = {
-		culture = bakongo
-		religion =  catholic 
-		size = 2859
-	 } 
-	soldiers = {
-		culture = bakongo
-		religion = secularism
-		size = 317
-	 } 
-	aristocrats = {
-		culture = bakongo
-		religion =  catholic 
-		size = 1827
-	 } 
-	aristocrats = {
-		culture = bakongo
-		religion = secularism
-		size = 203
-	 } 
-	bureaucrats = {
-		culture = bakongo
-		religion =  catholic 
-		size = 45
-	 } 
-	bureaucrats = {
-		culture = bakongo
-		religion = secularism
-		size = 5
-	 } 
-	capitalists = {
-		culture = bakongo
-		religion =  catholic 
-		size = 227
-	 } 
-	capitalists = {
-		culture = bakongo
-		religion = secularism
-		size = 25
-	 } 
-	clergymen = {
-		culture = bakongo
-		religion =  catholic 
-		size = 913
-	 } 
-	clergymen = {
-		culture = bakongo
-		religion = secularism
-		size = 101
-	 } 
-	clerks = {
-		culture = bakongo
-		religion =  catholic 
-		size = 943
-	 } 
-	clerks = {
-		culture = bakongo
-		religion = secularism
-		size = 104
-	 } 
-	artisans = {
-		culture = bakongo
-		religion =  catholic 
-		size = 895
-	 } 
-	artisans = {
-		culture = bakongo
-		religion = secularism
-		size = 99
-	 } 
-	craftsmen = {
-		culture = bakongo
-		religion =  catholic 
-		size = 2830
-	 } 
-	craftsmen = {
-		culture = bakongo
-		religion = secularism
-		size = 314
-	 } 
-	farmers = {
-		culture = bakongo
-		religion =  catholic 
-		size = 34983
-	 } 
-	farmers = {
-		culture = bakongo
-		religion = secularism
-		size = 3887
-	 } 
+  officers = {
+    culture = bakongo
+    religion =  catholic
+    size = 150
+  }
+  officers = {
+    culture = bakongo
+    religion = secularism
+    size = 16
+  }
+  soldiers = {
+    culture = bakongo
+    religion =  catholic
+    size = 2859
+  }
+  soldiers = {
+    culture = bakongo
+    religion = secularism
+    size = 317
+  }
+  aristocrats = {
+    culture = bakongo
+    religion =  catholic
+    size = 1827
+  }
+  aristocrats = {
+    culture = bakongo
+    religion = secularism
+    size = 203
+  }
+  bureaucrats = {
+    culture = bakongo
+    religion =  catholic
+    size = 45
+  }
+  bureaucrats = {
+    culture = bakongo
+    religion = secularism
+    size = 5
+  }
+  capitalists = {
+    culture = bakongo
+    religion =  catholic
+    size = 227
+  }
+  capitalists = {
+    culture = bakongo
+    religion = secularism
+    size = 25
+  }
+  clergymen = {
+    culture = bakongo
+    religion =  catholic
+    size = 913
+  }
+  clergymen = {
+    culture = bakongo
+    religion = secularism
+    size = 101
+  }
+  clerks = {
+    culture = bakongo
+    religion =  catholic
+    size = 943
+  }
+  clerks = {
+    culture = bakongo
+    religion = secularism
+    size = 104
+  }
+  artisans = {
+    culture = bakongo
+    religion =  catholic
+    size = 895
+  }
+  artisans = {
+    culture = bakongo
+    religion = secularism
+    size = 99
+  }
+  craftsmen = {
+    culture = bakongo
+    religion =  catholic
+    size = 2830
+  }
+  craftsmen = {
+    culture = bakongo
+    religion = secularism
+    size = 314
+  }
+  farmers = {
+    culture = bakongo
+    religion =  catholic
+    size = 34983
+  }
+  farmers = {
+    culture = bakongo
+    religion = secularism
+    size = 3887
+  }
 }
 #Mbanza - Uige, Zaire (690000/172500 POPS)
 2001 = {
-	clergymen = {
-		culture = bakongo
-		religion =  catholic 
-		size = 3105
-	 } 
-	clergymen = {
-		culture = bakongo
-		religion = secularism
-		size = 345
-	 } 
-	farmers = {
-		culture = bakongo
-		religion =  catholic 
-		size = 152145
-	 } 
-	farmers = {
-		culture = bakongo
-		religion = secularism
-		size = 16905
-	 } 
+  clergymen = {
+    culture = bakongo
+    religion =  catholic
+    size = 3105
+  }
+  clergymen = {
+    culture = bakongo
+    religion = secularism
+    size = 345
+  }
+  farmers = {
+    culture = bakongo
+    religion =  catholic
+    size = 152145
+  }
+  farmers = {
+    culture = bakongo
+    religion = secularism
+    size = 16905
+  }
 }
 #Quibala - Cuanza Sul, Cuanza Norte (795000/198750 POPS)
 2002 = {
-	clergymen = {
-		culture = kimbundu
-		religion =  catholic 
-		size = 3577
-	 } 
-	clergymen = {
-		culture = kimbundu
-		religion = secularism
-		size = 397
-	 } 
-	farmers = {
-		culture = kimbundu
-		religion =  catholic 
-		size = 175297
-	 } 
-	farmers = {
-		culture = kimbundu
-		religion = secularism
-		size = 19477
-	 } 
+  clergymen = {
+    culture = kimbundu
+    religion =  catholic
+    size = 3577
+  }
+  clergymen = {
+    culture = kimbundu
+    religion = secularism
+    size = 397
+  }
+  farmers = {
+    culture = kimbundu
+    religion =  catholic
+    size = 175297
+  }
+  farmers = {
+    culture = kimbundu
+    religion = secularism
+    size = 19477
+  }
 }
 #Benguela - Benguela (913000/228250 POPS)
 2003 = {
-	clergymen = {
-		culture = ovimbundu
-		religion =  protestant 
-		size = 4108
-	 } 
-	clergymen = {
-		culture = ovimbundu
-		religion = secularism
-		size = 456
-	 } 
-	farmers = {
-		culture = ovimbundu
-		religion =  protestant 
-		size = 201316
-	 } 
-	farmers = {
-		culture = ovimbundu
-		religion = secularism
-		size = 22368
-	 } 
+  clergymen = {
+    culture = ovimbundu
+    religion =  protestant
+    size = 4108
+  }
+  clergymen = {
+    culture = ovimbundu
+    religion = secularism
+    size = 456
+  }
+  farmers = {
+    culture = ovimbundu
+    religion =  protestant
+    size = 201316
+  }
+  farmers = {
+    culture = ovimbundu
+    religion = secularism
+    size = 22368
+  }
 }
 #Mocamedes - Namibe (168000/42000 POPS)
 2004 = {
-	clergymen = {
-		culture = herero
-		religion =  protestant 
-		size = 756
-	 } 
-	clergymen = {
-		culture = herero
-		religion = secularism
-		size = 84
-	 } 
-	farmers = {
-		culture = herero
-		religion =  protestant 
-		size = 3024
-	 } 
-	farmers = {
-		culture = herero
-		religion = secularism
-		size = 336
-	 } 
-	farmers = {
-		culture = ovimbundu
-		religion =  protestant 
-		size = 34020
-	 } 
-	farmers = {
-		culture = ovimbundu
-		religion = secularism
-		size = 3780
-	 } 
+  clergymen = {
+    culture = herero
+    religion =  protestant
+    size = 756
+  }
+  clergymen = {
+    culture = herero
+    religion = secularism
+    size = 84
+  }
+  farmers = {
+    culture = herero
+    religion =  protestant
+    size = 3024
+  }
+  farmers = {
+    culture = herero
+    religion = secularism
+    size = 336
+  }
+  farmers = {
+    culture = ovimbundu
+    religion =  protestant
+    size = 34020
+  }
+  farmers = {
+    culture = ovimbundu
+    religion = secularism
+    size = 3780
+  }
 }
 #Huambo - Huambo, Huila (1712000/428000 POPS)
 2005 = {
-	clergymen = {
-		culture = ovimbundu
-		religion =  protestant 
-		size = 7704
-	 } 
-	clergymen = {
-		culture = ovimbundu
-		religion = secularism
-		size = 856
-	 } 
-	farmers = {
-		culture = ovimbundu
-		religion =  protestant 
-		size = 377496
-	 } 
-	farmers = {
-		culture = ovimbundu
-		religion = secularism
-		size = 41944
-	 } 
+  clergymen = {
+    culture = ovimbundu
+    religion =  protestant
+    size = 7704
+  }
+  clergymen = {
+    culture = ovimbundu
+    religion = secularism
+    size = 856
+  }
+  farmers = {
+    culture = ovimbundu
+    religion =  protestant
+    size = 377496
+  }
+  farmers = {
+    culture = ovimbundu
+    religion = secularism
+    size = 41944
+  }
 }
 #Kuito - Bie (526000/131500 POPS)
 2006 = {
-	officers = {
-		culture = ganguela
-		religion =  animist 
-		size = 2785
-	 } 
-	officers = {
-		culture = ganguela
-		religion = secularism
-		size = 309
-	 } 
-	soldiers = {
-		culture = ganguela
-		religion =  animist 
-		size = 3132
-	 } 
-	soldiers = {
-		culture = ganguela
-		religion = secularism
-		size = 348
-	 } 
-	soldiers = {
-		culture = ovimbundu
-		religion =  protestant 
-		size = 49804
-	 } 
-	soldiers = {
-		culture = ovimbundu
-		religion = secularism
-		size = 5533
-	 } 
-	aristocrats = {
-		culture = ovimbundu
-		religion =  protestant 
-		size = 4734
-	 } 
-	aristocrats = {
-		culture = ovimbundu
-		religion = secularism
-		size = 526
-	 } 
-	bureaucrats = {
-		culture = ovimbundu
-		religion =  protestant 
-		size = 117
-	 } 
-	bureaucrats = {
-		culture = ovimbundu
-		religion = secularism
-		size = 13
-	 } 
-	capitalists = {
-		culture = ovimbundu
-		religion =  protestant 
-		size = 591
-	 } 
-	capitalists = {
-		culture = ovimbundu
-		religion = secularism
-		size = 65
-	 } 
-	clergymen = {
-		culture = ovimbundu
-		religion =  protestant 
-		size = 2367
-	 } 
-	clergymen = {
-		culture = ovimbundu
-		religion = secularism
-		size = 263
-	 } 
-	clerks = {
-		culture = ovimbundu
-		religion =  protestant 
-		size = 1385
-	 } 
-	clerks = {
-		culture = ovimbundu
-		religion = secularism
-		size = 153
-	 } 
-	artisans = {
-		culture = ovimbundu
-		religion =  protestant 
-		size = 1315
-	 } 
-	artisans = {
-		culture = ovimbundu
-		religion = secularism
-		size = 146
-	 } 
-	craftsmen = {
-		culture = ovimbundu
-		religion =  protestant 
-		size = 4155
-	 } 
-	craftsmen = {
-		culture = ovimbundu
-		religion = secularism
-		size = 461
-	 } 
-	farmers = {
-		culture = ovimbundu
-		religion =  protestant 
-		size = 30209
-	 } 
-	farmers = {
-		culture = ovimbundu
-		religion = secularism
-		size = 3356
-	 } 
-	farmers = {
-		culture = chokwe
-		religion =  catholic 
-		size = 17752
-	 } 
-	farmers = {
-		culture = chokwe
-		religion = secularism
-		size = 1972
-	 } 
+  officers = {
+    culture = ganguela
+    religion =  animist
+    size = 2785
+  }
+  officers = {
+    culture = ganguela
+    religion = secularism
+    size = 309
+  }
+  soldiers = {
+    culture = ganguela
+    religion =  animist
+    size = 3132
+  }
+  soldiers = {
+    culture = ganguela
+    religion = secularism
+    size = 348
+  }
+  soldiers = {
+    culture = ovimbundu
+    religion =  protestant
+    size = 49804
+  }
+  soldiers = {
+    culture = ovimbundu
+    religion = secularism
+    size = 5533
+  }
+  aristocrats = {
+    culture = ovimbundu
+    religion =  protestant
+    size = 4734
+  }
+  aristocrats = {
+    culture = ovimbundu
+    religion = secularism
+    size = 526
+  }
+  bureaucrats = {
+    culture = ovimbundu
+    religion =  protestant
+    size = 117
+  }
+  bureaucrats = {
+    culture = ovimbundu
+    religion = secularism
+    size = 13
+  }
+  capitalists = {
+    culture = ovimbundu
+    religion =  protestant
+    size = 591
+  }
+  capitalists = {
+    culture = ovimbundu
+    religion = secularism
+    size = 65
+  }
+  clergymen = {
+    culture = ovimbundu
+    religion =  protestant
+    size = 2367
+  }
+  clergymen = {
+    culture = ovimbundu
+    religion = secularism
+    size = 263
+  }
+  clerks = {
+    culture = ovimbundu
+    religion =  protestant
+    size = 1385
+  }
+  clerks = {
+    culture = ovimbundu
+    religion = secularism
+    size = 153
+  }
+  artisans = {
+    culture = ovimbundu
+    religion =  protestant
+    size = 1315
+  }
+  artisans = {
+    culture = ovimbundu
+    religion = secularism
+    size = 146
+  }
+  craftsmen = {
+    culture = ovimbundu
+    religion =  protestant
+    size = 4155
+  }
+  craftsmen = {
+    culture = ovimbundu
+    religion = secularism
+    size = 461
+  }
+  farmers = {
+    culture = ovimbundu
+    religion =  protestant
+    size = 30209
+  }
+  farmers = {
+    culture = ovimbundu
+    religion = secularism
+    size = 3356
+  }
+  farmers = {
+    culture = chokwe
+    religion =  catholic
+    size = 17752
+  }
+  farmers = {
+    culture = chokwe
+    religion = secularism
+    size = 1972
+  }
 }
 #Mavinga - Cuando Cubango (181000/45250 POPS)
 2007 = {
-	clergymen = {
-		culture = ganguela
-		religion =  animist 
-		size = 814
-	 } 
-	clergymen = {
-		culture = ganguela
-		religion = secularism
-		size = 90
-	 } 
-	farmers = {
-		culture = ganguela
-		religion =  animist 
-		size = 39910
-	 } 
-	farmers = {
-		culture = ganguela
-		religion = secularism
-		size = 4434
-	 } 
+  clergymen = {
+    culture = ganguela
+    religion =  animist
+    size = 814
+  }
+  clergymen = {
+    culture = ganguela
+    religion = secularism
+    size = 90
+  }
+  farmers = {
+    culture = ganguela
+    religion =  animist
+    size = 39910
+  }
+  farmers = {
+    culture = ganguela
+    religion = secularism
+    size = 4434
+  }
 }
 #Ondjiva - Cuene (298000/74500 POPS)
 2008 = {
-	clergymen = {
-		culture = afro_portuguese
-		religion =  catholic 
-		size = 1341
-	 } 
-	clergymen = {
-		culture = afro_portuguese
-		religion = secularism
-		size = 149
-	 } 
-	farmers = {
-		culture = afro_portuguese
-		religion =  catholic 
-		size = 5364
-	 } 
-	farmers = {
-		culture = afro_portuguese
-		religion = secularism
-		size = 596
-	 } 
-	farmers = {
-		culture = ovambo
-		religion =  protestant 
-		size = 60345
-	 } 
-	farmers = {
-		culture = ovambo
-		religion = secularism
-		size = 6705
-	 } 
+  clergymen = {
+    culture = afro_portuguese
+    religion =  catholic
+    size = 1341
+  }
+  clergymen = {
+    culture = afro_portuguese
+    religion = secularism
+    size = 149
+  }
+  farmers = {
+    culture = afro_portuguese
+    religion =  catholic
+    size = 5364
+  }
+  farmers = {
+    culture = afro_portuguese
+    religion = secularism
+    size = 596
+  }
+  farmers = {
+    culture = ovambo
+    religion =  protestant
+    size = 60345
+  }
+  farmers = {
+    culture = ovambo
+    religion = secularism
+    size = 6705
+  }
 }
 #Malanje - Malanje (347000/86750 POPS)
 2009 = {
-	clergymen = {
-		culture = kimbundu
-		religion =  catholic 
-		size = 1561
-	 } 
-	clergymen = {
-		culture = kimbundu
-		religion = secularism
-		size = 173
-	 } 
-	farmers = {
-		culture = kimbundu
-		religion =  catholic 
-		size = 37476
-	 } 
-	farmers = {
-		culture = kimbundu
-		religion = secularism
-		size = 4164
-	 } 
-	farmers = {
-		culture = ganguela
-		religion =  animist 
-		size = 31230
-	 } 
-	farmers = {
-		culture = ganguela
-		religion = secularism
-		size = 3470
-	 } 
-	farmers = {
-		culture = bakongo
-		religion =  catholic 
-		size = 7807
-	 } 
-	farmers = {
-		culture = bakongo
-		religion = secularism
-		size = 867
-	 } 
+  clergymen = {
+    culture = kimbundu
+    religion =  catholic
+    size = 1561
+  }
+  clergymen = {
+    culture = kimbundu
+    religion = secularism
+    size = 173
+  }
+  farmers = {
+    culture = kimbundu
+    religion =  catholic
+    size = 37476
+  }
+  farmers = {
+    culture = kimbundu
+    religion = secularism
+    size = 4164
+  }
+  farmers = {
+    culture = ganguela
+    religion =  animist
+    size = 31230
+  }
+  farmers = {
+    culture = ganguela
+    religion = secularism
+    size = 3470
+  }
+  farmers = {
+    culture = bakongo
+    religion =  catholic
+    size = 7807
+  }
+  farmers = {
+    culture = bakongo
+    religion = secularism
+    size = 867
+  }
 }
 #Saurimo - Lunda Norte, Lunda Sur (532000/133000 POPS)
 2010 = {
-	clergymen = {
-		culture = chokwe
-		religion =  catholic 
-		size = 2394
-	 } 
-	clergymen = {
-		culture = chokwe
-		religion = secularism
-		size = 266
-	 } 
-	farmers = {
-		culture = chokwe
-		religion =  catholic 
-		size = 117306
-	 } 
-	farmers = {
-		culture = chokwe
-		religion = secularism
-		size = 13034
-	 } 
+  clergymen = {
+    culture = chokwe
+    religion =  catholic
+    size = 2394
+  }
+  clergymen = {
+    culture = chokwe
+    religion = secularism
+    size = 266
+  }
+  farmers = {
+    culture = chokwe
+    religion =  catholic
+    size = 117306
+  }
+  farmers = {
+    culture = chokwe
+    religion = secularism
+    size = 13034
+  }
 }
 #Kubanda - Moxico (260000/65000 POPS)
 2011 = {
-	clergymen = {
-		culture = chokwe
-		religion =  catholic 
-		size = 1170
-	 } 
-	clergymen = {
-		culture = chokwe
-		religion = secularism
-		size = 130
-	 } 
-	farmers = {
-		culture = chokwe
-		religion =  catholic 
-		size = 45630
-	 } 
-	farmers = {
-		culture = chokwe
-		religion = secularism
-		size = 5070
-	 } 
-	farmers = {
-		culture = ganguela
-		religion =  animist 
-		size = 11700
-	 } 
-	farmers = {
-		culture = ganguela
-		religion = secularism
-		size = 1300
-	 } 
+  clergymen = {
+    culture = chokwe
+    religion =  catholic
+    size = 1170
+  }
+  clergymen = {
+    culture = chokwe
+    religion = secularism
+    size = 130
+  }
+  farmers = {
+    culture = chokwe
+    religion =  catholic
+    size = 45630
+  }
+  farmers = {
+    culture = chokwe
+    religion = secularism
+    size = 5070
+  }
+  farmers = {
+    culture = ganguela
+    religion =  animist
+    size = 11700
+  }
+  farmers = {
+    culture = ganguela
+    religion = secularism
+    size = 1300
+  }
 }

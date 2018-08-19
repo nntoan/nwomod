@@ -1,208 +1,208 @@
 #Lhasa - Lhasa (236000/59000 POPS)
 1587 = {
-	officers = {
-		culture = tibetan
-		religion =  buddhist 
-		size = 468
-	 } 
-	officers = {
-		culture = tibetan
-		religion = secularism
-		size = 120
-	 } 
-	soldiers = {
-		culture = tibetan
-		religion =  buddhist 
-		size = 8897
-	 } 
-	soldiers = {
-		culture = tibetan
-		religion = secularism
-		size = 2294
-	 } 
-	aristocrats = {
-		culture = tibetan
-		religion =  buddhist 
-		size = 1876
-	 } 
-	aristocrats = {
-		culture = tibetan
-		religion = secularism
-		size = 483
-	 } 
-	bureaucrats = {
-		culture = tibetan
-		religion =  buddhist 
-		size = 46
-	 } 
-	bureaucrats = {
-		culture = tibetan
-		religion = secularism
-		size = 12
-	 } 
-	clergymen = {
-		culture = tibetan
-		religion =  buddhist 
-		size = 938
-	 } 
-	clergymen = {
-		culture = tibetan
-		religion = secularism
-		size = 241
-	 } 
-	artisans = {
-		culture = tibetan
-		religion =  buddhist 
-		size = 93
-	 } 
-	artisans = {
-		culture = tibetan
-		religion = secularism
-		size = 23
-	 } 
-	farmers = {
-		culture = tibetan
-		religion =  buddhist 
-		size = 26611
-	 } 
-	farmers = {
-		culture = tibetan
-		religion = secularism
-		size = 6861
-	 } 
-	farmers = {
-		culture = chinese
-		religion =  taoism 
-		size = 7973
-	 } 
-	farmers = {
-		culture = chinese
-		religion = secularism
-		size = 2056
-	 } 
+  officers = {
+    culture = tibetan
+    religion =  buddhist
+    size = 468
+  }
+  officers = {
+    culture = tibetan
+    religion = secularism
+    size = 120
+  }
+  soldiers = {
+    culture = tibetan
+    religion =  buddhist
+    size = 8897
+  }
+  soldiers = {
+    culture = tibetan
+    religion = secularism
+    size = 2294
+  }
+  aristocrats = {
+    culture = tibetan
+    religion =  buddhist
+    size = 1876
+  }
+  aristocrats = {
+    culture = tibetan
+    religion = secularism
+    size = 483
+  }
+  bureaucrats = {
+    culture = tibetan
+    religion =  buddhist
+    size = 46
+  }
+  bureaucrats = {
+    culture = tibetan
+    religion = secularism
+    size = 12
+  }
+  clergymen = {
+    culture = tibetan
+    religion =  buddhist
+    size = 938
+  }
+  clergymen = {
+    culture = tibetan
+    religion = secularism
+    size = 241
+  }
+  artisans = {
+    culture = tibetan
+    religion =  buddhist
+    size = 93
+  }
+  artisans = {
+    culture = tibetan
+    religion = secularism
+    size = 23
+  }
+  farmers = {
+    culture = tibetan
+    religion =  buddhist
+    size = 26611
+  }
+  farmers = {
+    culture = tibetan
+    religion = secularism
+    size = 6861
+  }
+  farmers = {
+    culture = chinese
+    religion =  taoism
+    size = 7973
+  }
+  farmers = {
+    culture = chinese
+    religion = secularism
+    size = 2056
+  }
 }
 #Chamdo - Qamdo (278000/69500 POPS)
 1588 = {
-	clergymen = {
-		culture = tibetan
-		religion =  buddhist 
-		size = 1105
-	 } 
-	clergymen = {
-		culture = tibetan
-		religion = secularism
-		size = 284
-	 } 
-	farmers = {
-		culture = tibetan
-		religion =  buddhist 
-		size = 47517
-	 } 
-	farmers = {
-		culture = tibetan
-		religion = secularism
-		size = 12252
-	 } 
-	farmers = {
-		culture = chinese
-		religion =  taoism 
-		size = 6630
-	 } 
-	farmers = {
-		culture = chinese
-		religion = secularism
-		size = 1709
-	 } 
+  clergymen = {
+    culture = tibetan
+    religion =  buddhist
+    size = 1105
+  }
+  clergymen = {
+    culture = tibetan
+    religion = secularism
+    size = 284
+  }
+  farmers = {
+    culture = tibetan
+    religion =  buddhist
+    size = 47517
+  }
+  farmers = {
+    culture = tibetan
+    religion = secularism
+    size = 12252
+  }
+  farmers = {
+    culture = chinese
+    religion =  taoism
+    size = 6630
+  }
+  farmers = {
+    culture = chinese
+    religion = secularism
+    size = 1709
+  }
 }
 #Shigatse - Xigazê (297000/74250 POPS)
 1589 = {
-	clergymen = {
-		culture = tibetan
-		religion =  buddhist 
-		size = 1180
-	 } 
-	clergymen = {
-		culture = tibetan
-		religion = secularism
-		size = 304
-	 } 
-	farmers = {
-		culture = tibetan
-		religion =  buddhist 
-		size = 57848
-	 } 
-	farmers = {
-		culture = tibetan
-		religion = secularism
-		size = 14916
-	 } 
+  clergymen = {
+    culture = tibetan
+    religion =  buddhist
+    size = 1180
+  }
+  clergymen = {
+    culture = tibetan
+    religion = secularism
+    size = 304
+  }
+  farmers = {
+    culture = tibetan
+    religion =  buddhist
+    size = 57848
+  }
+  farmers = {
+    culture = tibetan
+    religion = secularism
+    size = 14916
+  }
 }
 #Lhodrak - Nyingchi, Shannan (221000/55250 POPS)
 1590 = {
-	clergymen = {
-		culture = tibetan
-		religion =  buddhist 
-		size = 878
-	 } 
-	clergymen = {
-		culture = tibetan
-		religion = secularism
-		size = 226
-	 } 
-	farmers = {
-		culture = tibetan
-		religion =  buddhist 
-		size = 43045
-	 } 
-	farmers = {
-		culture = tibetan
-		religion = secularism
-		size = 11099
-	 } 
+  clergymen = {
+    culture = tibetan
+    religion =  buddhist
+    size = 878
+  }
+  clergymen = {
+    culture = tibetan
+    religion = secularism
+    size = 226
+  }
+  farmers = {
+    culture = tibetan
+    religion =  buddhist
+    size = 43045
+  }
+  farmers = {
+    culture = tibetan
+    religion = secularism
+    size = 11099
+  }
 }
 #Changtang - Nagqu (195000/48750 POPS)
 1591 = {
-	clergymen = {
-		culture = tibetan
-		religion =  buddhist 
-		size = 775
-	 } 
-	clergymen = {
-		culture = tibetan
-		religion = secularism
-		size = 199
-	 } 
-	farmers = {
-		culture = tibetan
-		religion =  buddhist 
-		size = 37981
-	 } 
-	farmers = {
-		culture = tibetan
-		religion = secularism
-		size = 9793
-	 } 
+  clergymen = {
+    culture = tibetan
+    religion =  buddhist
+    size = 775
+  }
+  clergymen = {
+    culture = tibetan
+    religion = secularism
+    size = 199
+  }
+  farmers = {
+    culture = tibetan
+    religion =  buddhist
+    size = 37981
+  }
+  farmers = {
+    culture = tibetan
+    religion = secularism
+    size = 9793
+  }
 }
 #Ngari - Ngari (40000/10000 POPS)
 1592 = {
-	clergymen = {
-		culture = tibetan
-		religion =  buddhist 
-		size = 159
-	 } 
-	clergymen = {
-		culture = tibetan
-		religion = secularism
-		size = 41
-	 } 
-	farmers = {
-		culture = tibetan
-		religion =  buddhist 
-		size = 7790
-	 } 
-	farmers = {
-		culture = tibetan
-		religion = secularism
-		size = 2009
-	 } 
+  clergymen = {
+    culture = tibetan
+    religion =  buddhist
+    size = 159
+  }
+  clergymen = {
+    culture = tibetan
+    religion = secularism
+    size = 41
+  }
+  farmers = {
+    culture = tibetan
+    religion =  buddhist
+    size = 7790
+  }
+  farmers = {
+    culture = tibetan
+    religion = secularism
+    size = 2009
+  }
 }

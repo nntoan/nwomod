@@ -7,24 +7,24 @@ country_event = {
 
   trigger = {
     tag = SVI
-	year = 1955 NOT = { year = 1962 }
+    year = 1955 NOT = { year = 1962 }
   }
 
   mean_time_to_happen = { months = 5  }
 
   option = {
     name = EVT_8018013_A
-	define_general = { name = "Ngo Dinh Diem" personality = energetic background = no_background }
-	government = provisional_government
-	any_pop = { militancy = -0.3  consciousness = 1.0 }
-	relation = { who = USA value = 100 } 
-	ai_chance = { factor = 100 }
+    define_general = { name = "Ngo Dinh Diem" personality = energetic background = no_background }
+    government = provisional_government
+    any_pop = { militancy = -0.3  consciousness = 1.0 }
+    relation = { who = USA value = 100 }
+    ai_chance = { factor = 100 }
   }
 
   option = {
     name = EVT_8018013_B
-	any_pop = { militancy = 0.5  consciousness = 1.0 }
-	ai_chance = { factor = 0 }
+    any_pop = { militancy = 0.5  consciousness = 1.0 }
+    ai_chance = { factor = 0 }
   }
 }
 country_event = {
@@ -36,7 +36,7 @@ country_event = {
 
   option = {
     name = EVT_8018014_A
-	government = presidential_dictatorship country_event = 800050
+    government = presidential_dictatorship country_event = 800050
   }
 }
 country_event = {
@@ -48,15 +48,15 @@ country_event = {
 
   trigger = {
     tag = SVI
-	year = 1963 NOT = { year = 1964 }
+    year = 1963 NOT = { year = 1964 }
   }
 
   mean_time_to_happen = { months = 2 }
 
   option = {
     name = EVT_8018020_A
-	any_pop = { militancy = 1.0  consciousness = 2.0 }
-	set_country_flag = self_immolation
+    any_pop = { militancy = 1.0  consciousness = 2.0 }
+    set_country_flag = self_immolation
   }
 }
 country_event = {
@@ -68,23 +68,23 @@ country_event = {
 
   trigger = {
     tag = ICU
-	year = 1950 NOT = { year = 1963 }
+    year = 1950 NOT = { year = 1963 }
   }
 
   mean_time_to_happen = { months = 2 }
 
   option = {
     name = EVT_8018021_A
-	release = CAM 
-	release = LAO 
-	change_tag = SVI 
-	ai_chance = { factor = 100 }
+    release = CAM
+    release = LAO
+    change_tag = SVI
+    ai_chance = { factor = 100 }
   }
 
   option = {
     name = EVT_8018021_B
-	any_pop = { militancy = 2.5  consciousness = 1.0 }
-	ai_chance = { factor = 0 }
+    any_pop = { militancy = 2.5  consciousness = 1.0 }
+    ai_chance = { factor = 0 }
   }
 }
 country_event = {
@@ -96,7 +96,7 @@ country_event = {
 
   trigger = {
     tag = SVI
-	year = 1963 NOT = { year = 1971 }
+    year = 1963 NOT = { year = 1971 }
     has_country_flag = self_immolation
   }
 
@@ -104,16 +104,16 @@ country_event = {
 
   option = {
     name = EVT_8018022_A
-	country_event = 8018014 
-	relation = { who = VNM value = 50 } 
-	ai_chance = { factor = 100 }
+    country_event = 8018014
+    relation = { who = VNM value = 50 }
+    ai_chance = { factor = 100 }
   }
 
   option = {
     name = EVT_8018022_B
-	ai_chance = { factor = 0 }
-	country_event = 8018023 
-	relation = { who = VNM value = -50 } 
+    ai_chance = { factor = 0 }
+    country_event = 8018023
+    relation = { who = VNM value = -50 }
   }
 }
 country_event = {
@@ -125,6 +125,6 @@ country_event = {
 
   option = {
     name = EVT_8018023_A
-	any_pop = { militancy = 2.5  consciousness = 1.0 }
+    any_pop = { militancy = 2.5  consciousness = 1.0 }
   }
 }

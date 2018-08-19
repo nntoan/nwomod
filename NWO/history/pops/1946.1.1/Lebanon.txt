@@ -1,212 +1,212 @@
 #Baalbeck - Baalbeck (194000/48500 POPS)
 912 = {
-	clergymen = {
-		culture = christian_arab
-		religion =  orthodox 
-		size = 938
-	 } 
-	clergymen = {
-		culture = christian_arab
-		religion = secularism
-		size = 31
-	 } 
-	farmers = {
-		culture = christian_arab
-		religion =  orthodox 
-		size = 3753
-	 } 
-	farmers = {
-		culture = christian_arab
-		religion = secularism
-		size = 126
-	 } 
-	farmers = {
-		culture = shia_arab
-		religion =  shiite 
-		size = 31525
-	 } 
-	farmers = {
-		culture = sunni_arab
-		religion =  sunni 
-		size = 12125
-	 } 
+  clergymen = {
+    culture = christian_arab
+    religion =  orthodox
+    size = 938
+  }
+  clergymen = {
+    culture = christian_arab
+    religion = secularism
+    size = 31
+  }
+  farmers = {
+    culture = christian_arab
+    religion =  orthodox
+    size = 3753
+  }
+  farmers = {
+    culture = christian_arab
+    religion = secularism
+    size = 126
+  }
+  farmers = {
+    culture = shia_arab
+    religion =  shiite
+    size = 31525
+  }
+  farmers = {
+    culture = sunni_arab
+    religion =  sunni
+    size = 12125
+  }
 }
 #Beirut - Beirut (781000/195250 POPS)
 913 = {
-	officers = {
-		culture = christian_arab
-		religion =  orthodox 
-		size = 106
-	 } 
-	officers = {
-		culture = christian_arab
-		religion = secularism
-		size = 3
-	 } 
-	soldiers = {
-		culture = christian_arab
-		religion =  orthodox 
-		size = 2024
-	 } 
-	soldiers = {
-		culture = christian_arab
-		religion = secularism
-		size = 68
-	 } 
-	aristocrats = {
-		culture = christian_arab
-		religion =  orthodox 
-		size = 7556
-	 } 
-	aristocrats = {
-		culture = christian_arab
-		religion = secularism
-		size = 253
-	 } 
-	bureaucrats = {
-		culture = christian_arab
-		religion =  orthodox 
-		size = 188
-	 } 
-	bureaucrats = {
-		culture = christian_arab
-		religion = secularism
-		size = 6
-	 } 
-	capitalists = {
-		culture = christian_arab
-		religion =  orthodox 
-		size = 944
-	 } 
-	capitalists = {
-		culture = christian_arab
-		religion = secularism
-		size = 31
-	 } 
-	clergymen = {
-		culture = christian_arab
-		religion =  orthodox 
-		size = 3778
-	 } 
-	clergymen = {
-		culture = christian_arab
-		religion = secularism
-		size = 126
-	 } 
-	clerks = {
-		culture = christian_arab
-		religion =  orthodox 
-		size = 2930
-	 } 
-	clerks = {
-		culture = christian_arab
-		religion = secularism
-		size = 98
-	 } 
-	artisans = {
-		culture = christian_arab
-		religion =  orthodox 
-		size = 2783
-	 } 
-	artisans = {
-		culture = christian_arab
-		religion = secularism
-		size = 93
-	 } 
-	craftsmen = {
-		culture = christian_arab
-		religion =  orthodox 
-		size = 8791
-	 } 
-	craftsmen = {
-		culture = christian_arab
-		religion = secularism
-		size = 295
-	 } 
-	farmers = {
-		culture = christian_arab
-		religion =  orthodox 
-		size = 76682
-	 } 
-	farmers = {
-		culture = christian_arab
-		religion = secularism
-		size = 2575
-	 } 
-	farmers = {
-		culture = sunni_arab
-		religion =  sunni 
-		size = 42955
-	 } 
-	farmers = {
-		culture = shia_arab
-		religion =  shiite 
-		size = 23430
-	 } 
-	farmers = {
-		culture = druze
-		religion =  druze 
-		size = 19525
-	 } 
+  officers = {
+    culture = christian_arab
+    religion =  orthodox
+    size = 106
+  }
+  officers = {
+    culture = christian_arab
+    religion = secularism
+    size = 3
+  }
+  soldiers = {
+    culture = christian_arab
+    religion =  orthodox
+    size = 2024
+  }
+  soldiers = {
+    culture = christian_arab
+    religion = secularism
+    size = 68
+  }
+  aristocrats = {
+    culture = christian_arab
+    religion =  orthodox
+    size = 7556
+  }
+  aristocrats = {
+    culture = christian_arab
+    religion = secularism
+    size = 253
+  }
+  bureaucrats = {
+    culture = christian_arab
+    religion =  orthodox
+    size = 188
+  }
+  bureaucrats = {
+    culture = christian_arab
+    religion = secularism
+    size = 6
+  }
+  capitalists = {
+    culture = christian_arab
+    religion =  orthodox
+    size = 944
+  }
+  capitalists = {
+    culture = christian_arab
+    religion = secularism
+    size = 31
+  }
+  clergymen = {
+    culture = christian_arab
+    religion =  orthodox
+    size = 3778
+  }
+  clergymen = {
+    culture = christian_arab
+    religion = secularism
+    size = 126
+  }
+  clerks = {
+    culture = christian_arab
+    religion =  orthodox
+    size = 2930
+  }
+  clerks = {
+    culture = christian_arab
+    religion = secularism
+    size = 98
+  }
+  artisans = {
+    culture = christian_arab
+    religion =  orthodox
+    size = 2783
+  }
+  artisans = {
+    culture = christian_arab
+    religion = secularism
+    size = 93
+  }
+  craftsmen = {
+    culture = christian_arab
+    religion =  orthodox
+    size = 8791
+  }
+  craftsmen = {
+    culture = christian_arab
+    religion = secularism
+    size = 295
+  }
+  farmers = {
+    culture = christian_arab
+    religion =  orthodox
+    size = 76682
+  }
+  farmers = {
+    culture = christian_arab
+    religion = secularism
+    size = 2575
+  }
+  farmers = {
+    culture = sunni_arab
+    religion =  sunni
+    size = 42955
+  }
+  farmers = {
+    culture = shia_arab
+    religion =  shiite
+    size = 23430
+  }
+  farmers = {
+    culture = druze
+    religion =  druze
+    size = 19525
+  }
 }
 #Askaleh - Askaleh (194000/48500 POPS)
 914 = {
-	clergymen = {
-		culture = christian_arab
-		religion =  orthodox 
-		size = 938
-	 } 
-	clergymen = {
-		culture = christian_arab
-		religion = secularism
-		size = 31
-	 } 
-	farmers = {
-		culture = christian_arab
-		religion =  orthodox 
-		size = 25338
-	 } 
-	farmers = {
-		culture = christian_arab
-		religion = secularism
-		size = 851
-	 } 
-	farmers = {
-		culture = sunni_arab
-		religion =  sunni 
-		size = 21340
-	 } 
+  clergymen = {
+    culture = christian_arab
+    religion =  orthodox
+    size = 938
+  }
+  clergymen = {
+    culture = christian_arab
+    religion = secularism
+    size = 31
+  }
+  farmers = {
+    culture = christian_arab
+    religion =  orthodox
+    size = 25338
+  }
+  farmers = {
+    culture = christian_arab
+    religion = secularism
+    size = 851
+  }
+  farmers = {
+    culture = sunni_arab
+    religion =  sunni
+    size = 21340
+  }
 }
 #Sidon - Sidon (194000/48500 POPS)
 915 = {
-	clergymen = {
-		culture = christian_arab
-		religion =  orthodox 
-		size = 938
-	 } 
-	clergymen = {
-		culture = christian_arab
-		religion = secularism
-		size = 31
-	 } 
-	farmers = {
-		culture = christian_arab
-		religion =  orthodox 
-		size = 1407
-	 } 
-	farmers = {
-		culture = christian_arab
-		religion = secularism
-		size = 47
-	 } 
-	farmers = {
-		culture = shia_arab
-		religion =  shiite 
-		size = 33950
-	 } 
-	farmers = {
-		culture = sunni_arab
-		religion =  sunni 
-		size = 12125
-	 } 
+  clergymen = {
+    culture = christian_arab
+    religion =  orthodox
+    size = 938
+  }
+  clergymen = {
+    culture = christian_arab
+    religion = secularism
+    size = 31
+  }
+  farmers = {
+    culture = christian_arab
+    religion =  orthodox
+    size = 1407
+  }
+  farmers = {
+    culture = christian_arab
+    religion = secularism
+    size = 47
+  }
+  farmers = {
+    culture = shia_arab
+    religion =  shiite
+    size = 33950
+  }
+  farmers = {
+    culture = sunni_arab
+    religion =  sunni
+    size = 12125
+  }
 }

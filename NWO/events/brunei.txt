@@ -15,7 +15,7 @@ country_event = {
 
   option = {
     name = "OK"
-	any_pop = { consciousness = -1.0 }
+    any_pop = { consciousness = -1.0 }
   }
 }
 country_event = {
@@ -35,7 +35,7 @@ country_event = {
 
   option = {
     name = "OK"
-	any_pop = { consciousness = -1.0 }
+    any_pop = { consciousness = -1.0 }
   }
 }
 country_event = {
@@ -55,6 +55,6 @@ country_event = {
 
   option = {
     name = EVT_8002103_A
-	any_pop = { consciousness = -1.0 }
+    any_pop = { consciousness = -1.0 }
   }
 }

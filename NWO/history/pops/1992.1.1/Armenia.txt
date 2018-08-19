@@ -1,164 +1,164 @@
 #Erivan - Yerevan (2553000/638250 POPS)
 1098 = {
-	officers = {
-		culture = armenian
-		religion =  orthodox 
-		size = 1158
-	 } 
-	officers = {
-		culture = armenian
-		religion = secularism
-		size = 254
-	 } 
-	soldiers = {
-		culture = armenian
-		religion =  orthodox 
-		size = 22015
-	 } 
-	soldiers = {
-		culture = armenian
-		religion = secularism
-		size = 4832
-	 } 
-	aristocrats = {
-		culture = armenian
-		religion =  orthodox 
-		size = 13083
-	 } 
-	aristocrats = {
-		culture = armenian
-		religion = secularism
-		size = 2872
-	 } 
-	bureaucrats = {
-		culture = armenian
-		religion =  orthodox 
-		size = 2616
-	 } 
-	bureaucrats = {
-		culture = armenian
-		religion = secularism
-		size = 574
-	 } 
-	capitalists = {
-		culture = armenian
-		religion =  orthodox 
-		size = 3139
-	 } 
-	capitalists = {
-		culture = armenian
-		religion = secularism
-		size = 689
-	 } 
-	clergymen = {
-		culture = armenian
-		religion =  orthodox 
-		size = 10467
-	 } 
-	clergymen = {
-		culture = armenian
-		religion = secularism
-		size = 2297
-	 } 
-	clerks = {
-		culture = armenian
-		religion =  orthodox 
-		size = 12106
-	 } 
-	clerks = {
-		culture = armenian
-		religion = secularism
-		size = 2657
-	 } 
-	artisans = {
-		culture = armenian
-		religion =  orthodox 
-		size = 11500
-	 } 
-	artisans = {
-		culture = armenian
-		religion = secularism
-		size = 2524
-	 } 
-	craftsmen = {
-		culture = armenian
-		religion =  orthodox 
-		size = 36319
-	 } 
-	craftsmen = {
-		culture = armenian
-		religion = secularism
-		size = 7972
-	 } 
-	farmers = {
-		culture = armenian
-		religion =  orthodox 
-		size = 405722
-	 } 
-	farmers = {
-		culture = armenian
-		religion = secularism
-		size = 89061
-	 } 
-	farmers = {
-		culture = russian
-		religion =  orthodox 
-		size = 5233
-	 } 
-	farmers = {
-		culture = russian
-		religion = secularism
-		size = 1148
-	 } 
+  officers = {
+    culture = armenian
+    religion =  orthodox
+    size = 1158
+  }
+  officers = {
+    culture = armenian
+    religion = secularism
+    size = 254
+  }
+  soldiers = {
+    culture = armenian
+    religion =  orthodox
+    size = 22015
+  }
+  soldiers = {
+    culture = armenian
+    religion = secularism
+    size = 4832
+  }
+  aristocrats = {
+    culture = armenian
+    religion =  orthodox
+    size = 13083
+  }
+  aristocrats = {
+    culture = armenian
+    religion = secularism
+    size = 2872
+  }
+  bureaucrats = {
+    culture = armenian
+    religion =  orthodox
+    size = 2616
+  }
+  bureaucrats = {
+    culture = armenian
+    religion = secularism
+    size = 574
+  }
+  capitalists = {
+    culture = armenian
+    religion =  orthodox
+    size = 3139
+  }
+  capitalists = {
+    culture = armenian
+    religion = secularism
+    size = 689
+  }
+  clergymen = {
+    culture = armenian
+    religion =  orthodox
+    size = 10467
+  }
+  clergymen = {
+    culture = armenian
+    religion = secularism
+    size = 2297
+  }
+  clerks = {
+    culture = armenian
+    religion =  orthodox
+    size = 12106
+  }
+  clerks = {
+    culture = armenian
+    religion = secularism
+    size = 2657
+  }
+  artisans = {
+    culture = armenian
+    religion =  orthodox
+    size = 11500
+  }
+  artisans = {
+    culture = armenian
+    religion = secularism
+    size = 2524
+  }
+  craftsmen = {
+    culture = armenian
+    religion =  orthodox
+    size = 36319
+  }
+  craftsmen = {
+    culture = armenian
+    religion = secularism
+    size = 7972
+  }
+  farmers = {
+    culture = armenian
+    religion =  orthodox
+    size = 405722
+  }
+  farmers = {
+    culture = armenian
+    religion = secularism
+    size = 89061
+  }
+  farmers = {
+    culture = russian
+    religion =  orthodox
+    size = 5233
+  }
+  farmers = {
+    culture = russian
+    religion = secularism
+    size = 1148
+  }
 }
 #Gyumri - Shirak, Lori, Tavush (625000/156250 POPS)
 1099 = {
-	clergymen = {
-		culture = armenian
-		religion =  orthodox 
-		size = 2562
-	 } 
-	clergymen = {
-		culture = armenian
-		religion = secularism
-		size = 562
-	 } 
-	farmers = {
-		culture = armenian
-		religion =  orthodox 
-		size = 119155
-	 } 
-	farmers = {
-		culture = armenian
-		religion = secularism
-		size = 26156
-	 } 
-	farmers = {
-		culture = kurdish
-		religion =  sunni 
-		size = 7812
-	 } 
+  clergymen = {
+    culture = armenian
+    religion =  orthodox
+    size = 2562
+  }
+  clergymen = {
+    culture = armenian
+    religion = secularism
+    size = 562
+  }
+  farmers = {
+    culture = armenian
+    religion =  orthodox
+    size = 119155
+  }
+  farmers = {
+    culture = armenian
+    religion = secularism
+    size = 26156
+  }
+  farmers = {
+    culture = kurdish
+    religion =  sunni
+    size = 7812
+  }
 }
 #Kapan - Varots Zor, Syunik (198000/49500 POPS)
 1100 = {
-	clergymen = {
-		culture = armenian
-		religion =  orthodox 
-		size = 811
-	 } 
-	clergymen = {
-		culture = armenian
-		religion = secularism
-		size = 178
-	 } 
-	farmers = {
-		culture = armenian
-		religion =  orthodox 
-		size = 39778
-	 } 
-	farmers = {
-		culture = armenian
-		religion = secularism
-		size = 8731
-	 } 
+  clergymen = {
+    culture = armenian
+    religion =  orthodox
+    size = 811
+  }
+  clergymen = {
+    culture = armenian
+    religion = secularism
+    size = 178
+  }
+  farmers = {
+    culture = armenian
+    religion =  orthodox
+    size = 39778
+  }
+  farmers = {
+    culture = armenian
+    religion = secularism
+    size = 8731
+  }
 }

@@ -1,361 +1,361 @@
 #Harare - Harare (2696000/674000 POPS)
 2068 = {
-	capitalists = {
-		culture = british
-		religion =  protestant 
-		size = 3066
-	 } 
-	capitalists = {
-		culture = british
-		religion = secularism
-		size = 303
-	 } 
-	officers = {
-		culture = british
-		religion =  protestant 
-		size = 1502
-	 } 
-	officers = {
-		culture = british
-		religion = secularism
-		size = 148
-	 } 
-	soldiers = {
-		culture = british
-		religion =  protestant 
-		size = 19964
-	 } 
-	soldiers = {
-		culture = british
-		religion = secularism
-		size = 1974
-	 } 
-	soldiers = {
-		culture = shona
-		religion =  protestant 
-		size = 8590
-	 } 
-	soldiers = {
-		culture = shona
-		religion = secularism
-		size = 849
-	 } 
-	aristocrats = {
-		culture = shona
-		religion =  protestant 
-		size = 24533
-	 } 
-	aristocrats = {
-		culture = shona
-		religion = secularism
-		size = 2426
-	 } 
-	bureaucrats = {
-		culture = shona
-		religion =  protestant 
-		size = 1226
-	 } 
-	bureaucrats = {
-		culture = shona
-		religion = secularism
-		size = 121
-	 } 
-	clergymen = {
-		culture = shona
-		religion =  protestant 
-		size = 12266
-	 } 
-	clergymen = {
-		culture = shona
-		religion = secularism
-		size = 1213
-	 } 
-	clerks = {
-		culture = shona
-		religion =  protestant 
-		size = 8402
-	 } 
-	clerks = {
-		culture = shona
-		religion = secularism
-		size = 830
-	 } 
-	artisans = {
-		culture = shona
-		religion =  protestant 
-		size = 7981
-	 } 
-	artisans = {
-		culture = shona
-		religion = secularism
-		size = 789
-	 } 
-	craftsmen = {
-		culture = shona
-		religion =  protestant 
-		size = 25207
-	 } 
-	craftsmen = {
-		culture = shona
-		religion = secularism
-		size = 2493
-	 } 
-	farmers = {
-		culture = shona
-		religion =  protestant 
-		size = 500598
-	 } 
-	farmers = {
-		culture = shona
-		religion = secularism
-		size = 49509
-	 } 
+  capitalists = {
+    culture = british
+    religion =  protestant
+    size = 3066
+  }
+  capitalists = {
+    culture = british
+    religion = secularism
+    size = 303
+  }
+  officers = {
+    culture = british
+    religion =  protestant
+    size = 1502
+  }
+  officers = {
+    culture = british
+    religion = secularism
+    size = 148
+  }
+  soldiers = {
+    culture = british
+    religion =  protestant
+    size = 19964
+  }
+  soldiers = {
+    culture = british
+    religion = secularism
+    size = 1974
+  }
+  soldiers = {
+    culture = shona
+    religion =  protestant
+    size = 8590
+  }
+  soldiers = {
+    culture = shona
+    religion = secularism
+    size = 849
+  }
+  aristocrats = {
+    culture = shona
+    religion =  protestant
+    size = 24533
+  }
+  aristocrats = {
+    culture = shona
+    religion = secularism
+    size = 2426
+  }
+  bureaucrats = {
+    culture = shona
+    religion =  protestant
+    size = 1226
+  }
+  bureaucrats = {
+    culture = shona
+    religion = secularism
+    size = 121
+  }
+  clergymen = {
+    culture = shona
+    religion =  protestant
+    size = 12266
+  }
+  clergymen = {
+    culture = shona
+    religion = secularism
+    size = 1213
+  }
+  clerks = {
+    culture = shona
+    religion =  protestant
+    size = 8402
+  }
+  clerks = {
+    culture = shona
+    religion = secularism
+    size = 830
+  }
+  artisans = {
+    culture = shona
+    religion =  protestant
+    size = 7981
+  }
+  artisans = {
+    culture = shona
+    religion = secularism
+    size = 789
+  }
+  craftsmen = {
+    culture = shona
+    religion =  protestant
+    size = 25207
+  }
+  craftsmen = {
+    culture = shona
+    religion = secularism
+    size = 2493
+  }
+  farmers = {
+    culture = shona
+    religion =  protestant
+    size = 500598
+  }
+  farmers = {
+    culture = shona
+    religion = secularism
+    size = 49509
+  }
 }
 #Gweru - Gweru (1255000/313750 POPS)
 2069 = {
-	clergymen = {
-		culture = shona
-		religion =  protestant 
-		size = 5710
-	 } 
-	clergymen = {
-		culture = shona
-		religion = secularism
-		size = 564
-	 } 
-	farmers = {
-		culture = shona
-		religion =  protestant 
-		size = 254105
-	 } 
-	farmers = {
-		culture = shona
-		religion = secularism
-		size = 25131
-	 } 
-	farmers = {
-		culture = nguni
-		religion =  protestant 
-		size = 25695
-	 } 
-	farmers = {
-		culture = nguni
-		religion = secularism
-		size = 2541
-	 } 
+  clergymen = {
+    culture = shona
+    religion =  protestant
+    size = 5710
+  }
+  clergymen = {
+    culture = shona
+    religion = secularism
+    size = 564
+  }
+  farmers = {
+    culture = shona
+    religion =  protestant
+    size = 254105
+  }
+  farmers = {
+    culture = shona
+    religion = secularism
+    size = 25131
+  }
+  farmers = {
+    culture = nguni
+    religion =  protestant
+    size = 25695
+  }
+  farmers = {
+    culture = nguni
+    religion = secularism
+    size = 2541
+  }
 }
 #Mutare - Mutare (1362000/340500 POPS)
 2070 = {
-	clergymen = {
-		culture = shona
-		religion =  protestant 
-		size = 6197
-	 } 
-	clergymen = {
-		culture = shona
-		religion = secularism
-		size = 612
-	 } 
-	farmers = {
-		culture = shona
-		religion =  protestant 
-		size = 303657
-	 } 
-	farmers = {
-		culture = shona
-		religion = secularism
-		size = 30032
-	 } 
+  clergymen = {
+    culture = shona
+    religion =  protestant
+    size = 6197
+  }
+  clergymen = {
+    culture = shona
+    religion = secularism
+    size = 612
+  }
+  farmers = {
+    culture = shona
+    religion =  protestant
+    size = 303657
+  }
+  farmers = {
+    culture = shona
+    religion = secularism
+    size = 30032
+  }
 }
 #Bulawayo - Bulawayo (1039000/259750 POPS)
 2071 = {
-	officers = {
-		culture = nguni
-		religion =  protestant 
-		size = 280
-	 } 
-	officers = {
-		culture = nguni
-		religion = secularism
-		size = 27
-	 } 
-	soldiers = {
-		culture = nguni
-		religion =  protestant 
-		size = 5329
-	 } 
-	soldiers = {
-		culture = nguni
-		religion = secularism
-		size = 527
-	 } 
-	aristocrats = {
-		culture = nguni
-		religion =  protestant 
-		size = 9454
-	 } 
-	aristocrats = {
-		culture = nguni
-		religion = secularism
-		size = 935
-	 } 
-	bureaucrats = {
-		culture = nguni
-		religion =  protestant 
-		size = 472
-	 } 
-	bureaucrats = {
-		culture = nguni
-		religion = secularism
-		size = 46
-	 } 
-	capitalists = {
-		culture = nguni
-		religion =  protestant 
-		size = 1181
-	 } 
-	capitalists = {
-		culture = nguni
-		religion = secularism
-		size = 116
-	 } 
-	clergymen = {
-		culture = nguni
-		religion =  protestant 
-		size = 4727
-	 } 
-	clergymen = {
-		culture = nguni
-		religion = secularism
-		size = 467
-	 } 
-	clerks = {
-		culture = nguni
-		religion =  protestant 
-		size = 3324
-	 } 
-	clerks = {
-		culture = nguni
-		religion = secularism
-		size = 328
-	 } 
-	artisans = {
-		culture = nguni
-		religion =  protestant 
-		size = 3157
-	 } 
-	artisans = {
-		culture = nguni
-		religion = secularism
-		size = 312
-	 } 
-	craftsmen = {
-		culture = nguni
-		religion =  protestant 
-		size = 9972
-	 } 
-	craftsmen = {
-		culture = nguni
-		religion = secularism
-		size = 986
-	 } 
-	farmers = {
-		culture = nguni
-		religion =  protestant 
-		size = 151197
-	 } 
-	farmers = {
-		culture = nguni
-		religion = secularism
-		size = 14953
-	 } 
-	farmers = {
-		culture = venda
-		religion =  protestant 
-		size = 47274
-	 } 
-	farmers = {
-		culture = venda
-		religion = secularism
-		size = 4675
-	 } 
+  officers = {
+    culture = nguni
+    religion =  protestant
+    size = 280
+  }
+  officers = {
+    culture = nguni
+    religion = secularism
+    size = 27
+  }
+  soldiers = {
+    culture = nguni
+    religion =  protestant
+    size = 5329
+  }
+  soldiers = {
+    culture = nguni
+    religion = secularism
+    size = 527
+  }
+  aristocrats = {
+    culture = nguni
+    religion =  protestant
+    size = 9454
+  }
+  aristocrats = {
+    culture = nguni
+    religion = secularism
+    size = 935
+  }
+  bureaucrats = {
+    culture = nguni
+    religion =  protestant
+    size = 472
+  }
+  bureaucrats = {
+    culture = nguni
+    religion = secularism
+    size = 46
+  }
+  capitalists = {
+    culture = nguni
+    religion =  protestant
+    size = 1181
+  }
+  capitalists = {
+    culture = nguni
+    religion = secularism
+    size = 116
+  }
+  clergymen = {
+    culture = nguni
+    religion =  protestant
+    size = 4727
+  }
+  clergymen = {
+    culture = nguni
+    religion = secularism
+    size = 467
+  }
+  clerks = {
+    culture = nguni
+    religion =  protestant
+    size = 3324
+  }
+  clerks = {
+    culture = nguni
+    religion = secularism
+    size = 328
+  }
+  artisans = {
+    culture = nguni
+    religion =  protestant
+    size = 3157
+  }
+  artisans = {
+    culture = nguni
+    religion = secularism
+    size = 312
+  }
+  craftsmen = {
+    culture = nguni
+    religion =  protestant
+    size = 9972
+  }
+  craftsmen = {
+    culture = nguni
+    religion = secularism
+    size = 986
+  }
+  farmers = {
+    culture = nguni
+    religion =  protestant
+    size = 151197
+  }
+  farmers = {
+    culture = nguni
+    religion = secularism
+    size = 14953
+  }
+  farmers = {
+    culture = venda
+    religion =  protestant
+    size = 47274
+  }
+  farmers = {
+    culture = venda
+    religion = secularism
+    size = 4675
+  }
 }
 #Hwange - Hwange (582000/145500 POPS)
 2072 = {
-	clergymen = {
-		culture = tonga
-		religion =  protestant 
-		size = 2648
-	 } 
-	clergymen = {
-		culture = tonga
-		religion = secularism
-		size = 261
-	 } 
-	farmers = {
-		culture = tonga
-		religion =  protestant 
-		size = 19860
-	 } 
-	farmers = {
-		culture = tonga
-		religion = secularism
-		size = 1964
-	 } 
-	farmers = {
-		culture = nguni
-		religion =  protestant 
-		size = 109896
-	 } 
-	farmers = {
-		culture = nguni
-		religion = secularism
-		size = 10868
-	 } 
+  clergymen = {
+    culture = tonga
+    religion =  protestant
+    size = 2648
+  }
+  clergymen = {
+    culture = tonga
+    religion = secularism
+    size = 261
+  }
+  farmers = {
+    culture = tonga
+    religion =  protestant
+    size = 19860
+  }
+  farmers = {
+    culture = tonga
+    religion = secularism
+    size = 1964
+  }
+  farmers = {
+    culture = nguni
+    religion =  protestant
+    size = 109896
+  }
+  farmers = {
+    culture = nguni
+    religion = secularism
+    size = 10868
+  }
 }
 #Masvingo - Masvingo (1155000/288750 POPS)
 2073 = {
-	clergymen = {
-		culture = shona
-		religion =  protestant 
-		size = 5255
-	 } 
-	clergymen = {
-		culture = shona
-		religion = secularism
-		size = 519
-	 } 
-	farmers = {
-		culture = shona
-		religion =  protestant 
-		size = 257507
-	 } 
-	farmers = {
-		culture = shona
-		religion = secularism
-		size = 25467
-	 } 
+  clergymen = {
+    culture = shona
+    religion =  protestant
+    size = 5255
+  }
+  clergymen = {
+    culture = shona
+    religion = secularism
+    size = 519
+  }
+  farmers = {
+    culture = shona
+    religion =  protestant
+    size = 257507
+  }
+  farmers = {
+    culture = shona
+    religion = secularism
+    size = 25467
+  }
 }
 #Kariba - Kariba (2063000/515750 POPS)
 2635 = {
-	clergymen = {
-		culture = shona
-		religion =  protestant 
-		size = 9386
-	 } 
-	clergymen = {
-		culture = shona
-		religion = secularism
-		size = 928
-	 } 
-	farmers = {
-		culture = shona
-		religion =  protestant 
-		size = 459945
-	 } 
-	farmers = {
-		culture = shona
-		religion = secularism
-		size = 45489
-	 } 
+  clergymen = {
+    culture = shona
+    religion =  protestant
+    size = 9386
+  }
+  clergymen = {
+    culture = shona
+    religion = secularism
+    size = 928
+  }
+  farmers = {
+    culture = shona
+    religion =  protestant
+    size = 459945
+  }
+  farmers = {
+    culture = shona
+    religion = secularism
+    size = 45489
+  }
 }

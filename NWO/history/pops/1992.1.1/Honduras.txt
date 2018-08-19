@@ -1,212 +1,212 @@
 #Comayagua - Comayagua (1483000/370750 POPS)
 2193 = {
-	officers = {
-		culture = central_american_spanish
-		religion =  catholic 
-		size = 3622
-	 } 
-	officers = {
-		culture = central_american_spanish
-		religion = secularism
-		size = 541
-	 } 
-	soldiers = {
-		culture = central_american_spanish
-		religion =  catholic 
-		size = 6053
-	 } 
-	soldiers = {
-		culture = central_american_spanish
-		religion = secularism
-		size = 904
-	 } 
-	soldiers = {
-		culture = central_american_spanish
-		religion =  catholic 
-		size = 62784
-	 } 
-	soldiers = {
-		culture = central_american_spanish
-		religion = secularism
-		size = 9381
-	 } 
-	aristocrats = {
-		culture = central_american_spanish
-		religion =  catholic 
-		size = 12902
-	 } 
-	aristocrats = {
-		culture = central_american_spanish
-		religion = secularism
-		size = 1927
-	 } 
-	bureaucrats = {
-		culture = central_american_spanish
-		religion =  catholic 
-		size = 321
-	 } 
-	bureaucrats = {
-		culture = central_american_spanish
-		religion = secularism
-		size = 48
-	 } 
-	capitalists = {
-		culture = central_american_spanish
-		religion =  catholic 
-		size = 1612
-	 } 
-	capitalists = {
-		culture = central_american_spanish
-		religion = secularism
-		size = 240
-	 } 
-	clergymen = {
-		culture = central_american_spanish
-		religion =  catholic 
-		size = 6451
-	 } 
-	clergymen = {
-		culture = central_american_spanish
-		religion = secularism
-		size = 963
-	 } 
-	clerks = {
-		culture = central_american_spanish
-		religion =  catholic 
-		size = 4877
-	 } 
-	clerks = {
-		culture = central_american_spanish
-		religion = secularism
-		size = 728
-	 } 
-	artisans = {
-		culture = central_american_spanish
-		religion =  catholic 
-		size = 4632
-	 } 
-	artisans = {
-		culture = central_american_spanish
-		religion = secularism
-		size = 692
-	 } 
-	craftsmen = {
-		culture = central_american_spanish
-		religion =  catholic 
-		size = 14631
-	 } 
-	craftsmen = {
-		culture = central_american_spanish
-		religion = secularism
-		size = 2186
-	 } 
-	farmers = {
-		culture = central_american_spanish
-		religion =  catholic 
-		size = 204662
-	 } 
-	farmers = {
-		culture = central_american_spanish
-		religion = secularism
-		size = 30581
-	 } 
+  officers = {
+    culture = central_american_spanish
+    religion =  catholic
+    size = 3622
+  }
+  officers = {
+    culture = central_american_spanish
+    religion = secularism
+    size = 541
+  }
+  soldiers = {
+    culture = central_american_spanish
+    religion =  catholic
+    size = 6053
+  }
+  soldiers = {
+    culture = central_american_spanish
+    religion = secularism
+    size = 904
+  }
+  soldiers = {
+    culture = central_american_spanish
+    religion =  catholic
+    size = 62784
+  }
+  soldiers = {
+    culture = central_american_spanish
+    religion = secularism
+    size = 9381
+  }
+  aristocrats = {
+    culture = central_american_spanish
+    religion =  catholic
+    size = 12902
+  }
+  aristocrats = {
+    culture = central_american_spanish
+    religion = secularism
+    size = 1927
+  }
+  bureaucrats = {
+    culture = central_american_spanish
+    religion =  catholic
+    size = 321
+  }
+  bureaucrats = {
+    culture = central_american_spanish
+    religion = secularism
+    size = 48
+  }
+  capitalists = {
+    culture = central_american_spanish
+    religion =  catholic
+    size = 1612
+  }
+  capitalists = {
+    culture = central_american_spanish
+    religion = secularism
+    size = 240
+  }
+  clergymen = {
+    culture = central_american_spanish
+    religion =  catholic
+    size = 6451
+  }
+  clergymen = {
+    culture = central_american_spanish
+    religion = secularism
+    size = 963
+  }
+  clerks = {
+    culture = central_american_spanish
+    religion =  catholic
+    size = 4877
+  }
+  clerks = {
+    culture = central_american_spanish
+    religion = secularism
+    size = 728
+  }
+  artisans = {
+    culture = central_american_spanish
+    religion =  catholic
+    size = 4632
+  }
+  artisans = {
+    culture = central_american_spanish
+    religion = secularism
+    size = 692
+  }
+  craftsmen = {
+    culture = central_american_spanish
+    religion =  catholic
+    size = 14631
+  }
+  craftsmen = {
+    culture = central_american_spanish
+    religion = secularism
+    size = 2186
+  }
+  farmers = {
+    culture = central_american_spanish
+    religion =  catholic
+    size = 204662
+  }
+  farmers = {
+    culture = central_american_spanish
+    religion = secularism
+    size = 30581
+  }
 }
 #San Pedro Sula - San Pedro Sula (2208000/552000 POPS)
 2194 = {
-	clergymen = {
-		culture = central_american_spanish
-		religion =  catholic 
-		size = 9604
-	 } 
-	clergymen = {
-		culture = central_american_spanish
-		religion = secularism
-		size = 1435
-	 } 
-	farmers = {
-		culture = central_american_spanish
-		religion =  catholic 
-		size = 398599
-	 } 
-	farmers = {
-		culture = central_american_spanish
-		religion = secularism
-		size = 59560
-	 } 
-	farmers = {
-		culture = native_american_minor
-		religion =  catholic 
-		size = 72036
-	 } 
-	farmers = {
-		culture = native_american_minor
-		religion = secularism
-		size = 10764
-	 } 
+  clergymen = {
+    culture = central_american_spanish
+    religion =  catholic
+    size = 9604
+  }
+  clergymen = {
+    culture = central_american_spanish
+    religion = secularism
+    size = 1435
+  }
+  farmers = {
+    culture = central_american_spanish
+    religion =  catholic
+    size = 398599
+  }
+  farmers = {
+    culture = central_american_spanish
+    religion = secularism
+    size = 59560
+  }
+  farmers = {
+    culture = native_american_minor
+    religion =  catholic
+    size = 72036
+  }
+  farmers = {
+    culture = native_american_minor
+    religion = secularism
+    size = 10764
+  }
 }
 #La Ceiba - La Ceiba (1049000/262250 POPS)
 2195 = {
-	clergymen = {
-		culture = central_american_spanish
-		religion =  catholic 
-		size = 4563
-	 } 
-	clergymen = {
-		culture = central_american_spanish
-		religion = secularism
-		size = 681
-	 } 
-	farmers = {
-		culture = central_american_spanish
-		religion =  catholic 
-		size = 207622
-	 } 
-	farmers = {
-		culture = central_american_spanish
-		religion = secularism
-		size = 31024
-	 } 
-	farmers = {
-		culture = afro_spanish
-		religion =  catholic 
-		size = 15970
-	 } 
-	farmers = {
-		culture = afro_spanish
-		religion = secularism
-		size = 2386
-	 } 
+  clergymen = {
+    culture = central_american_spanish
+    religion =  catholic
+    size = 4563
+  }
+  clergymen = {
+    culture = central_american_spanish
+    religion = secularism
+    size = 681
+  }
+  farmers = {
+    culture = central_american_spanish
+    religion =  catholic
+    size = 207622
+  }
+  farmers = {
+    culture = central_american_spanish
+    religion = secularism
+    size = 31024
+  }
+  farmers = {
+    culture = afro_spanish
+    religion =  catholic
+    size = 15970
+  }
+  farmers = {
+    culture = afro_spanish
+    religion = secularism
+    size = 2386
+  }
 }
 #Puerto Lempira - Puerto Lempira (52000/13000 POPS)
 2196 = {
-	clergymen = {
-		culture = anglo_african
-		religion =  protestant 
-		size = 226
-	 } 
-	clergymen = {
-		culture = anglo_african
-		religion = secularism
-		size = 33
-	 } 
-	farmers = {
-		culture = anglo_african
-		religion =  protestant 
-		size = 904
-	 } 
-	farmers = {
-		culture = anglo_african
-		religion = secularism
-		size = 135
-	 } 
-	farmers = {
-		culture = central_american_spanish
-		religion =  catholic 
-		size = 10179
-	 } 
-	farmers = {
-		culture = central_american_spanish
-		religion = secularism
-		size = 1521
-	 } 
+  clergymen = {
+    culture = anglo_african
+    religion =  protestant
+    size = 226
+  }
+  clergymen = {
+    culture = anglo_african
+    religion = secularism
+    size = 33
+  }
+  farmers = {
+    culture = anglo_african
+    religion =  protestant
+    size = 904
+  }
+  farmers = {
+    culture = anglo_african
+    religion = secularism
+    size = 135
+  }
+  farmers = {
+    culture = central_american_spanish
+    religion =  catholic
+    size = 10179
+  }
+  farmers = {
+    culture = central_american_spanish
+    religion = secularism
+    size = 1521
+  }
 }

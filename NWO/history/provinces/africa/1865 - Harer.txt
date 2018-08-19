@@ -7,15 +7,15 @@ life_rating = 37
 terrain = mountain_grassland
 colonial = 0
 state_building = {
-	level = 1
-	building = footwear_factory
-	upgrade = yes
+  level = 1
+  building = footwear_factory
+  upgrade = yes
 }
 1992.1.1 = {
-owner = ETH
-controller = ETH
-add_core = ETH
-add_core = SOM
-add_core = OGA
-colonial = 0
+  owner = ETH
+  controller = ETH
+  add_core = ETH
+  add_core = SOM
+  add_core = OGA
+  colonial = 0
 }

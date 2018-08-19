@@ -1,296 +1,296 @@
 #Fortin Falcon - Fortin Falcon (73000/18250 POPS)
 2337 = {
-	clergymen = {
-		culture = rioplatense
-		religion =  catholic 
-		size = 328
-	 } 
-	clergymen = {
-		culture = rioplatense
-		religion = secularism
-		size = 36
-	 } 
-	farmers = {
-		culture = rioplatense
-		religion =  catholic 
-		size = 7884
-	 } 
-	farmers = {
-		culture = rioplatense
-		religion = secularism
-		size = 876
-	 } 
-	farmers = {
-		culture = native_american_minor
-		religion =  catholic 
-		size = 8212
-	 } 
-	farmers = {
-		culture = native_american_minor
-		religion = secularism
-		size = 912
-	 } 
+  clergymen = {
+    culture = rioplatense
+    religion =  catholic
+    size = 328
+  }
+  clergymen = {
+    culture = rioplatense
+    religion = secularism
+    size = 36
+  }
+  farmers = {
+    culture = rioplatense
+    religion =  catholic
+    size = 7884
+  }
+  farmers = {
+    culture = rioplatense
+    religion = secularism
+    size = 876
+  }
+  farmers = {
+    culture = native_american_minor
+    religion =  catholic
+    size = 8212
+  }
+  farmers = {
+    culture = native_american_minor
+    religion = secularism
+    size = 912
+  }
 }
 #Puerto Guarani - Puerto Guarani (46000/11500 POPS)
 2338 = {
-	clergymen = {
-		culture = native_american_minor
-		religion =  catholic 
-		size = 207
-	 } 
-	clergymen = {
-		culture = native_american_minor
-		religion = secularism
-		size = 23
-	 } 
-	farmers = {
-		culture = native_american_minor
-		religion =  catholic 
-		size = 1863
-	 } 
-	farmers = {
-		culture = native_american_minor
-		religion = secularism
-		size = 207
-	 } 
-	farmers = {
-		culture = mennonites
-		religion =  mennonite 
-		size = 6210
-	 } 
-	farmers = {
-		culture = rioplatense
-		religion =  catholic 
-		size = 2691
-	 } 
-	farmers = {
-		culture = rioplatense
-		religion = secularism
-		size = 299
-	 } 
+  clergymen = {
+    culture = native_american_minor
+    religion =  catholic
+    size = 207
+  }
+  clergymen = {
+    culture = native_american_minor
+    religion = secularism
+    size = 23
+  }
+  farmers = {
+    culture = native_american_minor
+    religion =  catholic
+    size = 1863
+  }
+  farmers = {
+    culture = native_american_minor
+    religion = secularism
+    size = 207
+  }
+  farmers = {
+    culture = mennonites
+    religion =  mennonite
+    size = 6210
+  }
+  farmers = {
+    culture = rioplatense
+    religion =  catholic
+    size = 2691
+  }
+  farmers = {
+    culture = rioplatense
+    religion = secularism
+    size = 299
+  }
 }
 #Asuncion - Asuncion (2079000/519750 POPS)
 2339 = {
-	officers = {
-		culture = rioplatense
-		religion =  catholic 
-		size = 5448
-	 } 
-	officers = {
-		culture = rioplatense
-		religion = secularism
-		size = 605
-	 } 
-	soldiers = {
-		culture = rioplatense
-		religion =  catholic 
-		size = 13262
-	 } 
-	soldiers = {
-		culture = rioplatense
-		religion = secularism
-		size = 1473
-	 } 
-	soldiers = {
-		culture = rioplatense
-		religion =  catholic 
-		size = 90268
-	 } 
-	soldiers = {
-		culture = rioplatense
-		religion = secularism
-		size = 10029
-	 } 
-	aristocrats = {
-		culture = rioplatense
-		religion =  catholic 
-		size = 18711
-	 } 
-	aristocrats = {
-		culture = rioplatense
-		religion = secularism
-		size = 2079
-	 } 
-	bureaucrats = {
-		culture = rioplatense
-		religion =  catholic 
-		size = 935
-	 } 
-	bureaucrats = {
-		culture = rioplatense
-		religion = secularism
-		size = 103
-	 } 
-	capitalists = {
-		culture = rioplatense
-		religion =  catholic 
-		size = 2338
-	 } 
-	capitalists = {
-		culture = rioplatense
-		religion = secularism
-		size = 259
-	 } 
-	clergymen = {
-		culture = rioplatense
-		religion =  catholic 
-		size = 9355
-	 } 
-	clergymen = {
-		culture = rioplatense
-		religion = secularism
-		size = 1039
-	 } 
-	clerks = {
-		culture = rioplatense
-		religion =  catholic 
-		size = 8288
-	 } 
-	clerks = {
-		culture = rioplatense
-		religion = secularism
-		size = 920
-	 } 
-	artisans = {
-		culture = rioplatense
-		religion =  catholic 
-		size = 7874
-	 } 
-	artisans = {
-		culture = rioplatense
-		religion = secularism
-		size = 874
-	 } 
-	craftsmen = {
-		culture = rioplatense
-		religion =  catholic 
-		size = 24865
-	 } 
-	craftsmen = {
-		culture = rioplatense
-		religion = secularism
-		size = 2762
-	 } 
-	farmers = {
-		culture = rioplatense
-		religion =  catholic 
-		size = 286428
-	 } 
-	farmers = {
-		culture = rioplatense
-		religion = secularism
-		size = 31825
-	 } 
+  officers = {
+    culture = rioplatense
+    religion =  catholic
+    size = 5448
+  }
+  officers = {
+    culture = rioplatense
+    religion = secularism
+    size = 605
+  }
+  soldiers = {
+    culture = rioplatense
+    religion =  catholic
+    size = 13262
+  }
+  soldiers = {
+    culture = rioplatense
+    religion = secularism
+    size = 1473
+  }
+  soldiers = {
+    culture = rioplatense
+    religion =  catholic
+    size = 90268
+  }
+  soldiers = {
+    culture = rioplatense
+    religion = secularism
+    size = 10029
+  }
+  aristocrats = {
+    culture = rioplatense
+    religion =  catholic
+    size = 18711
+  }
+  aristocrats = {
+    culture = rioplatense
+    religion = secularism
+    size = 2079
+  }
+  bureaucrats = {
+    culture = rioplatense
+    religion =  catholic
+    size = 935
+  }
+  bureaucrats = {
+    culture = rioplatense
+    religion = secularism
+    size = 103
+  }
+  capitalists = {
+    culture = rioplatense
+    religion =  catholic
+    size = 2338
+  }
+  capitalists = {
+    culture = rioplatense
+    religion = secularism
+    size = 259
+  }
+  clergymen = {
+    culture = rioplatense
+    religion =  catholic
+    size = 9355
+  }
+  clergymen = {
+    culture = rioplatense
+    religion = secularism
+    size = 1039
+  }
+  clerks = {
+    culture = rioplatense
+    religion =  catholic
+    size = 8288
+  }
+  clerks = {
+    culture = rioplatense
+    religion = secularism
+    size = 920
+  }
+  artisans = {
+    culture = rioplatense
+    religion =  catholic
+    size = 7874
+  }
+  artisans = {
+    culture = rioplatense
+    religion = secularism
+    size = 874
+  }
+  craftsmen = {
+    culture = rioplatense
+    religion =  catholic
+    size = 24865
+  }
+  craftsmen = {
+    culture = rioplatense
+    religion = secularism
+    size = 2762
+  }
+  farmers = {
+    culture = rioplatense
+    religion =  catholic
+    size = 286428
+  }
+  farmers = {
+    culture = rioplatense
+    religion = secularism
+    size = 31825
+  }
 }
 #Pilar - Pilar (158000/39500 POPS)
 2340 = {
-	clergymen = {
-		culture = rioplatense
-		religion =  catholic 
-		size = 711
-	 } 
-	clergymen = {
-		culture = rioplatense
-		religion = secularism
-		size = 79
-	 } 
-	farmers = {
-		culture = rioplatense
-		religion =  catholic 
-		size = 34839
-	 } 
-	farmers = {
-		culture = rioplatense
-		religion = secularism
-		size = 3871
-	 } 
+  clergymen = {
+    culture = rioplatense
+    religion =  catholic
+    size = 711
+  }
+  clergymen = {
+    culture = rioplatense
+    religion = secularism
+    size = 79
+  }
+  farmers = {
+    culture = rioplatense
+    religion =  catholic
+    size = 34839
+  }
+  farmers = {
+    culture = rioplatense
+    religion = secularism
+    size = 3871
+  }
 }
 #Encarnacion - Encarnacion (1170000/292500 POPS)
 2341 = {
-	clergymen = {
-		culture = rioplatense
-		religion =  catholic 
-		size = 5265
-	 } 
-	clergymen = {
-		culture = rioplatense
-		religion = secularism
-		size = 585
-	 } 
-	farmers = {
-		culture = rioplatense
-		religion =  catholic 
-		size = 257985
-	 } 
-	farmers = {
-		culture = rioplatense
-		religion = secularism
-		size = 28665
-	 } 
+  clergymen = {
+    culture = rioplatense
+    religion =  catholic
+    size = 5265
+  }
+  clergymen = {
+    culture = rioplatense
+    religion = secularism
+    size = 585
+  }
+  farmers = {
+    culture = rioplatense
+    religion =  catholic
+    size = 257985
+  }
+  farmers = {
+    culture = rioplatense
+    religion = secularism
+    size = 28665
+  }
 }
 #San Pedro - San Pedro (409000/102250 POPS)
 2342 = {
-	clergymen = {
-		culture = brazilian
-		religion =  catholic 
-		size = 1840
-	 } 
-	clergymen = {
-		culture = brazilian
-		religion = secularism
-		size = 204
-	 } 
-	farmers = {
-		culture = brazilian
-		religion =  catholic 
-		size = 9202
-	 } 
-	farmers = {
-		culture = brazilian
-		religion = secularism
-		size = 1022
-	 } 
-	farmers = {
-		culture = rioplatense
-		religion =  catholic 
-		size = 80982
-	 } 
-	farmers = {
-		culture = rioplatense
-		religion = secularism
-		size = 8998
-	 } 
+  clergymen = {
+    culture = brazilian
+    religion =  catholic
+    size = 1840
+  }
+  clergymen = {
+    culture = brazilian
+    religion = secularism
+    size = 204
+  }
+  farmers = {
+    culture = brazilian
+    religion =  catholic
+    size = 9202
+  }
+  farmers = {
+    culture = brazilian
+    religion = secularism
+    size = 1022
+  }
+  farmers = {
+    culture = rioplatense
+    religion =  catholic
+    size = 80982
+  }
+  farmers = {
+    culture = rioplatense
+    religion = secularism
+    size = 8998
+  }
 }
 #Concepcion - Concepcion (262000/65500 POPS)
 2343 = {
-	clergymen = {
-		culture = rioplatense
-		religion =  catholic 
-		size = 1179
-	 } 
-	clergymen = {
-		culture = rioplatense
-		religion = secularism
-		size = 131
-	 } 
-	farmers = {
-		culture = rioplatense
-		religion =  catholic 
-		size = 49518
-	 } 
-	farmers = {
-		culture = rioplatense
-		religion = secularism
-		size = 5502
-	 } 
-	farmers = {
-		culture = native_american_minor
-		religion =  catholic 
-		size = 8253
-	 } 
-	farmers = {
-		culture = native_american_minor
-		religion = secularism
-		size = 917
-	 } 
+  clergymen = {
+    culture = rioplatense
+    religion =  catholic
+    size = 1179
+  }
+  clergymen = {
+    culture = rioplatense
+    religion = secularism
+    size = 131
+  }
+  farmers = {
+    culture = rioplatense
+    religion =  catholic
+    size = 49518
+  }
+  farmers = {
+    culture = rioplatense
+    religion = secularism
+    size = 5502
+  }
+  farmers = {
+    culture = native_american_minor
+    religion =  catholic
+    size = 8253
+  }
+  farmers = {
+    culture = native_american_minor
+    religion = secularism
+    size = 917
+  }
 }

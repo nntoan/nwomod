@@ -1,26 +1,26 @@
 political_decisions = {
 
-	rafael_urdaneta_bridge = { # Rafael Urdaneta Bridge
-		picture = "rafael_urdaneta_bridge"
-		potential = {
-			owns = 2270
-			year = 1950
-			NOT = { has_global_flag = rafael_urdaneta_bridge }
-		}
+  rafael_urdaneta_bridge = { # Rafael Urdaneta Bridge
+    picture = "rafael_urdaneta_bridge"
+    potential = {
+      owns = 2270
+      year = 1950
+      NOT = { has_global_flag = rafael_urdaneta_bridge }
+    }
 
-		ai_will_do = { factor = 1 }
-		
-		allow = { 
-			money = 20000
-			interstate_highway_system = 1
-			war = no 
-		}
+    ai_will_do = { factor = 1 }
 
-		effect = {
-			treasury = -10000
-			prestige = 5
-			set_global_flag = rafael_urdaneta_bridge
-		}
-		
-	}
+    allow = {
+      money = 20000
+      interstate_highway_system = 1
+      war = no
+    }
+
+    effect = {
+      treasury = -10000
+      prestige = 5
+      set_global_flag = rafael_urdaneta_bridge
+    }
+
+  }
 }

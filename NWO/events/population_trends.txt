@@ -5,70 +5,70 @@
 #############################################################
 
 #
-# population_trends will be retired untill something can be figured out. At the moment hard coded. 
+# population_trends will be retired untill something can be figured out. At the moment hard coded.
 
 country_event = {
-	id = 22600 
-	title = EVT_22600_NAME # The Demographic Transition
-	desc = EVT_22600_DESC
-	picture = "demographic_transition"
+  id = 22600
+  title = EVT_22600_NAME # The Demographic Transition
+  desc = EVT_22600_DESC
+  picture = "demographic_transition"
 
-	trigger = {
-		year = 1990
-		NOT = { has_country_flag = demographic_transition_2000 }
-	}
+  trigger = {
+    year = 1990
+    NOT = { has_country_flag = demographic_transition_2000 }
+  }
 
-	mean_time_to_happen = {
-		months = 120
-		modifier = { pop_majority_religion = secularism  factor = 0.1 }
-		modifier = { literacy = 0.01 factor = 2.0 }
-		modifier = { literacy = 0.2 factor = 0.5 }
-		modifier = { literacy = 0.4 factor = 0.1 }
-	}
+  mean_time_to_happen = {
+    months = 120
+    modifier = { pop_majority_religion = secularism  factor = 0.1 }
+    modifier = { literacy = 0.01 factor = 2.0 }
+    modifier = { literacy = 0.2 factor = 0.5 }
+    modifier = { literacy = 0.4 factor = 0.1 }
+  }
 
-	option = {
-		name = OK
-		set_country_flag = demographic_transition_2000
-		any_owned = { limit = { life_rating = 18 } life_rating = -3 }
-		any_owned = { limit = { life_rating = 21 } life_rating = -3 }
-		any_owned = { limit = { life_rating = 25 } life_rating = -3 }
-		any_owned = { limit = { life_rating = 30 } life_rating = -3 }
-		any_owned = { limit = { life_rating = 35 } life_rating = -3 }
-		any_owned = { limit = { life_rating = 40 } life_rating = -3 }
-	}
-	
+  option = {
+    name = OK
+    set_country_flag = demographic_transition_2000
+    any_owned = { limit = { life_rating = 18 } life_rating = -3 }
+    any_owned = { limit = { life_rating = 21 } life_rating = -3 }
+    any_owned = { limit = { life_rating = 25 } life_rating = -3 }
+    any_owned = { limit = { life_rating = 30 } life_rating = -3 }
+    any_owned = { limit = { life_rating = 35 } life_rating = -3 }
+    any_owned = { limit = { life_rating = 40 } life_rating = -3 }
+  }
+
 }
 
 country_event = {
-	id = 22601
-	title = EVT_22600_NAME # The Demographic Transition
-	desc = EVT_22600_DESC
-	picture = "demographic_transition"
+  id = 22601
+  title = EVT_22600_NAME # The Demographic Transition
+  desc = EVT_22600_DESC
+  picture = "demographic_transition"
 
-	trigger = {
-		year = 2040
-		NOT = { has_country_flag = demographic_transition_2050 }
-	}
+  trigger = {
+    year = 2040
+    NOT = { has_country_flag = demographic_transition_2050 }
+  }
 
-	mean_time_to_happen = {
-		months = 120
-		modifier = { pop_majority_religion = secularism  factor = 0.1 }
-		modifier = { literacy = 0.01 factor = 2.0 }
-		modifier = { literacy = 0.2 factor = 0.5 }
-		modifier = { literacy = 0.4 factor = 0.1 }
-	}
+  mean_time_to_happen = {
+    months = 120
+    modifier = { pop_majority_religion = secularism  factor = 0.1 }
+    modifier = { literacy = 0.01 factor = 2.0 }
+    modifier = { literacy = 0.2 factor = 0.5 }
+    modifier = { literacy = 0.4 factor = 0.1 }
+  }
 
-	option = {
-		name = OK
-		set_country_flag = demographic_transition_2050
-		any_owned = { limit = { life_rating = 18 } life_rating = -1 }
-		any_owned = { limit = { life_rating = 21 } life_rating = -1 }
-		any_owned = { limit = { life_rating = 25 } life_rating = -1 }
-		any_owned = { limit = { life_rating = 30 } life_rating = -1 }
-		any_owned = { limit = { life_rating = 35 } life_rating = -1 }
-		any_owned = { limit = { life_rating = 40 } life_rating = -1 }
-	}
-	
+  option = {
+    name = OK
+    set_country_flag = demographic_transition_2050
+    any_owned = { limit = { life_rating = 18 } life_rating = -1 }
+    any_owned = { limit = { life_rating = 21 } life_rating = -1 }
+    any_owned = { limit = { life_rating = 25 } life_rating = -1 }
+    any_owned = { limit = { life_rating = 30 } life_rating = -1 }
+    any_owned = { limit = { life_rating = 35 } life_rating = -1 }
+    any_owned = { limit = { life_rating = 40 } life_rating = -1 }
+  }
+
 }
 
 #country_event = {
@@ -79,169 +79,169 @@ country_event = {
 
 #}
 
-country_event = { 
-# initiall setup of literacy among non primary/accepted pops
-	id = 22602
-	title = EVT_22602_NAME
-	desc = EVT_22602_DESC
-	picture = "education"
+country_event = {
+  # initiall setup of literacy among non primary/accepted pops
+  id = 22602
+  title = EVT_22602_NAME
+  desc = EVT_22602_DESC
+  picture = "education"
 
-	trigger = {
-		NOT = { has_country_flag = demographic_init }
-	}
+  trigger = {
+    NOT = { has_country_flag = demographic_init }
+  }
 
-	mean_time_to_happen = {
-		months = 12
-	}
+  mean_time_to_happen = {
+    months = 12
+  }
 
-	option = {
-		name = OK
-		set_country_flag = demographic_init
-		any_pop = { 
-			limit = { 
-				is_primary_culture = no
-				OR = { culture = german culture = estonian culture = latvian culture = lithuanian culture = catalan culture = basque culture = portuguese }
-			}
-			literacy = 0.1
-		}
-		any_pop = { 
-			limit = { culture = haredim_jewish }
-			country = { set_country_flag = haredim_jewish }
-		}
-		any_pop = { 
-			limit = { culture = mennonites }
-			country = { set_country_flag = mennonites }
-		}
-		any_pop = { 
-			limit = { culture = roma }
-			country = { set_country_flag = roma }
-		}
-	}
+  option = {
+    name = OK
+    set_country_flag = demographic_init
+    any_pop = {
+      limit = {
+        is_primary_culture = no
+        OR = { culture = german culture = estonian culture = latvian culture = lithuanian culture = catalan culture = basque culture = portuguese }
+      }
+      literacy = 0.1
+    }
+    any_pop = {
+      limit = { culture = haredim_jewish }
+      country = { set_country_flag = haredim_jewish }
+    }
+    any_pop = {
+      limit = { culture = mennonites }
+      country = { set_country_flag = mennonites }
+    }
+    any_pop = {
+      limit = { culture = roma }
+      country = { set_country_flag = roma }
+    }
+  }
 }
 
 country_event = { # haredim_jewish
-	id = 22612
-	title = EVT_22612_NAME 
-	desc = EVT_22612_DESC
-	picture = "haredim_jewish"
-	
-	trigger = {
-		NOT = { has_country_modifier = demographic_haredim_jewish }
-		has_country_flag = haredim_jewish
-	}
-	
-	mean_time_to_happen = {
-        months = 12
-	}
-	
-	option = {
-		name = EVT_22612_OPTA
-		any_pop = { 
-			limit = { has_pop_culture = haredim_jewish }
-			reduce_pop = 1.35
-		}
-		add_country_modifier = { 
-			name = demographic_haredim_jewish 
-			duration = 3665 
-	    }
-	}
-	
-	option = {
-		name = EVT_22612_OPTB
-		any_pop = { 
-			limit = { has_pop_culture = haredim_jewish }
-			reduce_pop = 1.2
-		}
-		add_country_modifier = { 
-			name = demographic_haredim_jewish 
-			duration = 3665 
-	    }
-	}
-	
+  id = 22612
+  title = EVT_22612_NAME
+  desc = EVT_22612_DESC
+  picture = "haredim_jewish"
+
+  trigger = {
+    NOT = { has_country_modifier = demographic_haredim_jewish }
+    has_country_flag = haredim_jewish
+  }
+
+  mean_time_to_happen = {
+    months = 12
+  }
+
+  option = {
+    name = EVT_22612_OPTA
+    any_pop = {
+      limit = { has_pop_culture = haredim_jewish }
+      reduce_pop = 1.35
+    }
+    add_country_modifier = {
+      name = demographic_haredim_jewish
+      duration = 3665
+    }
+  }
+
+  option = {
+    name = EVT_22612_OPTB
+    any_pop = {
+      limit = { has_pop_culture = haredim_jewish }
+      reduce_pop = 1.2
+    }
+    add_country_modifier = {
+      name = demographic_haredim_jewish
+      duration = 3665
+    }
+  }
+
 }
 
 country_event = { # mennonites
-	id = 22613
-	title = EVT_22613_NAME 
-	desc = EVT_22613_DESC
-	picture = "family_values"
-	
-	trigger = {
-		NOT = { has_country_modifier = demographic_mennonites }
-		has_country_flag = mennonites
-	}
-	
-	mean_time_to_happen = {
-        months = 12
-	}
-	
-	option = {
-		name = EVT_22613_OPTA
-		any_pop = { 
-			limit = { culture = mennonites }
-			reduce_pop = 1.35
-		}
-		add_country_modifier = { 
-			name = demographic_mennonites 
-			duration = 3665 
-	    }
-		ai_chance = { factor = 100 }
- 	}
-	
-	option = {
-		name = EVT_22613_OPTB
-		any_pop = { 
-			limit = { has_pop_culture = mennonites }
-			reduce_pop = 1.15
-		}
-		add_country_modifier = { 
-			name = demographic_mennonites 
-			duration = 3665 
-	    }
-		ai_chance = { factor = 0 }
- 	}
-	
+  id = 22613
+  title = EVT_22613_NAME
+  desc = EVT_22613_DESC
+  picture = "family_values"
+
+  trigger = {
+    NOT = { has_country_modifier = demographic_mennonites }
+    has_country_flag = mennonites
+  }
+
+  mean_time_to_happen = {
+    months = 12
+  }
+
+  option = {
+    name = EVT_22613_OPTA
+    any_pop = {
+      limit = { culture = mennonites }
+      reduce_pop = 1.35
+    }
+    add_country_modifier = {
+      name = demographic_mennonites
+      duration = 3665
+    }
+    ai_chance = { factor = 100 }
+  }
+
+  option = {
+    name = EVT_22613_OPTB
+    any_pop = {
+      limit = { has_pop_culture = mennonites }
+      reduce_pop = 1.15
+    }
+    add_country_modifier = {
+      name = demographic_mennonites
+      duration = 3665
+    }
+    ai_chance = { factor = 0 }
+  }
+
 }
 
 country_event = { # romani
-	id = 22614
-	title = EVT_22614_NAME 
-	desc = EVT_22614_DESC
-	picture = "romani"
-	
-	trigger = {
-		NOT = { has_country_modifier = demographic_romani }
-		has_country_flag = roma
-	}
-	
-	mean_time_to_happen = {
-        months = 12
-	}
-	
-	option = {
-		name = EVT_22614_OPTA
-		any_pop = { 
-			limit = { has_pop_culture = roma }
-			reduce_pop = 1.25
-		}
-		add_country_modifier = { 
-			name = demographic_romani 
-			duration = 3665 
-	    }
-		ai_chance = { factor = 100 }
- 	}
-	option = {
-		name = EVT_22614_OPTB
-		any_pop = { 
-			limit = { has_pop_culture = roma }
-			reduce_pop = 1.16
-		}
-		add_country_modifier = { 
-			name = demographic_romani 
-			duration = 3665 
-	    }
-		ai_chance = { factor = 0 }
- 	}
+  id = 22614
+  title = EVT_22614_NAME
+  desc = EVT_22614_DESC
+  picture = "romani"
+
+  trigger = {
+    NOT = { has_country_modifier = demographic_romani }
+    has_country_flag = roma
+  }
+
+  mean_time_to_happen = {
+    months = 12
+  }
+
+  option = {
+    name = EVT_22614_OPTA
+    any_pop = {
+      limit = { has_pop_culture = roma }
+      reduce_pop = 1.25
+    }
+    add_country_modifier = {
+      name = demographic_romani
+      duration = 3665
+    }
+    ai_chance = { factor = 100 }
+  }
+  option = {
+    name = EVT_22614_OPTB
+    any_pop = {
+      limit = { has_pop_culture = roma }
+      reduce_pop = 1.16
+    }
+    add_country_modifier = {
+      name = demographic_romani
+      duration = 3665
+    }
+    ai_chance = { factor = 0 }
+  }
 
 }
 

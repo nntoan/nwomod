@@ -8,25 +8,25 @@ terrain = deciduous_forest_hills
 railroad = 1
 colonial = 0
 state_building = {
-	level = 1
-	building = automobiles_factory
-	upgrade = yes
+  level = 1
+  building = automobiles_factory
+  upgrade = yes
 }
 state_building = {
-	level = 1
-	building = steel_factory
-	upgrade = yes
+  level = 1
+  building = steel_factory
+  upgrade = yes
 }
 1992.1.1 = {
-owner = SWE
-controller = SWE
-add_core = SWE
-add_core = SCA
-railroad = 2
-colonial = 0
-state_building = {
-	level = 1
-	building = transport_factory
-	upgrade = yes
-}
+  owner = SWE
+  controller = SWE
+  add_core = SWE
+  add_core = SCA
+  railroad = 2
+  colonial = 0
+  state_building = {
+    level = 1
+    building = transport_factory
+    upgrade = yes
+  }
 }

@@ -8,10 +8,10 @@ terrain = marginal_farmland
 railroad = 1
 colonial = 0
 1992.1.1 = {
-owner = NET
-controller = NET
-add_core = NET
-add_core = BNL
-railroad = 1
-colonial = 0
+  owner = NET
+  controller = NET
+  add_core = NET
+  add_core = BNL
+  railroad = 1
+  colonial = 0
 }

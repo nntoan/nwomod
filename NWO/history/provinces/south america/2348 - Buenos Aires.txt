@@ -8,33 +8,33 @@ railroad = 1
 colonial = 0
 naval_base = 3
 state_building = {
-	level = 1
-	building = fertilizers_factory
-	upgrade = yes
+  level = 1
+  building = fertilizers_factory
+  upgrade = yes
 }
 state_building = {
-	level = 1
-	building = wool_fabric_factory
-	upgrade = yes
+  level = 1
+  building = wool_fabric_factory
+  upgrade = yes
 }
 state_building = {
-	level = 1
-	building = clothes_factory
-	upgrade = yes
+  level = 1
+  building = clothes_factory
+  upgrade = yes
 }
 state_building = {
-	level = 1
-	building = footwear_factory
-	upgrade = yes
+  level = 1
+  building = footwear_factory
+  upgrade = yes
 }
 1992.1.1 = {
-owner = ARG
-controller = ARG
-add_core = ARG
-colonial = 0
-state_building = {
-	level = 2
-	building = home_appliance_factory
-	upgrade = yes
-}
+  owner = ARG
+  controller = ARG
+  add_core = ARG
+  colonial = 0
+  state_building = {
+    level = 2
+    building = home_appliance_factory
+    upgrade = yes
+  }
 }

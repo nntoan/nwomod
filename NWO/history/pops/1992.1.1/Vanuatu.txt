@@ -1,83 +1,83 @@
 #New Hebrides - New Hebrides (154000/38500 POPS)
 2535 = {
-	aristocrats = {
-		culture = kanak
-		religion =  catholic 
-		size = 1247
-	 } 
-	aristocrats = {
-		culture = kanak
-		religion = secularism
-		size = 292
-	 } 
-	bureaucrats = {
-		culture = kanak
-		religion =  catholic 
-		size = 62
-	 } 
-	bureaucrats = {
-		culture = kanak
-		religion = secularism
-		size = 14
-	 } 
-	capitalists = {
-		culture = kanak
-		religion =  catholic 
-		size = 155
-	 } 
-	capitalists = {
-		culture = kanak
-		religion = secularism
-		size = 36
-	 } 
-	clergymen = {
-		culture = kanak
-		religion =  catholic 
-		size = 623
-	 } 
-	clergymen = {
-		culture = kanak
-		religion = secularism
-		size = 146
-	 } 
-	clerks = {
-		culture = kanak
-		religion =  catholic 
-		size = 289
-	 } 
-	clerks = {
-		culture = kanak
-		religion = secularism
-		size = 67
-	 } 
-	artisans = {
-		culture = kanak
-		religion =  catholic 
-		size = 274
-	 } 
-	artisans = {
-		culture = kanak
-		religion = secularism
-		size = 64
-	 } 
-	craftsmen = {
-		culture = kanak
-		religion =  catholic 
-		size = 869
-	 } 
-	craftsmen = {
-		culture = kanak
-		religion = secularism
-		size = 203
-	 } 
-	farmers = {
-		culture = kanak
-		religion =  catholic 
-		size = 27663
-	 } 
-	farmers = {
-		culture = kanak
-		religion = secularism
-		size = 6488
-	 } 
+  aristocrats = {
+    culture = kanak
+    religion =  catholic
+    size = 1247
+  }
+  aristocrats = {
+    culture = kanak
+    religion = secularism
+    size = 292
+  }
+  bureaucrats = {
+    culture = kanak
+    religion =  catholic
+    size = 62
+  }
+  bureaucrats = {
+    culture = kanak
+    religion = secularism
+    size = 14
+  }
+  capitalists = {
+    culture = kanak
+    religion =  catholic
+    size = 155
+  }
+  capitalists = {
+    culture = kanak
+    religion = secularism
+    size = 36
+  }
+  clergymen = {
+    culture = kanak
+    religion =  catholic
+    size = 623
+  }
+  clergymen = {
+    culture = kanak
+    religion = secularism
+    size = 146
+  }
+  clerks = {
+    culture = kanak
+    religion =  catholic
+    size = 289
+  }
+  clerks = {
+    culture = kanak
+    religion = secularism
+    size = 67
+  }
+  artisans = {
+    culture = kanak
+    religion =  catholic
+    size = 274
+  }
+  artisans = {
+    culture = kanak
+    religion = secularism
+    size = 64
+  }
+  craftsmen = {
+    culture = kanak
+    religion =  catholic
+    size = 869
+  }
+  craftsmen = {
+    culture = kanak
+    religion = secularism
+    size = 203
+  }
+  farmers = {
+    culture = kanak
+    religion =  catholic
+    size = 27663
+  }
+  farmers = {
+    culture = kanak
+    religion = secularism
+    size = 6488
+  }
 }

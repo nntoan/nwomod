@@ -1,103 +1,103 @@
 #Thaba Bosiu - Thaba Bosiu (1703000/425750 POPS)
 2104 = {
-	capitalists = {
-		culture = british
-		religion =  protestant 
-		size = 1187
-	 } 
-	capitalists = {
-		culture = british
-		religion = secularism
-		size = 89
-	 } 
-	officers = {
-		culture = sotho
-		religion =  protestant 
-		size = 28
-	 } 
-	officers = {
-		culture = sotho
-		religion = secularism
-		size = 2
-	 } 
-	soldiers = {
-		culture = sotho
-		religion =  protestant 
-		size = 551
-	 } 
-	soldiers = {
-		culture = sotho
-		religion = secularism
-		size = 41
-	 } 
-	aristocrats = {
-		culture = sotho
-		religion =  protestant 
-		size = 15837
-	 } 
-	aristocrats = {
-		culture = sotho
-		religion = secularism
-		size = 1192
-	 } 
-	bureaucrats = {
-		culture = sotho
-		religion =  protestant 
-		size = 791
-	 } 
-	bureaucrats = {
-		culture = sotho
-		religion = secularism
-		size = 59
-	 } 
-	clergymen = {
-		culture = sotho
-		religion =  protestant 
-		size = 7918
-	 } 
-	clergymen = {
-		culture = sotho
-		religion = secularism
-		size = 596
-	 } 
-	clerks = {
-		culture = sotho
-		religion =  protestant 
-		size = 4071
-	 } 
-	clerks = {
-		culture = sotho
-		religion = secularism
-		size = 306
-	 } 
-	artisans = {
-		culture = sotho
-		religion =  protestant 
-		size = 3867
-	 } 
-	artisans = {
-		culture = sotho
-		religion = secularism
-		size = 291
-	 } 
-	craftsmen = {
-		culture = sotho
-		religion =  protestant 
-		size = 12216
-	 } 
-	craftsmen = {
-		culture = sotho
-		religion = secularism
-		size = 919
-	 } 
-	farmers = {
-		culture = sotho
-		religion =  protestant 
-		size = 349474
-	 } 
-	farmers = {
-		culture = sotho
-		religion = secularism
-		size = 26304
-	 } 
+  capitalists = {
+    culture = british
+    religion =  protestant
+    size = 1187
+  }
+  capitalists = {
+    culture = british
+    religion = secularism
+    size = 89
+  }
+  officers = {
+    culture = sotho
+    religion =  protestant
+    size = 28
+  }
+  officers = {
+    culture = sotho
+    religion = secularism
+    size = 2
+  }
+  soldiers = {
+    culture = sotho
+    religion =  protestant
+    size = 551
+  }
+  soldiers = {
+    culture = sotho
+    religion = secularism
+    size = 41
+  }
+  aristocrats = {
+    culture = sotho
+    religion =  protestant
+    size = 15837
+  }
+  aristocrats = {
+    culture = sotho
+    religion = secularism
+    size = 1192
+  }
+  bureaucrats = {
+    culture = sotho
+    religion =  protestant
+    size = 791
+  }
+  bureaucrats = {
+    culture = sotho
+    religion = secularism
+    size = 59
+  }
+  clergymen = {
+    culture = sotho
+    religion =  protestant
+    size = 7918
+  }
+  clergymen = {
+    culture = sotho
+    religion = secularism
+    size = 596
+  }
+  clerks = {
+    culture = sotho
+    religion =  protestant
+    size = 4071
+  }
+  clerks = {
+    culture = sotho
+    religion = secularism
+    size = 306
+  }
+  artisans = {
+    culture = sotho
+    religion =  protestant
+    size = 3867
+  }
+  artisans = {
+    culture = sotho
+    religion = secularism
+    size = 291
+  }
+  craftsmen = {
+    culture = sotho
+    religion =  protestant
+    size = 12216
+  }
+  craftsmen = {
+    culture = sotho
+    religion = secularism
+    size = 919
+  }
+  farmers = {
+    culture = sotho
+    religion =  protestant
+    size = 349474
+  }
+  farmers = {
+    culture = sotho
+    religion = secularism
+    size = 26304
+  }
 }

@@ -1,2000 +1,2000 @@
 #Melilla - Melilla (143000/35750 POPS)
 1689 = {
-	clergymen = {
-		culture = spanish
-		religion =  catholic 
-		size = 672
-	 } 
-	clergymen = {
-		culture = spanish
-		religion = secularism
-		size = 42
-	 } 
-	farmers = {
-		culture = spanish
-		religion =  catholic 
-		size = 16130
-	 } 
-	farmers = {
-		culture = spanish
-		religion = secularism
-		size = 1029
-	 } 
-	farmers = {
-		culture = berber
-		religion =  sunni 
-		size = 17875
-	 } 
+  clergymen = {
+    culture = spanish
+    religion =  catholic
+    size = 672
+  }
+  clergymen = {
+    culture = spanish
+    religion = secularism
+    size = 42
+  }
+  farmers = {
+    culture = spanish
+    religion =  catholic
+    size = 16130
+  }
+  farmers = {
+    culture = spanish
+    religion = secularism
+    size = 1029
+  }
+  farmers = {
+    culture = berber
+    religion =  sunni
+    size = 17875
+  }
 }
 #Canary Islands - Canary Islands (1902000/475500 POPS)
 2136 = {
-	officers = {
-		culture = spanish
-		religion =  catholic 
-		size = 546
-	 } 
-	officers = {
-		culture = spanish
-		religion = secularism
-		size = 34
-	 } 
-	soldiers = {
-		culture = spanish
-		religion =  catholic 
-		size = 10383
-	 } 
-	soldiers = {
-		culture = spanish
-		religion = secularism
-		size = 662
-	 } 
-	aristocrats = {
-		culture = spanish
-		religion =  catholic 
-		size = 17878
-	 } 
-	aristocrats = {
-		culture = spanish
-		religion = secularism
-		size = 1141
-	 } 
-	bureaucrats = {
-		culture = spanish
-		religion =  catholic 
-		size = 893
-	 } 
-	bureaucrats = {
-		culture = spanish
-		religion = secularism
-		size = 57
-	 } 
-	capitalists = {
-		culture = spanish
-		religion =  catholic 
-		size = 2234
-	 } 
-	capitalists = {
-		culture = spanish
-		religion = secularism
-		size = 142
-	 } 
-	clergymen = {
-		culture = spanish
-		religion =  catholic 
-		size = 8939
-	 } 
-	clergymen = {
-		culture = spanish
-		religion = secularism
-		size = 570
-	 } 
-	clerks = {
-		culture = spanish
-		religion =  catholic 
-		size = 9274
-	 } 
-	clerks = {
-		culture = spanish
-		religion = secularism
-		size = 592
-	 } 
-	artisans = {
-		culture = spanish
-		religion =  catholic 
-		size = 8811
-	 } 
-	artisans = {
-		culture = spanish
-		religion = secularism
-		size = 562
-	 } 
-	craftsmen = {
-		culture = spanish
-		religion =  catholic 
-		size = 27825
-	 } 
-	craftsmen = {
-		culture = spanish
-		religion = secularism
-		size = 1776
-	 } 
-	farmers = {
-		culture = spanish
-		religion =  catholic 
-		size = 297605
-	 } 
-	farmers = {
-		culture = spanish
-		religion = secularism
-		size = 18996
-	 } 
-	farmers = {
-		culture = andean_spanish
-		religion =  catholic 
-		size = 22348
-	 } 
-	farmers = {
-		culture = andean_spanish
-		religion = secularism
-		size = 1426
-	 } 
-	farmers = {
-		culture = andean_spanish
-		religion =  catholic 
-		size = 22348
-	 } 
-	farmers = {
-		culture = andean_spanish
-		religion = secularism
-		size = 1426
-	 } 
-	farmers = {
-		culture = sunni_arab
-		religion =  sunni 
-		size = 19020
-	 } 
+  officers = {
+    culture = spanish
+    religion =  catholic
+    size = 546
+  }
+  officers = {
+    culture = spanish
+    religion = secularism
+    size = 34
+  }
+  soldiers = {
+    culture = spanish
+    religion =  catholic
+    size = 10383
+  }
+  soldiers = {
+    culture = spanish
+    religion = secularism
+    size = 662
+  }
+  aristocrats = {
+    culture = spanish
+    religion =  catholic
+    size = 17878
+  }
+  aristocrats = {
+    culture = spanish
+    religion = secularism
+    size = 1141
+  }
+  bureaucrats = {
+    culture = spanish
+    religion =  catholic
+    size = 893
+  }
+  bureaucrats = {
+    culture = spanish
+    religion = secularism
+    size = 57
+  }
+  capitalists = {
+    culture = spanish
+    religion =  catholic
+    size = 2234
+  }
+  capitalists = {
+    culture = spanish
+    religion = secularism
+    size = 142
+  }
+  clergymen = {
+    culture = spanish
+    religion =  catholic
+    size = 8939
+  }
+  clergymen = {
+    culture = spanish
+    religion = secularism
+    size = 570
+  }
+  clerks = {
+    culture = spanish
+    religion =  catholic
+    size = 9274
+  }
+  clerks = {
+    culture = spanish
+    religion = secularism
+    size = 592
+  }
+  artisans = {
+    culture = spanish
+    religion =  catholic
+    size = 8811
+  }
+  artisans = {
+    culture = spanish
+    religion = secularism
+    size = 562
+  }
+  craftsmen = {
+    culture = spanish
+    religion =  catholic
+    size = 27825
+  }
+  craftsmen = {
+    culture = spanish
+    religion = secularism
+    size = 1776
+  }
+  farmers = {
+    culture = spanish
+    religion =  catholic
+    size = 297605
+  }
+  farmers = {
+    culture = spanish
+    religion = secularism
+    size = 18996
+  }
+  farmers = {
+    culture = andean_spanish
+    religion =  catholic
+    size = 22348
+  }
+  farmers = {
+    culture = andean_spanish
+    religion = secularism
+    size = 1426
+  }
+  farmers = {
+    culture = andean_spanish
+    religion =  catholic
+    size = 22348
+  }
+  farmers = {
+    culture = andean_spanish
+    religion = secularism
+    size = 1426
+  }
+  farmers = {
+    culture = sunni_arab
+    religion =  sunni
+    size = 19020
+  }
 }
 #La Coruna - La Coruna (1157000/289250 POPS)
 474 = {
-	officers = {
-		culture = spanish
-		religion =  catholic 
-		size = 247
-	 } 
-	officers = {
-		culture = spanish
-		religion = secularism
-		size = 459
-	 } 
-	soldiers = {
-		culture = spanish
-		religion =  catholic 
-		size = 4703
-	 } 
-	soldiers = {
-		culture = spanish
-		religion = secularism
-		size = 8734
-	 } 
-	aristocrats = {
-		culture = spanish
-		religion =  catholic 
-		size = 2530
-	 } 
-	aristocrats = {
-		culture = spanish
-		religion = secularism
-		size = 4700
-	 } 
-	bureaucrats = {
-		culture = spanish
-		religion =  catholic 
-		size = 607
-	 } 
-	bureaucrats = {
-		culture = spanish
-		religion = secularism
-		size = 1127
-	 } 
-	capitalists = {
-		culture = spanish
-		religion =  catholic 
-		size = 607
-	 } 
-	capitalists = {
-		culture = spanish
-		religion = secularism
-		size = 1127
-	 } 
-	clergymen = {
-		culture = spanish
-		religion =  catholic 
-		size = 2024
-	 } 
-	clergymen = {
-		culture = spanish
-		religion = secularism
-		size = 3760
-	 } 
-	clerks = {
-		culture = spanish
-		religion =  catholic 
-		size = 2810
-	 } 
-	clerks = {
-		culture = spanish
-		religion = secularism
-		size = 5220
-	 } 
-	artisans = {
-		culture = spanish
-		religion =  catholic 
-		size = 2670
-	 } 
-	artisans = {
-		culture = spanish
-		religion = secularism
-		size = 4959
-	 } 
-	craftsmen = {
-		culture = spanish
-		religion =  catholic 
-		size = 8433
-	 } 
-	craftsmen = {
-		culture = spanish
-		religion = secularism
-		size = 15661
-	 } 
-	farmers = {
-		culture = spanish
-		religion =  catholic 
-		size = 17884
-	 } 
-	farmers = {
-		culture = spanish
-		religion = secularism
-		size = 33213
-	 } 
-	farmers = {
-		culture = portuguese
-		religion =  catholic 
-		size = 58717
-	 } 
-	farmers = {
-		culture = portuguese
-		religion = secularism
-		size = 109047
-	 } 
+  officers = {
+    culture = spanish
+    religion =  catholic
+    size = 247
+  }
+  officers = {
+    culture = spanish
+    religion = secularism
+    size = 459
+  }
+  soldiers = {
+    culture = spanish
+    religion =  catholic
+    size = 4703
+  }
+  soldiers = {
+    culture = spanish
+    religion = secularism
+    size = 8734
+  }
+  aristocrats = {
+    culture = spanish
+    religion =  catholic
+    size = 2530
+  }
+  aristocrats = {
+    culture = spanish
+    religion = secularism
+    size = 4700
+  }
+  bureaucrats = {
+    culture = spanish
+    religion =  catholic
+    size = 607
+  }
+  bureaucrats = {
+    culture = spanish
+    religion = secularism
+    size = 1127
+  }
+  capitalists = {
+    culture = spanish
+    religion =  catholic
+    size = 607
+  }
+  capitalists = {
+    culture = spanish
+    religion = secularism
+    size = 1127
+  }
+  clergymen = {
+    culture = spanish
+    religion =  catholic
+    size = 2024
+  }
+  clergymen = {
+    culture = spanish
+    religion = secularism
+    size = 3760
+  }
+  clerks = {
+    culture = spanish
+    religion =  catholic
+    size = 2810
+  }
+  clerks = {
+    culture = spanish
+    religion = secularism
+    size = 5220
+  }
+  artisans = {
+    culture = spanish
+    religion =  catholic
+    size = 2670
+  }
+  artisans = {
+    culture = spanish
+    religion = secularism
+    size = 4959
+  }
+  craftsmen = {
+    culture = spanish
+    religion =  catholic
+    size = 8433
+  }
+  craftsmen = {
+    culture = spanish
+    religion = secularism
+    size = 15661
+  }
+  farmers = {
+    culture = spanish
+    religion =  catholic
+    size = 17884
+  }
+  farmers = {
+    culture = spanish
+    religion = secularism
+    size = 33213
+  }
+  farmers = {
+    culture = portuguese
+    religion =  catholic
+    size = 58717
+  }
+  farmers = {
+    culture = portuguese
+    religion = secularism
+    size = 109047
+  }
 }
 #Oviedo - Oviedo (893000/223250 POPS)
 475 = {
-	clergymen = {
-		culture = spanish
-		religion =  catholic 
-		size = 1562
-	 } 
-	clergymen = {
-		culture = spanish
-		religion = secularism
-		size = 2902
-	 } 
-	farmers = {
-		culture = spanish
-		religion = secularism
-		size = 65165
-	 } 
-	 farmers = {
-		culture = spanish
-		religion = catholic
-		size = 37089
-	 } 
-	farmers = {
-		culture = asturian
-		religion =  catholic 
-		size = 32169
-	 } 
-	 farmers = {
-		culture = asturian
-		religion =  secularism
-		size = 69029
-	 } 
-	farmers = {
-		culture = portuguese
-		religion =  catholic 
-		size = 4324
-	 } 
-	 farmers = {
-		culture = portuguese
-		religion =  secularism
-		size = 8126
-	 } 
+  clergymen = {
+    culture = spanish
+    religion =  catholic
+    size = 1562
+  }
+  clergymen = {
+    culture = spanish
+    religion = secularism
+    size = 2902
+  }
+  farmers = {
+    culture = spanish
+    religion = secularism
+    size = 65165
+  }
+  farmers = {
+    culture = spanish
+    religion = catholic
+    size = 37089
+  }
+  farmers = {
+    culture = asturian
+    religion =  catholic
+    size = 32169
+  }
+  farmers = {
+    culture = asturian
+    religion =  secularism
+    size = 69029
+  }
+  farmers = {
+    culture = portuguese
+    religion =  catholic
+    size = 4324
+  }
+  farmers = {
+    culture = portuguese
+    religion =  secularism
+    size = 8126
+  }
 }
 #Vigo - Vigo (1157000/289250 POPS)
 476 = {
-	clergymen = {
-		culture = spanish
-		religion =  catholic 
-		size = 2024
-	 } 
-	clergymen = {
-		culture = spanish
-		religion = secularism
-		size = 3760
-	 } 
-	farmers = {
-		culture = spanish
-		religion =  catholic 
-		size = 40495
-	 } 
-	farmers = {
-		culture = spanish
-		religion = secularism
-		size = 75205
-	 } 
-	farmers = {
-		culture = portuguese
-		religion =  catholic 
-		size = 58717
-	 } 
-	farmers = {
-		culture = portuguese
-		religion = secularism
-		size = 109047
-	 } 
+  clergymen = {
+    culture = spanish
+    religion =  catholic
+    size = 2024
+  }
+  clergymen = {
+    culture = spanish
+    religion = secularism
+    size = 3760
+  }
+  farmers = {
+    culture = spanish
+    religion =  catholic
+    size = 40495
+  }
+  farmers = {
+    culture = spanish
+    religion = secularism
+    size = 75205
+  }
+  farmers = {
+    culture = portuguese
+    religion =  catholic
+    size = 58717
+  }
+  farmers = {
+    culture = portuguese
+    religion = secularism
+    size = 109047
+  }
 }
 #Leon - Leon (578000/144500 POPS)
 477 = {
-	clergymen = {
-		culture = spanish
-		religion =  catholic 
-		size = 1011
-	 } 
-	clergymen = {
-		culture = spanish
-		religion = secularism
-		size = 1878
-	 } 
-	farmers = {
-		culture = spanish
-		religion =  catholic 
-		size = 35563
-	 } 
-	farmers = {
-		culture = spanish
-		religion = secularism
-		size = 58646
-	 } 
-	farmers = {
-		culture = asturian
-		religion =  catholic 
-		size = 10000
-	 } 
-	farmers = {
-		culture = asturian
-		religion = secularism
-		size = 24400
-	 } 
-	 farmers = {
-		culture = portuguese
-		religion =  catholic 
-		size = 4000
-	 } 
-	farmers = {
-		culture = portuguese
-		religion = secularism
-		size = 9000
-	 } 
+  clergymen = {
+    culture = spanish
+    religion =  catholic
+    size = 1011
+  }
+  clergymen = {
+    culture = spanish
+    religion = secularism
+    size = 1878
+  }
+  farmers = {
+    culture = spanish
+    religion =  catholic
+    size = 35563
+  }
+  farmers = {
+    culture = spanish
+    religion = secularism
+    size = 58646
+  }
+  farmers = {
+    culture = asturian
+    religion =  catholic
+    size = 10000
+  }
+  farmers = {
+    culture = asturian
+    religion = secularism
+    size = 24400
+  }
+  farmers = {
+    culture = portuguese
+    religion =  catholic
+    size = 4000
+  }
+  farmers = {
+    culture = portuguese
+    religion = secularism
+    size = 9000
+  }
 }
 #Santander - Santander (496000/124000 POPS)
 478 = {
-	clergymen = {
-		culture = spanish
-		religion =  catholic 
-		size = 868
-	 } 
-	clergymen = {
-		culture = spanish
-		religion = secularism
-		size = 1612
-	 } 
-	farmers = {
-		culture = spanish
-		religion =  catholic 
-		size = 42532
-	 } 
-	farmers = {
-		culture = spanish
-		religion = secularism
-		size = 78988
-	 } 
+  clergymen = {
+    culture = spanish
+    religion =  catholic
+    size = 868
+  }
+  clergymen = {
+    culture = spanish
+    religion = secularism
+    size = 1612
+  }
+  farmers = {
+    culture = spanish
+    religion =  catholic
+    size = 42532
+  }
+  farmers = {
+    culture = spanish
+    religion = secularism
+    size = 78988
+  }
 }
 #Burgos - Burgos (313000/78250 POPS)
 479 = {
-	clergymen = {
-		culture = spanish
-		religion =  catholic 
-		size = 547
-	 } 
-	clergymen = {
-		culture = spanish
-		religion = secularism
-		size = 1017
-	 } 
-	farmers = {
-		culture = spanish
-		religion =  catholic 
-		size = 26839
-	 } 
-	farmers = {
-		culture = spanish
-		religion = secularism
-		size = 49845
-	 } 
+  clergymen = {
+    culture = spanish
+    religion =  catholic
+    size = 547
+  }
+  clergymen = {
+    culture = spanish
+    religion = secularism
+    size = 1017
+  }
+  farmers = {
+    culture = spanish
+    religion =  catholic
+    size = 26839
+  }
+  farmers = {
+    culture = spanish
+    religion = secularism
+    size = 49845
+  }
 }
 #Valladolid - Valladolid (590000/147500 POPS)
 480 = {
-	clergymen = {
-		culture = spanish
-		religion =  catholic 
-		size = 1032
-	 } 
-	clergymen = {
-		culture = spanish
-		religion = secularism
-		size = 1917
-	 } 
-	farmers = {
-		culture = spanish
-		religion =  catholic 
-		size = 50592
-	 } 
-	farmers = {
-		culture = spanish
-		religion = secularism
-		size = 93957
-	 } 
+  clergymen = {
+    culture = spanish
+    religion =  catholic
+    size = 1032
+  }
+  clergymen = {
+    culture = spanish
+    religion = secularism
+    size = 1917
+  }
+  farmers = {
+    culture = spanish
+    religion =  catholic
+    size = 50592
+  }
+  farmers = {
+    culture = spanish
+    religion = secularism
+    size = 93957
+  }
 }
 #Soria - Soria (79000/19750 POPS)
 481 = {
-	clergymen = {
-		culture = spanish
-		religion =  catholic 
-		size = 138
-	 } 
-	clergymen = {
-		culture = spanish
-		religion = secularism
-		size = 256
-	 } 
-	farmers = {
-		culture = spanish
-		religion =  catholic 
-		size = 6774
-	 } 
-	farmers = {
-		culture = spanish
-		religion = secularism
-		size = 12580
-	 } 
+  clergymen = {
+    culture = spanish
+    religion =  catholic
+    size = 138
+  }
+  clergymen = {
+    culture = spanish
+    religion = secularism
+    size = 256
+  }
+  farmers = {
+    culture = spanish
+    religion =  catholic
+    size = 6774
+  }
+  farmers = {
+    culture = spanish
+    religion = secularism
+    size = 12580
+  }
 }
 #Salamanca - Salamanca (294000/73500 POPS)
 482 = {
-	clergymen = {
-		culture = spanish
-		religion =  catholic 
-		size = 514
-	 } 
-	clergymen = {
-		culture = spanish
-		religion = secularism
-		size = 955
-	 } 
-	farmers = {
-		culture = spanish
-		religion =  catholic 
-		size = 25210
-	 } 
-	farmers = {
-		culture = spanish
-		religion = secularism
-		size = 46819
-	 } 
+  clergymen = {
+    culture = spanish
+    religion =  catholic
+    size = 514
+  }
+  clergymen = {
+    culture = spanish
+    religion = secularism
+    size = 955
+  }
+  farmers = {
+    culture = spanish
+    religion =  catholic
+    size = 25210
+  }
+  farmers = {
+    culture = spanish
+    religion = secularism
+    size = 46819
+  }
 }
 #Avila - Avila (279000/69750 POPS)
 483 = {
-	clergymen = {
-		culture = spanish
-		religion =  catholic 
-		size = 488
-	 } 
-	clergymen = {
-		culture = spanish
-		religion = secularism
-		size = 906
-	 } 
-	farmers = {
-		culture = spanish
-		religion =  catholic 
-		size = 23924
-	 } 
-	farmers = {
-		culture = spanish
-		religion = secularism
-		size = 44430
-	 } 
+  clergymen = {
+    culture = spanish
+    religion =  catholic
+    size = 488
+  }
+  clergymen = {
+    culture = spanish
+    religion = secularism
+    size = 906
+  }
+  farmers = {
+    culture = spanish
+    religion =  catholic
+    size = 23924
+  }
+  farmers = {
+    culture = spanish
+    religion = secularism
+    size = 44430
+  }
 }
 #Badajoz - Badajoz (278000/69500 POPS)
 484 = {
-	clergymen = {
-		culture = spanish
-		religion =  catholic 
-		size = 486
-	 } 
-	clergymen = {
-		culture = spanish
-		religion = secularism
-		size = 903
-	 } 
-	farmers = {
-		culture = spanish
-		religion =  catholic 
-		size = 23838
-	 } 
-	farmers = {
-		culture = spanish
-		religion = secularism
-		size = 44271
-	 } 
+  clergymen = {
+    culture = spanish
+    religion =  catholic
+    size = 486
+  }
+  clergymen = {
+    culture = spanish
+    religion = secularism
+    size = 903
+  }
+  farmers = {
+    culture = spanish
+    religion =  catholic
+    size = 23838
+  }
+  farmers = {
+    culture = spanish
+    religion = secularism
+    size = 44271
+  }
 }
 #Almendralejo - Almendralejo (278000/69500 POPS)
 485 = {
-	clergymen = {
-		culture = spanish
-		religion =  catholic 
-		size = 486
-	 } 
-	clergymen = {
-		culture = spanish
-		religion = secularism
-		size = 903
-	 } 
-	farmers = {
-		culture = spanish
-		religion =  catholic 
-		size = 23838
-	 } 
-	farmers = {
-		culture = spanish
-		religion = secularism
-		size = 44271
-	 } 
+  clergymen = {
+    culture = spanish
+    religion =  catholic
+    size = 486
+  }
+  clergymen = {
+    culture = spanish
+    religion = secularism
+    size = 903
+  }
+  farmers = {
+    culture = spanish
+    religion =  catholic
+    size = 23838
+  }
+  farmers = {
+    culture = spanish
+    religion = secularism
+    size = 44271
+  }
 }
 #Caceres - Caceres (362000/90500 POPS)
 486 = {
-	clergymen = {
-		culture = spanish
-		religion =  catholic 
-		size = 633
-	 } 
-	clergymen = {
-		culture = spanish
-		religion = secularism
-		size = 1176
-	 } 
-	farmers = {
-		culture = spanish
-		religion =  catholic 
-		size = 28741
-	 } 
-	farmers = {
-		culture = spanish
-		religion = secularism
-		size = 52648
-	 } 
-	farmers = {
-		culture = asturian
-		religion =  catholic 
-		size = 2200
-	 } 
-	farmers = {
-		culture = asturian
-		religion = secularism
-		size = 5000
-	}
+  clergymen = {
+    culture = spanish
+    religion =  catholic
+    size = 633
+  }
+  clergymen = {
+    culture = spanish
+    religion = secularism
+    size = 1176
+  }
+  farmers = {
+    culture = spanish
+    religion =  catholic
+    size = 28741
+  }
+  farmers = {
+    culture = spanish
+    religion = secularism
+    size = 52648
+  }
+  farmers = {
+    culture = asturian
+    religion =  catholic
+    size = 2200
+  }
+  farmers = {
+    culture = asturian
+    religion = secularism
+    size = 5000
+  }
 }
 #Madrid - Madrid (5429000/1357250 POPS)
 487 = {
-	capitalists = {
-		culture = jewish
-		religion =  jewish 
-		size = 2850
-	 } 
-	capitalists = {
-		culture = jewish
-		religion = secularism
-		size = 5292
-	 } 
-	officers = {
-		culture = spanish
-		religion =  catholic 
-		size = 1451
-	 } 
-	officers = {
-		culture = spanish
-		religion = secularism
-		size = 2696
-	 } 
-	soldiers = {
-		culture = spanish
-		religion =  catholic 
-		size = 27588
-	 } 
-	soldiers = {
-		culture = spanish
-		religion = secularism
-		size = 51234
-	 } 
-	aristocrats = {
-		culture = spanish
-		religion =  catholic 
-		size = 11875
-	 } 
-	aristocrats = {
-		culture = spanish
-		religion = secularism
-		size = 22055
-	 } 
-	bureaucrats = {
-		culture = spanish
-		religion =  catholic 
-		size = 2850
-	 } 
-	bureaucrats = {
-		culture = spanish
-		religion = secularism
-		size = 5292
-	 } 
-	clergymen = {
-		culture = spanish
-		religion =  catholic 
-		size = 9500
-	 } 
-	clergymen = {
-		culture = spanish
-		religion = secularism
-		size = 17644
-	 } 
-	clerks = {
-		culture = spanish
-		religion =  catholic 
-		size = 13021
-	 } 
-	clerks = {
-		culture = spanish
-		religion = secularism
-		size = 24181
-	 } 
-	artisans = {
-		culture = spanish
-		religion =  catholic 
-		size = 12369
-	 } 
-	artisans = {
-		culture = spanish
-		religion = secularism
-		size = 22972
-	 } 
-	craftsmen = {
-		culture = spanish
-		religion =  catholic 
-		size = 39063
-	 } 
-	craftsmen = {
-		culture = spanish
-		religion = secularism
-		size = 72545
-	 } 
-	farmers = {
-		culture = spanish
-		religion =  catholic 
-		size = 210055
-	 } 
-	farmers = {
-		culture = spanish
-		religion = secularism
-		size = 390102
-	 } 
-	farmers = {
-		culture = jewish
-		religion =  jewish 
-		size = 1900
-	 } 
-	farmers = {
-		culture = jewish
-		religion = secularism
-		size = 3528
-	 } 
-	farmers = {
-		culture = andean_spanish
-		religion =  catholic 
-		size = 47503
-	 } 
-	farmers = {
-		culture = andean_spanish
-		religion = secularism
-		size = 88221
-	 } 
-	farmers = {
-		culture = andean_spanish
-		religion =  catholic 
-		size = 47503
-	 } 
-	farmers = {
-		culture = andean_spanish
-		religion = secularism
-		size = 88221
-	 } 
-	farmers = {
-		culture = sunni_arab
-		religion =  sunni 
-		size = 135725
-	 } 
+  capitalists = {
+    culture = jewish
+    religion =  jewish
+    size = 2850
+  }
+  capitalists = {
+    culture = jewish
+    religion = secularism
+    size = 5292
+  }
+  officers = {
+    culture = spanish
+    religion =  catholic
+    size = 1451
+  }
+  officers = {
+    culture = spanish
+    religion = secularism
+    size = 2696
+  }
+  soldiers = {
+    culture = spanish
+    religion =  catholic
+    size = 27588
+  }
+  soldiers = {
+    culture = spanish
+    religion = secularism
+    size = 51234
+  }
+  aristocrats = {
+    culture = spanish
+    religion =  catholic
+    size = 11875
+  }
+  aristocrats = {
+    culture = spanish
+    religion = secularism
+    size = 22055
+  }
+  bureaucrats = {
+    culture = spanish
+    religion =  catholic
+    size = 2850
+  }
+  bureaucrats = {
+    culture = spanish
+    religion = secularism
+    size = 5292
+  }
+  clergymen = {
+    culture = spanish
+    religion =  catholic
+    size = 9500
+  }
+  clergymen = {
+    culture = spanish
+    religion = secularism
+    size = 17644
+  }
+  clerks = {
+    culture = spanish
+    religion =  catholic
+    size = 13021
+  }
+  clerks = {
+    culture = spanish
+    religion = secularism
+    size = 24181
+  }
+  artisans = {
+    culture = spanish
+    religion =  catholic
+    size = 12369
+  }
+  artisans = {
+    culture = spanish
+    religion = secularism
+    size = 22972
+  }
+  craftsmen = {
+    culture = spanish
+    religion =  catholic
+    size = 39063
+  }
+  craftsmen = {
+    culture = spanish
+    religion = secularism
+    size = 72545
+  }
+  farmers = {
+    culture = spanish
+    religion =  catholic
+    size = 210055
+  }
+  farmers = {
+    culture = spanish
+    religion = secularism
+    size = 390102
+  }
+  farmers = {
+    culture = jewish
+    religion =  jewish
+    size = 1900
+  }
+  farmers = {
+    culture = jewish
+    religion = secularism
+    size = 3528
+  }
+  farmers = {
+    culture = andean_spanish
+    religion =  catholic
+    size = 47503
+  }
+  farmers = {
+    culture = andean_spanish
+    religion = secularism
+    size = 88221
+  }
+  farmers = {
+    culture = andean_spanish
+    religion =  catholic
+    size = 47503
+  }
+  farmers = {
+    culture = andean_spanish
+    religion = secularism
+    size = 88221
+  }
+  farmers = {
+    culture = sunni_arab
+    religion =  sunni
+    size = 135725
+  }
 }
 #Siguenza - Siguenza (215000/53750 POPS)
 488 = {
-	clergymen = {
-		culture = spanish
-		religion =  catholic 
-		size = 376
-	 } 
-	clergymen = {
-		culture = spanish
-		religion = secularism
-		size = 698
-	 } 
-	farmers = {
-		culture = spanish
-		religion =  catholic 
-		size = 18436
-	 } 
-	farmers = {
-		culture = spanish
-		religion = secularism
-		size = 34238
-	 } 
+  clergymen = {
+    culture = spanish
+    religion =  catholic
+    size = 376
+  }
+  clergymen = {
+    culture = spanish
+    religion = secularism
+    size = 698
+  }
+  farmers = {
+    culture = spanish
+    religion =  catholic
+    size = 18436
+  }
+  farmers = {
+    culture = spanish
+    religion = secularism
+    size = 34238
+  }
 }
 #Toledo - Toledo (594000/148500 POPS)
 489 = {
-	clergymen = {
-		culture = spanish
-		religion =  catholic 
-		size = 1039
-	 } 
-	clergymen = {
-		culture = spanish
-		religion = secularism
-		size = 1930
-	 } 
-	farmers = {
-		culture = spanish
-		religion =  catholic 
-		size = 50935
-	 } 
-	farmers = {
-		culture = spanish
-		religion = secularism
-		size = 94594
-	 } 
+  clergymen = {
+    culture = spanish
+    religion =  catholic
+    size = 1039
+  }
+  clergymen = {
+    culture = spanish
+    religion = secularism
+    size = 1930
+  }
+  farmers = {
+    culture = spanish
+    religion =  catholic
+    size = 50935
+  }
+  farmers = {
+    culture = spanish
+    religion = secularism
+    size = 94594
+  }
 }
 #Cuenca - Cuenca (182000/45500 POPS)
 490 = {
-	clergymen = {
-		culture = spanish
-		religion =  catholic 
-		size = 318
-	 } 
-	clergymen = {
-		culture = spanish
-		religion = secularism
-		size = 591
-	 } 
-	farmers = {
-		culture = spanish
-		religion =  catholic 
-		size = 15606
-	 } 
-	farmers = {
-		culture = spanish
-		religion = secularism
-		size = 28983
-	 } 
+  clergymen = {
+    culture = spanish
+    religion =  catholic
+    size = 318
+  }
+  clergymen = {
+    culture = spanish
+    religion = secularism
+    size = 591
+  }
+  farmers = {
+    culture = spanish
+    religion =  catholic
+    size = 15606
+  }
+  farmers = {
+    culture = spanish
+    religion = secularism
+    size = 28983
+  }
 }
 #Ciudad Real - Ciudad Real (423000/105750 POPS)
 491 = {
-	clergymen = {
-		culture = spanish
-		religion =  catholic 
-		size = 740
-	 } 
-	clergymen = {
-		culture = spanish
-		religion = secularism
-		size = 1374
-	 } 
-	farmers = {
-		culture = spanish
-		religion =  catholic 
-		size = 36272
-	 } 
-	farmers = {
-		culture = spanish
-		religion = secularism
-		size = 67362
-	 } 
+  clergymen = {
+    culture = spanish
+    religion =  catholic
+    size = 740
+  }
+  clergymen = {
+    culture = spanish
+    religion = secularism
+    size = 1374
+  }
+  farmers = {
+    culture = spanish
+    religion =  catholic
+    size = 36272
+  }
+  farmers = {
+    culture = spanish
+    religion = secularism
+    size = 67362
+  }
 }
 #BIlbao - BIlbao (2166000/541500 POPS)
 492 = {
-	officers = {
-		culture = spanish
-		religion =  catholic 
-		size = 386
-	 } 
-	officers = {
-		culture = spanish
-		religion = secularism
-		size = 472
-	 } 
-	soldiers = {
-		culture = spanish
-		religion =  catholic 
-		size = 7351
-	 } 
-	soldiers = {
-		culture = spanish
-		religion = secularism
-		size = 8984
-	 } 
-	aristocrats = {
-		culture = spanish
-		religion =  catholic 
-		size = 6091
-	 } 
-	aristocrats = {
-		culture = spanish
-		religion = secularism
-		size = 7445
-	 } 
-	bureaucrats = {
-		culture = spanish
-		religion =  catholic 
-		size = 1462
-	 } 
-	bureaucrats = {
-		culture = spanish
-		religion = secularism
-		size = 1786
-	 } 
-	capitalists = {
-		culture = spanish
-		religion =  catholic 
-		size = 1462
-	 } 
-	capitalists = {
-		culture = spanish
-		religion = secularism
-		size = 1786
-	 } 
-	clergymen = {
-		culture = spanish
-		religion =  catholic 
-		size = 4873
-	 } 
-	clergymen = {
-		culture = spanish
-		religion = secularism
-		size = 5956
-	 } 
-	clerks = {
-		culture = spanish
-		religion =  catholic 
-		size = 6888
-	 } 
-	clerks = {
-		culture = spanish
-		religion = secularism
-		size = 8418
-	 } 
-	artisans = {
-		culture = spanish
-		religion =  catholic 
-		size = 6543
-	 } 
-	artisans = {
-		culture = spanish
-		religion = secularism
-		size = 7997
-	 } 
-	craftsmen = {
-		culture = spanish
-		religion =  catholic 
-		size = 20664
-	 } 
-	craftsmen = {
-		culture = spanish
-		religion = secularism
-		size = 25256
-	 } 
-	farmers = {
-		culture = spanish
-		religion =  catholic 
-		size = 114849
-	 } 
-	farmers = {
-		culture = spanish
-		religion = secularism
-		size = 140371
-	 } 
-	farmers = {
-		culture = basque
-		religion =  catholic 
-		size = 73102
-	 } 
-	farmers = {
-		culture = basque
-		religion = secularism
-		size = 89347
-	 } 
+  officers = {
+    culture = spanish
+    religion =  catholic
+    size = 386
+  }
+  officers = {
+    culture = spanish
+    religion = secularism
+    size = 472
+  }
+  soldiers = {
+    culture = spanish
+    religion =  catholic
+    size = 7351
+  }
+  soldiers = {
+    culture = spanish
+    religion = secularism
+    size = 8984
+  }
+  aristocrats = {
+    culture = spanish
+    religion =  catholic
+    size = 6091
+  }
+  aristocrats = {
+    culture = spanish
+    religion = secularism
+    size = 7445
+  }
+  bureaucrats = {
+    culture = spanish
+    religion =  catholic
+    size = 1462
+  }
+  bureaucrats = {
+    culture = spanish
+    religion = secularism
+    size = 1786
+  }
+  capitalists = {
+    culture = spanish
+    religion =  catholic
+    size = 1462
+  }
+  capitalists = {
+    culture = spanish
+    religion = secularism
+    size = 1786
+  }
+  clergymen = {
+    culture = spanish
+    religion =  catholic
+    size = 4873
+  }
+  clergymen = {
+    culture = spanish
+    religion = secularism
+    size = 5956
+  }
+  clerks = {
+    culture = spanish
+    religion =  catholic
+    size = 6888
+  }
+  clerks = {
+    culture = spanish
+    religion = secularism
+    size = 8418
+  }
+  artisans = {
+    culture = spanish
+    religion =  catholic
+    size = 6543
+  }
+  artisans = {
+    culture = spanish
+    religion = secularism
+    size = 7997
+  }
+  craftsmen = {
+    culture = spanish
+    religion =  catholic
+    size = 20664
+  }
+  craftsmen = {
+    culture = spanish
+    religion = secularism
+    size = 25256
+  }
+  farmers = {
+    culture = spanish
+    religion =  catholic
+    size = 114849
+  }
+  farmers = {
+    culture = spanish
+    religion = secularism
+    size = 140371
+  }
+  farmers = {
+    culture = basque
+    religion =  catholic
+    size = 73102
+  }
+  farmers = {
+    culture = basque
+    religion = secularism
+    size = 89347
+  }
 }
 #Pamplona - Pamplona (644000/161000 POPS)
 493 = {
-	clergymen = {
-		culture = spanish
-		religion =  catholic 
-		size = 1448
-	 } 
-	clergymen = {
-		culture = spanish
-		religion = secularism
-		size = 1771
-	 } 
-	farmers = {
-		culture = spanish
-		religion =  catholic 
-		size = 63031
-	 } 
-	farmers = {
-		culture = spanish
-		religion = secularism
-		size = 77038
-	 } 
-	farmers = {
-		culture = basque
-		religion =  catholic 
-		size = 7969
-	 } 
-	farmers = {
-		culture = basque
-		religion = secularism
-		size = 9740
-	 } 
+  clergymen = {
+    culture = spanish
+    religion =  catholic
+    size = 1448
+  }
+  clergymen = {
+    culture = spanish
+    religion = secularism
+    size = 1771
+  }
+  farmers = {
+    culture = spanish
+    religion =  catholic
+    size = 63031
+  }
+  farmers = {
+    culture = spanish
+    religion = secularism
+    size = 77038
+  }
+  farmers = {
+    culture = basque
+    religion =  catholic
+    size = 7969
+  }
+  farmers = {
+    culture = basque
+    religion = secularism
+    size = 9740
+  }
 }
 #Logrono - Logrono (257000/64250 POPS)
 494 = {
-	clergymen = {
-		culture = spanish
-		religion =  catholic 
-		size = 449
-	 } 
-	clergymen = {
-		culture = spanish
-		religion = secularism
-		size = 835
-	 } 
-	farmers = {
-		culture = spanish
-		religion =  catholic 
-		size = 22037
-	 } 
-	farmers = {
-		culture = spanish
-		religion = secularism
-		size = 40927
-	 } 
+  clergymen = {
+    culture = spanish
+    religion =  catholic
+    size = 449
+  }
+  clergymen = {
+    culture = spanish
+    religion = secularism
+    size = 835
+  }
+  farmers = {
+    culture = spanish
+    religion =  catholic
+    size = 22037
+  }
+  farmers = {
+    culture = spanish
+    religion = secularism
+    size = 40927
+  }
 }
 #Zaragoza - Zaragoza (814000/203500 POPS)
 495 = {
-	clergymen = {
-		culture = spanish
-		religion =  catholic 
-		size = 1424
-	 } 
-	clergymen = {
-		culture = spanish
-		religion = secularism
-		size = 2645
-	 } 
-	farmers = {
-		culture = spanish
-		religion =  catholic 
-		size = 66951
-	 } 
-	farmers = {
-		culture = spanish
-		religion = secularism
-		size = 124338
-	 } 
-	farmers = {
-		culture = catalan
-		religion =  catholic 
-		size = 2849
-	 } 
-	farmers = {
-		culture = catalan
-		religion = secularism
-		size = 5291
-	 } 
+  clergymen = {
+    culture = spanish
+    religion =  catholic
+    size = 1424
+  }
+  clergymen = {
+    culture = spanish
+    religion = secularism
+    size = 2645
+  }
+  farmers = {
+    culture = spanish
+    religion =  catholic
+    size = 66951
+  }
+  farmers = {
+    culture = spanish
+    religion = secularism
+    size = 124338
+  }
+  farmers = {
+    culture = catalan
+    religion =  catholic
+    size = 2849
+  }
+  farmers = {
+    culture = catalan
+    religion = secularism
+    size = 5291
+  }
 }
 #Huesca - Huesca (190000/47500 POPS)
 496 = {
-	clergymen = {
-		culture = spanish
-		religion =  catholic 
-		size = 332
-	 } 
-	clergymen = {
-		culture = spanish
-		religion = secularism
-		size = 617
-	 } 
-	farmers = {
-		culture = spanish
-		religion =  catholic 
-		size = 9318
-	 } 
-	farmers = {
-		culture = spanish
-		religion = secularism
-		size = 17306
-	 } 
-		farmers = {
-		culture = aragonese
-		religion =  catholic 
-		size =6475
-	 } 
-	farmers = {
-		culture = aragonese
-		religion = secularism
-		size = 12025 
-	 } 
-	farmers = {
-		culture = catalan
-		religion =  catholic 
-		size = 498
-	 } 
-	farmers = {
-		culture = catalan
-		religion = secularism
-		size = 926
-	 } 
+  clergymen = {
+    culture = spanish
+    religion =  catholic
+    size = 332
+  }
+  clergymen = {
+    culture = spanish
+    religion = secularism
+    size = 617
+  }
+  farmers = {
+    culture = spanish
+    religion =  catholic
+    size = 9318
+  }
+  farmers = {
+    culture = spanish
+    religion = secularism
+    size = 17306
+  }
+  farmers = {
+    culture = aragonese
+    religion =  catholic
+    size =6475
+  }
+  farmers = {
+    culture = aragonese
+    religion = secularism
+    size = 12025
+  }
+  farmers = {
+    culture = catalan
+    religion =  catholic
+    size = 498
+  }
+  farmers = {
+    culture = catalan
+    religion = secularism
+    size = 926
+  }
 }
 #Teruel - Teruel (115000/28750 POPS)
 497 = {
-	clergymen = {
-		culture = spanish
-		religion =  catholic 
-		size = 201
-	 } 
-	clergymen = {
-		culture = spanish
-		religion = secularism
-		size = 373
-	 } 
-	farmers = {
-		culture = spanish
-		religion =  catholic 
-		size = 9861
-	 } 
-	farmers = {
-		culture = spanish
-		religion = secularism
-		size = 18313
-	 } 
+  clergymen = {
+    culture = spanish
+    religion =  catholic
+    size = 201
+  }
+  clergymen = {
+    culture = spanish
+    religion = secularism
+    size = 373
+  }
+  farmers = {
+    culture = spanish
+    religion =  catholic
+    size = 9861
+  }
+  farmers = {
+    culture = spanish
+    religion = secularism
+    size = 18313
+  }
 }
 #Barcelona - Barcelona (5507000/1376750 POPS)
 498 = {
-	officers = {
-		culture = spanish
-		religion =  catholic 
-		size = 1201
-	 } 
-	officers = {
-		culture = spanish
-		religion = secularism
-		size = 1469
-	 } 
-	soldiers = {
-		culture = spanish
-		religion =  catholic 
-		size = 22844
-	 } 
-	soldiers = {
-		culture = spanish
-		religion = secularism
-		size = 27920
-	 } 
-	aristocrats = {
-		culture = spanish
-		religion =  catholic 
-		size = 15488
-	 } 
-	aristocrats = {
-		culture = spanish
-		religion = secularism
-		size = 18929
-	 } 
-	bureaucrats = {
-		culture = spanish
-		religion =  catholic 
-		size = 3716
-	 } 
-	bureaucrats = {
-		culture = spanish
-		religion = secularism
-		size = 4543
-	 } 
-	capitalists = {
-		culture = spanish
-		religion =  catholic 
-		size = 3716
-	 } 
-	capitalists = {
-		culture = spanish
-		religion = secularism
-		size = 4543
-	 } 
-	clergymen = {
-		culture = spanish
-		religion =  catholic 
-		size = 12390
-	 } 
-	clergymen = {
-		culture = spanish
-		religion = secularism
-		size = 15144
-	 } 
-	clerks = {
-		culture = spanish
-		religion =  catholic 
-		size = 17385
-	 } 
-	clerks = {
-		culture = spanish
-		religion = secularism
-		size = 21248
-	 } 
-	artisans = {
-		culture = spanish
-		religion =  catholic 
-		size = 16515
-	 } 
-	artisans = {
-		culture = spanish
-		religion = secularism
-		size = 20186
-	 } 
-	craftsmen = {
-		culture = spanish
-		religion =  catholic 
-		size = 52156
-	 } 
-	craftsmen = {
-		culture = spanish
-		religion = secularism
-		size = 63746
-	 } 
-	farmers = {
-		culture = spanish
-		religion =  catholic 
-		size = 102398
-	 } 
-	farmers = {
-		culture = spanish
-		religion = secularism
-		size = 125153
-	 } 
-	farmers = {
-		culture = andean_spanish
-		religion =  catholic 
-		size = 61953
-	 } 
-	farmers = {
-		culture = andean_spanish
-		religion = secularism
-		size = 75721
-	 } 
-	farmers = {
-		culture = catalan
-		religion =  catholic 
-		size = 185861
-	 } 
-	farmers = {
-		culture = catalan
-		religion = secularism
-		size = 227163
-	 } 
-	farmers = {
-		culture = andean_spanish
-		religion =  catholic 
-		size = 61953
-	 } 
-	farmers = {
-		culture = andean_spanish
-		religion = secularism
-		size = 75721
-	 } 
-	farmers = {
-		culture = sunni_arab
-		religion =  sunni 
-		size = 137675
-	 } 
+  officers = {
+    culture = spanish
+    religion =  catholic
+    size = 1201
+  }
+  officers = {
+    culture = spanish
+    religion = secularism
+    size = 1469
+  }
+  soldiers = {
+    culture = spanish
+    religion =  catholic
+    size = 22844
+  }
+  soldiers = {
+    culture = spanish
+    religion = secularism
+    size = 27920
+  }
+  aristocrats = {
+    culture = spanish
+    religion =  catholic
+    size = 15488
+  }
+  aristocrats = {
+    culture = spanish
+    religion = secularism
+    size = 18929
+  }
+  bureaucrats = {
+    culture = spanish
+    religion =  catholic
+    size = 3716
+  }
+  bureaucrats = {
+    culture = spanish
+    religion = secularism
+    size = 4543
+  }
+  capitalists = {
+    culture = spanish
+    religion =  catholic
+    size = 3716
+  }
+  capitalists = {
+    culture = spanish
+    religion = secularism
+    size = 4543
+  }
+  clergymen = {
+    culture = spanish
+    religion =  catholic
+    size = 12390
+  }
+  clergymen = {
+    culture = spanish
+    religion = secularism
+    size = 15144
+  }
+  clerks = {
+    culture = spanish
+    religion =  catholic
+    size = 17385
+  }
+  clerks = {
+    culture = spanish
+    religion = secularism
+    size = 21248
+  }
+  artisans = {
+    culture = spanish
+    religion =  catholic
+    size = 16515
+  }
+  artisans = {
+    culture = spanish
+    religion = secularism
+    size = 20186
+  }
+  craftsmen = {
+    culture = spanish
+    religion =  catholic
+    size = 52156
+  }
+  craftsmen = {
+    culture = spanish
+    religion = secularism
+    size = 63746
+  }
+  farmers = {
+    culture = spanish
+    religion =  catholic
+    size = 102398
+  }
+  farmers = {
+    culture = spanish
+    religion = secularism
+    size = 125153
+  }
+  farmers = {
+    culture = andean_spanish
+    religion =  catholic
+    size = 61953
+  }
+  farmers = {
+    culture = andean_spanish
+    religion = secularism
+    size = 75721
+  }
+  farmers = {
+    culture = catalan
+    religion =  catholic
+    size = 185861
+  }
+  farmers = {
+    culture = catalan
+    religion = secularism
+    size = 227163
+  }
+  farmers = {
+    culture = andean_spanish
+    religion =  catholic
+    size = 61953
+  }
+  farmers = {
+    culture = andean_spanish
+    religion = secularism
+    size = 75721
+  }
+  farmers = {
+    culture = sunni_arab
+    religion =  sunni
+    size = 137675
+  }
 }
 #Gerona - Gerona (752000/188000 POPS)
 499 = {
-	clergymen = {
-		culture = spanish
-		religion =  catholic 
-		size = 1691
-	 } 
-	clergymen = {
-		culture = spanish
-		religion = secularism
-		size = 2068
-	 } 
-	farmers = {
-		culture = spanish
-		religion =  catholic 
-		size = 2537
-	 } 
-	farmers = {
-		culture = spanish
-		religion = secularism
-		size = 3102
-	 } 
-	farmers = {
-		culture = catalan
-		religion =  catholic 
-		size = 80369
-	 } 
-	farmers = {
-		culture = catalan
-		religion = secularism
-		size = 98230
-	 } 
+  clergymen = {
+    culture = spanish
+    religion =  catholic
+    size = 1691
+  }
+  clergymen = {
+    culture = spanish
+    religion = secularism
+    size = 2068
+  }
+  farmers = {
+    culture = spanish
+    religion =  catholic
+    size = 2537
+  }
+  farmers = {
+    culture = spanish
+    religion = secularism
+    size = 3102
+  }
+  farmers = {
+    culture = catalan
+    religion =  catholic
+    size = 80369
+  }
+  farmers = {
+    culture = catalan
+    religion = secularism
+    size = 98230
+  }
 }
 #Lerida - Lerida (439000/109750 POPS)
 500 = {
-	clergymen = {
-		culture = spanish
-		religion =  catholic 
-		size = 987
-	 } 
-	clergymen = {
-		culture = spanish
-		religion = secularism
-		size = 1207
-	 } 
-	farmers = {
-		culture = spanish
-		religion =  catholic 
-		size = 6420
-	 } 
-	farmers = {
-		culture = spanish
-		religion = secularism
-		size = 7846
-	 } 
-	farmers = {
-		culture = catalan
-		religion =  catholic 
-		size = 41979
-	 } 
-	farmers = {
-		culture = catalan
-		religion = secularism
-		size = 51307
-	 } 
+  clergymen = {
+    culture = spanish
+    religion =  catholic
+    size = 987
+  }
+  clergymen = {
+    culture = spanish
+    religion = secularism
+    size = 1207
+  }
+  farmers = {
+    culture = spanish
+    religion =  catholic
+    size = 6420
+  }
+  farmers = {
+    culture = spanish
+    religion = secularism
+    size = 7846
+  }
+  farmers = {
+    culture = catalan
+    religion =  catholic
+    size = 41979
+  }
+  farmers = {
+    culture = catalan
+    religion = secularism
+    size = 51307
+  }
 }
 #Tarragona - Tarragona (805000/201250 POPS)
 501 = {
-	clergymen = {
-		culture = spanish
-		religion =  catholic 
-		size = 1811
-	 } 
-	clergymen = {
-		culture = spanish
-		religion = secularism
-		size = 2213
-	 } 
-	farmers = {
-		culture = spanish
-		religion =  catholic 
-		size = 20829
-	 } 
-	farmers = {
-		culture = spanish
-		religion = secularism
-		size = 25457
-	 } 
-	farmers = {
-		culture = catalan
-		religion =  catholic 
-		size = 67921
-	 } 
-	farmers = {
-		culture = catalan
-		religion = secularism
-		size = 83015
-	 } 
+  clergymen = {
+    culture = spanish
+    religion =  catholic
+    size = 1811
+  }
+  clergymen = {
+    culture = spanish
+    religion = secularism
+    size = 2213
+  }
+  farmers = {
+    culture = spanish
+    religion =  catholic
+    size = 20829
+  }
+  farmers = {
+    culture = spanish
+    religion = secularism
+    size = 25457
+  }
+  farmers = {
+    culture = catalan
+    religion =  catholic
+    size = 67921
+  }
+  farmers = {
+    culture = catalan
+    religion = secularism
+    size = 83015
+  }
 }
 #Balearic Islands - Balearic Islands (1106000/276500 POPS)
 502 = {
-	clergymen = {
-		culture = spanish
-		religion =  catholic 
-		size = 2488
-	 } 
-	clergymen = {
-		culture = spanish
-		religion = secularism
-		size = 3041
-	 } 
-	farmers = {
-		culture = spanish
-		religion =  catholic 
-		size = 78387
-	 } 
-	farmers = {
-		culture = spanish
-		religion = secularism
-		size = 95807
-	 } 
-	farmers = {
-		culture = andean_spanish
-		religion =  catholic 
-		size = 12442
-	 } 
-	farmers = {
-		culture = andean_spanish
-		religion = secularism
-		size = 15207
-	 } 
-	farmers = {
-		culture = catalan
-		religion =  catholic 
-		size = 12442
-	 } 
-	farmers = {
-		culture = catalan
-		religion = secularism
-		size = 15207
-	 } 
-	farmers = {
-		culture = andean_spanish
-		religion =  catholic 
-		size = 12442
-	 } 
-	farmers = {
-		culture = andean_spanish
-		religion = secularism
-		size = 15207
-	 } 
-	farmers = {
-		culture = sunni_arab
-		religion =  sunni 
-		size = 13825
-	 } 
+  clergymen = {
+    culture = spanish
+    religion =  catholic
+    size = 2488
+  }
+  clergymen = {
+    culture = spanish
+    religion = secularism
+    size = 3041
+  }
+  farmers = {
+    culture = spanish
+    religion =  catholic
+    size = 78387
+  }
+  farmers = {
+    culture = spanish
+    religion = secularism
+    size = 95807
+  }
+  farmers = {
+    culture = andean_spanish
+    religion =  catholic
+    size = 12442
+  }
+  farmers = {
+    culture = andean_spanish
+    religion = secularism
+    size = 15207
+  }
+  farmers = {
+    culture = catalan
+    religion =  catholic
+    size = 12442
+  }
+  farmers = {
+    culture = catalan
+    religion = secularism
+    size = 15207
+  }
+  farmers = {
+    culture = andean_spanish
+    religion =  catholic
+    size = 12442
+  }
+  farmers = {
+    culture = andean_spanish
+    religion = secularism
+    size = 15207
+  }
+  farmers = {
+    culture = sunni_arab
+    religion =  sunni
+    size = 13825
+  }
 }
 #Valencia - Valencia (2566000/641500 POPS)
 503 = {
-	officers = {
-		culture = spanish
-		religion =  catholic 
-		size = 705
-	 } 
-	officers = {
-		culture = spanish
-		religion = secularism
-		size = 862
-	 } 
-	soldiers = {
-		culture = spanish
-		religion =  catholic 
-		size = 13411
-	 } 
-	soldiers = {
-		culture = spanish
-		religion = secularism
-		size = 16392
-	 } 
-	aristocrats = {
-		culture = spanish
-		religion =  catholic 
-		size = 7216
-	 } 
-	aristocrats = {
-		culture = spanish
-		religion = secularism
-		size = 8820
-	 } 
-	bureaucrats = {
-		culture = spanish
-		religion =  catholic 
-		size = 1732
-	 } 
-	bureaucrats = {
-		culture = spanish
-		religion = secularism
-		size = 2116
-	 } 
-	capitalists = {
-		culture = spanish
-		religion =  catholic 
-		size = 1732
-	 } 
-	capitalists = {
-		culture = spanish
-		religion = secularism
-		size = 2116
-	 } 
-	clergymen = {
-		culture = spanish
-		religion =  catholic 
-		size = 5773
-	 } 
-	clergymen = {
-		culture = spanish
-		religion = secularism
-		size = 7056
-	 } 
-	clerks = {
-		culture = spanish
-		religion =  catholic 
-		size = 8015
-	 } 
-	clerks = {
-		culture = spanish
-		religion = secularism
-		size = 9796
-	 } 
-	artisans = {
-		culture = spanish
-		religion =  catholic 
-		size = 7614
-	 } 
-	artisans = {
-		culture = spanish
-		religion = secularism
-		size = 9307
-	 } 
-	craftsmen = {
-		culture = spanish
-		religion =  catholic 
-		size = 24047
-	 } 
-	craftsmen = {
-		culture = spanish
-		religion = secularism
-		size = 29390
-	 } 
-	farmers = {
-		culture = spanish
-		religion =  catholic 
-		size = 59654
-	 } 
-	farmers = {
-		culture = spanish
-		religion = secularism
-		size = 72911
-	 } 
-	farmers = {
-		culture = andean_spanish
-		religion =  catholic 
-		size = 28867
-	 } 
-	farmers = {
-		culture = andean_spanish
-		religion = secularism
-		size = 35282
-	 } 
-	farmers = {
-		culture = catalan
-		religion =  catholic 
-		size = 72168
-	 } 
-	farmers = {
-		culture = catalan
-		religion = secularism
-		size = 88206
-	 } 
-	farmers = {
-		culture = andean_spanish
-		religion =  catholic 
-		size = 28867
-	 } 
-	farmers = {
-		culture = andean_spanish
-		religion = secularism
-		size = 35282
-	 } 
-	farmers = {
-		culture = sunni_arab
-		religion =  sunni 
-		size = 64150
-	 } 
+  officers = {
+    culture = spanish
+    religion =  catholic
+    size = 705
+  }
+  officers = {
+    culture = spanish
+    religion = secularism
+    size = 862
+  }
+  soldiers = {
+    culture = spanish
+    religion =  catholic
+    size = 13411
+  }
+  soldiers = {
+    culture = spanish
+    religion = secularism
+    size = 16392
+  }
+  aristocrats = {
+    culture = spanish
+    religion =  catholic
+    size = 7216
+  }
+  aristocrats = {
+    culture = spanish
+    religion = secularism
+    size = 8820
+  }
+  bureaucrats = {
+    culture = spanish
+    religion =  catholic
+    size = 1732
+  }
+  bureaucrats = {
+    culture = spanish
+    religion = secularism
+    size = 2116
+  }
+  capitalists = {
+    culture = spanish
+    religion =  catholic
+    size = 1732
+  }
+  capitalists = {
+    culture = spanish
+    religion = secularism
+    size = 2116
+  }
+  clergymen = {
+    culture = spanish
+    religion =  catholic
+    size = 5773
+  }
+  clergymen = {
+    culture = spanish
+    religion = secularism
+    size = 7056
+  }
+  clerks = {
+    culture = spanish
+    religion =  catholic
+    size = 8015
+  }
+  clerks = {
+    culture = spanish
+    religion = secularism
+    size = 9796
+  }
+  artisans = {
+    culture = spanish
+    religion =  catholic
+    size = 7614
+  }
+  artisans = {
+    culture = spanish
+    religion = secularism
+    size = 9307
+  }
+  craftsmen = {
+    culture = spanish
+    religion =  catholic
+    size = 24047
+  }
+  craftsmen = {
+    culture = spanish
+    religion = secularism
+    size = 29390
+  }
+  farmers = {
+    culture = spanish
+    religion =  catholic
+    size = 59654
+  }
+  farmers = {
+    culture = spanish
+    religion = secularism
+    size = 72911
+  }
+  farmers = {
+    culture = andean_spanish
+    religion =  catholic
+    size = 28867
+  }
+  farmers = {
+    culture = andean_spanish
+    religion = secularism
+    size = 35282
+  }
+  farmers = {
+    culture = catalan
+    religion =  catholic
+    size = 72168
+  }
+  farmers = {
+    culture = catalan
+    religion = secularism
+    size = 88206
+  }
+  farmers = {
+    culture = andean_spanish
+    religion =  catholic
+    size = 28867
+  }
+  farmers = {
+    culture = andean_spanish
+    religion = secularism
+    size = 35282
+  }
+  farmers = {
+    culture = sunni_arab
+    religion =  sunni
+    size = 64150
+  }
 }
 #Castellon - Castellon (604000/151000 POPS)
 504 = {
-	clergymen = {
-		culture = spanish
-		religion =  catholic 
-		size = 1358
-	 } 
-	clergymen = {
-		culture = spanish
-		religion = secularism
-		size = 1661
-	 } 
-	farmers = {
-		culture = spanish
-		religion =  catholic 
-		size = 19025
-	 } 
-	farmers = {
-		culture = spanish
-		religion = secularism
-		size = 23254
-	 } 
-	farmers = {
-		culture = catalan
-		religion =  catholic 
-		size = 47564
-	 } 
-	farmers = {
-		culture = catalan
-		religion = secularism
-		size = 58135
-	 } 
+  clergymen = {
+    culture = spanish
+    religion =  catholic
+    size = 1358
+  }
+  clergymen = {
+    culture = spanish
+    religion = secularism
+    size = 1661
+  }
+  farmers = {
+    culture = spanish
+    religion =  catholic
+    size = 19025
+  }
+  farmers = {
+    culture = spanish
+    religion = secularism
+    size = 23254
+  }
+  farmers = {
+    culture = catalan
+    religion =  catholic
+    size = 47564
+  }
+  farmers = {
+    culture = catalan
+    religion = secularism
+    size = 58135
+  }
 }
 #Alicante - Alicante (1917000/479250 POPS)
 505 = {
-	clergymen = {
-		culture = spanish
-		religion =  catholic 
-		size = 4313
-	 } 
-	clergymen = {
-		culture = spanish
-		religion = secularism
-		size = 5271
-	 } 
-	farmers = {
-		culture = spanish
-		religion =  catholic 
-		size = 135867
-	 } 
-	farmers = {
-		culture = spanish
-		religion = secularism
-		size = 166059
-	 } 
-	farmers = {
-		culture = andean_spanish
-		religion =  catholic 
-		size = 21566
-	 } 
-	farmers = {
-		culture = andean_spanish
-		religion = secularism
-		size = 26358
-	 } 
-	farmers = {
-		culture = catalan
-		religion =  catholic 
-		size = 21566
-	 } 
-	farmers = {
-		culture = catalan
-		religion = secularism
-		size = 26358
-	 } 
-	farmers = {
-		culture = andean_spanish
-		religion =  catholic 
-		size = 21566
-	 } 
-	farmers = {
-		culture = andean_spanish
-		religion = secularism
-		size = 26358
-	 } 
-	farmers = {
-		culture = sunni_arab
-		religion =  sunni 
-		size = 23962
-	 } 
+  clergymen = {
+    culture = spanish
+    religion =  catholic
+    size = 4313
+  }
+  clergymen = {
+    culture = spanish
+    religion = secularism
+    size = 5271
+  }
+  farmers = {
+    culture = spanish
+    religion =  catholic
+    size = 135867
+  }
+  farmers = {
+    culture = spanish
+    religion = secularism
+    size = 166059
+  }
+  farmers = {
+    culture = andean_spanish
+    religion =  catholic
+    size = 21566
+  }
+  farmers = {
+    culture = andean_spanish
+    religion = secularism
+    size = 26358
+  }
+  farmers = {
+    culture = catalan
+    religion =  catholic
+    size = 21566
+  }
+  farmers = {
+    culture = catalan
+    religion = secularism
+    size = 26358
+  }
+  farmers = {
+    culture = andean_spanish
+    religion =  catholic
+    size = 21566
+  }
+  farmers = {
+    culture = andean_spanish
+    religion = secularism
+    size = 26358
+  }
+  farmers = {
+    culture = sunni_arab
+    religion =  sunni
+    size = 23962
+  }
 }
 #Cartagena - Cartagena (836000/209000 POPS)
 506 = {
-	clergymen = {
-		culture = spanish
-		religion =  catholic 
-		size = 1463
-	 } 
-	clergymen = {
-		culture = spanish
-		religion = secularism
-		size = 2717
-	 } 
-	farmers = {
-		culture = spanish
-		religion =  catholic 
-		size = 65103
-	 } 
-	farmers = {
-		culture = spanish
-		religion = secularism
-		size = 120906
-	 } 
-	farmers = {
-		culture = sunni_arab
-		religion =  sunni 
-		size = 8360
-	 } 
-	farmers = {
-		culture = andean_spanish
-		religion =  catholic 
-		size = 3657
-	 } 
-	farmers = {
-		culture = andean_spanish
-		religion = secularism
-		size = 6792
-	 } 
+  clergymen = {
+    culture = spanish
+    religion =  catholic
+    size = 1463
+  }
+  clergymen = {
+    culture = spanish
+    religion = secularism
+    size = 2717
+  }
+  farmers = {
+    culture = spanish
+    religion =  catholic
+    size = 65103
+  }
+  farmers = {
+    culture = spanish
+    religion = secularism
+    size = 120906
+  }
+  farmers = {
+    culture = sunni_arab
+    religion =  sunni
+    size = 8360
+  }
+  farmers = {
+    culture = andean_spanish
+    religion =  catholic
+    size = 3657
+  }
+  farmers = {
+    culture = andean_spanish
+    religion = secularism
+    size = 6792
+  }
 }
 #Murcia - Murcia (393000/98250 POPS)
 507 = {
-	clergymen = {
-		culture = spanish
-		religion =  catholic 
-		size = 687
-	 } 
-	clergymen = {
-		culture = spanish
-		religion = secularism
-		size = 1277
-	 } 
-	farmers = {
-		culture = spanish
-		religion =  catholic 
-		size = 33699
-	 } 
-	farmers = {
-		culture = spanish
-		religion = secularism
-		size = 62585
-	 } 
+  clergymen = {
+    culture = spanish
+    religion =  catholic
+    size = 687
+  }
+  clergymen = {
+    culture = spanish
+    religion = secularism
+    size = 1277
+  }
+  farmers = {
+    culture = spanish
+    religion =  catholic
+    size = 33699
+  }
+  farmers = {
+    culture = spanish
+    religion = secularism
+    size = 62585
+  }
 }
 #Albacete - Albacete (336000/84000 POPS)
 508 = {
-	clergymen = {
-		culture = spanish
-		religion =  catholic 
-		size = 588
-	 } 
-	clergymen = {
-		culture = spanish
-		religion = secularism
-		size = 1092
-	 } 
-	farmers = {
-		culture = spanish
-		religion =  catholic 
-		size = 28811
-	 } 
-	farmers = {
-		culture = spanish
-		religion = secularism
-		size = 53508
-	 } 
+  clergymen = {
+    culture = spanish
+    religion =  catholic
+    size = 588
+  }
+  clergymen = {
+    culture = spanish
+    religion = secularism
+    size = 1092
+  }
+  farmers = {
+    culture = spanish
+    religion =  catholic
+    size = 28811
+  }
+  farmers = {
+    culture = spanish
+    religion = secularism
+    size = 53508
+  }
 }
 #Seville - Seville (1658000/414500 POPS)
 509 = {
-	officers = {
-		culture = spanish
-		religion =  catholic 
-		size = 886
-	 } 
-	officers = {
-		culture = spanish
-		religion = secularism
-		size = 1646
-	 } 
-	soldiers = {
-		culture = spanish
-		religion =  catholic 
-		size = 16850
-	 } 
-	soldiers = {
-		culture = spanish
-		religion = secularism
-		size = 31294
-	 } 
-	aristocrats = {
-		culture = spanish
-		religion =  catholic 
-		size = 3626
-	 } 
-	aristocrats = {
-		culture = spanish
-		religion = secularism
-		size = 6735
-	 } 
-	bureaucrats = {
-		culture = spanish
-		religion =  catholic 
-		size = 870
-	 } 
-	bureaucrats = {
-		culture = spanish
-		religion = secularism
-		size = 1616
-	 } 
-	capitalists = {
-		culture = spanish
-		religion =  catholic 
-		size = 870
-	 } 
-	capitalists = {
-		culture = spanish
-		religion = secularism
-		size = 1616
-	 } 
-	clergymen = {
-		culture = spanish
-		religion =  catholic 
-		size = 2901
-	 } 
-	clergymen = {
-		culture = spanish
-		religion = secularism
-		size = 5388
-	 } 
-	clerks = {
-		culture = spanish
-		religion =  catholic 
-		size = 3717
-	 } 
-	clerks = {
-		culture = spanish
-		religion = secularism
-		size = 6903
-	 } 
-	artisans = {
-		culture = spanish
-		religion =  catholic 
-		size = 3531
-	 } 
-	artisans = {
-		culture = spanish
-		religion = secularism
-		size = 6558
-	 } 
-	craftsmen = {
-		culture = spanish
-		religion =  catholic 
-		size = 11152
-	 } 
-	craftsmen = {
-		culture = spanish
-		religion = secularism
-		size = 20712
-	 } 
-	farmers = {
-		culture = spanish
-		religion =  catholic 
-		size = 57144
-	 } 
-	farmers = {
-		culture = spanish
-		religion = secularism
-		size = 106125
-	 } 
-	farmers = {
-		culture = andean_spanish
-		religion =  catholic 
-		size = 14507
-	 } 
-	farmers = {
-		culture = andean_spanish
-		religion = secularism
-		size = 26942
-	 } 
-	farmers = {
-		culture = andean_spanish
-		religion =  catholic 
-		size = 14507
-	 } 
-	farmers = {
-		culture = andean_spanish
-		religion = secularism
-		size = 26942
-	 } 
-	farmers = {
-		culture = sunni_arab
-		religion =  sunni 
-		size = 41450
-	 } 
+  officers = {
+    culture = spanish
+    religion =  catholic
+    size = 886
+  }
+  officers = {
+    culture = spanish
+    religion = secularism
+    size = 1646
+  }
+  soldiers = {
+    culture = spanish
+    religion =  catholic
+    size = 16850
+  }
+  soldiers = {
+    culture = spanish
+    religion = secularism
+    size = 31294
+  }
+  aristocrats = {
+    culture = spanish
+    religion =  catholic
+    size = 3626
+  }
+  aristocrats = {
+    culture = spanish
+    religion = secularism
+    size = 6735
+  }
+  bureaucrats = {
+    culture = spanish
+    religion =  catholic
+    size = 870
+  }
+  bureaucrats = {
+    culture = spanish
+    religion = secularism
+    size = 1616
+  }
+  capitalists = {
+    culture = spanish
+    religion =  catholic
+    size = 870
+  }
+  capitalists = {
+    culture = spanish
+    religion = secularism
+    size = 1616
+  }
+  clergymen = {
+    culture = spanish
+    religion =  catholic
+    size = 2901
+  }
+  clergymen = {
+    culture = spanish
+    religion = secularism
+    size = 5388
+  }
+  clerks = {
+    culture = spanish
+    religion =  catholic
+    size = 3717
+  }
+  clerks = {
+    culture = spanish
+    religion = secularism
+    size = 6903
+  }
+  artisans = {
+    culture = spanish
+    religion =  catholic
+    size = 3531
+  }
+  artisans = {
+    culture = spanish
+    religion = secularism
+    size = 6558
+  }
+  craftsmen = {
+    culture = spanish
+    religion =  catholic
+    size = 11152
+  }
+  craftsmen = {
+    culture = spanish
+    religion = secularism
+    size = 20712
+  }
+  farmers = {
+    culture = spanish
+    religion =  catholic
+    size = 57144
+  }
+  farmers = {
+    culture = spanish
+    religion = secularism
+    size = 106125
+  }
+  farmers = {
+    culture = andean_spanish
+    religion =  catholic
+    size = 14507
+  }
+  farmers = {
+    culture = andean_spanish
+    religion = secularism
+    size = 26942
+  }
+  farmers = {
+    culture = andean_spanish
+    religion =  catholic
+    size = 14507
+  }
+  farmers = {
+    culture = andean_spanish
+    religion = secularism
+    size = 26942
+  }
+  farmers = {
+    culture = sunni_arab
+    religion =  sunni
+    size = 41450
+  }
 }
 #Cordoba - Cordoba (673000/168250 POPS)
 510 = {
-	clergymen = {
-		culture = spanish
-		religion =  catholic 
-		size = 1177
-	 } 
-	clergymen = {
-		culture = spanish
-		religion = secularism
-		size = 2187
-	 } 
-	farmers = {
-		culture = spanish
-		religion =  catholic 
-		size = 57709
-	 } 
-	farmers = {
-		culture = spanish
-		religion = secularism
-		size = 107175
-	 } 
+  clergymen = {
+    culture = spanish
+    religion =  catholic
+    size = 1177
+  }
+  clergymen = {
+    culture = spanish
+    religion = secularism
+    size = 2187
+  }
+  farmers = {
+    culture = spanish
+    religion =  catholic
+    size = 57709
+  }
+  farmers = {
+    culture = spanish
+    religion = secularism
+    size = 107175
+  }
 }
 #Huelva - Huelva (435000/108750 POPS)
 511 = {
-	clergymen = {
-		culture = spanish
-		religion =  catholic 
-		size = 761
-	 } 
-	clergymen = {
-		culture = spanish
-		religion = secularism
-		size = 1413
-	 } 
-	farmers = {
-		culture = spanish
-		religion =  catholic 
-		size = 37301
-	 } 
-	farmers = {
-		culture = spanish
-		religion = secularism
-		size = 69273
-	 } 
+  clergymen = {
+    culture = spanish
+    religion =  catholic
+    size = 761
+  }
+  clergymen = {
+    culture = spanish
+    religion = secularism
+    size = 1413
+  }
+  farmers = {
+    culture = spanish
+    religion =  catholic
+    size = 37301
+  }
+  farmers = {
+    culture = spanish
+    religion = secularism
+    size = 69273
+  }
 }
 #Cadiz - Cadiz (1039000/259750 POPS)
 512 = {
-	clergymen = {
-		culture = spanish
-		religion =  catholic 
-		size = 1818
-	 } 
-	clergymen = {
-		culture = spanish
-		religion = secularism
-		size = 3376
-	 } 
-	farmers = {
-		culture = spanish
-		religion =  catholic 
-		size = 89094
-	 } 
-	farmers = {
-		culture = spanish
-		religion = secularism
-		size = 165460
-	 } 
+  clergymen = {
+    culture = spanish
+    religion =  catholic
+    size = 1818
+  }
+  clergymen = {
+    culture = spanish
+    religion = secularism
+    size = 3376
+  }
+  farmers = {
+    culture = spanish
+    religion =  catholic
+    size = 89094
+  }
+  farmers = {
+    culture = spanish
+    religion = secularism
+    size = 165460
+  }
 }
 #Granada - Granada (773000/193250 POPS)
 513 = {
-	clergymen = {
-		culture = spanish
-		religion =  catholic 
-		size = 1352
-	 } 
-	clergymen = {
-		culture = spanish
-		religion = secularism
-		size = 2512
-	 } 
-	farmers = {
-		culture = spanish
-		religion =  catholic 
-		size = 66284
-	 } 
-	farmers = {
-		culture = spanish
-		religion = secularism
-		size = 123100
-	 } 
+  clergymen = {
+    culture = spanish
+    religion =  catholic
+    size = 1352
+  }
+  clergymen = {
+    culture = spanish
+    religion = secularism
+    size = 2512
+  }
+  farmers = {
+    culture = spanish
+    religion =  catholic
+    size = 66284
+  }
+  farmers = {
+    culture = spanish
+    religion = secularism
+    size = 123100
+  }
 }
 #Malaga - Malaga (1359000/339750 POPS)
 514 = {
-	clergymen = {
-		culture = spanish
-		religion =  catholic 
-		size = 2378
-	 } 
-	clergymen = {
-		culture = spanish
-		religion = secularism
-		size = 4416
-	 } 
-	farmers = {
-		culture = spanish
-		religion =  catholic 
-		size = 116534
-	 } 
-	farmers = {
-		culture = spanish
-		religion = secularism
-		size = 216420
-	 } 
+  clergymen = {
+    culture = spanish
+    religion =  catholic
+    size = 2378
+  }
+  clergymen = {
+    culture = spanish
+    religion = secularism
+    size = 4416
+  }
+  farmers = {
+    culture = spanish
+    religion =  catholic
+    size = 116534
+  }
+  farmers = {
+    culture = spanish
+    religion = secularism
+    size = 216420
+  }
 }
 #Almeria - Almeria (587000/146750 POPS)
 515 = {
-	clergymen = {
-		culture = spanish
-		religion =  catholic 
-		size = 1027
-	 } 
-	clergymen = {
-		culture = spanish
-		religion = secularism
-		size = 1907
-	 } 
-	farmers = {
-		culture = spanish
-		religion =  catholic 
-		size = 50335
-	 } 
-	farmers = {
-		culture = spanish
-		religion = secularism
-		size = 93479
-	 } 
+  clergymen = {
+    culture = spanish
+    religion =  catholic
+    size = 1027
+  }
+  clergymen = {
+    culture = spanish
+    religion = secularism
+    size = 1907
+  }
+  farmers = {
+    culture = spanish
+    religion =  catholic
+    size = 50335
+  }
+  farmers = {
+    culture = spanish
+    religion = secularism
+    size = 93479
+  }
 }
 #Jaen - Jaen (560000/140000 POPS)
 516 = {
-	clergymen = {
-		culture = spanish
-		religion =  catholic 
-		size = 979
-	 } 
-	clergymen = {
-		culture = spanish
-		religion = secularism
-		size = 1820
-	 } 
-	farmers = {
-		culture = spanish
-		religion =  catholic 
-		size = 48020
-	 } 
-	farmers = {
-		culture = spanish
-		religion = secularism
-		size = 89180
-	 } 
+  clergymen = {
+    culture = spanish
+    religion =  catholic
+    size = 979
+  }
+  clergymen = {
+    culture = spanish
+    religion = secularism
+    size = 1820
+  }
+  farmers = {
+    culture = spanish
+    religion =  catholic
+    size = 48020
+  }
+  farmers = {
+    culture = spanish
+    religion = secularism
+    size = 89180
+  }
 }

@@ -6,8 +6,8 @@ life_rating = 38
 terrain = urban_asuncion
 colonial = 0
 1992.1.1 = {
-owner = PRG
-controller = PRG
-add_core = PRG
-colonial = 0
+  owner = PRG
+  controller = PRG
+  add_core = PRG
+  colonial = 0
 }

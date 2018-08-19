@@ -1,586 +1,586 @@
 #Oulu - Oulu (376000/94000 POPS)
 336 = {
-	clergymen = {
-		culture = finnish
-		religion =  protestant 
-		size = 1165
-	 } 
-	clergymen = {
-		culture = finnish
-		religion = secularism
-		size = 2594
-	 } 
-	farmers = {
-		culture = finnish
-		religion =  protestant 
-		size = 27974
-	 } 
-	farmers = {
-		culture = finnish
-		religion = secularism
-		size = 62265
-	 } 
+  clergymen = {
+    culture = finnish
+    religion =  protestant
+    size = 1165
+  }
+  clergymen = {
+    culture = finnish
+    religion = secularism
+    size = 2594
+  }
+  farmers = {
+    culture = finnish
+    religion =  protestant
+    size = 27974
+  }
+  farmers = {
+    culture = finnish
+    religion = secularism
+    size = 62265
+  }
 }
 #Kajaani - Kajaani (74000/18500 POPS)
 337 = {
-	clergymen = {
-		culture = finnish
-		religion =  protestant 
-		size = 229
-	 } 
-	clergymen = {
-		culture = finnish
-		religion = secularism
-		size = 510
-	 } 
-	farmers = {
-		culture = finnish
-		religion =  protestant 
-		size = 5505
-	 } 
-	farmers = {
-		culture = finnish
-		religion = secularism
-		size = 12254
-	 } 
+  clergymen = {
+    culture = finnish
+    religion =  protestant
+    size = 229
+  }
+  clergymen = {
+    culture = finnish
+    religion = secularism
+    size = 510
+  }
+  farmers = {
+    culture = finnish
+    religion =  protestant
+    size = 5505
+  }
+  farmers = {
+    culture = finnish
+    religion = secularism
+    size = 12254
+  }
 }
 #Tornio - Tornio (169000/42250 POPS)
 338 = {
-	clergymen = {
-		culture = finnish
-		religion =  protestant 
-		size = 523
-	 } 
-	clergymen = {
-		culture = finnish
-		religion = secularism
-		size = 1166
-	 } 
-	farmers = {
-		culture = finnish
-		religion =  protestant 
-		size = 12180
-	 } 
-	farmers = {
-		culture = finnish
-		religion = secularism
-		size = 27111
-	 } 
-	farmers = {
-		culture = sami
-		religion =  protestant 
-		size = 392
-	 } 
-	farmers = {
-		culture = sami
-		religion = secularism
-		size = 874
-	 } 
+  clergymen = {
+    culture = finnish
+    religion =  protestant
+    size = 523
+  }
+  clergymen = {
+    culture = finnish
+    religion = secularism
+    size = 1166
+  }
+  farmers = {
+    culture = finnish
+    religion =  protestant
+    size = 12180
+  }
+  farmers = {
+    culture = finnish
+    religion = secularism
+    size = 27111
+  }
+  farmers = {
+    culture = sami
+    religion =  protestant
+    size = 392
+  }
+  farmers = {
+    culture = sami
+    religion = secularism
+    size = 874
+  }
 }
 #Kotka - Kotka (196000/49000 POPS)
 340 = {
-	clergymen = {
-		culture = finnish
-		religion =  protestant 
-		size = 607
-	 } 
-	clergymen = {
-		culture = finnish
-		religion = secularism
-		size = 1352
-	 } 
-	farmers = {
-		culture = finnish
-		religion =  protestant 
-		size = 14582
-	 } 
-	farmers = {
-		culture = finnish
-		religion = secularism
-		size = 32457
-	 } 
+  clergymen = {
+    culture = finnish
+    religion =  protestant
+    size = 607
+  }
+  clergymen = {
+    culture = finnish
+    religion = secularism
+    size = 1352
+  }
+  farmers = {
+    culture = finnish
+    religion =  protestant
+    size = 14582
+  }
+  farmers = {
+    culture = finnish
+    religion = secularism
+    size = 32457
+  }
 }
 #Mikkeli - Mikkeli (141000/35250 POPS)
 341 = {
-	clergymen = {
-		culture = finnish
-		religion =  protestant 
-		size = 437
-	 } 
-	clergymen = {
-		culture = finnish
-		religion = secularism
-		size = 972
-	 } 
-	farmers = {
-		culture = finnish
-		religion =  protestant 
-		size = 10490
-	 } 
-	farmers = {
-		culture = finnish
-		religion = secularism
-		size = 23349
-	 } 
+  clergymen = {
+    culture = finnish
+    religion =  protestant
+    size = 437
+  }
+  clergymen = {
+    culture = finnish
+    religion = secularism
+    size = 972
+  }
+  farmers = {
+    culture = finnish
+    religion =  protestant
+    size = 10490
+  }
+  farmers = {
+    culture = finnish
+    religion = secularism
+    size = 23349
+  }
 }
 #Kuopio - Kuopio (386000/96500 POPS)
 342 = {
-	clergymen = {
-		culture = finnish
-		religion =  protestant 
-		size = 1196
-	 } 
-	clergymen = {
-		culture = finnish
-		religion = secularism
-		size = 2663
-	 } 
-	farmers = {
-		culture = finnish
-		religion =  protestant 
-		size = 28718
-	 } 
-	farmers = {
-		culture = finnish
-		religion = secularism
-		size = 63921
-	 } 
+  clergymen = {
+    culture = finnish
+    religion =  protestant
+    size = 1196
+  }
+  clergymen = {
+    culture = finnish
+    religion = secularism
+    size = 2663
+  }
+  farmers = {
+    culture = finnish
+    religion =  protestant
+    size = 28718
+  }
+  farmers = {
+    culture = finnish
+    religion = secularism
+    size = 63921
+  }
 }
 #Helsinki - Helsinki (1479000/369750 POPS)
 343 = {
-	officers = {
-		culture = finnish
-		religion =  protestant 
-		size = 3488
-	 } 
-	officers = {
-		culture = finnish
-		religion = secularism
-		size = 7763
-	 } 
-	soldiers = {
-		culture = finnish
-		religion =  protestant 
-		size = 66274
-	 } 
-	soldiers = {
-		culture = finnish
-		religion = secularism
-		size = 147514
-	 } 
-	aristocrats = {
-		culture = finnish
-		religion =  protestant 
-		size = 2292
-	 } 
-	aristocrats = {
-		culture = finnish
-		religion = secularism
-		size = 5102
-	 } 
-	bureaucrats = {
-		culture = finnish
-		religion =  protestant 
-		size = 687
-	 } 
-	bureaucrats = {
-		culture = finnish
-		religion = secularism
-		size = 1530
-	 } 
-	capitalists = {
-		culture = finnish
-		religion =  protestant 
-		size = 687
-	 } 
-	capitalists = {
-		culture = finnish
-		religion = secularism
-		size = 1530
-	 } 
-	clergymen = {
-		culture = finnish
-		religion =  protestant 
-		size = 4584
-	 } 
-	clergymen = {
-		culture = finnish
-		religion = secularism
-		size = 10205
-	 } 
-	clerks = {
-		culture = finnish
-		religion =  protestant 
-		size = 1393
-	 } 
-	clerks = {
-		culture = finnish
-		religion = secularism
-		size = 3102
-	 } 
-	artisans = {
-		culture = finnish
-		religion =  protestant 
-		size = 1184
-	 } 
-	artisans = {
-		culture = finnish
-		religion = secularism
-		size = 2636
-	 } 
-	craftsmen = {
-		culture = finnish
-		religion =  protestant 
-		size = 4250
-	 } 
-	craftsmen = {
-		culture = finnish
-		religion = secularism
-		size = 9461
-	 } 
-	farmers = {
-		culture = finnish
-		religion =  protestant 
-		size = 21754
-	 } 
-	farmers = {
-		culture = finnish
-		religion = secularism
-		size = 48421
-	 } 
-	farmers = {
-		culture = swedish
-		religion =  protestant 
-		size = 4584
-	 } 
-	farmers = {
-		culture = swedish
-		religion = secularism
-		size = 10205
-	 } 
-	farmers = {
-		culture = russian
-		religion =  orthodox 
-		size = 2292
-	 } 
-	farmers = {
-		culture = russian
-		religion = secularism
-		size = 5102
-	 } 
-	farmers = {
-		culture = estonian
-		religion =  protestant 
-		size = 802
-	 } 
-	farmers = {
-		culture = estonian
-		religion = secularism
-		size = 1785
-	 } 
-	farmers = {
-		culture = roma
-		religion =  orthodox 
-		size = 343
-	 } 
-	farmers = {
-		culture = roma
-		religion = secularism
-		size = 765
-	 } 
+  officers = {
+    culture = finnish
+    religion =  protestant
+    size = 3488
+  }
+  officers = {
+    culture = finnish
+    religion = secularism
+    size = 7763
+  }
+  soldiers = {
+    culture = finnish
+    religion =  protestant
+    size = 66274
+  }
+  soldiers = {
+    culture = finnish
+    religion = secularism
+    size = 147514
+  }
+  aristocrats = {
+    culture = finnish
+    religion =  protestant
+    size = 2292
+  }
+  aristocrats = {
+    culture = finnish
+    religion = secularism
+    size = 5102
+  }
+  bureaucrats = {
+    culture = finnish
+    religion =  protestant
+    size = 687
+  }
+  bureaucrats = {
+    culture = finnish
+    religion = secularism
+    size = 1530
+  }
+  capitalists = {
+    culture = finnish
+    religion =  protestant
+    size = 687
+  }
+  capitalists = {
+    culture = finnish
+    religion = secularism
+    size = 1530
+  }
+  clergymen = {
+    culture = finnish
+    religion =  protestant
+    size = 4584
+  }
+  clergymen = {
+    culture = finnish
+    religion = secularism
+    size = 10205
+  }
+  clerks = {
+    culture = finnish
+    religion =  protestant
+    size = 1393
+  }
+  clerks = {
+    culture = finnish
+    religion = secularism
+    size = 3102
+  }
+  artisans = {
+    culture = finnish
+    religion =  protestant
+    size = 1184
+  }
+  artisans = {
+    culture = finnish
+    religion = secularism
+    size = 2636
+  }
+  craftsmen = {
+    culture = finnish
+    religion =  protestant
+    size = 4250
+  }
+  craftsmen = {
+    culture = finnish
+    religion = secularism
+    size = 9461
+  }
+  farmers = {
+    culture = finnish
+    religion =  protestant
+    size = 21754
+  }
+  farmers = {
+    culture = finnish
+    religion = secularism
+    size = 48421
+  }
+  farmers = {
+    culture = swedish
+    religion =  protestant
+    size = 4584
+  }
+  farmers = {
+    culture = swedish
+    religion = secularism
+    size = 10205
+  }
+  farmers = {
+    culture = russian
+    religion =  orthodox
+    size = 2292
+  }
+  farmers = {
+    culture = russian
+    religion = secularism
+    size = 5102
+  }
+  farmers = {
+    culture = estonian
+    religion =  protestant
+    size = 802
+  }
+  farmers = {
+    culture = estonian
+    religion = secularism
+    size = 1785
+  }
+  farmers = {
+    culture = roma
+    religion =  orthodox
+    size = 343
+  }
+  farmers = {
+    culture = roma
+    religion = secularism
+    size = 765
+  }
 }
 #Hameenlinna - Hameenlinna (351000/87750 POPS)
 344 = {
-	clergymen = {
-		culture = finnish
-		religion =  protestant 
-		size = 1088
-	 } 
-	clergymen = {
-		culture = finnish
-		religion = secularism
-		size = 2421
-	 } 
-	farmers = {
-		culture = finnish
-		religion =  protestant 
-		size = 26114
-	 } 
-	farmers = {
-		culture = finnish
-		religion = secularism
-		size = 58125
-	 } 
+  clergymen = {
+    culture = finnish
+    religion =  protestant
+    size = 1088
+  }
+  clergymen = {
+    culture = finnish
+    religion = secularism
+    size = 2421
+  }
+  farmers = {
+    culture = finnish
+    religion =  protestant
+    size = 26114
+  }
+  farmers = {
+    culture = finnish
+    religion = secularism
+    size = 58125
+  }
 }
 #Turku - Turku (647000/161750 POPS)
 345 = {
-	clergymen = {
-		culture = finnish
-		religion =  protestant 
-		size = 2005
-	 } 
-	clergymen = {
-		culture = finnish
-		religion = secularism
-		size = 4464
-	 } 
-	farmers = {
-		culture = finnish
-		religion =  protestant 
-		size = 38609
-	 } 
-	farmers = {
-		culture = finnish
-		religion = secularism
-		size = 85937
-	 } 
-	farmers = {
-		culture = swedish
-		religion =  protestant 
-		size = 9526
-	 } 
-	farmers = {
-		culture = swedish
-		religion = secularism
-		size = 21205
-	 } 
+  clergymen = {
+    culture = finnish
+    religion =  protestant
+    size = 2005
+  }
+  clergymen = {
+    culture = finnish
+    religion = secularism
+    size = 4464
+  }
+  farmers = {
+    culture = finnish
+    religion =  protestant
+    size = 38609
+  }
+  farmers = {
+    culture = finnish
+    religion = secularism
+    size = 85937
+  }
+  farmers = {
+    culture = swedish
+    religion =  protestant
+    size = 9526
+  }
+  farmers = {
+    culture = swedish
+    religion = secularism
+    size = 21205
+  }
 }
 #Vaasa - Vaasa (668000/167000 POPS)
 346 = {
-	officers = {
-		culture = finnish
-		religion =  protestant 
-		size = 1260
-	 } 
-	officers = {
-		culture = finnish
-		religion = secularism
-		size = 2804
-	 } 
-	soldiers = {
-		culture = finnish
-		religion =  protestant 
-		size = 23946
-	 } 
-	soldiers = {
-		culture = finnish
-		religion = secularism
-		size = 53300
-	 } 
-	aristocrats = {
-		culture = finnish
-		religion =  protestant 
-		size = 1035
-	 } 
-	aristocrats = {
-		culture = finnish
-		religion = secularism
-		size = 2304
-	 } 
-	bureaucrats = {
-		culture = finnish
-		religion =  protestant 
-		size = 310
-	 } 
-	bureaucrats = {
-		culture = finnish
-		religion = secularism
-		size = 691
-	 } 
-	capitalists = {
-		culture = finnish
-		religion =  protestant 
-		size = 310
-	 } 
-	capitalists = {
-		culture = finnish
-		religion = secularism
-		size = 691
-	 } 
-	clergymen = {
-		culture = finnish
-		religion =  protestant 
-		size = 2070
-	 } 
-	clergymen = {
-		culture = finnish
-		religion = secularism
-		size = 4609
-	 } 
-	clerks = {
-		culture = finnish
-		religion =  protestant 
-		size = 825
-	 } 
-	clerks = {
-		culture = finnish
-		religion = secularism
-		size = 1836
-	 } 
-	artisans = {
-		culture = finnish
-		religion =  protestant 
-		size = 701
-	 } 
-	artisans = {
-		culture = finnish
-		religion = secularism
-		size = 1561
-	 } 
-	craftsmen = {
-		culture = finnish
-		religion =  protestant 
-		size = 2517
-	 } 
-	craftsmen = {
-		culture = finnish
-		religion = secularism
-		size = 5602
-	 } 
-	farmers = {
-		culture = finnish
-		religion =  protestant 
-		size = 14132
-	 } 
-	farmers = {
-		culture = finnish
-		religion = secularism
-		size = 31456
-	 } 
-	farmers = {
-		culture = swedish
-		religion =  protestant 
-		size = 4659
-	 } 
-	farmers = {
-		culture = swedish
-		religion = secularism
-		size = 10370
-	 } 
+  officers = {
+    culture = finnish
+    religion =  protestant
+    size = 1260
+  }
+  officers = {
+    culture = finnish
+    religion = secularism
+    size = 2804
+  }
+  soldiers = {
+    culture = finnish
+    religion =  protestant
+    size = 23946
+  }
+  soldiers = {
+    culture = finnish
+    religion = secularism
+    size = 53300
+  }
+  aristocrats = {
+    culture = finnish
+    religion =  protestant
+    size = 1035
+  }
+  aristocrats = {
+    culture = finnish
+    religion = secularism
+    size = 2304
+  }
+  bureaucrats = {
+    culture = finnish
+    religion =  protestant
+    size = 310
+  }
+  bureaucrats = {
+    culture = finnish
+    religion = secularism
+    size = 691
+  }
+  capitalists = {
+    culture = finnish
+    religion =  protestant
+    size = 310
+  }
+  capitalists = {
+    culture = finnish
+    religion = secularism
+    size = 691
+  }
+  clergymen = {
+    culture = finnish
+    religion =  protestant
+    size = 2070
+  }
+  clergymen = {
+    culture = finnish
+    religion = secularism
+    size = 4609
+  }
+  clerks = {
+    culture = finnish
+    religion =  protestant
+    size = 825
+  }
+  clerks = {
+    culture = finnish
+    religion = secularism
+    size = 1836
+  }
+  artisans = {
+    culture = finnish
+    religion =  protestant
+    size = 701
+  }
+  artisans = {
+    culture = finnish
+    religion = secularism
+    size = 1561
+  }
+  craftsmen = {
+    culture = finnish
+    religion =  protestant
+    size = 2517
+  }
+  craftsmen = {
+    culture = finnish
+    religion = secularism
+    size = 5602
+  }
+  farmers = {
+    culture = finnish
+    religion =  protestant
+    size = 14132
+  }
+  farmers = {
+    culture = finnish
+    religion = secularism
+    size = 31456
+  }
+  farmers = {
+    culture = swedish
+    religion =  protestant
+    size = 4659
+  }
+  farmers = {
+    culture = swedish
+    religion = secularism
+    size = 10370
+  }
 }
 #Tampere - Tampere (466000/116500 POPS)
 347 = {
-	clergymen = {
-		culture = finnish
-		religion =  protestant 
-		size = 1444
-	 } 
-	clergymen = {
-		culture = finnish
-		religion = secularism
-		size = 3215
-	 } 
-	farmers = {
-		culture = finnish
-		religion =  protestant 
-		size = 34670
-	 } 
-	farmers = {
-		culture = finnish
-		religion = secularism
-		size = 77169
-	 } 
+  clergymen = {
+    culture = finnish
+    religion =  protestant
+    size = 1444
+  }
+  clergymen = {
+    culture = finnish
+    religion = secularism
+    size = 3215
+  }
+  farmers = {
+    culture = finnish
+    religion =  protestant
+    size = 34670
+  }
+  farmers = {
+    culture = finnish
+    religion = secularism
+    size = 77169
+  }
 }
 #Aland Islands - Aland Islands (27000/6750 POPS)
 348 = {
-	officers = {
-		culture = swedish
-		religion =  protestant 
-		size = 25
-	 } 
-	officers = {
-		culture = swedish
-		religion = secularism
-		size = 56
-	 } 
-	soldiers = {
-		culture = swedish
-		religion =  protestant 
-		size = 483
-	 } 
-	soldiers = {
-		culture = swedish
-		religion = secularism
-		size = 1077
-	 } 
-	aristocrats = {
-		culture = swedish
-		religion =  protestant 
-		size = 41
-	 } 
-	aristocrats = {
-		culture = swedish
-		religion = secularism
-		size = 93
-	 } 
-	bureaucrats = {
-		culture = swedish
-		religion =  protestant 
-		size = 12
-	 } 
-	bureaucrats = {
-		culture = swedish
-		religion = secularism
-		size = 27
-	 } 
-	capitalists = {
-		culture = swedish
-		religion =  protestant 
-		size = 12
-	 } 
-	capitalists = {
-		culture = swedish
-		religion = secularism
-		size = 27
-	 } 
-	clergymen = {
-		culture = swedish
-		religion =  protestant 
-		size = 83
-	 } 
-	clergymen = {
-		culture = swedish
-		religion = secularism
-		size = 186
-	 } 
-	clerks = {
-		culture = swedish
-		religion =  protestant 
-		size = 48
-	 } 
-	clerks = {
-		culture = swedish
-		religion = secularism
-		size = 109
-	 } 
-	artisans = {
-		culture = swedish
-		religion =  protestant 
-		size = 41
-	 } 
-	artisans = {
-		culture = swedish
-		religion = secularism
-		size = 92
-	 } 
-	craftsmen = {
-		culture = swedish
-		religion =  protestant 
-		size = 149
-	 } 
-	craftsmen = {
-		culture = swedish
-		religion = secularism
-		size = 333
-	 } 
-	farmers = {
-		culture = swedish
-		religion =  protestant 
-		size = 1192
-	 } 
-	farmers = {
-		culture = swedish
-		religion = secularism
-		size = 2654
-	 } 
+  officers = {
+    culture = swedish
+    religion =  protestant
+    size = 25
+  }
+  officers = {
+    culture = swedish
+    religion = secularism
+    size = 56
+  }
+  soldiers = {
+    culture = swedish
+    religion =  protestant
+    size = 483
+  }
+  soldiers = {
+    culture = swedish
+    religion = secularism
+    size = 1077
+  }
+  aristocrats = {
+    culture = swedish
+    religion =  protestant
+    size = 41
+  }
+  aristocrats = {
+    culture = swedish
+    religion = secularism
+    size = 93
+  }
+  bureaucrats = {
+    culture = swedish
+    religion =  protestant
+    size = 12
+  }
+  bureaucrats = {
+    culture = swedish
+    religion = secularism
+    size = 27
+  }
+  capitalists = {
+    culture = swedish
+    religion =  protestant
+    size = 12
+  }
+  capitalists = {
+    culture = swedish
+    religion = secularism
+    size = 27
+  }
+  clergymen = {
+    culture = swedish
+    religion =  protestant
+    size = 83
+  }
+  clergymen = {
+    culture = swedish
+    religion = secularism
+    size = 186
+  }
+  clerks = {
+    culture = swedish
+    religion =  protestant
+    size = 48
+  }
+  clerks = {
+    culture = swedish
+    religion = secularism
+    size = 109
+  }
+  artisans = {
+    culture = swedish
+    religion =  protestant
+    size = 41
+  }
+  artisans = {
+    culture = swedish
+    religion = secularism
+    size = 92
+  }
+  craftsmen = {
+    culture = swedish
+    religion =  protestant
+    size = 149
+  }
+  craftsmen = {
+    culture = swedish
+    religion = secularism
+    size = 333
+  }
+  farmers = {
+    culture = swedish
+    religion =  protestant
+    size = 1192
+  }
+  farmers = {
+    culture = swedish
+    religion = secularism
+    size = 2654
+  }
 }

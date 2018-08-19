@@ -1,109 +1,109 @@
 #Bishkek - Bishkek (2358000/589500 POPS)
 1189 = {
-	soldiers = {
-		culture = kirgiz
-		religion =  sunni 
-		size = 11426
-	 } 
-	aristocrats = {
-		culture = kirgiz
-		religion =  sunni 
-		size = 23580
-	 } 
-	bureaucrats = {
-		culture = kirgiz
-		religion =  sunni 
-		size = 1179
-	 } 
-	capitalists = {
-		culture = kirgiz
-		religion =  sunni 
-		size = 2947
-	 } 
-	clergymen = {
-		culture = kirgiz
-		religion =  sunni 
-		size = 11790
-	 } 
-	clerks = {
-		culture = kirgiz
-		religion =  sunni 
-		size = 7607
-	 } 
-	artisans = {
-		culture = kirgiz
-		religion =  sunni 
-		size = 7227
-	 } 
-	craftsmen = {
-		culture = kirgiz
-		religion =  sunni 
-		size = 22822
-	 } 
-	farmers = {
-		culture = kirgiz
-		religion =  sunni 
-		size = 329366
-	 } 
-	farmers = {
-		culture = russian
-		religion =  orthodox 
-		size = 94320
-	 } 
-	farmers = {
-		culture = russian
-		religion = secularism
-		size = 53055
-	 } 
-	farmers = {
-		culture = hui
-		religion =  sunni 
-		size = 11790
-	 } 
-	farmers = {
-		culture = ukrainian
-		religion =  orthodox 
-		size = 7545
-	 } 
-	farmers = {
-		culture = ukrainian
-		religion = secularism
-		size = 4244
-	 } 
+  soldiers = {
+    culture = kirgiz
+    religion =  sunni
+    size = 11426
+  }
+  aristocrats = {
+    culture = kirgiz
+    religion =  sunni
+    size = 23580
+  }
+  bureaucrats = {
+    culture = kirgiz
+    religion =  sunni
+    size = 1179
+  }
+  capitalists = {
+    culture = kirgiz
+    religion =  sunni
+    size = 2947
+  }
+  clergymen = {
+    culture = kirgiz
+    religion =  sunni
+    size = 11790
+  }
+  clerks = {
+    culture = kirgiz
+    religion =  sunni
+    size = 7607
+  }
+  artisans = {
+    culture = kirgiz
+    religion =  sunni
+    size = 7227
+  }
+  craftsmen = {
+    culture = kirgiz
+    religion =  sunni
+    size = 22822
+  }
+  farmers = {
+    culture = kirgiz
+    religion =  sunni
+    size = 329366
+  }
+  farmers = {
+    culture = russian
+    religion =  orthodox
+    size = 94320
+  }
+  farmers = {
+    culture = russian
+    religion = secularism
+    size = 53055
+  }
+  farmers = {
+    culture = hui
+    religion =  sunni
+    size = 11790
+  }
+  farmers = {
+    culture = ukrainian
+    religion =  orthodox
+    size = 7545
+  }
+  farmers = {
+    culture = ukrainian
+    religion = secularism
+    size = 4244
+  }
 }
 #Naryn - Naryn (562000/140500 POPS)
 1190 = {
-	clergymen = {
-		culture = kirgiz
-		religion =  sunni 
-		size = 2810
-	 } 
-	farmers = {
-		culture = kirgiz
-		religion =  sunni 
-		size = 126450
-	 } 
-	farmers = {
-		culture = uighur
-		religion =  sunni 
-		size = 11240
-	 } 
+  clergymen = {
+    culture = kirgiz
+    religion =  sunni
+    size = 2810
+  }
+  farmers = {
+    culture = kirgiz
+    religion =  sunni
+    size = 126450
+  }
+  farmers = {
+    culture = uighur
+    religion =  sunni
+    size = 11240
+  }
 }
 #Osh - Osh (1461000/365250 POPS)
 1203 = {
-	clergymen = {
-		culture = kirgiz
-		religion =  sunni 
-		size = 7305
-	 } 
-	farmers = {
-		culture = kirgiz
-		religion =  sunni 
-		size = 208192
-	 } 
-	farmers = {
-		culture = uzbek
-		religion =  sunni 
-		size = 149752
-	 } 
+  clergymen = {
+    culture = kirgiz
+    religion =  sunni
+    size = 7305
+  }
+  farmers = {
+    culture = kirgiz
+    religion =  sunni
+    size = 208192
+  }
+  farmers = {
+    culture = uzbek
+    religion =  sunni
+    size = 149752
+  }
 }

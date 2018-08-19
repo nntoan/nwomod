@@ -1,99 +1,99 @@
 #Sisak - Sisak (199000/49750 POPS)
 772 = {
-	clergymen = {
-		culture = serb
-		religion =  orthodox 
-		size = 706
-	 } 
-	clergymen = {
-		culture = serb
-		religion = secularism
-		size = 288
-	 } 
-	farmers = {
-		culture = serb
-		religion =  orthodox 
-		size = 26491
-	 } 
-	farmers = {
-		culture = serb
-		religion = secularism
-		size = 10820
-	 } 
-	farmers = {
-		culture = croat
-		religion =  catholic 
-		size = 8123
-	 } 
-	farmers = {
-		culture = croat
-		religion = secularism
-		size = 3318
-	 } 
+  clergymen = {
+    culture = serb
+    religion =  orthodox
+    size = 706
+  }
+  clergymen = {
+    culture = serb
+    religion = secularism
+    size = 288
+  }
+  farmers = {
+    culture = serb
+    religion =  orthodox
+    size = 26491
+  }
+  farmers = {
+    culture = serb
+    religion = secularism
+    size = 10820
+  }
+  farmers = {
+    culture = croat
+    religion =  catholic
+    size = 8123
+  }
+  farmers = {
+    culture = croat
+    religion = secularism
+    size = 3318
+  }
 }
 #Senj - Gospic (59000/14750 POPS)
 774 = {
-	clergymen = {
-		culture = serb
-		religion =  orthodox 
-		size = 209
-	 } 
-	clergymen = {
-		culture = serb
-		religion = secularism
-		size = 85
-	 } 
-	farmers = {
-		culture = serb
-		religion =  orthodox 
-		size = 8168
-	 } 
-	farmers = {
-		culture = serb
-		religion = secularism
-		size = 3336
-	 } 
-	farmers = {
-		culture = croat
-		religion =  catholic 
-		size = 2094
-	 } 
-	farmers = {
-		culture = croat
-		religion = secularism
-		size = 855
-	 } 
+  clergymen = {
+    culture = serb
+    religion =  orthodox
+    size = 209
+  }
+  clergymen = {
+    culture = serb
+    religion = secularism
+    size = 85
+  }
+  farmers = {
+    culture = serb
+    religion =  orthodox
+    size = 8168
+  }
+  farmers = {
+    culture = serb
+    religion = secularism
+    size = 3336
+  }
+  farmers = {
+    culture = croat
+    religion =  catholic
+    size = 2094
+  }
+  farmers = {
+    culture = croat
+    religion = secularism
+    size = 855
+  }
 }
 #Vukovar - Vukovar (208000/52000 POPS)
 793 = {
-	clergymen = {
-		culture = serb
-		religion =  orthodox 
-		size = 738
-	 } 
-	clergymen = {
-		culture = serb
-		religion = secularism
-		size = 301
-	 } 
-	farmers = {
-		culture = serb
-		religion =  orthodox 
-		size = 2953
-	 } 
-	farmers = {
-		culture = serb
-		religion = secularism
-		size = 1206
-	 } 
-	farmers = {
-		culture = croat
-		religion =  catholic 
-		size = 33228
-	 } 
-	farmers = {
-		culture = croat
-		religion = secularism
-		size = 13571
-	 } 
+  clergymen = {
+    culture = serb
+    religion =  orthodox
+    size = 738
+  }
+  clergymen = {
+    culture = serb
+    religion = secularism
+    size = 301
+  }
+  farmers = {
+    culture = serb
+    religion =  orthodox
+    size = 2953
+  }
+  farmers = {
+    culture = serb
+    religion = secularism
+    size = 1206
+  }
+  farmers = {
+    culture = croat
+    religion =  catholic
+    size = 33228
+  }
+  farmers = {
+    culture = croat
+    religion = secularism
+    size = 13571
+  }
 }

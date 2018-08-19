@@ -6,10 +6,10 @@ country_event = {
 
   trigger = {
     tag = RUS
-	is_sphere_leader_of = KAZ
-	owns = 986
-	exists = KAZ
-	986 = {  NOT = { is_core = KAZ } }
+    is_sphere_leader_of = KAZ
+    owns = 986
+    exists = KAZ
+    986 = {  NOT = { is_core = KAZ } }
     NOT = { has_country_modifier = lease_baikonur }
   }
 
@@ -17,17 +17,17 @@ country_event = {
 
   option = {
     name = EVT_8008001_OPTA
-	add_country_modifier = { name = lease_baikonur duration = 3600 }
-	treasury = -1200
-	KAZ = { treasury = 1200 }
+    add_country_modifier = { name = lease_baikonur duration = 3600 }
+    treasury = -1200
+    KAZ = { treasury = 1200 }
   }
-  
+
   option = {
     name = EVT_8008001_OPTB
-	KAZ = { country_event = 8008003 }
-	prestige = -10
+    KAZ = { country_event = 8008003 }
+    prestige = -10
   }
-  
+
 }
 
 country_event = {
@@ -37,29 +37,29 @@ country_event = {
   picture = "nwo2_baikonur_cosmodrome"
 
   mean_time_to_happen = { months = 4  }
-  
+
   trigger = {
     tag = RUS
-	exists = KAZ
-	NOT = { is_sphere_leader_of = KAZ }
-	owns = 986
-	986 = {  NOT = { is_core = KAZ } }
+    exists = KAZ
+    NOT = { is_sphere_leader_of = KAZ }
+    owns = 986
+    986 = {  NOT = { is_core = KAZ } }
     NOT = { has_country_modifier = lease_baikonur }
   }
 
   option = {
     name = EVT_8008002_OPTA
-	badboy = 10
-	relation = { who = KAZ value = -200 }
-	KAZ = { country_event = 8008004 }
+    badboy = 10
+    relation = { who = KAZ value = -200 }
+    KAZ = { country_event = 8008004 }
   }
-  
+
   option = {
     name = EVT_8008002_OPTB
-	986 = { secede_province = KAZ }
-	KAZ = { country_event = 8008003 }
+    986 = { secede_province = KAZ }
+    KAZ = { country_event = 8008003 }
   }
-  
+
 }
 
 country_event = {
@@ -71,9 +71,9 @@ country_event = {
 
   option = {
     name = EVT_8008003_OPTA
-	986 = { add_core = KAZ }
+    986 = { add_core = KAZ }
   }
-  
+
 }
 
 country_event = {
@@ -85,7 +85,7 @@ country_event = {
 
   option = {
     name = EVT_8008004_OPTA
-	986 = { add_core = KAZ }
+    986 = { add_core = KAZ }
   }
-  
+
 }

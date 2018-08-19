@@ -6,8 +6,8 @@ life_rating = 24
 terrain = urban_dili
 colonial = 2
 1992.1.1 = {
-owner = IDO
-controller = IDO
-add_core = TIM
-colonial = 2
+  owner = IDO
+  controller = IDO
+  add_core = TIM
+  colonial = 2
 }

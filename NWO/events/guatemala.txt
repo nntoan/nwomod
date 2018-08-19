@@ -14,7 +14,7 @@ country_event = {
 
   option = {
     name = EVT_8006301_A
-	government = democracy country_event = 800054
+    government = democracy country_event = 800054
   }
 }
 country_event = {
@@ -26,17 +26,17 @@ country_event = {
 
   option = {
     name = EVT_8006304_A
-	government = presidential_dictatorship country_event = 800050
-	any_pop = { limit = { strata = poor } militancy = 2.0 consciousness = 1 }
-	relation = { who = USA value = 100 } 
-	ai_chance = { factor = 100 }
+    government = presidential_dictatorship country_event = 800050
+    any_pop = { limit = { strata = poor } militancy = 2.0 consciousness = 1 }
+    relation = { who = USA value = 100 }
+    ai_chance = { factor = 100 }
   }
 
   option = {
     name = EVT_8006304_A
-	any_pop = { consciousness = 2 }
-	relation = { who = USA value = -100 } 
-	ai_chance = { factor = 0 }
+    any_pop = { consciousness = 2 }
+    relation = { who = USA value = -100 }
+    ai_chance = { factor = 0 }
   }
 }
 country_event = {
@@ -50,7 +50,7 @@ country_event = {
     tag = USA
     year = 1957 NOT = { year = 1958}
     exists = GUA
-	GUA = { government = democracy }
+    GUA = { government = democracy }
     war = no
   }
 
@@ -58,13 +58,13 @@ country_event = {
 
   option = {
     name = EVT_8006316_A
-	badboy = 1 
-	GUA = { country_event = 8006304 }
+    badboy = 1
+    GUA = { country_event = 8006304 }
   }
 
   option = {
     name = EVT_8006316_B
-	prestige = -20
+    prestige = -20
   }
 }
 country_event = {
@@ -83,8 +83,8 @@ country_event = {
 
   option = {
     name = EVT_8006317_A
-	any_pop = { militancy = -2.0 consciousness = -1 }
-	any_owned = { limit = { is_capital = no } change_controller = REB }
+    any_pop = { militancy = -2.0 consciousness = -1 }
+    any_owned = { limit = { is_capital = no } change_controller = REB }
   }
 }
 
@@ -98,25 +98,25 @@ country_event = { # Belize Independence
   trigger = {
     tag = GBR
     year = 1981 NOT = { year = 1990 }
-	owns = 2190 # Belize
-	war = no
+    owns = 2190 # Belize
+    war = no
   }
 
   mean_time_to_happen = { months = 2 }
 
   option = {
     name = EVT_8006350_A
-	release = BLZ
-	diplomatic_influence = { who = BLZ value = 200 }
-	create_alliance = BLZ
-	prestige = 10
-	ai_chance = { factor = 100 }
+    release = BLZ
+    diplomatic_influence = { who = BLZ value = 200 }
+    create_alliance = BLZ
+    prestige = 10
+    ai_chance = { factor = 100 }
   }
   option = {
     name = EVT_8006350_B
-	badboy = 2
-	prestige = -10
-	any_pop = { limit = { location = { is_core = BLZ } }  militancy = 2 consciousness = 1 }
-	ai_chance = { factor = 0 }
+    badboy = 2
+    prestige = -10
+    any_pop = { limit = { location = { is_core = BLZ } }  militancy = 2 consciousness = 1 }
+    ai_chance = { factor = 0 }
   }
 }

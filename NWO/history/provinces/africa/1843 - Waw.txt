@@ -7,8 +7,8 @@ life_rating = 37
 terrain = dry_forest
 colonial = 2
 1992.1.1 = {
-owner = SUD
-controller = SUD
-add_core = SSU
-colonial = 2
+  owner = SUD
+  controller = SUD
+  add_core = SSU
+  colonial = 2
 }

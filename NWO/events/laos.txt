@@ -8,15 +8,15 @@ country_event = {
   trigger = {
     tag = LAO
     year = 1954 NOT = { year = 1959 }
-	OR = { government = hms_government government = absolute_monarchy }
+    OR = { government = hms_government government = absolute_monarchy }
   }
 
   mean_time_to_happen = { months = 2 }
 
   option = {
     name = EVT_8008410_A
-	define_general = { name = "HM Sisavang Vong" personality = energetic background = no_background }
-	prestige = 10
+    define_general = { name = "HM Sisavang Vong" personality = energetic background = no_background }
+    prestige = 10
   }
 }
 country_event = {
@@ -29,15 +29,15 @@ country_event = {
   trigger = {
     tag = LAO
     year = 1960 NOT = { year = 1961 }
-	OR = { government = hms_government government = absolute_monarchy }
+    OR = { government = hms_government government = absolute_monarchy }
   }
 
   mean_time_to_happen = { months = 2 }
 
   option = {
     name = EVT_8008411_A
-	government = presidential_dictatorship country_event = 800050
-	define_general = { name = "Kong Le" personality = energetic background = no_background }
+    government = presidential_dictatorship country_event = 800050
+    define_general = { name = "Kong Le" personality = energetic background = no_background }
   }
 }
 country_event = {
@@ -56,8 +56,8 @@ country_event = {
 
   option = {
     name = EVT_8008412_A
-	government = absolute_monarchy country_event = 800050
-	define_general = { name = "H.R.H. Savang Vatana" personality = energetic background = no_background }
+    government = absolute_monarchy country_event = 800050
+    define_general = { name = "H.R.H. Savang Vatana" personality = energetic background = no_background }
   }
 }
 country_event = {
@@ -70,13 +70,13 @@ country_event = {
   trigger = {
     tag = LAO
     year = 1991 NOT = { year = 1990 }
-	government = proletarian_dictatorship
+    government = proletarian_dictatorship
   }
 
   mean_time_to_happen = { months = 2 }
 
   option = {
     name = EVT_8008414_A
-	define_general = { name = "Souphanouvong" personality = energetic background = no_background }
+    define_general = { name = "Souphanouvong" personality = energetic background = no_background }
   }
 }

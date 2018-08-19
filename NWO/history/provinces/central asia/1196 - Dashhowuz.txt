@@ -6,13 +6,13 @@ life_rating = 39
 terrain = semi_desert
 colonial = 2
 1992.1.1 = {
-owner = TKR
-controller = TKR
-add_core = TKR
-colonial = 0
-state_building = {
-	level = 1
-	building = fabric_factory
-	upgrade = yes
-}
+  owner = TKR
+  controller = TKR
+  add_core = TKR
+  colonial = 0
+  state_building = {
+    level = 1
+    building = fabric_factory
+    upgrade = yes
+  }
 }

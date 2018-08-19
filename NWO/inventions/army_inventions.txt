@@ -1,1120 +1,1120 @@
 stratofortress = {
-	limit = {
-		barracks = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-		army_base = {
-			reconnaissance = 0.0500
-		}
-	}
+  limit = {
+    barracks = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+    army_base = {
+      reconnaissance = 0.0500
+    }
+  }
 }
 synthetic_aperture_radar = {
-	limit = {
-		fortress = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-		army_base = {
-			reconnaissance = 0.0500
-		}
-	}
+  limit = {
+    fortress = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+    army_base = {
+      reconnaissance = 0.0500
+    }
+  }
 }
 pulse_doppler_radar = {
-	limit = {
-		fortress = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-		army_base = {
-			reconnaissance = 0.0500
-		}
-	}
+  limit = {
+    fortress = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+    army_base = {
+      reconnaissance = 0.0500
+    }
+  }
 }
 r7semyorka = {
-	limit = {
-		transonic_jet_fighter = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-		army_base = {
-			default_organisation = 0.1000
-			supply_consumption = 0.1000
-		}
-	}
+  limit = {
+    transonic_jet_fighter = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+    army_base = {
+      default_organisation = 0.1000
+      supply_consumption = 0.1000
+    }
+  }
 }
 ballistic_missile_submarines = {
-	limit = {
-		submarine_launched_ballistic_missile = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-		army_base = {
-			default_organisation = 0.1000
-			supply_consumption = 0.1000
-		}
-	}
+  limit = {
+    submarine_launched_ballistic_missile = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+    army_base = {
+      default_organisation = 0.1000
+      supply_consumption = 0.1000
+    }
+  }
 }
 man_in_space = {
-	limit = {
-		icbm = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-		army_base = {
-			default_organisation = 0.1000
-			supply_consumption = 0.1000
-		}
-	}
+  limit = {
+    icbm = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+    army_base = {
+      default_organisation = 0.1000
+      supply_consumption = 0.1000
+    }
+  }
 }
 space_rendezvous = {
-	limit = {
-		submarine_launched_ballistic_missile = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-		army_base = {
-			default_organisation = 0.1000
-			supply_consumption = 0.1000
-		}
-	}
+  limit = {
+    submarine_launched_ballistic_missile = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+    army_base = {
+      default_organisation = 0.1000
+      supply_consumption = 0.1000
+    }
+  }
 }
 lunar_orbit = {
-	limit = {
-		submarine_launched_ballistic_missile = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-		army_base = {
-			default_organisation = 0.1000
-			supply_consumption = 0.1000
-		}
-	}
+  limit = {
+    submarine_launched_ballistic_missile = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+    army_base = {
+      default_organisation = 0.1000
+      supply_consumption = 0.1000
+    }
+  }
 }
 lunar_landing = {
-	limit = {
-		submarine_launched_ballistic_missile = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-		army_base = {
-			default_organisation = 0.1000
-			supply_consumption = 0.1000
-		}
-	}
+  limit = {
+    submarine_launched_ballistic_missile = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+    army_base = {
+      default_organisation = 0.1000
+      supply_consumption = 0.1000
+    }
+  }
 }
 mars_orbit = {
-	limit = {
-		hypersonic_glide_vehicle = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-		army_base = {
-			default_organisation = 0.1000
-			supply_consumption = 0.1000
-		}
-	}
+  limit = {
+    hypersonic_glide_vehicle = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+    army_base = {
+      default_organisation = 0.1000
+      supply_consumption = 0.1000
+    }
+  }
 }
 mars_landing = {
-	limit = {
-		autonomous_uavs = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-		army_base = {
-			default_organisation = 0.1000
-			supply_consumption = 0.1000
-		}
-	}
+  limit = {
+    autonomous_uavs = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+    army_base = {
+      default_organisation = 0.1000
+      supply_consumption = 0.1000
+    }
+  }
 }
 hydrazine_propulsion = {
-	limit = {
-		ww2_command_system = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-		army_base = {
-			default_organisation = 0.1000
-			supply_consumption = 0.1000
-		}
-	}
+  limit = {
+    ww2_command_system = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+    army_base = {
+      default_organisation = 0.1000
+      supply_consumption = 0.1000
+    }
+  }
 }
 lband_navigation_signals = {
-	limit = {
-		ww2_command_system = 1
-	}
-	chance = {
-		base = 2
-	}
-	effect = {
-		army_base = {
-			default_organisation = 0.1000
-		}
-	}
+  limit = {
+    ww2_command_system = 1
+  }
+  chance = {
+    base = 2
+  }
+  effect = {
+    army_base = {
+      default_organisation = 0.1000
+    }
+  }
 }
 block_2_satellites = {
-	limit = {
-		ww2_command_system = 1
-	}
-	chance = {
-		base = 0
-	}
-	effect = {
-		army_base = {
-			reconnaissance = 0.0500
-		}
-	}
+  limit = {
+    ww2_command_system = 1
+  }
+  chance = {
+    base = 0
+  }
+  effect = {
+    army_base = {
+      reconnaissance = 0.0500
+    }
+  }
 }
 civilian_gps = {
-	limit = {
-		ww2_command_system = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-		army_base = {
-			supply_consumption = 0.1000
-		}
-	}
+  limit = {
+    ww2_command_system = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+    army_base = {
+      supply_consumption = 0.1000
+    }
+  }
 }
 selective_availability = {
-	limit = {
-		ww2_command_system = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-		army_base = {
-			supply_consumption = -0.0500
-		}
-	}
+  limit = {
+    ww2_command_system = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+    army_base = {
+      supply_consumption = -0.0500
+    }
+  }
 }
 launch_control_center = {
-	limit = {
-		mobile_air_base = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-		gas_attack = yes
-	}
+  limit = {
+    mobile_air_base = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+    gas_attack = yes
+  }
 }
 inertial_navigation_system = {
-	limit = {
-		mobile_air_base = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-		army_base = {
-			attack = 1
-		}
-	}
+  limit = {
+    mobile_air_base = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+    army_base = {
+      attack = 1
+    }
+  }
 }
 primary_alert_system = {
-	limit = {
-		mobile_air_base = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-		army_base = {
-			default_organisation = 1.5000
-			supply_consumption = 0.1500
-		}
-	}
+  limit = {
+    mobile_air_base = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+    army_base = {
+      default_organisation = 1.5000
+      supply_consumption = 0.1500
+    }
+  }
 }
 SLFCS = {
-	limit = {
-		mobile_air_base = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-		army_base = {
-			supply_consumption = 0.0500
-		}
-	}
+  limit = {
+    mobile_air_base = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+    army_base = {
+      supply_consumption = 0.0500
+    }
+  }
 }
 ground_based_interceptor = {
-	limit = {
-		overseas_naval_base = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-		gas_defence = yes
-	}
+  limit = {
+    overseas_naval_base = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+    gas_defence = yes
+  }
 }
 exoatmospheric_kill_vehicle = {
-	limit = {
-		overseas_naval_base = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-		army_base = {
-			defence = 1
-			supply_consumption = 0.0500
-		}
-	}
+  limit = {
+    overseas_naval_base = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+    army_base = {
+      defence = 1
+      supply_consumption = 0.0500
+    }
+  }
 }
 m_code = {
-	limit = {
-		mobile_offshore_base = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-		army_base = {
-			default_organisation = 0.1000
-			supply_consumption = 0.1000
-		}
-	}
+  limit = {
+    mobile_offshore_base = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+    army_base = {
+      default_organisation = 0.1000
+      supply_consumption = 0.1000
+    }
+  }
 }
 civilian_l1 = {
-	limit = {
-		mobile_offshore_base = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-		core_pop_consciousness_modifier = -0.0100
-	}
+  limit = {
+    mobile_offshore_base = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+    core_pop_consciousness_modifier = -0.0100
+  }
 }
 civilian_l2 = {
-	limit = {
-		mobile_offshore_base = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-		war_exhaustion = -0.0200
-	}
+  limit = {
+    mobile_offshore_base = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+    war_exhaustion = -0.0200
+  }
 }
 retroreflector = {
-	limit = {
-		mobile_offshore_base = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-		army_base = {
-			supply_consumption = 0.0500
-		}
-	}
+  limit = {
+    mobile_offshore_base = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+    army_base = {
+      supply_consumption = 0.0500
+    }
+  }
 }
 HEMTT_load_handling = {
-	limit = {
-		main_operating_base = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-		army_base = {
-			defence = 1
-			supply_consumption = 0.0500
-		}
-	}
+  limit = {
+    main_operating_base = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+    army_base = {
+      defence = 1
+      supply_consumption = 0.0500
+    }
+  }
 }
 x_band_radar = {
-	limit = {
-		main_operating_base = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-		army_base = {
-			default_organisation = 0.1000
-			supply_consumption = 0.1000
-		}
-	}
+  limit = {
+    main_operating_base = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+    army_base = {
+      default_organisation = 0.1000
+      supply_consumption = 0.1000
+    }
+  }
 }
 medium_eads = {
-	limit = {
-		main_operating_base = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-		army_base = {
-			attack = 1
-			defence = 1
-			supply_consumption = 0.0500
-		}
-	}
+  limit = {
+    main_operating_base = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+    army_base = {
+      attack = 1
+      defence = 1
+      supply_consumption = 0.0500
+    }
+  }
 }
 personnel_asgt = {
-	limit = {
-		cold_war_doctrine = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-		infantry = {
-			defence = 0.1000
-		}
-		modern_infantry = {
-			defence = 0.1000
-		}
-		irregular = {
-			defence = 0.1000
-		}
-	}
+  limit = {
+    cold_war_doctrine = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+    infantry = {
+      defence = 0.1000
+    }
+    modern_infantry = {
+      defence = 0.1000
+    }
+    irregular = {
+      defence = 0.1000
+    }
+  }
 }
 paratroopers = {
-	limit = {
-		conscription = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-		irregular = {
-			attack = 0.1000
-		}
-	}
+  limit = {
+    conscription = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+    irregular = {
+      attack = 0.1000
+    }
+  }
 }
 helicpeter_delivery = {
-	limit = {
-		conscription = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-		army_base = {
-			default_organisation = 0.1000
-		}
-	}
+  limit = {
+    conscription = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+    army_base = {
+      default_organisation = 0.1000
+    }
+  }
 }
 counter_guerrilla_warfare = {
-	limit = {
-		fleet_in_being = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-		army_base = {
-			maneuver = 1
-		}
-	}
+  limit = {
+    fleet_in_being = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+    army_base = {
+      maneuver = 1
+    }
+  }
 }
 cordon_and_search = {
-	limit = {
-		fleet_in_being = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-		army_base = {
-			supply_consumption = 0.1000
-		}
-	}
+  limit = {
+    fleet_in_being = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+    army_base = {
+      supply_consumption = 0.1000
+    }
+  }
 }
 population_control = {
-	limit = {
-		fleet_in_being = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-		army_base = {
-			default_organisation = 0.1000
-		}
-	}
+  limit = {
+    fleet_in_being = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+    army_base = {
+      default_organisation = 0.1000
+    }
+  }
 }
 apcs = {
-	limit = {
-		total_war = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-		army_base = {
-			default_organisation = 0.1000
-		}
-	}
+  limit = {
+    total_war = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+    army_base = {
+      default_organisation = 0.1000
+    }
+  }
 }
 infantry_fighting_vehicle = {
-	limit = {
-		total_war = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-		army_base = {
-			maneuver = 1
-		}
-	}
+  limit = {
+    total_war = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+    army_base = {
+      maneuver = 1
+    }
+  }
 }
 rpg7_unit = {
-	limit = {
-		total_war = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-		irregular = {
-			defence = 0.5000
-		}
-	}
+  limit = {
+    total_war = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+    irregular = {
+      defence = 0.5000
+    }
+  }
 }
 commandos = {
-	limit = {
-		air_supremacy = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-		irregular = {
-			defence = 0.5000
-		}
-	}
+  limit = {
+    air_supremacy = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+    irregular = {
+      defence = 0.5000
+    }
+  }
 }
 range_reconnaissance_patrol = {
-	limit = {
-		air_supremacy = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-		infantry = {
-			reconnaissance = 1
-		}
-	}
+  limit = {
+    air_supremacy = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+    infantry = {
+      reconnaissance = 1
+    }
+  }
 }
 modular_olle = {
-	limit = {
-		cold_war_doctrine = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-		army_base = {
-			default_organisation = 0.1000
-		}
-	}
+  limit = {
+    cold_war_doctrine = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+    army_base = {
+      default_organisation = 0.1000
+    }
+  }
 }
 bullpup = {
-	limit = {
-		cold_war_doctrine = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-		army_base = {
-			maneuver = 1
-		}
-	}
+  limit = {
+    cold_war_doctrine = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+    army_base = {
+      maneuver = 1
+    }
+  }
 }
 picatinny_rail = {
-	limit = {
-		cold_war_doctrine = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-		army_base = {
-			supply_consumption = 0.1000
-		}
-	}
+  limit = {
+    cold_war_doctrine = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+    army_base = {
+      supply_consumption = 0.1000
+    }
+  }
 }
 red_dot_sight = {
-	limit = {
-		cold_war_doctrine = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-		infantry = {
-			attack = 0.1000
-		}
-		modern_infantry = {
-			attack = 0.1000
-		}
-		irregular = {
-			attack = 0.1000
-		}
-	}
+  limit = {
+    cold_war_doctrine = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+    infantry = {
+      attack = 0.1000
+    }
+    modern_infantry = {
+      attack = 0.1000
+    }
+    irregular = {
+      attack = 0.1000
+    }
+  }
 }
 second_gen_guidance = {
-	limit = {
-		proxy_war = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-	}
+  limit = {
+    proxy_war = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+  }
 }
 third_gen_guidance = {
-	limit = {
-		proxy_war = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-	}
+  limit = {
+    proxy_war = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+  }
 }
 heat_warhead = {
-	limit = {
-		proxy_war = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-	}
+  limit = {
+    proxy_war = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+  }
 }
 tandem_charge = {
-	limit = {
-		proxy_war = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-	}
+  limit = {
+    proxy_war = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+  }
 }
 interceptor_body_armor = {
-	limit = {
-		green_blue_water_navies = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-		infantry = {
-			defence = 0.2000
-		}
-		modern_infantry = {
-			defence = 0.2000
-		}
-		irregular = {
-			defence = 0.1000
-		}
-	}
+  limit = {
+    green_blue_water_navies = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+    infantry = {
+      defence = 0.2000
+    }
+    modern_infantry = {
+      defence = 0.2000
+    }
+    irregular = {
+      defence = 0.1000
+    }
+  }
 }
 special_reconnaissance = {
-	limit = {
-		green_blue_water_navies = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-		infantry = {
-			reconnaissance = 1
-		}
-	}
+  limit = {
+    green_blue_water_navies = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+    infantry = {
+      reconnaissance = 1
+    }
+  }
 }
 direct_action = {
-	limit = {
-		green_blue_water_navies = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-		infantry = {
-			attack = 1
-		}
-	}
+  limit = {
+    green_blue_water_navies = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+    infantry = {
+      attack = 1
+    }
+  }
 }
 universal_camouflage_pattern = {
-	limit = {
-		green_blue_water_navies = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-		infantry = {
-			supply_consumption = 0.0500
-		}
-		modern_infantry = {
-			supply_consumption = 0.0500
-		}
-		irregular = {
-			supply_consumption = 0.0500
-		}
-	}
+  limit = {
+    green_blue_water_navies = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+    infantry = {
+      supply_consumption = 0.0500
+    }
+    modern_infantry = {
+      supply_consumption = 0.0500
+    }
+    irregular = {
+      supply_consumption = 0.0500
+    }
+  }
 }
 plastic_tipped_bullets = {
-	limit = {
-		power_projection = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-		modern_infantry = {
-			attack = 0.1000
-		}
-	}
+  limit = {
+    power_projection = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+    modern_infantry = {
+      attack = 0.1000
+    }
+  }
 }
 llm01 = {
-	limit = {
-		power_projection = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-		modern_fighter = {
-			reconnaissance = 2
-			attack = 1
-		}
-	}
+  limit = {
+    power_projection = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+    modern_fighter = {
+      reconnaissance = 2
+      attack = 1
+    }
+  }
 }
 caseless_ammunition = {
-	limit = {
-		power_projection = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-		army_base = {
-			supply_consumption = -0.0500
-		}
-	}
+  limit = {
+    power_projection = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+    army_base = {
+      supply_consumption = -0.0500
+    }
+  }
 }
 polymer_cased_ammunition = {
-	limit = {
-		power_projection = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-		army_base = {
-			supply_consumption = -0.0500
-		}
-	}
+  limit = {
+    power_projection = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+    army_base = {
+      supply_consumption = -0.0500
+    }
+  }
 }
 adaptiv = {
-	limit = {
-		salvo_combat_model = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-		cavalry = {
-			defence = 0.5000
-			supply_consumption = 0.0500
-		}
-		modern_fighter = {
-			defence = 1
-			supply_consumption = 0.0500
-		}
-	}
+  limit = {
+    salvo_combat_model = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+    cavalry = {
+      defence = 0.5000
+      supply_consumption = 0.0500
+    }
+    modern_fighter = {
+      defence = 1
+      supply_consumption = 0.0500
+    }
+  }
 }
 phased_array_optics = {
-	limit = {
-		salvo_combat_model = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-		army_base = {
-			defence = 1
-			supply_consumption = 0.0500
-		}
-	}
+  limit = {
+    salvo_combat_model = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+    army_base = {
+      defence = 1
+      supply_consumption = 0.0500
+    }
+  }
 }
 diffused_lighting_camouflage = {
-	limit = {
-		salvo_combat_model = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-		artillery = {
-			defence = 1
-			supply_consumption = 0.0500
-		}
-	}
+  limit = {
+    salvo_combat_model = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+    artillery = {
+      defence = 1
+      supply_consumption = 0.0500
+    }
+  }
 }
 multicam = {
-	limit = {
-		salvo_combat_model = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-		modern_infantry = {
-			defence = 0.1000
-			supply_consumption = 0.0500
-		}
-	}
+  limit = {
+    salvo_combat_model = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+    modern_infantry = {
+      defence = 0.1000
+      supply_consumption = 0.0500
+    }
+  }
 }
 ct2ws = {
-	limit = {
-		network_centric_warfare = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-		morale = 0.1000
-	}
+  limit = {
+    network_centric_warfare = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+    morale = 0.1000
+  }
 }
 intelligent_munitions_system = {
-	limit = {
-		network_centric_warfare = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-		modern_infantry = {
-			attack = 0.1000
-		}
-	}
+  limit = {
+    network_centric_warfare = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+    modern_infantry = {
+      attack = 0.1000
+    }
+  }
 }
 lower_extremity_exoskeleton = {
-	limit = {
-		network_centric_warfare = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-		modern_infantry = {
-			attack = 0.1000
-		}
-	}
+  limit = {
+    network_centric_warfare = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+    modern_infantry = {
+      attack = 0.1000
+    }
+  }
 }
 powered_exoskeleton = {
-	limit = {
-		network_centric_warfare = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-		modern_infantry = {
-			attack = 0.1000
-			defence = 0.1000
-		}
-	}
+  limit = {
+    network_centric_warfare = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+    modern_infantry = {
+      attack = 0.1000
+      defence = 0.1000
+    }
+  }
 }
 power_subsystem = {
-	limit = {
-		network_centric_warfare = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-		modern_infantry = {
-			attack = 0.1000
-			defence = 0.1000
-		}
-	}
+  limit = {
+    network_centric_warfare = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+    modern_infantry = {
+      attack = 0.1000
+      defence = 0.1000
+    }
+  }
 }
 microclimate_cooling_system = {
-	limit = {
-		network_centric_warfare = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-		modern_infantry = {
-			attack = 0.1000
-			defence = 0.1000
-		}
-	}
+  limit = {
+    network_centric_warfare = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+    modern_infantry = {
+      attack = 0.1000
+      defence = 0.1000
+    }
+  }
 }
 wpsm_future = {
-	limit = {
-		network_centric_warfare = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-		modern_infantry = {
-			attack = 0.1000
-			defence = 0.1000
-		}
-	}
+  limit = {
+    network_centric_warfare = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+    modern_infantry = {
+      attack = 0.1000
+      defence = 0.1000
+    }
+  }
 }
 combat_uniform_subsystem = {
-	limit = {
-		network_centric_warfare = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-		mechanized_infantry = {
-			attack = 0.5000
-			defence = 0.5000
-		}
-	}
+  limit = {
+    network_centric_warfare = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+    mechanized_infantry = {
+      attack = 0.5000
+      defence = 0.5000
+    }
+  }
 }
 nett_warrior = {
-	limit = {
-		network_centric_warfare = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-		mechanized_infantry = {
-			attack = 0.5000
-			defence = 0.5000
-		}
-	}
+  limit = {
+    network_centric_warfare = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+    mechanized_infantry = {
+      attack = 0.5000
+      defence = 0.5000
+    }
+  }
 }
 headgear_subsystem = {
-	limit = {
-		network_centric_warfare = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-		mechanized_infantry = {
-			attack = 0.5000
-			defence = 0.5000
-		}
-	}
+  limit = {
+    network_centric_warfare = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+    mechanized_infantry = {
+      attack = 0.5000
+      defence = 0.5000
+    }
+  }
 }
 force_warrior = {
-	limit = {
-		network_centric_warfare = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-	}
+  limit = {
+    network_centric_warfare = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+  }
 }
 t10 = {
-	limit = {
-		torpedo_boat_destroyer = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-		artillery = {
-			attack = 2
-		}
-	}
+  limit = {
+    torpedo_boat_destroyer = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+    artillery = {
+      attack = 2
+    }
+  }
 }
 wire_guided_missiles = {
-	limit = {
-		submarines = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-		artillery = {
-			defence = -1
-		}
-	}
+  limit = {
+    submarines = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+    artillery = {
+      defence = -1
+    }
+  }
 }
 highexplosive_antitank_warhead = {
-	limit = {
-		submarines = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-		artillery = {
-			defence = -1
-		}
-	}
+  limit = {
+    submarines = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+    artillery = {
+      defence = -1
+    }
+  }
 }
 explosive_reactive_armour = {
-	limit = {
-		anti_submarine_warfare = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-		artillery = {
-			defence = 1
-			supply_consumption = 0.0500
-		}
-	}
+  limit = {
+    anti_submarine_warfare = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+    artillery = {
+      defence = 1
+      supply_consumption = 0.0500
+    }
+  }
 }
 ceramic_armor = {
-	limit = {
-		anti_submarine_warfare = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-		artillery = {
-			supply_consumption = 0.0500
-		}
-	}
+  limit = {
+    anti_submarine_warfare = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+    artillery = {
+      supply_consumption = 0.0500
+    }
+  }
 }
 mech_prototypes = {
-	limit = {
-		mutlirole_corvettes = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-		artillery = {
-			supply_consumption = -0.0500
-		}
-	}
+  limit = {
+    mutlirole_corvettes = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+    artillery = {
+      supply_consumption = -0.0500
+    }
+  }
 }
 laser_guided_munition = {
-	limit = {
-		tanks = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-		bomber = {
-			reconnaissance = 0.5000
-		}
-		cavalry = {
-			reconnaissance = 0.5000
-		}
-		modern_fighter = {
-			reconnaissance = 0.5000
-		}
-	}
+  limit = {
+    tanks = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+    bomber = {
+      reconnaissance = 0.5000
+    }
+    cavalry = {
+      reconnaissance = 0.5000
+    }
+    modern_fighter = {
+      reconnaissance = 0.5000
+    }
+  }
 }
 supercruise = {
-	limit = {
-		lightweight_small_arms = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-		bomber = {
-			maneuver = 1
-		}
-		modern_fighter = {
-			maneuver = 1
-		}
-	}
+  limit = {
+    lightweight_small_arms = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+    bomber = {
+      maneuver = 1
+    }
+    modern_fighter = {
+      maneuver = 1
+    }
+  }
 }
 JDAM_smart_bomb_kit = {
-	limit = {
-		special_forces = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-		bomber = {
-			reconnaissance = 0.5000
-		}
-	}
+  limit = {
+    special_forces = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+    bomber = {
+      reconnaissance = 0.5000
+    }
+  }
 }
 autonomous_drones = {
-	limit = {
-		apcs = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-		tactical_drone = {
-			maneuver = 1
-		}
-	}
+  limit = {
+    apcs = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+    tactical_drone = {
+      maneuver = 1
+    }
+  }
 }
 advanced_drone_ai = {
-	limit = {
-		man_portable_uavs = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-		tactical_drone = {
-			support = 0.5000
-		}
-	}
+  limit = {
+    man_portable_uavs = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+    tactical_drone = {
+      support = 0.5000
+    }
+  }
 }
 hypercruise = {
-	limit = {
-		man_portable_uavs = 1
-	}
-	chance = {
-		base = 1
-	}
-	effect = {
-		modern_fighter = {
-			maneuver = 1
-		}
-	}
+  limit = {
+    man_portable_uavs = 1
+  }
+  chance = {
+    base = 1
+  }
+  effect = {
+    modern_fighter = {
+      maneuver = 1
+    }
+  }
 }

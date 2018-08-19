@@ -6,38 +6,38 @@ life_rating = 34
 terrain = urban_baku
 colonial = 0
 state_building = {
-	level = 1
-	building = petrochemicals_factory
-	upgrade = yes
+  level = 1
+  building = petrochemicals_factory
+  upgrade = yes
 }
 state_building = {
-	level = 1
-	building = fertilizers_factory
-	upgrade = yes
+  level = 1
+  building = fertilizers_factory
+  upgrade = yes
 }
 state_building = {
-	level = 1
-	building = trucks_vans_factory
-	upgrade = yes
+  level = 1
+  building = trucks_vans_factory
+  upgrade = yes
 }
 state_building = {
-	level = 1
-	building = rubber_factory
-	upgrade = yes
+  level = 1
+  building = rubber_factory
+  upgrade = yes
 }
 1992.1.1 = {
-owner = AZB
-controller = AZB
-add_core = AZB
-colonial = 0
-state_building = {
-	level = 1
-	building = petroleum_plastics_factory
-	upgrade = yes
-}
-state_building = {
-	level = 1
-	building = petrochemicals_factory
-	upgrade = yes
-}
+  owner = AZB
+  controller = AZB
+  add_core = AZB
+  colonial = 0
+  state_building = {
+    level = 1
+    building = petroleum_plastics_factory
+    upgrade = yes
+  }
+  state_building = {
+    level = 1
+    building = petrochemicals_factory
+    upgrade = yes
+  }
 }

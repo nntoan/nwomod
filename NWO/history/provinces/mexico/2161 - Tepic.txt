@@ -6,9 +6,9 @@ life_rating = 37
 terrain = dry_forest_mountains
 colonial = 0
 1992.1.1 = {
-owner = MEX
-controller = MEX
-add_core = MEX
-railroad = 1
-colonial = 0
+  owner = MEX
+  controller = MEX
+  add_core = MEX
+  railroad = 1
+  colonial = 0
 }

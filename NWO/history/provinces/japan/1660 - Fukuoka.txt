@@ -6,39 +6,39 @@ life_rating = 23
 terrain = good_farmland
 colonial = 0
 state_building = {
-	level = 1
-	building = cement_factory
-	upgrade = yes
+  level = 1
+  building = cement_factory
+  upgrade = yes
 }
 state_building = {
-	level = 1
-	building = petrochemicals_factory
-	upgrade = yes
+  level = 1
+  building = petrochemicals_factory
+  upgrade = yes
 }
 1992.1.1 = {
-owner = JAP
-controller = JAP
-add_core = JAP
-railroad = 2
-colonial = 0
-state_building = {
-	level = 1
-	building = heating_electricity_factory
-	upgrade = yes
-}
-state_building = {
-	level = 1
-	building = electric_gear_factory
-	upgrade = yes
-}
-state_building = {
-	level = 1
-	building = modern_beverages_factory
-	upgrade = yes
-}
-state_building = {
-	level = 1
-	building = ships_factory
-	upgrade = yes
-}
+  owner = JAP
+  controller = JAP
+  add_core = JAP
+  railroad = 2
+  colonial = 0
+  state_building = {
+    level = 1
+    building = heating_electricity_factory
+    upgrade = yes
+  }
+  state_building = {
+    level = 1
+    building = electric_gear_factory
+    upgrade = yes
+  }
+  state_building = {
+    level = 1
+    building = modern_beverages_factory
+    upgrade = yes
+  }
+  state_building = {
+    level = 1
+    building = ships_factory
+    upgrade = yes
+  }
 }

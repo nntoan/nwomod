@@ -2,120 +2,120 @@ graphical_culture = Generic
 color = { 0 0 255 }
 proletarian_dictatorship = { 255 0 0 }
 party = {
-		name = "party_conservative_0_CUB"
-		citizenship_policy = limited_citizenship
-		economic_policy = interventionism
-		ideology = conservative
-		religious_policy = secularized
-		trade_policy = free_trade
-		war_policy = pro_military
-		start_date = 1836.1.1
-		end_date = 2300.1.1
+  name = "party_conservative_0_CUB"
+  citizenship_policy = limited_citizenship
+  economic_policy = interventionism
+  ideology = conservative
+  religious_policy = secularized
+  trade_policy = free_trade
+  war_policy = pro_military
+  start_date = 1836.1.1
+  end_date = 2300.1.1
 }
 party = {
-		name = "party_liberal_0_CUB"
-		citizenship_policy = full_citizenship
-		economic_policy = laissez_faire
-		ideology = liberal
-		religious_policy = secularized
-		trade_policy = free_trade
-		war_policy = pacifism
-		start_date = 1836.1.1
-		end_date = 2300.1.1
+  name = "party_liberal_0_CUB"
+  citizenship_policy = full_citizenship
+  economic_policy = laissez_faire
+  ideology = liberal
+  religious_policy = secularized
+  trade_policy = free_trade
+  war_policy = pacifism
+  start_date = 1836.1.1
+  end_date = 2300.1.1
 }
 party = {
-		name = "party_socialist_0_CUB"
-		citizenship_policy = limited_citizenship
-		economic_policy = state_capitalism
-		ideology = socialist
-		religious_policy = pro_atheism
-		trade_policy = protectionism
-		war_policy = pro_military
-		start_date = 1836.1.1
-		end_date = 2300.1.1
+  name = "party_socialist_0_CUB"
+  citizenship_policy = limited_citizenship
+  economic_policy = state_capitalism
+  ideology = socialist
+  religious_policy = pro_atheism
+  trade_policy = protectionism
+  war_policy = pro_military
+  start_date = 1836.1.1
+  end_date = 2300.1.1
 }
 party = {
-		name = "party_progressive_0_CUB"
-		citizenship_policy = full_citizenship
-		economic_policy = interventionism
-		ideology = progressive
-		religious_policy = pro_atheism
-		trade_policy = protectionism
-		war_policy = pacifism
-		start_date = 1836.1.1
-		end_date = 2300.1.1
+  name = "party_progressive_0_CUB"
+  citizenship_policy = full_citizenship
+  economic_policy = interventionism
+  ideology = progressive
+  religious_policy = pro_atheism
+  trade_policy = protectionism
+  war_policy = pacifism
+  start_date = 1836.1.1
+  end_date = 2300.1.1
 }
 party = {
-		name = "party_populist_0_CUB"
-		citizenship_policy = residency
-		economic_policy = state_capitalism
-		ideology = populist
-		religious_policy = secularized
-		trade_policy = protectionism
-		war_policy = jingoism
-		start_date = 1836.1.1
-		end_date = 2300.1.1
+  name = "party_populist_0_CUB"
+  citizenship_policy = residency
+  economic_policy = state_capitalism
+  ideology = populist
+  religious_policy = secularized
+  trade_policy = protectionism
+  war_policy = jingoism
+  start_date = 1836.1.1
+  end_date = 2300.1.1
 }
 party = {
-		name = "party_traditionalist_0_CUB"
-		citizenship_policy = residency
-		economic_policy = state_capitalism
-		ideology = traditionalist
-		religious_policy = moralism
-		trade_policy = protectionism
-		war_policy = pro_military
-		start_date = 1836.1.1
-		end_date = 2300.1.1
+  name = "party_traditionalist_0_CUB"
+  citizenship_policy = residency
+  economic_policy = state_capitalism
+  ideology = traditionalist
+  religious_policy = moralism
+  trade_policy = protectionism
+  war_policy = pro_military
+  start_date = 1836.1.1
+  end_date = 2300.1.1
 }
 party = {
-		name = "party_communist_0_CUB"
-		citizenship_policy = full_citizenship
-		economic_policy = planned_economy
-		ideology = communist
-		religious_policy = pro_atheism
-		trade_policy = protectionism
-		war_policy = pro_military
-		start_date = 1836.1.1
-		end_date = 2300.1.1
+  name = "party_communist_0_CUB"
+  citizenship_policy = full_citizenship
+  economic_policy = planned_economy
+  ideology = communist
+  religious_policy = pro_atheism
+  trade_policy = protectionism
+  war_policy = pro_military
+  start_date = 1836.1.1
+  end_date = 2300.1.1
 }
 party = {
-		name = "party_nationalist"
-		citizenship_policy = full_citizenship
-		economic_policy = planned_economy
-		ideology = nationalist
-		religious_policy = secularized
-		trade_policy = protectionism
-		war_policy = pro_military
-		start_date = 1836.1.1
-		end_date = 2300.1.1
+  name = "party_nationalist"
+  citizenship_policy = full_citizenship
+  economic_policy = planned_economy
+  ideology = nationalist
+  religious_policy = secularized
+  trade_policy = protectionism
+  war_policy = pro_military
+  start_date = 1836.1.1
+  end_date = 2300.1.1
 }
 unit_names = {
-	carrier = {
-		"Antonio Maceo" "Bartolomó Masó" "Carlos M. de Cóspedes" "Carlos Roloff" "Hóroes de Cuba" "Josó Martó" "Móximo Gómez" "Salvador Cisneros" "Serafón Sónchez" "Tomós Estrada"
-	}
-	transportship = {
-		Ambición Baltasar Caoba Cocodrilo Coral Defensora Deseada Estrella Ferminia Garza Gaspar Grande Mambi Manzanillo Melchor Perla "San Josó" "Santa Maróa" Teca Tocororo
-	}
-	modern_frigate = {
-		Agramonte Araóa "Diez de Octubre" Guaimaro Habana Matanzas "Pilar del Róo" Taróntula "Veinticuatro de Febrero" Yara
-	}
-	cruiser = {
-		Caribe Cuba Florida Guajiro "Isla Fernandina" "Isla Juana" "Josó Antonio Aponte" "Joya del Caribe" "Nicolós Morales" Patria
-	}
-	modern_cruiser = {
-		"Antonio Maceo" "Bartolomó Masó" "Carlos M. de Cóspedes" "Carlos Roloff" "Hóroes de Cuba" "Josó Martó" "Móximo Gómez" "Salvador Cisneros" "Serafón Sónchez" "Tomós Estrada"
-	}
-	frigate = {
-		"Calixto Garcóa" Constitución "Fólix Varela" "Grito de Yara" Independencia "Joaquón Infante" "Josó F. Lemus" "Josó Mó Heredia" Libertad Repóblica
-	}
-	modern_destroyer = {
-		Baconao Buenavista Cauto "Diego Velózquez" "Isla de Pinos" Móximo "Sierra Cristal" "Sierra del Rosario" Toa Turquino
-	}
-	destroyer = {
-		Alósio "Estrella de los Mares" Guerrera "San Carlos" "San Fernando" "San Juan" Santiago Valentóa Ventura Victoria
-	}
-	submarine = {
-		Camagóey Cienfuegos Guantónamo Jópiter Marte Neptuno Plutón "Santa Clara" "Santiago de Cuba" Vulcano
-	}
+  carrier = {
+    "Antonio Maceo" "Bartolomï¿½ Masï¿½" "Carlos M. de Cï¿½spedes" "Carlos Roloff" "Hï¿½roes de Cuba" "Josï¿½ Martï¿½" "Mï¿½ximo Gï¿½mez" "Salvador Cisneros" "Serafï¿½n Sï¿½nchez" "Tomï¿½s Estrada"
+  }
+  transportship = {
+    Ambiciï¿½n Baltasar Caoba Cocodrilo Coral Defensora Deseada Estrella Ferminia Garza Gaspar Grande Mambi Manzanillo Melchor Perla "San Josï¿½" "Santa Marï¿½a" Teca Tocororo
+  }
+  modern_frigate = {
+    Agramonte Araï¿½a "Diez de Octubre" Guaimaro Habana Matanzas "Pilar del Rï¿½o" Tarï¿½ntula "Veinticuatro de Febrero" Yara
+  }
+  cruiser = {
+    Caribe Cuba Florida Guajiro "Isla Fernandina" "Isla Juana" "Josï¿½ Antonio Aponte" "Joya del Caribe" "Nicolï¿½s Morales" Patria
+  }
+  modern_cruiser = {
+    "Antonio Maceo" "Bartolomï¿½ Masï¿½" "Carlos M. de Cï¿½spedes" "Carlos Roloff" "Hï¿½roes de Cuba" "Josï¿½ Martï¿½" "Mï¿½ximo Gï¿½mez" "Salvador Cisneros" "Serafï¿½n Sï¿½nchez" "Tomï¿½s Estrada"
+  }
+  frigate = {
+    "Calixto Garcï¿½a" Constituciï¿½n "Fï¿½lix Varela" "Grito de Yara" Independencia "Joaquï¿½n Infante" "Josï¿½ F. Lemus" "Josï¿½ Mï¿½ Heredia" Libertad Repï¿½blica
+  }
+  modern_destroyer = {
+    Baconao Buenavista Cauto "Diego Velï¿½zquez" "Isla de Pinos" Mï¿½ximo "Sierra Cristal" "Sierra del Rosario" Toa Turquino
+  }
+  destroyer = {
+    Alï¿½sio "Estrella de los Mares" Guerrera "San Carlos" "San Fernando" "San Juan" Santiago Valentï¿½a Ventura Victoria
+  }
+  submarine = {
+    Camagï¿½ey Cienfuegos Guantï¿½namo Jï¿½piter Marte Neptuno Plutï¿½n "Santa Clara" "Santiago de Cuba" Vulcano
+  }
 
 }

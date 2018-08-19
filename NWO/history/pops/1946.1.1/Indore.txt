@@ -1,23 +1,23 @@
 #Indore - Madhya Pradesh (6931000/1732750 POPS)
 1271 = {
-	clergymen = {
-		culture = indian
-		religion =  hindu 
-		size = 33875
-	 } 
-	clergymen = {
-		culture = indian
-		religion = secularism
-		size = 779
-	 } 
-	farmers = {
-		culture = indian
-		religion =  hindu 
-		size = 849047
-	 } 
-	farmers = {
-		culture = indian
-		religion = secularism
-		size = 849047
-	 } 
+  clergymen = {
+    culture = indian
+    religion =  hindu
+    size = 33875
+  }
+  clergymen = {
+    culture = indian
+    religion = secularism
+    size = 779
+  }
+  farmers = {
+    culture = indian
+    religion =  hindu
+    size = 849047
+  }
+  farmers = {
+    culture = indian
+    religion = secularism
+    size = 849047
+  }
 }
